@@ -279,7 +279,8 @@ async function analyzeViaWorker(kw) {
     `<div class="sr-loading">네이버에서 분석 중…</div>`;
   const myId = ++analyzeReqId;
   try {
-    const r = await fetch(WORKER_URL + "/?q=" + encodeURIComponent(kw));
+    const bucket = Math.floor(Date.now() / 300000); // 5분 단위 캐시 버킷
+    const r = await fetch(WORKER_URL + "/?q=" + encodeURIComponent(kw) + "&t=" + bucket);
     const data = await r.json();
     if (myId !== analyzeReqId) return;
     if (!r.ok || data.error) throw new Error(data.error || ("HTTP " + r.status));
