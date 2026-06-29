@@ -19,7 +19,7 @@ const OUT_PATH = join(__dirname, "..", "data", "data.json");
 
 const CLIENT_ID = process.env.NAVER_CLIENT_ID;
 const CLIENT_SECRET = process.env.NAVER_CLIENT_SECRET;
-const MAX_KEYWORDS = Number(process.env.MAX_KEYWORDS || 8);
+const MAX_KEYWORDS = Number(process.env.MAX_KEYWORDS || 100);
 
 // 구글 트렌드가 막혔을 때 쓰는 예비 키워드
 const FALLBACK_KEYWORDS = [

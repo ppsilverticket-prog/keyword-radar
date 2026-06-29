@@ -1,8 +1,13 @@
 // assets/app.js
-// data/data.json 을 읽어 카드로 렌더링하고 10분마다 자동 갱신한다.
+// data/data.json 을 읽어 카드로 렌더링하고 30분마다 자동 갱신한다.
+// 검색 필터 + 정렬 지원.
 
-const REFRESH_MS = 10 * 60 * 1000; // 10분
+const REFRESH_MS = 30 * 60 * 1000; // 30분
 let nextRefreshAt = Date.now() + REFRESH_MS;
+
+let allKeywords = [];   // 원본 데이터
+let term = "";          // 검색어
+let sortKey = "today";  // 정렬 기준
 
 const $ = (id) => document.getElementById(id);
 
@@ -62,7 +67,7 @@ function cardHtml(k) {
       <div class="card-head">
         <div class="rank ${topRank}">${k.rank}</div>
         <div class="kw"><a href="${naverUrl(k.keyword)}" target="_blank" rel="noopener">${escapeHtml(k.keyword)}</a></div>
-        ${k.traffic ? `<div class="traffic">검색량 ${escapeHtml(k.traffic)}</div>` : ""}
+        ${k.traffic ? `<div class="traffic">${escapeHtml(k.traffic)}</div>` : ""}
       </div>
 
       <div class="metrics">
@@ -96,6 +101,40 @@ function cardHtml(k) {
     </article>`;
 }
 
+function sortFns(key) {
+  switch (key) {
+    case "blog": return (a, b) => (b.blogTotal || 0) - (a.blogTotal || 0);
+    case "news": return (a, b) => (b.newsTotal || 0) - (a.newsTotal || 0);
+    case "name": return (a, b) => a.keyword.localeCompare(b.keyword, "ko");
+    case "today":
+    default: return (a, b) => (b.recentToday || 0) - (a.recentToday || 0);
+  }
+}
+
+function render() {
+  const cards = $("cards");
+  const emptyState = $("emptyState");
+
+  let list = allKeywords;
+  if (term) {
+    const t = term.toLowerCase();
+    list = list.filter((k) => k.keyword.toLowerCase().includes(t));
+  }
+  list = list.slice().sort(sortFns(sortKey));
+
+  $("count").innerHTML =
+    `<strong>${list.length}</strong>개 키워드` +
+    (term && allKeywords.length !== list.length ? ` / 전체 ${allKeywords.length}` : "");
+
+  if (!list.length) {
+    cards.innerHTML = "";
+    emptyState.hidden = false;
+  } else {
+    emptyState.hidden = true;
+    cards.innerHTML = list.map(cardHtml).join("");
+  }
+}
+
 async function load() {
   const errEl = $("error");
   errEl.hidden = true;
@@ -115,12 +154,8 @@ async function load() {
       badge.className = "badge demo";
     }
 
-    const cards = $("cards");
-    if (!data.keywords || !data.keywords.length) {
-      cards.innerHTML = '<div class="empty">표시할 키워드가 없습니다.</div>';
-    } else {
-      cards.innerHTML = data.keywords.map(cardHtml).join("");
-    }
+    allKeywords = Array.isArray(data.keywords) ? data.keywords : [];
+    render();
   } catch (e) {
     errEl.hidden = false;
     errEl.textContent = "⚠️ " + e.message +
@@ -136,7 +171,17 @@ function tickCountdown() {
   $("countdown").textContent = `${m}분 ${String(s).padStart(2, "0")}초`;
 }
 
+// 검색 입력 (디바운스)
+let searchTimer;
+$("searchInput").addEventListener("input", (e) => {
+  clearTimeout(searchTimer);
+  const v = e.target.value;
+  searchTimer = setTimeout(() => { term = v.trim(); render(); }, 120);
+});
+
+$("sortSelect").addEventListener("change", (e) => { sortKey = e.target.value; render(); });
 $("refreshBtn").addEventListener("click", load);
+
 setInterval(load, REFRESH_MS);
 setInterval(tickCountdown, 1000);
 load();

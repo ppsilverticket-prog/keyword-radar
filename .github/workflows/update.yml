@@ -1,9 +1,9 @@
 name: 키워드 데이터 갱신
 
-# 10분마다 + 수동 실행 가능
+# 30분마다 + 수동 실행 가능
 on:
   schedule:
-    - cron: "*/10 * * * *"
+    - cron: "*/30 * * * *"
   workflow_dispatch:
 
 # data.json 커밋을 위해 쓰기 권한 필요
@@ -31,7 +31,7 @@ jobs:
         env:
           NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
           NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
-          MAX_KEYWORDS: "8"
+          MAX_KEYWORDS: "100"
         run: node scripts/fetch.mjs
 
       - name: data.json 커밋
