@@ -1,12 +1,85 @@
 {
-  "updatedAt": "2026-06-29T04:34:15.845Z",
+  "updatedAt": "2026-06-29T04:47:16.405Z",
   "source": "live",
   "keywords": [
     {
+      "keyword": "자동차산업",
+      "traffic": "100+",
+      "blogTotal": 448794,
+      "newsTotal": 670786,
+      "recentToday": 100,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "유럽 자동차 산업, 지금 대변혁의 한가운데 있습니다!",
+          "link": "https://blog.naver.com/kiat_tech/224312506923",
+          "blogger": "한국산업기술진흥원 블로그",
+          "date": "2026-06-11"
+        },
+        {
+          "title": "지식343 테슬라가 자동차 산업 판을 바꾸는 진짜 방식 | 이미...",
+          "link": "https://blog.naver.com/daishin_blog/224286423138",
+          "blogger": "대신증권 공식 블로그",
+          "date": "2026-05-15"
+        },
+        {
+          "title": "글로벌 자동차산업, '판매 둔화 속 전략 재편'이 시작됐다",
+          "link": "https://blog.naver.com/bradshin_798/224327802519",
+          "blogger": "튜브(Tube)의 자동차/사회이슈/여행/문화/맛집이야기",
+          "date": "2026-06-26"
+        },
+        {
+          "title": "‘공동 산업망 구축’으로 중한 자동차 산업 협력의 새로운...",
+          "link": "https://blog.naver.com/touchchina/224255808740",
+          "blogger": "중국을 보는 창",
+          "date": "2026-04-23"
+        },
+        {
+          "title": "『중국이 세계 자동차 산업의 중심이 되었다』 - 중국 내 외국...",
+          "link": "https://blog.naver.com/hong8706/224299746866",
+          "blogger": "시장을 보는 눈",
+          "date": "2026-05-29"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "SQDA 모터스, 미래 모빌리티 인재 양성…한국폴리텍Ⅰ대학과 산학협력",
+          "link": "https://www.asiatime.co.kr/article/20260629500191",
+          "press": "",
+          "date": "2026-06-29"
+        },
+        {
+          "title": "KAIST, 제18대 총장에 배충식 교수 선임",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47158",
+          "press": "",
+          "date": "2026-06-29"
+        },
+        {
+          "title": "KAIST, 18대 총장에 배충식 기계공학과 교수 선임",
+          "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2284465",
+          "press": "",
+          "date": "2026-06-29"
+        },
+        {
+          "title": "중소기업 경기 전망 다시 꺾였다…대구경북 제조업 \"하반기 더 어렵다\"",
+          "link": "https://www.idaegu.com/news/articleView.html?idxno=663934",
+          "press": "",
+          "date": "2026-06-29"
+        },
+        {
+          "title": "KAIST, 제18대 총장에 배충식 교수 선임",
+          "link": "http://www.dtnews24.com/news/articleView.html?idxno=812769",
+          "press": "",
+          "date": "2026-06-29"
+        }
+      ],
+      "rank": 1
+    },
+    {
       "keyword": "아파트",
       "traffic": "10000+",
-      "blogTotal": 36887734,
-      "newsTotal": 5480412,
+      "blogTotal": 36887695,
+      "newsTotal": 5480426,
       "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
@@ -43,43 +116,43 @@
       ],
       "topNews": [
         {
-          "title": "인천 연수구, 지방자치단체 ESG 평가 인천권역 대상…지속가능 행정 성...",
-          "link": "https://www.m-i.kr/news/articleView.html?idxno=1386171",
+          "title": "롯데건설 '청담 르엘' 보류지, 공개경쟁입찰 돌입",
+          "link": "http://www.popcornnews.net/news/articleView.html?idxno=125045",
           "press": "",
           "date": "2026-06-29"
         },
         {
-          "title": "지성·박병은, 주차 빌런 참교육 현장 포착 (아파트)",
-          "link": "https://sports.donga.com/ent/article/all/20260629/134200878/1",
+          "title": "BS한양 ‘밀양 수자인 더퍼스트 1,2단지’ 특별공급 시작",
+          "link": "http://www.fnnews.com/news/202606291338336121",
           "press": "",
           "date": "2026-06-29"
         },
         {
-          "title": "부동산114 \"르엘, 하이엔드 아파트 브랜드 선호도 1위\"",
-          "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4422342",
+          "title": "“너마저 뛰면 어쩌라고”…비싼 아파트 대신 수요 몰리자 ‘이것’도...",
+          "link": "https://www.mk.co.kr/article/12085556",
           "press": "",
           "date": "2026-06-29"
         },
         {
-          "title": "대우건설, 아파트도 '문화를 소비하는 공간'으로…써밋 입주민 라이프스...",
-          "link": "https://www.e-science.co.kr/news/articleView.html?idxno=131125",
+          "title": "야구장에 울린 감사… 대구보훈청, ‘제복영웅’ 동행무대",
+          "link": "https://view.asiae.co.kr/article/2026062913383313218",
           "press": "",
           "date": "2026-06-29"
         },
         {
-          "title": "“이제 관장 아닙니다”...양치승, 강남역 샌드위치 사장님 변신",
-          "link": "https://www.sportsseoul.com/news/read/1619492?ref=naver",
+          "title": "'분양 성수기' 7월, 전국 아파트 2만9671가구 쏟아진다... 지난해 같은 ...",
+          "link": "https://www.insight.co.kr/news/560615",
           "press": "",
           "date": "2026-06-29"
         }
       ],
-      "rank": 1
+      "rank": 2
     },
     {
       "keyword": "kc",
       "traffic": "200+",
-      "blogTotal": 1192969,
-      "newsTotal": 97370,
+      "blogTotal": 1192974,
+      "newsTotal": 97371,
       "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
@@ -116,6 +189,12 @@
       ],
       "topNews": [
         {
+          "title": "[MSI] 2세트 위기 넘긴 T1, 최종 진출전에 한 세트 남겨",
+          "link": "https://www.fomos.kr/redirect/news_view?news_cate_id=39&entry_id=154141",
+          "press": "",
+          "date": "2026-06-29"
+        },
+        {
           "title": "더 리아, 멀티 스킨 디바이스 '부스터샷' 출시",
           "link": "http://www.sisunnews.co.kr/news/articleView.html?idxno=241463",
           "press": "",
@@ -138,21 +217,15 @@
           "link": "https://www.inven.co.kr/webzine/news/?news=317907",
           "press": "",
           "date": "2026-06-29"
-        },
-        {
-          "title": "[MSI] 하프 코트 게임 보인 T1, KC에 1세트 승리",
-          "link": "https://www.fomos.kr/redirect/news_view?news_cate_id=39&entry_id=154140",
-          "press": "",
-          "date": "2026-06-29"
         }
       ],
-      "rank": 2
+      "rank": 3
     },
     {
       "keyword": "연휴",
       "traffic": "2000+",
-      "blogTotal": 10043804,
-      "newsTotal": 2263797,
+      "blogTotal": 10043822,
+      "newsTotal": 2263800,
       "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
@@ -189,6 +262,24 @@
       ],
       "topNews": [
         {
+          "title": "[위클리오늘] 인제군, 원통‧상남 야외 물놀이장 운영",
+          "link": "http://www.weeklytoday.com/news/articleView.html?idxno=782341",
+          "press": "",
+          "date": "2026-06-29"
+        },
+        {
+          "title": "경륜·경정, 하반기 레이스 돌입… 연휴 특별운영·그랑프리 ‘풍성’",
+          "link": "https://www.kyeonggi.com/article/20260629580200",
+          "press": "",
+          "date": "2026-06-29"
+        },
+        {
+          "title": "2027년, '쉬는 날' 올해보다 하루 늘어난 119일…설 연휴 4일 쉰다",
+          "link": "http://www.sisunnews.co.kr/news/articleView.html?idxno=241459",
+          "press": "",
+          "date": "2026-06-29"
+        },
+        {
           "title": "내년 직장인 119일 쉰다…3일 이상 ‘황금 연휴’는 10번",
           "link": "https://www.chosun.com/economy/science/2026/06/29/XOAPIZY43FBPTGJQDIFDFHZRFQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
           "press": "",
@@ -199,33 +290,15 @@
           "link": "https://www.ilyosisa.co.kr/news/article.html?no=256659",
           "press": "",
           "date": "2026-06-29"
-        },
-        {
-          "title": "2027년 직장인 실질 휴일 119일… 올해보다 하루 늘어난다",
-          "link": "https://www.ibabynews.com/news/articleView.html?idxno=152428",
-          "press": "",
-          "date": "2026-06-29"
-        },
-        {
-          "title": "올 여름 정말 괜찮은 물놀이장 ‘여기어때’…인제 베스트3",
-          "link": "https://www.kukinews.com/article/view/kuk202606290086",
-          "press": "",
-          "date": "2026-06-29"
-        },
-        {
-          "title": "2027년 휴일은 119일… 3일 이상 연휴 10번, 설에는 나흘 쉰다",
-          "link": "https://www.womennews.co.kr/news/articleView.html?idxno=279316",
-          "press": "",
-          "date": "2026-06-29"
         }
       ],
-      "rank": 3
+      "rank": 4
     },
     {
       "keyword": "삼성라이온즈",
       "traffic": "100+",
-      "blogTotal": 325535,
-      "newsTotal": 795634,
+      "blogTotal": 325530,
+      "newsTotal": 795638,
       "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
@@ -262,105 +335,32 @@
       ],
       "topNews": [
         {
+          "title": "야구장에 울린 감사… 대구보훈청, ‘제복영웅’ 동행무대",
+          "link": "https://view.asiae.co.kr/article/2026062913383313218",
+          "press": "",
+          "date": "2026-06-29"
+        },
+        {
+          "title": "2주전 꼴찌서 '12경기서 9승' 롯데 약진에 중위권 혼전[프로야구 인사이...",
+          "link": "https://www.news1.kr/sports/baseball/6211386",
+          "press": "",
+          "date": "2026-06-29"
+        },
+        {
+          "title": "[프로야구 전망대] '내친 김에 1위까지?' 2위 오른 삼성 라이온즈, 선두...",
+          "link": "https://www.imaeil.com/page/view/2026062910042147768",
+          "press": "",
+          "date": "2026-06-29"
+        },
+        {
+          "title": "3연패 늪에 빠진 KT 위즈, 한화 이글스 상대로 반등 노린다",
+          "link": "https://www.kgnews.co.kr/news/article.html?no=901874",
+          "press": "",
+          "date": "2026-06-29"
+        },
+        {
           "title": "4연패 SSG, 광주·문학 6연전이 분수령…상위권 KIA·삼성과 연속 격돌",
           "link": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3027314",
-          "press": "",
-          "date": "2026-06-29"
-        },
-        {
-          "title": "[굿모닝위즈·76] 그땐 그랬다",
-          "link": "https://www.kyeongin.com/article/1766353",
-          "press": "",
-          "date": "2026-06-29"
-        },
-        {
-          "title": "[공식 발표]두산 카메론 방출, 새 외국인 타자 답은 삼성에 있다?...위즈...",
-          "link": "https://mhnse.com/news/articleView.html?idxno=1446326",
-          "press": "",
-          "date": "2026-06-29"
-        },
-        {
-          "title": "'팀 내 2위' 카메론 방출에 팬들은 왜 '78억 1루수' 부진 성토하나…'커...",
-          "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553331814",
-          "press": "",
-          "date": "2026-06-29"
-        },
-        {
-          "title": "류현진, 한미 통산 2500 탈삼진에 단 한 개… 한국 투수 프로 최초",
-          "link": "https://www.newscj.com/news/articleView.html?idxno=3412789",
-          "press": "",
-          "date": "2026-06-29"
-        }
-      ],
-      "rank": 4
-    },
-    {
-      "keyword": "땅",
-      "traffic": "5000+",
-      "blogTotal": 17252308,
-      "newsTotal": 2387590,
-      "recentToday": 100,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "광주광역시 로드킬, 죽은동물 신고 길고양이 땅에 묻어줘도될까?",
-          "link": "https://blog.naver.com/wnaldud3255/224329024960",
-          "blogger": "은서차니맘의 여행육아기록",
-          "date": "2026-06-27"
-        },
-        {
-          "title": "좋은 여주땅, 하천부지도 추가사용중인 땅넓은 대신면부동산급매",
-          "link": "https://blog.naver.com/dony7471/224328881247",
-          "blogger": "여주부동산 여주전원주택 가보공인",
-          "date": "2026-06-27"
-        },
-        {
-          "title": "수십억\", 홍명보 재산 총정리, 연봉부터 분당 땅까지 한눈에",
-          "link": "https://blog.naver.com/flythfk2/224328708396",
-          "blogger": "마케팅 브랜딩 전문가 새벽리더",
-          "date": "2026-06-27"
-        },
-        {
-          "title": "이강인은 분하면 땅을 친다 내가 그 심정을 알 것 같다",
-          "link": "https://blog.naver.com/there_is_something/224329898048",
-          "blogger": "There is something",
-          "date": "2026-06-28"
-        },
-        {
-          "title": "다낭 바나 힐, 요정들의 땅(Fairyland of Ba Na Hills)...",
-          "link": "https://blog.naver.com/lionksk/224326577466",
-          "blogger": "Not lonely planet",
-          "date": "2026-06-25"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "조달청, 주인 없는 땅 572필지 국유화 추진",
-          "link": "https://www.sedaily.com/article/20061326?ref=naver",
-          "press": "",
-          "date": "2026-06-29"
-        },
-        {
-          "title": "땅 꺼짐 사전에 진단…제주도, 첨단 위성 기반시설 조성",
-          "link": "https://www.nocutnews.co.kr/news/6540019?utm_source=naver&utm_medium=article&utm_campaign=20260629012820",
-          "press": "",
-          "date": "2026-06-29"
-        },
-        {
-          "title": "‘로드리 다음이라고?’ 이강인 亞 유일 베스트 11 선정... ‘홍명보 리...",
-          "link": "https://mhnse.com/news/articleView.html?idxno=1446372",
-          "press": "",
-          "date": "2026-06-29"
-        },
-        {
-          "title": "\"하룻밤 머물며 한탄강 매력에 빠져보세요\"…포천시, 테라 판타지아 개...",
-          "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260629010010031",
-          "press": "",
-          "date": "2026-06-29"
-        },
-        {
-          "title": "민형배 \"정부 통합지원금 20조, 반도체에 쏟아붓겠다\"",
-          "link": "https://www.pressian.com/pages/articles/2026062913142114030?utm_source=naver&utm_medium=search",
           "press": "",
           "date": "2026-06-29"
         }
@@ -372,7 +372,7 @@
       "traffic": "2000+",
       "blogTotal": 2604,
       "newsTotal": 3062,
-      "recentToday": 56,
+      "recentToday": 59,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -516,9 +516,9 @@
     {
       "keyword": "농민신문",
       "traffic": "1000+",
-      "blogTotal": 43349,
+      "blogTotal": 43350,
       "newsTotal": 80298,
-      "recentToday": 19,
+      "recentToday": 20,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -585,6 +585,152 @@
         }
       ],
       "rank": 8
+    },
+    {
+      "keyword": "보잉 737",
+      "traffic": "2000+",
+      "blogTotal": 41555,
+      "newsTotal": 37104,
+      "recentToday": 12,
+      "recentWeek": 85,
+      "topBlogs": [
+        {
+          "title": "티웨이 오키나와 TW281 보잉737 탑승후기 좌석추천...",
+          "link": "https://blog.naver.com/yoonlism/224315534821",
+          "blogger": "룰루랄라",
+          "date": "2026-06-14"
+        },
+        {
+          "title": "제2터미널 마티나 라운지 이용 및 진에어 보잉 737 탑승 후기",
+          "link": "https://blog.naver.com/jitean1013/224324511993",
+          "blogger": "재이의 일상❤",
+          "date": "2026-06-26"
+        },
+        {
+          "title": "보잉, 737-10에 시리즈 최고 성능 신형 브레이크 탑재. 초당...",
+          "link": "https://blog.naver.com/rits/224288117777",
+          "blogger": "영종의 항공이야기",
+          "date": "2026-05-18"
+        },
+        {
+          "title": "진에어 LJ913 LJ914 괌여행 기내식 괌비행시간 보잉737 좌석",
+          "link": "https://blog.naver.com/ideal_piano/224046296032",
+          "blogger": "클래식 읽어주는 엄마의 육아 레시피",
+          "date": "2025-10-19"
+        },
+        {
+          "title": "국제선 출국, 후쿠오카 티웨이 TW215 좌석 / 보잉737-800",
+          "link": "https://blog.naver.com/annalee90/224031254478",
+          "blogger": "안나의 메모리박스 ♩",
+          "date": "2025-10-04"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "[단독]기아, 전용기 첫 도입…보잉 최신기종 ‘B737-8 BBJ’",
+          "link": "https://www.donga.com/news/Economy/article/all/20260629/134199627/1",
+          "press": "",
+          "date": "2026-06-29"
+        },
+        {
+          "title": "제주항공, 인천발 제주 관광 수요 확인…10월까지 노선 유지",
+          "link": "https://www.m-i.kr/news/articleView.html?idxno=1386141",
+          "press": "",
+          "date": "2026-06-29"
+        },
+        {
+          "title": "\"해외주식 한다면 이 종목은 꼭 담으세요\"…7월 추천 보니 [주末머니]",
+          "link": "https://view.asiae.co.kr/article/2026062609021248305",
+          "press": "",
+          "date": "2026-06-28"
+        },
+        {
+          "title": "대한항공-아시아나 합병에 ‘큰 장’ 섰지만…경영난 LCC엔 ‘그림의 떡...",
+          "link": "https://www.ekn.kr/web/view.php?key=20260628027257127",
+          "press": "",
+          "date": "2026-06-28"
+        },
+        {
+          "title": "티웨이항공, 보잉737 신입 부기장 채용…7월 6일까지 접수",
+          "link": "https://www.g-enews.com/view.php?ud=202606280936407275ea14faf6f5_1",
+          "press": "",
+          "date": "2026-06-28"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "keyword": "남도일보",
+      "traffic": "500+",
+      "blogTotal": 11606,
+      "newsTotal": 136831,
+      "recentToday": 5,
+      "recentWeek": 49,
+      "topBlogs": [
+        {
+          "title": "한화갑 X 무안공항 X 감사원 남도일보 2004년 기사",
+          "link": "https://blog.naver.com/ann619/223709748324",
+          "blogger": "두 마리 토끼가 즐겨찾는",
+          "date": "2024-12-30"
+        },
+        {
+          "title": "남도일보배 배드민턴대회 개막! 700팀이 격돌한 광주 최대...",
+          "link": "https://blog.naver.com/wshj4715/224250065510",
+          "blogger": "배드민턴♡맛집♡건강♡리뷰",
+          "date": "2026-04-13"
+        },
+        {
+          "title": "[남도일보]광주시장 민형배 독주…전남지사 김영록 박스권",
+          "link": "https://blog.naver.com/gjminsim/224003574810",
+          "blogger": "민형배 입니다",
+          "date": "2025-09-11"
+        },
+        {
+          "title": "남도일보 기사, 11월 25일 기사, 마치 가루쌀로 정말 라면을...",
+          "link": "https://blog.naver.com/nanum001/223674844452",
+          "blogger": "배움의 사회 공익적 역할과 책임...",
+          "date": "2024-11-27"
+        },
+        {
+          "title": "남도일보-광주현대병원, 에든버러 프린지 공연 후원",
+          "link": "https://blog.naver.com/hdhosp0114/223996124439",
+          "blogger": "광주현대병원",
+          "date": "2025-09-05"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "보성군, '벌교꼬막 리본 프로젝트' 추진…참꼬막 자원 회복에 21억 투입",
+          "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5035296",
+          "press": "",
+          "date": "2026-06-29"
+        },
+        {
+          "title": "영암군, 외국인 계절근로자 인권 점검…농가·근로자 상생 환경 조성",
+          "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5035302",
+          "press": "",
+          "date": "2026-06-29"
+        },
+        {
+          "title": "광주·전남 통합특별시 출범 초읽기…정부·지자체 막바지 점검",
+          "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5035295",
+          "press": "",
+          "date": "2026-06-29"
+        },
+        {
+          "title": "나주시, '1박 2득' 시행 4개월 만 10억 원대 지역경제 효과 창출",
+          "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5035243",
+          "press": "",
+          "date": "2026-06-29"
+        },
+        {
+          "title": "논산시, 충남 정부혁신 경진대회 장려상…'실시간 축제 주차안내' 호평",
+          "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5035273",
+          "press": "",
+          "date": "2026-06-29"
+        }
+      ],
+      "rank": 10
     }
   ]
 }
