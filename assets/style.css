@@ -150,6 +150,10 @@ button.ghost:hover { border-color: var(--green); }
   color: #ffb3b5; font-size: 14px;
 }
 .empty-state { text-align: center; color: var(--muted); padding: 50px 0; font-size: 14px; }
+.empty-state a { color: var(--green); text-decoration: none; font-weight: 600; }
+.empty-state a:hover { text-decoration: underline; }
+.empty-state b { color: var(--text); }
+.chips-loading { font-size: 12.5px; color: var(--muted-2); }
 
 /* ---------- 카드 ---------- */
 .cards {

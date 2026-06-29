@@ -1,6 +1,6 @@
 // assets/app.js
 // data/data.json 을 읽어 카드로 렌더링하고 30분마다 자동 갱신한다.
-// 히어로 검색 + 인기 키워드 칩 + 정렬 지원.
+// 히어로 검색 + 인기/관련 키워드 칩 + 정렬 지원.
 
 const REFRESH_MS = 30 * 60 * 1000; // 30분
 let nextRefreshAt = Date.now() + REFRESH_MS;
@@ -43,6 +43,33 @@ function parseTraffic(t) {
   if (!t) return 0;
   const n = parseInt(String(t).replace(/[^0-9]/g, ""), 10);
   return Number.isFinite(n) ? n : 0;
+}
+
+// ---------- 네이버 자동완성(연관 키워드) JSONP ----------
+function jsonp(url, cbParam) {
+  return new Promise((resolve, reject) => {
+    const cb = "__ac_" + Date.now() + "_" + Math.floor(Math.random() * 1e6);
+    const s = document.createElement("script");
+    let done = false;
+    const cleanup = () => { try { delete window[cb]; } catch (e) {} s.remove(); };
+    window[cb] = (data) => { if (done) return; done = true; resolve(data); cleanup(); };
+    s.onerror = () => { if (done) return; done = true; cleanup(); reject(new Error("jsonp error")); };
+    s.src = url + (url.includes("?") ? "&" : "?") + cbParam + "=" + cb;
+    document.body.appendChild(s);
+    setTimeout(() => { if (done) return; done = true; cleanup(); reject(new Error("jsonp timeout")); }, 5000);
+  });
+}
+
+async function fetchRelated(q) {
+  const url = "https://ac.search.naver.com/nx/ac?q=" + encodeURIComponent(q) +
+    "&con=0&frm=nv&ans=2&r_format=json&r_enc=UTF-8&r_unicode=0&t_koreng=1&run=2&rev=4&q_enc=UTF-8&st=100";
+  const data = await jsonp(url, "_callback");
+  const items = (data && data.items && data.items[0]) || [];
+  return items
+    .map((a) => (Array.isArray(a) ? a[0] : a))
+    .filter(Boolean)
+    .filter((k) => k.toLowerCase() !== q.toLowerCase())
+    .slice(0, 12);
 }
 
 function listHtml(items, type) {
@@ -119,8 +146,9 @@ function sortFns(key) {
   }
 }
 
-// 인기 키워드 칩: 오늘 발행 많은 순 상위 10개
-function renderChips() {
+// ---------- 칩(인기/관련) ----------
+function renderTrendingChips() {
+  $("chipsLabel").textContent = "🔥 인기 키워드";
   const box = $("trendingChips");
   const top = allKeywords
     .slice()
@@ -132,6 +160,28 @@ function renderChips() {
       return `<button type="button" class="chip ${active}" data-kw="${escapeHtml(k.keyword)}">#${escapeHtml(k.keyword)}</button>`;
     })
     .join("");
+}
+
+let chipReqId = 0;
+async function updateChipRow() {
+  const box = $("trendingChips");
+  const label = $("chipsLabel");
+  if (!term) { renderTrendingChips(); return; }
+
+  label.textContent = `🔎 '${term}' 관련 키워드`;
+  const myId = ++chipReqId;
+  box.innerHTML = '<span class="chips-loading">연관 키워드 불러오는 중…</span>';
+  try {
+    const rel = await fetchRelated(term);
+    if (myId !== chipReqId) return; // 더 최신 입력이 있으면 무시
+    if (!rel.length) { renderTrendingChips(); return; }
+    box.innerHTML = rel
+      .map((k) => `<button type="button" class="chip" data-kw="${escapeHtml(k)}">${escapeHtml(k)}</button>`)
+      .join("");
+  } catch (e) {
+    if (myId !== chipReqId) return;
+    renderTrendingChips(); // 실패 시 인기 키워드로 폴백
+  }
 }
 
 function render() {
@@ -152,11 +202,15 @@ function render() {
   if (!list.length) {
     cards.innerHTML = "";
     emptyState.hidden = false;
+    emptyState.innerHTML = term
+      ? `'${escapeHtml(term)}'는 실시간 트렌드 목록에 없어요. 위 <b>관련 키워드</b>를 눌러 살펴보거나, ` +
+        `<a href="${naverUrl(term)}" target="_blank" rel="noopener">네이버</a> · ` +
+        `<a href="${googleUrl(term)}" target="_blank" rel="noopener">구글</a>에서 검색해 보세요.`
+      : "표시할 키워드가 없습니다.";
   } else {
     emptyState.hidden = true;
     cards.innerHTML = list.map(cardHtml).join("");
   }
-  renderChips();
 }
 
 async function load() {
@@ -180,6 +234,7 @@ async function load() {
 
     allKeywords = Array.isArray(data.keywords) ? data.keywords : [];
     render();
+    if (!term) renderTrendingChips();
   } catch (e) {
     errEl.hidden = false;
     errEl.textContent = "⚠️ " + e.message +
@@ -198,8 +253,9 @@ function tickCountdown() {
 function applySearch(value) {
   term = (value || "").trim();
   const input = $("searchInput");
-  if (input.value !== value) input.value = term;
+  if (input.value !== term) input.value = term;
   render();
+  updateChipRow();
 }
 
 // 검색 입력 (디바운스)
@@ -207,18 +263,18 @@ let searchTimer;
 $("searchInput").addEventListener("input", (e) => {
   clearTimeout(searchTimer);
   const v = e.target.value;
-  searchTimer = setTimeout(() => { term = v.trim(); render(); }, 120);
+  searchTimer = setTimeout(() => { term = v.trim(); render(); updateChipRow(); }, 180);
 });
 $("searchBtn").addEventListener("click", () => {
   document.querySelector(".results").scrollIntoView({ behavior: "smooth", block: "start" });
 });
 
-// 인기 키워드 칩 클릭 → 해당 키워드로 검색
+// 칩 클릭 → 해당 키워드로 검색/드릴다운
 $("trendingChips").addEventListener("click", (e) => {
   const btn = e.target.closest(".chip");
   if (!btn) return;
   const kw = btn.dataset.kw;
-  applySearch(term === kw ? "" : kw); // 같은 칩 다시 누르면 해제
+  applySearch(term === kw ? "" : kw); // 같은 키워드 다시 누르면 해제
 });
 
 $("sortSelect").addEventListener("change", (e) => { sortKey = e.target.value; render(); });
