@@ -1,11 +1,12 @@
-// Cloudflare Worker — 네이버 검색 API 프록시
+// Cloudflare Worker — 네이버 키워드 분석 프록시
 // 브라우저가 키 없이 키워드를 즉석 분석할 수 있도록 중계한다.
 //
-// 환경변수(Secrets) 2개 필요:
+// 필수 환경변수(Secrets) — 네이버 검색 API:
 //   NAVER_CLIENT_ID, NAVER_CLIENT_SECRET
+// 선택 환경변수(Secrets) — 네이버 검색광고 API(월간 검색량용):
+//   SEARCHAD_API_KEY, SEARCHAD_SECRET, SEARCHAD_CUSTOMER_ID
 //
 // 사용: GET https://<worker-주소>/?q=키워드
-//   → { keyword, blogTotal, newsTotal, recentToday, recentWeek, topBlogs[], topNews[] }
 
 const CORS = {
   "Access-Control-Allow-Origin": "*",
@@ -36,6 +37,14 @@ function parseBlogDate(postdate) {
   );
 }
 
+function toNum(v) {
+  if (v == null) return 0;
+  if (typeof v === "number") return v;
+  const s = String(v).replace(/[^0-9]/g, "");
+  return s ? parseInt(s, 10) : 0;
+}
+
+// ---------- 네이버 검색 API ----------
 async function naverSearch(env, type, query, params = {}) {
   const qs = new URLSearchParams({ query, ...params }).toString();
   const url = `https://openapi.naver.com/v1/search/${type}.json?${qs}`;
@@ -49,11 +58,55 @@ async function naverSearch(env, type, query, params = {}) {
   return res.json();
 }
 
+// ---------- 네이버 검색광고 API (월간 검색량) ----------
+async function hmacSha256Base64(secret, message) {
+  const enc = new TextEncoder();
+  const key = await crypto.subtle.importKey(
+    "raw", enc.encode(secret), { name: "HMAC", hash: "SHA-256" }, false, ["sign"]
+  );
+  const buf = await crypto.subtle.sign("HMAC", key, enc.encode(message));
+  return btoa(String.fromCharCode(...new Uint8Array(buf)));
+}
+
+async function searchVolume(env, keyword) {
+  const { SEARCHAD_API_KEY, SEARCHAD_SECRET, SEARCHAD_CUSTOMER_ID } = env;
+  if (!SEARCHAD_API_KEY || !SEARCHAD_SECRET || !SEARCHAD_CUSTOMER_ID) return null;
+
+  const ts = Date.now().toString();
+  const method = "GET";
+  const path = "/keywordstool";
+  const signature = await hmacSha256Base64(SEARCHAD_SECRET, `${ts}.${method}.${path}`);
+  const hint = keyword.replace(/\s+/g, "");
+  const url = `https://api.searchad.naver.com${path}?hintKeywords=${encodeURIComponent(hint)}&showDetail=1`;
+
+  const res = await fetch(url, {
+    headers: {
+      "X-Timestamp": ts,
+      "X-API-KEY": SEARCHAD_API_KEY,
+      "X-Customer": String(SEARCHAD_CUSTOMER_ID),
+      "X-Signature": signature,
+    },
+  });
+  if (!res.ok) return null;
+  const data = await res.json();
+  const list = data.keywordList || [];
+  if (!list.length) return null;
+
+  const norm = (s) => String(s).replace(/\s+/g, "").toLowerCase();
+  const hit = list.find((x) => norm(x.relKeyword) === norm(keyword)) || list[0];
+  const pc = toNum(hit.monthlyPcQcCnt);
+  const mobile = toNum(hit.monthlyMobileQcCnt);
+  return { pc, mobile, total: pc + mobile };
+}
+
+// ---------- 종합 분석 ----------
 async function analyze(env, keyword) {
-  const [blogRecent, blogTop, news] = await Promise.all([
+  const [blogRecent, blogTop, news, cafe, search] = await Promise.all([
     naverSearch(env, "blog", keyword, { display: "100", sort: "date" }),
     naverSearch(env, "blog", keyword, { display: "5", sort: "sim" }),
     naverSearch(env, "news", keyword, { display: "5", sort: "date" }),
+    naverSearch(env, "cafearticle", keyword, { display: "1", sort: "sim" }).catch(() => ({ total: 0 })),
+    searchVolume(env, keyword).catch(() => null),
   ]);
 
   const now = new Date();
@@ -85,13 +138,28 @@ async function analyze(env, keyword) {
     date: n.pubDate ? ymd(new Date(n.pubDate)) : "",
   }));
 
+  const blogTotal = blogRecent.total ?? 0;
+  const cafeTotal = cafe.total ?? 0;
+  const newsTotal = news.total ?? 0;
+  const contentTotal = blogTotal + cafeTotal;
+
+  let saturation = null;
+  if (search && search.total > 0) {
+    const pct = (n) => Math.round((n / search.total) * 1000) / 10;
+    saturation = { blog: pct(blogTotal), cafe: pct(cafeTotal), total: pct(contentTotal) };
+  }
+
   return {
     keyword,
     traffic: "",
-    blogTotal: blogRecent.total ?? 0,
-    newsTotal: news.total ?? 0,
+    blogTotal,
+    cafeTotal,
+    newsTotal,
+    contentTotal,
     recentToday,
     recentWeek,
+    search,
+    saturation,
     topBlogs,
     topNews,
   };

@@ -187,6 +187,85 @@ async function updateChipRow() {
   }
 }
 
+// ---------- 분석 챕터 렌더링 ----------
+function fmtPct(p) {
+  if (p == null) return "—";
+  if (p >= 500) return "500%+";
+  return p.toLocaleString("ko-KR") + "%";
+}
+function satMeta(p) {
+  if (p == null) return { label: "—", cls: "" };
+  if (p >= 300) return { label: "매우 높음", cls: "sat-vh" };
+  if (p >= 100) return { label: "높음", cls: "sat-h" };
+  if (p >= 30) return { label: "보통", cls: "sat-m" };
+  return { label: "낮음", cls: "sat-l" };
+}
+function panelHtml(title, stats, sub) {
+  const cells = stats
+    .map((s) =>
+      `<div class="pstat"><div class="pv ${s.cls || ""}">${s.v}</div>` +
+      `<div class="pl">${escapeHtml(s.l)}</div>` +
+      (s.s ? `<div class="ps ${s.cls || ""}">${escapeHtml(s.s)}</div>` : "") +
+      `</div>`
+    )
+    .join("");
+  return `<div class="panel"><h4>${escapeHtml(title)}</h4>` +
+    `<div class="panel-stats">${cells}</div>` +
+    (sub ? `<div class="panel-sub">${escapeHtml(sub)}</div>` : "") +
+    `</div>`;
+}
+function analysisHtml(d) {
+  let panels = "";
+
+  if (d.search) {
+    panels += panelHtml("월간 검색량", [
+      { v: fmtNum(d.search.pc), l: "PC" },
+      { v: fmtNum(d.search.mobile), l: "Mobile" },
+      { v: fmtNum(d.search.total), l: "Total" },
+    ]);
+  } else {
+    panels += `<div class="panel panel-muted"><h4>월간 검색량</h4>` +
+      `<div class="panel-note">네이버 검색광고 API 키를 Worker에 등록하면 PC·모바일 검색량이 표시돼요.</div></div>`;
+  }
+
+  panels += panelHtml("콘텐츠 발행량 (누적)", [
+    { v: fmtNum(d.blogTotal), l: "블로그" },
+    { v: fmtNum(d.cafeTotal), l: "카페" },
+    { v: fmtNum(d.contentTotal), l: "전체" },
+  ]);
+
+  if (d.saturation) {
+    const sb = satMeta(d.saturation.blog);
+    const sc = satMeta(d.saturation.cafe);
+    const st = satMeta(d.saturation.total);
+    panels += panelHtml("콘텐츠 포화 지수", [
+      { v: fmtPct(d.saturation.blog), l: "블로그", s: sb.label, cls: sb.cls },
+      { v: fmtPct(d.saturation.cafe), l: "카페", s: sc.label, cls: sc.cls },
+      { v: fmtPct(d.saturation.total), l: "전체", s: st.label, cls: st.cls },
+    ], "누적 발행량 ÷ 월 검색량");
+  }
+
+  panels += panelHtml("발행 추이 · 뉴스", [
+    { v: fmtNum(d.recentToday), l: "오늘 블로그" },
+    { v: fmtNum(d.recentWeek), l: "최근 7일" },
+    { v: fmtNum(d.newsTotal), l: "뉴스 누적" },
+  ]);
+
+  const lists =
+    `<div class="analysis-lists">` +
+    `<div class="al-col"><h4>블로그 상위 노출</h4>${listHtml(d.topBlogs, "blog")}</div>` +
+    `<div class="al-col"><h4>최신 뉴스</h4>${listHtml(d.topNews, "news")}</div>` +
+    `</div>`;
+
+  const links =
+    `<div class="searchlinks">` +
+    `<a href="${naverUrl(d.keyword)}" target="_blank" rel="noopener">네이버 순위 확인 ↗</a>` +
+    `<a href="${googleUrl(d.keyword)}" target="_blank" rel="noopener">구글 순위 확인 ↗</a>` +
+    `</div>`;
+
+  return `<div class="analysis"><div class="panel-grid">${panels}</div>${lists}${links}</div>`;
+}
+
 // ---------- 즉석 분석 (Cloudflare Worker 프록시) ----------
 let analyzeReqId = 0;
 async function analyzeViaWorker(kw) {
@@ -204,10 +283,9 @@ async function analyzeViaWorker(kw) {
     const data = await r.json();
     if (myId !== analyzeReqId) return;
     if (!r.ok || data.error) throw new Error(data.error || ("HTTP " + r.status));
-    data.rank = "🔎";
     box.innerHTML =
-      `<h3 class="sr-head">🔎 '${escapeHtml(kw)}' 분석 결과</h3>` +
-      `<div class="cards">${cardHtml(data)}</div>`;
+      `<h3 class="sr-head">🔎 '${escapeHtml(kw)}' 분석</h3>` +
+      analysisHtml(data);
   } catch (e) {
     if (myId !== analyzeReqId) return;
     box.innerHTML =

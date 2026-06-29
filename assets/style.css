@@ -162,6 +162,36 @@ button.ghost:hover { border-color: var(--green); }
 .sr-loading { color: var(--muted); font-size: 14px; padding: 10px 0; }
 .sr-error { color: #ffb3b5; font-size: 14px; padding: 10px 0; }
 
+.panel-grid { display: grid; gap: 14px; grid-template-columns: repeat(auto-fit, minmax(258px, 1fr)); }
+.panel {
+  background: linear-gradient(180deg, var(--panel), var(--bg-2));
+  border: 1px solid var(--border); border-radius: 14px; padding: 16px 16px 15px;
+}
+.panel h4 { margin: 0 0 14px; font-size: 13px; color: var(--muted); font-weight: 700; }
+.panel-stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; }
+.pstat { text-align: center; }
+.pv { font-size: 22px; font-weight: 800; letter-spacing: -.5px; font-variant-numeric: tabular-nums; }
+.pl { font-size: 11px; color: var(--muted); margin-top: 4px; }
+.ps { font-size: 10.5px; margin-top: 3px; font-weight: 700; color: var(--muted); }
+.panel-sub { margin-top: 11px; font-size: 11px; color: var(--muted-2); text-align: right; }
+.panel-note { font-size: 12.5px; color: var(--muted-2); line-height: 1.55; }
+.panel-muted { border-style: dashed; }
+.pv.sat-vh, .ps.sat-vh { color: #ff6b6b; }
+.pv.sat-h, .ps.sat-h { color: #ff9f43; }
+.pv.sat-m, .ps.sat-m { color: var(--yellow); }
+.pv.sat-l, .ps.sat-l { color: var(--green); }
+.analysis-lists { display: grid; gap: 14px; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); margin-top: 14px; }
+.al-col {
+  background: linear-gradient(180deg, var(--panel), var(--bg-2));
+  border: 1px solid var(--border); border-radius: 14px; padding: 14px 16px;
+}
+.al-col h4 {
+  margin: 0 0 9px; font-size: 11px; color: var(--muted); text-transform: uppercase;
+  letter-spacing: .6px; font-weight: 700; display: flex; align-items: center; gap: 6px;
+}
+.al-col h4::before { content: ""; width: 3px; height: 12px; border-radius: 2px; background: var(--grad); }
+.analysis .searchlinks { max-width: 360px; margin-top: 14px; padding: 0; }
+
 /* ---------- 카드 ---------- */
 .cards {
   display: grid; gap: 16px; padding: 20px 0 8px;
