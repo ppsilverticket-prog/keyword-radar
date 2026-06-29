@@ -263,7 +263,11 @@ function analysisHtml(d) {
     `<a href="${googleUrl(d.keyword)}" target="_blank" rel="noopener">구글 순위 확인 ↗</a>` +
     `</div>`;
 
-  return `<div class="analysis"><div class="panel-grid">${panels}</div>${lists}${links}</div>`;
+  const ai = d.summary
+    ? `<div class="ai-summary"><div class="ai-label">🤖 AI 요약</div><p>${escapeHtml(d.summary)}</p></div>`
+    : "";
+
+  return `<div class="analysis">${ai}<div class="panel-grid">${panels}</div>${lists}${links}</div>`;
 }
 
 // ---------- 즉석 분석 (Cloudflare Worker 프록시) ----------
