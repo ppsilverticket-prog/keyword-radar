@@ -101,8 +101,16 @@ function cardHtml(k) {
     </article>`;
 }
 
+// "1,000+", "10000+", "200+" → 1000 / 10000 / 200
+function parseTraffic(t) {
+  if (!t) return 0;
+  const n = parseInt(String(t).replace(/[^0-9]/g, ""), 10);
+  return Number.isFinite(n) ? n : 0;
+}
+
 function sortFns(key) {
   switch (key) {
+    case "traffic": return (a, b) => parseTraffic(b.traffic) - parseTraffic(a.traffic);
     case "blog": return (a, b) => (b.blogTotal || 0) - (a.blogTotal || 0);
     case "news": return (a, b) => (b.newsTotal || 0) - (a.newsTotal || 0);
     case "name": return (a, b) => a.keyword.localeCompare(b.keyword, "ko");
