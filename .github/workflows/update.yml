@@ -1,0 +1,47 @@
+name: 키워드 데이터 갱신
+
+# 10분마다 + 수동 실행 가능
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+
+# data.json 커밋을 위해 쓰기 권한 필요
+permissions:
+  contents: write
+
+# 중복 실행 방지
+concurrency:
+  group: keyword-update
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 체크아웃
+        uses: actions/checkout@v4
+
+      - name: Node 설치
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: 데이터 수집
+        env:
+          NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
+          NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
+          MAX_KEYWORDS: "8"
+        run: node scripts/fetch.mjs
+
+      - name: data.json 커밋
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/data.json
+          if git diff --staged --quiet; then
+            echo "변경 없음 — 커밋 생략"
+          else
+            git commit -m "chore: 키워드 데이터 갱신 ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+            git push
+          fi

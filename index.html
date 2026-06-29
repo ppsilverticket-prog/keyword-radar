@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <!-- 페이지 자체도 10분(600초)마다 새로고침 (JS가 죽어도 동작하는 안전장치) -->
+  <meta http-equiv="refresh" content="600" />
+  <title>실시간 블로그 키워드 레이더</title>
+  <link rel="stylesheet" href="assets/style.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="wrap">
+      <h1>📡 실시간 블로그 키워드 레이더</h1>
+      <p class="subtitle">
+        지금 한국에서 뜨는 키워드 — 블로그·뉴스 발행량과 상위 노출을 10분마다 자동 분석
+      </p>
+      <div class="status">
+        <span id="badge" class="badge">로딩 중…</span>
+        <span class="meta">마지막 업데이트: <strong id="updatedAt">—</strong></span>
+        <span class="meta">다음 새로고침까지: <strong id="countdown">—</strong></span>
+        <button id="refreshBtn" type="button">지금 새로고침</button>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <div id="error" class="error" hidden></div>
+    <div id="cards" class="cards"></div>
+  </main>
+
+  <footer class="wrap">
+    <p>
+      데이터 출처: 구글 트렌드(인기 키워드) · 네이버 검색 API(블로그·뉴스 발행량/상위 노출).
+      "오늘 발행" 수치는 최근 100건 기준 추정치입니다.
+    </p>
+  </footer>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,10 @@
+{
+  "name": "blog-keyword-radar",
+  "version": "1.0.0",
+  "description": "실시간 인기 키워드의 블로그/뉴스 발행량과 상위 노출을 분석하는 대시보드",
+  "type": "module",
+  "scripts": {
+    "fetch": "node scripts/fetch.mjs"
+  },
+  "license": "MIT"
+}
