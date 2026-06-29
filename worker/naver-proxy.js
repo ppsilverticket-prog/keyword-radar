@@ -68,9 +68,18 @@ async function hmacSha256Base64(secret, message) {
   return btoa(String.fromCharCode(...new Uint8Array(buf)));
 }
 
+// 성공 시 { ok:true, pc, mobile, total }, 실패 시 { error:"..." } 반환(진단용)
 async function searchVolume(env, keyword) {
-  const { SEARCHAD_API_KEY, SEARCHAD_SECRET, SEARCHAD_CUSTOMER_ID } = env;
-  if (!SEARCHAD_API_KEY || !SEARCHAD_SECRET || !SEARCHAD_CUSTOMER_ID) return null;
+  let { SEARCHAD_API_KEY, SEARCHAD_SECRET, SEARCHAD_CUSTOMER_ID } = env;
+  const missing = [];
+  if (!SEARCHAD_API_KEY) missing.push("SEARCHAD_API_KEY");
+  if (!SEARCHAD_SECRET) missing.push("SEARCHAD_SECRET");
+  if (!SEARCHAD_CUSTOMER_ID) missing.push("SEARCHAD_CUSTOMER_ID");
+  if (missing.length) return { error: "시크릿 미등록: " + missing.join(", ") };
+
+  SEARCHAD_API_KEY = String(SEARCHAD_API_KEY).trim();
+  SEARCHAD_SECRET = String(SEARCHAD_SECRET).trim();
+  SEARCHAD_CUSTOMER_ID = String(SEARCHAD_CUSTOMER_ID).trim();
 
   const ts = Date.now().toString();
   const method = "GET";
@@ -79,35 +88,52 @@ async function searchVolume(env, keyword) {
   const hint = keyword.replace(/\s+/g, "");
   const url = `https://api.searchad.naver.com${path}?hintKeywords=${encodeURIComponent(hint)}&showDetail=1`;
 
-  const res = await fetch(url, {
-    headers: {
-      "X-Timestamp": ts,
-      "X-API-KEY": SEARCHAD_API_KEY,
-      "X-Customer": String(SEARCHAD_CUSTOMER_ID),
-      "X-Signature": signature,
-    },
-  });
-  if (!res.ok) return null;
-  const data = await res.json();
+  let res;
+  try {
+    res = await fetch(url, {
+      headers: {
+        "X-Timestamp": ts,
+        "X-API-KEY": SEARCHAD_API_KEY,
+        "X-Customer": SEARCHAD_CUSTOMER_ID,
+        "X-Signature": signature,
+      },
+    });
+  } catch (e) {
+    return { error: "fetch 실패: " + String((e && e.message) || e) };
+  }
+
+  if (!res.ok) {
+    let body = "";
+    try { body = (await res.text()).slice(0, 180); } catch (e) {}
+    return { error: `검색광고 HTTP ${res.status} — ${body}` };
+  }
+
+  let data;
+  try { data = await res.json(); } catch (e) { return { error: "응답 JSON 파싱 실패" }; }
   const list = data.keywordList || [];
-  if (!list.length) return null;
+  if (!list.length) return { error: "keywordList 비어있음" };
 
   const norm = (s) => String(s).replace(/\s+/g, "").toLowerCase();
   const hit = list.find((x) => norm(x.relKeyword) === norm(keyword)) || list[0];
   const pc = toNum(hit.monthlyPcQcCnt);
   const mobile = toNum(hit.monthlyMobileQcCnt);
-  return { pc, mobile, total: pc + mobile };
+  return { ok: true, pc, mobile, total: pc + mobile };
 }
 
 // ---------- 종합 분석 ----------
 async function analyze(env, keyword) {
-  const [blogRecent, blogTop, news, cafe, search] = await Promise.all([
+  const [blogRecent, blogTop, news, cafe, sv] = await Promise.all([
     naverSearch(env, "blog", keyword, { display: "100", sort: "date" }),
     naverSearch(env, "blog", keyword, { display: "5", sort: "sim" }),
     naverSearch(env, "news", keyword, { display: "5", sort: "date" }),
     naverSearch(env, "cafearticle", keyword, { display: "1", sort: "sim" }).catch(() => ({ total: 0 })),
-    searchVolume(env, keyword).catch(() => null),
+    searchVolume(env, keyword).catch((e) => ({ error: String((e && e.message) || e) })),
   ]);
+
+  let search = null;
+  let searchDebug = null;
+  if (sv && sv.ok) search = { pc: sv.pc, mobile: sv.mobile, total: sv.total };
+  else searchDebug = (sv && sv.error) || "알 수 없는 오류";
 
   const now = new Date();
   const todayStr = ymd(now);
@@ -160,6 +186,7 @@ async function analyze(env, keyword) {
     recentWeek,
     search,
     saturation,
+    searchDebug,
     topBlogs,
     topNews,
   };
