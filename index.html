@@ -3,26 +3,17 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <!-- 페이지 자체도 30분(1800초)마다 새로고침 (JS가 죽어도 동작하는 안전장치) -->
   <meta http-equiv="refresh" content="1800" />
   <title>실시간 블로그 키워드 레이더</title>
   <meta name="description" content="지금 한국에서 뜨는 키워드의 블로그·뉴스 발행량과 상위 노출을 30분마다 자동 분석" />
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link rel="stylesheet" href="assets/style.css?v=3" />
+  <link rel="stylesheet" href="assets/style.css?v=5" />
 </head>
 <body>
   <div class="glow" aria-hidden="true"></div>
 
   <header class="topbar">
-    <div class="wrap">
-      <div class="brand">
-        <span class="logo" aria-hidden="true">📡</span>
-        <div>
-          <h1>실시간 블로그 키워드 레이더</h1>
-          <p class="subtitle">지금 한국에서 뜨는 키워드 — 블로그·뉴스 발행량과 상위 노출을 30분마다 자동 분석</p>
-        </div>
-      </div>
-
+    <div class="nav">
+      <div class="logo-brand"><span class="logo" aria-hidden="true">📡</span>키워드 레이더</div>
       <div class="status">
         <span id="badge" class="badge">로딩 중…</span>
         <span class="meta">업데이트 <strong id="updatedAt">—</strong></span>
@@ -31,12 +22,29 @@
     </div>
   </header>
 
-  <div class="toolbar">
-    <div class="wrap toolbar-inner">
-      <div class="search">
-        <svg class="search-ic" width="17" height="17" viewBox="0 0 24 24" aria-hidden="true"><path d="M21 21l-4.3-4.3M11 19a8 8 0 1 1 0-16 8 8 0 0 1 0 16z" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
-        <input id="searchInput" type="search" placeholder="키워드 검색…" autocomplete="off" />
+  <section class="hero">
+    <div class="wrap">
+      <h1 class="hero-title">지금 한국에서 <span class="grad">뜨는 키워드</span>를<br />한눈에 분석하세요</h1>
+      <p class="hero-sub">블로그·뉴스 발행량과 상위 노출을 30분마다 자동으로 분석해 드려요.</p>
+
+      <div class="hero-search">
+        <span class="src">트렌드</span>
+        <input id="searchInput" type="search" placeholder="분석할 키워드를 검색하세요" autocomplete="off" />
+        <button id="searchBtn" class="search-btn" type="button" aria-label="검색">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M21 21l-4.3-4.3M11 19a8 8 0 1 1 0-16 8 8 0 0 1 0 16z" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>
+        </button>
       </div>
+
+      <div class="trending">
+        <span class="fire">🔥 인기 키워드</span>
+        <div id="trendingChips" class="chips"></div>
+      </div>
+    </div>
+  </section>
+
+  <main class="results wrap">
+    <div class="results-head">
+      <h2>실시간 키워드<span id="count" class="count"></span></h2>
       <div class="controls">
         <label class="sort">
           정렬
@@ -48,13 +56,10 @@
             <option value="name">이름순</option>
           </select>
         </label>
-        <span id="count" class="count">—</span>
-        <button id="refreshBtn" type="button">새로고침</button>
+        <button id="refreshBtn" class="ghost" type="button">새로고침</button>
       </div>
     </div>
-  </div>
 
-  <main class="wrap">
     <div id="error" class="error" hidden></div>
     <div id="cards" class="cards"></div>
     <div id="emptyState" class="empty-state" hidden>일치하는 키워드가 없습니다.</div>
@@ -67,6 +72,6 @@
     </p>
   </footer>
 
-  <script src="assets/app.js?v=4"></script>
+  <script src="assets/app.js?v=5"></script>
 </body>
 </html>

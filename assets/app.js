@@ -1,6 +1,6 @@
 // assets/app.js
 // data/data.json 을 읽어 카드로 렌더링하고 30분마다 자동 갱신한다.
-// 검색 필터 + 정렬 지원.
+// 히어로 검색 + 인기 키워드 칩 + 정렬 지원.
 
 const REFRESH_MS = 30 * 60 * 1000; // 30분
 let nextRefreshAt = Date.now() + REFRESH_MS;
@@ -36,6 +36,13 @@ function naverUrl(kw) {
 }
 function googleUrl(kw) {
   return "https://www.google.com/search?q=" + encodeURIComponent(kw);
+}
+
+// "1,000+", "10000+", "200+" → 1000 / 10000 / 200
+function parseTraffic(t) {
+  if (!t) return 0;
+  const n = parseInt(String(t).replace(/[^0-9]/g, ""), 10);
+  return Number.isFinite(n) ? n : 0;
 }
 
 function listHtml(items, type) {
@@ -101,13 +108,6 @@ function cardHtml(k) {
     </article>`;
 }
 
-// "1,000+", "10000+", "200+" → 1000 / 10000 / 200
-function parseTraffic(t) {
-  if (!t) return 0;
-  const n = parseInt(String(t).replace(/[^0-9]/g, ""), 10);
-  return Number.isFinite(n) ? n : 0;
-}
-
 function sortFns(key) {
   switch (key) {
     case "traffic": return (a, b) => parseTraffic(b.traffic) - parseTraffic(a.traffic);
@@ -117,6 +117,21 @@ function sortFns(key) {
     case "today":
     default: return (a, b) => (b.recentToday || 0) - (a.recentToday || 0);
   }
+}
+
+// 인기 키워드 칩: 오늘 발행 많은 순 상위 10개
+function renderChips() {
+  const box = $("trendingChips");
+  const top = allKeywords
+    .slice()
+    .sort((a, b) => (b.recentToday || 0) - (a.recentToday || 0))
+    .slice(0, 10);
+  box.innerHTML = top
+    .map((k) => {
+      const active = term && k.keyword === term ? "active" : "";
+      return `<button type="button" class="chip ${active}" data-kw="${escapeHtml(k.keyword)}">#${escapeHtml(k.keyword)}</button>`;
+    })
+    .join("");
 }
 
 function render() {
@@ -131,7 +146,7 @@ function render() {
   list = list.slice().sort(sortFns(sortKey));
 
   $("count").innerHTML =
-    `<strong>${list.length}</strong>개 키워드` +
+    `<strong>${list.length}</strong>개` +
     (term && allKeywords.length !== list.length ? ` / 전체 ${allKeywords.length}` : "");
 
   if (!list.length) {
@@ -141,6 +156,7 @@ function render() {
     emptyState.hidden = true;
     cards.innerHTML = list.map(cardHtml).join("");
   }
+  renderChips();
 }
 
 async function load() {
@@ -179,12 +195,30 @@ function tickCountdown() {
   $("countdown").textContent = `${m}분 ${String(s).padStart(2, "0")}초`;
 }
 
+function applySearch(value) {
+  term = (value || "").trim();
+  const input = $("searchInput");
+  if (input.value !== value) input.value = term;
+  render();
+}
+
 // 검색 입력 (디바운스)
 let searchTimer;
 $("searchInput").addEventListener("input", (e) => {
   clearTimeout(searchTimer);
   const v = e.target.value;
   searchTimer = setTimeout(() => { term = v.trim(); render(); }, 120);
+});
+$("searchBtn").addEventListener("click", () => {
+  document.querySelector(".results").scrollIntoView({ behavior: "smooth", block: "start" });
+});
+
+// 인기 키워드 칩 클릭 → 해당 키워드로 검색
+$("trendingChips").addEventListener("click", (e) => {
+  const btn = e.target.closest(".chip");
+  if (!btn) return;
+  const kw = btn.dataset.kw;
+  applySearch(term === kw ? "" : kw); // 같은 칩 다시 누르면 해제
 });
 
 $("sortSelect").addEventListener("change", (e) => { sortKey = e.target.value; render(); });
