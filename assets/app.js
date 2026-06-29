@@ -1,10 +1,12 @@
 // assets/app.js
 // data/data.json 을 읽어 카드로 렌더링하고 30분마다 자동 갱신한다.
-// 히어로 검색 + 인기/관련 키워드 칩 + 정렬 지원.
+// 히어로 검색 + 인기/관련 키워드 칩 + 정렬 + 즉석 분석(Cloudflare Worker) 지원.
 
 const REFRESH_MS = 30 * 60 * 1000; // 30분
-let nextRefreshAt = Date.now() + REFRESH_MS;
+// 검색한 키워드를 네이버 데이터로 즉석 분석하는 프록시(Cloudflare Worker)
+const WORKER_URL = "https://naver-proxy.ppsilverticket.workers.dev";
 
+let nextRefreshAt = Date.now() + REFRESH_MS;
 let allKeywords = [];   // 원본 데이터
 let term = "";          // 검색어
 let sortKey = "today";  // 정렬 기준
@@ -95,11 +97,12 @@ function listHtml(items, type) {
 }
 
 function cardHtml(k) {
-  const topRank = k.rank <= 3 ? "top" : "";
+  const topRank = (typeof k.rank === "number" && k.rank <= 3) ? "top" : "";
+  const rankLabel = (k.rank == null || k.rank === "") ? "🔎" : k.rank;
   return `
     <article class="card">
       <div class="card-head">
-        <div class="rank ${topRank}">${k.rank}</div>
+        <div class="rank ${topRank}">${rankLabel}</div>
         <div class="kw"><a href="${naverUrl(k.keyword)}" target="_blank" rel="noopener">${escapeHtml(k.keyword)}</a></div>
         ${k.traffic ? `<div class="traffic">${escapeHtml(k.traffic)}</div>` : ""}
       </div>
@@ -173,14 +176,43 @@ async function updateChipRow() {
   box.innerHTML = '<span class="chips-loading">연관 키워드 불러오는 중…</span>';
   try {
     const rel = await fetchRelated(term);
-    if (myId !== chipReqId) return; // 더 최신 입력이 있으면 무시
+    if (myId !== chipReqId) return;
     if (!rel.length) { renderTrendingChips(); return; }
     box.innerHTML = rel
       .map((k) => `<button type="button" class="chip" data-kw="${escapeHtml(k)}">${escapeHtml(k)}</button>`)
       .join("");
   } catch (e) {
     if (myId !== chipReqId) return;
-    renderTrendingChips(); // 실패 시 인기 키워드로 폴백
+    renderTrendingChips();
+  }
+}
+
+// ---------- 즉석 분석 (Cloudflare Worker 프록시) ----------
+let analyzeReqId = 0;
+async function analyzeViaWorker(kw) {
+  const box = $("searchResult");
+  if (!WORKER_URL || !kw) { box.hidden = true; return; }
+  if (allKeywords.some((k) => k.keyword === kw)) { box.hidden = true; return; }
+
+  box.hidden = false;
+  box.innerHTML =
+    `<h3 class="sr-head">🔎 '${escapeHtml(kw)}' 분석 결과</h3>` +
+    `<div class="sr-loading">네이버에서 분석 중…</div>`;
+  const myId = ++analyzeReqId;
+  try {
+    const r = await fetch(WORKER_URL + "/?q=" + encodeURIComponent(kw));
+    const data = await r.json();
+    if (myId !== analyzeReqId) return;
+    if (!r.ok || data.error) throw new Error(data.error || ("HTTP " + r.status));
+    data.rank = "🔎";
+    box.innerHTML =
+      `<h3 class="sr-head">🔎 '${escapeHtml(kw)}' 분석 결과</h3>` +
+      `<div class="cards">${cardHtml(data)}</div>`;
+  } catch (e) {
+    if (myId !== analyzeReqId) return;
+    box.innerHTML =
+      `<h3 class="sr-head">🔎 '${escapeHtml(kw)}' 분석 결과</h3>` +
+      `<div class="sr-error">분석을 불러오지 못했어요 (${escapeHtml(String((e && e.message) || e))}).</div>`;
   }
 }
 
@@ -203,13 +235,28 @@ function render() {
     cards.innerHTML = "";
     emptyState.hidden = false;
     emptyState.innerHTML = term
-      ? `'${escapeHtml(term)}'는 실시간 트렌드 목록에 없어요. 위 <b>관련 키워드</b>를 눌러 살펴보거나, ` +
+      ? `'${escapeHtml(term)}'는 실시간 트렌드 목록에 없어요. 위 <b>분석 결과</b>와 <b>관련 키워드</b>를 확인하거나 ` +
         `<a href="${naverUrl(term)}" target="_blank" rel="noopener">네이버</a> · ` +
         `<a href="${googleUrl(term)}" target="_blank" rel="noopener">구글</a>에서 검색해 보세요.`
       : "표시할 키워드가 없습니다.";
   } else {
     emptyState.hidden = true;
     cards.innerHTML = list.map(cardHtml).join("");
+  }
+}
+
+// 검색 확정(엔터/버튼/칩) → 필터 + 연관 키워드 + 즉석 분석
+function submitSearch(value) {
+  term = (value || "").trim();
+  const input = $("searchInput");
+  if (input.value !== term) input.value = term;
+  render();
+  updateChipRow();
+  if (term) {
+    analyzeViaWorker(term);
+    document.querySelector(".results").scrollIntoView({ behavior: "smooth", block: "start" });
+  } else {
+    $("searchResult").hidden = true;
   }
 }
 
@@ -250,31 +297,25 @@ function tickCountdown() {
   $("countdown").textContent = `${m}분 ${String(s).padStart(2, "0")}초`;
 }
 
-function applySearch(value) {
-  term = (value || "").trim();
-  const input = $("searchInput");
-  if (input.value !== term) input.value = term;
-  render();
-  updateChipRow();
-}
-
-// 검색 입력 (디바운스)
+// 입력(타이핑): 트렌드 필터 + 연관 키워드만 (분석은 확정 시에만 → 쿼터 절약)
 let searchTimer;
 $("searchInput").addEventListener("input", (e) => {
   clearTimeout(searchTimer);
   const v = e.target.value;
+  $("searchResult").hidden = true;
   searchTimer = setTimeout(() => { term = v.trim(); render(); updateChipRow(); }, 180);
 });
-$("searchBtn").addEventListener("click", () => {
-  document.querySelector(".results").scrollIntoView({ behavior: "smooth", block: "start" });
+$("searchInput").addEventListener("keydown", (e) => {
+  if (e.key === "Enter") { e.preventDefault(); submitSearch(e.target.value); }
 });
+$("searchBtn").addEventListener("click", () => submitSearch($("searchInput").value));
 
-// 칩 클릭 → 해당 키워드로 검색/드릴다운
+// 칩 클릭 → 해당 키워드로 검색/드릴다운 (분석 포함)
 $("trendingChips").addEventListener("click", (e) => {
   const btn = e.target.closest(".chip");
   if (!btn) return;
   const kw = btn.dataset.kw;
-  applySearch(term === kw ? "" : kw); // 같은 키워드 다시 누르면 해제
+  submitSearch(term === kw ? "" : kw);
 });
 
 $("sortSelect").addEventListener("change", (e) => { sortKey = e.target.value; render(); });
