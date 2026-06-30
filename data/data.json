@@ -1,13 +1,86 @@
 {
-  "updatedAt": "2026-06-30T13:25:16.510Z",
+  "updatedAt": "2026-06-30T16:03:44.666Z",
   "source": "live",
   "keywords": [
     {
+      "keyword": "중앙그룹",
+      "traffic": "500+",
+      "blogTotal": 780345,
+      "newsTotal": 857986,
+      "recentToday": 86,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "# [긴급 점검] JTBC·중앙그룹 연쇄 부도 사태 총정리, \"아는...",
+          "link": "https://blog.naver.com/dudcks6050/224328737369",
+          "blogger": "그냥 잡다한 블로그",
+          "date": "2026-06-27"
+        },
+        {
+          "title": "JTBC 파산 논란, 중앙 그룹 부도와 회생 절차까지 간 이유",
+          "link": "https://blog.naver.com/tarames/224322024227",
+          "blogger": "한가한 경제 재테크",
+          "date": "2026-06-20"
+        },
+        {
+          "title": "홍정도 중앙그룹 JTBC 기업회생",
+          "link": "https://blog.naver.com/solmi_illustrator/224321325630",
+          "blogger": "비타민쏠미",
+          "date": "2026-06-19"
+        },
+        {
+          "title": "중앙그룹 파산 기업회생 원인, 지배구조 계열사 매각 가능성",
+          "link": "https://blog.naver.com/jngs10000/224322404421",
+          "blogger": "쩌눙갬성",
+          "date": "2026-06-21"
+        },
+        {
+          "title": "중앙그룹 회생 신청, 결국 기획부도 의혹으로 번지나",
+          "link": "https://blog.naver.com/editor_mumu/224331188905",
+          "blogger": "에디터 김무무",
+          "date": "2026-06-30"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "[인사] 개인정보보호위원회 외",
+          "link": "https://www.chosun.com/national/obituary-personnel/2026/07/01/OGMVO6W2SJGP3JHAC2S5OLPZUQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+          "press": "",
+          "date": "2026-06-30"
+        },
+        {
+          "title": "메가박스 회생절차로 '합종연횡' 무산…각자도생 나서는 롯데시네마",
+          "link": "https://news.tf.co.kr/read/economy/2338077.htm",
+          "press": "",
+          "date": "2026-06-30"
+        },
+        {
+          "title": "7월 1주 주요 제조업 전망",
+          "link": "https://www.laborplus.co.kr/news/articleView.html?idxno=41057",
+          "press": "",
+          "date": "2026-06-30"
+        },
+        {
+          "title": "농협개혁, '금융·경제지주 인적분할'에 쏠리는 관심",
+          "link": "http://www.youngnong.co.kr/news/articleView.html?idxno=60484",
+          "press": "",
+          "date": "2026-06-30"
+        },
+        {
+          "title": "이 대통령 “용인·서남권 클러스터 동시 추진…정책쇼 아닌 진짜 보여...",
+          "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8598897&ref=A",
+          "press": "",
+          "date": "2026-06-30"
+        }
+      ],
+      "rank": 1
+    },
+    {
       "keyword": "동남아시아",
       "traffic": "500+",
-      "blogTotal": 754717,
-      "newsTotal": 582939,
-      "recentToday": 100,
+      "blogTotal": 754728,
+      "newsTotal": 582942,
+      "recentToday": 84,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -43,6 +116,24 @@
       ],
       "topNews": [
         {
+          "title": "[여행업계 이모저모] 한국관광공사, 바틱에어 말레이시아, 코타키나발루...",
+          "link": "http://www.bizwnews.com/news/articleView.html?idxno=139710",
+          "press": "",
+          "date": "2026-06-30"
+        },
+        {
+          "title": "회의 끝나면 AI가 일한다… 'AI 실행 플랫폼' 경쟁",
+          "link": "https://www.newscj.com/news/articleView.html?idxno=3413403",
+          "press": "",
+          "date": "2026-06-30"
+        },
+        {
+          "title": "[창간20주년 기획] 'K-베이커리'의 질주···파리바게뜨, 글로벌 영토 ...",
+          "link": "https://www.todaykorea.co.kr/news/articleView.html?idxno=401490",
+          "press": "",
+          "date": "2026-06-30"
+        },
+        {
           "title": "로제 크림에 섞은 K소스, 유럽 홀렸다…주요 대형마트 점령한 한국라면",
           "link": "https://www.mk.co.kr/article/12087101",
           "press": "",
@@ -53,107 +144,16 @@
           "link": "http://www.newstown.co.kr/news/articleView.html?idxno=707725",
           "press": "",
           "date": "2026-06-30"
-        },
-        {
-          "title": "이채민, 시계 포스터 앞에서 포즈…차기작 제안 이어지는 대세 행보",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16118330",
-          "press": "",
-          "date": "2026-06-30"
-        },
-        {
-          "title": "\"그래도 갈만한 곳은 한국뿐\"…日 여행객 늘어나는 이유",
-          "link": "https://www.hankyung.com/article/2026063075231",
-          "press": "",
-          "date": "2026-06-30"
-        },
-        {
-          "title": "한수원, 정용석·이광훈·최일경 상임이사 선임 및 中企과 베트남 시장...",
-          "link": "https://www.cstimes.com/news/articleView.html?idxno=711686",
-          "press": "",
-          "date": "2026-06-30"
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "keyword": "하와이",
-      "traffic": "200+",
-      "blogTotal": 1636955,
-      "newsTotal": 363964,
-      "recentToday": 100,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "하와이 호텔 추천 하얏트 리젠시 와이키키 가격 비교 주니어...",
-          "link": "https://blog.naver.com/lllpeacelll1/224327009504",
-          "blogger": "블랙토끼의 새콤달콤 여행기록",
-          "date": "2026-06-25"
-        },
-        {
-          "title": "아시아나항공 하와이 여행 항공권 호놀룰루 공항 면세점 기내식",
-          "link": "https://blog.naver.com/hjk8427_/224316354633",
-          "blogger": "엘리의 영국라이프",
-          "date": "2026-06-15"
-        },
-        {
-          "title": "하와이 여행_와이키키 맛집 마루카메우동 / 메뉴 / 웨이팅...",
-          "link": "https://blog.naver.com/6_bbang/224317917643",
-          "blogger": "Bonhomie:친절한 마음씨",
-          "date": "2026-06-16"
-        },
-        {
-          "title": "하와이 자유여행 투어 거북이 스노쿨링 액티비티",
-          "link": "https://blog.naver.com/fabrunch/224316959746",
-          "blogger": "해피한 여행에디터 해피팅",
-          "date": "2026-06-15"
-        },
-        {
-          "title": "[32개월아기랑 하와이] 에어프레미아 와이드프리미엄 좌석후기",
-          "link": "https://blog.naver.com/ahw0111/224322818543",
-          "blogger": "lovewonny",
-          "date": "2026-06-21"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "TV서 기어 나온 '링' 귀신 배우 사망, 원인은 '에이즈'…35세 요절",
-          "link": "https://www.mt.co.kr/world/2026/06/30/2026063021580198652",
-          "press": "",
-          "date": "2026-06-30"
-        },
-        {
-          "title": "사인은 에이즈였다…'링' 소녀귀신 배우, 노숙 끝에 35살 요절[해외S]",
-          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=825809",
-          "press": "",
-          "date": "2026-06-30"
-        },
-        {
-          "title": "충북 농식품, 하와이 안테나숍 운영",
-          "link": "https://www.agrinet.co.kr/news/articleView.html?idxno=405242",
-          "press": "",
-          "date": "2026-06-30"
-        },
-        {
-          "title": "특별시 걱정 / 탁인석",
-          "link": "http://www.kjdaily.com/article.php?aid=1782812071681344028",
-          "press": "",
-          "date": "2026-06-30"
-        },
-        {
-          "title": "“선크림 발랐을 뿐인데” 갑자기 벌금 400만원 ‘낭패’…왜 이러나 했...",
-          "link": "https://biz.heraldcorp.com/article/10793434?ref=naver",
-          "press": "",
-          "date": "2026-06-30"
         }
       ],
       "rank": 2
     },
     {
       "keyword": "이민정",
-      "traffic": "5000+",
+      "traffic": "10000+",
       "blogTotal": 128788,
-      "newsTotal": 148829,
-      "recentToday": 70,
+      "newsTotal": 148830,
+      "recentToday": 81,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -189,6 +189,12 @@
       ],
       "topNews": [
         {
+          "title": "정읍시, 2026년 7월 정기인사 승진 내정자 발표",
+          "link": "http://www.jeonmin.co.kr/news/articleView.html?idxno=442522",
+          "press": "",
+          "date": "2026-06-30"
+        },
+        {
           "title": "'이병헌♥' 이민정, 톱스타 부모 고충…\"아이들 떼쓰는 법 몰라, 미안\" ...",
           "link": "https://www.tenasia.co.kr/article/2026063077104",
           "press": "",
@@ -201,7 +207,7 @@
           "date": "2026-06-30"
         },
         {
-          "title": "'이병헌♥' 이민정, 유명인 부모 둔 자녀 고충 토로 \"떼 쓰는 법 못 배워...",
+          "title": "'이병헌♥' 이민정, 유명인 부모의 서글픔 \"아이들 떼 쓰는 법 못 배워\"...",
           "link": "http://www.osen.co.kr/article/G1112831380",
           "press": "",
           "date": "2026-06-30"
@@ -211,83 +217,77 @@
           "link": "https://www.mk.co.kr/article/12087042",
           "press": "",
           "date": "2026-06-30"
-        },
-        {
-          "title": "'이병헌♥' 이민정, 자녀들에 미안함 토로…\"사람 많은 데 많이 안 가서...",
-          "link": "https://www.xportsnews.com/article/2166519",
-          "press": "",
-          "date": "2026-06-30"
         }
       ],
       "rank": 3
     },
     {
-      "keyword": "이소영",
-      "traffic": "500+",
-      "blogTotal": 96494,
-      "newsTotal": 124767,
-      "recentToday": 46,
+      "keyword": "대한민국 과학기술정보통신부",
+      "traffic": "200+",
+      "blogTotal": 44945,
+      "newsTotal": 104024,
+      "recentToday": 72,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "이소영, 연봉 1억 5천에 IBK 기업은행 배구단 재계약, 복귀 확정",
-          "link": "https://blog.naver.com/caleb0901/224332027203",
-          "blogger": "이과장의 스포츠",
+          "title": "“[과학기술정보통신부 장관상!] 대한민국 SW 융합 해커톤...",
+          "link": "https://blog.naver.com/by2k2000/223997603400",
+          "blogger": "코딩더메이커 ----------------학원",
+          "date": "2025-09-06"
+        },
+        {
+          "title": "과학기술정보통신부 제3기... 출범식: 대한민국의 AI...",
+          "link": "https://blog.naver.com/des09090/224332053289",
+          "blogger": "마부작침(磨斧作針)의 연속",
           "date": "2026-06-30"
         },
         {
-          "title": "[서평] ⟪그림이 나를 자유롭게 할거야⟫ - 이소영, 블랙피쉬",
-          "link": "https://blog.naver.com/grimaldi/224326620449",
-          "blogger": "나의 빛나는 모험",
-          "date": "2026-06-28"
+          "title": "News] 과학기술정보통신부 AI... 법제화 및 기술적 대응 방안",
+          "link": "https://blog.naver.com/rehouse/224330169735",
+          "blogger": "WCOF 2035 기후위기 극복 프로젝트",
+          "date": "2026-06-29"
         },
         {
-          "title": "그림이 나를 자유롭게 할 거야 _ 이소영",
-          "link": "https://blog.naver.com/anesp2015/224329910560",
-          "blogger": "사막여우의 달콤한 하루",
-          "date": "2026-06-28"
+          "title": "#과학기술정보통신부... 대한민국의 빠른 대응으로 미국행...",
+          "link": "https://blog.naver.com/immmy170/224225422733",
+          "blogger": "immnnie",
+          "date": "2026-03-22"
         },
         {
-          "title": "한성숙 총리 후보자 청문회, 이소영 의원의 질의를 바라보는 두...",
-          "link": "https://blog.naver.com/greatsh23/224327381168",
-          "blogger": "슝슝!!!!!!",
-          "date": "2026-06-25"
-        },
-        {
-          "title": "이소영 IBK기업은행 복귀, 자진 퇴단 8개월 만의 극적 컴백",
-          "link": "https://blog.naver.com/nimmik0915/224332163425",
-          "blogger": "올데이스포츠(All day sports)",
-          "date": "2026-06-30"
+          "title": "GH, 2024 대한민국 일자리 어워드 과학기술정보통신부 장관상...",
+          "link": "https://blog.naver.com/ghstory_official/223669789737",
+          "blogger": "GH공사 공식 블로그",
+          "date": "2024-11-22"
         }
       ],
       "topNews": [
         {
-          "title": "심평원, 고가 신약 사후관리 강화…AX혁신실 신설",
-          "link": "https://biz.sbs.co.kr/article_hub/20000319864?division=NAVER",
+          "title": "이재명 대통령 \"반도체·AI·로봇 3대 메가프로젝트 책임 추진\"",
+          "link": "http://www.babytimes.co.kr/news/articleView.html?idxno=73434",
           "press": "",
           "date": "2026-06-30"
         },
         {
-          "title": "민주당, 22대 후기 국회 복지위원장 포기…국민의힘 몫 유력",
-          "link": "https://new.dailypharm.com/user/news/339979?REFERER=NP",
+          "title": "[단독] 세종시에 AI 데이터센터 구축된다",
+          "link": "https://www.pressian.com/pages/articles/2026063023413217984?utm_source=naver&utm_medium=search",
           "press": "",
           "date": "2026-06-30"
         },
         {
-          "title": "與, 법사위 등 11곳 상임위원장 선출…국힘 \"밀실 정치\"",
-          "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4422680",
+          "title": "돈은 반도체에 쏠렸지만, 한국이 택한 승부처는 피지컬 AI다",
+          "link": "https://platum.kr/archives/290117",
           "press": "",
           "date": "2026-06-30"
         },
         {
-          "title": "[인사] 건강보험심사평가원",
-          "link": "https://www.newspim.com/news/view/20260630001205",
+          "title": "경남 1,438억 SMR 국가연구소 유치 미래 원전 도약",
+          "link": "http://www.newstown.co.kr/news/articleView.html?idxno=707757",
           "press": "",
           "date": "2026-06-30"
         },
         {
-          "title": "지평, 'AI-Infra센터' 출범",
-          "link": "https://www.lawtimes.co.kr/news/articleView.html?idxno=222816",
+          "title": "\"호남·충청·영남권 투자규모 1천600조원\"",
+          "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=552560",
           "press": "",
           "date": "2026-06-30"
         }
@@ -299,7 +299,7 @@
       "traffic": "200+",
       "blogTotal": 55016,
       "newsTotal": 45182,
-      "recentToday": 34,
+      "recentToday": 35,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -368,11 +368,84 @@
       "rank": 5
     },
     {
-      "keyword": "기성용",
+      "keyword": "문원",
       "traffic": "200+",
-      "blogTotal": 119446,
-      "newsTotal": 222011,
-      "recentToday": 24,
+      "blogTotal": 51883,
+      "newsTotal": 18974,
+      "recentToday": 29,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "문원 자녀 논란 신지와 결혼발표후 대인기피증",
+          "link": "https://blog.naver.com/solmi_illustrator/224314790236",
+          "blogger": "비타민쏠미",
+          "date": "2026-06-13"
+        },
+        {
+          "title": "지인까지 악플러? 신지·문원 부부가 털어놓은 결혼 1년",
+          "link": "https://blog.naver.com/skt9386/224305257164",
+          "blogger": "토닥토닥note",
+          "date": "2026-06-04"
+        },
+        {
+          "title": "신지 남편 문원 결혼 루머 1년이 지옥이었다?! 대인기피증까지...",
+          "link": "https://blog.naver.com/nworker_kimroy/224309762480",
+          "blogger": "셀럽로그",
+          "date": "2026-06-08"
+        },
+        {
+          "title": "신지 문원 굳이 욕먹는데 방송 나오는 이유? 신혼집 공개에...",
+          "link": "https://blog.naver.com/chummilmil99/224316755547",
+          "blogger": "Te Quiero",
+          "date": "2026-06-15"
+        },
+        {
+          "title": "신지 문원 결혼 도넘은 훈수 부부 재산 약정 조언 변호사 공개...",
+          "link": "https://blog.naver.com/concoro/224283937882",
+          "blogger": "큐피아리",
+          "date": "2026-05-13"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "[종합] \"서재 건물에서 따로 지내요\"…'남의 집 귀한 가족' 전민기, 금수...",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16118411",
+          "press": "",
+          "date": "2026-06-30"
+        },
+        {
+          "title": "신지♥문원, 논란 이후 첫 나들이 \"이제는 땅 아닌 앞 보고 싶어\" ('귀한...",
+          "link": "http://www.osen.co.kr/article/G1112831591",
+          "press": "",
+          "date": "2026-06-30"
+        },
+        {
+          "title": "'신지♥' 문원 \"결혼 전 논란으로 사람 많은 곳 못 가.. 외출 두려웠다...",
+          "link": "https://www.tvreport.co.kr/broadcast/article/1058069/",
+          "press": "",
+          "date": "2026-06-30"
+        },
+        {
+          "title": "문원, 메시지 단답에 예민·잘 삐치는 성격…♥신지 \"당황스러웠던 적 ...",
+          "link": "https://www.xportsnews.com/article/2166564",
+          "press": "",
+          "date": "2026-06-30"
+        },
+        {
+          "title": "신지♥문원, 결혼 반대 시련 딛고 꿀 뚝뚝 신혼여행…\"많은 분들 응원 ...",
+          "link": "https://www.sportschosun.com/entertainment/2026-06-30/202606300100209530014061",
+          "press": "",
+          "date": "2026-06-30"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "keyword": "기성용",
+      "traffic": "500+",
+      "blogTotal": 119444,
+      "newsTotal": 222013,
+      "recentToday": 26,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -408,6 +481,18 @@
       ],
       "topNews": [
         {
+          "title": "성장보다 성적 매몰된 유소년 축구… 제2 손흥민·이강인 꿈도 못 꿔",
+          "link": "https://www.chosun.com/sports/football/2026/07/01/SQ3Y2RRUYFCM5MDGLNS3MYGKBY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+          "press": "",
+          "date": "2026-06-30"
+        },
+        {
+          "title": "'누가 은퇴한대?' 손흥민 \"죽기살기로 뛰겠다\" 결심, 차기 사령탑에 전...",
+          "link": "https://www.sportschosun.com/football/2026-06-30/202606300100208170013877",
+          "press": "",
+          "date": "2026-06-30"
+        },
+        {
           "title": "‘홍명보호’ 환영받지 못한 귀국",
           "link": "https://www.kmib.co.kr/article/view.asp?arcid=1782804849&code=12190000&cp=nv",
           "press": "",
@@ -424,94 +509,82 @@
           "link": "https://www.gukjenews.com/news/articleView.html?idxno=3622185",
           "press": "",
           "date": "2026-06-30"
-        },
-        {
-          "title": "4년 뒤 손흥민 38살, 김민재 34살…황금세대 이을 ‘미래’ 안 보인다",
-          "link": "https://www.hani.co.kr/arti/sports/sportstemp/worldcup/1266054.html",
-          "press": "",
-          "date": "2026-06-30"
-        },
-        {
-          "title": "이선민, 군대 후유증에 탈모…\"잠 못 자고 철책 서다가\" (티키타카쇼')",
-          "link": "https://www.tvreport.co.kr/entertainment/article/1057971/",
-          "press": "",
-          "date": "2026-06-30"
         }
       ],
-      "rank": 6
+      "rank": 7
     },
     {
-      "keyword": "hlb 파나진",
-      "traffic": "1000+",
-      "blogTotal": 6303,
-      "newsTotal": 3069,
-      "recentToday": 10,
-      "recentWeek": 16,
+      "keyword": "테일러 프리츠",
+      "traffic": "100+",
+      "blogTotal": 5033,
+      "newsTotal": 2642,
+      "recentToday": 4,
+      "recentWeek": 29,
       "topBlogs": [
         {
-          "title": "HLB파나진 [대전 상장기업의 현실, 300억원에 회사 넘어감]",
-          "link": "https://blog.naver.com/yujianpa/224324343457",
-          "blogger": "대전 사람",
-          "date": "2026-06-23"
+          "title": "테일러 프리츠 남자 테니스 선수 프로필 소개 테니스 라켓",
+          "link": "https://blog.naver.com/yihy131/223595964952",
+          "blogger": "테동인의 TENNIS BLOG",
+          "date": "2024-09-25"
         },
         {
-          "title": "HLB파나진, AOC 핵심 기술 특허 출원…차세대 핵산치료제 공략",
-          "link": "https://blog.naver.com/ittimesnews/224331663028",
-          "blogger": "IT타임스",
+          "title": "테일러 프리츠 전 연인 모건 리들 운동선수 연애 발언",
+          "link": "https://blog.naver.com/inforestart/224313669933",
+          "blogger": "인포 리스타트",
+          "date": "2026-06-12"
+        },
+        {
+          "title": "테일러 프리츠, US 오픈 준우승 이후 그를 주목해야 하는...",
+          "link": "https://blog.naver.com/star--journal/224332305014",
+          "blogger": "연예저널",
           "date": "2026-06-30"
         },
         {
-          "title": "HLB파나진 주가 전망 분석 PNA 기술력과 AOC 플랫폼 가치 평가",
-          "link": "https://blog.naver.com/gunyoung88/224233007412",
-          "blogger": "돈개",
-          "date": "2026-03-29"
+          "title": "[테니스웨어 추천] 테일러 프리츠의 BOSS 테니스웨어, 가격...",
+          "link": "https://blog.naver.com/ys-dg/224320811805",
+          "blogger": "YS 팩토리 스토어",
+          "date": "2026-06-19"
         },
         {
-          "title": "장기 도전 종목 찾기) ADC를 넘어 AOC를 도전하는 HLB파나진",
-          "link": "https://blog.naver.com/studjung/224202736614",
-          "blogger": "어쩌다 어른, Ain의 레벨업",
-          "date": "2026-03-04"
-        },
-        {
-          "title": "HLB파나진 주가, 어디까지 갈까?",
-          "link": "https://blog.naver.com/kiuht359/224231289112",
-          "blogger": "오늘도 하나씩 :)",
-          "date": "2026-03-27"
+          "title": "결승전, 우승자 야닉 시너 (vs 테일러 프리츠) 경기 리뷰!",
+          "link": "https://blog.naver.com/investhodol/223579581777",
+          "blogger": "인베스트호돌",
+          "date": "2024-09-10"
         }
       ],
       "topNews": [
         {
-          "title": "[공시] 금호건설·비엘팜텍 '투자경고', 골프존홀딩스 '투자주의' 등......",
-          "link": "https://www.newstnt.com/news/articleView.html?idxno=708391",
+          "title": "영국 드레이퍼, 팔 부상 재발로 윔블던 기권",
+          "link": "http://www.tennispeople.kr/news/articleView.html?idxno=18840",
           "press": "",
-          "date": "2026-06-30"
+          "date": "2026-06-29"
         },
         {
-          "title": "HLB파나진, 소수계좌 거래집중 지정→투자주의 경보",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16118338",
+          "title": "4년 만에 단식 나서는 윌리엄스, 윔블던 첫 판서 25살 어린 조인트 상대",
+          "link": "https://www.newsis.com/view/NISX20260627_0003686024",
           "press": "",
-          "date": "2026-06-30"
+          "date": "2026-06-27"
         },
         {
-          "title": "[주식] JW신약·리브스메드·프로티나 10%대 하락",
-          "link": "https://www.hitnews.co.kr/news/articleView.html?idxno=77287",
+          "title": "2026 윔블던 남자 단식, 누가 우승할까…시너가 선두, 조코비치·즈베레...",
+          "link": "http://www.tennispeople.kr/news/articleView.html?idxno=18813",
           "press": "",
-          "date": "2026-06-30"
+          "date": "2026-06-26"
         },
         {
-          "title": "양 제약지수, 급등 후 급락",
-          "link": "http://www.newsmp.com/news/articleView.html?idxno=255459",
+          "title": "윔블던 남자 단식, 1회전부터 '빅매치'",
+          "link": "http://www.tennispeople.kr/news/articleView.html?idxno=18809",
           "press": "",
-          "date": "2026-06-30"
+          "date": "2026-06-26"
         },
         {
-          "title": "[이BIO] 유한양행·HLB·이화의료원 外",
-          "link": "http://www.newsprime.co.kr/news/article.html?no=738542",
+          "title": "'4년 만의 복귀' 윌리엄스 윔블던 첫 상대는 24살 어린 조인트",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008630034&plink=ORI&cooper=NAVER",
           "press": "",
-          "date": "2026-06-30"
+          "date": "2026-06-26"
         }
       ],
-      "rank": 7
+      "rank": 8
     },
     {
       "keyword": "카라 델레바인",
@@ -584,121 +657,79 @@
           "date": "2026-06-25"
         }
       ],
-      "rank": 8
+      "rank": 9
     },
     {
-      "keyword": "6세대 전투기",
-      "traffic": "200+",
-      "blogTotal": 6866,
-      "newsTotal": 3122,
-      "recentToday": 3,
-      "recentWeek": 24,
+      "keyword": "kt vs hanwha",
+      "traffic": "100+",
+      "blogTotal": 556,
+      "newsTotal": 83,
+      "recentToday": 0,
+      "recentWeek": 5,
       "topBlogs": [
         {
-          "title": "중국 6세대 전투기 개발 속도, 정말 위협일까?",
-          "link": "https://blog.naver.com/zerobity/224130969225",
-          "blogger": "테크리 IT 이야기",
-          "date": "2026-01-02"
+          "title": "hanwha vs kt rolster",
+          "link": "https://www.jijipapa.com/123231",
+          "blogger": "JiJiPaPa's Angle",
+          "date": "2026-06-27"
         },
         {
-          "title": "6세대 전투기의 필수 기능, 차세대 적응형 엔진이란?",
-          "link": "https://blog.naver.com/acftacft/223934604192",
-          "blogger": "환경시험, 수직이착륙기, 엔진",
-          "date": "2025-07-15"
+          "title": "Hanwha Life Esports vs. Gen.G / LCK Cup 2026 해외 유저들...",
+          "link": "https://blog.naver.com/lazygamer/224168697348",
+          "blogger": "VideoGameNow",
+          "date": "2026-02-02"
         },
         {
-          "title": "KF-21 수출과 국방 산업, 대한민국 6세대 전투기 개발의 의미",
-          "link": "https://blog.naver.com/lovenfree-/224247522609",
-          "blogger": "경제적 자유를 위해서",
-          "date": "2026-04-10"
+          "title": "[2015.07.22.수요일] KT Wiz v.s. Hanwha Eagles , KT wiz 승!",
+          "link": "https://blog.naver.com/siempre_verano/220428470750",
+          "blogger": "낭만과 영감",
+          "date": "2015-07-23"
         },
         {
-          "title": "한화에어로스페이스 6세대 전투기 개발에 도전?...",
-          "link": "https://blog.naver.com/orangeshirts/223953516457",
-          "blogger": "이성찬 블로그 - Warfare Systems & Issues",
-          "date": "2025-07-31"
+          "title": "갤주님은 오늘도 여전한가?! KT VS HanWha",
+          "link": "https://blog.naver.com/mcthemax1677/221444773487",
+          "blogger": "고민중",
+          "date": "2019-01-18"
         },
         {
-          "title": "조종사 기체만 국산이면 무슨 소용...영일이 6세대 전투기에...",
-          "link": "https://blog.naver.com/nerdpost/224319191471",
-          "blogger": "밀리터리너드",
-          "date": "2026-06-17"
+          "title": "[LOL] 한화생명 이스포츠(Hanwha Life Esports), 2024 월드...",
+          "link": "https://blog.naver.com/janneds/223575877578",
+          "blogger": "공(空)의 세계",
+          "date": "2024-09-07"
         }
       ],
       "topNews": [
         {
-          "title": "中, 6세대 스텔스기 처음 공개…‘차세대 전투기 개발서 서방 추월 과시...",
-          "link": "https://www.kmib.co.kr/article/view.asp?arcid=0030044064&code=61131811&cp=nv",
+          "title": "Lions riding 7-game winning streak into big series vs. Twins in KBO",
+          "link": "https://en.yna.co.kr/view/AEN20260511003400315?input=2106m",
           "press": "",
-          "date": "2026-06-30"
+          "date": "2026-05-11"
         },
         {
-          "title": "중국 6세대 전투기, 첫 등장…\"미국보다 빠르게 배치\" 분석",
-          "link": "https://news.jtbc.co.kr/article/NB12305806?influxDiv=NAVER",
+          "title": "Defending champions Twins looking to stretch winning streak vs. strugglin...",
+          "link": "https://en.yna.co.kr/view/AEN20260413002500315?input=2106m",
           "press": "",
-          "date": "2026-06-30"
+          "date": "2026-04-13"
         },
         {
-          "title": "영국 수십 년 만 최대 軍개편, '우크라 모델' 본받는다",
-          "link": "https://www.newsis.com/view/NISX20260630_0003689128",
+          "title": "KBO-leading Landers seeking to build on momentum vs. top 2 teams from 202...",
+          "link": "https://en.yna.co.kr/view/AEN20260406002500315?input=2106m",
           "press": "",
-          "date": "2026-06-30"
+          "date": "2026-04-06"
         },
         {
-          "title": "中 군 공식영상에 '샤오류' 등장…6세대 전투기 개발 암시",
-          "link": "http://www.yonhapnewstv.co.kr/news/AKR20260630114641vdR",
+          "title": "‘2025 LoL KeSPA CUP’ 12월 6일 C9 VS 젠지 개막",
+          "link": "http://www.breaknews.com/1167076",
           "press": "",
-          "date": "2026-06-30"
+          "date": "2025-12-05"
         },
         {
-          "title": "'바이 유러피안' 맞춤 대응한다..K방산 유럽 현지화 속도",
-          "link": "https://www.mt.co.kr/industry/2026/06/30/2026062914444538711",
+          "title": "S. Korea manager sees baseball exhibitions vs. Japan as opportunity to gi...",
+          "link": "https://en.yna.co.kr/view/AEN20251114010700315?input=2106m",
           "press": "",
-          "date": "2026-06-30"
+          "date": "2025-11-14"
         }
       ],
-      "rank": 9
-    },
-    {
-      "keyword": "cuaca besok",
-      "traffic": "200+",
-      "blogTotal": 147,
-      "newsTotal": 0,
-      "recentToday": 0,
-      "recentWeek": 1,
-      "topBlogs": [
-        {
-          "title": "실시간 검색어 'Cuaca Besok', 내일 날씨 정보를 찾는 이유",
-          "link": "https://blog.naver.com/tech-intro/224326087816",
-          "blogger": "JJ 글적이",
-          "date": "2026-06-24"
-        },
-        {
-          "title": "Ramalan cuaca - 날씨예보",
-          "link": "https://blog.naver.com/haebonsaram/220956051559",
-          "blogger": "우연을 안내자 삼아 ...",
-          "date": "2017-03-12"
-        },
-        {
-          "title": "#6 Cuaca",
-          "link": "https://blog.naver.com/blissful247/220589600973",
-          "blogger": "Blissful247",
-          "date": "2016-01-06"
-        },
-        {
-          "title": "마카사르 날씨 예보, 긴급 경고의 의미와 시민 반응",
-          "link": "https://blog.naver.com/hotnewstoday/224281115541",
-          "blogger": "오늘의 주요 이슈 _______________",
-          "date": "2026-05-10"
-        },
-        {
-          "title": "인도네시아어 1. Bagaimana Cuaca di Indoneisa?",
-          "link": "https://blog.naver.com/iheejin74/220968144303",
-          "blogger": "은근중독. 희린",
-          "date": "2017-03-27"
-        }
-      ],
-      "topNews": [],
       "rank": 10
     }
   ]
