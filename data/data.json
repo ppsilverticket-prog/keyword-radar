@@ -1,157 +1,11 @@
 {
-  "updatedAt": "2026-06-30T16:03:44.666Z",
+  "updatedAt": "2026-06-30T18:18:56.564Z",
   "source": "live",
   "keywords": [
     {
-      "keyword": "중앙그룹",
-      "traffic": "500+",
-      "blogTotal": 780345,
-      "newsTotal": 857986,
-      "recentToday": 86,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "# [긴급 점검] JTBC·중앙그룹 연쇄 부도 사태 총정리, \"아는...",
-          "link": "https://blog.naver.com/dudcks6050/224328737369",
-          "blogger": "그냥 잡다한 블로그",
-          "date": "2026-06-27"
-        },
-        {
-          "title": "JTBC 파산 논란, 중앙 그룹 부도와 회생 절차까지 간 이유",
-          "link": "https://blog.naver.com/tarames/224322024227",
-          "blogger": "한가한 경제 재테크",
-          "date": "2026-06-20"
-        },
-        {
-          "title": "홍정도 중앙그룹 JTBC 기업회생",
-          "link": "https://blog.naver.com/solmi_illustrator/224321325630",
-          "blogger": "비타민쏠미",
-          "date": "2026-06-19"
-        },
-        {
-          "title": "중앙그룹 파산 기업회생 원인, 지배구조 계열사 매각 가능성",
-          "link": "https://blog.naver.com/jngs10000/224322404421",
-          "blogger": "쩌눙갬성",
-          "date": "2026-06-21"
-        },
-        {
-          "title": "중앙그룹 회생 신청, 결국 기획부도 의혹으로 번지나",
-          "link": "https://blog.naver.com/editor_mumu/224331188905",
-          "blogger": "에디터 김무무",
-          "date": "2026-06-30"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "[인사] 개인정보보호위원회 외",
-          "link": "https://www.chosun.com/national/obituary-personnel/2026/07/01/OGMVO6W2SJGP3JHAC2S5OLPZUQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-          "press": "",
-          "date": "2026-06-30"
-        },
-        {
-          "title": "메가박스 회생절차로 '합종연횡' 무산…각자도생 나서는 롯데시네마",
-          "link": "https://news.tf.co.kr/read/economy/2338077.htm",
-          "press": "",
-          "date": "2026-06-30"
-        },
-        {
-          "title": "7월 1주 주요 제조업 전망",
-          "link": "https://www.laborplus.co.kr/news/articleView.html?idxno=41057",
-          "press": "",
-          "date": "2026-06-30"
-        },
-        {
-          "title": "농협개혁, '금융·경제지주 인적분할'에 쏠리는 관심",
-          "link": "http://www.youngnong.co.kr/news/articleView.html?idxno=60484",
-          "press": "",
-          "date": "2026-06-30"
-        },
-        {
-          "title": "이 대통령 “용인·서남권 클러스터 동시 추진…정책쇼 아닌 진짜 보여...",
-          "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8598897&ref=A",
-          "press": "",
-          "date": "2026-06-30"
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "keyword": "동남아시아",
-      "traffic": "500+",
-      "blogTotal": 754728,
-      "newsTotal": 582942,
-      "recentToday": 84,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "싱가포르 플라이어 할인 예약 동남아시아 여행",
-          "link": "https://blog.naver.com/rdal89/224307309837",
-          "blogger": "찌미의 여행을 그리다",
-          "date": "2026-06-06"
-        },
-        {
-          "title": "동남아시아 여행지 추천 푸꾸옥 가볼만한곳 즈엉동야시장",
-          "link": "https://blog.naver.com/rokavirus/223786913182",
-          "blogger": "여행인플 곰토끼네",
-          "date": "2025-03-07"
-        },
-        {
-          "title": "태국 방콕 파타야 여행 패키지 자유여행 차이 코스 동남아시아...",
-          "link": "https://blog.naver.com/dongi0508/224172021645",
-          "blogger": "Der Sinn des Lebens",
-          "date": "2026-02-04"
-        },
-        {
-          "title": "다낭 한시장 근처 마사지 루나스파 동남아시아 베트남여행 코스",
-          "link": "https://blog.naver.com/cruiserlaw/224163687506",
-          "blogger": "진도르프 프리즘",
-          "date": "2026-01-29"
-        },
-        {
-          "title": "동남아시아 여행 캄보디아 앙코르와트 근처 숙소 씨엠립...",
-          "link": "https://blog.naver.com/4bubuss/223985311497",
-          "blogger": "깔깔부부의 여행블로그",
-          "date": "2025-08-27"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "[여행업계 이모저모] 한국관광공사, 바틱에어 말레이시아, 코타키나발루...",
-          "link": "http://www.bizwnews.com/news/articleView.html?idxno=139710",
-          "press": "",
-          "date": "2026-06-30"
-        },
-        {
-          "title": "회의 끝나면 AI가 일한다… 'AI 실행 플랫폼' 경쟁",
-          "link": "https://www.newscj.com/news/articleView.html?idxno=3413403",
-          "press": "",
-          "date": "2026-06-30"
-        },
-        {
-          "title": "[창간20주년 기획] 'K-베이커리'의 질주···파리바게뜨, 글로벌 영토 ...",
-          "link": "https://www.todaykorea.co.kr/news/articleView.html?idxno=401490",
-          "press": "",
-          "date": "2026-06-30"
-        },
-        {
-          "title": "로제 크림에 섞은 K소스, 유럽 홀렸다…주요 대형마트 점령한 한국라면",
-          "link": "https://www.mk.co.kr/article/12087101",
-          "press": "",
-          "date": "2026-06-30"
-        },
-        {
-          "title": "부산시, BTS 월드투어 연계 글로벌 환대 프로그램 성료…체류형 관광 가...",
-          "link": "http://www.newstown.co.kr/news/articleView.html?idxno=707725",
-          "press": "",
-          "date": "2026-06-30"
-        }
-      ],
-      "rank": 2
-    },
-    {
       "keyword": "이민정",
       "traffic": "10000+",
-      "blogTotal": 128788,
+      "blogTotal": 128771,
       "newsTotal": 148830,
       "recentToday": 81,
       "recentWeek": 100,
@@ -219,12 +73,12 @@
           "date": "2026-06-30"
         }
       ],
-      "rank": 3
+      "rank": 1
     },
     {
       "keyword": "대한민국 과학기술정보통신부",
       "traffic": "200+",
-      "blogTotal": 44945,
+      "blogTotal": 44946,
       "newsTotal": 104024,
       "recentToday": 72,
       "recentWeek": 100,
@@ -292,75 +146,221 @@
           "date": "2026-06-30"
         }
       ],
-      "rank": 4
+      "rank": 2
     },
     {
-      "keyword": "중소기업은행",
-      "traffic": "200+",
-      "blogTotal": 55016,
-      "newsTotal": 45182,
-      "recentToday": 35,
+      "keyword": "동남아시아",
+      "traffic": "500+",
+      "blogTotal": 754735,
+      "newsTotal": 582942,
+      "recentToday": 71,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "IBK 중소 기업은행 전세자금대출 1월 금리 비교 조건 알아보기",
-          "link": "https://blog.naver.com/doubleyang2/223731755503",
-          "blogger": "살림하며 블로그",
-          "date": "2025-01-20"
+          "title": "싱가포르 플라이어 할인 예약 동남아시아 여행",
+          "link": "https://blog.naver.com/rdal89/224307309837",
+          "blogger": "찌미의 여행을 그리다",
+          "date": "2026-06-06"
         },
         {
-          "title": "중소기업은행대출 자영업자라면 꼼꼼히 체크하세요",
-          "link": "https://blog.naver.com/suni_mylife/223816270187",
-          "blogger": "B company",
-          "date": "2025-03-31"
+          "title": "동남아시아 여행지 추천 푸꾸옥 가볼만한곳 즈엉동야시장",
+          "link": "https://blog.naver.com/rokavirus/223786913182",
+          "blogger": "여행인플 곰토끼네",
+          "date": "2025-03-07"
         },
         {
-          "title": "어플, 키움증권, 국민은행, 신한은행, 중소기업은행, 미래에셋생명)",
-          "link": "https://blog.naver.com/realize_dream_/224239063839",
-          "blogger": "리얼꿈의 경제적자유 도전기",
-          "date": "2026-04-03"
+          "title": "태국 방콕 파타야 여행 패키지 자유여행 차이 코스 동남아시아...",
+          "link": "https://blog.naver.com/dongi0508/224172021645",
+          "blogger": "Der Sinn des Lebens",
+          "date": "2026-02-04"
         },
         {
-          "title": "중소기업은행 채용 면접전문학원 도움받았어요!",
-          "link": "https://blog.naver.com/dkdlek899/224021411832",
-          "blogger": "늘담다",
-          "date": "2025-09-25"
+          "title": "다낭 한시장 근처 마사지 루나스파 동남아시아 베트남여행 코스",
+          "link": "https://blog.naver.com/cruiserlaw/224163687506",
+          "blogger": "진도르프 프리즘",
+          "date": "2026-01-29"
         },
         {
-          "title": "중소기업은행 주차장공사 에폭시 시공, 견적 받고 깜짝 놀란 이유!",
-          "link": "https://blog.naver.com/qetuoa69/224190028271",
-          "blogger": "창고바닥관리노트 *현장 경험으로 만든 최적 공사*",
-          "date": "2026-02-21"
+          "title": "동남아시아 여행 캄보디아 앙코르와트 근처 숙소 씨엠립...",
+          "link": "https://blog.naver.com/4bubuss/223985311497",
+          "blogger": "깔깔부부의 여행블로그",
+          "date": "2025-08-27"
         }
       ],
       "topNews": [
         {
-          "title": "제주은행, AI CFO 특허 출원…기업금융 디지털화 속도",
-          "link": "https://www.sentv.co.kr/article/view/sentv202606300094",
+          "title": "[여행업계 이모저모] 한국관광공사, 바틱에어 말레이시아, 코타키나발루...",
+          "link": "http://www.bizwnews.com/news/articleView.html?idxno=139710",
           "press": "",
           "date": "2026-06-30"
         },
         {
-          "title": "IBK투자증권, 최광진 신임 대표이사 선임…“생산적 금융 통한 중소기업...",
-          "link": "http://www.fntimes.com/html/view.php?ud=2026063016445051400f4390e77d_18",
+          "title": "회의 끝나면 AI가 일한다… 'AI 실행 플랫폼' 경쟁",
+          "link": "https://www.newscj.com/news/articleView.html?idxno=3413403",
           "press": "",
           "date": "2026-06-30"
         },
         {
-          "title": "IBK투자증권, 34년 금융 베테랑 최광진 대표 선임... 중기 지원 생산적 ...",
-          "link": "http://www.ttlnews.com/news/articleView.html?idxno=3121392",
+          "title": "[창간20주년 기획] 'K-베이커리'의 질주···파리바게뜨, 글로벌 영토 ...",
+          "link": "https://www.todaykorea.co.kr/news/articleView.html?idxno=401490",
           "press": "",
           "date": "2026-06-30"
         },
         {
-          "title": "공공부문 신차 10대 중 9대는 전기·수소차…기준 강화에 달성기관 감소",
-          "link": "https://www.ajunews.com/view/20260630102928343",
+          "title": "로제 크림에 섞은 K소스, 유럽 홀렸다…주요 대형마트 점령한 한국라면",
+          "link": "https://www.mk.co.kr/article/12087101",
           "press": "",
           "date": "2026-06-30"
         },
         {
-          "title": "공공 부문 91%, 전기·수소차 의무 전환 달성… 전년比 4.4%p↓",
-          "link": "https://biz.chosun.com/policy/policy_sub/2026/06/30/KD7XKNNDJFA3NHQLVA55ZVHW4M/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+          "title": "부산시, BTS 월드투어 연계 글로벌 환대 프로그램 성료…체류형 관광 가...",
+          "link": "http://www.newstown.co.kr/news/articleView.html?idxno=707725",
+          "press": "",
+          "date": "2026-06-30"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "keyword": "중앙그룹",
+      "traffic": "500+",
+      "blogTotal": 780342,
+      "newsTotal": 857988,
+      "recentToday": 68,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "# [긴급 점검] JTBC·중앙그룹 연쇄 부도 사태 총정리, \"아는...",
+          "link": "https://blog.naver.com/dudcks6050/224328737369",
+          "blogger": "그냥 잡다한 블로그",
+          "date": "2026-06-27"
+        },
+        {
+          "title": "JTBC 파산 논란, 중앙 그룹 부도와 회생 절차까지 간 이유",
+          "link": "https://blog.naver.com/tarames/224322024227",
+          "blogger": "한가한 경제 재테크",
+          "date": "2026-06-20"
+        },
+        {
+          "title": "홍정도 중앙그룹 JTBC 기업회생",
+          "link": "https://blog.naver.com/solmi_illustrator/224321325630",
+          "blogger": "비타민쏠미",
+          "date": "2026-06-19"
+        },
+        {
+          "title": "중앙그룹 파산 기업회생 원인, 지배구조 계열사 매각 가능성",
+          "link": "https://blog.naver.com/jngs10000/224322404421",
+          "blogger": "쩌눙갬성",
+          "date": "2026-06-21"
+        },
+        {
+          "title": "중앙그룹 회생 신청, 결국 기획부도 의혹으로 번지나",
+          "link": "https://blog.naver.com/editor_mumu/224331188905",
+          "blogger": "에디터 김무무",
+          "date": "2026-06-30"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "비트코인, 미국 중앙은행 긴축 기조에 금과 동반 약세",
+          "link": "https://www.khgames.co.kr/news/articleView.html?idxno=305922",
+          "press": "",
+          "date": "2026-06-30"
+        },
+        {
+          "title": "[HOT 관광산업 트렌드] \"최애 보러 비행기 표 끊었다\"…K-팝이 쏘아 올린...",
+          "link": "http://www.bizwnews.com/news/articleView.html?idxno=139704",
+          "press": "",
+          "date": "2026-06-30"
+        },
+        {
+          "title": "[인사] 개인정보보호위원회 외",
+          "link": "https://www.chosun.com/national/obituary-personnel/2026/07/01/OGMVO6W2SJGP3JHAC2S5OLPZUQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+          "press": "",
+          "date": "2026-06-30"
+        },
+        {
+          "title": "메가박스 회생절차로 '합종연횡' 무산…각자도생 나서는 롯데시네마",
+          "link": "https://news.tf.co.kr/read/economy/2338077.htm",
+          "press": "",
+          "date": "2026-06-30"
+        },
+        {
+          "title": "7월 1주 주요 제조업 전망",
+          "link": "https://www.laborplus.co.kr/news/articleView.html?idxno=41057",
+          "press": "",
+          "date": "2026-06-30"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "keyword": "코트디부아르 대 노르웨이",
+      "traffic": "2000+",
+      "blogTotal": 1066,
+      "newsTotal": 246,
+      "recentToday": 54,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "월드컵 32강 코트디부아르 vs 노르웨이 경기 분석! 승자 예측...",
+          "link": "https://blog.naver.com/chosun-i/224329673383",
+          "blogger": "조선의 관심",
+          "date": "2026-06-29"
+        },
+        {
+          "title": "⚽ 코트디부아르 vs 노르웨이 분석 & 승부예측 | 2026 북중미...",
+          "link": "https://blog.naver.com/min_heo/224331516054",
+          "blogger": "Honey Raccoon",
+          "date": "2026-06-30"
+        },
+        {
+          "title": "코트디부아르 vs 노르웨이 축구 국가대표팀 역대전적...",
+          "link": "https://blog.naver.com/syspapa/224329939345",
+          "blogger": "풀꽃처럼",
+          "date": "2026-06-28"
+        },
+        {
+          "title": "7월 1일 코트디부아르VS노르웨이, 프랑스VS스웨덴...",
+          "link": "https://blog.naver.com/rjswo200/224331344275",
+          "blogger": "스포츠분석도토리",
+          "date": "2026-06-30"
+        },
+        {
+          "title": "7월1일 월드컵 분석 [코트디부아르 vs 노르웨이 , 프랑스 vs...",
+          "link": "https://blog.naver.com/lastpickmon/224331560844",
+          "blogger": "축구 분석",
+          "date": "2026-06-30"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "브라질 감독까지 “강한 축구” 칭찬… 그래도 패장은 허리를 숙였다",
+          "link": "https://www.chosun.com/sports/sports_special/2026/07/01/S7BW4EDLFJAVPBVPBCMBKNKMM4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+          "press": "",
+          "date": "2026-06-30"
+        },
+        {
+          "title": "브라질에 '선제골'까지‥하지만 높았던 세계의 벽",
+          "link": "https://imnews.imbc.com/replay/2026/nw2500/article/6834061_36989.html",
+          "press": "",
+          "date": "2026-06-30"
+        },
+        {
+          "title": "'극장골' 브라질, 일본에 역전승...'전차군단' 독일, 파라과이에 충격패",
+          "link": "https://www.ytn.co.kr/_ln/0107_202606302322506518",
+          "press": "",
+          "date": "2026-06-30"
+        },
+        {
+          "title": "1분 남기고 극장골…일본, 브라질에 '석패'",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008635229&plink=ORI&cooper=NAVER",
+          "press": "",
+          "date": "2026-06-30"
+        },
+        {
+          "title": "파란 잠재운 브라질‥일본 '32강 탈락'",
+          "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6834015_37004.html",
           "press": "",
           "date": "2026-06-30"
         }
@@ -370,7 +370,7 @@
     {
       "keyword": "문원",
       "traffic": "200+",
-      "blogTotal": 51883,
+      "blogTotal": 51880,
       "newsTotal": 18974,
       "recentToday": 29,
       "recentWeek": 100,
@@ -443,7 +443,7 @@
     {
       "keyword": "기성용",
       "traffic": "500+",
-      "blogTotal": 119444,
+      "blogTotal": 119442,
       "newsTotal": 222013,
       "recentToday": 26,
       "recentWeek": 100,
@@ -516,10 +516,10 @@
     {
       "keyword": "테일러 프리츠",
       "traffic": "100+",
-      "blogTotal": 5033,
+      "blogTotal": 5034,
       "newsTotal": 2642,
       "recentToday": 4,
-      "recentWeek": 29,
+      "recentWeek": 30,
       "topBlogs": [
         {
           "title": "테일러 프리츠 남자 테니스 선수 프로필 소개 테니스 라켓",
@@ -587,76 +587,45 @@
       "rank": 8
     },
     {
-      "keyword": "카라 델레바인",
+      "keyword": "côte d'ivoire vs norway",
       "traffic": "200+",
-      "blogTotal": 11528,
-      "newsTotal": 3084,
-      "recentToday": 3,
-      "recentWeek": 5,
+      "blogTotal": 47,
+      "newsTotal": 0,
+      "recentToday": 2,
+      "recentWeek": 2,
       "topBlogs": [
         {
-          "title": "카라 델레바인, 제37회 GLAAD 미디어 어워즈 참석",
-          "link": "https://blog.naver.com/myblue_lunacat/224208608664",
-          "blogger": "MY BLUE",
-          "date": "2026-03-08"
-        },
-        {
-          "title": "마고 로비, 카라 델레바인, 스텔라 맥카트니 헐리우드...",
-          "link": "https://blog.naver.com/gangan_go/224234084206",
-          "blogger": "closet the closet",
-          "date": "2026-03-30"
-        },
-        {
-          "title": "[배우소식] 카라 델레바인, 앰버 허드와 열애설 인정…“조니 뎁...",
-          "link": "https://blog.naver.com/januaryha/224331634383",
-          "blogger": "릴온 매거진",
+          "title": "[예측의기술 실전편 - AI & 휴먼] 월드컵 32강",
+          "link": "https://blog.naver.com/superforecasting/224331160431",
+          "blogger": "예측의 기술, AI 애널리스트시대의 휴먼엣지",
           "date": "2026-06-30"
         },
         {
-          "title": "동성 연애중인 카라 델레바인 폭탄 고백! \"조니 뎁이랑 이혼...",
-          "link": "https://blog.naver.com/reviewrush/224331983978",
-          "blogger": "깐깐감자 PICK",
+          "title": "2026 FIFA 북중미 월드컵 코트디부아르 노르웨이 32강 경기...",
+          "link": "https://blog.naver.com/birdrosy_work/224331784209",
+          "blogger": "똑카의 정보 바구니",
           "date": "2026-06-30"
         },
         {
-          "title": "37th GLAAD Media Awards에서 카라 델레바인",
-          "link": "https://blog.naver.com/nicegirl1987/224206722284",
-          "blogger": "MOMENT",
-          "date": "2026-03-07"
+          "title": "엑스포 발표 D-9일",
+          "link": "https://blog.naver.com/good-mylife/223268954683",
+          "blogger": "★ 축복받은 삶 ★",
+          "date": "2023-11-19"
+        },
+        {
+          "title": "인기가 없을까?> # 한국 여자농구 순위 vs 여자 프로농구 현실",
+          "link": "https://blog.naver.com/quainter/224109231401",
+          "blogger": "스포츠를 Quaint[퀘인트]하게",
+          "date": "2025-12-14"
+        },
+        {
+          "title": "뿌우우 코끼리군단 와쪄염 뿌우우. Cote d'Ivoire",
+          "link": "https://blog.naver.com/uuoorim/220030058007",
+          "blogger": "Kick Off",
+          "date": "2014-06-14"
         }
       ],
-      "topNews": [
-        {
-          "title": "‘양성애자’ 카라 델레바인-앰버 허드, 사귄 것 맞았다 “조니 뎁 질투...",
-          "link": "https://www.newsen.com/news_view.php?uid=202606301814406710",
-          "press": "",
-          "date": "2026-06-30"
-        },
-        {
-          "title": "카라 델레바인, 앰버 허드와 '전 연인 관계' 인정... 조니 뎁이 질투\" [할...",
-          "link": "https://www.tvreport.co.kr/world/article/1058005/",
-          "press": "",
-          "date": "2026-06-30"
-        },
-        {
-          "title": "카라 델레바인, 앰버 허드와 열애 루머 인정 “조니 뎁이 질투해”",
-          "link": "https://news.jtbc.co.kr/article/NB12305873?influxDiv=NAVER",
-          "press": "",
-          "date": "2026-06-30"
-        },
-        {
-          "title": "카라 델레바인, 앰버 허드와 열애 루머 인정..\"조니 뎁이 질투\" [Oh!llywoo...",
-          "link": "http://www.osen.co.kr/article/G1112831242",
-          "press": "",
-          "date": "2026-06-30"
-        },
-        {
-          "title": "각진 얼굴형을 위한 헤어스타일 12가지",
-          "link": "https://www.vogue.co.kr/2026/06/25/%ea%b0%81%ec%a7%84-%ec%96%bc%ea%b5%b4%ed%98%95%ec%9d%84-%ec%9c%84%ed%95%9c-%ed%97%a4%ec%96%b4%ec%8a%a4%ed%83%80%ec%9d%bc-12%ea%b0%80%ec%a7%80/?utm_source=naver&utm_medium=partnership",
-          "press": "",
-          "date": "2026-06-25"
-        }
-      ],
+      "topNews": [],
       "rank": 9
     },
     {
