@@ -1,12 +1,158 @@
 {
-  "updatedAt": "2026-07-01T18:24:25.503Z",
+  "updatedAt": "2026-07-01T20:23:32.999Z",
   "source": "live",
   "keywords": [
     {
+      "keyword": "벨기에 세네갈",
+      "traffic": "200+",
+      "blogTotal": 21910,
+      "newsTotal": 6322,
+      "recentToday": 87,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "[월드컵] 북중미 월드컵 32강 9경기 벨기에 세네갈 프리뷰",
+          "link": "https://blog.naver.com/kkkkk_wonder/224332327752",
+          "blogger": "KFSTORYTELLER",
+          "date": "2026-06-30"
+        },
+        {
+          "title": "벨기에 세네갈 경기 일정 몇시? 실시간 중계 채널 및 경기...",
+          "link": "https://blog.naver.com/bhkim1020/224332261855",
+          "blogger": "재테크",
+          "date": "2026-06-30"
+        },
+        {
+          "title": "벨기에 세네갈, 2026 FIFA 북중미 월드컵 32강 토너먼트 분석",
+          "link": "https://blog.naver.com/gangtefootball/224332290315",
+          "blogger": "강테 풋볼",
+          "date": "2026-07-01"
+        },
+        {
+          "title": "벨기에 세네갈 '7월2일 월드컵 32강 분석'",
+          "link": "https://blog.naver.com/duelgwang/224331560497",
+          "blogger": "프로토 분석 커뮤니티 토토위키",
+          "date": "2026-07-01"
+        },
+        {
+          "title": "2026 FIFA 북중미 월드컵 벨기에 세네갈 32강, 트로사르가...",
+          "link": "https://blog.naver.com/z2inny/224332708705",
+          "blogger": "데슐랭가이드",
+          "date": "2026-07-01"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "[2026 북중미 월드컵] '케인 2골 활약' 잉글랜드, 콩고에 역전승 16강 진...",
+          "link": "https://www.voakorea.com/a/8166868.html",
+          "press": "",
+          "date": "2026-07-01"
+        },
+        {
+          "title": "◇오늘의 월드컵(2일)",
+          "link": "https://www.yna.co.kr/view/AKR20260701185200007?input=1195m",
+          "press": "",
+          "date": "2026-07-01"
+        },
+        {
+          "title": "오늘의 월드컵(7월 2일)",
+          "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=552751",
+          "press": "",
+          "date": "2026-07-01"
+        },
+        {
+          "title": "[AI프리뷰] 월드컵 2일 32강 벨기에-세네갈전, 살아난 벨기에와 역습 노...",
+          "link": "https://www.newspim.com/news/view/20260701001419",
+          "press": "",
+          "date": "2026-07-01"
+        },
+        {
+          "title": "[오피니언] 손흥민도 작별일까…이번 월드컵이 마지막일 스타 총정리 -...",
+          "link": "https://www.artinsight.co.kr/news/view.php?no=81471",
+          "press": "",
+          "date": "2026-07-01"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "keyword": "월드컵 대진",
+      "traffic": "100+",
+      "blogTotal": 38193,
+      "newsTotal": 24750,
+      "recentToday": 87,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "2026 FIFA 월드컵 대진표 일정 32강 경우의 수 중계 시간",
+          "link": "https://blog.naver.com/almawade1/224332746013",
+          "blogger": "다양한 생활이 있는",
+          "date": "2026-07-01"
+        },
+        {
+          "title": "월드컵 32강 대진표 대한민국 다음 상대 미정으로 변경...",
+          "link": "https://blog.naver.com/bhkim1020/224326506634",
+          "blogger": "재테크",
+          "date": "2026-06-25"
+        },
+        {
+          "title": "경우의 수 총정리 : 대진 상대, 월드컵 예상 대진표 (홍명보 경질?)",
+          "link": "https://blog.naver.com/nyria99/224328141464",
+          "blogger": "시네마 오마카세",
+          "date": "2026-06-26"
+        },
+        {
+          "title": "2026 북중미 월드컵 32강 대진표 완성 한번에 보기",
+          "link": "https://blog.naver.com/icebreaktime/224332797337",
+          "blogger": "ice break time",
+          "date": "2026-07-01"
+        },
+        {
+          "title": "한국 32강 진출하면 어디와 붙을까? 2026 월드컵 대진표 분석",
+          "link": "https://blog.naver.com/coolvscool/224304755803",
+          "blogger": "메쉬박의 웃으면 복이 오는 블로그 이야기~!!!",
+          "date": "2026-06-03"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "'개최국 vs 종주국' 또 하나의 '꿀잼' 16강 탄생! 60년 전 '잉글랜드 우...",
+          "link": "http://www.footballist.co.kr/news/articleView.html?idxno=211737",
+          "press": "",
+          "date": "2026-07-01"
+        },
+        {
+          "title": "충격 반전! 일본 축협 모리야스 감독 해임? 재계약 소극적…고작 1년 연...",
+          "link": "https://www.sportschosun.com/football/2026-07-01/202607010100011390000457",
+          "press": "",
+          "date": "2026-07-01"
+        },
+        {
+          "title": "[2026 북중미] 4년 전처럼 ‘메시 vs 음바페’…첫 월드컵 득점왕이냐, ...",
+          "link": "https://isplus.com/article/view/isp202607010046",
+          "press": "",
+          "date": "2026-07-01"
+        },
+        {
+          "title": "임요환-강민 재회 성사… '블리즈컨 2026'서 스타크래프트 레전드 맞대...",
+          "link": "https://www.newscj.com/news/articleView.html?idxno=3413774",
+          "press": "",
+          "date": "2026-07-01"
+        },
+        {
+          "title": "\"차별적 도발이다!\" 브라질 파케타, 日 꺾고 '스시 먹방'→일본 매체 억...",
+          "link": "http://www.osen.co.kr/article/G1112831952",
+          "press": "",
+          "date": "2026-07-01"
+        }
+      ],
+      "rank": 2
+    },
+    {
       "keyword": "사이바리",
       "traffic": "100+",
-      "blogTotal": 89866,
-      "newsTotal": 4960,
+      "blogTotal": 89868,
+      "newsTotal": 4961,
       "recentToday": 67,
       "recentWeek": 100,
       "topBlogs": [
@@ -35,13 +181,19 @@
           "date": "2026-06-30"
         },
         {
-          "title": "이스마엘 사이바리 뮌헨 이적 임박, 브라질전 한 방이 바꾼 가치",
-          "link": "https://blog.naver.com/check68633/224324752740",
-          "blogger": "스포츠뉴스.정보",
-          "date": "2026-06-23"
+          "title": "이적루머 (사이바리, 라크루아... 서머빌, 은메차, 사이바리)",
+          "link": "https://blog.naver.com/spochat/224318110967",
+          "blogger": "스포츠이야기",
+          "date": "2026-06-16"
         }
       ],
       "topNews": [
+        {
+          "title": "[오피셜] '민재 형 잘 부탁드립니다!'…바이에른 뮌헨, 월드컵 '4경기 3...",
+          "link": "https://www.mydaily.co.kr/page/view/2026070202124114618",
+          "press": "",
+          "date": "2026-07-01"
+        },
         {
           "title": "[오피셜] 김민재, '월드컵 스타'와 한솥밥 먹는다…바이에른 뮌헨, 사이...",
           "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=689665",
@@ -65,65 +217,363 @@
           "link": "https://www.jejudomin.co.kr/news/articleView.html?idxno=320337",
           "press": "",
           "date": "2026-07-01"
-        },
-        {
-          "title": "‘토털풋볼’ 버린 네덜란드…“이게 네덜란드인가” 월드컵 탈락으로...",
-          "link": "https://sports.khan.co.kr/article/202607011116013?pt=nv",
-          "press": "",
-          "date": "2026-07-01"
         }
       ],
-      "rank": 1
+      "rank": 3
     },
     {
-      "keyword": "잉글랜드 월드컵",
-      "traffic": "100+",
-      "blogTotal": 131739,
-      "newsTotal": 235491,
-      "recentToday": 66,
+      "keyword": "벨링엄",
+      "traffic": "200+",
+      "blogTotal": 22245,
+      "newsTotal": 17859,
+      "recentToday": 61,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "잉글랜드 콩고민주공화국, 2026 FIFA 북중미 월드컵 프리뷰...",
-          "link": "https://blog.naver.com/gangtefootball/224331573958",
-          "blogger": "강테 풋볼",
+          "title": "벨링엄 입 가림 논란, 알미론 퇴장과 뭐가 달랐길래",
+          "link": "https://blog.naver.com/kth4828/224326160385",
+          "blogger": "훈바오 월드",
+          "date": "2026-06-24"
+        },
+        {
+          "title": "\"알미론은 퇴장인데 벨링엄은 왜?\" 월드컵 레드카드 규정...",
+          "link": "https://blog.naver.com/pm2447/224326602604",
+          "blogger": "시커의 스포츠",
+          "date": "2026-06-25"
+        },
+        {
+          "title": "해리케인, 벨링엄도 방심할 수 없는 콩고전 분석",
+          "link": "https://blog.naver.com/foot-play/224333174315",
+          "blogger": "축구풋살 풋플레이",
           "date": "2026-07-01"
         },
         {
-          "title": "잉글랜드 축구 국가대표 명단 월드컵 크로아티아 피파랭킹...",
-          "link": "https://blog.naver.com/dongi0508/224319161175",
-          "blogger": "Der Sinn des Lebens",
+          "title": "해리 케인과 주드 벨링엄, 이번엔 다를까? 우승 후보 잉글랜드...",
+          "link": "https://blog.naver.com/cgnara/224319190581",
+          "blogger": "Sports MAG:ZINE",
           "date": "2026-06-17"
         },
         {
-          "title": "2026 북중미 월드컵 3R 파나마 VS 잉글랜드",
-          "link": "https://blog.naver.com/taeyoungkonga/224329696372",
-          "blogger": "클락 엔드 (The clock end)",
-          "date": "2026-06-28"
-        },
-        {
-          "title": "해리 케인, 잉글랜드 월드컵 새 역사 썼어요! 파나마 꺾고 L조...",
-          "link": "https://blog.naver.com/formosa2019/224329410596",
-          "blogger": "Again 2002",
-          "date": "2026-06-28"
-        },
-        {
-          "title": "축구화·훈련장비 도난, 잉글랜드 월드컵 베이스캠프 비상",
-          "link": "https://blog.naver.com/winephk/224315609504",
-          "blogger": "박쿤의 스포츠로그",
-          "date": "2026-06-14"
+          "title": "잉글랜드 크로아티아 4-2 대승 케인 멀티골, 벨링엄, 래시포드 골!",
+          "link": "https://blog.naver.com/ty-papa/224319492937",
+          "blogger": "쇼핑 탐구생활",
+          "date": "2026-06-18"
         }
       ],
       "topNews": [
         {
-          "title": "‘SON 영혼단짝’ 케인 멀티골 작렬! 삼사자 군단을 벼랑 끝에서 구했다...",
-          "link": "https://sports.khan.co.kr/article/202607020313003?pt=nv",
+          "title": "'잉글랜드 32강서 탈락할 뻔'…해리 케인, 멀티골 원맨쇼→콩고민주공화...",
+          "link": "https://www.xportsnews.com/article/2167054",
           "press": "",
           "date": "2026-07-01"
         },
         {
-          "title": "'32강 탈락 위기'…멀티골 터트리는 케인",
-          "link": "https://www.news1.kr/photos/7987647",
+          "title": "잉글랜드, 콩고민주공화국 잠재우고 16강 진출…해리 케인 동점·역전골...",
+          "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8600077&ref=A",
+          "press": "",
+          "date": "2026-07-01"
+        },
+        {
+          "title": "[월드컵] '이젠 새가슴 아니다…' 극적 멀티골로 잉글랜드 승리 이끈 케...",
+          "link": "https://www.besteleven.com/news/articleView.html?idxno=309314",
+          "press": "",
+          "date": "2026-07-01"
+        },
+        {
+          "title": "[wc.review] '손흥민 단짝' 케인 멀티골로 구세주됐다!...잉글랜드, DR콩...",
+          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=94243",
+          "press": "",
+          "date": "2026-07-01"
+        },
+        {
+          "title": "[월드컵 REVIEW] 이변 발생 직전, 케인이 멀티골로 틀어막았다…잉글랜...",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=689668",
+          "press": "",
+          "date": "2026-07-01"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "keyword": "나겔스만",
+      "traffic": "200+",
+      "blogTotal": 6905,
+      "newsTotal": 9495,
+      "recentToday": 56,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "독일 대표팀, 3연속 월드컵 참패 (지금 당장 나겔스만 경질하고...",
+          "link": "https://blog.naver.com/gangtefootball/224332396071",
+          "blogger": "강테 풋볼",
+          "date": "2026-07-01"
+        },
+        {
+          "title": "인터뷰 | 고레츠카가 말하는 나겔스만 감독과의 관계, 그리고...",
+          "link": "https://blog.naver.com/fifapluskorea/224308443220",
+          "blogger": "네이버스포츠 공식 스토리텔러",
+          "date": "2026-06-07"
+        },
+        {
+          "title": "클롭, 독일 감독설 급부상 — 나겔스만 입지가 흔들린다",
+          "link": "https://blog.naver.com/choimoonyoung_/224332628909",
+          "blogger": "Re;depot",
+          "date": "2026-07-01"
+        },
+        {
+          "title": "나겔스만 독일 감독 중국 기자 질문 응수와 인터뷰장 웃음",
+          "link": "https://blog.naver.com/pieces-of-today/224322500644",
+          "blogger": "오늘의 조각들",
+          "date": "2026-06-21"
+        },
+        {
+          "title": "독일 명단 공개! 나겔스만 감독과 함께 통산 5번째 별 달성할까?",
+          "link": "https://blog.naver.com/coolvscool/224292820178",
+          "blogger": "메쉬박의 웃으면 복이 오는 블로그 이야기~!!!",
+          "date": "2026-05-22"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "\"축구협회 본부 압수수색\" 초유의 사태 터졌다...'충격 탈락' 독일, 월드...",
+          "link": "http://www.osen.co.kr/article/G1112832329",
+          "press": "",
+          "date": "2026-07-01"
+        },
+        {
+          "title": "월드컵 폭망→새 사령탑 후보 1순위 나왔다...HERE WE GO 기자 언급, '명...",
+          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=94244",
+          "press": "",
+          "date": "2026-07-01"
+        },
+        {
+          "title": "\"독일에는 월드클래스가 한 명도 없다\"…월드컵 충격 탈락에 크로스 작...",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=689666",
+          "press": "",
+          "date": "2026-07-01"
+        },
+        {
+          "title": "한국처럼 '대폭망' 독일 구하러 '명장'이 돌아오나 HERE WE GO \"클롭, 獨 ...",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=689661",
+          "press": "",
+          "date": "2026-07-01"
+        },
+        {
+          "title": "초대박! \"클롭, 독일 감독 부임에 열려 있어\"→HERE WE GO 확인, 나겔스...",
+          "link": "https://mhnse.com/news/articleView.html?idxno=1448774",
+          "press": "",
+          "date": "2026-07-01"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "keyword": "정의선",
+      "traffic": "200+",
+      "blogTotal": 90148,
+      "newsTotal": 206008,
+      "recentToday": 25,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "정의선 “경쟁은 혁신의 동력”…현대차그룹, 글로벌 불확실성...",
+          "link": "https://blog.naver.com/carumn/224251923317",
+          "blogger": "오토헤럴드 카럼",
+          "date": "2026-04-14"
+        },
+        {
+          "title": "정의선 현대차 상속세 ‘3조 원’ 기아차 현대제철 [총정리]",
+          "link": "https://blog.naver.com/epdaily/224155146531",
+          "blogger": "경제플러스 네이버 공식블로그",
+          "date": "2026-01-21"
+        },
+        {
+          "title": "\"회장님은 얼마나 벌었을까?\"현대자동차 주가 60만원 정의선...",
+          "link": "https://blog.naver.com/yunpyo99/224213547136",
+          "blogger": "아빠와 함께하는 경제",
+          "date": "2026-03-18"
+        },
+        {
+          "title": "유퀴즈 젠슨황 화사 매력적 팬심 고백 이재용 정의선 최태원...",
+          "link": "https://blog.naver.com/tammara/224311587134",
+          "blogger": "스밀라의 휘게 라이프",
+          "date": "2026-06-10"
+        },
+        {
+          "title": "현대차, 양재사옥 로비 혁신…정의선 회장 “사람 중심 공간...",
+          "link": "https://blog.naver.com/speconomy/224285489264",
+          "blogger": "스페셜경제",
+          "date": "2026-05-14"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "“韓경제 기여 정주영 삶 그린 음악적 초상”",
+          "link": "https://www.donga.com/news/People/article/all/20260702/134220378/2",
+          "press": "",
+          "date": "2026-07-01"
+        },
+        {
+          "title": "CNN, 정주영 추모음악회 180개국에 방영",
+          "link": "https://www.mt.co.kr/industry/2026/07/02/2026070120044271735",
+          "press": "",
+          "date": "2026-07-01"
+        },
+        {
+          "title": "故 정주영 추모 음악회, CNN 통해 180개국 방영",
+          "link": "https://www.kmib.co.kr/article/view.asp?arcid=1782893346&code=11151400&cp=nv",
+          "press": "",
+          "date": "2026-07-01"
+        },
+        {
+          "title": "정주영 창업회장 25주기 추모음악회, CNN ‘쇼타임’ 통해 180國에 방영",
+          "link": "https://www.chosun.com/economy/industry-company/2026/07/02/YDMCV2HLCNE6RDQU6DS64MO7MQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+          "press": "",
+          "date": "2026-07-01"
+        },
+        {
+          "title": "현대차 정주영 추모음악회, CNN 다큐로 전 세계 180개국 방영",
+          "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2218947",
+          "press": "",
+          "date": "2026-07-01"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "keyword": "토날리",
+      "traffic": "200+",
+      "blogTotal": 6504,
+      "newsTotal": 2874,
+      "recentToday": 24,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "\"이 돈을 진짜 쓴다고?\" 토트넘, 토날리 영입에 엄청난 연봉...",
+          "link": "https://blog.naver.com/pm2447/224322191989",
+          "blogger": "시커의 스포츠",
+          "date": "2026-06-21"
+        },
+        {
+          "title": "7월 1일 이적시장 핫이슈 - 토트넘, 산드로 토날리 영입 임박?",
+          "link": "https://blog.naver.com/italy_lee/224332936777",
+          "blogger": "The KOP",
+          "date": "2026-07-01"
+        },
+        {
+          "title": "산드로 토날리 토트넘행 임박 데제르비의 설득력에 주목",
+          "link": "https://blog.naver.com/reviewspectrum/224320827995",
+          "blogger": "리뷰스펙트럼님의 블로그",
+          "date": "2026-06-19"
+        },
+        {
+          "title": "6월 5일 해외축구 이적시장 이적루머 (얀 디오만데, 토날리...",
+          "link": "https://blog.naver.com/spochat/224307299249",
+          "blogger": "스포츠이야기",
+          "date": "2026-06-05"
+        },
+        {
+          "title": "토트넘, 산드로 토날리 €116M 영입 임박…루이스 가문이...",
+          "link": "https://blog.naver.com/mws_life/224332173403",
+          "blogger": "풋볼스토리 탱고",
+          "date": "2026-06-30"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "\"HERE WE GO!\" 800억 차익 챙겼다! 토트넘 부스코비치 매각 합의… \"이젠...",
+          "link": "https://www.besteleven.com/news/articleView.html?idxno=309312",
+          "press": "",
+          "date": "2026-07-01"
+        },
+        {
+          "title": "\"빅클럽다운 움직임\" 토트넘, 토날리 2000억 영입 합의 'HERE WE GO'…신입...",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=689669",
+          "press": "",
+          "date": "2026-07-01"
+        },
+        {
+          "title": "[속보] ‘독점-HERE WE GO’ 손흥민 친정 ‘역대 최고 이적료’ 경신··...",
+          "link": "https://sports.khan.co.kr/article/202607020434003?pt=nv",
+          "press": "",
+          "date": "2026-07-01"
+        },
+        {
+          "title": "맨체스터 유나이티드 레전드, 불법 베팅했던 미드필더 영입 적극 추천…...",
+          "link": "https://www.mydaily.co.kr/page/view/2026070114571315921",
+          "press": "",
+          "date": "2026-07-01"
+        },
+        {
+          "title": "'맨체스터 유나이티드 하이재킹 시도?' 토트넘이 앞선 토날리 영입전…...",
+          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=94240",
+          "press": "",
+          "date": "2026-07-01"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "keyword": "래시포드",
+      "traffic": "100+",
+      "blogTotal": 17774,
+      "newsTotal": 20882,
+      "recentToday": 24,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "마커스 래시포드, 맨유에서 바르셀로나 완전 이적이라는 꿈을...",
+          "link": "https://blog.naver.com/gangtefootball/224285694170",
+          "blogger": "강테 풋볼",
+          "date": "2026-05-15"
+        },
+        {
+          "title": "마커스 래시포드, 마테우스 페르난데스, 헤이든 해크니, 제레미...",
+          "link": "https://blog.naver.com/spochat/224333481073",
+          "blogger": "스포츠이야기",
+          "date": "2026-07-01"
+        },
+        {
+          "title": "바르셀로나 래시포드 영입 포기 선언! 한지 플릭은 왜 래시포드...",
+          "link": "https://blog.naver.com/pm2447/224263229280",
+          "blogger": "시커의 스포츠",
+          "date": "2026-04-24"
+        },
+        {
+          "title": "잉글랜드 크로아티아 4-2 대승 케인 멀티골, 벨링엄, 래시포드 골!",
+          "link": "https://blog.naver.com/ty-papa/224319492937",
+          "blogger": "쇼핑 탐구생활",
+          "date": "2026-06-18"
+        },
+        {
+          "title": "크로아티아 해리 케인 멀티골, 주드 벨링엄, 마커스 래시포드 골",
+          "link": "https://blog.naver.com/ung3256/224319694927",
+          "blogger": "츠토무의 로그북",
+          "date": "2026-06-18"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "잉글랜드 '역사상 가장 굴욕적인 탈락' 겨우 면했다, 케인 멀티골 폭발...",
+          "link": "https://www.starnewskorea.com/sports/2026/07/02/2026070203585879395",
+          "press": "",
+          "date": "2026-07-01"
+        },
+        {
+          "title": "'이럴 수가' 미친 대반전! 맨체스터 유나이티드 '문제아' 복귀 고려...'H...",
+          "link": "https://www.mydaily.co.kr/page/view/2026070200373049154",
+          "press": "",
+          "date": "2026-07-01"
+        },
+        {
+          "title": "[월드컵 REVIEW] 이변 발생 직전, 케인이 멀티골로 틀어막았다…잉글랜...",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=689668",
+          "press": "",
+          "date": "2026-07-01"
+        },
+        {
+          "title": "잉글랜드, 민주콩고 돌풍에 진땀… 케인 멀티골로 16강",
+          "link": "https://www.dkilbo.com/news/articleView.html?idxno=547530",
           "press": "",
           "date": "2026-07-01"
         },
@@ -132,386 +582,9 @@
           "link": "https://mhnse.com/news/articleView.html?idxno=1448873",
           "press": "",
           "date": "2026-07-01"
-        },
-        {
-          "title": "동점골 후 기뻐하는 해리 케인",
-          "link": "https://www.news1.kr/photos/7987646",
-          "press": "",
-          "date": "2026-07-01"
-        },
-        {
-          "title": "'46위' 콩고민주에 고전했던 잉글랜드, 결국 해결사는 케인이었다",
-          "link": "https://sports.hankooki.com/news/articleView.html?idxno=6935800",
-          "press": "",
-          "date": "2026-07-01"
         }
       ],
-      "rank": 2
-    },
-    {
-      "keyword": "이희진",
-      "traffic": "100+",
-      "blogTotal": 25959,
-      "newsTotal": 55521,
-      "recentToday": 50,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "미운우리새끼 이희진 15년 연애 못한 이유? (미우새)",
-          "link": "https://blog.naver.com/lhswind2/224330264100",
-          "blogger": "우수아빠의 인생은",
-          "date": "2026-06-29"
-        },
-        {
-          "title": "청담동 주식부자 이희진은 누구?",
-          "link": "https://blog.naver.com/digital-asset/224293642547",
-          "blogger": "알쓸신잡",
-          "date": "2026-05-22"
-        },
-        {
-          "title": "미운 우리 새끼 501회 임원희 이희진 핑크빛 운전 연수와...",
-          "link": "https://blog.naver.com/tjrgh4567/224329688007",
-          "blogger": "SUKHO",
-          "date": "2026-06-28"
-        },
-        {
-          "title": "이희진, 연애 못한 이유? 전남친 바람·도둑질에 감금까지.....",
-          "link": "https://blog.naver.com/dearwinterrain/224330057987",
-          "blogger": "더할 나위 없는",
-          "date": "2026-06-29"
-        },
-        {
-          "title": "이희진 연애·감금 고백, 왜 10년의 공백으로 이어졌나: 방송 속...",
-          "link": "https://blog.naver.com/worms112/224330022335",
-          "blogger": "땔깜줍는 구루미군",
-          "date": "2026-06-29"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "임원희, '♥9살 연하' 이희진에 적극 플러팅→신체 접촉까지…\"스캔들 ...",
-          "link": "https://www.tvreport.co.kr/broadcast/article/1058252/",
-          "press": "",
-          "date": "2026-07-01"
-        },
-        {
-          "title": "내 손으로 직접 그리는 나의 ‘복(福)’ …수원문화재단, 민화 드로잉 클...",
-          "link": "https://www.kgnews.co.kr/news/article.html?no=902148",
-          "press": "",
-          "date": "2026-07-01"
-        },
-        {
-          "title": "수원문화재단, '민화 드로잉 클래스' 참여자 모집",
-          "link": "http://www.suwonilbo.kr/news/articleView.html?idxno=316557",
-          "press": "",
-          "date": "2026-07-01"
-        },
-        {
-          "title": "\"넌 결혼, 이 여자는 연애\"…베이비복스 이희진, 최악의 전남친 폭로 ('...",
-          "link": "https://www.tvreport.co.kr/entertainment/article/1058096/",
-          "press": "",
-          "date": "2026-06-30"
-        },
-        {
-          "title": "이상민, 베이비복스와 완벽한 케미스트리 (아근진 수지네 하숙)",
-          "link": "https://sports.khan.co.kr/article/202607010122003?pt=nv",
-          "press": "",
-          "date": "2026-06-30"
-        }
-      ],
-      "rank": 3
-    },
-    {
-      "keyword": "잉글랜드 대 콩고 민주 공화국",
-      "traffic": "5000+",
-      "blogTotal": 497,
-      "newsTotal": 177,
-      "recentToday": 38,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "잉글랜드 대 콩고민주공화국... 전력에선 잉글랜드 '압승'",
-          "link": "https://blog.naver.com/shppy069/224331491843",
-          "blogger": "라온의 밀라노 뉴스",
-          "date": "2026-06-30"
-        },
-        {
-          "title": "2026년 북중미 월드컵 7월 2일 잉글랜드 vs 콩고민주공화국...",
-          "link": "https://blog.naver.com/birdrosy_work/224333229565",
-          "blogger": "똑카의 정보 바구니",
-          "date": "2026-07-01"
-        },
-        {
-          "title": "잉글랜드 vs 콩고민주공화국 32강 예상 라인업·전술 총정리...",
-          "link": "https://blog.naver.com/ukjae_/224329565190",
-          "blogger": "슬기로운 정보생활!",
-          "date": "2026-06-28"
-        },
-        {
-          "title": "7월 2일 잉글랜드VS콩고민주공화국, 벨기에VS세네갈...",
-          "link": "https://blog.naver.com/rjswo200/224332551808",
-          "blogger": "스포츠분석도토리",
-          "date": "2026-07-01"
-        },
-        {
-          "title": "잉글랜드 vs 콩고민주공화국 프리뷰 — 60년의 한풀기냐...",
-          "link": "https://blog.naver.com/atcchan0/224333217005",
-          "blogger": "atc0님의 블로그",
-          "date": "2026-07-01"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "[월드컵 리뷰]'이것이 바로 월클' 英, 손흥민 절친 케인 멀티골로 죽다...",
-          "link": "https://www.sportschosun.com/football/2026-07-02/202607020100012080000496",
-          "press": "",
-          "date": "2026-07-01"
-        },
-        {
-          "title": "[속보] 또 대이변 발생! '축구 종가' 잉글랜드 충격 선제 실점 허용...콩...",
-          "link": "https://mhnse.com/news/articleView.html?idxno=1448867",
-          "press": "",
-          "date": "2026-07-01"
-        },
-        {
-          "title": "유럽 최고 골잡이들, 이름값 한다",
-          "link": "https://www.chosun.com/sports/sports_special/2026/07/02/MZJ6P4DG5ZBDXBEIMNSZ22A4WQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-          "press": "",
-          "date": "2026-07-01"
-        },
-        {
-          "title": "멕시코, 에콰도르 완파…40년 만에 토너먼트 승리",
-          "link": "http://www.yonhapnewstv.co.kr/news/MYH20260701232640omF",
-          "press": "",
-          "date": "2026-07-01"
-        },
-        {
-          "title": "40년 만의 역사 쓴 멕시코, 충격적 비극에 눈물…축하 행사 중 3명 압사",
-          "link": "https://www.sportschosun.com/football/2026-07-01/202607020100011280000452",
-          "press": "",
-          "date": "2026-07-01"
-        }
-      ],
-      "rank": 4
-    },
-    {
-      "keyword": "강훈식",
-      "traffic": "5000+",
-      "blogTotal": 25119,
-      "newsTotal": 100856,
-      "recentToday": 36,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "강훈식비서실장 국무총리 내정 프로필",
-          "link": "https://blog.naver.com/dydghks3250/224306587284",
-          "blogger": "❤️ ✅kGn뉴스 ✅❤️",
-          "date": "2026-06-05"
-        },
-        {
-          "title": "국무총리 내정자 강훈식 프로필",
-          "link": "https://blog.naver.com/gwjun/224306847624",
-          "blogger": "사람과 정책",
-          "date": "2026-06-05"
-        },
-        {
-          "title": "강훈식 국무총리 내정자 와이프 프로필 '배우자 김희경 앵커'",
-          "link": "https://blog.naver.com/gashwoon/224307770025",
-          "blogger": "개쉬운영어",
-          "date": "2026-06-06"
-        },
-        {
-          "title": "'총학생회장 출신 이재명 비서실장' 강훈식의 생애 및 정치...",
-          "link": "https://blog.naver.com/pso164/224321598824",
-          "blogger": "과학커뮤니케이터 박종현",
-          "date": "2026-06-23"
-        },
-        {
-          "title": "강훈식 한 명 무서워서 행정통합 반대? 대전·충남 무산 뒤에...",
-          "link": "https://blog.naver.com/dudwhg/224196791924",
-          "blogger": "I am 파트라슈.",
-          "date": "2026-02-26"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "[김종구 칼럼] 정부의 반도체 언어, 차라리 쉽게 말하라",
-          "link": "https://www.kyeonggi.com/article/20260701580675",
-          "press": "",
-          "date": "2026-07-01"
-        },
-        {
-          "title": "[사설] 전력 27GW·용수 65만톤 조달, '어떻게' 공란 채워야",
-          "link": "https://www.hankookilbo.com/news/article/A2026070114360001234?did=NA",
-          "press": "",
-          "date": "2026-07-01"
-        },
-        {
-          "title": "[이로운전망] 이재명·문재인 회동, 민주정부 계승과 '단합·확장'의 공...",
-          "link": "https://www.eroun.net/news/articleView.html?idxno=84413",
-          "press": "",
-          "date": "2026-07-01"
-        },
-        {
-          "title": "강훈식 “60조 캐나다 잠수함 수주, 50대 50 상황”",
-          "link": "https://www.viva100.com/article/20260701501370",
-          "press": "",
-          "date": "2026-07-01"
-        },
-        {
-          "title": "[세계포럼] 구마모토 기적, 호남 희망고문",
-          "link": "https://www.segye.com/newsView/20260701517228?OutUrl=naver",
-          "press": "",
-          "date": "2026-07-01"
-        }
-      ],
-      "rank": 5
-    },
-    {
-      "keyword": "문소리",
-      "traffic": "100+",
-      "blogTotal": 99546,
-      "newsTotal": 89722,
-      "recentToday": 33,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "춤에 관심 없던 사람도 빠져든 공연, 문소리X리아킴 '춤이...",
-          "link": "https://blog.naver.com/yicf2012/224317739856",
-          "blogger": "용인문화재단",
-          "date": "2026-06-18"
-        },
-        {
-          "title": "영화 <여배우는 오늘도> 정보, 우아한 버티기의 미학 : 문소리",
-          "link": "https://blog.naver.com/bamhobak/224306353578",
-          "blogger": "name is 밤호박",
-          "date": "2026-06-05"
-        },
-        {
-          "title": "몸살인 줄 알았는데 응급실까지 문소리도 겪은 이 증상",
-          "link": "https://blog.naver.com/wkawkazz/224139466693",
-          "blogger": "잠잠라이프",
-          "date": "2026-01-08"
-        },
-        {
-          "title": "지성·하윤경·박병은·문소리 <아파트>, 입주민 회장 선거에...",
-          "link": "https://blog.naver.com/chokolatte80/224318674760",
-          "blogger": "내가 사는 세상",
-          "date": "2026-06-17"
-        },
-        {
-          "title": "출연진, 지성 변신이 기대되는 이유? + 하윤경 박병은 문소리",
-          "link": "https://blog.naver.com/lhswind2/224311792433",
-          "blogger": "우수아빠의 인생은",
-          "date": "2026-06-10"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "‘아파트’ 지성 VS 문소리, 달콤살벌 ‘관리실 첫 대면’으로 올여름 ...",
-          "link": "https://sports.khan.co.kr/article/202607011922003?pt=nv",
-          "press": "",
-          "date": "2026-07-01"
-        },
-        {
-          "title": "[피플] 믿고 보는 지성, '아파트'로 3연속 홈런 도전",
-          "link": "https://news.jtbc.co.kr/article/NB12306098?influxDiv=NAVER",
-          "press": "",
-          "date": "2026-07-01"
-        },
-        {
-          "title": "[오늘의 운세] (2026년 7월 2일 띠별 운세) 용띠, 동쪽 피하라",
-          "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=82093",
-          "press": "",
-          "date": "2026-07-01"
-        },
-        {
-          "title": "'아파트' 지성-문소리, 보스 vs 오지라퍼 불꽃 튀는 대결",
-          "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=541275",
-          "press": "",
-          "date": "2026-07-01"
-        },
-        {
-          "title": "지성 VS 문소리, 첫 만남부터 살벌…'아파트' 라이벌전 점화",
-          "link": "http://enews.imbc.com/News/RetrieveNewsInfo/510023",
-          "press": "",
-          "date": "2026-07-01"
-        }
-      ],
-      "rank": 6
-    },
-    {
-      "keyword": "살인",
-      "traffic": "2000+",
-      "blogTotal": 2760638,
-      "newsTotal": 1868293,
-      "recentToday": 21,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "인천 숯불 퇴마 살인, 사건 그 후와 허수아비",
-          "link": "https://blog.naver.com/opinion1011/224301117040",
-          "blogger": "오피니언",
-          "date": "2026-05-30"
-        },
-        {
-          "title": "광주 첨단 월계동 여고생 묻지마 살인사건, 범인 신상 범행 이유",
-          "link": "https://blog.naver.com/gashwoon/224277388391",
-          "blogger": "개쉬운영어",
-          "date": "2026-05-07"
-        },
-        {
-          "title": "[서평]복어 독 살인사건",
-          "link": "https://blog.naver.com/hjmjkklll/224301524700",
-          "blogger": "왕눈이의 이야기",
-          "date": "2026-05-31"
-        },
-        {
-          "title": "광주 여고생 살인 사건 피해자 이채원 이름 공개 이유? + 장윤기",
-          "link": "https://blog.naver.com/lhswind2/224303636743",
-          "blogger": "우수아빠의 인생은",
-          "date": "2026-06-02"
-        },
-        {
-          "title": "알고싶다 정보 그알 1493회 6월 27일 서초구 전처 살인 사건",
-          "link": "https://blog.naver.com/raintaro/224326886759",
-          "blogger": "모세스 (MOSES) 의 음악 여행",
-          "date": "2026-06-25"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "\"리얼돌들 해체해\"…광주 여고생 살해범 장윤기 父 핵심 증거 인멸 정황",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16120062",
-          "press": "",
-          "date": "2026-07-01"
-        },
-        {
-          "title": "장윤기 원룸 훼손된 리얼돌, 경찰관 아버지가 치웠다",
-          "link": "https://www.segye.com/newsView/20260702500260?OutUrl=naver",
-          "press": "",
-          "date": "2026-07-01"
-        },
-        {
-          "title": "“야외활동 자제^ 아동 차량방치 금물”",
-          "link": "http://www.koreatimes.com/article/1619664",
-          "press": "",
-          "date": "2026-07-01"
-        },
-        {
-          "title": "정성호 “광주 여고생 살해범 부친이 경찰… 친족특례 개선 검토 필요”",
-          "link": "https://biz.chosun.com/topics/topics_social/2026/07/02/7U2L6D66QJHSHGYU6LSECLXMAA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-          "press": "",
-          "date": "2026-07-01"
-        },
-        {
-          "title": "가정폭력 피해자 90%가 방치돼 있다",
-          "link": "https://www.chosun.com/national/national_general/2026/07/02/FIWBWYP2VFFMTEFDQ5SR7IIZWQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-          "press": "",
-          "date": "2026-07-01"
-        }
-      ],
-      "rank": 7
+      "rank": 8
     },
     {
       "keyword": "anh vs",
@@ -584,150 +657,77 @@
           "date": "2026-01-04"
         }
       ],
-      "rank": 8
-    },
-    {
-      "keyword": "england vs dr congo",
-      "traffic": "200+",
-      "blogTotal": 84,
-      "newsTotal": 87,
-      "recentToday": 1,
-      "recentWeek": 5,
-      "topBlogs": [
-        {
-          "title": "[2026북중미월드컵] 잉글랜드 VS DR콩고 (7월 2일) 푸아송...",
-          "link": "https://blog.naver.com/hepi3/224329974882",
-          "blogger": "머니박스",
-          "date": "2026-07-01"
-        },
-        {
-          "title": "Opta의 잉글랜드 vs 콩고민주공화국 전망: 2026 월드컵 매치...",
-          "link": "https://blog.naver.com/footytranslation/224332293062",
-          "blogger": "블로그",
-          "date": "2026-06-30"
-        },
-        {
-          "title": "[예측의기술 실전편 - AI & 휴먼] 월드컵 32강",
-          "link": "https://blog.naver.com/superforecasting/224331160431",
-          "blogger": "예측의 기술, AI 애널리스트시대의 휴먼엣지",
-          "date": "2026-06-30"
-        },
-        {
-          "title": "2026년 FIFA 월드컵 랭킹 D조 미국 파라과이",
-          "link": "https://blog.naver.com/ffffffffff1234/224315284090",
-          "blogger": "옥외광고사/건축도장기능사 온수온돌기능사 강의",
-          "date": "2026-06-14"
-        },
-        {
-          "title": "월드컵 I조 프랑스가 세네갈을 3대1로 첫 승 기록 전체...",
-          "link": "https://blog.naver.com/s6538/224318398794",
-          "blogger": "사랑가득행복",
-          "date": "2026-06-17"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "FIFA WORLD CUP 2026",
-          "link": "https://n.news.naver.com/mnews/article/091/0010247604?sid=104",
-          "press": "",
-          "date": "2026-07-01"
-        },
-        {
-          "title": "FIFA WORLD CUP 2026",
-          "link": "https://n.news.naver.com/mnews/article/091/0010247603?sid=104",
-          "press": "",
-          "date": "2026-07-01"
-        },
-        {
-          "title": "FIFA WORLD CUP 2026",
-          "link": "https://n.news.naver.com/mnews/article/091/0010247602?sid=104",
-          "press": "",
-          "date": "2026-07-01"
-        },
-        {
-          "title": "FIFA WORLD CUP 2026",
-          "link": "https://n.news.naver.com/mnews/article/091/0010247601?sid=104",
-          "press": "",
-          "date": "2026-07-01"
-        },
-        {
-          "title": "FIFA WORLD CUP 2026",
-          "link": "https://n.news.naver.com/mnews/article/091/0010247599?sid=104",
-          "press": "",
-          "date": "2026-07-01"
-        }
-      ],
       "rank": 9
     },
     {
-      "keyword": "다니일 메드베데프",
+      "keyword": "india vs england",
       "traffic": "200+",
-      "blogTotal": 140,
-      "newsTotal": 22,
-      "recentToday": 1,
+      "blogTotal": 1481,
+      "newsTotal": 568,
+      "recentToday": 0,
       "recentWeek": 1,
       "topBlogs": [
         {
-          "title": "1위였던 다니일 메드베데프(러시아, 28세)가 세계 랭킹 1위에...",
-          "link": "https://blog.naver.com/jin-t-a/223508188480",
-          "blogger": "진테니스아카데미",
-          "date": "2024-07-10"
+          "title": "india vs england: 5 things to know about 3rd test at...",
+          "link": "https://blog.naver.com/bmwm5jang/220072761600",
+          "blogger": "♥ J BLOG ♥",
+          "date": "2014-07-26"
         },
         {
-          "title": "(노박 조코비치)가 다니일 메드베데프를 꺾고 US오픈 남자...",
-          "link": "https://blog.naver.com/egg8118/223208125739",
-          "blogger": "(바다 밖의 다른 나라)돈을 부르는 럭셔리 멋진 소식",
-          "date": "2023-09-11"
+          "title": "에덴 가든에서 만난 순수한 미소와 피크닉 - 인도/콜카타 9탄 -",
+          "link": "https://blog.naver.com/tooafestivaltour/224295248285",
+          "blogger": "맛 여행",
+          "date": "2026-05-26"
         },
         {
-          "title": "우크라이나에 '마지막 기회' - 메드베데프",
-          "link": "https://blog.naver.com/cjc44588/223872514953",
-          "blogger": "평화를 추구하는 중립외교안보",
-          "date": "2025-05-21"
+          "title": "The “Little Divergence” — England vs. Iberia",
+          "link": "https://marginalrevolution.com/marginalrevolution/2020/02/the-little-divergence-england-vs-iberia.html",
+          "blogger": "Marginal REVOLUTION - Small Steps Toward A Much Better World",
+          "date": "2020-02-05"
         },
         {
-          "title": "메드베데프, 바이든 부자를 쓰레기통에, 미국인이여 전투로...",
-          "link": "https://blog.naver.com/paxeurasia/223048954471",
-          "blogger": "Russia.kr PaxEurasia.com",
-          "date": "2023-03-19"
+          "title": "India top news_2017-07-23 : India Inc. Pay Gap: CEOs...",
+          "link": "https://blog.naver.com/kangyeou/221058011308",
+          "blogger": "YEOUNG",
+          "date": "2017-07-23"
         },
         {
-          "title": "1위인 다니일 메드베데프(러시아, 26세)를 세트 스코어 3:1로...",
-          "link": "https://blog.naver.com/jin-t-a/222867251419",
-          "blogger": "진테니스아카데미",
-          "date": "2022-09-05"
+          "title": "selected in Malaysia vs UK, Australia, Singapore, India",
+          "link": "http://ktemoc.blogspot.com/2025/07/simplified-how-judges-are-selected-in.html",
+          "blogger": "KTemoc Konsiders ........",
+          "date": "2025-07-22"
         }
       ],
       "topNews": [
         {
-          "title": "아담 월튼, 프랑스 오픈 1라운드서 메드베데프와 맞대결",
-          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3593109",
+          "title": "Teenagers vs. Social Media Bans",
+          "link": "https://www.nytimes.com/2026/06/17/world/social-media-ban-iran-deal-congo-world-cup.html?partner=naver",
           "press": "",
-          "date": "2026-05-27"
+          "date": "2026-06-17"
         },
         {
-          "title": "니시코리 케이, 시즌 종료 후 은퇴 발표",
-          "link": "http://www.tennispeople.kr/news/articleView.html?idxno=18497",
+          "title": "Musk vs. Altman: A High-Stakes A.I. Clash Goes to Court",
+          "link": "https://www.nytimes.com/2026/04/27/business/dealbook/musk-altman-ai-trial.html?partner=naver",
           "press": "",
-          "date": "2026-04-30"
+          "date": "2026-04-27"
         },
         {
-          "title": "지면서 크는 나무, 폰세카",
-          "link": "http://www.tennispeople.kr/news/articleView.html?idxno=18314",
+          "title": "Empowering Iran’s Hard-liners",
+          "link": "https://www.nytimes.com/2026/03/18/world/iran-leadership-larijani-israel-beirut.html?partner=naver",
           "press": "",
-          "date": "2026-03-21"
+          "date": "2026-03-18"
         },
         {
-          "title": "알카라스가 인정한 메드베데프",
-          "link": "http://www.tennispeople.kr/news/articleView.html?idxno=18292",
+          "title": "Hanging Up",
+          "link": "https://www.nytimes.com/2026/03/07/briefing/hanging-up.html?partner=naver",
           "press": "",
-          "date": "2026-03-16"
+          "date": "2026-03-07"
         },
         {
-          "title": "조코비치, 드레이퍼에 무릎... BNP 파리바오픈 16강 탈락",
-          "link": "https://m.skyedaily.com/news_view.html?ID=300188",
+          "title": "What Happened to Europe’s Terrorism Problem?",
+          "link": "https://www.nytimes.com/2025/11/19/world/europes-terrorism-isis-russia-nvidia.html?partner=naver",
           "press": "",
-          "date": "2026-03-12"
+          "date": "2025-11-19"
         }
       ],
       "rank": 10
