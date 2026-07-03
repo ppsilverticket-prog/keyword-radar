@@ -1,157 +1,11 @@
 {
-  "updatedAt": "2026-07-03T20:13:04.805Z",
+  "updatedAt": "2026-07-03T21:39:33.180Z",
   "source": "live",
   "keywords": [
     {
-      "keyword": "유조선",
-      "traffic": "2000+",
-      "blogTotal": 115511,
-      "newsTotal": 120112,
-      "recentToday": 84,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "(25.03.10) 시황, 매수매도 / 호르무즈 해협 유조선 오보 소동...",
-          "link": "https://blog.naver.com/sjsjsj890/224212476807",
-          "blogger": "피자의 경제일기",
-          "date": "2026-03-11"
-        },
-        {
-          "title": "12일(목) 미국 경제뉴스 - IEA 비축유 방출. 유조선 피격 여전",
-          "link": "https://blog.naver.com/therich-roy/224213403691",
-          "blogger": "로이킴의 경제이야기",
-          "date": "2026-03-12"
-        },
-        {
-          "title": "호르무즈 해협 전면 폐쇄…유조선 강제 회항으로 인한 코스피...",
-          "link": "https://blog.naver.com/pharmd0808/224246262204",
-          "blogger": "미국의대치대약대입시 한미에듀",
-          "date": "2026-04-09"
-        },
-        {
-          "title": "그리스 유조선도 우리가 스캔합니다.",
-          "link": "https://blog.naver.com/eosho/224255565236",
-          "blogger": "ALL BIM Technologies",
-          "date": "2026-04-17"
-        },
-        {
-          "title": "해외 유조선 피격 시 정치권은 어떻게 반응할까: 위기 상황에서...",
-          "link": "https://blog.naver.com/recreation21/224275563672",
-          "blogger": "초고령사회 중년의 삶과 사회복지 프로그램",
-          "date": "2026-05-05"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "체험보다 경험이 되는 시간 [권지예의 이심전심]",
-          "link": "https://www.hankyung.com/article/2026070349261",
-          "press": "",
-          "date": "2026-07-03"
-        },
-        {
-          "title": "이란, 일본에 원유 다시 판다…제재 면제 연장 관건",
-          "link": "https://www.newsis.com/view/NISX20260703_0003695661",
-          "press": "",
-          "date": "2026-07-03"
-        },
-        {
-          "title": "이란, 7년 만에 일본에 원유 판매 타진…제재 유예 연장 관건",
-          "link": "https://www.news1.kr/world/middleeast-africa/6217594",
-          "press": "",
-          "date": "2026-07-03"
-        },
-        {
-          "title": "전쟁 직전 선단 싹쓸이…호르무즈서 판 바꾼 韓 해운사의 '한 수'",
-          "link": "http://www.joseilbo.com/news/news_read.php?uid=571272&class=17&grp=",
-          "press": "",
-          "date": "2026-07-03"
-        },
-        {
-          "title": "한·필 해사 교류 활성화...해양 전문인력 공동 양성",
-          "link": "https://www.ytn.co.kr/_ln/0115_202607032114352863",
-          "press": "",
-          "date": "2026-07-03"
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "keyword": "민생회복 소비쿠폰",
-      "traffic": "200+",
-      "blogTotal": 368724,
-      "newsTotal": 70099,
-      "recentToday": 83,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "민생회복소비쿠폰 3차 신청 (대상·자격·지급일 우대지역 정보)",
-          "link": "https://blog.naver.com/orchid1024/224248901040",
-          "blogger": "알림의 정석",
-          "date": "2026-04-11"
-        },
-        {
-          "title": "민생회복 소비쿠폰 지원금 신청 방법",
-          "link": "https://rdsong.com/entry/%EB%AF%BC%EC%83%9D%ED%9A%8C%EB%B3%B5-%EC%86%8C%EB%B9%84%EC%BF%A0%ED%8F%B0-%EC%A7%80%EC%9B%90%EA%B8%88-%EC%8B%A0%EC%B2%AD-%EB%B0%A9%EB%B2%95",
-          "blogger": "알송달송IT세상",
-          "date": "2026-05-11"
-        },
-        {
-          "title": "민생회복 소비쿠폰 최대 60만원, 우리 동네는 얼마나 받을까?",
-          "link": "https://blog.naver.com/jtcho/224322257766",
-          "blogger": "1인 경제인으로 살아가기",
-          "date": "2026-06-21"
-        },
-        {
-          "title": "2026 민생회복 소비쿠폰 총정리! 신청방법·지급금액·사용처...",
-          "link": "https://blog.naver.com/sfcduck/224332017099",
-          "blogger": "추억사냥꾼의 소소한 일상*^^*",
-          "date": "2026-07-01"
-        },
-        {
-          "title": "민생회복 소비쿠폰 사진관 후기 민증 재발급 준비",
-          "link": "https://blog.naver.com/skql7373/223966642697",
-          "blogger": "별을세는소년의 밤 하늘",
-          "date": "2025-08-11"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "포항시, 민선9기 민생경제 회복 속도 낸다…소상공인·전통시장 활성화",
-          "link": "https://www.sentv.co.kr/article/view/sentv202607030125",
-          "press": "",
-          "date": "2026-07-03"
-        },
-        {
-          "title": "포항시, 서민경제 불씨 살린다…골목상권·전통시장 체질 개선 본격화",
-          "link": "https://www.getnews.co.kr/news/articleView.html?idxno=874079",
-          "press": "",
-          "date": "2026-07-03"
-        },
-        {
-          "title": "[위클리오늘] 포항시 오늘(7. 3)",
-          "link": "http://www.weeklytoday.com/news/articleView.html?idxno=783461",
-          "press": "",
-          "date": "2026-07-03"
-        },
-        {
-          "title": "포항시, 민생경제 회복 속도…골목상권·전통시장 활성화",
-          "link": "https://www.newsis.com/view/NISX20260703_0003695123",
-          "press": "",
-          "date": "2026-07-03"
-        },
-        {
-          "title": "포항시, 민선9기 민생경제 회복에 총력전",
-          "link": "https://www.wikitree.co.kr/articles/1144603",
-          "press": "",
-          "date": "2026-07-03"
-        }
-      ],
-      "rank": 2
-    },
-    {
       "keyword": "이종석",
-      "traffic": "500+",
-      "blogTotal": 175261,
+      "traffic": "2000+",
+      "blogTotal": 175262,
       "newsTotal": 229879,
       "recentToday": 83,
       "recentWeek": 100,
@@ -219,157 +73,157 @@
           "date": "2026-07-03"
         }
       ],
-      "rank": 3
+      "rank": 1
     },
     {
-      "keyword": "임종훈",
-      "traffic": "1000+",
-      "blogTotal": 10411,
-      "newsTotal": 36046,
-      "recentToday": 57,
-      "recentWeek": 96,
-      "topBlogs": [
-        {
-          "title": "신유빈, 임종훈 포함 12명 출격.. US 스매시 막 올랐다....",
-          "link": "https://blog.naver.com/woksusu/224328384201",
-          "blogger": "빠빠빠의 블로그",
-          "date": "2026-06-26"
-        },
-        {
-          "title": "임종훈 한미정밀화학 대표, 한미사이언스 지분 2.5% 매각",
-          "link": "https://blog.naver.com/gunbo-blog/224335045606",
-          "blogger": "건강보험신문",
-          "date": "2026-07-03"
-        },
-        {
-          "title": "한미사이언스 지분 매각, 임종훈 대표는 왜 모녀 편에 섰나",
-          "link": "https://blog.naver.com/dc8/224334479001",
-          "blogger": "JellyLAB 주가 증시 전망",
-          "date": "2026-07-02"
-        },
-        {
-          "title": "지분 매각 의미는? 임종훈 대표 선택이 경영권에 미친 영향",
-          "link": "https://blog.naver.com/dlrudxor6106/224334480740",
-          "blogger": "주식리뷰",
-          "date": "2026-07-02"
-        },
-        {
-          "title": "\"821억 지분 넘겼다\"…임종훈의 결단, 한미그룹 경영권...",
-          "link": "https://blog.naver.com/stock2023/224334934305",
-          "blogger": "차트통역사",
-          "date": "2026-07-03"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "임종훈 지분 매각…한미 오너일가 경영 갈등 해소 신호탄될까",
-          "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=310623",
-          "press": "",
-          "date": "2026-07-03"
-        },
-        {
-          "title": "임종훈-신유빈, US 스매시 혼합복식 결승 진출! 왕추친-쑨잉샤 조와 우...",
-          "link": "https://www.mediapen.com/news/view/1108144",
-          "press": "",
-          "date": "2026-07-03"
-        },
-        {
-          "title": "임종훈-신유빈, 미국 스매시 결승행… 中 왕추친-쑨잉샤와 우승 격돌",
-          "link": "https://www.sportsworldi.com/newsView/20260703513116",
-          "press": "",
-          "date": "2026-07-03"
-        },
-        {
-          "title": "한미그룹 차남 임종훈, 모녀에 힘 실어…경영권 분쟁 새 국면",
-          "link": "https://news.tf.co.kr/read/economy/2339604.htm",
-          "press": "",
-          "date": "2026-07-03"
-        },
-        {
-          "title": "'세계링킹 1위' 임종훈-신유빈, US스매시 혼합복식 결승 진출",
-          "link": "https://imnews.imbc.com/news/2026/sports/article/6834872_36946.html",
-          "press": "",
-          "date": "2026-07-03"
-        }
-      ],
-      "rank": 4
-    },
-    {
-      "keyword": "트로트",
+      "keyword": "살라",
       "traffic": "200+",
-      "blogTotal": 831388,
-      "newsTotal": 594684,
-      "recentToday": 50,
+      "blogTotal": 422833,
+      "newsTotal": 103143,
+      "recentToday": 75,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "2026 충주 다이브 페스티벌 참관기 K-POP부터 트로트까지...",
-          "link": "https://blog.naver.com/metelsk/224316583001",
-          "blogger": "자발적 마감 노동자",
-          "date": "2026-06-15"
+          "title": "보라카이 호핑투어 추천, 가격 비교 후 후회 없었던 살라맛 후기",
+          "link": "https://blog.naver.com/wlsp0312/224323606465",
+          "blogger": "Sweet Dream♡",
+          "date": "2026-06-22"
         },
         {
-          "title": "천록담·춘길부터 김용빈·손빈아·추혁진까지, 트로트 절친 대결",
-          "link": "https://blog.naver.com/news9kr/224329618278",
-          "blogger": "뉴스나인",
+          "title": "다낭 살라 호텔 수영장 후기 미케비치 근처 숙소 추천",
+          "link": "https://blog.naver.com/tamusee/224311694656",
+          "blogger": "AZIT 반미준",
+          "date": "2026-06-14"
+        },
+        {
+          "title": "보라카이 단독 픽업샌딩 살라맛 추천 칼리보공항에서 숙소까지...",
+          "link": "https://blog.naver.com/unibbanjju/224327867934",
+          "blogger": "나",
+          "date": "2026-06-26"
+        },
+        {
+          "title": "필리핀 보라카이 픽업 샌딩 살라맛 보라카이 이용 후기",
+          "link": "https://blog.naver.com/labravvaa/224334246451",
+          "blogger": "샐리의 산책 여행",
+          "date": "2026-07-02"
+        },
+        {
+          "title": "방콕 살라 라타나코신 후기, 왓아룬 뷰 객실, 조식까지 솔직 후기",
+          "link": "https://blog.naver.com/lovely-syoung/224329808465",
+          "blogger": "셩's 여행노트",
           "date": "2026-06-28"
-        },
-        {
-          "title": "트로트 가수 숙행 프로필 상간녀 진실은 무엇",
-          "link": "https://blog.naver.com/portalnews/224128034284",
-          "blogger": "신차 뉴스포탈",
-          "date": "2025-12-30"
-        },
-        {
-          "title": "구례 화엄사 맛집 세자매가든 트로트가수 박군도 다녀갔어요",
-          "link": "https://blog.naver.com/ckswjd10/224291032154",
-          "blogger": "SHM",
-          "date": "2026-05-20"
-        },
-        {
-          "title": "10대에 ‘트리플 톱3’ 찍은 트로트 천재 김다현 프로필 나이...",
-          "link": "https://blog.naver.com/bky21c/224314464425",
-          "blogger": "토니백’s 맛집.리뷰.사진.일상.주택정보 BLOG",
-          "date": "2026-06-13"
         }
       ],
       "topNews": [
         {
-          "title": "두리, 밤강 위 손뻗은 포즈…'현역가왕' 이후 근황",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16123049",
+          "title": "'살라 파넨카킥' 이집트, 호주에 승부차기 끝에 16강 진출...아시아 전멸",
+          "link": "https://news.jtbc.co.kr/article/NB12306536?influxDiv=NAVER",
           "press": "",
           "date": "2026-07-03"
         },
         {
-          "title": "별사랑, 임신 21주차 남편과 셀카…'가위바위보' 활동 잇는 일상",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16123048",
+          "title": "하메네이 장례식 시작…이란 우호국 집결",
+          "link": "https://news.tf.co.kr/read/world/2339675.htm",
           "press": "",
           "date": "2026-07-03"
         },
         {
-          "title": "구성환, 전현무 비빔밥 재료 어필에 결국 분노…\"파바로티인 줄\" ('나혼...",
-          "link": "https://www.tvreport.co.kr/broadcast/article/1058783/",
+          "title": "살라의 파넨카, 호주의 도박 잠재웠다...이집트, 승부차기 16강행",
+          "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=01118486645511240",
           "press": "",
           "date": "2026-07-03"
         },
         {
-          "title": "트롯 여제는 진행 중… 송가인 장르 넘는 변신",
-          "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3068445",
+          "title": "[월드컵 REVIEW] 일본 이어 호주도 탈락, AFC 국가 전원 OUT...'수타-헤링...",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=689826",
           "press": "",
           "date": "2026-07-03"
         },
         {
-          "title": "박지현 피날레 터진다...양양 들썩인 '전국노래자랑' 여름 축제",
-          "link": "https://www.nc.press/news/articleView.html?idxno=619752",
+          "title": "이란, 오늘부터 하메네이 장례식…“2천만 명 운집 예상”",
+          "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8602094&ref=A",
           "press": "",
           "date": "2026-07-03"
         }
       ],
-      "rank": 5
+      "rank": 2
+    },
+    {
+      "keyword": "민생회복 소비쿠폰",
+      "traffic": "2000+",
+      "blogTotal": 368731,
+      "newsTotal": 70099,
+      "recentToday": 74,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "민생회복소비쿠폰 3차 신청 (대상·자격·지급일 우대지역 정보)",
+          "link": "https://blog.naver.com/orchid1024/224248901040",
+          "blogger": "알림의 정석",
+          "date": "2026-04-11"
+        },
+        {
+          "title": "민생회복 소비쿠폰 지원금 신청 방법",
+          "link": "https://rdsong.com/entry/%EB%AF%BC%EC%83%9D%ED%9A%8C%EB%B3%B5-%EC%86%8C%EB%B9%84%EC%BF%A0%ED%8F%B0-%EC%A7%80%EC%9B%90%EA%B8%88-%EC%8B%A0%EC%B2%AD-%EB%B0%A9%EB%B2%95",
+          "blogger": "알송달송IT세상",
+          "date": "2026-05-11"
+        },
+        {
+          "title": "민생회복 소비쿠폰 최대 60만원, 우리 동네는 얼마나 받을까?",
+          "link": "https://blog.naver.com/jtcho/224322257766",
+          "blogger": "1인 경제인으로 살아가기",
+          "date": "2026-06-21"
+        },
+        {
+          "title": "2026 민생회복 소비쿠폰 총정리! 신청방법·지급금액·사용처...",
+          "link": "https://blog.naver.com/sfcduck/224332017099",
+          "blogger": "추억사냥꾼의 소소한 일상*^^*",
+          "date": "2026-07-01"
+        },
+        {
+          "title": "민생회복 소비쿠폰 사진관 후기 민증 재발급 준비",
+          "link": "https://blog.naver.com/skql7373/223966642697",
+          "blogger": "별을세는소년의 밤 하늘",
+          "date": "2025-08-11"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "포항시, 민선9기 민생경제 회복 속도 낸다…소상공인·전통시장 활성화",
+          "link": "https://www.sentv.co.kr/article/view/sentv202607030125",
+          "press": "",
+          "date": "2026-07-03"
+        },
+        {
+          "title": "포항시, 서민경제 불씨 살린다…골목상권·전통시장 체질 개선 본격화",
+          "link": "https://www.getnews.co.kr/news/articleView.html?idxno=874079",
+          "press": "",
+          "date": "2026-07-03"
+        },
+        {
+          "title": "[위클리오늘] 포항시 오늘(7. 3)",
+          "link": "http://www.weeklytoday.com/news/articleView.html?idxno=783461",
+          "press": "",
+          "date": "2026-07-03"
+        },
+        {
+          "title": "포항시, 민생경제 회복 속도…골목상권·전통시장 활성화",
+          "link": "https://www.newsis.com/view/NISX20260703_0003695123",
+          "press": "",
+          "date": "2026-07-03"
+        },
+        {
+          "title": "포항시, 민선9기 민생경제 회복에 총력전",
+          "link": "https://www.wikitree.co.kr/articles/1144603",
+          "press": "",
+          "date": "2026-07-03"
+        }
+      ],
+      "rank": 3
     },
     {
       "keyword": "북한이탈주민",
-      "traffic": "500+",
+      "traffic": "2000+",
       "blogTotal": 116677,
       "newsTotal": 128635,
       "recentToday": 44,
@@ -438,13 +292,86 @@
           "date": "2026-07-03"
         }
       ],
-      "rank": 6
+      "rank": 4
+    },
+    {
+      "keyword": "별자리",
+      "traffic": "200+",
+      "blogTotal": 993160,
+      "newsTotal": 224536,
+      "recentToday": 7,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "게자리 수성역행 | 큰 영향을 받게 될 별자리 네 곳 by...",
+          "link": "https://blog.naver.com/sunupvibes/224331052008",
+          "blogger": "All light, All right",
+          "date": "2026-07-02"
+        },
+        {
+          "title": "26년 7월 별자리 점성술 기초 수업 - 점성학 입문자 강의",
+          "link": "https://blog.naver.com/elca4301/224332503762",
+          "blogger": "◈루카스 Tarot & Astrology",
+          "date": "2026-07-01"
+        },
+        {
+          "title": "이시이 유카리 2026년 6월 1일~6월 7일 주간 별자리 운세...",
+          "link": "https://blog.naver.com/annecolor/224302772439",
+          "blogger": "몽글몽글 새로 만나는 하루",
+          "date": "2026-06-01"
+        },
+        {
+          "title": "오크밸리리조트 천문대 별자리 관측 예약 및 7살 후기",
+          "link": "https://blog.naver.com/i_loveny/224256524156",
+          "blogger": "빵호야네 잡화점",
+          "date": "2026-04-18"
+        },
+        {
+          "title": "[ARTI. 7] 돗자리를 펴고 별자리를 잇다 :  노원 별자리 명소",
+          "link": "https://blog.naver.com/nowonart/224330337078",
+          "blogger": "노원문화재단 공식 블로그",
+          "date": "2026-06-29"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "울산대곡박물관 특별전, 17일 밤 '천전리 별빛탐험대' 운영",
+          "link": "https://www.newsis.com/view/NISX20260703_0003694885",
+          "press": "",
+          "date": "2026-07-03"
+        },
+        {
+          "title": "[AI] 오늘의 띠별 운세...2026.7.4(토요일)",
+          "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=61189",
+          "press": "",
+          "date": "2026-07-03"
+        },
+        {
+          "title": "[오늘의 운세] 2026년 7월 4일 별자리 운세",
+          "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=01115206645511240",
+          "press": "",
+          "date": "2026-07-03"
+        },
+        {
+          "title": "오색빛깔 맛·멋·흥 가득한 서산 축제로 떠나보자",
+          "link": "https://www.cctoday.co.kr/news/articleView.html?idxno=2231902",
+          "press": "",
+          "date": "2026-07-03"
+        },
+        {
+          "title": "[최지혜의 요즘 트렌드] 운세, 콘텐츠 넘어 산업이 되다",
+          "link": "https://www.hankyung.com/article/2026070349531",
+          "press": "",
+          "date": "2026-07-03"
+        }
+      ],
+      "rank": 5
     },
     {
       "keyword": "australia vs egypt",
-      "traffic": "500+",
-      "blogTotal": 1573,
-      "newsTotal": 151,
+      "traffic": "1000+",
+      "blogTotal": 1574,
+      "newsTotal": 310,
       "recentToday": 2,
       "recentWeek": 5,
       "topBlogs": [
@@ -481,32 +408,105 @@
       ],
       "topNews": [
         {
-          "title": "FIFA WORLD CUP 2026",
-          "link": "https://n.news.naver.com/mnews/article/091/0010249515?sid=104",
+          "title": "AUSTRALIA SOCCER",
+          "link": "https://n.news.naver.com/mnews/article/091/0010249827?sid=104",
+          "press": "",
+          "date": "2026-07-03"
+        },
+        {
+          "title": "AUSTRALIA SOCCER",
+          "link": "https://n.news.naver.com/mnews/article/091/0010249830?sid=104",
           "press": "",
           "date": "2026-07-03"
         },
         {
           "title": "FIFA WORLD CUP 2026",
-          "link": "https://n.news.naver.com/mnews/article/091/0010249514?sid=104",
+          "link": "https://n.news.naver.com/mnews/article/091/0010249829?sid=104",
           "press": "",
           "date": "2026-07-03"
         },
         {
           "title": "FIFA WORLD CUP 2026",
-          "link": "https://n.news.naver.com/mnews/article/091/0010249510?sid=104",
+          "link": "https://n.news.naver.com/mnews/article/091/0010249822?sid=104",
           "press": "",
           "date": "2026-07-03"
         },
         {
           "title": "FIFA WORLD CUP 2026",
-          "link": "https://n.news.naver.com/mnews/article/091/0010249508?sid=104",
+          "link": "https://n.news.naver.com/mnews/article/091/0010249824?sid=104",
+          "press": "",
+          "date": "2026-07-03"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "keyword": "절벽",
+      "traffic": "1000+",
+      "blogTotal": 2151195,
+      "newsTotal": 404856,
+      "recentToday": 0,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "동남아 휴양지 추천, 베트남 꾸이년 여행 에오지오 절벽 풍경",
+          "link": "https://blog.naver.com/1978mm/224278403004",
+          "blogger": "배짱이의 여행스토리",
+          "date": "2026-05-08"
+        },
+        {
+          "title": "인도네시아 발리 울루와투 울루와뚜 절벽사원 선셋 원숭이 천국",
+          "link": "https://blog.naver.com/wjstk6966/224332216434",
+          "blogger": "혜찜니의 귀염뽀짝 블로그",
+          "date": "2026-07-01"
+        },
+        {
+          "title": "원주 스톤크릭 절벽뷰와 판대천이 펼쳐진 애견동반 대형카페",
+          "link": "https://blog.naver.com/kikimsi87/224323666712",
+          "blogger": "몽구의 숟가락 한입로그",
+          "date": "2026-06-22"
+        },
+        {
+          "title": "괌 여행 액티비티 조 제트스키 사랑의절벽",
+          "link": "https://blog.naver.com/jiwoo242712/224315621865",
+          "blogger": "지우의 여행일기",
+          "date": "2026-06-14"
+        },
+        {
+          "title": "전남 여행 구례 사성암 오산 절벽 사찰 전라도 가볼만한곳",
+          "link": "https://blog.naver.com/wlsdlsid_/224321178536",
+          "blogger": "츄디츠의 여행레터",
+          "date": "2026-06-19"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "호불호 확 갈렸는데…전세계 1위 찍어버린 넷플릭스 ‘대반전’ 한국 영...",
+          "link": "https://www.wikitree.co.kr/articles/1144056",
           "press": "",
           "date": "2026-07-03"
         },
         {
-          "title": "FIFA WORLD CUP 2026",
-          "link": "https://n.news.naver.com/mnews/article/091/0010249509?sid=104",
+          "title": "\"자정까지 계약서 씁니다\"…토허구역 D-1 동탄, 막차계약 '북적'",
+          "link": "https://www.newsis.com/view/NISX20260703_0003695363",
+          "press": "",
+          "date": "2026-07-03"
+        },
+        {
+          "title": "사관학교 통합 논쟁 격화...동문 총궐기 반대 예고",
+          "link": "https://www.ytn.co.kr/_ln/0101_202607040530434083",
+          "press": "",
+          "date": "2026-07-03"
+        },
+        {
+          "title": "[여행픽]번뇌 내려놓는 여름…절캉스 어때요",
+          "link": "https://www.sidae.com/article/2026070316383639949",
+          "press": "",
+          "date": "2026-07-03"
+        },
+        {
+          "title": "제천 청풍호, 아고다 선정 '아시아 숨은 호수 여행지' 이름 올려",
+          "link": "https://www.newsis.com/view/NISX20260703_0003694771",
           "press": "",
           "date": "2026-07-03"
         }
@@ -514,72 +514,72 @@
       "rank": 7
     },
     {
-      "keyword": "자승",
-      "traffic": "500+",
-      "blogTotal": 22024,
-      "newsTotal": 39471,
-      "recentToday": 2,
-      "recentWeek": 21,
+      "keyword": "인플루언서",
+      "traffic": "200+",
+      "blogTotal": 2860290,
+      "newsTotal": 421552,
+      "recentToday": 0,
+      "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "자승스님 입적 분신자살과 국정원 윤석열 김건희와의 관련성은?",
-          "link": "https://blog.naver.com/yacho1225/223845274033",
-          "blogger": "심플리 매거진",
-          "date": "2025-04-24"
+          "title": "인플루언서 마케팅 성장 이목 끌었던 업체 진행 후기",
+          "link": "https://blog.naver.com/afsm82/224266810901",
+          "blogger": "chelin’s",
+          "date": "2026-04-27"
         },
         {
-          "title": "6 처음 배우는 사람도 부담 없는 최소자승법 뜻",
-          "link": "https://blog.naver.com/yejeqwyp/224296052471",
-          "blogger": "lgyong96",
-          "date": "2026-05-26"
+          "title": "인플루언서 마케팅 고객 이목 끌어준 업체 진행 후기",
+          "link": "https://blog.naver.com/yoonfrom/224285117684",
+          "blogger": "CKT컴퍼니_브랜드블로그_병원마케팅",
+          "date": "2026-05-14"
         },
         {
-          "title": "자승, 김건희, 윤석열, 국정원 1차장 홍장원.",
-          "link": "https://blog.naver.com/brill99/223784714098",
-          "blogger": "나의 테마는 액션(My Theme Is Action)",
-          "date": "2025-03-05"
+          "title": "인플루언서 마케팅 소비자 이목 끌었던 업체 진행 후기",
+          "link": "https://blog.naver.com/yujin2day/224242719722",
+          "blogger": "소소한 이야기",
+          "date": "2026-04-06"
         },
         {
-          "title": "최소자승법 탄생한 이유, 측정 오차 속에서 최선의 해를 찾는 방법",
-          "link": "https://blog.naver.com/gurwn1725/224126945341",
-          "blogger": "방구석 어학연수",
-          "date": "2025-12-29"
+          "title": "인플루언서 마케팅 성장의 기반이 되어준 SNS샵 실행 후기",
+          "link": "https://blog.naver.com/wind380/224231650656",
+          "blogger": "LCT대박 공인중개사무소",
+          "date": "2026-03-27"
         },
         {
-          "title": "자승스님 프로필 나이 고향 입적 분신 사망 사건 총정리",
-          "link": "https://blog.naver.com/denny1017/223961929585",
-          "blogger": "데니이슈의 데일리뉴스",
-          "date": "2025-08-07"
+          "title": "네이버 리빙 인플루언서 수익 삼쩜삼 종합소득세 신고 후기",
+          "link": "https://blog.naver.com/ulsune/224297589886",
+          "blogger": "울수네 신혼집 이야기",
+          "date": "2026-05-27"
         }
       ],
       "topNews": [
         {
-          "title": "조계종 \"자승스님 재산 귀속 이미 완료…무분별한 의혹 법적 대응\"",
-          "link": "https://www.newsis.com/view/NISX20260703_0003695286",
+          "title": "“중국산 최고” “신이 내려준 선물” 품절 대란…유럽 난리 난 이유 ...",
+          "link": "https://www.seoul.co.kr/news/international/topic-global/2026/07/02/20260702500219?wlog_tag3=naver",
           "press": "",
           "date": "2026-07-03"
         },
         {
-          "title": "조계종 \"자승 전 총무원장 재산 종단 귀속, 행정적으로 완료\"",
-          "link": "http://www.yonhapnewstv.co.kr/news/AKR20260703162008M8R",
+          "title": "'6살 연하♥' 장동민, 사랑 받는 사위였다…\"볼 뽀뽀 받은 사람 나밖에...",
+          "link": "https://www.tenasia.co.kr/article/2026070334184",
           "press": "",
           "date": "2026-07-03"
         },
         {
-          "title": "조계종 “자승 전 총무원장 재산 종단 귀속 완료”",
-          "link": "https://www.khan.co.kr/article/202607031533001",
+          "title": "월드컵 여신, 크로아티아 동점골 VAR 취소→32강 탈락에 좌절…\"우린 정...",
+          "link": "https://www.xportsnews.com/article/2167957",
           "press": "",
           "date": "2026-07-03"
         },
         {
-          "title": "조계종 \"자승 전 총무원장 재산 종단 귀속, 행정적으로 완료\"",
-          "link": "https://www.yna.co.kr/view/AKR20260703103800005?input=1195m",
+          "title": "‘패션 비수기’ 옛말···웰메이드, 기간 한정 ‘여름 특가전’ 할인...",
+          "link": "https://sports.khan.co.kr/article/202607040208003?pt=nv",
           "press": "",
           "date": "2026-07-03"
         },
         {
-          "title": "야단법석승가회 \"조계사 진우스님, 자승스님 유산 환수안해\" 호법부 고...",
-          "link": "http://www.breaknews.com/1218918",
+          "title": "강민혁, 베를린 햇살 아래 여유로운 카페 한 컷",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16123050",
           "press": "",
           "date": "2026-07-03"
         }
@@ -588,9 +588,9 @@
     },
     {
       "keyword": "서울경제",
-      "traffic": "1000+",
-      "blogTotal": 4007291,
-      "newsTotal": 1270249,
+      "traffic": "2000+",
+      "blogTotal": 4007357,
+      "newsTotal": 1270250,
       "recentToday": 0,
       "recentWeek": 100,
       "topBlogs": [
@@ -627,6 +627,12 @@
       ],
       "topNews": [
         {
+          "title": "휴온스, 안구건조증 신약 첫 환자 등록…임상 2상 착수",
+          "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=848222",
+          "press": "",
+          "date": "2026-07-03"
+        },
+        {
           "title": "[단독]서울 여성기업 68만곳, 창업·자금·판로 지원 한 번에 받는다",
           "link": "https://www.news1.kr/local/moi/6217257",
           "press": "",
@@ -649,21 +655,15 @@
           "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=848226",
           "press": "",
           "date": "2026-07-03"
-        },
-        {
-          "title": "제주목장 교배지원 마감… '닉스고' 교배 1위",
-          "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=848225",
-          "press": "",
-          "date": "2026-07-03"
         }
       ],
       "rank": 9
     },
     {
       "keyword": "얼굴",
-      "traffic": "500+",
-      "blogTotal": 49578769,
-      "newsTotal": 5298776,
+      "traffic": "1000+",
+      "blogTotal": 49579547,
+      "newsTotal": 5298802,
       "recentToday": 0,
       "recentWeek": 100,
       "topBlogs": [
@@ -700,32 +700,32 @@
       ],
       "topNews": [
         {
-          "title": "‘걸어서 세계속으로’ 남아프리카공화국, 광활한 자연과 도심 불빛을 ...",
-          "link": "https://sports.khan.co.kr/article/202607040509003?pt=nv",
+          "title": "[월드 투데이] 정치적 발언을 삼가겠다는 드웨인 존슨에 뿔난 할리우드...",
+          "link": "http://www.wikileaks-kr.org/news/articleView.html?idxno=189390",
           "press": "",
           "date": "2026-07-03"
         },
         {
-          "title": "'걸어서 세계속으로' 단 한 번의 아프리카 - 남아프리카공화국",
-          "link": "https://kstar.kbs.co.kr/list_view.html?idx=405035",
+          "title": "호불호 확 갈렸는데…전세계 1위 찍어버린 넷플릭스 ‘대반전’ 한국 영...",
+          "link": "https://www.wikitree.co.kr/articles/1144056",
           "press": "",
           "date": "2026-07-03"
         },
         {
-          "title": "화폐 속 인물 누가 정할까… 트럼프가 쏘아 올린 '화폐 도안'논란",
-          "link": "https://www.lawtimes.co.kr/news/articleView.html?idxno=222421",
+          "title": "\"깜빡이 기분 나빠 그랬다\"...무차별 폭행당한 택시기사",
+          "link": "https://news.jtbc.co.kr/article/NB12306535?influxDiv=NAVER",
           "press": "",
           "date": "2026-07-03"
         },
         {
-          "title": "\"가짜 품질보증서 190장\"···두 남자의 '유리막 보험사기' [거짓을 청구...",
-          "link": "http://www.fnnews.com/news/202607030932599766",
+          "title": "EU 디지털 입국 시스템 혼란...\"성수기 유예\" 요청",
+          "link": "https://www.ytn.co.kr/_ln/0104_202607040623209311",
           "press": "",
           "date": "2026-07-03"
         },
         {
-          "title": "\"상간녀랑 하루 60통씩 통화, 딸이 일러…나랑 같은 옷도 입었더라\"",
-          "link": "https://www.news1.kr/entertain/broadcast-tv/6216932",
+          "title": "권민아, '슈링크 화상' 6개월 만 근황..얼굴 흉터 그대로 '안타까워'",
+          "link": "https://www.sportschosun.com/entertainment/2026-07-04/202607040100024550001338",
           "press": "",
           "date": "2026-07-03"
         }
