@@ -1,13 +1,86 @@
 {
-  "updatedAt": "2026-07-04T14:08:38.600Z",
+  "updatedAt": "2026-07-04T15:41:16.015Z",
   "source": "live",
   "keywords": [
     {
+      "keyword": "로또1231",
+      "traffic": "200+",
+      "blogTotal": 1132,
+      "newsTotal": 128,
+      "recentToday": 94,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "로또6/45 1231회 1등 당첨번호 공개",
+          "link": "https://blog.naver.com/minsimnews/224336445628",
+          "blogger": "민심뉴스",
+          "date": "2026-07-04"
+        },
+        {
+          "title": "생방송 행복드림 로또 6/45 1231회 임하룡, ‘작은 재능’으로...",
+          "link": "https://blog.naver.com/news9kr/224335349157",
+          "blogger": "뉴스나인",
+          "date": "2026-07-03"
+        },
+        {
+          "title": "로또 1등되면 이혼한다는분 1231회",
+          "link": "https://blog.naver.com/tan131/224334943151",
+          "blogger": "블랙러블리의 별별이야기",
+          "date": "2026-07-03"
+        },
+        {
+          "title": "1231회 로또 이번주 예상번호 총정리",
+          "link": "https://blog.naver.com/kopajago/224329416888",
+          "blogger": "이야기 보따리",
+          "date": "2026-06-28"
+        },
+        {
+          "title": "로또 1231회, 당신이 몰랐던 5가지 반전의 기록: 통계와...",
+          "link": "https://blog.naver.com/bymit/224336447391",
+          "blogger": "은하수",
+          "date": "2026-07-04"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "1·2등 동시에 터진 정읍 명당…로또 1231회 1등 17곳·2등 88곳 주소 총...",
+          "link": "https://www.econovill.com/news/articleView.html?idxno=744280",
+          "press": "",
+          "date": "2026-07-04"
+        },
+        {
+          "title": "\"서울에서만 4곳 터졌다\" 1231회 로또1등당첨지역·당첨번호조회",
+          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3626363",
+          "press": "",
+          "date": "2026-07-04"
+        },
+        {
+          "title": "로또 당첨번호 지역 1231회",
+          "link": "https://www.bntnews.co.kr/article/view/bnt202607040156",
+          "press": "",
+          "date": "2026-07-04"
+        },
+        {
+          "title": "7월 4일 1231회 로또 당첨 번호 4·13·14·18·31·38+15…1등 17매·각 1...",
+          "link": "https://www.econovill.com/news/articleView.html?idxno=744278",
+          "press": "",
+          "date": "2026-07-04"
+        },
+        {
+          "title": "1231회 로또 1등 17명…당첨금 각 16억5천만원",
+          "link": "https://www.slist.kr/news/articleView.html?idxno=749612",
+          "press": "",
+          "date": "2026-07-04"
+        }
+      ],
+      "rank": 1
+    },
+    {
       "keyword": "외환위기",
       "traffic": "100+",
-      "blogTotal": 523598,
+      "blogTotal": 523610,
       "newsTotal": 431797,
-      "recentToday": 100,
+      "recentToday": 92,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -73,379 +146,14 @@
           "date": "2026-07-04"
         }
       ],
-      "rank": 1
-    },
-    {
-      "keyword": "데이트",
-      "traffic": "1000+",
-      "blogTotal": 24581993,
-      "newsTotal": 963684,
-      "recentToday": 100,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "왕십리 맛집 데이트 제일곱창 본점",
-          "link": "https://blog.naver.com/samchun2g/224311362263",
-          "blogger": "삼춘~ 어드레 감수광?",
-          "date": "2026-06-10"
-        },
-        {
-          "title": "서울근교 드라이브 카페 데이트 코스 양평 소풍",
-          "link": "https://blog.naver.com/tcacyc/224331160902",
-          "blogger": "일상탈출",
-          "date": "2026-06-30"
-        },
-        {
-          "title": "여의도 맛집 퐁피두센터 서울 핫플 데이트 파르노",
-          "link": "https://blog.naver.com/lieni67/224331669678",
-          "blogger": "Hello Summer",
-          "date": "2026-06-30"
-        },
-        {
-          "title": "노원 데이트 실내 놀거리 서울 수영장 스윔핏",
-          "link": "https://blog.naver.com/amyangela/224329610965",
-          "blogger": "태운의 판타스틱 여행이야기",
-          "date": "2026-06-28"
-        },
-        {
-          "title": "남양주 드라이브 데이트 코스 북한강 대형 카페 리버나인",
-          "link": "https://blog.naver.com/withou122/224335791236",
-          "blogger": "여행하고 맛보는 자유부인♡",
-          "date": "2026-07-03"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "'오상진♥' 김소영, 아나운서 선배+출판 선배 박혜진 만나('띵그리TV'",
-          "link": "http://www.osen.co.kr/article/G1112834154",
-          "press": "",
-          "date": "2026-07-04"
-        },
-        {
-          "title": "김소영 子, 태어난 지 3달 만에 ♥오상진 따라 야구팬('띵그리TV')[순간...",
-          "link": "http://www.osen.co.kr/article/G1112834136",
-          "press": "",
-          "date": "2026-07-04"
-        },
-        {
-          "title": "'세 아이 엄마' 일본 톱 여가수, 유부남과 불륜 들통…열도 발칵",
-          "link": "https://www.mt.co.kr/society/2026/07/04/2026070422121424757",
-          "press": "",
-          "date": "2026-07-04"
-        },
-        {
-          "title": "'사립초 子' 이현이, 자녀 이성 교제 고민 \"어디까지 아는 체 해도 되나...",
-          "link": "http://www.osen.co.kr/article/G1112834000",
-          "press": "",
-          "date": "2026-07-04"
-        },
-        {
-          "title": "만취해 경찰 때리고 유치장 이불을 화장실에…난동-기행 50대女 징역 2년",
-          "link": "https://www.donga.com/news/Society/article/all/20260704/134235991/2",
-          "press": "",
-          "date": "2026-07-04"
-        }
-      ],
       "rank": 2
-    },
-    {
-      "keyword": "로또1231",
-      "traffic": "200+",
-      "blogTotal": 1109,
-      "newsTotal": 125,
-      "recentToday": 100,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "로또6/45 1231회 1등 당첨번호 공개",
-          "link": "https://blog.naver.com/minsimnews/224336445628",
-          "blogger": "민심뉴스",
-          "date": "2026-07-04"
-        },
-        {
-          "title": "생방송 행복드림 로또 6/45 1231회 임하룡, ‘작은 재능’으로...",
-          "link": "https://blog.naver.com/news9kr/224335349157",
-          "blogger": "뉴스나인",
-          "date": "2026-07-03"
-        },
-        {
-          "title": "로또 1등되면 이혼한다는분 1231회",
-          "link": "https://blog.naver.com/tan131/224334943151",
-          "blogger": "블랙러블리의 별별이야기",
-          "date": "2026-07-03"
-        },
-        {
-          "title": "1231회 로또 이번주 예상번호 총정리",
-          "link": "https://blog.naver.com/kopajago/224329416888",
-          "blogger": "이야기 보따리",
-          "date": "2026-06-28"
-        },
-        {
-          "title": "로또 1231회, 당신이 몰랐던 5가지 반전의 기록: 통계와...",
-          "link": "https://blog.naver.com/bymit/224336447391",
-          "blogger": "은하수",
-          "date": "2026-07-04"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "7월 4일 1231회 로또 당첨 번호 4·13·14·18·31·38+15…1등 17매·각 1...",
-          "link": "https://www.econovill.com/news/articleView.html?idxno=744278",
-          "press": "",
-          "date": "2026-07-04"
-        },
-        {
-          "title": "1231회 로또 1등 17명…당첨금 각 16억5천만원",
-          "link": "https://www.slist.kr/news/articleView.html?idxno=749612",
-          "press": "",
-          "date": "2026-07-04"
-        },
-        {
-          "title": "1231회 로또 1등 17명…당첨금 각 16억5000만원",
-          "link": "https://www.kado.net/news/articleView.html?idxno=2059389",
-          "press": "",
-          "date": "2026-07-04"
-        },
-        {
-          "title": "로또 1231회 당첨번호 공개-1등 17명 탄생, 각 16억5299만원씩 받는다",
-          "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=82623",
-          "press": "",
-          "date": "2026-07-04"
-        },
-        {
-          "title": "[속보]로또 ‘4,13,14,18,31,38’ 1등 17명…당첨금 각 16억5천만원",
-          "link": "https://biz.heraldcorp.com/article/10798165?ref=naver",
-          "press": "",
-          "date": "2026-07-04"
-        }
-      ],
-      "rank": 3
-    },
-    {
-      "keyword": "공유",
-      "traffic": "1000+",
-      "blogTotal": 39127908,
-      "newsTotal": 8793987,
-      "recentToday": 100,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "행정사 2차 인강 후기 공유, 강의 선생님 추천",
-          "link": "https://blog.naver.com/hackers_lawschool/224331993140",
-          "blogger": "해커스로스쿨·노무사·변호사",
-          "date": "2026-07-03"
-        },
-        {
-          "title": "거여마천뉴타운 단독,다가구주택 공유지분 분양자격 시리즈 ②",
-          "link": "https://blog.naver.com/youus/224335460378",
-          "blogger": "거여마천뉴타운재개발",
-          "date": "2026-07-03"
-        },
-        {
-          "title": "반찬 공유 문화는 전통이 아님",
-          "link": "https://blog.naver.com/cityhuntorr/224336195778",
-          "blogger": "낭만닥터 SJ",
-          "date": "2026-07-04"
-        },
-        {
-          "title": "비상주 공유오피스 금액 보다 중요한 3가지",
-          "link": "https://blog.naver.com/ceojerrypark/224335247665",
-          "blogger": "공유오피스 디노플레이스",
-          "date": "2026-07-03"
-        },
-        {
-          "title": "도깨비 10주년 여행, 공유 김고은 이동욱 유인나 재회! tvN...",
-          "link": "https://blog.naver.com/shushu9988/224336453792",
-          "blogger": "재린슈슈의 리뷰노트",
-          "date": "2026-07-04"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "'전북 잡고 2위' 정경호 감독 \"60~70분 우리 계획대로 됐다\" [전주 현장]",
-          "link": "https://www.starnewskorea.com/sports/2026/07/04/2026070422522243872",
-          "press": "",
-          "date": "2026-07-04"
-        },
-        {
-          "title": "공유·김고은, 나이차 '12살'인데 \"친구처럼 잘지내..이동욱보다 자주 연...",
-          "link": "http://www.osen.co.kr/article/G1112834140",
-          "press": "",
-          "date": "2026-07-04"
-        },
-        {
-          "title": "[MSI 현장] T1 꺾은 BLG 바이퍼, \"친정팀 한화생명 넘고 결승 가겠다\"",
-          "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=59151",
-          "press": "",
-          "date": "2026-07-04"
-        },
-        {
-          "title": "공유, 김고은과 '도깨비' 명장면 재현 \"징그러워…기분 이상해\" ('도깨비...",
-          "link": "https://www.tvreport.co.kr/broadcast/article/1058913/",
-          "press": "",
-          "date": "2026-07-04"
-        },
-        {
-          "title": "\"실무형 인재 양성\" 한국공학대, '반도체 캡스톤디자인 경진대회' 성료",
-          "link": "https://www.cstimes.com/news/articleView.html?idxno=712224",
-          "press": "",
-          "date": "2026-07-04"
-        }
-      ],
-      "rank": 4
-    },
-    {
-      "keyword": "프로야구",
-      "traffic": "100+",
-      "blogTotal": 1020460,
-      "newsTotal": 3102111,
-      "recentToday": 100,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "실황 파워풀 프로야구 2026-2027 리뷰 (닌텐도 스위치)",
-          "link": "https://blog.naver.com/neozoro75/224315691439",
-          "blogger": "마인부우님의 블로그",
-          "date": "2026-06-14"
-        },
-        {
-          "title": "승부치기란 무엇이고 KBO 프로야구 도입 가능성은? 메이저리그...",
-          "link": "https://blog.naver.com/caleb0901/224323073026",
-          "blogger": "이과장의 스포츠",
-          "date": "2026-06-22"
-        },
-        {
-          "title": "2026년 5월 8일(금) 2025 신한 SOL뱅크 KBO리그 프로야구...",
-          "link": "https://blog.naver.com/oursun2/224279442016",
-          "blogger": "최선을 다하라! 그리고 기다려라!",
-          "date": "2026-05-09"
-        },
-        {
-          "title": "축구 월드컵의 해 프로야구 우승은 삼성 아니면 SK",
-          "link": "https://blog.naver.com/hardstuff/224313856195",
-          "blogger": "漢文에 감춰진 野球의 言語",
-          "date": "2026-06-12"
-        },
-        {
-          "title": "2026 프로야구 일정 중계 결과 예매방법 순위 알아보기...",
-          "link": "https://blog.naver.com/cocochoi_/224302481880",
-          "blogger": "경제한나",
-          "date": "2026-06-01"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "LG 트윈스, '최소 경기 100만 관중' KBO 신기록 갈아치웠다",
-          "link": "https://news.jtbc.co.kr/article/NB12306602?influxDiv=NAVER",
-          "press": "",
-          "date": "2026-07-04"
-        },
-        {
-          "title": "[AI상보] '장현식 5이닝 무실점' LG, 한화 5-3으로 꺾고 전날 패배 설욕",
-          "link": "https://www.newspim.com/news/view/20260704000070",
-          "press": "",
-          "date": "2026-07-04"
-        },
-        {
-          "title": "'선발 전환' LG 장현식 \"후반기엔 더 많은 이닝 책임질 것\"",
-          "link": "https://www.yna.co.kr/view/AKR20260704041800007?input=1195m",
-          "press": "",
-          "date": "2026-07-04"
-        },
-        {
-          "title": "LG 염경엽 감독 \"지키는 야구로 이겨…오스틴 추가 타점도 승리에 영향...",
-          "link": "https://www.newsis.com/view/NISX20260704_0003696001",
-          "press": "",
-          "date": "2026-07-04"
-        },
-        {
-          "title": "\"실점 없이 잘 막았다\"…비슬리-이이무라-최준용-김원중, 롯데 필승공식...",
-          "link": "http://www.osen.co.kr/article/G1112834096",
-          "press": "",
-          "date": "2026-07-04"
-        }
-      ],
-      "rank": 5
-    },
-    {
-      "keyword": "나 혼자 산다",
-      "traffic": "5000+",
-      "blogTotal": 631594,
-      "newsTotal": 331619,
-      "recentToday": 100,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "[메디니스 셀룰라] 자동 롤러 마사지기 나혼자 산다 조이 내돈내산",
-          "link": "https://blog.naver.com/80cool80/224336193208",
-          "blogger": "써니쏭",
-          "date": "2026-07-04"
-        },
-        {
-          "title": "나혼자산다 단체티 수련회 옷 티셔츠 나혼산 전현무 무지개...",
-          "link": "https://blog.naver.com/tazsun20/224336199210",
-          "blogger": "꿀리뷰",
-          "date": "2026-07-04"
-        },
-        {
-          "title": "나혼자산다 음료수 수련회 제로 탄산 음료 해피즈 나혼산",
-          "link": "https://blog.naver.com/fine8765/224336313501",
-          "blogger": "방구석 꿀잼❤️",
-          "date": "2026-07-04"
-        },
-        {
-          "title": "김신영 김치호떡 레시피, 나혼자산다 김치전 따라 만들어봤어요",
-          "link": "https://blog.naver.com/theokh/224334875256",
-          "blogger": "소소하루",
-          "date": "2026-07-03"
-        },
-        {
-          "title": "<나 혼자 산다>, 무지개 회원 13명이 만든 여름 수련회의 힘.....",
-          "link": "https://blog.naver.com/withinnews/224336025319",
-          "blogger": "위드인뉴스",
-          "date": "2026-07-04"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "전현무, 소름 돋는 도플갱어 등장..시계까지 같은 이동휘와 투 샷 “잃...",
-          "link": "http://www.osen.co.kr/article/G1112834146",
-          "press": "",
-          "date": "2026-07-04"
-        },
-        {
-          "title": "구성환, 이주승 우승 상금 1억 기부에 \"대단하고 멋지고 리스펙\"",
-          "link": "https://www.news1.kr/entertain/celebrity-topic/6217826",
-          "press": "",
-          "date": "2026-07-04"
-        },
-        {
-          "title": "손담비, 속초 바다 앞 여유 만끽…슬림한 휴가지 비주얼",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16123656",
-          "press": "",
-          "date": "2026-07-04"
-        },
-        {
-          "title": "'제주살이 3년 차' 소녀시대 유리, 다음 주 '나 혼자 산다' 나온다",
-          "link": "https://www.nocutnews.co.kr/news/6543097?utm_source=naver&utm_medium=article&utm_campaign=20260704055423",
-          "press": "",
-          "date": "2026-07-04"
-        },
-        {
-          "title": "\"땅 사고 철망으로 막는 순간 싸움 시작... 말뚝은 마음속에만 \"",
-          "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003248699&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
-          "press": "",
-          "date": "2026-07-04"
-        }
-      ],
-      "rank": 6
     },
     {
       "keyword": "시진핑",
       "traffic": "200+",
-      "blogTotal": 444539,
-      "newsTotal": 571246,
-      "recentToday": 86,
+      "blogTotal": 444542,
+      "newsTotal": 571247,
+      "recentToday": 88,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -481,6 +189,12 @@
       ],
       "topNews": [
         {
+          "title": "‘이제 만나러 갑니다’ 북한 방문한 시진핑(이만갑)",
+          "link": "https://www.bntnews.co.kr/article/view/bnt202607030204",
+          "press": "",
+          "date": "2026-07-04"
+        },
+        {
           "title": "'쌍핵'과 '양패', 중국이 추구하는 국제질서는 무엇인가[민교협의 시선...",
           "link": "https://www.pressian.com/pages/articles/2026070410063380069?utm_source=naver&utm_medium=search",
           "press": "",
@@ -503,96 +217,163 @@
           "link": "https://www.hankyung.com/article/2026070346646",
           "press": "",
           "date": "2026-07-04"
-        },
-        {
-          "title": "미얀마 대통령, 첫 아세안 순방으로 라오스 방문…양국 협력 확대",
-          "link": "https://www.g-enews.com/view.php?ud=202607041145283269ea13369bfa_1",
-          "press": "",
-          "date": "2026-07-04"
         }
       ],
-      "rank": 7
+      "rank": 3
     },
     {
-      "keyword": "리오스",
-      "traffic": "200+",
-      "blogTotal": 29309,
-      "newsTotal": 22861,
-      "recentToday": 37,
+      "keyword": "fifa world cup 2026",
+      "traffic": "2000+",
+      "blogTotal": 5136,
+      "newsTotal": 12787,
+      "recentToday": 58,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "LG ‘옵트아웃’ 고우석 복귀하면 리오스 선발투수로 교체",
-          "link": "https://blog.naver.com/hardstuff/224334882100",
-          "blogger": "漢文에 감춰진 野球의 言語",
-          "date": "2026-07-03"
+          "title": "[스포츠] FIFA World Cup 2026",
+          "link": "https://blog.naver.com/theukc/224312346757",
+          "blogger": "더 영국 컨설팅 THE UKC",
+          "date": "2026-06-11"
         },
         {
-          "title": "\"실력은 둘째 치고..\" LG 팬들이 불펜 용병 리오스의 재교체를...",
-          "link": "https://blog.naver.com/sjhw118/224333633518",
-          "blogger": "축잘알을 향하여",
-          "date": "2026-07-02"
-        },
-        {
-          "title": "LG 158km 괴물 리오스 등장, KT 이강철 감독이 안도한 진짜...",
-          "link": "https://blog.naver.com/rlfehdud/224313478866",
-          "blogger": "두 아들 아빠의 아마추어 선수 도전기",
+          "title": "FIFA World Cup 2026™ - 밴쿠버",
+          "link": "https://blog.naver.com/canadawow/224313091059",
+          "blogger": "캐나다관광청 공식블로그",
           "date": "2026-06-12"
         },
         {
-          "title": "【LG트윈스 리오스】 KBO 최고구속 기록 경신한 리오스의...",
-          "link": "https://blog.naver.com/openingdream/224327492783",
-          "blogger": "【드론플레이™Blog】 팩트체크 드론정보와 잡학사전",
-          "date": "2026-06-26"
+          "title": "6월 28일 밴쿠버 그랜빌 스트릿 - 2026 FIFA WorldCup",
+          "link": "https://blog.naver.com/smh3west/224331499909",
+          "blogger": "벤쿠버가 좋다. 그래서 다~아 보여준다, 벤쿠버",
+          "date": "2026-06-30"
         },
         {
-          "title": "KBO리그 강속구 신기록 LG 리오스 시속 161.7km/h 달성",
-          "link": "https://blog.naver.com/hyunyrun/224326896908",
-          "blogger": "누군가의 이야기",
-          "date": "2026-06-25"
+          "title": "FIFA World Cup 2026(6/11~7/19)",
+          "link": "https://blog.naver.com/lijungs/224315176961",
+          "blogger": "어디서든, 무엇이든!",
+          "date": "2026-06-14"
+        },
+        {
+          "title": "(FIFA World Cup 2026 サッカー) 네덜란드 대 일본",
+          "link": "https://blog.naver.com/nonoranghome/224316317749",
+          "blogger": "noranghome님의 블로그",
+          "date": "2026-06-15"
         }
       ],
       "topNews": [
         {
-          "title": "한화와 강백호 좌절 시킨 LG의 수비 하나, 과감한 시프트 '완벽 적중' [잠...",
-          "link": "https://www.xportsnews.com/article/2168216",
+          "title": "FIFA WORLD CUP 2026",
+          "link": "https://n.news.naver.com/mnews/article/091/0010250350?sid=104",
           "press": "",
           "date": "2026-07-04"
         },
         {
-          "title": "[AI상보] '장현식 5이닝 무실점' LG, 한화 5-3으로 꺾고 전날 패배 설욕",
-          "link": "https://www.newspim.com/news/view/20260704000070",
+          "title": "FIFA WORLD CUP 2026",
+          "link": "https://n.news.naver.com/mnews/article/091/0010250325?sid=104",
           "press": "",
           "date": "2026-07-04"
         },
         {
-          "title": "LG 염경엽 감독 \"지키는 야구로 이겨…오스틴 추가 타점도 승리에 영향...",
-          "link": "https://www.newsis.com/view/NISX20260704_0003696001",
+          "title": "FIFA WORLD CUP 2026",
+          "link": "https://n.news.naver.com/mnews/article/091/0010250326?sid=104",
           "press": "",
           "date": "2026-07-04"
         },
         {
-          "title": "'역대 최소 43G 100만 돌파' LG, 염갈량도 만족한 '지키는 야구'... \"많은...",
-          "link": "https://www.starnewskorea.com/sports/2026/07/04/2026070414505865678",
+          "title": "FIFA WORLD CUP 2026",
+          "link": "https://n.news.naver.com/mnews/article/091/0010250327?sid=104",
           "press": "",
           "date": "2026-07-04"
         },
         {
-          "title": "\"추가점 안나와 힘들었다\" 염경엽 LG 감독, 필승조 덕분 안도의 한숨 [M...",
-          "link": "https://www.mydaily.co.kr/page/view/2026070422190699616",
+          "title": "epaselect FIFA WORLD CUP 2026",
+          "link": "https://n.news.naver.com/mnews/article/091/0010250091?sid=104",
           "press": "",
           "date": "2026-07-04"
         }
       ],
-      "rank": 8
+      "rank": 4
+    },
+    {
+      "keyword": "김부장",
+      "traffic": "2000+",
+      "blogTotal": 131183,
+      "newsTotal": 9900,
+      "recentToday": 26,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "잃은 아빠의 절규부터 압도적 액션까지 '김부장' 3회 몰입감 폭발",
+          "link": "https://blog.naver.com/news_curator_j/224335846351",
+          "blogger": "핫 뉴스만 콕 집어요",
+          "date": "2026-07-04"
+        },
+        {
+          "title": "원작 초월 싱크로율! 드라마로 변신한 김부장이 대박 난 이유 분석",
+          "link": "https://blog.naver.com/enternews100/224336285687",
+          "blogger": "이슈톡",
+          "date": "2026-07-04"
+        },
+        {
+          "title": "<김부장> 3회 최고 시청률 23%! 배우 최대훈, 액션 쾌감을...",
+          "link": "https://blog.naver.com/withinnews/224336031120",
+          "blogger": "위드인뉴스",
+          "date": "2026-07-04"
+        },
+        {
+          "title": "[드라마]김부장 4회 줄거리 결말요약 (드디어 행동하는 민지)",
+          "link": "https://blog.naver.com/polo800211/224336539632",
+          "blogger": "솜사탕사랑의 공간",
+          "date": "2026-07-04"
+        },
+        {
+          "title": "넷플릭스 요금제 추천 종류 월 9천원 가격 할인 팁 (합법, 김부장)",
+          "link": "https://blog.naver.com/teemogogo/224336260328",
+          "blogger": "케넨의 하루 - 신혼 홈스토리",
+          "date": "2026-07-04"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "‘김부장’ 소지섭 ‘찐 부성애’ vs 주상욱 ‘악마부성애’ 대립각 세...",
+          "link": "https://sports.khan.co.kr/article/202607050025003?pt=nv",
+          "press": "",
+          "date": "2026-07-04"
+        },
+        {
+          "title": "'액션 폭발' 김부장, 원작 웹툰 결말은? 시청률 30% 예고",
+          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3626313",
+          "press": "",
+          "date": "2026-07-04"
+        },
+        {
+          "title": "[종합] ‘김부장’ 딸 서수민 생존 확인, 5회 예고 소지섭 사투",
+          "link": "https://enter.etoday.co.kr/news/view/299330",
+          "press": "",
+          "date": "2026-07-04"
+        },
+        {
+          "title": "'김부장' 소지섭 VS 주상욱, 극과 극 부성애…조복래, 서수민 생존 알았...",
+          "link": "http://www.tvdaily.co.kr/read.php3?aid=17831747631792664002",
+          "press": "",
+          "date": "2026-07-04"
+        },
+        {
+          "title": "'김부장' 소지섭 딸 서수민, 살아있었다...냉동창고 탈출 시도 [종합]",
+          "link": "https://www.xportsnews.com/article/2168238",
+          "press": "",
+          "date": "2026-07-04"
+        }
+      ],
+      "rank": 5
     },
     {
       "keyword": "이가 시비옹테크",
-      "traffic": "500+",
-      "blogTotal": 4707,
+      "traffic": "1000+",
+      "blogTotal": 4710,
       "newsTotal": 5097,
-      "recentToday": 12,
-      "recentWeek": 65,
+      "recentToday": 14,
+      "recentWeek": 68,
       "topBlogs": [
         {
           "title": "2025 코리아오픈 테니스대회 결승전 소감(이가 시비옹테크...",
@@ -619,10 +400,10 @@
           "date": "2026-07-04"
         },
         {
-          "title": "윔블던 테니스 2026 이가 시비옹테크, 플리스코바 꺾고 3회전...",
-          "link": "https://blog.naver.com/gung_joo2/224334804730",
-          "blogger": "세상의 모든것",
-          "date": "2026-07-03"
+          "title": "코리아오픈 후기 | 8강, 결승전 | 이가 시비옹테크 사인",
+          "link": "https://blog.naver.com/zxver1000/224026900461",
+          "blogger": "융융의 일상",
+          "date": "2025-09-30"
         }
       ],
       "topNews": [
@@ -657,55 +438,213 @@
           "date": "2026-07-03"
         }
       ],
-      "rank": 9
+      "rank": 6
     },
     {
-      "keyword": "나 혼렙 극장판",
-      "traffic": "200+",
-      "blogTotal": 56,
-      "newsTotal": 1,
-      "recentToday": 7,
-      "recentWeek": 7,
+      "keyword": "2026 fifa world cup final date",
+      "traffic": "500+",
+      "blogTotal": 1471,
+      "newsTotal": 11,
+      "recentToday": 5,
+      "recentWeek": 52,
       "topBlogs": [
         {
-          "title": "나혼자만 레벨업 극장판 확정 개봉일 나혼렙 3기?",
-          "link": "https://blog.naver.com/saontsdkss119/224336084843",
-          "blogger": "샹크스",
-          "date": "2026-07-04"
+          "title": "722. 2026 FIFA World Cup Final Countdown!",
+          "link": "https://blog.naver.com/moonchoongho/224311088505",
+          "blogger": "IVEstarshipgive a music for Teenage Girls and Boys",
+          "date": "2026-06-09"
         },
         {
-          "title": "나혼렙 극장판 애니 제작 결정! 비욘드 더 시스템 성우 제작사...",
-          "link": "https://blog.naver.com/bestofeasy/224336389069",
-          "blogger": "취미에 미친 남자",
-          "date": "2026-07-04"
+          "title": "2026 FIFA World Cup 월드컵 영어 표현 모음!",
+          "link": "https://blog.naver.com/timschool/224328981801",
+          "blogger": "팀영어학원",
+          "date": "2026-06-30"
         },
         {
-          "title": "[극장판 나 혼자만 레벨업] 2027 개봉 예정 & 제작 결정 PV",
-          "link": "https://blog.naver.com/yoon77890/224336114297",
-          "blogger": "라톰의 다크섬광",
-          "date": "2026-07-04"
+          "title": "2026 FIFA World Cup 관련된 실생활 영어 표현",
+          "link": "https://blog.naver.com/aszyu114/224298900418",
+          "blogger": "육아와 영어공부를 재미있게 !",
+          "date": "2026-05-28"
         },
         {
-          "title": "나혼자만 레벨업 3기 방영일 줄거리 나혼렙 극장판 나온다?",
-          "link": "https://blog.naver.com/kijoon1018/224184310794",
-          "blogger": "The New Vision",
-          "date": "2026-02-15"
+          "title": "Why is the FIFA World Cup 2026 being held in three...",
+          "link": "https://blog.naver.com/bravocasino/224312300386",
+          "blogger": "♡초이스경제",
+          "date": "2026-06-11"
         },
         {
-          "title": "[극장판 나 혼자만 레벨업: 비욘드 더 시스템] 전율의 스크린...",
-          "link": "https://blog.naver.com/gh6423/224336498745",
-          "blogger": "빛과 어둠을 관장하는 마법사",
-          "date": "2026-07-04"
+          "title": "FIFA announces Super Bowl-style World Cup final...",
+          "link": "https://blog.naver.com/clarayam888/224286748010",
+          "blogger": "미리수얌의 소확행",
+          "date": "2026-05-15"
         }
       ],
       "topNews": [
         {
-          "title": "넷마블, 나혼렙:어라이즈 레벨업에 4분기 연속 흑자전환 전망",
-          "link": "https://www.news1.kr/it-science/game-review/5575001",
+          "title": "No all-nighters this time: Korea gets a brunch-time World Cup",
+          "link": "https://www.koreaherald.com/article/10767400?ref=naver",
           "press": "",
-          "date": "2024-10-22"
+          "date": "2026-06-09"
+        },
+        {
+          "title": "방탄소년단, 완전체로 맞는 데뷔 13주년 축제..‘BTS FESTA’ 타임 테이...",
+          "link": "http://www.breaknews.com/1211085",
+          "press": "",
+          "date": "2026-06-01"
+        },
+        {
+          "title": "The Action Before the Action at the World Cup",
+          "link": "https://www.nytimes.com/2026/05/08/sports/soccer/world-cup-2026-warmup-games.html?partner=naver",
+          "press": "",
+          "date": "2026-05-08"
+        },
+        {
+          "title": "With Winter Games Over, Concerns Over L.A. Olympics Come Into Focus",
+          "link": "https://www.nytimes.com/2026/02/21/us/la-olympics-casey-wasserman-epstein.html?partner=naver",
+          "press": "",
+          "date": "2026-02-21"
+        },
+        {
+          "title": "What About Larry Ellison’s Billions?",
+          "link": "https://www.nytimes.com/2025/12/12/business/dealbook/ellison-paramount-oracle-warner-bros-financing.html?partner=naver",
+          "press": "",
+          "date": "2025-12-12"
         }
       ],
+      "rank": 7
+    },
+    {
+      "keyword": "ind vs eng",
+      "traffic": "500+",
+      "blogTotal": 1945,
+      "newsTotal": 1,
+      "recentToday": 0,
+      "recentWeek": 0,
+      "topBlogs": [
+        {
+          "title": "[인도-뉴스]  뭄바이: RTO 관계자, 학교 학생들을 위한 도로 안전...",
+          "link": "https://blog.naver.com/kangyeou/223929229321",
+          "blogger": "YEOUNG",
+          "date": "2025-07-10"
+        },
+        {
+          "title": "20│비비│야생의 형서씨가 나타났다❕❕ 비비 vs 편집, 숨...",
+          "link": "https://blog.naver.com/daniel9059/223915700683",
+          "blogger": "3 Dimensional",
+          "date": "2025-06-29"
+        },
+        {
+          "title": "[인도-뉴스] 인도의 슈반슈 슈크라, 지구로 귀환하는 승무원...",
+          "link": "https://blog.naver.com/kangyeou/223933627145",
+          "blogger": "YEOUNG",
+          "date": "2025-07-14"
+        },
+        {
+          "title": "2025년 7월 3일 오늘의 트렌드",
+          "link": "https://blog.naver.com/pppser/223920100709",
+          "blogger": "매일매일",
+          "date": "2025-07-03"
+        },
+        {
+          "title": "6월30일-7월4일 주간간 키워드 검색량 리스트",
+          "link": "https://blog.naver.com/zeenty/223925755519",
+          "blogger": "지니의 아카이브",
+          "date": "2025-07-08"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "[강경석의 리튬이온 배터리(LIB) 이야기] 리튬이온 배터리 화재, 소화기...",
+          "link": "http://fpn119.co.kr/225909",
+          "press": "",
+          "date": "2024-12-02"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "keyword": "데이트",
+      "traffic": "2000+",
+      "blogTotal": 24583197,
+      "newsTotal": 963689,
+      "recentToday": 0,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "왕십리 맛집 데이트 제일곱창 본점",
+          "link": "https://blog.naver.com/samchun2g/224311362263",
+          "blogger": "삼춘~ 어드레 감수광?",
+          "date": "2026-06-10"
+        },
+        {
+          "title": "서울근교 드라이브 카페 데이트 코스 양평 소풍",
+          "link": "https://blog.naver.com/tcacyc/224331160902",
+          "blogger": "일상탈출",
+          "date": "2026-06-30"
+        },
+        {
+          "title": "여의도 맛집 퐁피두센터 서울 핫플 데이트 파르노",
+          "link": "https://blog.naver.com/lieni67/224331669678",
+          "blogger": "Hello Summer",
+          "date": "2026-06-30"
+        },
+        {
+          "title": "노원 데이트 실내 놀거리 서울 수영장 스윔핏",
+          "link": "https://blog.naver.com/amyangela/224329610965",
+          "blogger": "태운의 판타스틱 여행이야기",
+          "date": "2026-06-28"
+        },
+        {
+          "title": "남양주 드라이브 데이트 코스 북한강 대형 카페 리버나인",
+          "link": "https://blog.naver.com/withou122/224335791236",
+          "blogger": "여행하고 맛보는 자유부인♡",
+          "date": "2026-07-03"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "[오늘의 운세] 7월 5일 일요일 (음력 5월 21일) 띠별 운세",
+          "link": "https://www.kyeonggi.com/article/20260629580534",
+          "press": "",
+          "date": "2026-07-04"
+        },
+        {
+          "title": "[★오늘의 운세] 2026년 7월 5일(일) 당신의 별자리 운세",
+          "link": "https://www.news2day.co.kr/article/20260703500095",
+          "press": "",
+          "date": "2026-07-04"
+        },
+        {
+          "title": "[오늘의 운세] 2026년 7월 5일 띠별 운세",
+          "link": "https://www.news1.kr/life-culture/fortune-wisesaying/6217319",
+          "press": "",
+          "date": "2026-07-04"
+        },
+        {
+          "title": "한혜진, '8세 연하' 기성용에 '장발' 주문 \"새로운 사람과…\"",
+          "link": "https://www.newsis.com/view/NISX20260704_0003695975",
+          "press": "",
+          "date": "2026-07-04"
+        },
+        {
+          "title": "서준영, 출연료 못 받았는데…사비로 매니저 월급 챙겼다 (신랑수업2)",
+          "link": "http://enews.imbc.com/News/RetrieveNewsInfo/510435",
+          "press": "",
+          "date": "2026-07-04"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "keyword": "리오스",
+      "traffic": "200+",
+      "blogTotal": 0,
+      "newsTotal": 0,
+      "recentToday": 0,
+      "recentWeek": 0,
+      "topBlogs": [],
+      "topNews": [],
+      "error": "HTTP 429 https://openapi.naver.com/v1/search/blog.json?query=%EB%A6%AC%EC%98%A4%EC%8A%A4&display=5&sort=sim",
       "rank": 10
     }
   ]
