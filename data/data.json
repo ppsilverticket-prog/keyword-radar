@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-04T22:28:16.330Z",
+  "updatedAt": "2026-07-04T23:33:31.350Z",
   "source": "live",
   "keywords": [
     {
       "keyword": "젤리 슈즈",
       "traffic": "100+",
-      "blogTotal": 67124,
+      "blogTotal": 67130,
       "newsTotal": 4926,
-      "recentToday": 74,
+      "recentToday": 68,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -76,11 +76,84 @@
       "rank": 1
     },
     {
+      "keyword": "다음",
+      "traffic": "1000+",
+      "blogTotal": 314322,
+      "newsTotal": 143419,
+      "recentToday": 64,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "한메일 로그인 방법 찾기 다음 메일 계정 주소",
+          "link": "https://blog.naver.com/kdjmoney/223990286746",
+          "blogger": "경제코기",
+          "date": "2025-08-31"
+        },
+        {
+          "title": "한메일 로그인 방법 찾기 및 다음 메일 계정 주소 복구는",
+          "link": "https://blog.naver.com/sijosarang/224088682572",
+          "blogger": "⭐메디컬지식연구소⭐",
+          "date": "2025-11-26"
+        },
+        {
+          "title": "한메일 로그인 방법 찾기 다음 메일 계정 주소 복구",
+          "link": "https://blog.naver.com/cnblue1141/224028874774",
+          "blogger": "경제한입",
+          "date": "2025-10-01"
+        },
+        {
+          "title": "다음 고객센터 상담원 연결 문의방법 전화번호 단축경로",
+          "link": "https://blog.naver.com/chocolateelf/224331638536",
+          "blogger": "집순이의 현명한 제품 선택기",
+          "date": "2026-06-30"
+        },
+        {
+          "title": "카카오 다음 매각 초읽기 구조적으로 바뀌는 신호? 주가도...",
+          "link": "https://blog.naver.com/nasiba5083/224147147010",
+          "blogger": "콘시토르의 경제 유니버스",
+          "date": "2026-01-15"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "[심규진 칼럼] 언플로 흥한 자, 언플로 망한다: 한동훈의 나르시시즘 정...",
+          "link": "https://www.mediawatch.kr/news/article.html?no=260288",
+          "press": "",
+          "date": "2026-07-04"
+        },
+        {
+          "title": "피할 수 없는 AI 흐름, 네이버·다음 '새 전략' 짠다...\"진짜 역할은?\"",
+          "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=314465",
+          "press": "",
+          "date": "2026-07-02"
+        },
+        {
+          "title": "요약부터 대화까지…네이버·다음 AI 검색 경쟁 시작",
+          "link": "https://view.asiae.co.kr/article/2026070108183009783",
+          "press": "",
+          "date": "2026-07-01"
+        },
+        {
+          "title": "[테크M 이슈] \"검색창이 달라졌다\" 네이버·다음, 포털 AI 검색 생태계 ...",
+          "link": "https://www.techm.kr/news/articleView.html?idxno=153046",
+          "press": "",
+          "date": "2026-07-01"
+        },
+        {
+          "title": "[더벨][Company Watch] 시장 평가 앞둔 와이즈플래닛, 웰니스 플랫폼 색채...",
+          "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202606291119246800103863",
+          "press": "",
+          "date": "2026-07-01"
+        }
+      ],
+      "rank": 2
+    },
+    {
       "keyword": "로또번호",
-      "traffic": "500+",
-      "blogTotal": 143718,
-      "newsTotal": 111231,
-      "recentToday": 56,
+      "traffic": "1000+",
+      "blogTotal": 143725,
+      "newsTotal": 111234,
+      "recentToday": 51,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -116,6 +189,24 @@
       ],
       "topNews": [
         {
+          "title": "로또 당첨번호조회-1231회",
+          "link": "http://www.kjdaily.com/article.php?aid=1783206053681643227",
+          "press": "",
+          "date": "2026-07-04"
+        },
+        {
+          "title": "로또 1231회 1등 17명... 각 16억 원씩, 배출점 명단 공개",
+          "link": "https://www.insight.co.kr/news/561544",
+          "press": "",
+          "date": "2026-07-04"
+        },
+        {
+          "title": "1231회 로또, 제주서 1등 당첨자 1명 나와...'16억5299만원' 행운",
+          "link": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=595504",
+          "press": "",
+          "date": "2026-07-04"
+        },
+        {
           "title": "로또 1231회 당첨번호, 16억 주인공은?…서울에서 1등 4명 나와",
           "link": "http://www.econonews.co.kr/news/articleView.html?idxno=440703",
           "press": "",
@@ -126,32 +217,14 @@
           "link": "https://news.tf.co.kr/read/economy/2339734.htm",
           "press": "",
           "date": "2026-07-04"
-        },
-        {
-          "title": "[로또당첨번호 조회]1231회 로또복권 1등 당첨 지역 및 연금복권 720+ 당...",
-          "link": "http://www.economytalk.kr/news/articleView.html?idxno=422462",
-          "press": "",
-          "date": "2026-07-04"
-        },
-        {
-          "title": "1231회 로또 당첨 번호 발표, 1등 17명 각 16억 원의 행운",
-          "link": "https://www.joongangenews.com/news/articleView.html?idxno=530524",
-          "press": "",
-          "date": "2026-07-04"
-        },
-        {
-          "title": "\"서울에서만 4곳 터졌다\" 1231회 로또1등당첨지역·당첨번호조회",
-          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3626363",
-          "press": "",
-          "date": "2026-07-04"
         }
       ],
-      "rank": 2
+      "rank": 3
     },
     {
       "keyword": "프로야구 순위",
       "traffic": "100+",
-      "blogTotal": 18388,
+      "blogTotal": 18390,
       "newsTotal": 144094,
       "recentToday": 36,
       "recentWeek": 100,
@@ -219,153 +292,7 @@
           "date": "2026-07-04"
         }
       ],
-      "rank": 3
-    },
-    {
-      "keyword": "슈",
-      "traffic": "100+",
-      "blogTotal": 1155711,
-      "newsTotal": 96194,
-      "recentToday": 19,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "\"엄마 오래살아\" 슈, 고1 아들에 나이 실감하며 고백한 이혼설과...",
-          "link": "https://blog.naver.com/bora912/224336618810",
-          "blogger": "감의 인사이트",
-          "date": "2026-07-05"
-        },
-        {
-          "title": "쿠키슈 만들기 여름에도 안정적인 동물성 휘핑크림 40% 추천",
-          "link": "https://blog.naver.com/jh830801/224335370972",
-          "blogger": "달콤한 하루. 행복한 일상.",
-          "date": "2026-07-03"
-        },
-        {
-          "title": "나이키 문 슈 OG 세일 블랙 IW0955-101 직접 확인한 실물...",
-          "link": "https://blog.naver.com/jordaninny/224336320563",
-          "blogger": "JORDAN IN NEW YORK",
-          "date": "2026-07-04"
-        },
-        {
-          "title": "cu편의점 신상 디저트 best 하트티라미수 깨먹는 크로칸슈...",
-          "link": "https://blog.naver.com/happy4305/224335943631",
-          "blogger": "행복한 집밥이야기",
-          "date": "2026-07-04"
-        },
-        {
-          "title": "부산 크리미-내돈내산,두바이초코쿠키슈,가격,중량,얼먹,에프굽...",
-          "link": "https://blog.naver.com/bbangsunnam/224335275731",
-          "blogger": "빵순이 남자친구의 삶",
-          "date": "2026-07-03"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "슈 \"우울증·폐소공포증 겪어\"…1500평 농사 근황",
-          "link": "https://www.newsis.com/view/NISX20260705_0003696037",
-          "press": "",
-          "date": "2026-07-04"
-        },
-        {
-          "title": "선예, 24세 초고속 결혼하더니..원더걸스 탈퇴후 경력단절 실감 \"나로 살...",
-          "link": "https://www.sportschosun.com/entertainment/2026-07-05/202607040100027500001565",
-          "press": "",
-          "date": "2026-07-04"
-        },
-        {
-          "title": "슈, 임효성과 이혼 아닌 별거 4년차 “남편 지방 간 사이 방 빼서 아들 ...",
-          "link": "https://www.newsen.com/news_view.php?uid=202607050625031710",
-          "press": "",
-          "date": "2026-07-04"
-        },
-        {
-          "title": "'별거 4년' 슈, ♥임효성 뒷모습에 설레 \"김남길 닮았어\"('동치미')[핫피...",
-          "link": "http://www.osen.co.kr/article/G1112834167",
-          "press": "",
-          "date": "2026-07-04"
-        },
-        {
-          "title": "슈, '도박 논란' 이겨내고…1500평 하우스 농사 근황 \"우울증 생겨서\" (...",
-          "link": "https://www.xportsnews.com/article/2168251",
-          "press": "",
-          "date": "2026-07-04"
-        }
-      ],
       "rank": 4
-    },
-    {
-      "keyword": "캐나다 모로코",
-      "traffic": "2000+",
-      "blogTotal": 37922,
-      "newsTotal": 13045,
-      "recentToday": 10,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "캐나다 모로코 7월5일 분석 [25/26 북중미 월드컵]",
-          "link": "https://blog.naver.com/nsm210/224335269849",
-          "blogger": "별별포토맨",
-          "date": "2026-07-04"
-        },
-        {
-          "title": "캐나다 모로코 오늘 경기 일정, 실시간 중계 채널과 전력 및...",
-          "link": "https://blog.naver.com/bhkim1020/224335056238",
-          "blogger": "재테크",
-          "date": "2026-07-03"
-        },
-        {
-          "title": "캐나다 모로코 '7월 5일 월드컵 16강 분석'",
-          "link": "https://blog.naver.com/duelgwang/224335139406",
-          "blogger": "프로토 분석 커뮤니티 토토위키",
-          "date": "2026-07-04"
-        },
-        {
-          "title": "캐나다 모로코, 2026 FIFA 북중미 월드컵 16강 승부예측",
-          "link": "https://blog.naver.com/gangtefootball/224335149872",
-          "blogger": "강테 풋볼",
-          "date": "2026-07-04"
-        },
-        {
-          "title": "[월드컵] 북중미 월드컵 16강 1경기 캐나다 모로코 프리뷰",
-          "link": "https://blog.naver.com/kkkkk_wonder/224336259999",
-          "blogger": "KFSTORYTELLER",
-          "date": "2026-07-04"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "바이에른 뮌헨 입단하자마자…월드컵 도중 충격 부상에 눈물→8강행 모...",
-          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=94391",
-          "press": "",
-          "date": "2026-07-04"
-        },
-        {
-          "title": "[월드컵] 모로코, 캐나다 3-0 완파‥아프리카 첫 2회 연속 월드컵 8강",
-          "link": "https://imnews.imbc.com/news/2026/sports/article/6835046_36946.html",
-          "press": "",
-          "date": "2026-07-04"
-        },
-        {
-          "title": "[북중미 월드컵] 한국 올 뻔한 마치 감독의 캐나다, 16강서 여정 마침표...",
-          "link": "https://www.goal.com/kr/뉴스/a/blt04779d98168880eb",
-          "press": "",
-          "date": "2026-07-04"
-        },
-        {
-          "title": "[월드컵] 모로코, 캐나다 3-0 완파…10일 파라과이-프랑스 승자와 격돌",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16123872",
-          "press": "",
-          "date": "2026-07-04"
-        },
-        {
-          "title": "[2026월드컵]우나히 2골 맹활약…모로코, 캐나다 3-0 완파 '8강 진출'",
-          "link": "https://view.asiae.co.kr/article/2026070507213266348",
-          "press": "",
-          "date": "2026-07-04"
-        }
-      ],
-      "rank": 5
     },
     {
       "keyword": "canada vs morocco",
@@ -438,7 +365,7 @@
           "date": "2026-07-04"
         }
       ],
-      "rank": 6
+      "rank": 5
     },
     {
       "keyword": "fifa ワールドカップ 2026",
@@ -511,86 +438,86 @@
           "date": "2025-11-26"
         }
       ],
-      "rank": 7
+      "rank": 6
     },
     {
-      "keyword": "날씨예보",
-      "traffic": "1000+",
-      "blogTotal": 1125207,
-      "newsTotal": 605724,
+      "keyword": "파라과이",
+      "traffic": "100+",
+      "blogTotal": 128964,
+      "newsTotal": 101814,
       "recentToday": 0,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "7월 8월 베트남 다낭 날씨 많이 더울까? 건기 우기 예보",
-          "link": "https://blog.naver.com/esther_g1/224333508783",
-          "blogger": "에스더의 가성비 감성 유럽 여행",
-          "date": "2026-07-01"
+          "title": "파라과이 프랑스, 2026 FIFA 북중미 월드컵 16강 경기 분석",
+          "link": "https://blog.naver.com/gangtefootball/224335182635",
+          "blogger": "강테 풋볼",
+          "date": "2026-07-04"
         },
         {
-          "title": "베트남 다낭 날씨 예보 4월 우기 건기 힐링 관광 코스",
-          "link": "https://blog.naver.com/gooddaytravel2/224254699427",
-          "blogger": "굿데이트래블",
-          "date": "2026-04-16"
+          "title": "파라과이 프랑스 오늘 경기 일정, 실시간 중계 채널과 전력...",
+          "link": "https://blog.naver.com/bhkim1020/224335150535",
+          "blogger": "재테크",
+          "date": "2026-07-03"
         },
         {
-          "title": "다낭 날씨 예보 5월 6월 발품으로 직접 뛴 코스 정보",
-          "link": "https://blog.naver.com/gooddaycompany2/224288953084",
-          "blogger": "트립온",
-          "date": "2026-05-19"
+          "title": "파라과이 프랑스 7월5일 분석 [25/26 북중미 월드컵]",
+          "link": "https://blog.naver.com/nsm210/224335270995",
+          "blogger": "별별포토맨",
+          "date": "2026-07-04"
         },
         {
-          "title": "다낭 날씨 예보 5월 6월 3박5일 내게 주는 선물",
-          "link": "https://blog.naver.com/rud_xo0516/224270323794",
-          "blogger": "안녕? 나는 도깨비야",
-          "date": "2026-05-04"
+          "title": "\"음바페\" 한 방으로 갈린 승부,  프랑스 1대0  파라과이",
+          "link": "https://blog.naver.com/jack23102310/224336766510",
+          "blogger": "친절한 꼬마씨의 캠핑여행",
+          "date": "2026-07-05"
         },
         {
-          "title": "다낭 12월 날씨 예보 떠나기 전 필독! 인기 스팟까지 정리함",
-          "link": "https://blog.naver.com/bvaessd12/224063214701",
-          "blogger": "도깨비트래블의 모든 것",
-          "date": "2025-11-06"
+          "title": "브라질, 일본 상대 극적 역전승, 독일, 파라과이에게 충격...",
+          "link": "https://blog.naver.com/kjae1214/224331601796",
+          "blogger": "엘라스티걸야구이야기",
+          "date": "2026-06-30"
         }
       ],
       "topNews": [
         {
-          "title": "[날씨] 휴일 전국 장맛비…시간당 30mm 강한 비",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008641856&plink=ORI&cooper=NAVER",
+          "title": "프랑스, 파라과이 꺾고 8강 진출...상대는 캐나다 완파한 모로코",
+          "link": "https://www.joongang.co.kr/article/25442449",
           "press": "",
           "date": "2026-07-04"
         },
         {
-          "title": "[오늘날씨] 전국 곳곳 비 이어져…내륙은 30도 웃도는 무더위 동반",
-          "link": "https://www.gokorea.kr/news/articleView.html?idxno=871167",
+          "title": "[2026WC] 음바페 대회 7호 결승골...프랑스, 파라과이 꺾고 8강 진출",
+          "link": "https://www.newspim.com/news/view/20260705000013",
           "press": "",
           "date": "2026-07-04"
         },
         {
-          "title": "[오늘의 날씨 및 내일날씨]오늘~모레 전국 대부분 비,초강력 9호 태풍 바...",
-          "link": "http://www.economytalk.kr/news/articleView.html?idxno=422465",
+          "title": "음바페 또 넣었다…프랑스, 파라과이 꺾고 4회 연속 월드컵 8강",
+          "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=01161126645511568",
           "press": "",
           "date": "2026-07-04"
         },
         {
-          "title": "[오늘 전국 날씨예보] 기상청 날씨누리, \"5일, 오늘부터 모레 사이 전국...",
-          "link": "https://www.lecturernews.com/news/articleView.html?idxno=205631",
+          "title": "‘음바페 PK 결승골’ 프랑스, 파라과이에 1-0 신승…8강 진출",
+          "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8602392&ref=A",
           "press": "",
           "date": "2026-07-04"
         },
         {
-          "title": "[오늘의 전북 날씨] 저녁까지 비...20~60mm",
-          "link": "http://www.jbsori.com/news/articleView.html?idxno=17540",
+          "title": "'음바페 19호골' 프랑스, 파라과이 'UFC 축구' 꺾고 8강행[월드컵]",
+          "link": "https://www.news1.kr/sports/overseas-soccer/6217887",
           "press": "",
           "date": "2026-07-04"
         }
       ],
-      "rank": 8
+      "rank": 7
     },
     {
       "keyword": "뇌",
       "traffic": "500+",
-      "blogTotal": 10811874,
-      "newsTotal": 1372257,
+      "blogTotal": 10812108,
+      "newsTotal": 1372264,
       "recentToday": 0,
       "recentWeek": 100,
       "topBlogs": [
@@ -627,43 +554,43 @@
       ],
       "topNews": [
         {
-          "title": "“삼성전자, 더 오를 것 같긴 한데…” 투자자 흔드는 ‘심리 함정’",
-          "link": "https://shindonga.donga.com/3/all/13/6286561/1",
+          "title": "돈 없는 게 문제가 아니다...'노후에 급속도로 불행해지는 사람' 특징 1...",
+          "link": "https://www.wikitree.co.kr/articles/1144115",
           "press": "",
           "date": "2026-07-04"
         },
         {
-          "title": "삼성은 부산, LG는 구미…‘풀가동’ 반도체 기판 경쟁, 인재 유치전도...",
-          "link": "https://biz.heraldcorp.com/article/10797679?ref=naver",
+          "title": "효도하고도 뺨 맞는다…자식들이 부모에게 절대 '쓰지 말아야 할 말' 1가...",
+          "link": "https://www.wikitree.co.kr/articles/1143978",
           "press": "",
           "date": "2026-07-04"
         },
         {
-          "title": "양천구, '혈관을 살리는 세 가지 약속' 한방건강강좌 운영",
-          "link": "https://www.m-i.kr/news/articleView.html?idxno=1388166",
+          "title": "[인터뷰] '사우나 페스티벌'서 가까워지는 이유 / ‘먼데이사우나’ 김...",
+          "link": "http://topclass.chosun.com/news/articleView.html?idxno=36475",
           "press": "",
           "date": "2026-07-04"
         },
         {
-          "title": "[콘텐츠 큐레이션] 도파민 대신 온기를…'감성 충전' OTT 3편",
-          "link": "https://www.bloter.net/news/articleView.html?idxno=667323",
+          "title": "입안 물집에 고열까지…영유아 수족구병 주의보",
+          "link": "https://www.thepowernews.co.kr/view.php?ud=202606301343227567de3f0aa1be_7",
           "press": "",
           "date": "2026-07-04"
         },
         {
-          "title": "“사람만 더운 게 아냐”…야생 동식물 ‘학살’ 부르는 폭염 [기후신호...",
-          "link": "https://www.ekn.kr/web/view.php?key=20260703023588625",
+          "title": "트루디, 출산 후 우울증 \"매우 심각한 상태\" 치료 의지",
+          "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=82647",
           "press": "",
           "date": "2026-07-04"
         }
       ],
-      "rank": 9
+      "rank": 8
     },
     {
       "keyword": "캐나다",
       "traffic": "100+",
-      "blogTotal": 4375782,
-      "newsTotal": 1963170,
+      "blogTotal": 4375857,
+      "newsTotal": 1963208,
       "recentToday": 0,
       "recentWeek": 100,
       "topBlogs": [
@@ -700,32 +627,105 @@
       ],
       "topNews": [
         {
-          "title": "[월드컵] 모로코, 캐나다 3-0 완파‥아프리카 첫 2회 연속 월드컵 8강",
-          "link": "https://imnews.imbc.com/news/2026/sports/article/6835046_36946.html",
+          "title": "프랑스, 파라과이 꺾고 8강 진출...상대는 캐나다 완파한 모로코",
+          "link": "https://www.joongang.co.kr/article/25442449",
           "press": "",
           "date": "2026-07-04"
         },
         {
-          "title": "바이에른 뮌헨 입단하자마자…월드컵 도중 충격 부상에 눈물→8강행 모...",
-          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=94391",
+          "title": "음바페 또 넣었다…프랑스, 파라과이 꺾고 4회 연속 월드컵 8강",
+          "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=01161126645511568",
           "press": "",
           "date": "2026-07-04"
         },
         {
-          "title": "[북중미 월드컵] 한국 올 뻔한 마치 감독의 캐나다, 16강서 여정 마침표...",
-          "link": "https://www.goal.com/kr/뉴스/a/blt04779d98168880eb",
+          "title": "‘음바페 PK 결승골’ 프랑스, 파라과이에 1-0 신승…8강 진출",
+          "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8602392&ref=A",
           "press": "",
           "date": "2026-07-04"
         },
         {
-          "title": "[월드컵] 모로코, 캐나다 3-0 완파…10일 파라과이-프랑스 승자와 격돌",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16123872",
+          "title": "캐나다 : 모로코 하이라이트…2026 북중미 월드컵 16강",
+          "link": "https://news.jtbc.co.kr/article/NB12306606?influxDiv=NAVER",
           "press": "",
           "date": "2026-07-04"
         },
         {
-          "title": "[2026월드컵]우나히 2골 맹활약…모로코, 캐나다 3-0 완파 '8강 진출'",
-          "link": "https://view.asiae.co.kr/article/2026070507213266348",
+          "title": "‘음바페 PK 결승골’ 프랑스 파라과이에 1-0 진땀승 8강 진출",
+          "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0600&key=20260705.99099001103",
+          "press": "",
+          "date": "2026-07-04"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "keyword": "캐나다 모로코",
+      "traffic": "2000+",
+      "blogTotal": 37951,
+      "newsTotal": 13072,
+      "recentToday": 0,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "캐나다 모로코 7월5일 분석 [25/26 북중미 월드컵]",
+          "link": "https://blog.naver.com/nsm210/224335269849",
+          "blogger": "별별포토맨",
+          "date": "2026-07-04"
+        },
+        {
+          "title": "캐나다 모로코 오늘 경기 일정, 실시간 중계 채널과 전력 및...",
+          "link": "https://blog.naver.com/bhkim1020/224335056238",
+          "blogger": "재테크",
+          "date": "2026-07-03"
+        },
+        {
+          "title": "모로코 무실점 승리 기록, 골키퍼 \"부누\" 선방 3회",
+          "link": "https://blog.naver.com/jack23102310/224336755488",
+          "blogger": "친절한 꼬마씨의 캠핑여행",
+          "date": "2026-07-05"
+        },
+        {
+          "title": "캐나다 모로코 '7월 5일 월드컵 16강 분석'",
+          "link": "https://blog.naver.com/duelgwang/224335139406",
+          "blogger": "프로토 분석 커뮤니티 토토위키",
+          "date": "2026-07-04"
+        },
+        {
+          "title": "캐나다 모로코, 2026 FIFA 북중미 월드컵 16강 승부예측",
+          "link": "https://blog.naver.com/gangtefootball/224335149872",
+          "blogger": "강테 풋볼",
+          "date": "2026-07-04"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "프랑스, 파라과이 꺾고 8강 진출...상대는 캐나다 완파한 모로코",
+          "link": "https://www.joongang.co.kr/article/25442449",
+          "press": "",
+          "date": "2026-07-04"
+        },
+        {
+          "title": "음바페 또 넣었다…프랑스, 파라과이 꺾고 4회 연속 월드컵 8강",
+          "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=01161126645511568",
+          "press": "",
+          "date": "2026-07-04"
+        },
+        {
+          "title": "캐나다 : 모로코 하이라이트…2026 북중미 월드컵 16강",
+          "link": "https://news.jtbc.co.kr/article/NB12306606?influxDiv=NAVER",
+          "press": "",
+          "date": "2026-07-04"
+        },
+        {
+          "title": "‘음바페 PK 결승골’ 프랑스, 파라과이에 1-0 신승…8강 진출",
+          "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8602392&ref=A",
+          "press": "",
+          "date": "2026-07-04"
+        },
+        {
+          "title": "'음바페 19호골' 프랑스, 파라과이 'UFC 축구' 꺾고 8강행[월드컵]",
+          "link": "https://www.news1.kr/sports/overseas-soccer/6217887",
           "press": "",
           "date": "2026-07-04"
         }
