@@ -1,13 +1,86 @@
 {
-  "updatedAt": "2026-07-05T17:35:47.057Z",
+  "updatedAt": "2026-07-05T19:14:21.311Z",
   "source": "live",
   "keywords": [
     {
+      "keyword": "신봉선",
+      "traffic": "200+",
+      "blogTotal": 48285,
+      "newsTotal": 86337,
+      "recentToday": 80,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "\"어느 병원이야?\" 신봉선 미모 변화에 허경환 母 감탄, 미우새...",
+          "link": "https://blog.naver.com/bora912/224337429027",
+          "blogger": "감의 인사이트",
+          "date": "2026-07-05"
+        },
+        {
+          "title": "\"신봉선 맞아?\" 몰라보게 달라진 미모에 모두 깜짝",
+          "link": "https://blog.naver.com/sonmin43/224337406675",
+          "blogger": "뚱이와 먹보",
+          "date": "2026-07-05"
+        },
+        {
+          "title": "신봉선 다이어트 -11kg 비결, 살이 잘 찌는 체질도 달라진 관리법",
+          "link": "https://blog.naver.com/gnslcjswo19/224337290343",
+          "blogger": "요즘,라이프",
+          "date": "2026-07-05"
+        },
+        {
+          "title": "신봉선 연금 준비, 20대 후반부터 월 100만 원 넣은 진짜 이유",
+          "link": "https://blog.naver.com/kth4828/224337412958",
+          "blogger": "훈바오 월드",
+          "date": "2026-07-05"
+        },
+        {
+          "title": "\"6만원이 80만원으로..\"신봉선, 20년 금테크 대박! 금값 15배...",
+          "link": "https://blog.naver.com/lovely0477/224310130672",
+          "blogger": "러블리여사 log",
+          "date": "2026-06-09"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "'47세' 신봉선, 전 남친들 다 키 크고 미남…마흔 넘자마자 소개팅 '뚝'",
+          "link": "https://www.mt.co.kr/entertainment/2026/07/06/2026070603120944753",
+          "press": "",
+          "date": "2026-07-05"
+        },
+        {
+          "title": "“보고 있지?” 신봉선, 전 남친 후회할 비주얼…11kg 빼더니 아이돌 됐...",
+          "link": "https://www.sportsseoul.com/news/read/1620693?ref=naver",
+          "press": "",
+          "date": "2026-07-05"
+        },
+        {
+          "title": "“검색하면 나올 만한 사람”…신봉선, 前남친 정체에 ‘술렁’",
+          "link": "https://www.sportsseoul.com/news/read/1620688?ref=naver",
+          "press": "",
+          "date": "2026-07-05"
+        },
+        {
+          "title": "신봉선, 11kg 감량 후 또 달라졌다…군살 실종 각선미 '눈길'",
+          "link": "https://www.newsis.com/view/NISX20260705_0003696119",
+          "press": "",
+          "date": "2026-07-05"
+        },
+        {
+          "title": "\"날 여자로 안 봐\" 신봉선, 결혼 포기? '나 홀로 노후' 준비 고백[핫피플...",
+          "link": "http://www.osen.co.kr/article/G1112834572",
+          "press": "",
+          "date": "2026-07-05"
+        }
+      ],
+      "rank": 1
+    },
+    {
       "keyword": "이엘",
       "traffic": "1000+",
-      "blogTotal": 104284,
+      "blogTotal": 104291,
       "newsTotal": 50574,
-      "recentToday": 83,
+      "recentToday": 77,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -73,89 +146,34 @@
           "date": "2026-07-05"
         }
       ],
-      "rank": 1
-    },
-    {
-      "keyword": "신봉선",
-      "traffic": "200+",
-      "blogTotal": 48282,
-      "newsTotal": 86336,
-      "recentToday": 83,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "\"어느 병원이야?\" 신봉선 미모 변화에 허경환 母 감탄, 미우새...",
-          "link": "https://blog.naver.com/bora912/224337429027",
-          "blogger": "감의 인사이트",
-          "date": "2026-07-05"
-        },
-        {
-          "title": "\"신봉선 맞아?\" 몰라보게 달라진 미모에 모두 깜짝",
-          "link": "https://blog.naver.com/sonmin43/224337406675",
-          "blogger": "뚱이와 먹보",
-          "date": "2026-07-05"
-        },
-        {
-          "title": "신봉선 다이어트 -11kg 비결, 살이 잘 찌는 체질도 달라진 관리법",
-          "link": "https://blog.naver.com/gnslcjswo19/224337290343",
-          "blogger": "요즘,라이프",
-          "date": "2026-07-05"
-        },
-        {
-          "title": "신봉선 연금 준비, 20대 후반부터 월 100만 원 넣은 진짜 이유",
-          "link": "https://blog.naver.com/kth4828/224337412958",
-          "blogger": "훈바오 월드",
-          "date": "2026-07-05"
-        },
-        {
-          "title": "\"6만원이 80만원으로..\"신봉선, 20년 금테크 대박! 금값 15배...",
-          "link": "https://blog.naver.com/lovely0477/224310130672",
-          "blogger": "러블리여사 log",
-          "date": "2026-06-09"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "“보고 있지?” 신봉선, 전 남친 후회할 비주얼…11kg 빼더니 아이돌 됐...",
-          "link": "https://www.sportsseoul.com/news/read/1620693?ref=naver",
-          "press": "",
-          "date": "2026-07-05"
-        },
-        {
-          "title": "“검색하면 나올 만한 사람”…신봉선, 前남친 정체에 ‘술렁’",
-          "link": "https://www.sportsseoul.com/news/read/1620688?ref=naver",
-          "press": "",
-          "date": "2026-07-05"
-        },
-        {
-          "title": "신봉선, 11kg 감량 후 또 달라졌다…군살 실종 각선미 '눈길'",
-          "link": "https://www.newsis.com/view/NISX20260705_0003696119",
-          "press": "",
-          "date": "2026-07-05"
-        },
-        {
-          "title": "\"날 여자로 안 봐\" 신봉선, 결혼 포기? '나 홀로 노후' 준비 고백[핫피플...",
-          "link": "http://www.osen.co.kr/article/G1112834572",
-          "press": "",
-          "date": "2026-07-05"
-        },
-        {
-          "title": "최근 물오른 미모로 감탄 자아낸 신봉선, 철저한 노후 준비법 공개",
-          "link": "https://www.wikitree.co.kr/articles/1144851",
-          "press": "",
-          "date": "2026-07-05"
-        }
-      ],
       "rank": 2
     },
     {
       "keyword": "브라질 노르웨이",
       "traffic": "500+",
-      "blogTotal": 62427,
-      "newsTotal": 30455,
-      "recentToday": 80,
+      "blogTotal": 62435,
+      "newsTotal": 30457,
+      "recentToday": 70,
       "recentWeek": 100,
       "topBlogs": [
+        {
+          "title": "브라질 노르웨이 7월6일 분석 [25/26 북중미 월드컵]",
+          "link": "https://blog.naver.com/nsm210/224336212063",
+          "blogger": "별별포토맨",
+          "date": "2026-07-05"
+        },
+        {
+          "title": "브라질 vs 노르웨이·포르투갈 vs 스페인 빅매치 확정!",
+          "link": "https://blog.naver.com/lovely0477/224336429531",
+          "blogger": "러블리여사 log",
+          "date": "2026-07-04"
+        },
+        {
+          "title": "브라질 노르웨이 오늘 경기 일정, 실시간 중계 채널과 전력...",
+          "link": "https://blog.naver.com/bhkim1020/224336014422",
+          "blogger": "재테크",
+          "date": "2026-07-04"
+        },
         {
           "title": "브라질 노르웨이 '7월 6일 월드컵 16강 분석'",
           "link": "https://blog.naver.com/duelgwang/224336148876",
@@ -167,27 +185,21 @@
           "link": "https://blog.naver.com/gangtefootball/224336412946",
           "blogger": "강테 풋볼",
           "date": "2026-07-05"
-        },
-        {
-          "title": "브라질 노르웨이 월드컵 16강 예상 분석, 우승후보의 유일한...",
-          "link": "https://blog.naver.com/z2inny/224336502570",
-          "blogger": "데슐랭가이드",
-          "date": "2026-07-04"
-        },
-        {
-          "title": "[월드컵] 북중미 월드컵 16강 3경기 브라질 노르웨이 프리뷰",
-          "link": "https://blog.naver.com/kkkkk_wonder/224337353485",
-          "blogger": "KFSTORYTELLER",
-          "date": "2026-07-05"
-        },
-        {
-          "title": "브라질 노르웨이 7월6일 분석 [25/26 북중미 월드컵]",
-          "link": "https://blog.naver.com/nsm210/224336212063",
-          "blogger": "별별포토맨",
-          "date": "2026-07-05"
         }
       ],
       "topNews": [
+        {
+          "title": "합의 마쳤는데, 도대체 언제 맨체스터 유나이티드 첫 영입 발표하나…'...",
+          "link": "https://www.mydaily.co.kr/page/view/2026070509342048202",
+          "press": "",
+          "date": "2026-07-05"
+        },
+        {
+          "title": "◇오늘의 월드컵(6일)",
+          "link": "https://www.yna.co.kr/view/AKR20260705009900007?input=1195m",
+          "press": "",
+          "date": "2026-07-05"
+        },
         {
           "title": "16강전 징크스? 홈에서는 모두 8강 갔다! '4연승' 멕시코, '축구종가' 잉...",
           "link": "https://www.mydaily.co.kr/page/view/2026070522472656514",
@@ -205,26 +217,14 @@
           "link": "https://www.bntnews.co.kr/article/view/bnt202607060002",
           "press": "",
           "date": "2026-07-05"
-        },
-        {
-          "title": "2026 북중미 월드컵, 월요일(6일) 경기 일정…16강 브라질 VS 노르웨이 중...",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16124365",
-          "press": "",
-          "date": "2026-07-05"
-        },
-        {
-          "title": "[월드컵 16강 대진표] 브라질 노르웨이 경기 중계 시간·채널",
-          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3626730",
-          "press": "",
-          "date": "2026-07-05"
         }
       ],
       "rank": 3
     },
     {
       "keyword": "이하늘",
-      "traffic": "500+",
-      "blogTotal": 36145,
+      "traffic": "1000+",
+      "blogTotal": 36147,
       "newsTotal": 39575,
       "recentToday": 48,
       "recentWeek": 100,
@@ -370,7 +370,7 @@
     {
       "keyword": "대전 도시철도 2호선",
       "traffic": "200+",
-      "blogTotal": 31031,
+      "blogTotal": 31034,
       "newsTotal": 38479,
       "recentToday": 20,
       "recentWeek": 100,
@@ -441,9 +441,82 @@
       "rank": 6
     },
     {
+      "keyword": "안드레이 산투스",
+      "traffic": "100+",
+      "blogTotal": 859,
+      "newsTotal": 402,
+      "recentToday": 5,
+      "recentWeek": 10,
+      "topBlogs": [
+        {
+          "title": "[데이비드 온스테인] 맨유, 안드레이 산투스 영입 모색...",
+          "link": "https://blog.naver.com/manunitedstory/224337403176",
+          "blogger": "맨체스터 유나이티드 이야기",
+          "date": "2026-07-05"
+        },
+        {
+          "title": "EPL 맨유, 첼시 미드필더 안드레이 산투스 영입 총력전 진행",
+          "link": "https://blog.naver.com/football_goat/224213388262",
+          "blogger": "스포츠를 생각하는 축보트",
+          "date": "2026-03-12"
+        },
+        {
+          "title": "안드레이 산투스 첼시 복귀 완벽 분석! 스트라스부르...",
+          "link": "https://blog.naver.com/kangdg2001/224153859148",
+          "blogger": "Robin Van Rooney",
+          "date": "2026-01-24"
+        },
+        {
+          "title": "엔조 페르난데스 1골 1도움 안드레이 산투스 프리미어리그 첫 골",
+          "link": "https://blog.naver.com/ung3256/224291208415",
+          "blogger": "츠토무의 로그북",
+          "date": "2026-05-20"
+        },
+        {
+          "title": "안드레이 산투스 작심 발언! 손흥민 팩트 폭력에 뒤집힌 반응",
+          "link": "https://blog.naver.com/ulbihun/224291754933",
+          "blogger": "화재의 패션 동향 산들바람",
+          "date": "2026-05-20"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "카세미루 공백 메울 수 있겠나...'다 빼앗긴' 맨유, '첼시서 자리 못 잡...",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=689932",
+          "press": "",
+          "date": "2026-07-05"
+        },
+        {
+          "title": "'파격 그 자체' 맨체스터 유나이티드 '플랜B' 가동! 'HERE WE GO' 컨펌, 첼...",
+          "link": "https://www.mydaily.co.kr/page/view/2026070523085479181",
+          "press": "",
+          "date": "2026-07-05"
+        },
+        {
+          "title": "\"출전 시간 위해 팀 떠날 의사 있다\"… 앤더슨·페르난데스 놓친 맨유, ...",
+          "link": "https://www.besteleven.com/news/articleView.html?idxno=309491",
+          "press": "",
+          "date": "2026-07-05"
+        },
+        {
+          "title": "\"HERE WE GO!\" 첼시, 알론소 체제 '1호 영입' 바르코 초근접… 이번 '스트...",
+          "link": "https://www.besteleven.com/news/articleView.html?idxno=307192",
+          "press": "",
+          "date": "2026-05-24"
+        },
+        {
+          "title": "'너무 안타깝다' 손흥민도 결국 한숨...\"솔직히 현재 토트넘 잔류 싸움...",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=686992",
+          "press": "",
+          "date": "2026-05-21"
+        }
+      ],
+      "rank": 7
+    },
+    {
       "keyword": "셰프",
       "traffic": "2000+",
-      "blogTotal": 2965121,
+      "blogTotal": 2965194,
       "newsTotal": 708820,
       "recentToday": 0,
       "recentWeek": 100,
@@ -511,85 +584,12 @@
           "date": "2026-07-05"
         }
       ],
-      "rank": 7
-    },
-    {
-      "keyword": "파산",
-      "traffic": "500+",
-      "blogTotal": 3612664,
-      "newsTotal": 527870,
-      "recentToday": 0,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "목포 연산동 잘하는 개인파산 법률 사무소 필수적인 요점 정리",
-          "link": "https://achimjuice.tistory.com/41",
-          "blogger": "achimjuice",
-          "date": "2026-06-11"
-        },
-        {
-          "title": "창원 진해구 파산 진술서 대필, 빠른 요약",
-          "link": "https://windyhill73.tistory.com/67",
-          "blogger": "바람 부는 언덕에서 세상을 만나다",
-          "date": "2026-06-11"
-        },
-        {
-          "title": "개인파산 신청후 사건번호 모를 경우, 한 번에 이해하기",
-          "link": "https://page1207.tistory.com/69",
-          "blogger": "Book끄-Book끄",
-          "date": "2026-06-03"
-        },
-        {
-          "title": "강릉법인회생 기업파산 해결 방법은",
-          "link": "https://blog.naver.com/reznor415/224280046454",
-          "blogger": "법무법인(유한) 대륜",
-          "date": "2026-05-09"
-        },
-        {
-          "title": "개인파산 신청자격 조건 절차 비용 신고 기준",
-          "link": "https://blog.naver.com/jordan1022/224055369683",
-          "blogger": "hokuu",
-          "date": "2025-10-27"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "시드니 한인 랜드사 27억원 부도…초저가 패키지 시장 기형적인 유통 구...",
-          "link": "https://www.traveltimes.co.kr/news/articleView.html?idxno=500016",
-          "press": "",
-          "date": "2026-07-05"
-        },
-        {
-          "title": "[사설] 홈플러스 파산 몰아간 유통 규제, 여전히 손 놓은 국회",
-          "link": "https://www.chosun.com/opinion/editorial/2026/07/06/22JIN2QSHBEZBDT42DMFHKL4LM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-          "press": "",
-          "date": "2026-07-05"
-        },
-        {
-          "title": "[사설] 파산 수순 홈플러스, 무리한 정치적 해법은 곤란",
-          "link": "https://www.hankyung.com/article/2026070564021",
-          "press": "",
-          "date": "2026-07-05"
-        },
-        {
-          "title": "‘2주 내 2000억을 어디서…’ MBK-메리츠, 마지막까지 외면",
-          "link": "https://www.kmib.co.kr/article/view.asp?arcid=1783234695&code=11151400&cp=nv",
-          "press": "",
-          "date": "2026-07-05"
-        },
-        {
-          "title": "[사설] 파산 수순 홈플러스, 거시경제 충격 안 돼야",
-          "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260705010001596",
-          "press": "",
-          "date": "2026-07-05"
-        }
-      ],
       "rank": 8
     },
     {
       "keyword": "강회장",
       "traffic": "500+",
-      "blogTotal": 14895,
+      "blogTotal": 14944,
       "newsTotal": 9308,
       "recentToday": 0,
       "recentWeek": 100,
