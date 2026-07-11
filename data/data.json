@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-11T15:29:39.058Z",
+  "updatedAt": "2026-07-11T16:28:33.464Z",
   "source": "live",
   "keywords": [
     {
       "keyword": "결혼의 완성",
       "traffic": "500+",
-      "blogTotal": 3904,
-      "newsTotal": 178496,
-      "recentToday": 99,
+      "blogTotal": 3911,
+      "newsTotal": 178497,
+      "recentToday": 92,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -43,6 +43,12 @@
       ],
       "topNews": [
         {
+          "title": "故 최진실, 남궁민 인생 바꾼 은인이었다…“덕분에 배우 데뷔” (옥문...",
+          "link": "http://enews.imbc.com/News/RetrieveNewsInfo/511182",
+          "press": "",
+          "date": "2026-07-11"
+        },
+        {
           "title": "콩국수·닭볶음탕 대전 먹방#전현무계획4",
           "link": "http://www.kjdaily.com/article.php?aid=1783782007682147227",
           "press": "",
@@ -65,12 +71,6 @@
           "link": "https://www.slist.kr/news/articleView.html?idxno=751147",
           "press": "",
           "date": "2026-07-11"
-        },
-        {
-          "title": "'결혼의 완성' 박병은, 남궁민 접촉 \"당신이 지금 믿을 수 있는 사람\"",
-          "link": "https://www.slist.kr/news/articleView.html?idxno=751146",
-          "press": "",
-          "date": "2026-07-11"
         }
       ],
       "rank": 1
@@ -78,9 +78,9 @@
     {
       "keyword": "아파트 드라마",
       "traffic": "500+",
-      "blogTotal": 378129,
+      "blogTotal": 378142,
       "newsTotal": 85831,
-      "recentToday": 85,
+      "recentToday": 72,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -149,84 +149,11 @@
       "rank": 2
     },
     {
-      "keyword": "김부장 시청률",
-      "traffic": "2000+",
-      "blogTotal": 7956,
-      "newsTotal": 2026,
-      "recentToday": 85,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "소지섭, 딸 생존 확인했지만 또 놓쳤다…'김부장' 전국 시청률...",
-          "link": "https://blog.naver.com/news33net/224343182579",
-          "blogger": "창업일보",
-          "date": "2026-07-11"
-        },
-        {
-          "title": "시청률 20.5% 이유 있는 질주, 드라마 김부장 6회 예고 및 선공개",
-          "link": "https://blog.naver.com/0purelop0/224343295178",
-          "blogger": "애딕터노트의 시퀀스리포트",
-          "date": "2026-07-11"
-        },
-        {
-          "title": "김부장 4회 줄거리 시청률 21.6%와 민지 생존, 명포항 위기",
-          "link": "https://blog.naver.com/js2y86/224341995691",
-          "blogger": "덕빛's 드라마 필모그라피",
-          "date": "2026-07-10"
-        },
-        {
-          "title": "'김부장''시청률 돌풍..'AI 영상' 반전",
-          "link": "https://blog.naver.com/goomi207/224342107842",
-          "blogger": "반클립",
-          "date": "2026-07-10"
-        },
-        {
-          "title": "시청률 1위, 글로벌 1위! 현 시점 원톱 드라마 <김부장...",
-          "link": "https://blog.naver.com/cine_play/224342350893",
-          "blogger": "씨네플레이",
-          "date": "2026-07-10"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "소지섭, '김부장' 비하인드컷 대방출...옥택연과 투샷 '피지컬 천재들'",
-          "link": "http://www.joynews24.com/view/1984635",
-          "press": "",
-          "date": "2026-07-11"
-        },
-        {
-          "title": "'김부장' 시청률 떨어졌다…10%대 추락 위기 속 지성 등판, \"미친 존재감...",
-          "link": "https://www.tenasia.co.kr/article/2026071192364",
-          "press": "",
-          "date": "2026-07-11"
-        },
-        {
-          "title": "'김부장' 소지섭·최대훈·윤경호, 딸 민지 3인 3색 작전 개시",
-          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3633137",
-          "press": "",
-          "date": "2026-07-11"
-        },
-        {
-          "title": "소지섭, 옥택연 함께한 '김부장' 비하인드 공개..반전 매력 대방출",
-          "link": "https://www.starnewskorea.com/star/2026/07/11/2026071120235587299",
-          "press": "",
-          "date": "2026-07-11"
-        },
-        {
-          "title": "SBS 드라마 '김부장' \"나는 아빠다! 소지섭·최대훈·윤경호·주상욱·손...",
-          "link": "https://www.lecturernews.com/news/articleView.html?idxno=204350",
-          "press": "",
-          "date": "2026-07-11"
-        }
-      ],
-      "rank": 3
-    },
-    {
       "keyword": "특임국",
       "traffic": "200+",
-      "blogTotal": 720,
-      "newsTotal": 136,
-      "recentToday": 83,
+      "blogTotal": 745,
+      "newsTotal": 138,
+      "recentToday": 58,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -242,6 +169,12 @@
           "date": "2026-07-11"
         },
         {
+          "title": "6화 6회 줄거리 소지섭 딸 만났다! 아빠 3인방 vs 특임국 강국철",
+          "link": "https://blog.naver.com/komartin/224343784783",
+          "blogger": "히뎀언니의 오늘",
+          "date": "2026-07-12"
+        },
+        {
           "title": "'김부장' 소지섭, 딸 민지 찾기 위해 특임국과 정면 승부 시작...",
           "link": "https://blog.naver.com/tark1019/224343228624",
           "blogger": "방송리뷰에 미친 중년",
@@ -252,15 +185,21 @@
           "link": "https://blog.naver.com/caesar_road/224343046108",
           "blogger": "시저로드",
           "date": "2026-07-11"
-        },
-        {
-          "title": "김부장 5회 윤경호, 특임국에 잡힌 게 아니었다… “다들...",
-          "link": "https://blog.naver.com/onelife_selection/224343200779",
-          "blogger": "드라마",
-          "date": "2026-07-11"
         }
       ],
       "topNews": [
+        {
+          "title": "“아빠 왔다, 집에 가자” 소지섭 한 마디로 완성된 역대급 부녀 상봉(...",
+          "link": "https://sports.khan.co.kr/article/202607120034003?pt=nv",
+          "press": "",
+          "date": "2026-07-11"
+        },
+        {
+          "title": "'김부장' 소지섭, 드디어 딸과 극적 재회 \"집에 가자\" [종합]",
+          "link": "http://www.stoo.com/article.php?aid=107711696512",
+          "press": "",
+          "date": "2026-07-11"
+        },
         {
           "title": "소지섭, 서수민에 정체 들켰다…\"네 아빠 어마무시하게 유명한 간첩\" ('...",
           "link": "https://www.tenasia.co.kr/article/2026071193854",
@@ -278,41 +217,29 @@
           "link": "https://enter.etoday.co.kr/news/view/299625",
           "press": "",
           "date": "2026-07-11"
-        },
-        {
-          "title": "'김부장' 최대훈X윤경호, 소지섭 딸 김민지 구했다",
-          "link": "https://www.xportsnews.com/article/2171259",
-          "press": "",
-          "date": "2026-07-11"
-        },
-        {
-          "title": "소지섭, 딸 서수민 찾았다.. \"아빠 왔다, 집에 가자\" ('김부장')[종합]",
-          "link": "https://www.tvreport.co.kr/broadcast/article/1060558/",
-          "press": "",
-          "date": "2026-07-11"
         }
       ],
-      "rank": 4
+      "rank": 3
     },
     {
       "keyword": "김지영",
       "traffic": "100+",
-      "blogTotal": 221972,
-      "newsTotal": 222553,
-      "recentToday": 55,
+      "blogTotal": 221976,
+      "newsTotal": 222554,
+      "recentToday": 56,
       "recentWeek": 100,
       "topBlogs": [
-        {
-          "title": "악플러들의 '이혼 예측'에 인플루언서 김지영, 방송 속 남편...",
-          "link": "https://blog.naver.com/nowmoon101/224343601806",
-          "blogger": "지금 이 이슈",
-          "date": "2026-07-11"
-        },
         {
           "title": "2026 봄호] 비워 낸 마음 위에 다시 피운 우승 꽃 김지영2",
           "link": "https://blog.naver.com/klpgapr/224314132302",
           "blogger": "KLPGA",
           "date": "2026-06-12"
+        },
+        {
+          "title": "악플러들의 '이혼 예측'에 인플루언서 김지영, 방송 속 남편...",
+          "link": "https://blog.naver.com/nowmoon101/224343601806",
+          "blogger": "지금 이 이슈",
+          "date": "2026-07-11"
         },
         {
           "title": "김지영 동반 샤워 발언 논란과 직접 사과가 남긴 부부 예능의 경계",
@@ -334,6 +261,12 @@
         }
       ],
       "topNews": [
+        {
+          "title": "김지영 ‘김부장’ 특출로 하드캐리…윤경호 쥐락펴락한 해병대 아내의...",
+          "link": "https://sports.khan.co.kr/article/202607120109003?pt=nv",
+          "press": "",
+          "date": "2026-07-11"
+        },
         {
           "title": "윤경호, 아내 김지영 등판에 진땀...\"딴 살림 차렸나 싶어서\"",
           "link": "https://www.slist.kr/news/articleView.html?idxno=751151",
@@ -357,20 +290,14 @@
           "link": "http://www.breaknews.com/1221003",
           "press": "",
           "date": "2026-07-11"
-        },
-        {
-          "title": "김지영, 결혼 5개월 만에…\"남편 관상 쎄해→금방 이혼할 거라고\" 악플...",
-          "link": "https://www.tvreport.co.kr/entertainment/article/1060452/",
-          "press": "",
-          "date": "2026-07-11"
         }
       ],
-      "rank": 5
+      "rank": 4
     },
     {
       "keyword": "혜은이",
       "traffic": "200+",
-      "blogTotal": 37507,
+      "blogTotal": 37508,
       "newsTotal": 25449,
       "recentToday": 33,
       "recentWeek": 100,
@@ -388,22 +315,22 @@
           "date": "2026-07-09"
         },
         {
-          "title": "김승미 혜은이 사촌동생 공개, '서울패밀리' 가수 데뷔 유일하게...",
-          "link": "https://blog.naver.com/kimsa0210/224342276888",
-          "blogger": "아, 그럴 수도 있지",
-          "date": "2026-07-10"
-        },
-        {
-          "title": "김승미, 혜은이 사촌동생 공개가 놀라운 이유｜데뷔 반대 뒤에...",
-          "link": "https://blog.naver.com/oumioku/224342420813",
-          "blogger": "올라리요핫이슈",
-          "date": "2026-07-10"
-        },
-        {
           "title": "김승미의 가수 데뷔를 반대한 혜은이, 서울패밀리로 이어진...",
           "link": "https://blog.naver.com/postadclous/224342204399",
           "blogger": "A trace of thought",
           "date": "2026-07-10"
+        },
+        {
+          "title": "‘데이앤나잇’ 71세 동갑 혜은이 전영록 충격 고백 뭐길래?",
+          "link": "https://blog.naver.com/qhrfks1004/224343554488",
+          "blogger": "♥라니의 달콤한세상이야기♥",
+          "date": "2026-07-11"
+        },
+        {
+          "title": "헤비메탈 변신, 혜은이 은퇴의 기로에서 구한 명곡 ‘독백’",
+          "link": "https://blog.naver.com/sw_berry/224343425609",
+          "blogger": "바샤샥의 꿈",
+          "date": "2026-07-11"
         }
       ],
       "topNews": [
@@ -438,11 +365,84 @@
           "date": "2026-07-11"
         }
       ],
+      "rank": 5
+    },
+    {
+      "keyword": "황인범",
+      "traffic": "200+",
+      "blogTotal": 52246,
+      "newsTotal": 75290,
+      "recentToday": 31,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "체코전, 황인범이 사실상 MVP 아니었나요?",
+          "link": "https://blog.naver.com/oetet/224315820792",
+          "blogger": "멍뭉이 스포츠",
+          "date": "2026-06-14"
+        },
+        {
+          "title": "황인범 최고평점 왜? 체코전 2-1 역전승에서 드러난 한국...",
+          "link": "https://blog.naver.com/rlfehdud/224314860359",
+          "blogger": "두 아들 아빠의 아마추어 선수 도전기",
+          "date": "2026-06-13"
+        },
+        {
+          "title": "2026 북중미 월드컵  한국 체코 2-1 확정 황인범 오현규 역전골...",
+          "link": "https://blog.naver.com/moon_yona/224313806903",
+          "blogger": "нey yona : vιeтnaм now ෆ",
+          "date": "2026-06-12"
+        },
+        {
+          "title": "[2026 월드컵] 한국 조별리그 1차 체코전 2:1 역전승, 황인범...",
+          "link": "https://blog.naver.com/kjia76/224313848105",
+          "blogger": "...Читать текст...",
+          "date": "2026-06-12"
+        },
+        {
+          "title": "황인범 연봉과 몸값은? 북중미 월드컵 1호골 체코전의 영웅",
+          "link": "https://blog.naver.com/caleb0901/224313857782",
+          "blogger": "이과장의 스포츠",
+          "date": "2026-06-12"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "韓 축구 또 대형 이적? '체코전 원맨쇼' 황인범, 포르투갈 최고 명문 러...",
+          "link": "https://mhnse.com/news/articleView.html?idxno=1459383",
+          "press": "",
+          "date": "2026-07-11"
+        },
+        {
+          "title": "'韓 월드컵 최초 역사' 황인범, 포르투갈 최고 명문이 부른다!…\"FC포르...",
+          "link": "https://www.xportsnews.com/article/2171260",
+          "press": "",
+          "date": "2026-07-11"
+        },
+        {
+          "title": "韓 충격 탈락에도 황인범만 뜬 이유 \"포르투, 월드컵 전부터 지켜봤다\"",
+          "link": "https://www.starnewskorea.com/sports/2026/07/11/2026071120033981020",
+          "press": "",
+          "date": "2026-07-11"
+        },
+        {
+          "title": "'홍명보호 1골1도움' 황인범, 포르투갈 명가 포르투 러브콜[월드컵24시]",
+          "link": "https://www.newsis.com/view/NISX20260711_0003705402",
+          "press": "",
+          "date": "2026-07-11"
+        },
+        {
+          "title": "포르투갈 매체 \"황인범, 포르투가 주시 중…멕시코 몬테레이도 관심 보...",
+          "link": "http://www.stoo.com/article.php?aid=107695622046",
+          "press": "",
+          "date": "2026-07-11"
+        }
+      ],
       "rank": 6
     },
     {
       "keyword": "지상작전사령부",
-      "traffic": "500+",
+      "traffic": "1000+",
       "blogTotal": 23416,
       "newsTotal": 27680,
       "recentToday": 20,
@@ -514,79 +514,6 @@
       "rank": 7
     },
     {
-      "keyword": "실시간tv",
-      "traffic": "200+",
-      "blogTotal": 27401,
-      "newsTotal": 534396,
-      "recentToday": 15,
-      "recentWeek": 99,
-      "topBlogs": [
-        {
-          "title": "실시간 TV 보기 어플, 90개 채널 무료 시청 가능한 앱",
-          "link": "https://blog.naver.com/orchid1024/224326003271",
-          "blogger": "알림의 정석",
-          "date": "2026-06-24"
-        },
-        {
-          "title": "넷플릭스 실시간 TV 도입 검토, 생방송 시장까지 진출",
-          "link": "https://blog.naver.com/lushel/224342278593",
-          "blogger": "엠볼트",
-          "date": "2026-07-10"
-        },
-        {
-          "title": "실시간 tv보기 무료티비 시청 꿀팁",
-          "link": "https://blog.naver.com/khgssanai01/224165197749",
-          "blogger": "대한폰",
-          "date": "2026-01-30"
-        },
-        {
-          "title": "실시간 tv보기 무료 어플 사이트 추천 KBS SBS MBC TVN",
-          "link": "https://blog.naver.com/adgse33/224101730142",
-          "blogger": "유니의 소통 블로그",
-          "date": "2025-12-08"
-        },
-        {
-          "title": "경기 일정 시간 실시간 TV 채널 모바일 결과 하이라이트 영상",
-          "link": "https://blog.naver.com/sungshik02/224057487213",
-          "blogger": "❤️빠른 뉴스❤️",
-          "date": "2025-10-29"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "경기 중계 UFC : 맥그리거 할로웨이",
-          "link": "https://www.bntnews.co.kr/article/view/bnt202607100221",
-          "press": "",
-          "date": "2026-07-11"
-        },
-        {
-          "title": "[로또당첨번호조회] 1232회 로또 1등 당첨지역·판매점·당첨금 조회......",
-          "link": "https://www.lecturernews.com/news/articleView.html?idxno=206080",
-          "press": "",
-          "date": "2026-07-11"
-        },
-        {
-          "title": "SM, 악플러 아이디 박제 초강수.. \"모든 법적 수단 동원해 책임 물을 것...",
-          "link": "https://www.tvreport.co.kr/star/article/1060530/",
-          "press": "",
-          "date": "2026-07-11"
-        },
-        {
-          "title": "미 연구진, 중국 휴머노이드로 수술…의료계 투입 가능성 입증",
-          "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00008&news_seq_no=5205306",
-          "press": "",
-          "date": "2026-07-11"
-        },
-        {
-          "title": "동물 복강경 원격 수술 해냈다…美연구진이 입증한 로봇 정체",
-          "link": "https://www.joongang.co.kr/article/25444296",
-          "press": "",
-          "date": "2026-07-11"
-        }
-      ],
-      "rank": 8
-    },
-    {
       "keyword": "배지현",
       "traffic": "500+",
       "blogTotal": 11792,
@@ -639,14 +566,14 @@
           "date": "2026-07-11"
         },
         {
-          "title": "배지현 아나운서 '♥류현진 붕어빵 자녀들과 함께'[포토]",
-          "link": "https://www.xportsnews.com/article/2171253",
+          "title": "[사진]배지현 아나, 남편! 우수투수상 축하해",
+          "link": "http://www.osen.co.kr/article/G1112838363",
           "press": "",
           "date": "2026-07-11"
         },
         {
-          "title": "[사진]배지현 아나, 남편! 우수투수상 축하해",
-          "link": "http://www.osen.co.kr/article/G1112838363",
+          "title": "배지현 아나운서 '♥류현진 붕어빵 자녀들과 함께'[포토]",
+          "link": "https://www.xportsnews.com/article/2171253",
           "press": "",
           "date": "2026-07-11"
         },
@@ -657,16 +584,95 @@
           "date": "2026-07-11"
         }
       ],
+      "rank": 8
+    },
+    {
+      "keyword": "김이서",
+      "traffic": "200+",
+      "blogTotal": 2638,
+      "newsTotal": 839,
+      "recentToday": 1,
+      "recentWeek": 14,
+      "topBlogs": [
+        {
+          "title": "치어리더 김이서 은퇴 이유 결혼",
+          "link": "https://blog.naver.com/solmi_illustrator/224023700408",
+          "blogger": "비타민쏠미",
+          "date": "2025-09-27"
+        },
+        {
+          "title": "9년 활동한 김이서가 갑자기 화제가 된 이유, 비율보다 중요한 것",
+          "link": "https://blog.naver.com/kimyeonwooxo/224307417926",
+          "blogger": "Get on the box",
+          "date": "2026-06-06"
+        },
+        {
+          "title": "야구커플 김이서♥한준수, 결혼 앞두고 부모 됐다 \"소중한 생명...",
+          "link": "https://blog.naver.com/ft-times/224040944186",
+          "blogger": "FT스포츠",
+          "date": "2025-10-14"
+        },
+        {
+          "title": "김이서 치어리더 기아 한준수 선수 결혼 프로필 나이 인스타 연봉",
+          "link": "https://blog.naver.com/bloodmark/224021819210",
+          "blogger": "블마의 리뷰일상",
+          "date": "2025-09-25"
+        },
+        {
+          "title": "한준수 김이서 치어리더 근황",
+          "link": "https://blog.naver.com/dydghks3250/224257705911",
+          "blogger": "❤️ ✅kGn뉴스 ✅❤️",
+          "date": "2026-04-19"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "올스타전 찾은 김이서 '한준수 아내로 참석'[엑's HD포토]",
+          "link": "https://www.xportsnews.com/article/2171197",
+          "press": "",
+          "date": "2026-07-11"
+        },
+        {
+          "title": "[포토S] '한준수 아내' 김이서, '아기띠 들고 올스타전 나들이'",
+          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=827851",
+          "press": "",
+          "date": "2026-07-11"
+        },
+        {
+          "title": "[사진]한준수 아내 김이서,'잠실 마지막 올스타전 나들이'",
+          "link": "http://www.osen.co.kr/article/G1112838208",
+          "press": "",
+          "date": "2026-07-11"
+        },
+        {
+          "title": "[사진]한준수 아내 김이서,'올스타전 나들이'",
+          "link": "http://www.osen.co.kr/article/G1112838210",
+          "press": "",
+          "date": "2026-07-11"
+        },
+        {
+          "title": "[ST포토] 올스타전 찾은 김이서, '육아에 전념해요'",
+          "link": "http://www.stoo.com/article.php?aid=107701725327",
+          "press": "",
+          "date": "2026-07-11"
+        }
+      ],
       "rank": 9
     },
     {
       "keyword": "jayden adams",
       "traffic": "200+",
-      "blogTotal": 45,
-      "newsTotal": 11,
+      "blogTotal": 46,
+      "newsTotal": 13,
       "recentToday": 0,
-      "recentWeek": 0,
+      "recentWeek": 1,
       "topBlogs": [
+        {
+          "title": "jayden adams, 25세의 나이로 갑작스럽게 세상을 떠나다",
+          "link": "https://blog.naver.com/the_prominence_flame/224343778252",
+          "blogger": "희림(熙林)'s 블로그",
+          "date": "2026-07-12"
+        },
         {
           "title": "남아공 축구선수들의 낭만적 이름",
           "link": "https://blog.naver.com/kyiwee/224326425406",
@@ -690,15 +696,21 @@
           "link": "https://blog.naver.com/edward0912-/224308631944",
           "blogger": ".밍기적생활",
           "date": "2026-06-07"
-        },
-        {
-          "title": "[2026FIFA북중미월드컵]  「A조 3.남아프리카공화국」...",
-          "link": "https://blog.naver.com/atleticoeagles/224313306802",
-          "blogger": "아틀레티코이글스",
-          "date": "2026-06-11"
         }
       ],
       "topNews": [
+        {
+          "title": "Obit Adams Soccer",
+          "link": "https://n.news.naver.com/mnews/article/077/0007088807?sid=104",
+          "press": "",
+          "date": "2026-07-11"
+        },
+        {
+          "title": "Obit Adams Soccer",
+          "link": "https://n.news.naver.com/mnews/article/077/0007088806?sid=104",
+          "press": "",
+          "date": "2026-07-11"
+        },
         {
           "title": "'월드컵' 한국전이 마지막 경기...남아공 25세 선수, 숨진 채 발견",
           "link": "https://www.mt.co.kr/world/2026/07/11/2026071122463396369",
@@ -716,18 +728,6 @@
           "link": "https://www.xportsnews.com/article/1983370",
           "press": "",
           "date": "2025-04-07"
-        },
-        {
-          "title": "뮤지컬 '위키드' 오리지널 내한, 환상적인 캐스트 공개",
-          "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=482360",
-          "press": "",
-          "date": "2025-04-03"
-        },
-        {
-          "title": "오리지널 내한공연 '위키드', 초록 돌풍 일으킬 33인 캐스트 공개",
-          "link": "https://www.newsculture.press/news/articleView.html?idxno=564647",
-          "press": "",
-          "date": "2025-04-03"
         }
       ],
       "rank": 10
