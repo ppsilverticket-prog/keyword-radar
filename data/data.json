@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-12T15:57:37.694Z",
+  "updatedAt": "2026-07-12T17:03:07.104Z",
   "source": "live",
   "keywords": [
     {
       "keyword": "항서제약",
       "traffic": "1000+",
-      "blogTotal": 9755,
+      "blogTotal": 9756,
       "newsTotal": 7704,
-      "recentToday": 96,
+      "recentToday": 95,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -77,10 +77,10 @@
     },
     {
       "keyword": "졸음 운전",
-      "traffic": "500+",
-      "blogTotal": 355812,
+      "traffic": "1000+",
+      "blogTotal": 355816,
       "newsTotal": 91107,
-      "recentToday": 93,
+      "recentToday": 90,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -149,155 +149,9 @@
       "rank": 2
     },
     {
-      "keyword": "ㅡ냐",
-      "traffic": "100+",
-      "blogTotal": 263249,
-      "newsTotal": 7,
-      "recentToday": 83,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "티원 MSI 브래킷 스테이지 대전 당일치기 여행 (성심당DCC점...",
-          "link": "https://blog.naver.com/lgu2705/224337742593",
-          "blogger": "룽샤의 서식지",
-          "date": "2026-07-06"
-        },
-        {
-          "title": "2026 MSI 롤 결승전 중계 시간 비리비리게이밍 한화생명...",
-          "link": "https://blog.naver.com/dydghks3250/224344024589",
-          "blogger": "❤️ ✅kGn뉴스 ✅❤️",
-          "date": "2026-07-12"
-        },
-        {
-          "title": "MSI 2026 일정 결승전 T1 충격 탈락, 한화생명 우승 가나?",
-          "link": "https://blog.naver.com/hyjueng/224340888510",
-          "blogger": "꿈속에서도 게임을!!",
-          "date": "2026-07-09"
-        },
-        {
-          "title": "4K도 소화하는 UMPC, MSI 클로8 EX AI+ 예약 판매 시작! 성능...",
-          "link": "https://blog.naver.com/jjang986/224337730445",
-          "blogger": "주리오의 IT 이야기",
-          "date": "2026-07-06"
-        },
-        {
-          "title": "i7-8700K ASUS Z370-E GAMING 수냉쿨러 MSI GTX 1050 Ti 완성",
-          "link": "https://blog.naver.com/star-com/224328851935",
-          "blogger": "국가공인1급PC정비사 스타컴퓨터",
-          "date": "2026-07-12"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "[Opinion] 라스트 비올라 : 원점으로 되돌아오는 길 - 2025 줄라이 페스...",
-          "link": "https://www.artinsight.co.kr/news/view.php?no=76796",
-          "press": "",
-          "date": "2025-08-02"
-        },
-        {
-          "title": "인천김포고속도로, 개통하자마자 진통예상",
-          "link": "http://www.wowtv.co.kr/newscenter/news/view.asp?bcode=T30001000&artid=A201703230008",
-          "press": "",
-          "date": "2017-03-22"
-        },
-        {
-          "title": "[우리말OX] 금 한 냥? 금 한 량?… 맞는 표현은?",
-          "link": "http://www.joongdo.co.kr/jsp/article/article_view.jsp?pq=201612120006",
-          "press": "",
-          "date": "2016-12-11"
-        },
-        {
-          "title": "2016년 6·18 지방 9급공무원 필기시험 전문가 총평",
-          "link": "http://www.lec.co.kr/news/articleView.html?idxno=40876",
-          "press": "",
-          "date": "2016-06-18"
-        },
-        {
-          "title": "이유진의 '공감'(35)-",
-          "link": "http://www.lec.co.kr/news/articleView.html?idxno=36081",
-          "press": "",
-          "date": "2015-03-11"
-        }
-      ],
-      "rank": 3
-    },
-    {
-      "keyword": "msi",
-      "traffic": "2000+",
-      "blogTotal": 263249,
-      "newsTotal": 299869,
-      "recentToday": 83,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "티원 MSI 브래킷 스테이지 대전 당일치기 여행 (성심당DCC점...",
-          "link": "https://blog.naver.com/lgu2705/224337742593",
-          "blogger": "룽샤의 서식지",
-          "date": "2026-07-06"
-        },
-        {
-          "title": "2026 MSI 롤 결승전 중계 시간 비리비리게이밍 한화생명...",
-          "link": "https://blog.naver.com/dydghks3250/224344024589",
-          "blogger": "❤️ ✅kGn뉴스 ✅❤️",
-          "date": "2026-07-12"
-        },
-        {
-          "title": "MSI 2026 일정 결승전 T1 충격 탈락, 한화생명 우승 가나?",
-          "link": "https://blog.naver.com/hyjueng/224340888510",
-          "blogger": "꿈속에서도 게임을!!",
-          "date": "2026-07-09"
-        },
-        {
-          "title": "4K도 소화하는 UMPC, MSI 클로8 EX AI+ 예약 판매 시작! 성능...",
-          "link": "https://blog.naver.com/jjang986/224337730445",
-          "blogger": "주리오의 IT 이야기",
-          "date": "2026-07-06"
-        },
-        {
-          "title": "i7-8700K ASUS Z370-E GAMING 수냉쿨러 MSI GTX 1050 Ti 완성",
-          "link": "https://blog.naver.com/star-com/224328851935",
-          "blogger": "국가공인1급PC정비사 스타컴퓨터",
-          "date": "2026-07-12"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "한화생명 홈그라운드 대전서 MSI 우승",
-          "link": "https://www.tgdaily.co.kr/news/articleView.html?idxno=405623",
-          "press": "",
-          "date": "2026-07-12"
-        },
-        {
-          "title": "MSI 우승 한화생명 \"5세트 문도, 자신감으로 골랐다\"",
-          "link": "https://www.gamemeca.com/mv.php?inflow=naver_s&gid=1777722",
-          "press": "",
-          "date": "2026-07-12"
-        },
-        {
-          "title": "[MSI] BLG 양대인 감독, \"'제우스' 강심장, 리스펙 하게 됐다\"",
-          "link": "http://www.dailyesports.com/view.php?ud=202607130006399937b91e133c1f_27",
-          "press": "",
-          "date": "2026-07-12"
-        },
-        {
-          "title": "[MSI 2026] 우승 윤성영 한화생명 감독 \"패배 이후 밴픽 보완에 집중…포...",
-          "link": "https://www.khgames.co.kr/news/articleView.html?idxno=306289",
-          "press": "",
-          "date": "2026-07-12"
-        },
-        {
-          "title": "HLE, BLG 꺾고 창단 첫 MSI 우승… LCK 자존심 지켰다",
-          "link": "https://www.gamechosun.co.kr/webzine/article/view.php?no=223338",
-          "press": "",
-          "date": "2026-07-12"
-        }
-      ],
-      "rank": 4
-    },
-    {
       "keyword": "k리그1 순위",
       "traffic": "100+",
-      "blogTotal": 53013,
+      "blogTotal": 53016,
       "newsTotal": 93979,
       "recentToday": 79,
       "recentWeek": 100,
@@ -365,45 +219,118 @@
           "date": "2026-07-12"
         }
       ],
-      "rank": 5
+      "rank": 3
+    },
+    {
+      "keyword": "댐",
+      "traffic": "100+",
+      "blogTotal": 1834063,
+      "newsTotal": 487709,
+      "recentToday": 52,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "오기자와방면에서 알펜루트(구로베댐, 설벽, 옷차림)",
+          "link": "https://blog.naver.com/nuna0604/224321739308",
+          "blogger": "Behind & Miresigan 슬렁슬렁 하는 블로그",
+          "date": "2026-06-20"
+        },
+        {
+          "title": "진주 인테리어 다댐인테리어 진주점, 공간 리모델링 정보",
+          "link": "https://blog.naver.com/rkarbfl/224344366768",
+          "blogger": "Dyana's English",
+          "date": "2026-07-12"
+        },
+        {
+          "title": "6월 경남 가볼만한곳 밀양댐 전망대 밀양 드라이브",
+          "link": "https://blog.naver.com/ddo2_ddo2_/224308881325",
+          "blogger": "사랑 아니면 여행이겠지",
+          "date": "2026-06-07"
+        },
+        {
+          "title": "[충주카페추천] 충주댐카페 “호슬로정원” 내.돈.내.산 솔직리뷰",
+          "link": "https://blog.naver.com/qkraldus0901/224331094194",
+          "blogger": "♡밍블리의 소소한 일상♡",
+          "date": "2026-06-29"
+        },
+        {
+          "title": "[참고삼아 적어보는 글] 한국 vs 일본의 댐 개수는 얼마나 될까?",
+          "link": "https://blog.naver.com/arter80/224339372620",
+          "blogger": "팀판타시아 이종근 ☆ 용평오피스 & 향수자전거여행",
+          "date": "2026-07-07"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "경북도의회 농수산위 첫 업무보고…청년농 지원·예산 확대 주문",
+          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3633447",
+          "press": "",
+          "date": "2026-07-12"
+        },
+        {
+          "title": "\"민선 9기 키워드는 '시민 체감'…원도심 살리고 AI 키울 것\"",
+          "link": "https://www.kado.net/news/articleView.html?idxno=2060781",
+          "press": "",
+          "date": "2026-07-12"
+        },
+        {
+          "title": "[경상시론]세대연계형 인구정책, 울산의 미래를 좌우한다",
+          "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1061859",
+          "press": "",
+          "date": "2026-07-12"
+        },
+        {
+          "title": "[확대경] 소양강댐 수상태양광, 춘천 물주권 시대의 시작",
+          "link": "https://www.kwnews.co.kr/article/20260708501017",
+          "press": "",
+          "date": "2026-07-12"
+        },
+        {
+          "title": "[발언대]산사태 예방은 준비하는 국민의식에서 시작된다",
+          "link": "https://www.kwnews.co.kr/article/20260707501363",
+          "press": "",
+          "date": "2026-07-12"
+        }
+      ],
+      "rank": 4
     },
     {
       "keyword": "송종호",
       "traffic": "500+",
-      "blogTotal": 10782,
+      "blogTotal": 10789,
       "newsTotal": 41416,
       "recentToday": 50,
-      "recentWeek": 71,
+      "recentWeek": 78,
       "topBlogs": [
         {
-          "title": "“장가가서 제 자식을…” 송종호 51세 결혼 미진행에 나온...",
-          "link": "https://blog.naver.com/jmsoon8922/224344470407",
-          "blogger": "오지랖뉴스",
-          "date": "2026-07-12"
+          "title": "향한 깜짝 고백 & 응답하라1997 송종호 고깃집 사장님 된 사연",
+          "link": "https://blog.naver.com/mlkway153/224344565782",
+          "blogger": "스윗필드의 유쾌한 리뷰세상",
+          "date": "2026-07-13"
         },
         {
-          "title": "배우 송종호 프로필 총정리!미운 우리 새끼 근황,고기집 위치",
-          "link": "https://blog.naver.com/2001yjh2001/224344501312",
-          "blogger": "원하던 나의것",
-          "date": "2026-07-12"
+          "title": "미우새 송종호 고기집 가게 어디 아우정 후기 소고기 넘버나인...",
+          "link": "https://blog.naver.com/kahee0408/224344521988",
+          "blogger": "지구만사 리뷰",
+          "date": "2026-07-13"
         },
         {
-          "title": "송종호 51세 결혼 미진행, 왜 화제일까? 방송 발언 속 결혼관과...",
-          "link": "https://blog.naver.com/kim6352p/224344468152",
-          "blogger": "소소한 정보통",
-          "date": "2026-07-12"
+          "title": "송종호 고깃집 발레파킹까지? (나이 프로필 키 식당어디?) 3년...",
+          "link": "https://blog.naver.com/diacpqpqp/224344544259",
+          "blogger": "K 에디트",
+          "date": "2026-07-13"
         },
         {
-          "title": "송종호 51세 결혼 미진행, 단순 미혼 이슈가 아니라 세대...",
-          "link": "https://blog.naver.com/yhking119/224344477969",
-          "blogger": "우주에서 온 잡한다식",
-          "date": "2026-07-12"
+          "title": "송종호 배우 놀라운 과거 얼굴과 결혼, 여친, 부모님, 가족, 엄마...",
+          "link": "https://blog.naver.com/somsom626/224344551595",
+          "blogger": "솜솜핑의 블로그",
+          "date": "2026-07-13"
         },
         {
-          "title": "송종호 51세 결혼 미진행, 왜 화제일까? 방송 발언으로 보는...",
-          "link": "https://blog.naver.com/aaoc3142/224344473198",
-          "blogger": "알뜰정보통",
-          "date": "2026-07-12"
+          "title": "송종호 검색이 헷갈린다면? 동명이인 구분하는 법 총정리",
+          "link": "https://blog.naver.com/gere_/224344523167",
+          "blogger": "gere_님의 블로그",
+          "date": "2026-07-13"
         }
       ],
       "topNews": [
@@ -438,88 +365,88 @@
           "date": "2026-07-12"
         }
       ],
-      "rank": 6
+      "rank": 5
     },
     {
-      "keyword": "철도",
+      "keyword": "야닉 시너",
       "traffic": "500+",
-      "blogTotal": 3593318,
-      "newsTotal": 2575294,
-      "recentToday": 39,
+      "blogTotal": 11117,
+      "newsTotal": 2791,
+      "recentToday": 29,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "홍콩 옥토퍼스 카드 구매 공항 철도 AEL 티켓 예약 수령",
-          "link": "https://blog.naver.com/my50cent/224333344647",
-          "blogger": "이토록 멋진 여행",
-          "date": "2026-07-01"
+          "title": "2026 윔블던 남자 단식 결승 진출자 확정 즈베레프 VS  야닉시너",
+          "link": "https://blog.naver.com/dodossa/224343063565",
+          "blogger": "그랜드슬램 꿈꾸는 헤일리",
+          "date": "2026-07-11"
         },
         {
-          "title": "인도네시아 출장과 고속철도(우쉬) 이용기",
-          "link": "https://blog.naver.com/ich_bin_yong/224336754608",
-          "blogger": "Gruen Welt",
-          "date": "2026-07-05"
+          "title": "\"테니스 단식 제일 잘 치는 남자\" 야닉 시너 vs 알렉산더...",
+          "link": "https://blog.naver.com/football_goat/224343114965",
+          "blogger": "스포츠를 생각하는 축보트",
+          "date": "2026-07-11"
         },
         {
-          "title": "대구광역철도 대경선 노선 요금 서대구역 동대구역 전철 시간표",
-          "link": "https://blog.naver.com/dxsuckit69/224342815727",
-          "blogger": "더홍 미도구리 홍의성 Midoguri The Hong",
-          "date": "2026-07-10"
+          "title": "2026 윔블던 테니스 결승 대진표 완성 야닉 시너 알렉산더...",
+          "link": "https://blog.naver.com/horangissues/224344536021",
+          "blogger": "게임온",
+          "date": "2026-07-13"
         },
         {
-          "title": "12. fri(3) 쿠로몬시장 공항철도 타고 간사이공항으로",
-          "link": "https://blog.naver.com/myhearttj/224336491522",
-          "blogger": "I'm here !",
-          "date": "2026-07-04"
+          "title": "현대카드 슈퍼매치 야닉 시너 vs 알카라스 인스파이어 아레나...",
+          "link": "https://blog.naver.com/gangan_go/224142619422",
+          "blogger": "closet the closet",
+          "date": "2026-01-11"
         },
         {
-          "title": "[도야마] 3. 구로베(黒部) 철도풍경",
-          "link": "https://blog.naver.com/lovtrout/224308594681",
-          "blogger": "기차와 함께 하는 여행",
-          "date": "2026-06-07"
+          "title": "2026 윔블던 테니스대회 디펜딩 챔피언 야닉 시너 3회전 진출",
+          "link": "https://blog.naver.com/tennisjangi/224333935428",
+          "blogger": "테니스쟁이",
+          "date": "2026-07-02"
         }
       ],
       "topNews": [
         {
-          "title": "동대문 두타몰에 전통주 갤러리 2호점 개장…체험형 공간으로 MZ세대·관...",
-          "link": "http://www.youngnong.co.kr/news/articleView.html?idxno=60839",
+          "title": "‘결승 진출 실패’ 조코비치, ‘25번째 메이저 우승 가능성 점점 하락...",
+          "link": "https://sports.donga.com/sports/article/all/20260712/134280494/1",
           "press": "",
           "date": "2026-07-12"
         },
         {
-          "title": "수당도 바우처도 '줄줄'…통합 교육복지 시험대",
-          "link": "http://www.gjdream.com/news/articleView.html?idxno=670919",
+          "title": "\"알카라스가 델 포트로처럼 되어서는 안 된다\"",
+          "link": "http://www.tennispeople.kr/news/articleView.html?idxno=19012",
           "press": "",
-          "date": "2026-07-12"
+          "date": "2026-07-11"
         },
         {
-          "title": "60년 설악권 경제 버팀목 '원팀 재도약' 다짐",
-          "link": "https://www.kado.net/news/articleView.html?idxno=2060764",
+          "title": "'비볼과 조슈아의 대결?' 시너-즈베레프, 윔블던 결승은 권투 헤비급 타...",
+          "link": "http://www.tennispeople.kr/news/articleView.html?idxno=19009",
           "press": "",
-          "date": "2026-07-12"
+          "date": "2026-07-11"
         },
         {
-          "title": "삼척 비치썸 페스티벌 '영남권 관광객 모셔라'",
-          "link": "https://www.kado.net/news/articleView.html?idxno=2060771",
+          "title": "야닉 시너 vs 즈베레프, 윔블던 테니스 결승 중계",
+          "link": "https://www.bntnews.co.kr/article/view/bnt202607110116",
           "press": "",
-          "date": "2026-07-12"
+          "date": "2026-07-11"
         },
         {
-          "title": "동남권 순환 광역철도 점검...홍성우 시의원, 협력 논의",
-          "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1061865",
+          "title": "조코비치, \"(윔블던)센터 코트에서 최소한 한 번은 더 경기하고 싶습니...",
+          "link": "https://www.tennis.co.kr/news/articleView.html?idxno=53214",
           "press": "",
-          "date": "2026-07-12"
+          "date": "2026-07-11"
         }
       ],
-      "rank": 7
+      "rank": 6
     },
     {
       "keyword": "서남용",
       "traffic": "200+",
-      "blogTotal": 2281,
+      "blogTotal": 2282,
       "newsTotal": 6212,
       "recentToday": 23,
-      "recentWeek": 25,
+      "recentWeek": 26,
       "topBlogs": [
         {
           "title": "깔끔 왕 브라이언 집 공개 머리카락 정체는 서남용?",
@@ -584,15 +511,15 @@
           "date": "2026-07-12"
         }
       ],
-      "rank": 8
+      "rank": 7
     },
     {
       "keyword": "wec",
-      "traffic": "100+",
-      "blogTotal": 16722,
+      "traffic": "200+",
+      "blogTotal": 16723,
       "newsTotal": 11261,
       "recentToday": 11,
-      "recentWeek": 75,
+      "recentWeek": 76,
       "topBlogs": [
         {
           "title": "2026 WEC 이몰라 제네시스 마그마 레이싱의 성공적인 데뷔전",
@@ -657,12 +584,12 @@
           "date": "2026-07-12"
         }
       ],
-      "rank": 9
+      "rank": 8
     },
     {
       "keyword": "심하은",
-      "traffic": "500+",
-      "blogTotal": 3386,
+      "traffic": "1000+",
+      "blogTotal": 3387,
       "newsTotal": 5622,
       "recentToday": 11,
       "recentWeek": 100,
@@ -728,6 +655,79 @@
           "link": "https://www.newsis.com/view/NISX20260710_0003703653",
           "press": "",
           "date": "2026-07-10"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "keyword": "철도",
+      "traffic": "500+",
+      "blogTotal": 3593344,
+      "newsTotal": 2575296,
+      "recentToday": 7,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "홍콩 옥토퍼스 카드 구매 공항 철도 AEL 티켓 예약 수령",
+          "link": "https://blog.naver.com/my50cent/224333344647",
+          "blogger": "이토록 멋진 여행",
+          "date": "2026-07-01"
+        },
+        {
+          "title": "인도네시아 출장과 고속철도(우쉬) 이용기",
+          "link": "https://blog.naver.com/ich_bin_yong/224336754608",
+          "blogger": "Gruen Welt",
+          "date": "2026-07-05"
+        },
+        {
+          "title": "대구광역철도 대경선 노선 요금 서대구역 동대구역 전철 시간표",
+          "link": "https://blog.naver.com/dxsuckit69/224342815727",
+          "blogger": "더홍 미도구리 홍의성 Midoguri The Hong",
+          "date": "2026-07-10"
+        },
+        {
+          "title": "12. fri(3) 쿠로몬시장 공항철도 타고 간사이공항으로",
+          "link": "https://blog.naver.com/myhearttj/224336491522",
+          "blogger": "I'm here !",
+          "date": "2026-07-04"
+        },
+        {
+          "title": "[도야마] 3. 구로베(黒部) 철도풍경",
+          "link": "https://blog.naver.com/lovtrout/224308594681",
+          "blogger": "기차와 함께 하는 여행",
+          "date": "2026-06-07"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "최정호 익산시장, 국가예산 확보 '세일즈 행정' 시동",
+          "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=311546",
+          "press": "",
+          "date": "2026-07-12"
+        },
+        {
+          "title": "우크라이나, 크림반도 고립 작전 강화… 푸틴 '상징' 흔든다",
+          "link": "https://www.newscj.com/news/articleView.html?idxno=3416426",
+          "press": "",
+          "date": "2026-07-12"
+        },
+        {
+          "title": "동대문 두타몰에 전통주 갤러리 2호점 개장…체험형 공간으로 MZ세대·관...",
+          "link": "http://www.youngnong.co.kr/news/articleView.html?idxno=60839",
+          "press": "",
+          "date": "2026-07-12"
+        },
+        {
+          "title": "수당도 바우처도 '줄줄'…통합 교육복지 시험대",
+          "link": "http://www.gjdream.com/news/articleView.html?idxno=670919",
+          "press": "",
+          "date": "2026-07-12"
+        },
+        {
+          "title": "60년 설악권 경제 버팀목 '원팀 재도약' 다짐",
+          "link": "https://www.kado.net/news/articleView.html?idxno=2060764",
+          "press": "",
+          "date": "2026-07-12"
         }
       ],
       "rank": 10
