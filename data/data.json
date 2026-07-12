@@ -1,12 +1,231 @@
 {
-  "updatedAt": "2026-07-12T11:57:39.817Z",
+  "updatedAt": "2026-07-12T13:35:56.664Z",
   "source": "live",
   "keywords": [
     {
-      "keyword": "편의점",
+      "keyword": "ㅡ냐",
       "traffic": "100+",
-      "blogTotal": 11854829,
-      "newsTotal": 1315217,
+      "blogTotal": 263215,
+      "newsTotal": 7,
+      "recentToday": 100,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "티원 MSI 브래킷 스테이지 대전 당일치기 여행 (성심당DCC점...",
+          "link": "https://blog.naver.com/lgu2705/224337742593",
+          "blogger": "룽샤의 서식지",
+          "date": "2026-07-06"
+        },
+        {
+          "title": "2026 MSI 롤 결승전 중계 시간 비리비리게이밍 한화생명...",
+          "link": "https://blog.naver.com/dydghks3250/224344024589",
+          "blogger": "❤️ ✅kGn뉴스 ✅❤️",
+          "date": "2026-07-12"
+        },
+        {
+          "title": "MSI 2026 일정 결승전 T1 충격 탈락, 한화생명 우승 가나?",
+          "link": "https://blog.naver.com/hyjueng/224340888510",
+          "blogger": "꿈속에서도 게임을!!",
+          "date": "2026-07-09"
+        },
+        {
+          "title": "4K도 소화하는 UMPC, MSI 클로8 EX AI+ 예약 판매 시작! 성능...",
+          "link": "https://blog.naver.com/jjang986/224337730445",
+          "blogger": "주리오의 IT 이야기",
+          "date": "2026-07-06"
+        },
+        {
+          "title": "i7-8700K ASUS Z370-E GAMING 수냉쿨러 MSI GTX 1050 Ti 완성",
+          "link": "https://blog.naver.com/star-com/224328851935",
+          "blogger": "국가공인1급PC정비사 스타컴퓨터",
+          "date": "2026-07-12"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "[Opinion] 라스트 비올라 : 원점으로 되돌아오는 길 - 2025 줄라이 페스...",
+          "link": "https://www.artinsight.co.kr/news/view.php?no=76796",
+          "press": "",
+          "date": "2025-08-02"
+        },
+        {
+          "title": "인천김포고속도로, 개통하자마자 진통예상",
+          "link": "http://www.wowtv.co.kr/newscenter/news/view.asp?bcode=T30001000&artid=A201703230008",
+          "press": "",
+          "date": "2017-03-22"
+        },
+        {
+          "title": "[우리말OX] 금 한 냥? 금 한 량?… 맞는 표현은?",
+          "link": "http://www.joongdo.co.kr/jsp/article/article_view.jsp?pq=201612120006",
+          "press": "",
+          "date": "2016-12-11"
+        },
+        {
+          "title": "2016년 6·18 지방 9급공무원 필기시험 전문가 총평",
+          "link": "http://www.lec.co.kr/news/articleView.html?idxno=40876",
+          "press": "",
+          "date": "2016-06-18"
+        },
+        {
+          "title": "이유진의 '공감'(35)-",
+          "link": "http://www.lec.co.kr/news/articleView.html?idxno=36081",
+          "press": "",
+          "date": "2015-03-11"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "keyword": "msi",
+      "traffic": "2000+",
+      "blogTotal": 263215,
+      "newsTotal": 299851,
+      "recentToday": 100,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "티원 MSI 브래킷 스테이지 대전 당일치기 여행 (성심당DCC점...",
+          "link": "https://blog.naver.com/lgu2705/224337742593",
+          "blogger": "룽샤의 서식지",
+          "date": "2026-07-06"
+        },
+        {
+          "title": "2026 MSI 롤 결승전 중계 시간 비리비리게이밍 한화생명...",
+          "link": "https://blog.naver.com/dydghks3250/224344024589",
+          "blogger": "❤️ ✅kGn뉴스 ✅❤️",
+          "date": "2026-07-12"
+        },
+        {
+          "title": "MSI 2026 일정 결승전 T1 충격 탈락, 한화생명 우승 가나?",
+          "link": "https://blog.naver.com/hyjueng/224340888510",
+          "blogger": "꿈속에서도 게임을!!",
+          "date": "2026-07-09"
+        },
+        {
+          "title": "4K도 소화하는 UMPC, MSI 클로8 EX AI+ 예약 판매 시작! 성능...",
+          "link": "https://blog.naver.com/jjang986/224337730445",
+          "blogger": "주리오의 IT 이야기",
+          "date": "2026-07-06"
+        },
+        {
+          "title": "i7-8700K ASUS Z370-E GAMING 수냉쿨러 MSI GTX 1050 Ti 완성",
+          "link": "https://blog.naver.com/star-com/224328851935",
+          "blogger": "국가공인1급PC정비사 스타컴퓨터",
+          "date": "2026-07-12"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "대전시, 2026 MSI 흥행 폭발 '10만 관람객' 세계에 통했다... '한화생명 ...",
+          "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=435950",
+          "press": "",
+          "date": "2026-07-12"
+        },
+        {
+          "title": "한화생명, 접전 끝에 창단 첫 MSI 우승…대전 달군 15일 여정 '마침표'",
+          "link": "https://news.tf.co.kr/read/national/2342414.htm",
+          "press": "",
+          "date": "2026-07-12"
+        },
+        {
+          "title": "[MSI] 우승 거머쥔 한화생명, \"한 명이라도 흔들렸다면, 무너졌을 것\"",
+          "link": "https://www.inven.co.kr/webzine/news/?news=318401",
+          "press": "",
+          "date": "2026-07-12"
+        },
+        {
+          "title": "한화생명, 대전서 새 역사 썼다…BLG 꺾고 창단 첫 MSI 우승",
+          "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2287493",
+          "press": "",
+          "date": "2026-07-12"
+        },
+        {
+          "title": "한화생명e스포츠, 창단 첫 MSI 우승…롤드컵 직행 티켓 확보",
+          "link": "http://www.yonhapnewstv.co.kr/news/AKR20260712222046KJG",
+          "press": "",
+          "date": "2026-07-12"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "keyword": "캐디",
+      "traffic": "500+",
+      "blogTotal": 722740,
+      "newsTotal": 140942,
+      "recentToday": 100,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "골프워치 고민 끝, 보이스캐디 T13 PRO 한달 착용 실사용 후기",
+          "link": "https://blog.naver.com/happypanchok/224341615184",
+          "blogger": "애드공감",
+          "date": "2026-07-10"
+        },
+        {
+          "title": "골프거리측정기 추천, 앰지캐디 MY1 필드에서 꾸준히...",
+          "link": "https://blog.naver.com/cmcepro/224325877235",
+          "blogger": "문가",
+          "date": "2026-06-24"
+        },
+        {
+          "title": "2026 골프거리측정기 순위 TOP1 앰지캐디 MH4 사용 후기",
+          "link": "https://blog.naver.com/wolf002/224324765704",
+          "blogger": "눈감고 달려봤는가? 겁나 무섭다.",
+          "date": "2026-06-23"
+        },
+        {
+          "title": "강원도 골프장 벨라스톤CC 골프라운딩 후기 캐디 진행은 별로",
+          "link": "https://blog.naver.com/ejp8702/224315048945",
+          "blogger": "골프와 여행은 즐거워",
+          "date": "2026-06-13"
+        },
+        {
+          "title": "경기도 노캐디 2인플레이가능한 골프장 용인cc 솔직후기",
+          "link": "https://blog.naver.com/kksy412/224325304947",
+          "blogger": "김뚠뚜니 내일은 라베요~",
+          "date": "2026-06-24"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "[포토]전우리,콤비 캐디와 파이팅",
+          "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=02535446645513864",
+          "press": "",
+          "date": "2026-07-12"
+        },
+        {
+          "title": "[MT포토] 고지우, 캐디 우승 축하해주는 고지원",
+          "link": "http://www.maniareport.com/view.php?ud=2026071218220781631792476ff_19",
+          "press": "",
+          "date": "2026-07-12"
+        },
+        {
+          "title": "[MT포토] 우승이 포옹하는 고지우-이승하 캐디",
+          "link": "http://www.maniareport.com/view.php?ud=20260712181734266731792476ff_19",
+          "press": "",
+          "date": "2026-07-12"
+        },
+        {
+          "title": "[MT포토] 고지우, 캐디 이승하와 함께",
+          "link": "http://www.maniareport.com/view.php?ud=20260712180401405031792476ff_19",
+          "press": "",
+          "date": "2026-07-12"
+        },
+        {
+          "title": "[mhn포토] 안지현, 캐디 신청호아 담소",
+          "link": "https://mhnse.com/news/articleView.html?idxno=1460114",
+          "press": "",
+          "date": "2026-07-12"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "keyword": "편의점",
+      "traffic": "200+",
+      "blogTotal": 11855183,
+      "newsTotal": 1315218,
       "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
@@ -43,6 +262,12 @@
       ],
       "topNews": [
         {
+          "title": "“자폐 걱정돼요” 임신 중 타이레놀, 적정 용량은 괜찮아요 [건강+]",
+          "link": "https://www.segye.com/newsView/20260712511615?OutUrl=naver",
+          "press": "",
+          "date": "2026-07-12"
+        },
+        {
           "title": "농수산식품유통공사(aT), 국내 유망 외식기업 일본 진출 지원 및 전통주...",
           "link": "https://www.cstimes.com/news/articleView.html?idxno=713117",
           "press": "",
@@ -61,172 +286,93 @@
           "date": "2026-07-12"
         },
         {
-          "title": "[월요아침]단백질 과잉 시대, 내 몸은 안전할까?",
-          "link": "https://sjbnews.com/news/news.php?number=882798",
-          "press": "",
-          "date": "2026-07-12"
-        },
-        {
           "title": "컨테이너에 데크와 현관 붙이니 어엿한 집",
           "link": "https://sjbnews.com/news/news.php?number=882777",
           "press": "",
           "date": "2026-07-12"
         }
       ],
-      "rank": 1
+      "rank": 4
     },
     {
-      "keyword": "소비",
-      "traffic": "200+",
-      "blogTotal": 15325891,
-      "newsTotal": 13275644,
-      "recentToday": 100,
+      "keyword": "lck",
+      "traffic": "500+",
+      "blogTotal": 97943,
+      "newsTotal": 142004,
+      "recentToday": 68,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "소비심리기준으로 보는 가계운영 판단법",
-          "link": "https://blog.naver.com/yonghon3/224303965156",
-          "blogger": "맨홀뚜껑",
-          "date": "2026-06-03"
+          "title": "2026 롤 EWC 일정 LCK 진출팀 대진표 상금 공략",
+          "link": "https://blog.naver.com/ms7215465/224343818694",
+          "blogger": "치코리타의 모험노트",
+          "date": "2026-07-12"
         },
         {
-          "title": "소비통장기준으로 가계운영 판단하는 법",
-          "link": "https://blog.naver.com/cuk1026/224312950486",
-          "blogger": "은하수",
-          "date": "2026-06-12"
+          "title": "2026 EWC 롤 일정 대진표 방식 상금 LCK 진출팀 젠지 한화...",
+          "link": "https://blog.naver.com/yong9260/224343873204",
+          "blogger": "용혁순",
+          "date": "2026-07-12"
         },
         {
-          "title": "비수기준비감각 소비균형 포인트",
-          "link": "https://blog.naver.com/casan8851/224300217627",
-          "blogger": "투자경제 꽃게박사",
-          "date": "2026-05-30"
+          "title": "msi 예매 방법 road to 로드투 일정 lck 대진표 2026",
+          "link": "https://blog.naver.com/blogbaksa/224293173510",
+          "blogger": "아파트,상가,빌라 분양정보",
+          "date": "2026-05-22"
         },
         {
-          "title": "썸붕 원인 | 관심과 호기심을 빨리 소비하면 오래 가지 못하고...",
-          "link": "https://blog.naver.com/satc_1004/224341280118",
-          "blogger": "글 쓰는 여자, 신쨩입니다.",
-          "date": "2026-07-09"
+          "title": "MSI 일정 대진표 2026 롤 T1 HLE 한화 대전, LCK 브래킷...",
+          "link": "https://blog.naver.com/kwonjae27/224336770624",
+          "blogger": "게임 잘 알려주는 껑이네",
+          "date": "2026-07-05"
         },
         {
-          "title": "전기사용감각으로 맞추는 전기요금 소비균형",
-          "link": "https://blog.naver.com/firstlady01/224299303371",
-          "blogger": "구름이그린달빛",
-          "date": "2026-05-29"
+          "title": "LCK 룰러 무징계 결정 논란, 팬들 여론은 결국 폭발했다",
+          "link": "https://baystory.tistory.com/564555",
+          "blogger": "아이템베이 공식 블로그",
+          "date": "2026-05-07"
         }
       ],
       "topNews": [
         {
-          "title": "전복값이 전복됐다…전국 1위 산지의 위기",
-          "link": "https://mpmbc.co.kr/NewsArticle/1527134",
+          "title": "[MSI] 우승 거머쥔 한화생명, \"한 명이라도 흔들렸다면, 무너졌을 것\"",
+          "link": "https://www.inven.co.kr/webzine/news/?news=318401",
           "press": "",
           "date": "2026-07-12"
         },
         {
-          "title": "전남광주특별시, 오사카서 첫 농수산식품 팝업스토어",
-          "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=849793",
+          "title": "한화생명, 대전서 새 역사 썼다…BLG 꺾고 창단 첫 MSI 우승",
+          "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2287493",
           "press": "",
           "date": "2026-07-12"
         },
         {
-          "title": "농수산식품유통공사(aT), 국내 유망 외식기업 일본 진출 지원 및 전통주...",
-          "link": "https://www.cstimes.com/news/articleView.html?idxno=713117",
+          "title": "[MSI 브리핑] \"바론 스틸 한 방에 무너진 LPL\"…한화생명, BLG 꺾고 창단...",
+          "link": "https://www.techm.kr/news/articleView.html?idxno=153311",
           "press": "",
           "date": "2026-07-12"
         },
         {
-          "title": "출향도민과 함께한 전북…호남향우회 한마음대회",
-          "link": "https://view.asiae.co.kr/article/2026071219564037875",
+          "title": "복수전 성공! 한화생명e스포츠 MSI 2026 우승",
+          "link": "https://www.gamemeca.com/mv.php?inflow=naver_s&gid=1777720",
           "press": "",
           "date": "2026-07-12"
         },
         {
-          "title": "[Opinion] '여성 서사’의 정치성을 풍부하게 만드는 이 달의 공연 2 [공...",
-          "link": "https://www.artinsight.co.kr/news/view.php?no=81625",
-          "press": "",
-          "date": "2026-07-12"
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "keyword": "캐시워크 정답",
-      "traffic": "200+",
-      "blogTotal": 295856,
-      "newsTotal": 89927,
-      "recentToday": 60,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "캐시워크 돈버는퀴즈 정답 2026년 4월 23일, 앱테크 퀴즈정답...",
-          "link": "https://blog.naver.com/gudrkq89/224262605659",
-          "blogger": "최형갭v 부동산, 임장, N잡, 상품리뷰, 블로그",
-          "date": "2026-04-23"
-        },
-        {
-          "title": "캐시워크 돈버는퀴즈 위치 변경 7월 9일 목요일 퀴즈 정답",
-          "link": "https://blog.naver.com/layla--/224341169451",
-          "blogger": "해피 에이징 파크",
-          "date": "2026-07-09"
-        },
-        {
-          "title": "[앱테크] 캐시워크 0630... 땅콩버터 크런치 특가 외 9건 정답!",
-          "link": "https://blog.naver.com/hihohaeho/224331453208",
-          "blogger": "룰루랄라",
-          "date": "2026-06-30"
-        },
-        {
-          "title": "7월 1일 캐시워크 정답, 바로이집 퀴즈 ㅈㄱㅅㅅㄹ",
-          "link": "https://blog.naver.com/influencer33/224332664288",
-          "blogger": "블루워터",
-          "date": "2026-07-01"
-        },
-        {
-          "title": "[실시간] 1월 7일 캐시워크 돈버는 퀴즈 정답 총정리",
-          "link": "https://blog.naver.com/vldmlvhrwn/224137878012",
-          "blogger": "광택,열차단썬팅,언더코팅 실내크리닝",
-          "date": "2026-01-07"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "모기패치 캐시워크 퀴즈 이벤트 진행",
-          "link": "https://www.rapportian.com/news/articleView.html?idxno=238132",
-          "press": "",
-          "date": "2026-07-12"
-        },
-        {
-          "title": "[종합]\"스파오,닥터버거,배민,11번가,키토선생, 황금거위,픽스 녹음기\" ...",
-          "link": "http://www.economytalk.kr/news/articleView.html?idxno=422661",
-          "press": "",
-          "date": "2026-07-12"
-        },
-        {
-          "title": "12일 CJ더마켓 캐시워크 돈버는퀴즈 정답 공개",
-          "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=849768",
-          "press": "",
-          "date": "2026-07-12"
-        },
-        {
-          "title": "12일 픽스 청소기 캐시워크 돈버는퀴즈 정답 공개",
-          "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=849767",
-          "press": "",
-          "date": "2026-07-12"
-        },
-        {
-          "title": "[종합]\"닥터버거,배민,11번가,키토선생, 황금거위,픽스 녹음기\" 등 7월1...",
-          "link": "http://www.economytalk.kr/news/articleView.html?idxno=422659",
+          "title": "한화생명전 패인 짚은 BLG 양대인 “4세트가 결정적…선수들 급해지더라...",
+          "link": "https://www.kukinews.com/article/view/kuk202607120044",
           "press": "",
           "date": "2026-07-12"
         }
       ],
-      "rank": 3
+      "rank": 5
     },
     {
       "keyword": "테더",
       "traffic": "500+",
-      "blogTotal": 141989,
+      "blogTotal": 141993,
       "newsTotal": 36046,
-      "recentToday": 56,
+      "recentToday": 63,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -292,160 +438,87 @@
           "date": "2026-07-12"
         }
       ],
-      "rank": 4
-    },
-    {
-      "keyword": "지예은",
-      "traffic": "100+",
-      "blogTotal": 25748,
-      "newsTotal": 20193,
-      "recentToday": 49,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "지예은 링탭 굿나잇패치 간편하게 밤 루틴 관리해본 후기",
-          "link": "https://blog.naver.com/sgs5611/224270532200",
-          "blogger": "☘️해와바다-상위1프로 RMR상품 기획",
-          "date": "2026-04-30"
-        },
-        {
-          "title": "요즘 지예은 따라서 챙겨본 링탭 굿나잇패치 후기",
-          "link": "https://blog.naver.com/mm0107733/224270519916",
-          "blogger": "#하이진이와 광비나들이 는 계속됩니다 °•○",
-          "date": "2026-04-30"
-        },
-        {
-          "title": "지예은 링탭 굿나잇패치로 밤 루틴 관리해본 솔직 후기",
-          "link": "https://blog.naver.com/shinemyway88/224270520502",
-          "blogger": "빛나라 나의 길이여",
-          "date": "2026-04-30"
-        },
-        {
-          "title": "지예은 수면패치 링탭 굿나잇패치 직접 붙여보니 자기 전...",
-          "link": "https://blog.naver.com/midas8873/224270518088",
-          "blogger": "김스토리",
-          "date": "2026-04-30"
-        },
-        {
-          "title": "지예은 추천템 링탭 굿나잇패치 사용해보니 편하게 이어가기...",
-          "link": "https://blog.naver.com/oldskill/224270511596",
-          "blogger": "벼리님",
-          "date": "2026-04-30"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "유재석, 결국 송지효에 심기불편…\"심은하 맞아? 요즘 메이크업\" ('런닝...",
-          "link": "https://www.tenasia.co.kr/article/2026071203614",
-          "press": "",
-          "date": "2026-07-12"
-        },
-        {
-          "title": "\"바타 또 반하겠네\" 지예은, 90년대 김희선 메이크업 완벽 재현 (런닝맨...",
-          "link": "http://www.osen.co.kr/article/G1112838703",
-          "press": "",
-          "date": "2026-07-12"
-        },
-        {
-          "title": "“꼭 나가보고 싶다” 허남준→코르티스 ‘런닝맨’ 16주년 축하 영상 ...",
-          "link": "https://www.mk.co.kr/article/12096639",
-          "press": "",
-          "date": "2026-07-12"
-        },
-        {
-          "title": "“생각지도 못해” 김종국, BTS 노래 제목 맞힌 송지효 선방에 경악 (‘...",
-          "link": "https://www.mk.co.kr/article/12096636",
-          "press": "",
-          "date": "2026-07-12"
-        },
-        {
-          "title": "'런닝맨' 유재석, \"줄리아나, 형 누나들 잘 계시죠? 차 태워주셔서 고맙...",
-          "link": "https://ent.sbs.co.kr/news/article.do?article_id=E10010319060&plink=ORI&cooper=NAVER",
-          "press": "",
-          "date": "2026-07-12"
-        }
-      ],
-      "rank": 5
-    },
-    {
-      "keyword": "이기택",
-      "traffic": "100+",
-      "blogTotal": 16992,
-      "newsTotal": 27453,
-      "recentToday": 48,
-      "recentWeek": 97,
-      "topBlogs": [
-        {
-          "title": "배우 이기택, <1박 2일> 새 막내로 첫 등장부터 예능 흐름에...",
-          "link": "https://blog.naver.com/withinnews/224309788001",
-          "blogger": "위드인뉴스",
-          "date": "2026-06-08"
-        },
-        {
-          "title": "1박2일 새멤버 잘 뽑았네, 이용진 이기택 첫방 합격...",
-          "link": "https://blog.naver.com/travelhyuk/224308968473",
-          "blogger": "임씨의 지구를 지켜라!!",
-          "date": "2026-06-08"
-        },
-        {
-          "title": "법륜스님·노홍철·이상윤·이주빈·이기택·우찬, 마지막 인도...",
-          "link": "https://blog.naver.com/news9kr/224319043314",
-          "blogger": "뉴스나인",
-          "date": "2026-06-17"
-        },
-        {
-          "title": "스님과 손님 넷플릭스·화요 예능 동시 1위, 이기택·이주빈이...",
-          "link": "https://blog.naver.com/5004yurim/224299651999",
-          "blogger": "유림여사 제4의 활동",
-          "date": "2026-05-29"
-        },
-        {
-          "title": "유선호의 빈자리를 채우는 이기택 예능 행보 본격화, 1박 2일...",
-          "link": "https://blog.naver.com/tmzmfk010/224285079578",
-          "blogger": "힐스터K랑 오늘, 이거 볼래?",
-          "date": "2026-05-14"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "[1박 2일] 밤참 걸린 즉석 승부…! 삼겹살+라면 앞 멤버들 승부욕 폭발",
-          "link": "https://kstar.kbs.co.kr/list_view.html?idx=405681",
-          "press": "",
-          "date": "2026-07-12"
-        },
-        {
-          "title": "이기택 \"예능 도전 후회 하냐고? 힘들어도 즐거워\" ('1박')",
-          "link": "https://www.tvreport.co.kr/broadcast/article/1060674/",
-          "press": "",
-          "date": "2026-07-12"
-        },
-        {
-          "title": "이기택, '팀 운' 좋은 게 능력...스스로 증명했다 (1박 2일)[종합]",
-          "link": "https://www.xportsnews.com/article/2171371",
-          "press": "",
-          "date": "2026-07-12"
-        },
-        {
-          "title": "이기택, 식사습관이 부른 군만두 지옥→문세윤 먹방 활약 “멋있어” (...",
-          "link": "https://www.newsen.com/news_view.php?uid=202607121921151710",
-          "press": "",
-          "date": "2026-07-12"
-        },
-        {
-          "title": "이기택, 합류 후회한 적 없다...\"촬영 끝나면 또 가고 싶어\" (1박 2일)",
-          "link": "https://www.xportsnews.com/article/2171365",
-          "press": "",
-          "date": "2026-07-12"
-        }
-      ],
       "rank": 6
     },
     {
-      "keyword": "충남 아산 fc 대 경남",
+      "keyword": "hle",
       "traffic": "200+",
-      "blogTotal": 30345,
-      "newsTotal": 1450,
-      "recentToday": 25,
+      "blogTotal": 11174,
+      "newsTotal": 4161,
+      "recentToday": 32,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "2026 MSI 결승전 HLE vs BLG 접전 끝에 3:2로 한화가 우승 !!",
+          "link": "https://blog.naver.com/1020dsa/224344401569",
+          "blogger": "따홍 하우스",
+          "date": "2026-07-12"
+        },
+        {
+          "title": "MSI 일정 대진표 2026 롤 T1 HLE 한화 대전, LCK 브래킷...",
+          "link": "https://blog.naver.com/kwonjae27/224336770624",
+          "blogger": "게임 잘 알려주는 껑이네",
+          "date": "2026-07-05"
+        },
+        {
+          "title": "2026 MSI 직관 후기｜대전컨벤션센터 한화(HLE) vs BLG 1층...",
+          "link": "https://blog.naver.com/0702sr/224342025086",
+          "blogger": "공부끝, 한입",
+          "date": "2026-07-10"
+        },
+        {
+          "title": "렌터카 시내 영업소 <Burton House Beverly Hills HLE>",
+          "link": "https://blog.naver.com/yje1019/223586642656",
+          "blogger": "You Do You",
+          "date": "2024-09-17"
+        },
+        {
+          "title": "후기 / 치지직 롤파크 / 한화생명 이스포츠 / 롤리나잇 / HLE",
+          "link": "https://blog.naver.com/ste__lla_/224332108521",
+          "blogger": "Stella",
+          "date": "2026-06-30"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "대전시, 2026 MSI 흥행 폭발 '10만 관람객' 세계에 통했다... '한화생명 ...",
+          "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=435950",
+          "press": "",
+          "date": "2026-07-12"
+        },
+        {
+          "title": "한화생명, 접전 끝에 창단 첫 MSI 우승…대전 달군 15일 여정 '마침표'",
+          "link": "https://news.tf.co.kr/read/national/2342414.htm",
+          "press": "",
+          "date": "2026-07-12"
+        },
+        {
+          "title": "BLG '골든로드' 막았다…한화생명, MSI 우승",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16132114",
+          "press": "",
+          "date": "2026-07-12"
+        },
+        {
+          "title": "[풍경기] 한빛타워 아래 열린 축제, 티모와 꿈돌이가 팬들을 맞이한 MSI...",
+          "link": "https://www.gamechosun.co.kr/webzine/article/view.php?no=223337",
+          "press": "",
+          "date": "2026-07-12"
+        },
+        {
+          "title": "한화생명 LYON 꺾고 결승 진출",
+          "link": "https://www.tgdaily.co.kr/news/articleView.html?idxno=405622",
+          "press": "",
+          "date": "2026-07-12"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "keyword": "충남 아산 fc 대 경남",
+      "traffic": "500+",
+      "blogTotal": 30348,
+      "newsTotal": 1451,
+      "recentToday": 28,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -481,6 +554,12 @@
       ],
       "topNews": [
         {
+          "title": "'장호익 부상 OUT'→'김민혁 결승골' 1위 부산 아이파크, 2위 수원 삼성...",
+          "link": "https://www.sportschosun.com/football/2026-07-12/202607120100078300004926",
+          "press": "",
+          "date": "2026-07-12"
+        },
+        {
           "title": "[오피셜] '1골 1도움' 김주공, K리그2 16라운드 MVP 선정...베스트 팀도...",
           "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=94507",
           "press": "",
@@ -503,231 +582,152 @@
           "link": "https://news.skbroadband.com/news/articleView.html?idxno=231254",
           "press": "",
           "date": "2026-07-06"
-        },
-        {
-          "title": "\"이변은 없었다\" 코리아컵 1라운드, K5리그 전멸…생존 15개팀, 2라운드...",
-          "link": "https://www.sportschosun.com/football/2026-07-06/202607060100035220002071",
-          "press": "",
-          "date": "2026-07-06"
-        }
-      ],
-      "rank": 7
-    },
-    {
-      "keyword": "최우수산",
-      "traffic": "100+",
-      "blogTotal": 635,
-      "newsTotal": 833,
-      "recentToday": 24,
-      "recentWeek": 42,
-      "topBlogs": [
-        {
-          "title": "최우수산 5회 멤버 전원 '지리산 천왕봉 정상' 오르며...",
-          "link": "https://blog.naver.com/newspdc/224302586610",
-          "blogger": "뉴스피디",
-          "date": "2026-06-01"
-        },
-        {
-          "title": "최우수산 보고 반해서 구매한 초경량 접이식 등산스틱 추천",
-          "link": "https://blog.naver.com/jasonmoondistri/224283226568",
-          "blogger": "꾸준한 한걸음, 오늘보다 나은 내일을 기대합니다.",
-          "date": "2026-05-12"
-        },
-        {
-          "title": "최우수산 첫방부터 난리난 이유? + 기본정보 (MBC 일요일 예능)",
-          "link": "https://blog.naver.com/lhswind2/224274076671",
-          "blogger": "우수아빠의 인생은",
-          "date": "2026-05-04"
-        },
-        {
-          "title": "최우수산 출연진·방송시간 총정리 4회 지리산 미션, 뭐가...",
-          "link": "https://blog.naver.com/5004yurim/224295940090",
-          "blogger": "유림여사 제4의 활동",
-          "date": "2026-05-25"
-        },
-        {
-          "title": "리센느 최우수산 출연 화제 제나가 밝힌 팀 내 가장 꼰대는?...",
-          "link": "https://blog.naver.com/kia_skin/224344061763",
-          "blogger": "일상플래너",
-          "date": "2026-07-12"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "허경환, 리센느 제나 母와 동갑…'아빠' 호칭에 발끈 \"내가 안 낳았다\" ...",
-          "link": "https://www.tvreport.co.kr/broadcast/article/1060672/",
-          "press": "",
-          "date": "2026-07-12"
-        },
-        {
-          "title": "붐, 산적 분장에…♥아내도 위로 \"처음 고생했다고 안아줘\" ('최우수산'...",
-          "link": "https://www.tvreport.co.kr/broadcast/article/1060668/",
-          "press": "",
-          "date": "2026-07-12"
-        },
-        {
-          "title": "장동민 \"데뷔 후 처음으로 그만해야 하나 생각\" (최우수산) [TV나우]",
-          "link": "http://www.tvdaily.co.kr/read.php3?aid=17838480131793646002",
-          "press": "",
-          "date": "2026-07-12"
-        },
-        {
-          "title": "'최우수산' 리센느 리브·메이·제나, '데자뷰' 화음 라이브…예능 최초",
-          "link": "https://enter.etoday.co.kr/news/view/299637",
-          "press": "",
-          "date": "2026-07-12"
-        },
-        {
-          "title": "'최우수산' 리센느 리브·메이·제나 출격 \"가장 꼰대 멤버는...\"",
-          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3633505",
-          "press": "",
-          "date": "2026-07-12"
         }
       ],
       "rank": 8
     },
     {
-      "keyword": "홈플러스 성서점",
+      "keyword": "이소라",
       "traffic": "500+",
-      "blogTotal": 4077,
-      "newsTotal": 2658,
-      "recentToday": 5,
-      "recentWeek": 20,
+      "blogTotal": 162333,
+      "newsTotal": 107786,
+      "recentToday": 27,
+      "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "굿바이 홈플러스 성서점 마지막 기록",
-          "link": "https://blog.naver.com/01022543509/224342893497",
-          "blogger": "박남매 소소한 일상",
-          "date": "2026-07-10"
+          "title": "이소라와 홍진경, 파리 패션위크 앞에서 다시 증명한 도전의...",
+          "link": "https://blog.naver.com/withinnews/224309108724",
+          "blogger": "위드인뉴스",
+          "date": "2026-06-08"
         },
         {
-          "title": "홈플러스 성서점 LG 그랜드 오픈 매장 다녀온 후기",
-          "link": "https://blog.naver.com/sexyangel004/224310239981",
-          "blogger": "LG전자 그 여정의 기록",
-          "date": "2026-06-09"
+          "title": "2026 이소라 콘서트 후기",
+          "link": "https://blog.naver.com/gkduwls863/224275191422",
+          "blogger": "미식여행, 그리고 일상",
+          "date": "2026-05-05"
         },
         {
-          "title": "때 사 먹기 좋은 간식거리 교동도나스 홈플러스 성서점 내돈내산",
-          "link": "https://blog.naver.com/king3583/224312018059",
-          "blogger": "▶ Miss YEJ Story ◀",
-          "date": "2026-06-10"
+          "title": "소라와 진경 3회 이소라·홍진경, 파리 에이전시 합격…런웨이...",
+          "link": "https://blog.naver.com/dotnews/224282031931",
+          "blogger": "닷뉴스",
+          "date": "2026-05-11"
         },
         {
-          "title": "@ LG전자 베스트샵 홈플러스 성서점에서 으뜸효율가전 구매 추천",
-          "link": "https://blog.naver.com/curi0704/223975109043",
-          "blogger": "빛나는 청춘",
-          "date": "2025-08-19"
+          "title": "소라와진경 이소라 마스크팩, 프랑스 마스크 팩 정보",
+          "link": "https://blog.naver.com/rkarbfl/224297179020",
+          "blogger": "Dyana's English",
+          "date": "2026-05-26"
         },
         {
-          "title": "5월 29일 홈플러스 성서점에 다녀왔어요!",
-          "link": "https://blog.naver.com/sedona2013/224307744759",
-          "blogger": "나뭇잎으로 집을 짓자 II",
-          "date": "2026-06-06"
+          "title": "이소라 홍진경 사이 15년 절교 이유",
+          "link": "https://blog.naver.com/mucaldiaproc/224266681745",
+          "blogger": "이슈랭",
+          "date": "2026-04-27"
         }
       ],
       "topNews": [
         {
-          "title": "\"5월 판매대금도 못 받았다\"…홈플러스 입점업체 피해 확산",
-          "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4078111",
+          "title": "이소라 \"그 남자친구 잊기 힘들었다\"…'바람이 분다' 속 실제 이별 고백...",
+          "link": "https://www.mydaily.co.kr/page/view/2026071216525361344",
           "press": "",
           "date": "2026-07-12"
         },
         {
-          "title": "12일 대형마트 대부분 휴무…홈플러스 성서·영주점은 문 연다",
-          "link": "https://www.vegannews.co.kr/news/article.html?no=383966",
+          "title": "이소라 “‘바람이 분다’ 주인공 전 남친, 정말 잊기 힘들었다” (‘유...",
+          "link": "https://isplus.com/article/view/isp202607120102",
           "press": "",
           "date": "2026-07-12"
         },
         {
-          "title": "대구 홈플러스 일부 점주들 \"물품판매 정산금 수천만원 못 받았다\"",
-          "link": "https://www.imaeil.com/page/view/2026071016232747835",
+          "title": "이소라, ‘바람이 분다’ 속 그 남자 얼마나 사랑했길래…“너무 잊기 ...",
+          "link": "https://www.newsen.com/news_view.php?uid=202607121639412310",
           "press": "",
           "date": "2026-07-12"
         },
         {
-          "title": "손님은 몰리고 진열대는 비었다…청산 앞둔 홈플러스 성서점, 웃지 못하...",
-          "link": "https://www.kbmaeil.com/article/20260711500132",
+          "title": "이소라, '바람이 분다' 가사 속 실제 전남친 누구길래…\"정말 잊기 힘들...",
+          "link": "https://www.sportschosun.com/entertainment/2026-07-12/202607120100077440004876",
           "press": "",
           "date": "2026-07-12"
         },
         {
-          "title": "'홈플러스 폐점 리스트 성서점·영주점도 위기' 12일 대형마트 휴무일 ...",
-          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3632974",
+          "title": "보험개발원, 말레이시아 ISM과 공동 워크숍… 'K-보험' 인프라 협력 강화",
+          "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=204817",
           "press": "",
-          "date": "2026-07-11"
+          "date": "2026-07-12"
         }
       ],
       "rank": 9
     },
     {
-      "keyword": "찰리 반즈",
-      "traffic": "500+",
-      "blogTotal": 3876,
-      "newsTotal": 8767,
-      "recentToday": 1,
-      "recentWeek": 5,
+      "keyword": "임이자",
+      "traffic": "100+",
+      "blogTotal": 11046,
+      "newsTotal": 43770,
+      "recentToday": 0,
+      "recentWeek": 15,
       "topBlogs": [
         {
-          "title": "1위 팀의 여유? 불펜 데이 찰리 반즈 빅리그 최다 7이닝 투구",
-          "link": "https://blog.naver.com/ung3256/224334452988",
-          "blogger": "츠토무의 로그북",
-          "date": "2026-07-02"
+          "title": "임이자 의원, 입법로비 의혹 보도에 강력 대응…“가짜뉴스...",
+          "link": "https://blog.naver.com/ksg2028/224301265993",
+          "blogger": "365타임즈",
+          "date": "2026-05-30"
         },
         {
-          "title": "前 롯데자이언츠 찰리 반즈 KBO리그 복귀할까 대체 외국인선수...",
-          "link": "https://blog.naver.com/yihy131/224241078808",
-          "blogger": "테동인의 TENNIS BLOG",
-          "date": "2026-04-06"
+          "title": "임이자 의원 \"대법원 판결로 노란봉투법 입법 근거 흔들려...",
+          "link": "https://blog.naver.com/hotfocustv/224343180435",
+          "blogger": "핫포커스",
+          "date": "2026-07-11"
         },
         {
-          "title": "자이언츠 New 외국인 투수 '감보아'! 찰리 반즈 대체 가능할까?",
-          "link": "https://blog.naver.com/chaesports/223865738992",
-          "blogger": "채씨가 전하는 스포츠⚡",
-          "date": "2025-05-14"
+          "title": "[하늘과 바다를 잇는 의성·울릉의 새로운 시대, 임이자가 함께...",
+          "link": "https://blog.naver.com/llj11/224274392113",
+          "blogger": "국민의힘 상주•문경시 국회의원 임이자",
+          "date": "2026-05-04"
         },
         {
-          "title": "전 롯데 투수 찰리 반즈, 다저스 긴급 콜업에도 7실점으로 고전",
-          "link": "https://blog.naver.com/historycar/224334399339",
-          "blogger": "하이스포츠 인사이드",
-          "date": "2026-07-02"
+          "title": "임이자 의원, 외국인 계절근로자 인근 농가 일시근무 허용 추진",
+          "link": "https://blog.naver.com/dnfvm825/224340387362",
+          "blogger": "대경일보 상주",
+          "date": "2026-07-08"
         },
         {
-          "title": "롯데 자이언츠 찰리 반즈 8주 부상! 롯데 반즈 교체, 대체...",
-          "link": "https://blog.naver.com/sjhw118/223859722165",
-          "blogger": "축잘알을 향하여",
-          "date": "2025-05-09"
+          "title": "'노동운동가 출신 국민의힘 국회의원' 임이자 생애 및 학력과...",
+          "link": "https://blog.naver.com/pso164/224336120591",
+          "blogger": "과학커뮤니케이터 박종현",
+          "date": "2026-07-07"
         }
       ],
       "topNews": [
         {
-          "title": "롯데에서만 통산 35승 기록한 에이스…MLB 복귀 꿈 이뤘지만, 다저스에...",
-          "link": "https://isplus.com/article/view/isp202607120091",
+          "title": "국힘, 대한통운 파기환송 대법원 판결에 \"노란봉투법 폐지\" 촉구",
+          "link": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3028685",
           "press": "",
           "date": "2026-07-12"
         },
         {
-          "title": "롯데 에이스였는데 또 쫓겨나게 생겼다…LAD 불펜 개편에 직격탄, \"이닝...",
-          "link": "https://www.sportschosun.com/baseball/2026-07-12/202607120100075440004772",
+          "title": "안재민 상주시장 \"벼랑 끝 상주, 이제는 되는 방법부터 찾겠다\"",
+          "link": "https://www.imaeil.com/page/view/2026070710515203841",
           "press": "",
           "date": "2026-07-12"
         },
         {
-          "title": "前 롯데 에이스, 다저스에서도 끝내 버려졌다→DFA 통보... 美 \"멀티이닝...",
-          "link": "https://www.mydaily.co.kr/page/view/2026071209290087299",
+          "title": "CJ대한통운 판결이 드러낸 노란봉투법 허점",
+          "link": "https://wemakenews.co.kr/news/view.php?no=25770",
           "press": "",
           "date": "2026-07-12"
         },
         {
-          "title": "롯데 출신 좌완 선발 반즈, 다저스 유망주 선발 투수에 밀려 DFA",
-          "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553369231",
+          "title": "임이자 의원, \"입법 폭주 민주당은 석고대죄해야\"",
+          "link": "https://www.hidomin.com/news/articleView.html?idxno=712825",
           "press": "",
           "date": "2026-07-12"
         },
         {
-          "title": "고우석도 ML 밟았는데, ‘이 선수’ 마이너 방치 실화? 안타-2타점 2루타...",
-          "link": "http://www.osen.co.kr/article/G1112835919",
+          "title": "노란봉투법 입법 명분과 정당성 근본부터 흔들렸다",
+          "link": "https://www.kbmaeil.com/article/20260712500110",
           "press": "",
-          "date": "2026-07-08"
+          "date": "2026-07-12"
         }
       ],
       "rank": 10
