@@ -1,33 +1,15 @@
 {
-  "updatedAt": "2026-07-13T18:57:32.055Z",
+  "updatedAt": "2026-07-13T20:18:25.180Z",
   "source": "live",
   "keywords": [
     {
       "keyword": "skhy",
-      "traffic": "200+",
-      "blogTotal": 3403,
+      "traffic": "500+",
+      "blogTotal": 3405,
       "newsTotal": 591,
-      "recentToday": 89,
+      "recentToday": 87,
       "recentWeek": 100,
       "topBlogs": [
-        {
-          "title": "미국서 SK하이닉스 투자 가능해졌다…SKHY·SKHX·SKHZ...",
-          "link": "https://blog.naver.com/bluebelldaum/224344089600",
-          "blogger": "달팽이처럼 여유롭게",
-          "date": "2026-07-12"
-        },
-        {
-          "title": "이번 주 -7.57% 맞은 코스피, 다음 주 SKHY 정규 거래·CPI...",
-          "link": "https://blog.naver.com/syk1792/224344249979",
-          "blogger": "캐럴만 듣는 남자",
-          "date": "2026-07-12"
-        },
-        {
-          "title": "최태원 SKHY 인스타그램 뜻 의미? 김희영 티앤씨 이사장 패션...",
-          "link": "https://blog.naver.com/luvddang9/224345054532",
-          "blogger": "에이미의 아름다운 날들",
-          "date": "2026-07-13"
-        },
         {
           "title": "SK하이닉스 SKHY 미국상장후 전략",
           "link": "https://blog.naver.com/going_tothe_moon/224341419296",
@@ -39,6 +21,24 @@
           "link": "https://blog.naver.com/cpath/224342859005",
           "blogger": "제이콥의 일상 탐구",
           "date": "2026-07-10"
+        },
+        {
+          "title": "나스닥 티커 SKHY(SK하이닉스)로 ADR 거래시작, 최태원회장의...",
+          "link": "https://blog.naver.com/sendy71/224343728763",
+          "blogger": "지니의 머니로그",
+          "date": "2026-07-11"
+        },
+        {
+          "title": "미국서 SK하이닉스 투자 가능해졌다…SKHY·SKHX·SKHZ...",
+          "link": "https://blog.naver.com/bluebelldaum/224344089600",
+          "blogger": "달팽이처럼 여유롭게",
+          "date": "2026-07-12"
+        },
+        {
+          "title": "\"SK하이닉스 ADR\" 미국 나스닥 상장 SKHY 공모규모부터 투자...",
+          "link": "https://blog.naver.com/vlich/224341447163",
+          "blogger": "유희로그",
+          "date": "2026-07-09"
         }
       ],
       "topNews": [
@@ -76,84 +76,11 @@
       "rank": 1
     },
     {
-      "keyword": "아시아나항공",
-      "traffic": "500+",
-      "blogTotal": 528406,
-      "newsTotal": 438751,
-      "recentToday": 87,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "하얼빈 여행 아시아나항공 OZ339 체크인 수화물 기내식 후기",
-          "link": "https://blog.naver.com/hu027/224301096179",
-          "blogger": "울이의 중화권 & 세계 여행",
-          "date": "2026-05-30"
-        },
-        {
-          "title": "아시아나항공 'OZ134' 아이랑 후기, 기내식 좌석 항공권 특가",
-          "link": "https://blog.naver.com/pdmho92/224341350014",
-          "blogger": "살림에 감성비, 가성비를 더하다",
-          "date": "2026-07-09"
-        },
-        {
-          "title": "아시아나항공 하와이 여행 항공권 호놀룰루 공항 면세점 기내식",
-          "link": "https://blog.naver.com/hjk8427_/224316354633",
-          "blogger": "엘리의 영국라이프",
-          "date": "2026-06-15"
-        },
-        {
-          "title": "부다페스트 공항 체크인 아시아나항공 OZ548 기내식",
-          "link": "https://blog.naver.com/heewon1032/224324615468",
-          "blogger": "책킴은 트래블링",
-          "date": "2026-06-23"
-        },
-        {
-          "title": "아시아나 항공 OZ601·602 인천 - 시드니 후기 (기내식, 좌석)",
-          "link": "https://blog.naver.com/joy3345/224291657154",
-          "blogger": "매력홍 ♡",
-          "date": "2026-05-21"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "호반에 지분 또 내준 한진칼, 다시 지배구조 시험대 오르나",
-          "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=847094",
-          "press": "",
-          "date": "2026-07-13"
-        },
-        {
-          "title": "대한항공, 2분기 매출 5조 첫 돌파…유가에 웃지 못한 '역대 최대'",
-          "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=315008",
-          "press": "",
-          "date": "2026-07-13"
-        },
-        {
-          "title": "“하노이로 출발합니다”…‘막내 LCC’ 파라타항공, 새 길 열었다 [현장...",
-          "link": "https://www.kukinews.com/article/view/kuk202607130191",
-          "press": "",
-          "date": "2026-07-13"
-        },
-        {
-          "title": "[속보]대한항공, 아시아나티앤아이 청산 추진",
-          "link": "https://www.hankyung.com/article/202607132674i",
-          "press": "",
-          "date": "2026-07-13"
-        },
-        {
-          "title": "대한항공, 고유가·고환율에도 실적 선방",
-          "link": "https://www.hankyung.com/article/2026071325181",
-          "press": "",
-          "date": "2026-07-13"
-        }
-      ],
-      "rank": 2
-    },
-    {
       "keyword": "참교육",
-      "traffic": "5000+",
-      "blogTotal": 143301,
-      "newsTotal": 53927,
-      "recentToday": 68,
+      "traffic": "10000+",
+      "blogTotal": 143309,
+      "newsTotal": 53929,
+      "recentToday": 60,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -189,6 +116,18 @@
       ],
       "topNews": [
         {
+          "title": "충남교육청판 ‘참교육’ 시작… ‘교권보호관’ 7월 출범",
+          "link": "https://www.seoul.co.kr/news/plan/2026/07/14/20260714022001?wlog_tag3=naver",
+          "press": "",
+          "date": "2026-07-13"
+        },
+        {
+          "title": "'모범택시' 넘었다…시청률 22% 뚫고 벌써 '시즌2' 얘기 나오는 한국 드...",
+          "link": "https://www.wikitree.co.kr/articles/1146094",
+          "press": "",
+          "date": "2026-07-13"
+        },
+        {
           "title": "‘힘 커진 경찰’ 시리즈 호평… ‘교실 위기’ 지속적 보도 주문",
           "link": "https://www.kmib.co.kr/article/view.asp?arcid=1783923538&code=13110000&cp=nv",
           "press": "",
@@ -205,175 +144,17 @@
           "link": "https://www.topstarnews.net/news/articleView.html?idxno=16133397",
           "press": "",
           "date": "2026-07-13"
-        },
-        {
-          "title": "\"싸워\" 홍명보·치맥 젠슨황까지…의정부고 졸업사진 또 터졌다",
-          "link": "https://www.imaeil.com/page/view/2026071322343436341",
-          "press": "",
-          "date": "2026-07-13"
-        },
-        {
-          "title": "‘아파트’ 지성, 100억 위해 결의 다지는 ‘비장 워킹 엔딩’으로 하이...",
-          "link": "https://sports.khan.co.kr/article/202607132244003?pt=nv",
-          "press": "",
-          "date": "2026-07-13"
         }
       ],
-      "rank": 3
-    },
-    {
-      "keyword": "미군",
-      "traffic": "2000+",
-      "blogTotal": 1451188,
-      "newsTotal": 1154962,
-      "recentToday": 48,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "2026 괌 태교여행 3️ | 이파오비치 스노클링, 남부투어, 미군...",
-          "link": "https://blog.naver.com/sg20051119/224332288341",
-          "blogger": "positive energy, spread love",
-          "date": "2026-06-30"
-        },
-        {
-          "title": "미군 배급 식량인 C Ration의 추억,처음 미제 물건을 접한...",
-          "link": "https://blog.naver.com/amapola27/224323692604",
-          "blogger": "amapola27님의 블로그",
-          "date": "2026-06-22"
-        },
-        {
-          "title": "[시공 후기] 까다로운 미군부대 음향 시스템 완벽 교체!",
-          "link": "https://blog.naver.com/visionwave2025/224294728961",
-          "blogger": "대구 음향 영상 장비 전문업체 비젼웨이브",
-          "date": "2026-05-24"
-        },
-        {
-          "title": "프라운트힐스 평택 미군 렌탈하우스 모델하우스 정보",
-          "link": "https://blog.naver.com/lynn_u/224086505512",
-          "blogger": "연유의 부동산정보",
-          "date": "2025-11-24"
-        },
-        {
-          "title": "평택미군기지감시보고서 260618",
-          "link": "https://blog.naver.com/jgmoon11/224329446908",
-          "blogger": "똘똘이11의 블로그 JGMoon`s Blog",
-          "date": "2026-06-28"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "미군 \"내일 새벽 3시부터 이란 해상봉쇄 재개\"",
-          "link": "https://www.ytn.co.kr/_ln/0104_202607140355295652",
-          "press": "",
-          "date": "2026-07-13"
-        },
-        {
-          "title": "미국-이란 갈등에 뉴욕증시 '온도차'...에너지 강세, 기술주 약세",
-          "link": "https://www.tokenpost.kr/news/market/377366",
-          "press": "",
-          "date": "2026-07-13"
-        },
-        {
-          "title": "미군 \"美동부시간 14일 오후 4시부터 이란 해상봉쇄 재개\"",
-          "link": "https://www.yna.co.kr/view/AKR20260714004800071?input=1195m",
-          "press": "",
-          "date": "2026-07-13"
-        },
-        {
-          "title": "미, 국제형사재판소 전방위 압박...외신 \"트럼프 기소 차단 포석\"",
-          "link": "https://www.ytn.co.kr/_ln/0104_202607140342272664",
-          "press": "",
-          "date": "2026-07-13"
-        },
-        {
-          "title": "美, 한국시간 15일 오전 5시 이란 봉쇄 재개…“불응 선박 무력 제압”",
-          "link": "https://www.dailian.co.kr/news/view/1666724/?sc=Naver",
-          "press": "",
-          "date": "2026-07-13"
-        }
-      ],
-      "rank": 4
-    },
-    {
-      "keyword": "jtbc",
-      "traffic": "2000+",
-      "blogTotal": 1245366,
-      "newsTotal": 2486102,
-      "recentToday": 39,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "이혼숙려캠프 진실공방부부 남편 두집살림 뻔뻔한 해명 (JTBC...",
-          "link": "https://blog.naver.com/euene1111/224341995468",
-          "blogger": "보는 사람",
-          "date": "2026-07-10"
-        },
-        {
-          "title": "\"JTBC가 또...\" '신입사원 강회장' 최악의 황당결말에 시청자들...",
-          "link": "https://blog.naver.com/news_curator_j/224337455693",
-          "blogger": "핫 뉴스만 콕 집어요",
-          "date": "2026-07-06"
-        },
-        {
-          "title": "김웅 전 의원 \"jTBC 사태와 터널링 의혹...SLL중 문제 개입돼...",
-          "link": "https://blog.naver.com/zoomin0313/224339490581",
-          "blogger": "'필염산하(筆染山河)'",
-          "date": "2026-07-07"
-        },
-        {
-          "title": "앞 살아 돌아온 강용호, 황준현은? 12회 예고 JTBC 토일 드라마",
-          "link": "https://blog.naver.com/alsk1130/224336650102",
-          "blogger": "차카니의 잡다한 일상과 드라마리뷰",
-          "date": "2026-07-05"
-        },
-        {
-          "title": "JTBC 파산 논란, 중앙 그룹 부도와 회생 절차까지 간 이유",
-          "link": "https://blog.naver.com/tarames/224322024227",
-          "blogger": "한가한 경제 재테크",
-          "date": "2026-06-20"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "'트롯거성' 이찬원, 7월 1주 차 평점랭킹 TOP2...230주 연속 2위",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16133435",
-          "press": "",
-          "date": "2026-07-13"
-        },
-        {
-          "title": "‘아파트’ 임소윤, 본격적인 서사 여는 서무주임 오윤서 역",
-          "link": "https://sports.khan.co.kr/article/202607140240003?pt=nv",
-          "press": "",
-          "date": "2026-07-13"
-        },
-        {
-          "title": "‘거부’ 누르면 해피콜 끝… 키움증권, JTBC 투자자 보호 도마",
-          "link": "https://www.kmib.co.kr/article/view.asp?arcid=1783932327&code=11151400&cp=nv",
-          "press": "",
-          "date": "2026-07-13"
-        },
-        {
-          "title": "이세온, 카페에서 여유로운 독서…'허식당' 이후 근황",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16133433",
-          "press": "",
-          "date": "2026-07-13"
-        },
-        {
-          "title": "'톡파원 25시' 이찬원, 다음주 미국→일본·중국→멕시코 랜선 여행 예고",
-          "link": "https://enter.etoday.co.kr/news/view/299706",
-          "press": "",
-          "date": "2026-07-13"
-        }
-      ],
-      "rank": 5
+      "rank": 2
     },
     {
       "keyword": "2002년 fifa 월드컵",
       "traffic": "500+",
-      "blogTotal": 9385,
+      "blogTotal": 9386,
       "newsTotal": 32472,
-      "recentToday": 33,
-      "recentWeek": 89,
+      "recentToday": 34,
+      "recentWeek": 90,
       "topBlogs": [
         {
           "title": "2002년 FIFA 월드컵이 오늘... 북중미 월드컵 4강의 놀라운...",
@@ -438,86 +219,378 @@
           "date": "2026-07-13"
         }
       ],
-      "rank": 6
+      "rank": 3
     },
     {
-      "keyword": "skhy stock",
-      "traffic": "100+",
-      "blogTotal": 106,
-      "newsTotal": 18,
-      "recentToday": 17,
-      "recentWeek": 85,
+      "keyword": "미군",
+      "traffic": "2000+",
+      "blogTotal": 1451210,
+      "newsTotal": 1154995,
+      "recentToday": 32,
+      "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "SKHY 나스닥 데뷔에 대한 기관 분석: 월가의 의견, 밸류에이션...",
-          "link": "https://blog.naver.com/eheka91/224341759388",
-          "blogger": "도토리담",
-          "date": "2026-07-09"
+          "title": "2026 괌 태교여행 3️ | 이파오비치 스노클링, 남부투어, 미군...",
+          "link": "https://blog.naver.com/sg20051119/224332288341",
+          "blogger": "positive energy, spread love",
+          "date": "2026-06-30"
         },
         {
-          "title": "J's Chips Insight] SK하이닉스ADR(SKHY) ADR, 나스닥에...",
-          "link": "https://blog.naver.com/bsj7000/224342451746",
-          "blogger": "전병서의 안정적인 성공투자",
-          "date": "2026-07-10"
+          "title": "미군 배급 식량인 C Ration의 추억,처음 미제 물건을 접한...",
+          "link": "https://blog.naver.com/amapola27/224323692604",
+          "blogger": "amapola27님의 블로그",
+          "date": "2026-06-22"
         },
         {
-          "title": "하이닉스 ADR 'SKHY' 7월 10일 나스닥 상장 확정, 주가...",
-          "link": "https://blog.naver.com/tourde-/224326353776",
-          "blogger": "왕밤빵의 미국주식 베이커리",
-          "date": "2026-06-25"
+          "title": "[시공 후기] 까다로운 미군부대 음향 시스템 완벽 교체!",
+          "link": "https://blog.naver.com/visionwave2025/224294728961",
+          "blogger": "대구 음향 영상 장비 전문업체 비젼웨이브",
+          "date": "2026-05-24"
         },
         {
-          "title": "SKHY",
-          "link": "https://blog.naver.com/rrlaji/224343154415",
-          "blogger": "인사이트 제공자",
-          "date": "2026-07-11"
+          "title": "프라운트힐스 평택 미군 렌탈하우스 모델하우스 정보",
+          "link": "https://blog.naver.com/lynn_u/224086505512",
+          "blogger": "연유의 부동산정보",
+          "date": "2025-11-24"
         },
         {
-          "title": "나스닥 상장 SK hynix ADR(티커 SKHY) 공부",
-          "link": "https://blog.naver.com/hermessanhaehan/224343255348",
-          "blogger": "ONENESS",
-          "date": "2026-07-11"
+          "title": "평택미군기지감시보고서 260618",
+          "link": "https://blog.naver.com/jgmoon11/224329446908",
+          "blogger": "똘똘이11의 블로그 JGMoon`s Blog",
+          "date": "2026-06-28"
         }
       ],
       "topNews": [
         {
-          "title": "SK hynix Slides in Korea After Nasdaq Debut: Why?",
-          "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=272956",
+          "title": "트럼프 “이란 대신 美가 ‘호르무즈 수호자’ 될 것... 대가도 받겠다...",
+          "link": "https://www.sedaily.com/article/20067293?ref=naver",
           "press": "",
           "date": "2026-07-13"
         },
         {
-          "title": "KOSPI tumbles below 7,000 in 'Black Monday' sell-off",
-          "link": "https://www.koreatimes.co.kr/path/A2026071314150000151",
+          "title": "[뉴욕증시-1보] 이란 해역 재봉쇄에 장기전 우려…하락 마감",
+          "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4424739",
           "press": "",
           "date": "2026-07-13"
         },
         {
-          "title": "SK Hynix raises $26.5 billion through ADR issuance",
-          "link": "https://en.asiatoday.co.kr/view.php?key=20260713000957231",
+          "title": "\"이란 남부·남동부에 미사일 떨어져‥폭발음도 들려\"",
+          "link": "https://imnews.imbc.com/news/2026/world/article/6837164_36925.html",
           "press": "",
           "date": "2026-07-13"
         },
         {
-          "title": "Slow Letter: July 13, 2026.",
-          "link": "https://lownews.kr/163109",
+          "title": "美 이란 재봉쇄에 국제유가 요동…WTI 10% 급등",
+          "link": "https://biz.sbs.co.kr/article_hub/20000322278?division=NAVER",
           "press": "",
           "date": "2026-07-13"
         },
         {
-          "title": "SK hynix sets foreign U.S. IPO record as $26.5 billion debut sharpens deb...",
-          "link": "https://www.koreajoongangdaily.com/business/sk-hynix-sets-foreign-us-ipo-record-as-265-billion-debut-sharpens-debate-over-ai-chip-boom/12768061",
+          "title": "미군, 이란 공격에 해상드론 첫 투입…\"잠수함·함정시설 타격\"",
+          "link": "http://www.yonhapnewstv.co.kr/news/MYH20260714051121w56",
           "press": "",
-          "date": "2026-07-11"
+          "date": "2026-07-13"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "keyword": "무인 항공기",
+      "traffic": "100+",
+      "blogTotal": 60207,
+      "newsTotal": 99359,
+      "recentToday": 22,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "한서대 무인항공기학부 편입 , 처음부터 이렇게 준비했어요 !",
+          "link": "https://blog.naver.com/rorororooo/224252576016",
+          "blogger": "양세마리원단",
+          "date": "2026-04-15"
+        },
+        {
+          "title": "하늘 위 작은 비행체를 찾아내는 AI | CCTV 무인항공기 탐지",
+          "link": "https://blog.naver.com/hikasiu/224341761596",
+          "blogger": "어항에서 만나는 아이디어",
+          "date": "2026-07-09"
+        },
+        {
+          "title": "【농업용 드론】ePropelled, 차세대 농업용 무인항공기(UAV)...",
+          "link": "https://blog.naver.com/foodrist/224323415744",
+          "blogger": "농 업 문 화 원",
+          "date": "2026-06-23"
+        },
+        {
+          "title": "무인항공기의 개념과 분류 한눈에 보기",
+          "link": "https://blog.naver.com/colorrice/223772787916",
+          "blogger": "온누리무인항공",
+          "date": "2025-02-25"
+        },
+        {
+          "title": "국내 무인항공기 기술의 주역, 프리뉴 성장 배경과 핵심 역량",
+          "link": "https://blog.naver.com/boo817a/224323481774",
+          "blogger": "티비리뷰엉",
+          "date": "2026-06-22"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "후티 반군, 사우디 아브하 공항 타격…\"사나 공항 공습 보복\"",
+          "link": "https://www.yna.co.kr/view/AKR20260714006700079?input=1195m",
+          "press": "",
+          "date": "2026-07-13"
+        },
+        {
+          "title": "보령, 오늘부터 드론-항공기로 벼 병해충 방제",
+          "link": "https://www.donga.com/news/Society/article/all/20260714/134290601/2",
+          "press": "",
+          "date": "2026-07-13"
+        },
+        {
+          "title": "[시론] ‘3대 메가프로젝트’ 성공을 위한 군(軍)의 역할과 안보",
+          "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607121352487990823",
+          "press": "",
+          "date": "2026-07-13"
+        },
+        {
+          "title": "에어로바이런먼트(AVAV), 유럽 군 인증·5억 달러 계약 ‘겹호재’…매...",
+          "link": "https://www.tokenpost.kr/news/market/377311",
+          "press": "",
+          "date": "2026-07-13"
+        },
+        {
+          "title": "고성 밤나무 무인기 항공방제 '효과적'",
+          "link": "http://www.gnmaeil.com/news/articleView.html?idxno=590678",
+          "press": "",
+          "date": "2026-07-13"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "keyword": "jtbc",
+      "traffic": "2000+",
+      "blogTotal": 1245381,
+      "newsTotal": 2486105,
+      "recentToday": 21,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "이혼숙려캠프 진실공방부부 남편 두집살림 뻔뻔한 해명 (JTBC...",
+          "link": "https://blog.naver.com/euene1111/224341995468",
+          "blogger": "보는 사람",
+          "date": "2026-07-10"
+        },
+        {
+          "title": "\"JTBC가 또...\" '신입사원 강회장' 최악의 황당결말에 시청자들...",
+          "link": "https://blog.naver.com/news_curator_j/224337455693",
+          "blogger": "핫 뉴스만 콕 집어요",
+          "date": "2026-07-06"
+        },
+        {
+          "title": "김웅 전 의원 \"jTBC 사태와 터널링 의혹...SLL중 문제 개입돼...",
+          "link": "https://blog.naver.com/zoomin0313/224339490581",
+          "blogger": "'필염산하(筆染山河)'",
+          "date": "2026-07-07"
+        },
+        {
+          "title": "앞 살아 돌아온 강용호, 황준현은? 12회 예고 JTBC 토일 드라마",
+          "link": "https://blog.naver.com/alsk1130/224336650102",
+          "blogger": "차카니의 잡다한 일상과 드라마리뷰",
+          "date": "2026-07-05"
+        },
+        {
+          "title": "JTBC 파산 논란, 중앙 그룹 부도와 회생 절차까지 간 이유",
+          "link": "https://blog.naver.com/tarames/224322024227",
+          "blogger": "한가한 경제 재테크",
+          "date": "2026-06-20"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "“JTBC 2026년 2월 채권발행 당시… 금융사, 자본잠식 상황 숨겨” [경제...",
+          "link": "https://www.segye.com/newsView/20260713518451?OutUrl=naver",
+          "press": "",
+          "date": "2026-07-13"
+        },
+        {
+          "title": "중앙그룹 채권 피해자들 “부실 채권, 경영진 정말 몰랐나”",
+          "link": "https://www.donga.com/news/Society/article/all/20260714/134292357/2",
+          "press": "",
+          "date": "2026-07-13"
+        },
+        {
+          "title": "카리나가 말한 극단 감량, 몸에는 어떤 부담 줄까 [헬스톡]",
+          "link": "http://www.fnnews.com/news/202607131931172540",
+          "press": "",
+          "date": "2026-07-13"
+        },
+        {
+          "title": "'트롯거성' 이찬원, 7월 1주 차 평점랭킹 TOP2...230주 연속 2위",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16133435",
+          "press": "",
+          "date": "2026-07-13"
+        },
+        {
+          "title": "‘아파트’ 임소윤, 본격적인 서사 여는 서무주임 오윤서 역",
+          "link": "https://sports.khan.co.kr/article/202607140240003?pt=nv",
+          "press": "",
+          "date": "2026-07-13"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "keyword": "수성구",
+      "traffic": "100+",
+      "blogTotal": 2378418,
+      "newsTotal": 353169,
+      "recentToday": 0,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "수성구피부과 브라질리언 제모 통증 및 가격 내돈내산 후기!",
+          "link": "https://blog.naver.com/vanillabean1/224340025816",
+          "blogger": "✨BEAUTY✨ KOREA",
+          "date": "2026-07-08"
+        },
+        {
+          "title": "범어동 필라테스 기초체력 키우기 좋은 대구 수성구...",
+          "link": "https://blog.naver.com/love_hcjh/224344997121",
+          "blogger": "별밤쌤 | 유치원 어린이집 교사 자료 저장소",
+          "date": "2026-07-13"
+        },
+        {
+          "title": "대구수성구동물병원 본동물메디컬센터24시수성점 고양이 심장...",
+          "link": "https://blog.naver.com/pooh3653/224344520566",
+          "blogger": "냥이숙려캠프",
+          "date": "2026-07-13"
+        },
+        {
+          "title": "수성구보청기 만족스런 선물",
+          "link": "https://blog.naver.com/grooverdk/224235922706",
+          "blogger": "DK’s 취미생활",
+          "date": "2026-03-31"
+        },
+        {
+          "title": "대구 수성구 맛집 베스트 수성아일랜드",
+          "link": "https://blog.naver.com/seonah14/224296560653",
+          "blogger": "초코홀릭의 블로그",
+          "date": "2026-05-26"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "“동대구역에서 ‘뚜비’ 인형극 관람해 보세요”",
+          "link": "https://www.donga.com/news/Society/article/all/20260713/134290730/2",
+          "press": "",
+          "date": "2026-07-13"
+        },
+        {
+          "title": "‘쾅’ 들이받고 줄행랑친 음주 운전자, 붙잡고 보니…‘반전 신분’에...",
+          "link": "https://www.mk.co.kr/article/12097709",
+          "press": "",
+          "date": "2026-07-13"
+        },
+        {
+          "title": "[2026 대구경북 이노비즈 기업을 찾아서] (9)종합디자인전문기업 ㈜디엔...",
+          "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=553743",
+          "press": "",
+          "date": "2026-07-13"
+        },
+        {
+          "title": "대구 시내 공공형 물놀이장 이번 주 개장",
+          "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=553762",
+          "press": "",
+          "date": "2026-07-13"
+        },
+        {
+          "title": "'폭염 진흥시설' 생활 밀착형으로 확장해야",
+          "link": "http://www.ujeil.com/news/articleView.html?idxno=388724",
+          "press": "",
+          "date": "2026-07-13"
         }
       ],
       "rank": 7
     },
     {
+      "keyword": "넷플릭스",
+      "traffic": "2000+",
+      "blogTotal": 3821654,
+      "newsTotal": 968338,
+      "recentToday": 0,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "넷플릭스 요금제 가격 비교 광고형 스탠다드 프리미엄 차이...",
+          "link": "https://blog.naver.com/yo7ung/224331768587",
+          "blogger": "낭만테크의 IT 놀이터",
+          "date": "2026-06-30"
+        },
+        {
+          "title": "전 세계 1위 \"사탄 들렸어?\" 밈 탄생시킨 넷플릭스 한국드라마",
+          "link": "https://blog.naver.com/komartin/224344561291",
+          "blogger": "히뎀언니의 오늘",
+          "date": "2026-07-13"
+        },
+        {
+          "title": "넷플릭스 한국 영화 공포특급 정보와 리뷰 \"귀신은 91분 뒤에...",
+          "link": "https://blog.naver.com/hinesisy/224342151889",
+          "blogger": "영화처럼 낭만이 있는 삶",
+          "date": "2026-07-10"
+        },
+        {
+          "title": "넷플릭스 요금제 가격 정리 · 프리미엄 4K를 월 5천원대로...",
+          "link": "https://blog.naver.com/yjg01212/224341243992",
+          "blogger": "IT's ivory",
+          "date": "2026-07-09"
+        },
+        {
+          "title": "넷플릭스 프리미엄 요금제 70% 할인 받아 5천원에 구독하는법",
+          "link": "https://blog.naver.com/fje0978bb/224335924672",
+          "blogger": "정오의게임",
+          "date": "2026-07-04"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "[속보]나스닥, 호르무즈 긴장·유가 급등에 1.6%↓…하이닉스 ADR 9.3%↓(...",
+          "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=01744966645514520",
+          "press": "",
+          "date": "2026-07-13"
+        },
+        {
+          "title": "'모범택시' 넘었다…시청률 22% 뚫고 벌써 '시즌2' 얘기 나오는 한국 드...",
+          "link": "https://www.wikitree.co.kr/articles/1146094",
+          "press": "",
+          "date": "2026-07-13"
+        },
+        {
+          "title": "'CA 노숙자촌' 신고까지…알고 보니 넷플릭스 촬영장",
+          "link": "https://www.radiokorea.com/news/article.php?uid=499245",
+          "press": "",
+          "date": "2026-07-13"
+        },
+        {
+          "title": "'폭싹' 아이유 아역 김태연, 학교서 '인성왕' 상장 받았다 \"잘했어!\"",
+          "link": "https://www.xportsnews.com/article/2171884",
+          "press": "",
+          "date": "2026-07-13"
+        },
+        {
+          "title": "연상호 손끝에서 다시 태어난 日 ‘가스인간’",
+          "link": "https://www.donga.com/news/Culture/article/all/20260714/134291815/2",
+          "press": "",
+          "date": "2026-07-13"
+        }
+      ],
+      "rank": 8
+    },
+    {
       "keyword": "하나로마트",
       "traffic": "200+",
-      "blogTotal": 1414258,
-      "newsTotal": 234307,
+      "blogTotal": 1414286,
+      "newsTotal": 234308,
       "recentToday": 0,
       "recentWeek": 100,
       "topBlogs": [
@@ -554,6 +627,12 @@
       ],
       "topNews": [
         {
+          "title": "병점역 신주거타운 중심 입지… 교통망 확충",
+          "link": "https://www.seoul.co.kr/news/economy/estate/2026/07/14/20260714016005?wlog_tag3=naver",
+          "press": "",
+          "date": "2026-07-13"
+        },
+        {
           "title": "장마철 골칫거리 참외…‘비건 가죽’ 지갑·가방으로 재탄생",
           "link": "https://www.joongang.co.kr/article/25444790",
           "press": "",
@@ -576,21 +655,15 @@
           "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2427829",
           "press": "",
           "date": "2026-07-13"
-        },
-        {
-          "title": "충북농협, 제주서 '충북 농산물 특별판매전' 개최",
-          "link": "http://www.cctimes.kr/news/articleView.html?idxno=916452",
-          "press": "",
-          "date": "2026-07-13"
         }
       ],
-      "rank": 8
+      "rank": 9
     },
     {
       "keyword": "기후",
       "traffic": "200+",
-      "blogTotal": 4419506,
-      "newsTotal": 2829223,
+      "blogTotal": 4419589,
+      "newsTotal": 2829246,
       "recentToday": 0,
       "recentWeek": 100,
       "topBlogs": [
@@ -613,62 +686,50 @@
           "date": "2026-07-12"
         },
         {
-          "title": "\"기후동행카드 9월 종료 실화냐?\" 바뀌는 교통 복지 지도",
-          "link": "https://blog.naver.com/alcmskfl17/224343252914",
-          "blogger": "피끄의 실험실",
-          "date": "2026-07-11"
-        },
-        {
           "title": "전쟁·관세·기후위기 시대, 이제 투자 공식이 바뀌었다! 새로운...",
           "link": "https://blog.naver.com/eterna01/224344144780",
           "blogger": "Jer 29:11",
           "date": "2026-07-12"
+        },
+        {
+          "title": "\"기후동행카드 9월 종료 실화냐?\" 바뀌는 교통 복지 지도",
+          "link": "https://blog.naver.com/alcmskfl17/224343252914",
+          "blogger": "피끄의 실험실",
+          "date": "2026-07-11"
         }
       ],
       "topNews": [
         {
-          "title": "“폭염, 그냥 버틸 뿐”… 어려운 이웃에 그늘 돼준 교회",
-          "link": "https://www.kmib.co.kr/article/view.asp?arcid=1783927940&code=23111113&cp=nv",
+          "title": "[사설] 메가프로젝트에 재정·인프라 총력 지원, 실행력 높여야",
+          "link": "https://www.seoul.co.kr/news/editOpinion/editorial/2026/07/14/20260714027006?wlog_tag3=naver",
           "press": "",
           "date": "2026-07-13"
         },
         {
-          "title": "노벨상 수상자, UC버클리 떠나 중국행",
-          "link": "https://www.koreadaily.com/article/20260713104737314",
+          "title": "“임기 초 동력 확보”… 지자체장 시정 철학 담은 조직개편 착수",
+          "link": "https://www.seoul.co.kr/news/publicnews/local_govern/news_local/2026/07/14/20260714019004?wlog_tag3=naver",
           "press": "",
           "date": "2026-07-13"
         },
         {
-          "title": "폭염에 지구촌 신음...미국 5,800만 명 피해 영향권",
-          "link": "https://www.ytn.co.kr/_ln/0104_202607140219412340",
+          "title": "폭염 탓 ‘초과 사망’…연평균 200명 달해",
+          "link": "https://www.seoul.co.kr/news/society/2026/07/14/20260714012005?wlog_tag3=naver",
           "press": "",
           "date": "2026-07-13"
         },
         {
-          "title": "코레일유통, 전국 KTX 15개 역사 '식품안심구역' 동시 지정",
-          "link": "http://www.bizwnews.com/news/articleView.html?idxno=140551",
+          "title": "[아주초대석] 김성환 기후장관 \"댐 증고 5년 내 가능…반도체 용수·전력...",
+          "link": "https://www.ajunews.com/view/20260713091949040",
           "press": "",
           "date": "2026-07-13"
         },
         {
-          "title": "이란 체제전복 노렸던 이스라엘…\"아마디네자드 前대통령 포섭\"",
-          "link": "https://www.yna.co.kr/view/AKR20260714002500072?input=1195m",
+          "title": "[아주초대석] 김성환 기후장관 \"환경·에너지 더는 대립 아냐…'전기국...",
+          "link": "https://www.ajunews.com/view/20260713081626876",
           "press": "",
           "date": "2026-07-13"
         }
       ],
-      "rank": 9
-    },
-    {
-      "keyword": "건강",
-      "traffic": "5000+",
-      "blogTotal": 0,
-      "newsTotal": 0,
-      "recentToday": 0,
-      "recentWeek": 0,
-      "topBlogs": [],
-      "topNews": [],
-      "error": "HTTP 429 https://openapi.naver.com/v1/search/blog.json?query=%EA%B1%B4%EA%B0%95&display=100&sort=date",
       "rank": 10
     }
   ]
