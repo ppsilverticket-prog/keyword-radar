@@ -1,13 +1,86 @@
 {
-  "updatedAt": "2026-07-15T16:19:36.667Z",
+  "updatedAt": "2026-07-15T17:46:32.162Z",
   "source": "live",
   "keywords": [
     {
+      "keyword": "인벤",
+      "traffic": "500+",
+      "blogTotal": 129924,
+      "newsTotal": 119090,
+      "recentToday": 91,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "메이플 인벤 뉴비 복귀 유저 게시판 활용법과 정보 확인 순서",
+          "link": "https://blog.naver.com/kangcheolk/224341481743",
+          "blogger": "Art story",
+          "date": "2026-07-09"
+        },
+        {
+          "title": "아이온2 인벤 기준 챕터1 권성 세팅, 장비부터 스티그마까지...",
+          "link": "https://blog.naver.com/dreaming0/224334936946",
+          "blogger": "피드코드",
+          "date": "2026-07-03"
+        },
+        {
+          "title": "시스템 개선 총정리｜2026년 최신 변화 완전 정리 (인벤 스타일)",
+          "link": "https://blog.naver.com/lauretter0lma/224335889693",
+          "blogger": "행복한 나날의 기록",
+          "date": "2026-07-04"
+        },
+        {
+          "title": "아이온2 인벤으로 보는 챕터1 핵심 공략: 권성 장비와 재화...",
+          "link": "https://blog.naver.com/manta_ray0810/224334963722",
+          "blogger": "미도리의 별다잡 블로그",
+          "date": "2026-07-03"
+        },
+        {
+          "title": "아이온2 인벤 보기 전 필독: 챕터1 권성·레벨50·파밍 루트...",
+          "link": "https://blog.naver.com/oper23300/224334964769",
+          "blogger": "똘똘이 피규어의 세상밖으로",
+          "date": "2026-07-03"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "[단독 인터뷰] LoL 칼바람 책임 개발자에게 직접 물어봤습니다",
+          "link": "https://www.inven.co.kr/webzine/news/?news=318370",
+          "press": "",
+          "date": "2026-07-14"
+        },
+        {
+          "title": "[초보 가이드⑯] 수비, 이것만 기억하세요 '볼란치 조작'-'C 수비' (쿠폰...",
+          "link": "https://www.inven.co.kr/webzine/news/?news=318466",
+          "press": "",
+          "date": "2026-07-14"
+        },
+        {
+          "title": "음주운전자 빨간 번호판 이슈, 반년마다 반복되는 이유",
+          "link": "https://www.ggilbo.com/news/articleView.html?idxno=1168627",
+          "press": "",
+          "date": "2026-07-13"
+        },
+        {
+          "title": "[정보] 상위 1%만을 위한 사냥터?! 평균 레벨로 예상하는 잊혀진 섬",
+          "link": "https://www.inven.co.kr/webzine/news/?news=318427",
+          "press": "",
+          "date": "2026-07-13"
+        },
+        {
+          "title": "[신작투표소] 메타크리틱 83점, '어센드 투 제로' 정식 출시!",
+          "link": "https://www.inven.co.kr/webzine/news/?news=318417",
+          "press": "",
+          "date": "2026-07-13"
+        }
+      ],
+      "rank": 1
+    },
+    {
       "keyword": "캐시워크 정답",
       "traffic": "100+",
-      "blogTotal": 296089,
+      "blogTotal": 296087,
       "newsTotal": 90004,
-      "recentToday": 88,
+      "recentToday": 87,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -73,14 +146,87 @@
           "date": "2026-07-15"
         }
       ],
-      "rank": 1
+      "rank": 2
+    },
+    {
+      "keyword": "하프타임 쇼",
+      "traffic": "200+",
+      "blogTotal": 14435,
+      "newsTotal": 10128,
+      "recentToday": 84,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "축구 역사상 최초 '월드컵 하프타임쇼' 완벽 정리",
+          "link": "https://blog.naver.com/sound8949/224346431954",
+          "blogger": "사운드캣 공식 블로그",
+          "date": "2026-07-14"
+        },
+        {
+          "title": "월드컵 최초 하프타임 쇼 라인업 및 한국시간 정리",
+          "link": "https://blog.naver.com/ymillall/224347885081",
+          "blogger": "아름답게",
+          "date": "2026-07-15"
+        },
+        {
+          "title": "완전 정리 | 이강인 데뷔전 + 티켓 예매 + 리센느 하프타임 쇼",
+          "link": "https://blog.naver.com/rokpolice1/224347645074",
+          "blogger": "BNCW partners",
+          "date": "2026-07-15"
+        },
+        {
+          "title": "FIFA 월드컵 결승 하프타임 30분 BTS 쇼 누가 웃을까",
+          "link": "https://blog.naver.com/looksss5696/224347958935",
+          "blogger": "후다닥 1번지 연예 스포츠",
+          "date": "2026-07-16"
+        },
+        {
+          "title": "리센느, 맨시티·A.마드리드전 하프타임 쇼 8월 9일 무대 오른다",
+          "link": "https://blog.naver.com/leeyj0121-/224347928146",
+          "blogger": "루남매의 덕질로그",
+          "date": "2026-07-16"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "리센느, 축구장도 접수 맨시티 vs AT마드리드 전 뜬다",
+          "link": "https://enter.etoday.co.kr/news/view/299804",
+          "press": "",
+          "date": "2026-07-15"
+        },
+        {
+          "title": "[EPL] \"거제 야~호!\" 리센느, 맨시티-AT.마드리드 하프타임 쇼 출격",
+          "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=542928",
+          "press": "",
+          "date": "2026-07-15"
+        },
+        {
+          "title": "또 규정 무시했다...FIFA의 '막장' 행정! 선수 안전+경기력보다 '돈벌이...",
+          "link": "https://www.mydaily.co.kr/page/view/2026071515271982007",
+          "press": "",
+          "date": "2026-07-15"
+        },
+        {
+          "title": "(쿠플시리즈)'역주행 신화' 리센느가 한 여름밤 글로벌 축구 축제를 달...",
+          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3637287",
+          "press": "",
+          "date": "2026-07-15"
+        },
+        {
+          "title": "'K-브랜드지수 TOP5' 리센느, 세기의 축구 경기 하프타임 공연 개최",
+          "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160308392583533",
+          "press": "",
+          "date": "2026-07-15"
+        }
+      ],
+      "rank": 3
     },
     {
       "keyword": "부고",
       "traffic": "1000+",
-      "blogTotal": 555954,
+      "blogTotal": 555923,
       "newsTotal": 675488,
-      "recentToday": 79,
+      "recentToday": 68,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -146,14 +292,87 @@
           "date": "2026-07-15"
         }
       ],
-      "rank": 2
+      "rank": 4
+    },
+    {
+      "keyword": "김성령",
+      "traffic": "200+",
+      "blogTotal": 54797,
+      "newsTotal": 86525,
+      "recentToday": 65,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "김성령, <라디오스타>서 밝히는 자기관리의 힘과 미스코리아...",
+          "link": "https://blog.naver.com/withinnews/224345923878",
+          "blogger": "위드인뉴스",
+          "date": "2026-07-14"
+        },
+        {
+          "title": "라디오스타 972회 김성령, ‘주 5회 운동’ 동안 미모 비결...",
+          "link": "https://blog.naver.com/dotnews/224346355935",
+          "blogger": "닷뉴스",
+          "date": "2026-07-14"
+        },
+        {
+          "title": "\"20대 헌팅?\" 59세 김성령, 안 믿기는 S라인 비결·훈남 두 아들...",
+          "link": "https://blog.naver.com/merrypick7_/224347956768",
+          "blogger": "유니크썬",
+          "date": "2026-07-16"
+        },
+        {
+          "title": "59세 김성령, 하루 한 끼보다 더 놀라웠던 습관",
+          "link": "https://blog.naver.com/todaymalgeum52/224342538075",
+          "blogger": "이슈로 읽는 건강 심리",
+          "date": "2026-07-10"
+        },
+        {
+          "title": "김성령화장품 포젤란h 집에서 하는 스킨부스터 액상PCL 앰플...",
+          "link": "https://blog.naver.com/droplet7030/224326278541",
+          "blogger": "꽃은 죽어도 씨앗은 남는다고",
+          "date": "2026-06-24"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "‘라스’ 김성령, 주얼리 협찬만 30억 “경호원 종일 따라다녀”",
+          "link": "http://enews.imbc.com/News/RetrieveNewsInfo/511697",
+          "press": "",
+          "date": "2026-07-15"
+        },
+        {
+          "title": "‘33kg 감량’ 풍자, 4XL→XL 사이즈 변화 “힘은 그대로” (라스)",
+          "link": "http://enews.imbc.com/News/RetrieveNewsInfo/511696",
+          "press": "",
+          "date": "2026-07-15"
+        },
+        {
+          "title": "‘60세’ 김성령, 과거 영상 역주행…과감한 드레스 자태 화제 (라스)",
+          "link": "http://enews.imbc.com/News/RetrieveNewsInfo/511695",
+          "press": "",
+          "date": "2026-07-15"
+        },
+        {
+          "title": "김성령 훈남 아들, 연예인 데뷔할 뻔…\"판타지오에 길거리 캐스팅\" [라스...",
+          "link": "https://www.mydaily.co.kr/page/view/2026071600302104898",
+          "press": "",
+          "date": "2026-07-15"
+        },
+        {
+          "title": "'33kg 감량' 풍자 \"다이어트 전 배달어플 최고 등급, 월 500만원 써\" (라...",
+          "link": "https://www.xportsnews.com/article/2172569",
+          "press": "",
+          "date": "2026-07-15"
+        }
+      ],
+      "rank": 5
     },
     {
       "keyword": "레이더",
       "traffic": "200+",
-      "blogTotal": 796140,
+      "blogTotal": 796154,
       "newsTotal": 411236,
-      "recentToday": 79,
+      "recentToday": 63,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -219,232 +438,86 @@
           "date": "2026-07-15"
         }
       ],
-      "rank": 3
-    },
-    {
-      "keyword": "김성령",
-      "traffic": "200+",
-      "blogTotal": 54794,
-      "newsTotal": 86524,
-      "recentToday": 65,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "김성령, <라디오스타>서 밝히는 자기관리의 힘과 미스코리아...",
-          "link": "https://blog.naver.com/withinnews/224345923878",
-          "blogger": "위드인뉴스",
-          "date": "2026-07-14"
-        },
-        {
-          "title": "김성령 화장품 로즈랩 포젤란 H 4STEP, 프리미엄 피부홈케어...",
-          "link": "https://blog.naver.com/tmfrl2865/224172010518",
-          "blogger": "반라온의 뷰티&패션로그",
-          "date": "2026-02-04"
-        },
-        {
-          "title": "50대 김성령도 매일 먹는 마누카꿀 효능 높이려면 “이때”...",
-          "link": "https://blog.naver.com/hhj1004w/224302612441",
-          "blogger": "쫑알쫑알이야기공장♥",
-          "date": "2026-06-01"
-        },
-        {
-          "title": "라디오스타 972회 김성령, ‘주 5회 운동’ 동안 미모 비결...",
-          "link": "https://blog.naver.com/dotnews/224346355935",
-          "blogger": "닷뉴스",
-          "date": "2026-07-14"
-        },
-        {
-          "title": "연예인 도자기피부 김성령화장품 포젤란H 액상PCL 프리미엄...",
-          "link": "https://blog.naver.com/jo6377/224287865364",
-          "blogger": "제크맘바비 리빙&뷰티테라피",
-          "date": "2026-05-17"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "‘33kg 감량’ 풍자, 4XL→XL 사이즈 변화 “힘은 그대로” (라스)",
-          "link": "http://enews.imbc.com/News/RetrieveNewsInfo/511696",
-          "press": "",
-          "date": "2026-07-15"
-        },
-        {
-          "title": "‘60세’ 김성령, 과거 영상 역주행…과감한 드레스 자태 화제 (라스)",
-          "link": "http://enews.imbc.com/News/RetrieveNewsInfo/511695",
-          "press": "",
-          "date": "2026-07-15"
-        },
-        {
-          "title": "김성령 훈남 아들, 연예인 데뷔할 뻔…\"판타지오에 길거리 캐스팅\" [라스...",
-          "link": "https://www.mydaily.co.kr/page/view/2026071600302104898",
-          "press": "",
-          "date": "2026-07-15"
-        },
-        {
-          "title": "'33kg 감량' 풍자 \"다이어트 전 배달어플 최고 등급, 월 500만원 써\" (라...",
-          "link": "https://www.xportsnews.com/article/2172569",
-          "press": "",
-          "date": "2026-07-15"
-        },
-        {
-          "title": "유노윤호, '파인' 호평에 \"연기로 더이상 내려갈 곳 없어\" 솔직 고백[라...",
-          "link": "https://www.starnewskorea.com/broadcast-show/2026/07/16/2026071522484860751",
-          "press": "",
-          "date": "2026-07-15"
-        }
-      ],
-      "rank": 4
-    },
-    {
-      "keyword": "배용준",
-      "traffic": "500+",
-      "blogTotal": 87550,
-      "newsTotal": 87086,
-      "recentToday": 44,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "배용준이 산 엔터 관련 동전 주식, 하루만에 30% 상한가",
-          "link": "https://blog.naver.com/soap77777/224218649576",
-          "blogger": "비누의 경제 공방",
-          "date": "2026-03-17"
-        },
-        {
-          "title": "배용준 박수진 하와이 근황과 조기유학 화제",
-          "link": "https://blog.naver.com/wnaldud3255/224317370780",
-          "blogger": "은서차니맘의 여행육아기록",
-          "date": "2026-06-16"
-        },
-        {
-          "title": "15년 만에 백발 장발로 나타난 배용준과 고등학생 처럼...",
-          "link": "https://blog.naver.com/beautyfox11/224324280829",
-          "blogger": "꽃비의 방송 연예 블라블라",
-          "date": "2026-06-23"
-        },
-        {
-          "title": "\"학비만 8천만 원...\" 배용준 박수진 부부의 하와이 조기유학 근황",
-          "link": "https://blog.naver.com/yeji2552/224313141671",
-          "blogger": "우리끼리, 성장하는 공간",
-          "date": "2026-06-11"
-        },
-        {
-          "title": "배용준 박수진 와이프 근황",
-          "link": "https://blog.naver.com/dydghks3250/224310359077",
-          "blogger": "❤️ ✅kGn뉴스 ✅❤️",
-          "date": "2026-06-09"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "‘오싹한 연애’부터 ‘스캔들’까지…영화, 드라마가 되다",
-          "link": "https://biz.heraldcorp.com/article/10809960?ref=naver",
-          "press": "",
-          "date": "2026-07-15"
-        },
-        {
-          "title": "'보급형 배용준' 전민기, 1000평 본가 공개 '부친 뭐 하셔?'",
-          "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=83568",
-          "press": "",
-          "date": "2026-07-15"
-        },
-        {
-          "title": "세월이 야속해…유아인·배용준 '흰머리'까지 화제, 확 달라진 스타일링...",
-          "link": "https://www.xportsnews.com/article/2172354",
-          "press": "",
-          "date": "2026-07-15"
-        },
-        {
-          "title": "‘배용준 닮은 꼴’ 방송인, 1000평 본가 공개…아버지 직업 뭐길래",
-          "link": "https://www.seoul.co.kr/news/entertainment/starinterN/2026/07/15/20260715500087?wlog_tag3=naver",
-          "press": "",
-          "date": "2026-07-15"
-        },
-        {
-          "title": "발전이냐, 답습이냐…영화 원작 드라마의 딜레마[스경연예연구소]",
-          "link": "https://sports.khan.co.kr/article/202607141407003?pt=nv",
-          "press": "",
-          "date": "2026-07-14"
-        }
-      ],
-      "rank": 5
-    },
-    {
-      "keyword": "대한민국 fa컵",
-      "traffic": "200+",
-      "blogTotal": 10124,
-      "newsTotal": 8799,
-      "recentToday": 2,
-      "recentWeek": 30,
-      "topBlogs": [
-        {
-          "title": "[프로토 82회차] 대한민국 FA컵 전남 드래곤즈 vs...",
-          "link": "https://blog.naver.com/simmin1220/224346094003",
-          "blogger": "프로토에 투자하라",
-          "date": "2026-07-14"
-        },
-        {
-          "title": "광주FC VS 부천FC 8월20일 대한민국FA컵 국내축구 분석",
-          "link": "https://blog.naver.com/wonbin1177/223974610318",
-          "blogger": "스포츠 분석하는 노인",
-          "date": "2025-08-18"
-        },
-        {
-          "title": "8.21(수) 대한민국 FA컵 4강전 광주FC vs 울산HD FC, 제주 vs...",
-          "link": "https://blog.naver.com/scoreman123/223554117312",
-          "blogger": "스코어맨 - 가장 빠른 축구스코어 사이트",
-          "date": "2024-08-21"
-        },
-        {
-          "title": "2026-07-15 19:00 대한민국 FA컵 전남 드래곤즈 vs...",
-          "link": "https://blog.naver.com/iqiqiqiq_/224346803687",
-          "blogger": "SPORTIQ",
-          "date": "2026-07-15"
-        },
-        {
-          "title": "시간 대한민국 FA컵 4강전 광주fc 울산hd 4강 1차전 실시간...",
-          "link": "https://blog.naver.com/lucidlifestyle/223555842395",
-          "blogger": "낭만서퍼",
-          "date": "2024-08-21"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "\"'홍명보 선임' 이임생, 캄보디아로 줄행랑\"…선수 저격에 中 조롱까지",
-          "link": "https://www.mt.co.kr/world/2026/07/09/2026070909035831542",
-          "press": "",
-          "date": "2026-07-09"
-        },
-        {
-          "title": "[글로벌★피플] 무너진 황금세대 속 다시 소환된 '벤버지', 파울루 벤투",
-          "link": "http://www.sisunnews.co.kr/news/articleView.html?idxno=241747",
-          "press": "",
-          "date": "2026-07-08"
-        },
-        {
-          "title": "히딩크 감독, 깜짝 폭로! 한국 맡기 직전 속내 공개 \"FIFA 랭킹 70위가 1...",
-          "link": "https://www.sportschosun.com/football/2026-07-05/202607050100029380001713",
-          "press": "",
-          "date": "2026-07-05"
-        },
-        {
-          "title": "'대한민국급 대실패' 독일, 끝내 구국의 결단 내린다...\"대표팀을 맡을...",
-          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=826466",
-          "press": "",
-          "date": "2026-07-05"
-        },
-        {
-          "title": "\"나는 준비가 됐다\" 초대박! 클롭, '대한민국급 참사' 독일 SOS에 응답→...",
-          "link": "https://mhnse.com/news/articleView.html?idxno=1452361",
-          "press": "",
-          "date": "2026-07-04"
-        }
-      ],
       "rank": 6
+    },
+    {
+      "keyword": "tsmc 실적 발표",
+      "traffic": "500+",
+      "blogTotal": 118094,
+      "newsTotal": 19253,
+      "recentToday": 53,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "반도체 슈퍼사이클 전망, ASML·TSMC 실적발표 7월 15일과...",
+          "link": "https://blog.naver.com/rouhey/224347737850",
+          "blogger": "경제엄마 부자되기",
+          "date": "2026-07-15"
+        },
+        {
+          "title": "실적은 역대급인데 주가는 왜 무너졌나 이번주 ASML TSMC가...",
+          "link": "https://blog.naver.com/csj4032/224346469060",
+          "blogger": "Le mieux est l’ennemi du bien",
+          "date": "2026-07-14"
+        },
+        {
+          "title": "TSMC 실적 발표 역대급 성적표에도 축포를 못 터뜨린 이유",
+          "link": "https://blog.naver.com/editor_mumu/224347927807",
+          "blogger": "에디터 김무무",
+          "date": "2026-07-16"
+        },
+        {
+          "title": "2026년 7월 3주차 미국 실적발표일정 : TSMC ASML 넷플릭스 등",
+          "link": "https://blog.naver.com/totoro3123/224344478589",
+          "blogger": "너부리의 주식경제노트",
+          "date": "2026-07-13"
+        },
+        {
+          "title": "마감 코멘트] 삼성전자, SK하이닉스 급락 / TSMC 실적발표 대기",
+          "link": "https://blog.naver.com/twobeone21/224345273073",
+          "blogger": "데이리즈",
+          "date": "2026-07-13"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "[유럽 특징주] ASML CFO \"일부 장비 가격 인상 여력 있다\"",
+          "link": "https://www.newspim.com/news/view/20260716000017",
+          "press": "",
+          "date": "2026-07-15"
+        },
+        {
+          "title": "TSMC, AI 매출 36% 상승...사상 최고치 찍고 주가는 '하락'",
+          "link": "http://coinreaders.com/247941",
+          "press": "",
+          "date": "2026-07-15"
+        },
+        {
+          "title": "[클로즈업] \"글로벌 기술주 향방 가른다\"…이달 하순 빅테크 실적 발표...",
+          "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=82275",
+          "press": "",
+          "date": "2026-07-15"
+        },
+        {
+          "title": "[더페어 돋보기] \"빅테크 실적 앞두고 춤추는 수급\"…삼성전자·SK하이닉...",
+          "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=82276",
+          "press": "",
+          "date": "2026-07-15"
+        },
+        {
+          "title": "미 증시에서 치솟은 하이닉스…투심도 살아나 7000피 탈환",
+          "link": "https://www.khan.co.kr/article/202607152044015",
+          "press": "",
+          "date": "2026-07-15"
+        }
+      ],
+      "rank": 7
     },
     {
       "keyword": "약",
       "traffic": "1000+",
-      "blogTotal": 69451696,
-      "newsTotal": 23154695,
+      "blogTotal": 69452825,
+      "newsTotal": 23154737,
       "recentToday": 0,
       "recentWeek": 100,
       "topBlogs": [
@@ -481,42 +554,42 @@
       ],
       "topNews": [
         {
-          "title": "쿠팡, 2분기 로비에 3억원 이상 지출…親트럼프 인사 거쳐",
-          "link": "https://biz.chosun.com/international/international_economy/2026/07/16/CCW26PKRLZG6NCW3ZLEVMV54YM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+          "title": "제너시스BBQ, '우쿠야' 직영 매장 오픈",
+          "link": "https://www.job-post.co.kr/news/articleView.html?idxno=221275",
           "press": "",
           "date": "2026-07-15"
         },
         {
-          "title": "고려대의료원 산하 3개 병원, 권역응급의료센터 재지정",
-          "link": "https://www.k-health.com/news/articleView.html?idxno=100096",
+          "title": "멜론 ‘Global-K Chart’, 론칭 첫 달 160개국 102만 찾아",
+          "link": "https://sports.khan.co.kr/article/202607160243003?pt=nv",
           "press": "",
           "date": "2026-07-15"
         },
         {
-          "title": "대동 '디지털 서비스형 농업' 플랫폼 기업으로 변모",
-          "link": "http://www.amnews.co.kr/news/articleView.html?idxno=73511",
+          "title": "17세 소년, 공부하고 기지개 켰다가 팔다리 마비… 무슨 일?",
+          "link": "https://health.chosun.com/site/data/html_dir/2026/07/15/2026071502447.html",
           "press": "",
           "date": "2026-07-15"
         },
         {
-          "title": "호르무즈발 유가 쇼크의 반전…10% 폭등 거품 걷히니 '수요 절벽'",
-          "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=269883",
+          "title": "쿠팡, 친트럼프 로비업체에 25만달러…한미 통상 변수 되나",
+          "link": "http://www.4th.kr/news/articleView.html?idxno=2114829",
           "press": "",
           "date": "2026-07-15"
         },
         {
-          "title": "'맨유 팬들 뒷목 잡는다!' 1,465억 '구단 최악' 먹튀 산초, 도르트문트 ...",
-          "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553380623",
+          "title": "블랙록 운용자산 2경원 신기원…AI랠리에 주식·ETF·사모 다 통했다",
+          "link": "https://www.mt.co.kr/world/2026/07/16/2026071602212415088",
           "press": "",
           "date": "2026-07-15"
         }
       ],
-      "rank": 7
+      "rank": 8
     },
     {
       "keyword": "자외선 차단제",
       "traffic": "500+",
-      "blogTotal": 2330331,
+      "blogTotal": 2330414,
       "newsTotal": 81613,
       "recentToday": 0,
       "recentWeek": 100,
@@ -584,13 +657,13 @@
           "date": "2026-07-15"
         }
       ],
-      "rank": 8
+      "rank": 9
     },
     {
       "keyword": "택배",
       "traffic": "200+",
-      "blogTotal": 13219962,
-      "newsTotal": 743378,
+      "blogTotal": 13220268,
+      "newsTotal": 743379,
       "recentToday": 0,
       "recentWeek": 100,
       "topBlogs": [
@@ -627,6 +700,12 @@
       ],
       "topNews": [
         {
+          "title": "‘아파트’ 지성, 쌀가마니 짊어지고, 리어카 끄는 ‘생활 밀착형 택배...",
+          "link": "https://sports.khan.co.kr/article/202607160135003?pt=nv",
+          "press": "",
+          "date": "2026-07-15"
+        },
+        {
           "title": "왜 민주당은 집권만 하면 개혁에 느림보가 되나?",
           "link": "http://www.tongilnews.com/news/articleView.html?idxno=216988",
           "press": "",
@@ -647,85 +726,6 @@
         {
           "title": "[오늘의 운세] 별자리별 운세-7월 16일",
           "link": "https://www.ajunews.com/view/20260715085838503",
-          "press": "",
-          "date": "2026-07-15"
-        },
-        {
-          "title": "우리집 냥이가 '박스'에 집착하는 이유... 알고 보니 스트레스 호르몬 ...",
-          "link": "https://www.insight.co.kr/news/563074",
-          "press": "",
-          "date": "2026-07-15"
-        }
-      ],
-      "rank": 9
-    },
-    {
-      "keyword": "법원",
-      "traffic": "1000+",
-      "blogTotal": 12858749,
-      "newsTotal": 4528108,
-      "recentToday": 0,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "동부지방법원변호사 조언 주장을",
-          "link": "https://blog.naver.com/ms1634/224248847367",
-          "blogger": "로엘 법무법인",
-          "date": "2026-04-11"
-        },
-        {
-          "title": "부동산 법원경매 매각절차",
-          "link": "https://blog.naver.com/ufcstar/224227820284",
-          "blogger": "밍키네 부동산정보",
-          "date": "2026-03-24"
-        },
-        {
-          "title": "성남개인회생 수원회생법원 파산 탕감 요건은",
-          "link": "https://blog.naver.com/soda7908/224276626811",
-          "blogger": "영이사랑",
-          "date": "2026-05-07"
-        },
-        {
-          "title": "7월 법원의 역사, 그 빛과 그림자",
-          "link": "https://blog.naver.com/law_zzang/224335349867",
-          "blogger": "대한민국 대법원 공식 블로그",
-          "date": "2026-07-03"
-        },
-        {
-          "title": "약자의 눈높이에 맞춘 '한국형 사회법원'과 '이지리드 판결문'",
-          "link": "https://blog.naver.com/jackieyou/224334385368",
-          "blogger": "나비앤파트너스",
-          "date": "2026-07-08"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "뉴저지주 이민법원 보석승인율 고작 ‘2%’",
-          "link": "http://www.koreatimes.com/article/1621490",
-          "press": "",
-          "date": "2026-07-15"
-        },
-        {
-          "title": "빅토리아 이(경찰 총격에 사망) 유족, 포트리정부·경찰 상대 소송",
-          "link": "http://www.koreatimes.com/article/1621489",
-          "press": "",
-          "date": "2026-07-15"
-        },
-        {
-          "title": "후박나무 껍질 벗겨 징역 2년…산림청, 불법 수목 훼손 '무관용' 특별단...",
-          "link": "http://www.youngnong.co.kr/news/articleView.html?idxno=60970",
-          "press": "",
-          "date": "2026-07-15"
-        },
-        {
-          "title": "타일러 테크놀로지스(TYL), AI·SaaS 전환 가속…14억 달러 조달로 공공...",
-          "link": "https://www.tokenpost.kr/news/tech/378191",
-          "press": "",
-          "date": "2026-07-15"
-        },
-        {
-          "title": "‘내란 가담·즉시항고 포기’ 심우정 전 검찰총장 구속기로",
-          "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8612090&ref=A",
           "press": "",
           "date": "2026-07-15"
         }
