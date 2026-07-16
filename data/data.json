@@ -1,225 +1,79 @@
 {
-  "updatedAt": "2026-07-16T19:40:22.682Z",
+  "updatedAt": "2026-07-16T20:54:48.508Z",
   "source": "live",
   "keywords": [
     {
-      "keyword": "오라클",
-      "traffic": "100+",
-      "blogTotal": 381721,
-      "newsTotal": 149168,
-      "recentToday": 77,
+      "keyword": "이정효",
+      "traffic": "500+",
+      "blogTotal": 24130,
+      "newsTotal": 38554,
+      "recentToday": 44,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "플랫폼스(META)가 하루 만에 9.80% 폭등, f. 구글, 오라클 전략",
-          "link": "https://blog.naver.com/kcp1/224333818415",
-          "blogger": "직장인을 위한 친절한 재테크 컨설팅",
+          "title": "이정효 보고 2부 리그 간다! 수원 삼성 향한 제자들의 줄이적...",
+          "link": "https://blog.naver.com/z2inny/224134661395",
+          "blogger": "데슐랭가이드",
+          "date": "2026-01-05"
+        },
+        {
+          "title": "광주FC 팬이 본 수원삼성 이정효 감독 연봉 팀 전술",
+          "link": "https://blog.naver.com/dstarline/224146838867",
+          "blogger": "비버의건강학개론",
+          "date": "2026-01-14"
+        },
+        {
+          "title": "이정효 감독, 광주FC와의 아름다운 이별",
+          "link": "https://blog.naver.com/ft-times/224118538227",
+          "blogger": "FT스포츠",
+          "date": "2025-12-22"
+        },
+        {
+          "title": "이정효 감독을 축구 국대 감독으로?",
+          "link": "https://blog.naver.com/sjuly717/224334299238",
+          "blogger": "건강하게 행복하게! healthy life!",
           "date": "2026-07-02"
         },
         {
-          "title": "부족한 경영자>에 대한 생각. 오라클과 구글 대기 매수 걸어두기.",
-          "link": "https://blog.naver.com/neria99/224325962987",
-          "blogger": "꿈많은 나무늘보 이야기",
-          "date": "2026-06-24"
-        },
-        {
-          "title": "샌프란시스코 야구장 오라클 파크 관람팁 - 이정후 선수 어디서...",
-          "link": "https://blog.naver.com/nydelphie/224311728719",
-          "blogger": "여행작가제이민",
-          "date": "2026-06-10"
-        },
-        {
-          "title": "어도비 vs 오라클 투자전략 : 눌림매수와 추세매수의 정석",
-          "link": "https://blog.naver.com/autoarc/224283866360",
-          "blogger": "건설워커 잡톡",
-          "date": "2026-05-13"
-        },
-        {
-          "title": "오라클 실적발표 주가 하락, 원인과 전망은?",
-          "link": "https://blog.naver.com/veriyas/224312541123",
-          "blogger": "토박이의 경제 초읽기",
-          "date": "2026-06-11"
+          "title": "정호연 수원삼성 1년임대, 이정효 감독에게 선물 아닌 이유",
+          "link": "https://blog.naver.com/spochat/224134334690",
+          "blogger": "스포츠이야기",
+          "date": "2026-01-05"
         }
       ],
       "topNews": [
         {
-          "title": "[미국 특징주] 오라클, 'AI 지출 폭주'에 신용도 흔들리며 경쟁 뒤처질 ...",
-          "link": "https://www.newspim.com/news/view/20260717000018",
+          "title": "수원, 3부리그 팀에 충격패‥'골키퍼를 공격수로?'",
+          "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6838047_37004.html",
           "press": "",
           "date": "2026-07-16"
         },
         {
-          "title": "AI가 부른 일자리 포비아… ‘실물 위협’에 경호비 늘리는 실리콘밸리",
-          "link": "https://www.g-enews.com/view.php?ud=202607161431138817fbbec65dfb_1",
+          "title": "이정효가 망친 한 선수 프로 데뷔전... 꿈에 그렸을 순간이 '악몽'이 됐...",
+          "link": "https://www.starnewskorea.com/sports/2026/07/16/2026071616491773712",
           "press": "",
           "date": "2026-07-16"
         },
         {
-          "title": "이정후 트레이드 현실화될까…美 매체, \"전성기 접어든 타자, 어떤 팀에...",
-          "link": "http://www.osen.co.kr/article/G1112840601",
+          "title": "[IN ISSUE] 코리아컵에서 33번→31번 '급조' 유니폼 등장…'국내 최고 권...",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=690659",
           "press": "",
           "date": "2026-07-16"
         },
         {
-          "title": "하닉 7% 하락 때 레버리지는 34% 빠졌다…투자자 울리는 ‘음의 복리’",
-          "link": "https://www.joongang.co.kr/article/25445837",
+          "title": "K리그1 광주, 15경기 무승 탈출 위해 FC안양과 격돌",
+          "link": "https://www.joongangenews.com/news/articleView.html?idxno=533576",
           "press": "",
           "date": "2026-07-16"
         },
         {
-          "title": "신승태, 설렘이 현실이 된다...\"행운의 무대 예약\"",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16137016",
+          "title": "15경기서 6승, K리그2 무너뜨린 K3·K4 [코리아컵]",
+          "link": "http://www.sportsq.co.kr/news/articleView.html?idxno=496523",
           "press": "",
           "date": "2026-07-16"
         }
       ],
       "rank": 1
-    },
-    {
-      "keyword": "수도권 광역급행철도",
-      "traffic": "100+",
-      "blogTotal": 131991,
-      "newsTotal": 140475,
-      "recentToday": 69,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "GTX D노선도 개통 일정과 수도권 광역급행철도 전망",
-          "link": "https://blog.naver.com/teria48/224240864300",
-          "blogger": "내집백서",
-          "date": "2026-04-05"
-        },
-        {
-          "title": "수도권광역급행철도 GTX 정리",
-          "link": "https://blog.naver.com/csj_0064/224096921414",
-          "blogger": "ROOM",
-          "date": "2025-12-03"
-        },
-        {
-          "title": "수도권 광역급행철도 c노선 GTX-C 착공과 노선 반영 논의가...",
-          "link": "https://blog.naver.com/sleddogs2014/224341590153",
-          "blogger": "슬레드독 코리아(Snowskates)",
-          "date": "2026-07-09"
-        },
-        {
-          "title": "수도권 광역급행철도 c노선 착공 2031년 개통 정차역",
-          "link": "https://blog.naver.com/vitamin2230/224343224084",
-          "blogger": "REONE P&I",
-          "date": "2026-07-11"
-        },
-        {
-          "title": "수도권 광역급행철도 A선(GTX-A) 서울역 시간표, 운임 정보...",
-          "link": "https://blog.naver.com/newpark314/223899440538",
-          "blogger": "교통시설 탐구를 좋아하는 이의 블로그",
-          "date": "2025-06-14"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "SK에코플랜트, '의왕역 SK뷰' 820가구 일반분양",
-          "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2235822",
-          "press": "",
-          "date": "2026-07-16"
-        },
-        {
-          "title": "모델하우스 탐방 - '의왕역 SK뷰' 1857가구",
-          "link": "https://www.hankyung.com/article/2026071600371",
-          "press": "",
-          "date": "2026-07-16"
-        },
-        {
-          "title": "또 현대건설…현장서 5년 새 22명 사망, 노동부 특별 감독 주시",
-          "link": "https://realty.chosun.com/site/data/html_dir/2026/07/16/2026071602987.html",
-          "press": "",
-          "date": "2026-07-16"
-        },
-        {
-          "title": "일신건영, 이천 갈산동 '휴먼빌 클래스원' 견본주택 개관",
-          "link": "https://www.newstnt.com/news/articleView.html?idxno=710565",
-          "press": "",
-          "date": "2026-07-16"
-        },
-        {
-          "title": "일신건영, 반도체벨트 수혜 ‘이천 휴먼빌 클래스원’ 본격 분양",
-          "link": "https://biz.heraldcorp.com/article/10811484?ref=naver",
-          "press": "",
-          "date": "2026-07-16"
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "keyword": "심으뜸",
-      "traffic": "200+",
-      "blogTotal": 30746,
-      "newsTotal": 9758,
-      "recentToday": 51,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "심으뜸, '골때녀' 떠난다…\"새로운 도전 위해 결단\"",
-          "link": "https://blog.naver.com/speconomy/224348625408",
-          "blogger": "스페셜경제",
-          "date": "2026-07-16"
-        },
-        {
-          "title": "내돈내산 심으뜸 원트 다이어트 후기 1주차  : 과연돈지랄일까",
-          "link": "https://blog.naver.com/midoridiary/224346727248",
-          "blogger": "bittersweeeeet",
-          "date": "2026-07-14"
-        },
-        {
-          "title": "심으뜸 골때녀 은퇴, 3년 3개월 끝낸 이유",
-          "link": "https://blog.naver.com/cavon153/224348722738",
-          "blogger": "있는 그대로",
-          "date": "2026-07-16"
-        },
-        {
-          "title": "심으뜸, 골때녀 3년 만에 하차 왜 지금일까? 눈물의 발표와 다음...",
-          "link": "https://blog.naver.com/kim582777/224348432605",
-          "blogger": "수지곤듀 파워정보통통",
-          "date": "2026-07-16"
-        },
-        {
-          "title": "3년 3개월 만에 결국 터진 눈물, 심으뜸이 '골때녀'를 떠나야만...",
-          "link": "https://blog.naver.com/sjw04093/224348319636",
-          "blogger": "오늘님의 블로그",
-          "date": "2026-07-16"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "심으뜸, ‘골때녀’ 3년만 하차에 쏟은 눈물..“힘들게 내린 결정”(‘...",
-          "link": "https://www.heraldmuse.com/article/10811640?ref=naver",
-          "press": "",
-          "date": "2026-07-16"
-        },
-        {
-          "title": "션, 발톱까지 빠졌다…광복절 기부 마라톤 한 달 앞두고 다리부상",
-          "link": "https://www.newsen.com/news_view.php?uid=202607161720370410",
-          "press": "",
-          "date": "2026-07-16"
-        },
-        {
-          "title": "일산호수공원에 10km 트랙이 깔리는 이유",
-          "link": "https://www.elle.co.kr/article/1906291",
-          "press": "",
-          "date": "2026-07-16"
-        },
-        {
-          "title": "션, '815런' 한 달 앞두고 다리 부상에도…\"누군가는 해야 할 일\" [★해시...",
-          "link": "https://www.xportsnews.com/article/2172859",
-          "press": "",
-          "date": "2026-07-16"
-        },
-        {
-          "title": "심으뜸, '골때녀' 떠난다…\"새 도전 앞두고 큰 결정\"",
-          "link": "http://www.tvdaily.co.kr/read.php3?aid=17841819431794261019",
-          "press": "",
-          "date": "2026-07-16"
-        }
-      ],
-      "rank": 3
     },
     {
       "keyword": "김강우",
@@ -292,75 +146,221 @@
           "date": "2026-07-16"
         }
       ],
-      "rank": 4
+      "rank": 2
     },
     {
-      "keyword": "원희룡",
-      "traffic": "200+",
-      "blogTotal": 134101,
-      "newsTotal": 373886,
-      "recentToday": 34,
-      "recentWeek": 70,
+      "keyword": "파운드리",
+      "traffic": "500+",
+      "blogTotal": 389356,
+      "newsTotal": 240138,
+      "recentToday": 25,
+      "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "오마카세 원희룡의 양평 구속도로 압수수색 진입",
-          "link": "https://blog.naver.com/lawer8737/224347759321",
-          "blogger": "한국대중문화연구소",
-          "date": "2026-07-15"
+          "title": "\"삼성전자 파운드리 가동률 터졌다\" 후공정·DSP 관련주 TOP5...",
+          "link": "https://blog.naver.com/hojin4231/224337114438",
+          "blogger": "금성인의 지구 정복",
+          "date": "2026-07-05"
         },
         {
-          "title": "원희룡 휴대전화 압수수색, 양평고속도로 의혹과 특검이 보는...",
-          "link": "https://blog.naver.com/psjnv2588/224348321214",
-          "blogger": "쭈니",
-          "date": "2026-07-16"
-        },
-        {
-          "title": "양평고속도로 원희룡 환영에 민주당 유체이탈 화법 논란",
-          "link": "https://blog.naver.com/domongsite/224226220721",
-          "blogger": "태극뉴스",
-          "date": "2026-03-23"
-        },
-        {
-          "title": "원희룡 \"없는 죄 만들지 말라\" 강한 반발",
-          "link": "https://blog.naver.com/jji3961/224348477284",
-          "blogger": "꿀벌의 비행",
-          "date": "2026-07-16"
-        },
-        {
-          "title": "'양평고속도로 백지화' 원희룡 전 장관 핵심 쟁점과 현재 진행...",
-          "link": "https://blog.naver.com/pso164/224337804116",
-          "blogger": "과학커뮤니케이터 박종현",
+          "title": "주가는 왜 떨어졌을까?  HBM4·파운드리 반도체 투자전략 총정리",
+          "link": "https://blog.naver.com/showmethemoneyforman/224339944426",
+          "blogger": "아인슈타인과 함께",
           "date": "2026-07-08"
+        },
+        {
+          "title": "\"삼성전자 파운드리\", 테슬라 AI5 수주가 큰 이유.....",
+          "link": "https://blog.naver.com/gjwlh/224344892457",
+          "blogger": "한대디의 미국주식 이야기",
+          "date": "2026-07-13"
+        },
+        {
+          "title": "삼성 파운드리 전망, 삼성전자 주가가 한 단계 더 오르려면...",
+          "link": "https://blog.naver.com/tarames/224329728154",
+          "blogger": "한가한 경제 재테크",
+          "date": "2026-06-28"
+        },
+        {
+          "title": "[시사경제용어] 2나노 파운드리 경쟁",
+          "link": "https://blog.naver.com/economywalk/224342380295",
+          "blogger": "강준형의 경제산책",
+          "date": "2026-07-10"
         }
       ],
       "topNews": [
         {
-          "title": "[단독]“원희룡, 김건희 일가에 이익 주려 노선 변경 공모”",
-          "link": "https://www.donga.com/news/Society/article/all/20260716/134315432/1",
+          "title": "뉴욕 증시, 반도체·AI주 매도에 반락 마감…다우 0.2%↓·나스닥 1.47%↓",
+          "link": "https://www.newsis.com/view/NISX20260717_0003713105",
           "press": "",
           "date": "2026-07-16"
         },
         {
-          "title": "종합특검, 21일 김건희 첫 피의자 조사…관저 이전 의혹 (종합)",
-          "link": "https://news.tf.co.kr/read/life/2344265.htm",
+          "title": "[뉴욕증시] 반도체주 '털썩' 나스닥 387p↓...SK하이닉스 ADR 13% 폭락",
+          "link": "https://www.g-enews.com/view.php?ud=202607170537267391e250e8e188_1",
           "press": "",
           "date": "2026-07-16"
         },
         {
-          "title": "'관저 이전 의혹' 김건희, 19일 종합특검 조사 연기…\"건강 문제\"",
-          "link": "https://news.tf.co.kr/read/life/2344213.htm",
+          "title": "[美증시] 반도체 '혹한'에 투심 싸늘, 3대지수 동반 하락...소비재는 강...",
+          "link": "https://www.mediapen.com/news/view/1110681",
           "press": "",
           "date": "2026-07-16"
         },
         {
-          "title": "장동혁 \"특검은 연장하면서 국민 특검은 거부\"…李대통령 향해 \"골프 사...",
-          "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=388285",
+          "title": "[속보] 뉴욕 증시, 반도체 약세에 반락 마감···다우 0.2%↓ 나스닥 1....",
+          "link": "https://www.newsis.com/view/NISX20260717_0003713103",
           "press": "",
           "date": "2026-07-16"
         },
         {
-          "title": "'통일교 1억 수수' 권성동, 의원직 상실..與 \"준엄심판\" vs 野 \"편파수사...",
-          "link": "http://www.fnnews.com/news/202607161449410667",
+          "title": "美 증시, 반도체 투매에 일제 하락…실적 호조도 매도세 못 막아",
+          "link": "https://www.dailian.co.kr/news/view/1668186/?sc=Naver",
+          "press": "",
+          "date": "2026-07-16"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "keyword": "mu stock",
+      "traffic": "500+",
+      "blogTotal": 4982,
+      "newsTotal": 115,
+      "recentToday": 18,
+      "recentWeek": 87,
+      "topBlogs": [
+        {
+          "title": "mu stock price 핵심 요약, 왜 화제일까?",
+          "link": "https://blog.naver.com/openaitrading/224282146397",
+          "blogger": "오늘의 냥피드",
+          "date": "2026-05-11"
+        },
+        {
+          "title": "마이크론 MU 실적 — MRVL 셀더뉴스 후 돈이 움직인다",
+          "link": "https://blog.naver.com/darkpdt/224324967146",
+          "blogger": "IR 공시·리서치 페이퍼를 숫자로 해석합니다.",
+          "date": "2026-06-23"
+        },
+        {
+          "title": "Here's Why Micron Technology, Inc. (MU) Stock Rallies Today",
+          "link": "https://blog.naver.com/mhs3926/220556867743",
+          "blogger": "NightHawk의 블로그",
+          "date": "2015-12-02"
+        },
+        {
+          "title": "마이크론(MU) 실적 발표 D-day, 올 것이 왔다",
+          "link": "https://blog.naver.com/oraclealpha/224326084076",
+          "blogger": "오라클 AI 블로그",
+          "date": "2026-06-24"
+        },
+        {
+          "title": "Micron (MU) Stock Analysis Update | Is $MU Stock a Buy...",
+          "link": "https://blog.naver.com/wushuhak/222583226861",
+          "blogger": "wushuhak",
+          "date": "2021-11-30"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "China plays for control in Korean gaming",
+          "link": "https://www.koreaherald.com/article/10808635?ref=naver",
+          "press": "",
+          "date": "2026-07-14"
+        },
+        {
+          "title": "CBC뉴스 영문 플랫폼 'cbcglobe'…K-경제부터 네티즌 어워즈까지 글로벌...",
+          "link": "https://www.cbci.co.kr/news/articleView.html?idxno=588836",
+          "press": "",
+          "date": "2026-07-13"
+        },
+        {
+          "title": "Micron Stock Surges on Strong AI Demand, Record Revenue, and Bullish Q4 F...",
+          "link": "https://www.econotimes.com/Micron-Stock-Surges-on-Strong-AI-Demand-Record-Revenue-and-Bullish-Q4-Forecast-1745081",
+          "press": "",
+          "date": "2026-06-24"
+        },
+        {
+          "title": "Slow Letter: June 24, 2026.",
+          "link": "https://slownews.kr/162086",
+          "press": "",
+          "date": "2026-06-24"
+        },
+        {
+          "title": "아시아 증시 약세에 비트코인 출렁…6만2500달러 부근서 방향성 상실",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=677710",
+          "press": "",
+          "date": "2026-06-23"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "keyword": "서든어택",
+      "traffic": "100+",
+      "blogTotal": 124399,
+      "newsTotal": 61584,
+      "recentToday": 17,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "서든어택 복귀 유저가 복귀 후 금방 접는 이유!!",
+          "link": "https://blog.naver.com/yousuman/224103232732",
+          "blogger": "만수네 게임블로그",
+          "date": "2025-12-09"
+        },
+        {
+          "title": "넥슨, ‘서든어택’ ‘TAS’ 상향 등 2026 무기개편 2차...",
+          "link": "https://blog.naver.com/news33net/224285160460",
+          "blogger": "창업일보",
+          "date": "2026-05-14"
+        },
+        {
+          "title": "\"이걸로도 돌아갈까?\" 서든어택 권장 사양 조립 PC vs 미니 PC",
+          "link": "https://blog.naver.com/kkb031/224245662619",
+          "blogger": "B플러스",
+          "date": "2026-04-08"
+        },
+        {
+          "title": "국내 액티비티 데이트 성수 서든어택 20주년 서든캠프...",
+          "link": "https://blog.naver.com/gksk3232/223973328633",
+          "blogger": "팝업 속에 놀거리를 찾다",
+          "date": "2025-08-17"
+        },
+        {
+          "title": "서든어택, 스타들과 함께 쌓아온 20년의 컬래버 순간들",
+          "link": "https://blog.naver.com/nexongames_inside/224020235517",
+          "blogger": "넥슨게임즈 INSIDE",
+          "date": "2025-09-24"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "서비스 21주년 기념, 서든어택 무기 스킨 공모전 개시",
+          "link": "https://www.gamemeca.com/mv.php?inflow=naver_s&gid=1777940",
+          "press": "",
+          "date": "2026-07-16"
+        },
+        {
+          "title": "[7월 16일] 코나미 '프로야구스피리츠 2026' 정식 출시 등 게임 업계 핫...",
+          "link": "https://www.gameple.co.kr/news/articleView.html?idxno=216078",
+          "press": "",
+          "date": "2026-07-16"
+        },
+        {
+          "title": "[게임뉴스] 크래프톤 및 텐센트 소식 외",
+          "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=59384",
+          "press": "",
+          "date": "2026-07-16"
+        },
+        {
+          "title": "[게임소식] 넥슨 '카트라이더 러쉬플러스' 티니핑 컬래버, 크래프톤 배...",
+          "link": "http://www.thebigdata.co.kr/view.php?ud=2026071617345329720a47484cf8_23",
+          "press": "",
+          "date": "2026-07-16"
+        },
+        {
+          "title": "넥슨 넷마블 外(게임 ON)",
+          "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3069651",
           "press": "",
           "date": "2026-07-16"
         }
@@ -368,83 +368,302 @@
       "rank": 5
     },
     {
-      "keyword": "신혼여행",
+      "keyword": "미스 베트남",
       "traffic": "200+",
-      "blogTotal": 2216419,
-      "newsTotal": 208515,
-      "recentToday": 8,
-      "recentWeek": 100,
+      "blogTotal": 47073,
+      "newsTotal": 7925,
+      "recentToday": 17,
+      "recentWeek": 95,
       "topBlogs": [
         {
-          "title": "발리 신혼여행 경비 코스 비용 준비물 5박6일 환전 우붓 일정...",
-          "link": "https://blog.naver.com/dongi0508/224334340280",
-          "blogger": "Der Sinn des Lebens",
-          "date": "2026-07-02"
+          "title": "판 푸옹 오안(Phan Phuong Oanh), 2025년 미스 월드 베트남...",
+          "link": "https://blog.naver.com/011shinho/224238715063",
+          "blogger": "호치민 투티엠•타오디엔•빈홈 숙소 장,단기 임대",
+          "date": "2026-04-02"
         },
         {
-          "title": "태국 코사무이 신혼여행 후기 | 코마숨 스노쿨링, 낭유안 투어",
-          "link": "https://blog.naver.com/where-is-kat/224340734142",
-          "blogger": "신부야 - 결혼부터 허니문까지 준비하자!",
-          "date": "2026-07-08"
+          "title": "2025 미스 베트남 톱3 응오 바오 쩐 (Ngo Bao Tran)",
+          "link": "https://blog.naver.com/champ76/224135670538",
+          "blogger": "낭만 사이공 #추억은방울방울",
+          "date": "2026-01-06"
         },
         {
-          "title": "괌 신혼여행 코스 추천! 돌핀투어부터 별빛투어까지 일정 가격...",
-          "link": "https://blog.naver.com/jyfool/224348815944",
-          "blogger": "신부야 - 결혼준비 & 허니문준비 꿀팁",
-          "date": "2026-07-16"
+          "title": "베트남 아오자이 미스사이공 엘레강스 향수 선물 기념품",
+          "link": "https://blog.naver.com/lynn1104/224280871643",
+          "blogger": "Mein Tagebuch",
+          "date": "2026-05-10"
         },
         {
-          "title": "시드니 렌트카 호주 시드니 신혼여행 자유 일정 추천",
-          "link": "https://blog.naver.com/khingba/224327389650",
-          "blogger": "핫플 여행 가이드",
-          "date": "2026-06-25"
+          "title": "미스 베트남 남편의 ‘모유로 만든 커피’ 논란에 사과",
+          "link": "https://blog.naver.com/hyungak2/224065325321",
+          "blogger": "바나나정원",
+          "date": "2025-11-05"
         },
         {
-          "title": "발리 여행 3박5일 신혼여행 아야나리조트",
-          "link": "https://blog.naver.com/doa_pic/224336959200",
-          "blogger": "하노리와 여행하기✈️",
-          "date": "2026-07-05"
+          "title": "통영 베트남쌀국수 미스사이공 무전점",
+          "link": "https://blog.naver.com/dntw/223862655925",
+          "blogger": "안녕하세요-♡",
+          "date": "2025-05-12"
         }
       ],
       "topNews": [
         {
-          "title": "[르뽀] 석양과 선상 파티가 어우러진 괌 Big 선셋 디너 크루즈",
-          "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1096327",
+          "title": "같은 '장윤기 사건'인데 '분리 수사'…의도 캔다",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008661772&plink=ORI&cooper=NAVER",
           "press": "",
           "date": "2026-07-16"
         },
         {
-          "title": "‘개콘’ 박은영, 재난영화급 신혼여행 후기 “태풍과 물갈이, 버라이어...",
-          "link": "https://www.newsen.com/news_view.php?uid=202607161620231910",
+          "title": "르호사, 베트남 국제패션위크서 이청청 'LIE'와 협업",
+          "link": "http://www.ktnews.com/news/articleView.html?idxno=147170",
           "press": "",
-          "date": "2026-07-16"
+          "date": "2026-07-14"
         },
         {
-          "title": "박은영, 신혼여행? 사서 고생-태풍에 물갈이-약으로 버텨",
-          "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=83715",
+          "title": "[재계 투데이] LG헬로비전, 트로트 월정액 '트롯초이스' 출시 外",
+          "link": "https://news.dealsitetv.com/articles/173211",
           "press": "",
-          "date": "2026-07-16"
+          "date": "2026-07-13"
         },
         {
-          "title": "신혼여행 사진이 왜 이래? '새신부' 박은영 \"약으로 버텨..태풍에 물갈이...",
-          "link": "https://www.starnewskorea.com/star/2026/07/16/2026071614295721305",
+          "title": "tvN 드라마 '미생' \"이것이 직장생활이다! 윤태호 웹툰 원작, 임시완·이...",
+          "link": "https://www.lecturernews.com/news/articleView.html?idxno=202485",
           "press": "",
-          "date": "2026-07-16"
+          "date": "2026-07-11"
         },
         {
-          "title": "대구 웨딩박람회, 18~19일 엑스코 인터불고호텔서 진행",
-          "link": "https://www.thepowernews.co.kr/view.php?ud=2026071611573759946cf2d78c68_7",
+          "title": "강태오, 초록 길 벤치에서 여유로운 일상 공개",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16131033",
           "press": "",
-          "date": "2026-07-16"
+          "date": "2026-07-10"
         }
       ],
       "rank": 6
     },
     {
+      "keyword": "천위페이",
+      "traffic": "200+",
+      "blogTotal": 7974,
+      "newsTotal": 8450,
+      "recentToday": 14,
+      "recentWeek": 57,
+      "topBlogs": [
+        {
+          "title": "\"안세영보다 먼저였다?\" 잊혀졌던 천재 유망주가 천위페이 꺾고...",
+          "link": "https://blog.naver.com/total_feel/224274960901",
+          "blogger": "골(GOLF)치는 박간지",
+          "date": "2026-05-05"
+        },
+        {
+          "title": "안세영 4강 천위페이 준결승 인도네시아 오픈 중계 BWF 경기...",
+          "link": "https://blog.naver.com/combine8589/224307709437",
+          "blogger": "유리의 하루",
+          "date": "2026-06-06"
+        },
+        {
+          "title": "안세영 천위페이 4강 중계 시간 인니 인도네시아오픈...",
+          "link": "https://blog.naver.com/dydghks3250/224307280369",
+          "blogger": "❤️ ✅kGn뉴스 ✅❤️",
+          "date": "2026-06-05"
+        },
+        {
+          "title": "안세영 전영오픈 4강 진출! 천위페이와 숙명의 라이벌전 격돌",
+          "link": "https://blog.naver.com/cgnara/224207477234",
+          "blogger": "Sports MAG:ZINE",
+          "date": "2026-03-07"
+        },
+        {
+          "title": "안세영 인도네시아오픈 준결승 중계 천위페이 경기시간 TV...",
+          "link": "https://blog.naver.com/jayy_/224307530648",
+          "blogger": "jayy_디자인헬퍼",
+          "date": "2026-06-06"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "'긴급 귀국' 안세영 없는데…천위페이는 심유진이 막는다 → 32강+16강 모...",
+          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=828866",
+          "press": "",
+          "date": "2026-07-16"
+        },
+        {
+          "title": "'안세영 없는' 韓 배드민턴, 또또 기적 쐈다!…17위 심유진, 북중미 최강...",
+          "link": "https://www.xportsnews.com/article/2172755",
+          "press": "",
+          "date": "2026-07-16"
+        },
+        {
+          "title": "'부상 날벼락' 안세영, 中 오픈도 끝내 기권…9월 AG 2연패 위한 재활 총...",
+          "link": "https://www.xportsnews.com/article/2172584",
+          "press": "",
+          "date": "2026-07-15"
+        },
+        {
+          "title": "韓 배드민턴 초비상! 코트를 떠난 안세영, 왕즈이-야마구치-천위페이 전...",
+          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=828741",
+          "press": "",
+          "date": "2026-07-15"
+        },
+        {
+          "title": "'돌연 귀국' 안세영 \"아쉽지만 얼른 회복해 코트에서 뵙겠다\"…'일본 오...",
+          "link": "https://www.xportsnews.com/article/2172528",
+          "press": "",
+          "date": "2026-07-15"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "keyword": "아버지",
+      "traffic": "200+",
+      "blogTotal": 13211246,
+      "newsTotal": 3058206,
+      "recentToday": 0,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "스님이 된 아버지에게 차마 하지 못했던 말… 마지막 3년의 기적",
+          "link": "https://blog.naver.com/paragg/224341042305",
+          "blogger": "여기다, 일상 인생 정보마당",
+          "date": "2026-07-10"
+        },
+        {
+          "title": "신입사원 강회장 12회 최종화 결말, 회장이 아닌 아버지가...",
+          "link": "https://blog.naver.com/laughbar/224339272972",
+          "blogger": "손손사가 보는 보험과 세상 이야기",
+          "date": "2026-07-07"
+        },
+        {
+          "title": "용인 한우 맛집 소고기 맛이좋은 뜰안애 아버지생신 모임후기",
+          "link": "https://blog.naver.com/iamprotein/224348508273",
+          "blogger": "스포츠영양-아이엠프로틴",
+          "date": "2026-07-16"
+        },
+        {
+          "title": "아버지의 마지막 한 달, 요양보호사의 학대와 아들의 폭언...",
+          "link": "https://blog.naver.com/travelhyuk/224314047082",
+          "blogger": "임씨의 지구를 지켜라!!",
+          "date": "2026-06-12"
+        },
+        {
+          "title": "아버지 기일에 형제들 산소에서 만나다",
+          "link": "https://blog.naver.com/khkh3349/224309951395",
+          "blogger": "아침이슬의 일상 이야기",
+          "date": "2026-06-08"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "손빈아, 결혼 압박에 사주 봤다 “때 놓쳤다고, 혼자 사는 게 최고”(편...",
+          "link": "https://www.newsen.com/news_view.php?uid=202607161953326110",
+          "press": "",
+          "date": "2026-07-16"
+        },
+        {
+          "title": "임혁, 父 여성편력 인한 가정사 고백 “아내 두 시어머니 모셔”(특종세...",
+          "link": "https://www.newsen.com/news_view.php?uid=202607161957356110",
+          "press": "",
+          "date": "2026-07-16"
+        },
+        {
+          "title": "신동엽♥선혜윤 딸 지효, 서울대 입학 후 첫 발레 무대",
+          "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=83724",
+          "press": "",
+          "date": "2026-07-16"
+        },
+        {
+          "title": "'결승골→뜨거운 눈물' 라우타로, \"아버지가 처음 축구화를 사주셨을 때...",
+          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=94894",
+          "press": "",
+          "date": "2026-07-16"
+        },
+        {
+          "title": "국적·인종의 벽 넘어 \"얄라!\"… '73세의 완주' 전 세계 유대인을 하나로...",
+          "link": "https://www.hankyung.com/article/202607169599i",
+          "press": "",
+          "date": "2026-07-16"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "keyword": "부부",
+      "traffic": "1000+",
+      "blogTotal": 20027971,
+      "newsTotal": 3818966,
+      "recentToday": 0,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "부부운전자보험 넓은 보장 비교하는 이유",
+          "link": "https://blog.naver.com/king3799/224276757124",
+          "blogger": "싱글벙글 소리 Story",
+          "date": "2026-05-07"
+        },
+        {
+          "title": "이혼숙려캠프 22기 결말, 진실공방부부 결국 이혼했을까?!...",
+          "link": "https://blog.naver.com/euene1111/224348990765",
+          "blogger": "보는 사람",
+          "date": "2026-07-17"
+        },
+        {
+          "title": "코다리체인점 부부 창업 준비 마린보이 상담 후기",
+          "link": "https://blog.naver.com/surfingtaiji/224342687710",
+          "blogger": "쨘쨔자잔쨔자쟌! 두둥!",
+          "date": "2026-07-10"
+        },
+        {
+          "title": "신혼부부침대 고민? 2년 실사용자의 모션베드 선택 기준",
+          "link": "https://blog.naver.com/claire_mj/224346404075",
+          "blogger": "MY GROUND",
+          "date": "2026-07-14"
+        },
+        {
+          "title": "진실공방부부 인간 같지 않은 남편 노답 아내 목요일 예능",
+          "link": "https://blog.naver.com/c106507/224342037204",
+          "blogger": "써니 아저씨의 솔직한 영화 이야기",
+          "date": "2026-07-10"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "트럼프는 왜 한국에 '군함 10척'을 물었나…미국 해군의 숨은 고민",
+          "link": "https://www.newsverse.kr/news/articleView.html?idxno=10953",
+          "press": "",
+          "date": "2026-07-16"
+        },
+        {
+          "title": "서장훈, 걱정 통하지 않는 천사 아내에 KO “이런 분 없어”(이혼숙려캠...",
+          "link": "https://www.newsen.com/news_view.php?uid=202607161955026110",
+          "press": "",
+          "date": "2026-07-16"
+        },
+        {
+          "title": "임혁 아내, 경도인지장애 진단 “치매 전단계, 40% 5년 안 치매 발생”(...",
+          "link": "https://www.newsen.com/news_view.php?uid=202607161957286110",
+          "press": "",
+          "date": "2026-07-16"
+        },
+        {
+          "title": "진실공방 아내 이혼 택했다, 남편 외도 결백 주장에 울분 “날 기만해”...",
+          "link": "https://www.newsen.com/news_view.php?uid=202607161953566110",
+          "press": "",
+          "date": "2026-07-16"
+        },
+        {
+          "title": "'배그 부부' 남편, 아내 사별 후 두 아들과 \"나만 살아 있네\"",
+          "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=83726",
+          "press": "",
+          "date": "2026-07-16"
+        }
+      ],
+      "rank": 9
+    },
+    {
       "keyword": "애니",
       "traffic": "100+",
-      "blogTotal": 2890177,
-      "newsTotal": 197740,
+      "blogTotal": 2890191,
+      "newsTotal": 197742,
       "recentToday": 0,
       "recentWeek": 100,
       "topBlogs": [
@@ -481,6 +700,18 @@
       ],
       "topNews": [
         {
+          "title": "EWC 한국팀 전원 생존, DPlus KIA 8강 진출… 한화-T1 맞대결 성사",
+          "link": "https://www.joongang.co.kr/article/25445858",
+          "press": "",
+          "date": "2026-07-16"
+        },
+        {
+          "title": "젠지·한화생명·T1·DK, 나란히 EWC 플레이오프 진출 확정",
+          "link": "https://www.yna.co.kr/view/AKR20260717001500017?input=1195m",
+          "press": "",
+          "date": "2026-07-16"
+        },
+        {
           "title": "“저패니메이션 따라가기보다는 韓 고유성 살려야 K애니 성공”",
           "link": "https://www.donga.com/news/Culture/article/all/20260717/134314937/2",
           "press": "",
@@ -495,237 +726,6 @@
         {
           "title": "애니 속 해적처럼 물길 따라 모험을… 워터파크와 만난 신개념 미디어 ...",
           "link": "https://www.chosun.com/culture-life/culture_general/2026/07/17/NTLBQN5QVJD3RHYCQA6JOWNWJA/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-          "press": "",
-          "date": "2026-07-16"
-        },
-        {
-          "title": "예매 재개한 '스파이더맨: 브랜드 뉴 데이' 35% 증가…제헌절 특수 애니...",
-          "link": "https://www.econovill.com/news/articleView.html?idxno=745469",
-          "press": "",
-          "date": "2026-07-16"
-        },
-        {
-          "title": "[#통신 풍향계] SKB 'B tv+ 맥스' 확대·시스코-효성중공업 '디지털 변전...",
-          "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=847490",
-          "press": "",
-          "date": "2026-07-16"
-        }
-      ],
-      "rank": 7
-    },
-    {
-      "keyword": "주주",
-      "traffic": "200+",
-      "blogTotal": 2847201,
-      "newsTotal": 3190021,
-      "recentToday": 0,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "광양눈썹문신 주주브로우 자연결 눈썹문신 리얼 방문 기록",
-          "link": "https://blog.naver.com/emmahan/224335496312",
-          "blogger": "푸른 하늘",
-          "date": "2026-07-03"
-        },
-        {
-          "title": "광양눈썹문신 페더링눈썹 만족했던 주주브로우 후기",
-          "link": "https://blog.naver.com/ghkdalwn9184/224348826206",
-          "blogger": "다룽이",
-          "date": "2026-07-16"
-        },
-        {
-          "title": "주주로써 뼈아픈 에코프로비엠 1.2조 유증, 손절이 답인가...",
-          "link": "https://blog.naver.com/yunpyo99/224332030488",
-          "blogger": "아빠와 함께하는 경제",
-          "date": "2026-06-30"
-        },
-        {
-          "title": "\"160만 주주 피눈물\" 5년 동안 하락한 국내 우량주",
-          "link": "https://blog.naver.com/rmsgud2007/224332188388",
-          "blogger": "방구석 청년의 경제이야기",
-          "date": "2026-07-05"
-        },
-        {
-          "title": "제이브이엠 주주총회 후기",
-          "link": "https://blog.naver.com/park11777/224236704104",
-          "blogger": "대승파파의 행복한 투자",
-          "date": "2026-04-01"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "\"현금 3000만원 있어야\"…문턱 확 높인 단일종목 레버리지, 통할까",
-          "link": "https://www.hankookilbo.com/news/article/A2026071618020005492?did=NA",
-          "press": "",
-          "date": "2026-07-16"
-        },
-        {
-          "title": "알테오젠, 코스피 이전상장 잠정 유보 및 30% 무상증자 결정",
-          "link": "https://www.medigatenews.com/news/1353899829",
-          "press": "",
-          "date": "2026-07-16"
-        },
-        {
-          "title": "주가 상승은 주춤한데...코카콜라(KO), 64년 배당 인상",
-          "link": "http://coinreaders.com/248163",
-          "press": "",
-          "date": "2026-07-16"
-        },
-        {
-          "title": "[GAM] 에흐르 테스트 시스템즈 ② AI 반도체 수혜주로 완전 탈바꿈",
-          "link": "https://www.newspim.com/news/view/20260717000020",
-          "press": "",
-          "date": "2026-07-16"
-        },
-        {
-          "title": "중국 란치과기 한국 사무소, 검찰 현장 압수수색",
-          "link": "https://www.tokenpost.kr/news/breaking/378596",
-          "press": "",
-          "date": "2026-07-16"
-        }
-      ],
-      "rank": 8
-    },
-    {
-      "keyword": "롤",
-      "traffic": "200+",
-      "blogTotal": 7471281,
-      "newsTotal": 779840,
-      "recentToday": 0,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "초등 방학 전 저장하면 좋을 20가지 한그릇 메뉴 롤팬 요리",
-          "link": "https://blog.naver.com/kmccall/224338453975",
-          "blogger": "치과위생사엄마 DIY.살림.육아 꿀팁저장소♥️♥️",
-          "date": "2026-07-06"
-        },
-        {
-          "title": "도산공원 카페 노티드 청담 한정메뉴 시나몬롤 후기",
-          "link": "https://blog.naver.com/wldmssnla1/224333934479",
-          "blogger": "건강하고 행복한 하루하루❤",
-          "date": "2026-07-04"
-        },
-        {
-          "title": "롤매트 시공 거실 복도 층간소음매트 어린이 놀이매트 후기",
-          "link": "https://blog.naver.com/lej21377/224340614714",
-          "blogger": "나에겐특별한뭔가가있어요 ㅋ",
-          "date": "2026-07-09"
-        },
-        {
-          "title": "근육통에 좋은 아로마오일 롤온 추천 실제 사용해 본 찐후기",
-          "link": "https://blog.naver.com/ecesin/224342882496",
-          "blogger": "호짱이맘의 햅삐로그 happlog :)",
-          "date": "2026-07-10"
-        },
-        {
-          "title": "야구 전문 트레이닝센터, 에버롤과 고무블럭 조합된 헬스장...",
-          "link": "https://blog.naver.com/soda7908/224298538130",
-          "blogger": "영이사랑",
-          "date": "2026-05-28"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "대법 “포스코, 사내 하청의 하청 근로자도 직접 고용해야”",
-          "link": "https://www.donga.com/news/Society/article/all/20260716/134314995/2",
-          "press": "",
-          "date": "2026-07-16"
-        },
-        {
-          "title": "'전현무계획4' 성리, '영영' 열창 \"롤모델=나훈아\"",
-          "link": "https://enter.etoday.co.kr/news/view/299859",
-          "press": "",
-          "date": "2026-07-16"
-        },
-        {
-          "title": "야노시호, ‘사춘기 딸’ 사랑이 속마음에 눈물 “전혀 몰랐다” (편스...",
-          "link": "http://enews.imbc.com/News/RetrieveNewsInfo/511815",
-          "press": "",
-          "date": "2026-07-16"
-        },
-        {
-          "title": "[EWC] 롤(LoL) 종목 8강 대진 완성, 한화생명 vs T1 내전 성사(종합)",
-          "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=59403",
-          "press": "",
-          "date": "2026-07-16"
-        },
-        {
-          "title": "[신상출시 편스토랑] 야노시호, 김용빈·이정현 꺾고 세 번째 도전 만에...",
-          "link": "https://kstar.kbs.co.kr/list_view.html?idx=406107",
-          "press": "",
-          "date": "2026-07-16"
-        }
-      ],
-      "rank": 9
-    },
-    {
-      "keyword": "반품",
-      "traffic": "500+",
-      "blogTotal": 2232773,
-      "newsTotal": 158255,
-      "recentToday": 0,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "경기광주 리퍼브매장 킹콩백화점 반품마트 후기",
-          "link": "https://blog.naver.com/nahanjuu/224276192262",
-          "blogger": "짜봉로그",
-          "date": "2026-05-06"
-        },
-        {
-          "title": "레이디가구 데이베드 반품한 이유 스칸딕 로맨틱 딴딴이...",
-          "link": "https://blog.naver.com/gkdmso3o/224343473660",
-          "blogger": "도누의 세상여행✈️",
-          "date": "2026-07-11"
-        },
-        {
-          "title": "테무로 ‘스마트 쇼핑’하는 법 반품 보장, 국내발송 빠른 꿀템...",
-          "link": "https://blog.naver.com/obama8775/224055817533",
-          "blogger": "선비의 엣헴블로그",
-          "date": "2025-10-31"
-        },
-        {
-          "title": "[가성비 쇼핑] 반품·스크래치 보물찾기! 리퍼브 팩토리 매장...",
-          "link": "https://blog.naver.com/pel77/224332594206",
-          "blogger": "태단래",
-          "date": "2026-07-01"
-        },
-        {
-          "title": "반셀프 인테리어 구축 아파트 화장실 타일, 자재 구매부터 반품...",
-          "link": "https://blog.naver.com/new_mon/224330393558",
-          "blogger": "우리 삶이 여행인 것을요",
-          "date": "2026-07-03"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "K-브랜드의 해외진출 첨병, 로지스밸리 'K-글로벌패스",
-          "link": "https://www.klnews.co.kr/news/articleView.html?idxno=321975",
-          "press": "",
-          "date": "2026-07-16"
-        },
-        {
-          "title": "알테쉬 다음은 어디? 中 유통 혁신 기업 5선 [경영전략노트]",
-          "link": "https://www.mk.co.kr/article/12095487",
-          "press": "",
-          "date": "2026-07-16"
-        },
-        {
-          "title": "알리·테무 등 C커머스 소비자 불만 3년 새 7배 증가",
-          "link": "https://www.safetimes.co.kr/news/articleView.html?idxno=244283",
-          "press": "",
-          "date": "2026-07-16"
-        },
-        {
-          "title": "GS샵, 홈쇼핑서 ‘AI 반려로봇’ 선봬…새로운 스마트 가전 시대 연다",
-          "link": "https://www.news2day.co.kr/article/20260716500275",
-          "press": "",
-          "date": "2026-07-16"
-        },
-        {
-          "title": "식약처, '카드뮴 기준 초과' 겨우살이 회수",
-          "link": "https://www.yna.co.kr/view/AKR20260716199700017?input=1195m",
           "press": "",
           "date": "2026-07-16"
         }
