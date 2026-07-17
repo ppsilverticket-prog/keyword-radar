@@ -1,12 +1,231 @@
 {
-  "updatedAt": "2026-07-17T11:04:51.923Z",
+  "updatedAt": "2026-07-17T12:42:21.558Z",
   "source": "live",
   "keywords": [
     {
+      "keyword": "계양구",
+      "traffic": "500+",
+      "blogTotal": 1144274,
+      "newsTotal": 227271,
+      "recentToday": 100,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "계양구한의원 추나요법 관리를",
+          "link": "https://blog.naver.com/nolanglove/224312601302",
+          "blogger": "건강소식지",
+          "date": "2026-06-11"
+        },
+        {
+          "title": "계양구한방병원 옆 한의원 입원 관리로 회복을",
+          "link": "https://blog.naver.com/knw1022/224253133536",
+          "blogger": "알아두면 든든한 정보⭐",
+          "date": "2026-04-15"
+        },
+        {
+          "title": "계양구한방병원 옆 한의원 교통사고 회복을",
+          "link": "https://blog.naver.com/cam8180/224281774632",
+          "blogger": "잡학다식 ✅",
+          "date": "2026-05-11"
+        },
+        {
+          "title": "계양구한방병원 대신 통증 회복 한의원 통해",
+          "link": "https://blog.naver.com/helloeco1/224270187920",
+          "blogger": "건강도시락",
+          "date": "2026-04-30"
+        },
+        {
+          "title": "계양구한방병원 통증 완화를",
+          "link": "https://blog.naver.com/sjuly717/224251974741",
+          "blogger": "건강하게 행복하게! healthy life!",
+          "date": "2026-04-14"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "독립성의 탈을 쓴 법치주의 사각지대, 선관위 해부해야",
+          "link": "https://www.dailian.co.kr/news/view/1668236/?sc=Naver",
+          "press": "",
+          "date": "2026-07-17"
+        },
+        {
+          "title": "인천 계양구 쓰레기집…이웃 피해에 거주자 건강마저 염려 [현장, 그곳...",
+          "link": "https://www.kyeonggi.com/article/20260714580413",
+          "press": "",
+          "date": "2026-07-17"
+        },
+        {
+          "title": "[단독] 구의원이 기자 겸직? 김연자 계양구의회 부의장, 기자 겸직 의혹...",
+          "link": "https://www.incheontoday.com/news/articleView.html?idxno=321254",
+          "press": "",
+          "date": "2026-07-17"
+        },
+        {
+          "title": "인천 신설구 첫 공표 집값은?... 서해·검단·제물포 상승, 영종 하락 희...",
+          "link": "http://www.incheonin.com/news/articleView.html?idxno=119372",
+          "press": "",
+          "date": "2026-07-17"
+        },
+        {
+          "title": "갤러리 고마루, '도심 속 현대 민화-파노라마 대구 3경' 개최",
+          "link": "http://www.incheonin.com/news/articleView.html?idxno=119334",
+          "press": "",
+          "date": "2026-07-17"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "keyword": "다이빙",
+      "traffic": "500+",
+      "blogTotal": 1513024,
+      "newsTotal": 212256,
+      "recentToday": 100,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "세부다이빙샵 빅보스다이브에서 SSI자격증 준비한 후기",
+          "link": "https://blog.naver.com/agness888/224342773339",
+          "blogger": "이끝에서 저끝으로",
+          "date": "2026-07-10"
+        },
+        {
+          "title": "대구프리다이빙강습 체계적인 커리큘럼 만족",
+          "link": "https://blog.naver.com/ojh3529/224267999391",
+          "blogger": "선인맨의 캠프사이트",
+          "date": "2026-04-28"
+        },
+        {
+          "title": "대구 프리다이빙 강습 엔엔엔프리다이빙에서 느낀 차이",
+          "link": "https://blog.naver.com/creation_blog/224330635030",
+          "blogger": "북쪽 창가",
+          "date": "2026-06-29"
+        },
+        {
+          "title": "보홀 프리다이빙 체험 후기 ㅣ 나팔링 강습부터 수영장...",
+          "link": "https://blog.naver.com/lllpeacelll1/224329023664",
+          "blogger": "블랙토끼의 새콤달콤 여행기록",
+          "date": "2026-06-27"
+        },
+        {
+          "title": "[몰디브/리브어보드] 다이빙 마지막날 - 몰디브 섬...",
+          "link": "https://blog.naver.com/gom501/224337198271",
+          "blogger": "날씨맑음 :D",
+          "date": "2026-07-05"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "자발적 수거했지만..줄지 않는 해양쓰레기",
+          "link": "https://www.jibs.co.kr/news/replay/viewNewsReplayDetail/2026071718091021969?feed=na",
+          "press": "",
+          "date": "2026-07-17"
+        },
+        {
+          "title": "한국기행 '원시의 여름, 울릉도' 5부…울릉도 여름 명당, OOO!",
+          "link": "https://www.wikitree.co.kr/articles/1147015",
+          "press": "",
+          "date": "2026-07-17"
+        },
+        {
+          "title": "[자막뉴스] 천연기념물 서귀포 문섬.. 바닷속에서 건져낸 것은",
+          "link": "https://www.jibs.co.kr/news/articles/articlesDetail/63565?feed=na",
+          "press": "",
+          "date": "2026-07-17"
+        },
+        {
+          "title": "[IN 태백] '이태경 결승골' 중앙대, 동명대 1-0으로 잡고 추계대학연맹...",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=690735",
+          "press": "",
+          "date": "2026-07-17"
+        },
+        {
+          "title": "[한국기행] 다이빙 명소, 울릉도 천부항",
+          "link": "http://www.queen.co.kr/news/articleView.html?idxno=460366",
+          "press": "",
+          "date": "2026-07-17"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "keyword": "음문석",
+      "traffic": "100+",
+      "blogTotal": 12083,
+      "newsTotal": 14142,
+      "recentToday": 100,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "음문석 프로필, 열혈사제 장룡에서 범죄도시2 악역까지 변신한...",
+          "link": "https://blog.naver.com/universal_studeo/224349381821",
+          "blogger": "텐포의 10점만점",
+          "date": "2026-07-17"
+        },
+        {
+          "title": "영화 호프 음문석 (프로필 나이) 양배, 나홍진 극비호감이었지만...",
+          "link": "https://blog.naver.com/diacpqpqp/224349476672",
+          "blogger": "K 에디트",
+          "date": "2026-07-17"
+        },
+        {
+          "title": "음문석 프로필 나무위키ㅣ영화배우 호프 hope 댄싱9 나이 키...",
+          "link": "https://blog.naver.com/reviewhamnida/224349355747",
+          "blogger": "일상과리뷰",
+          "date": "2026-07-17"
+        },
+        {
+          "title": "영화 호프 무대인사 260716 나홍진 황정민 조인성 음문석...",
+          "link": "https://blog.naver.com/raccoon_candy/224348946995",
+          "blogger": "수상한 솜사탕을 씻은 너구리",
+          "date": "2026-07-16"
+        },
+        {
+          "title": "호프 개봉주 무대인사 후기 (황정민, 조인성, 정호연, 음문석...",
+          "link": "https://blog.naver.com/tnqhd_3/224348312537",
+          "blogger": "❤ 못말리는 만쪽이들 ❤",
+          "date": "2026-07-16"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "음문석, 영화 '호프' 양배로 변신한 강렬 근황",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16137672",
+          "press": "",
+          "date": "2026-07-17"
+        },
+        {
+          "title": "나홍진 감독 \"'호프' 욕설, 악의 없는 감탄사⋯귀 더럽힌 점 죄송해\"",
+          "link": "http://www.joynews24.com/view/1986415",
+          "press": "",
+          "date": "2026-07-16"
+        },
+        {
+          "title": "10년 기다림 '결실'…개봉 첫날 '33만' 흥행 청신호→곡성·파묘 제치고...",
+          "link": "https://www.tvreport.co.kr/breaking/article/1061740/",
+          "press": "",
+          "date": "2026-07-16"
+        },
+        {
+          "title": "10년 만에 꺼낸 '호프', 무엇을 감추고 있을까",
+          "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003251929&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+          "press": "",
+          "date": "2026-07-16"
+        },
+        {
+          "title": "나홍진 감독이 밝힌 ‘호프’의 의미 (※스포일러) [DA인터뷰③]",
+          "link": "https://sports.donga.com/ent/article/all/20260716/134308620/2",
+          "press": "",
+          "date": "2026-07-16"
+        }
+      ],
+      "rank": 3
+    },
+    {
       "keyword": "정청래",
-      "traffic": "2000+",
-      "blogTotal": 104345,
-      "newsTotal": 325190,
+      "traffic": "10000+",
+      "blogTotal": 104359,
+      "newsTotal": 325226,
       "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
@@ -43,251 +262,32 @@
       ],
       "topNews": [
         {
-          "title": "與전대에 대표 5명·최고위원 14명 후보등록…21일 컷오프",
-          "link": "https://www.yna.co.kr/view/AKR20260717055200001?input=1195m",
+          "title": "민주당 당대표 5파전 확정…최고위원 선거 14명 등록",
+          "link": "http://www.newstomato.com/ReadNews.aspx?no=1307461&inflow=N",
           "press": "",
           "date": "2026-07-17"
         },
         {
-          "title": "민주, 김민석·고민정·정청래·김보미·송영길 당대표 5파전",
-          "link": "https://www.sedaily.com/article/20068917?ref=naver",
+          "title": "민주당 당대표 선거에 5명 후보 등록",
+          "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260717.99099005246",
           "press": "",
           "date": "2026-07-17"
         },
         {
-          "title": "[속보] 與 전당대회 당대표 후보…김민석·정청래·송영길·고민정·김보...",
-          "link": "https://www.imaeil.com/page/view/2026071719535036300",
+          "title": "민주당 전당대회 후보 등록 마감…당대표 5명·최고위원 14명 경쟁",
+          "link": "https://www.namdonews.com/news/articleView.html?idxno=917210",
           "press": "",
           "date": "2026-07-17"
         },
         {
-          "title": "與최고위원 출마, 친명 10명-친청 3명…둘다 아닌 1명은?",
-          "link": "https://www.donga.com/news/Politics/article/all/20260717/134318669/1",
+          "title": "송영길 허용으로 5파전 확정…정청래·고민정은 ‘호남 공략’",
+          "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8613758&ref=A",
           "press": "",
           "date": "2026-07-17"
         },
         {
-          "title": "與 전대 후보등록 마감…당대표 5명·최고위원 14명 도전장",
-          "link": "https://biz.heraldcorp.com/article/10812144?ref=naver",
-          "press": "",
-          "date": "2026-07-17"
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "keyword": "당구",
-      "traffic": "200+",
-      "blogTotal": 426555,
-      "newsTotal": 180295,
-      "recentToday": 100,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "내돈내산 가성비 카본 큐대 하이앤드 2026 NEW 당구 큐 카본...",
-          "link": "https://blog.naver.com/denuer2/224260150550",
-          "blogger": "주말골퍼 게빈의 골프와 테니스",
-          "date": "2026-04-22"
-        },
-        {
-          "title": "당달 아카데미 3쿠션 당구레슨 후기 하프시스템 처음 배우고...",
-          "link": "https://blog.naver.com/vippsh/224219624376",
-          "blogger": "모델 박상호가 직접 경험하는 웰니스라이프",
-          "date": "2026-03-17"
-        },
-        {
-          "title": "하루 순삭한 원플레이 건대점, 보드게임부터 만화책 LP 당구까지",
-          "link": "https://blog.naver.com/sgs5611/224317655819",
-          "blogger": "☘️해와바다-상위1프로 RMR상품 기획",
-          "date": "2026-06-16"
-        },
-        {
-          "title": "당구 3구, 30년 만에 다시 큐를 잡은 이유",
-          "link": "https://blog.naver.com/fortuneinsu/224347030257",
-          "blogger": "꼼꼼보험 굿리치",
-          "date": "2026-07-15"
-        },
-        {
-          "title": "유도선수+동호회 출신 미녀 당구선수 최혜미",
-          "link": "https://blog.naver.com/oetet/224323164186",
-          "blogger": "멍뭉이 스포츠",
-          "date": "2026-06-22"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "'지독한 천적' 쿠드롱, 호른에 발목 잡혀 또 눈물…'호른전 6연패 늪' 포...",
-          "link": "https://www.thebilliards.kr/news/articleView.html?idxno=31494",
-          "press": "",
-          "date": "2026-07-17"
-        },
-        {
-          "title": "이지성-차유람, '10억 이웃 소송' 2심도 패소…\"시련은 하나님의 선물\" ...",
-          "link": "https://www.tvreport.co.kr/entertainment/article/1061921/",
-          "press": "",
-          "date": "2026-07-17"
-        },
-        {
-          "title": "차유람 남편 이지성 작가 “화는 반드시 복이 된다”…‘불법 공사’ 1...",
-          "link": "https://biz.heraldcorp.com/article/10812092?ref=naver",
-          "press": "",
-          "date": "2026-07-17"
-        },
-        {
-          "title": "이웃주민과 10억 소송 패소..\"난 몇 억 배 더 잘 될 것\" 차유람 남편 이...",
-          "link": "https://www.starnewskorea.com/star/2026/07/17/2026071716131367049",
-          "press": "",
-          "date": "2026-07-17"
-        },
-        {
-          "title": "조명우, 김민석 꺾은 레가스피와 16강서 격돌 (포르투 3쿠션 월드컵) [포...",
-          "link": "https://www.xportsnews.com/article/2173178",
-          "press": "",
-          "date": "2026-07-17"
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "keyword": "대전광역시",
-      "traffic": "100+",
-      "blogTotal": 1086313,
-      "newsTotal": 248814,
-      "recentToday": 100,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "대전광역시강아지입양 애완견무료분양사이트 의왕시...",
-          "link": "https://blog.naver.com/eve24rang/223768150094",
-          "blogger": "강아지분양 고양이분양 말티즈분양 먼치킨분양",
-          "date": "2025-02-21"
-        },
-        {
-          "title": "대전광역시 공공 자전거! 타슈 이용 방법 이모저모",
-          "link": "https://blog.naver.com/sunwan2922/224264265461",
-          "blogger": "업사다의 철도 사진",
-          "date": "2026-04-25"
-        },
-        {
-          "title": "대전광역시 서구 LH 청년매입임대주택 예비입주자 모집",
-          "link": "https://blog.naver.com/london_no1/224336814676",
-          "blogger": "N잡러 잔나비의 정보 전달",
-          "date": "2026-07-05"
-        },
-        {
-          "title": "대전광역시테니스협회장배 테니스 대회 후기!",
-          "link": "https://blog.naver.com/storydaejeon/224302662438",
-          "blogger": "대전광역시 공식블로그",
-          "date": "2026-06-01"
-        },
-        {
-          "title": "대전광역시강아지입양 강아지파양 성남시 의왕시...",
-          "link": "https://blog.naver.com/minmm86415/223765077465",
-          "blogger": "다시육아",
-          "date": "2025-02-22"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "대전시의회, 돌봄·보훈·환경 현안... 집행부 대책 촉구",
-          "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=437030",
-          "press": "",
-          "date": "2026-07-17"
-        },
-        {
-          "title": "대전시의회, 새 교육위원회 첫발... 학교안전·인사·급식 현안 집중",
-          "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=437031",
-          "press": "",
-          "date": "2026-07-17"
-        },
-        {
-          "title": "대전시교육청, 3단계 검증 통과... 교육전문직 '26명' 최종 선발",
-          "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=437027",
-          "press": "",
-          "date": "2026-07-17"
-        },
-        {
-          "title": "주목받는 대전 유성구... 이 도시에 살기 위한 현실적인 방법은",
-          "link": "https://www.getnews.co.kr/news/articleView.html?idxno=875346",
-          "press": "",
-          "date": "2026-07-17"
-        },
-        {
-          "title": "[포토뉴스] 대전시의회 교육위원회, 제10대 의회 본격 의정활동",
-          "link": "https://daily.hankooki.com/news/articleView.html?idxno=1386881",
-          "press": "",
-          "date": "2026-07-17"
-        }
-      ],
-      "rank": 3
-    },
-    {
-      "keyword": "항공",
-      "traffic": "200+",
-      "blogTotal": 8138891,
-      "newsTotal": 5236003,
-      "recentToday": 100,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "인천 칭다오 왕복 산동항공 SC4616 - SC4619 좌석 및 기내식...",
-          "link": "https://blog.naver.com/uremi/224336319529",
-          "blogger": "왜 사냐건 먹지요",
-          "date": "2026-07-04"
-        },
-        {
-          "title": "사이판 항공권 현재 유일한 대안 제주항공 주 4회 운항",
-          "link": "https://blog.naver.com/saladin324/224348879614",
-          "blogger": "It's Travel Time, 여행에 빠지다.",
-          "date": "2026-07-17"
-        },
-        {
-          "title": "동방항공 유럽 경유 상하이에서 바르셀로나 체크인 기내식...",
-          "link": "https://blog.naver.com/heewon1032/224344136585",
-          "blogger": "책킴은 트래블링",
-          "date": "2026-07-12"
-        },
-        {
-          "title": "중국 동방항공 후기 :  인천공항 칭다오 환승 칭하이 시닝까지",
-          "link": "https://blog.naver.com/sunnyssam73/224344400198",
-          "blogger": "알뜰그녀 여행기",
-          "date": "2026-07-12"
-        },
-        {
-          "title": "포터항공 후기 라스베가스 토론토 입국심사 기내식 PD656",
-          "link": "https://blog.naver.com/nudlelog/224342894567",
-          "blogger": "누들로그",
-          "date": "2026-07-10"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "한국기행 '원시의 여름, 울릉도' 5부…울릉도 여름 명당, OOO!",
-          "link": "https://www.wikitree.co.kr/articles/1147015",
-          "press": "",
-          "date": "2026-07-17"
-        },
-        {
-          "title": "무인기로 전투기 잡는다…미, 첫 공대공 미사일 성공",
-          "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000540307",
-          "press": "",
-          "date": "2026-07-17"
-        },
-        {
-          "title": "\"한국서 80% 만들고 미국서 조립\"…미 군함 건조 해법은?",
-          "link": "http://www.yonhapnewstv.co.kr/news/MYH20260717192952cel",
-          "press": "",
-          "date": "2026-07-17"
-        },
-        {
-          "title": "美·이란 군사 충돌 6일째…호르무즈 봉쇄에 국제유가 12% 급등",
-          "link": "https://www.newspim.com/news/view/20260717000204",
-          "press": "",
-          "date": "2026-07-17"
-        },
-        {
-          "title": "法 \"티메프 미정산 여행상품, 여행사가 대금 반환해야\"",
-          "link": "https://www.todaykorea.co.kr/news/articleView.html?idxno=403920",
+          "title": "與, 송영길·김용 '자격 논란' 끝 전대출마 허용…친명 \"비동지적 시비...",
+          "link": "https://news.tvchosun.com/site/data/html_dir/2026/07/17/2026071790182.html",
           "press": "",
           "date": "2026-07-17"
         }
@@ -296,10 +296,10 @@
     },
     {
       "keyword": "장한별",
-      "traffic": "500+",
-      "blogTotal": 10178,
-      "newsTotal": 6523,
-      "recentToday": 89,
+      "traffic": "1000+",
+      "blogTotal": 10203,
+      "newsTotal": 6529,
+      "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -335,32 +335,32 @@
       ],
       "topNews": [
         {
-          "title": "'37세' 장한별, 서바이벌 출연 중 이성에 대시 받았다…\"일반인 아닌 연...",
-          "link": "https://www.tenasia.co.kr/article/2026071710574",
+          "title": "'전현무계획4' 사천 탕수육 맛집 중식당→실비집 투어",
+          "link": "https://enter.etoday.co.kr/news/view/299895",
           "press": "",
           "date": "2026-07-17"
         },
         {
-          "title": "'전현무계획4' 사천 낙지볶음·탕수육·실비집 가게위치는?",
-          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3639098",
+          "title": "'전현무계획4' 사천 짜장면·사천탕수육 맛집 위치는? \"생활의 달인 그...",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16135944",
           "press": "",
           "date": "2026-07-17"
         },
         {
-          "title": "장한별 \"'무명전설' 출연 중 女 연예인에 대시 받아\"[전현무계획4]",
-          "link": "https://www.starnewskorea.com/broadcast-show/2026/07/17/2026071719000738033",
+          "title": "'전현무계획4' 사천 삼천포항 낙지볶음 맛집 위치는? \"무명전설 장한별...",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16135943",
           "press": "",
           "date": "2026-07-17"
         },
         {
-          "title": "tvN 드라마 '철인왕후' \"조선 중전 영혼가출스캔들! 신혜선·김정현·배...",
-          "link": "https://www.lecturernews.com/news/articleView.html?idxno=206542",
+          "title": "'전현무계획4' 성리, 사천 매운 낙지볶음 맛집 공략",
+          "link": "https://enter.etoday.co.kr/news/view/299894",
           "press": "",
           "date": "2026-07-17"
         },
         {
-          "title": "가수 성리, 오는 8월 7일 공식 팬미팅 개최…MBN 활동 이어 팬들과 만남",
-          "link": "https://www.thepublic.kr/news/articleView.html?idxno=311681",
+          "title": "장한별, 女연예인에 대시받았다 “‘무명전설’ 하면서…” (전현무계획...",
+          "link": "http://enews.imbc.com/News/RetrieveNewsInfo/511846",
           "press": "",
           "date": "2026-07-17"
         }
@@ -370,9 +370,9 @@
     {
       "keyword": "에코프로 비엠",
       "traffic": "2000+",
-      "blogTotal": 223484,
+      "blogTotal": 223486,
       "newsTotal": 163158,
-      "recentToday": 59,
+      "recentToday": 64,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -441,293 +441,257 @@
       "rank": 6
     },
     {
-      "keyword": "유괴",
+      "keyword": "정찰기",
       "traffic": "500+",
-      "blogTotal": 160266,
-      "newsTotal": 88879,
-      "recentToday": 44,
-      "recentWeek": 100,
+      "blogTotal": 55083,
+      "newsTotal": 50835,
+      "recentToday": 22,
+      "recentWeek": 88,
       "topBlogs": [
         {
-          "title": "꼬꼬무 부산 초등생 유괴살인 사건｜공범 3명은 왜...",
-          "link": "https://blog.naver.com/skt9386/224334761991",
-          "blogger": "토닥토닥note",
-          "date": "2026-07-03"
+          "title": "러시아 정찰기 미국 알래스카 ADIZ 진입 [제1832호]",
+          "link": "https://blog.naver.com/kima20298/224003957943",
+          "blogger": "한국군사문제연구원",
+          "date": "2025-09-11"
         },
         {
-          "title": "꼬꼬무 최고 시청률 찍은 부산 아동 유괴 살인사건? 초등학생...",
-          "link": "https://blog.naver.com/chummilmil99/224335272074",
-          "blogger": "Te Quiero",
-          "date": "2026-07-03"
+          "title": "한반도 군사적 긴장 고조 // 미국 공군 전략정찰기 '이례적...",
+          "link": "https://blog.naver.com/rockstar88/224331884939",
+          "blogger": "그놈의 돈이 문제다.",
+          "date": "2026-06-30"
         },
         {
-          "title": "꼬꼬무 부산 초등생 유괴 살인사건, 네 명의 유괴범 뒤에 남은...",
-          "link": "https://blog.naver.com/lhswind2/224335066672",
-          "blogger": "우수아빠의 인생은",
-          "date": "2026-07-03"
+          "title": "Do 335로 전략정찰기를 만들자! 융커스 Ju 635",
+          "link": "https://blog.naver.com/naljava69/224290751752",
+          "blogger": "쿵디담의 다람쥐우리",
+          "date": "2026-05-21"
         },
         {
-          "title": "꼬꼬무 부산 초등생 유괴 살인사건 꼬리에 꼬리를 무는...",
-          "link": "https://blog.naver.com/kmlink/224335169653",
-          "blogger": "꼬부기의 추억여행",
-          "date": "2026-07-03"
+          "title": "미군 정찰기가 남양군도의 조선인들에게 보내는 메시지",
+          "link": "https://blog.naver.com/minjune98/224083380970",
+          "blogger": "무수천의 공간",
+          "date": "2025-11-21"
         },
         {
-          "title": "이윤상 군 유괴살인 43년… ‘스승의 탈을 쓴 악마’와 숨겨진...",
-          "link": "https://www.neocross.net/entry/%EC%9D%B4%EC%9C%A4%EC%83%81-%EA%B5%B0-%EC%9C%A0%EA%B4%B4%EC%82%B4%EC%9D%B8-43%EB%85%84%E2%80%A6-%E2%80%98%EC%8A%A4%EC%8A%B9%EC%9D%98-%ED%83%88%EC%9D%84-%EC%93%B4-%EC%95%85%EB%A7%88%E2%80%99%EC%99%80-%EC%88%A8%EA%B2%A8%EC%A7%84-%EA%B5%AD%EA%B0%80%ED%8F%AD%EB%A0%A5%EC%9D%98-%EB%AF%BC%EB%82%AF",
-          "blogger": "아해소리 :: 아해소리",
-          "date": "2026-01-27"
+          "title": "[플라이토피아] 드래곤 레이디! U-2 정찰기",
+          "link": "https://blog.naver.com/benjamin27/223923833896",
+          "blogger": "날틀 그림 보고갈래?",
+          "date": "2025-07-06"
         }
       ],
       "topNews": [
         {
-          "title": "초등생 5명 납치하려던 50대 남성 검거",
-          "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5206536",
+          "title": "[단독] 바다 감시하던 美무인정찰기, 왜 한국 내륙까지 들어왔나",
+          "link": "https://www.segye.com/newsView/20260717510635?OutUrl=naver",
           "press": "",
           "date": "2026-07-17"
         },
         {
-          "title": "“아빠라고 불러봐”…50대 남성이 ‘초등학생 5명’ 상대로 벌인 짓",
-          "link": "https://www.wikitree.co.kr/articles/1147001",
+          "title": "미국, 이란 남부·남동부 공습 확대…교량 타격 등으로사망자 최소 7명",
+          "link": "https://www.newspim.com/news/view/20260717000055",
           "press": "",
           "date": "2026-07-17"
         },
         {
-          "title": "여수서 초등생 5명 납치 미수…경찰, 50대 정신질환 남성 검거",
-          "link": "https://www.sidae.com/article/2026071713541049673",
+          "title": "미, 이란 내륙으로 공습 확대...이란 \"중동 인프라 보복할 것\"",
+          "link": "https://www.ytn.co.kr/_ln/0104_202607170556373590",
           "press": "",
-          "date": "2026-07-17"
+          "date": "2026-07-16"
         },
         {
-          "title": "[속보] 여수서 초등생 5명 납치 시도…경찰 50대 남성 검거",
-          "link": "https://biz.heraldcorp.com/article/10811987?ref=naver",
+          "title": "후티 지도자 \"사우디, 갈등 고조시킨다면 석유 시설 공격\"",
+          "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4425555",
           "press": "",
-          "date": "2026-07-17"
+          "date": "2026-07-16"
         },
         {
-          "title": "“내가 아빠야” 여수서 ‘초등학생 5명’ 납치 시도…50대 남성 붙잡혀",
-          "link": "https://www.seoul.co.kr/news/society/2026/07/17/20260717500075?wlog_tag3=naver",
+          "title": "KF-21 엔진 공급 자랑한 美 GE…한국이 자립 서둘러야 하는 이유 [밀리터...",
+          "link": "https://nownews.seoul.co.kr/news/newsView.php?id=20260716601014&wlog_tag3=naver",
           "press": "",
-          "date": "2026-07-17"
+          "date": "2026-07-16"
         }
       ],
       "rank": 7
     },
     {
-      "keyword": "김다현",
+      "keyword": "김지유",
       "traffic": "200+",
-      "blogTotal": 62330,
-      "newsTotal": 58328,
-      "recentToday": 36,
+      "blogTotal": 17843,
+      "newsTotal": 13311,
+      "recentToday": 16,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "10대에 ‘트리플 톱3’ 찍은 트로트 천재 김다현 프로필 나이...",
-          "link": "https://blog.naver.com/bky21c/224314464425",
-          "blogger": "토니백’s 맛집.리뷰.사진.일상.주택정보 BLOG",
-          "date": "2026-06-13"
+          "title": "코미디언 김지유, 위생 논란의 중심이 되기까지",
+          "link": "https://blog.naver.com/hahalong993/224263368856",
+          "blogger": "마뇽이의 일상 로그",
+          "date": "2026-04-25"
         },
         {
-          "title": "인생을 담은 무대! 김다현, 부산 첫 단독 콘서트 '꿈' 대성황 ✨",
-          "link": "https://blog.naver.com/msw118/224217921265",
-          "blogger": "흥미롭고 재밌는 최신 연예 소식",
-          "date": "2026-03-16"
+          "title": "울산 삼산동 센트럴자이상가 개인 필라테스 전문 ‘김지유...",
+          "link": "https://blog.naver.com/vitamincdaa/224225598013",
+          "blogger": "人 JOY",
+          "date": "2026-03-22"
         },
         {
-          "title": "미스춘향 2026 김다현 언니 진소리 왜 화제일까?",
-          "link": "https://blog.naver.com/lhswind2/224273230021",
-          "blogger": "우수아빠의 인생은",
-          "date": "2026-05-03"
+          "title": "김지유 쌀통 벌레 충격 장면 역대급 위생 상태에 기절",
+          "link": "https://blog.naver.com/solmi_illustrator/224260615262",
+          "blogger": "비타민쏠미",
+          "date": "2026-04-22"
         },
         {
-          "title": "전설의 사내, 조정민·장한별 레디큐 무대…김다현 합류 첫...",
-          "link": "https://blog.naver.com/big203040/224349147343",
-          "blogger": "ISTP Hyeong",
+          "title": "김지유, 연인 따라 폴란드行? \"결혼 생각 중\"",
+          "link": "https://blog.naver.com/fmlighting_/224349683128",
+          "blogger": "레몬의 비타민 충전 뉴스",
           "date": "2026-07-17"
         },
         {
-          "title": "미스춘향 2026 진소리가 김다현 언니라고?",
-          "link": "https://blog.naver.com/lkm_fpv/224273653157",
-          "blogger": "❤️미니꿍 TV ON❤️",
-          "date": "2026-05-03"
+          "title": "빌드업 피트니스 독산 여자선생님 PT 후기 김지유 트레이너",
+          "link": "https://blog.naver.com/h1222/223796756412",
+          "blogger": "체린의 일상 속 여행",
+          "date": "2025-03-15"
         }
       ],
       "topNews": [
         {
-          "title": "섬박람회 D-50…오늘부터 이틀간 대규모 K-POP 공연",
-          "link": "https://ysmbc.co.kr/NewsArticle/1528011",
+          "title": "'폭스클럽' 김지유, \"남친 매튜 따라 폴란드行..결혼 생각” 눈물바다....",
+          "link": "http://www.osen.co.kr/article/G1112841334",
           "press": "",
           "date": "2026-07-17"
         },
         {
-          "title": "섬박람회 개막 앞두고 여수서 대규모 K-POP 공연",
-          "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8613566&ref=A",
+          "title": "김지유, 연인 따라 폴란드行? “결혼까지 생각”…‘폭스클럽’ 폐지 확...",
+          "link": "https://isplus.com/article/view/isp202607170038",
           "press": "",
           "date": "2026-07-17"
         },
         {
-          "title": "김대호 떠난 '전설의 사내', 최고 4.5%로 동 시간대 1위",
-          "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=83766",
+          "title": "김지유, 연인 따라 폴란드行? \"결혼 생각 중\" [MHN:픽]",
+          "link": "https://mhnse.com/news/articleView.html?idxno=1461155",
           "press": "",
           "date": "2026-07-17"
         },
         {
-          "title": "김의영, 남 부럽지 않은 인기…장마철, 커플 장화 함께 신고 싶은 여자...",
-          "link": "https://www.tenasia.co.kr/article/2026071698294",
+          "title": "\"평생 함께할 사람\" 김지유, 깜짝 결혼 암시→폴란드행 선언 ('폭스클럽...",
+          "link": "https://www.tenasia.co.kr/article/2026071688824",
           "press": "",
           "date": "2026-07-16"
         },
         {
-          "title": "유시민 발언에 \"사이비·금도 넘어\"...정청래는 \"노코멘트\"",
-          "link": "https://www.ytn.co.kr/_ln/0101_202607162311220594",
+          "title": "김지유, \"클럽서 만난 매튜, 폴란드 간다고 해서 따라 가려고\"…결혼 암...",
+          "link": "https://www.tvreport.co.kr/star/article/1061420/",
           "press": "",
-          "date": "2026-07-16"
+          "date": "2026-07-15"
         }
       ],
       "rank": 8
     },
     {
-      "keyword": "맷 데이비슨",
+      "keyword": "xsmb",
       "traffic": "500+",
-      "blogTotal": 2888,
-      "newsTotal": 8563,
-      "recentToday": 14,
-      "recentWeek": 39,
+      "blogTotal": 106,
+      "newsTotal": 1,
+      "recentToday": 0,
+      "recentWeek": 0,
       "topBlogs": [
         {
-          "title": "NC 다이노스 맷 데이비슨 두산 베어스 플렉센 방출 교체 결정",
-          "link": "https://blog.naver.com/synabro68/224329154850",
-          "blogger": "또 다른 세상, 또 다른 나",
-          "date": "2026-06-27"
+          "title": "xsmb 베트남 복권 당첨 번호, 행운의 숫자를 잡는 비법 공개",
+          "link": "https://blog.naver.com/30style_lab/224302640120",
+          "blogger": "서른의 쇼핑일기",
+          "date": "2026-06-01"
         },
         {
-          "title": "\"NC 방출 후 재취업?\" 키움 히어로즈, 맷 데이비슨 영입 검토한...",
-          "link": "https://blog.naver.com/chaesports/224329161609",
-          "blogger": "채씨가 전하는 스포츠⚡",
-          "date": "2026-06-27"
+          "title": "XSMB 베트남 북부 복권 완전 가이드｜구매 방법·당첨 꿀팁...",
+          "link": "https://blog.naver.com/00yong/224001830802",
+          "blogger": "정보이슈맨 :) 이슈를 그리다.",
+          "date": "2025-09-09"
         },
         {
-          "title": "NC, 홈런왕 맷 데이비슨과 결별… 새 외국인 타자로 거론되는...",
-          "link": "https://blog.naver.com/kjae1214/224328352753",
-          "blogger": "엘라스티걸야구이야기",
-          "date": "2026-06-26"
+          "title": "XSMB 4/10: 오늘의 로또 결과와 분석",
+          "link": "https://blog.naver.com/dbghwns2/224031152852",
+          "blogger": "참소식 블로그",
+          "date": "2025-10-04"
         },
         {
-          "title": "[KBO] 홈런왕에서 눈물의 작별까지...맷 데이비슨이 NC...",
-          "link": "https://blog.naver.com/kshabsolute1/224328663777",
-          "blogger": "언덕위의작은집 이야기 (로비의 스포츠 칼럼)",
-          "date": "2026-06-27"
+          "title": "“xsmb thu 6: 주간 결과 및 분석”",
+          "link": "https://turkeypapa.tistory.com/556",
+          "blogger": "turkeypapa",
+          "date": "2026-05-30"
         },
         {
-          "title": "좋은 성적처럼 보였지만 아니었다! 맷 데이비슨 방출의 진짜 비밀",
-          "link": "https://blog.naver.com/ddaassrr/224328724024",
-          "blogger": "야구 읽어주는 사람",
-          "date": "2026-06-27"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "'무려 5억' 韓 1순위 좌완, 1G 던지고 팔꿈치 부상→105일 만에 등판 어...",
-          "link": "https://www.mydaily.co.kr/page/view/2026071717023545724",
-          "press": "",
-          "date": "2026-07-17"
-        },
-        {
-          "title": "'NC→키움' 유니폼 바꿔도 데이비슨은 데이비슨…이적 후 첫 홈런 폭발...",
-          "link": "http://www.osen.co.kr/article/G1112841409",
-          "press": "",
-          "date": "2026-07-17"
-        },
-        {
-          "title": "데이비슨, 키움 이적 후 첫 홈런포…한화 왕옌청 상대 스리런",
-          "link": "https://www.newsis.com/view/NISX20260717_0003713385",
-          "press": "",
-          "date": "2026-07-17"
-        },
-        {
-          "title": "'창원→고척' 韓 90홈런 거포 방출생, 히어로즈 유니폼 입고 첫 홈런 폭...",
-          "link": "https://www.mydaily.co.kr/page/view/2026071718401873768",
-          "press": "",
-          "date": "2026-07-17"
-        },
-        {
-          "title": "외인 타자 둘이 7안타 6타점 합작 '펄펄'…설종진 감독 \"코칭스태프와 ...",
-          "link": "http://www.osen.co.kr/article/G1112841344",
-          "press": "",
-          "date": "2026-07-17"
-        }
-      ],
-      "rank": 9
-    },
-    {
-      "keyword": "국군간호사관학교",
-      "traffic": "100+",
-      "blogTotal": 10185,
-      "newsTotal": 10651,
-      "recentToday": 10,
-      "recentWeek": 96,
-      "topBlogs": [
-        {
-          "title": "'중경외시 건동홍 수준?' 국군간호사관학교 정시 백분위 입결 정리",
-          "link": "https://blog.naver.com/pso164/224343958131",
-          "blogger": "과학커뮤니케이터 박종현",
-          "date": "2026-07-15"
-        },
-        {
-          "title": "2027학년도 국군간호사관학교 생도선발 기본계획 공개...",
-          "link": "https://blog.naver.com/jimini2277/224191086801",
-          "blogger": "지미니's Edu 정보 공간",
-          "date": "2026-02-22"
-        },
-        {
-          "title": "2026 국군간호사관학교 입시 시험 일정 입결 등급",
-          "link": "https://blog.naver.com/zyxwvut-/224223641416",
-          "blogger": "지식풀월드",
-          "date": "2026-03-20"
-        },
-        {
-          "title": "국군간호사관학교 완벽 가이드! (간호장교 -> 보건교사 까지)",
-          "link": "https://blog.naver.com/ryanbucketlist/224304782353",
-          "blogger": "연세사관영어",
-          "date": "2026-06-03"
-        },
-        {
-          "title": "국군간호사관학교 / 2027학년도 입학자격 & 입학 결격사유",
-          "link": "https://blog.naver.com/bosungabi/224299856153",
-          "blogger": "수험서의 명가 씨마스",
+          "title": "XSMB Minh Ngọc Thứ 3 – Kết Quả Xổ Số Từ...",
+          "link": "https://blog.minjae.kr/6803",
+          "blogger": "너의 오른쪽 안구에선 난초향이나 :: 너의 오른쪽 안구에선 난초향이나",
           "date": "2026-05-29"
         }
       ],
       "topNews": [
         {
-          "title": "‘자운대’ 대학교 아닙니다…부대 별칭 ‘○○대’도 일본 제국주의 잔...",
-          "link": "https://www.hani.co.kr/arti/politics/defense/1268732.html",
+          "title": "'슈스케5' 출신 윤태경 싱글 '코드안의 너' 발매",
+          "link": "http://news20.busan.com/controller/newsController.jsp?newsId=20150201000030",
           "press": "",
-          "date": "2026-07-17"
+          "date": "2015-02-01"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "keyword": "bangladesh vs zimbabwe",
+      "traffic": "200+",
+      "blogTotal": 92,
+      "newsTotal": 3,
+      "recentToday": 0,
+      "recentWeek": 0,
+      "topBlogs": [
+        {
+          "title": "4월19일-4월20일 주말 키워드 검색량 리스트",
+          "link": "https://blog.naver.com/zeenty/223841300412",
+          "blogger": "지니의 아카이브",
+          "date": "2025-04-21"
         },
         {
-          "title": "[시선집중] 진성준 “통합 국군사관학교, 12·3 내란 육사 보복? 보복이...",
-          "link": "https://n.news.naver.com/mnews/article/214/0001512272?sid=100",
-          "press": "",
-          "date": "2026-07-17"
+          "title": "4월21일-4월25일 주간 키워드 검색량 리스트",
+          "link": "https://blog.naver.com/zeenty/223848431059",
+          "blogger": "지니의 아카이브",
+          "date": "2025-04-28"
         },
         {
-          "title": "국군사관학교 대전 창설 확정…허태정 시장 \"국방교육·AI 융합 허브로 ...",
-          "link": "http://www.newsprime.co.kr/news/article.html?no=740660",
-          "press": "",
-          "date": "2026-07-17"
+          "title": "유벤투스 vs 도르트문트, 4-4 대난투극 실화냐?!",
+          "link": "https://blog.naver.com/worldsportscontent/224011899087",
+          "blogger": "지금 세계 스포츠",
+          "date": "2025-09-17"
         },
         {
-          "title": "육해공사 합쳐 대전 자운대로…4년제 ‘국군사관학교’ 세운다",
-          "link": "https://www.khan.co.kr/article/202607162120005",
-          "press": "",
-          "date": "2026-07-16"
+          "title": "9월15일-9월19일 주간 키워드 검색량 리스트",
+          "link": "https://blog.naver.com/zeenty/224017300985",
+          "blogger": "지니의 아카이브",
+          "date": "2025-09-22"
         },
         {
-          "title": "“통합 사관학교 온다” 대전 기대감…경남·충북은 해사·공사 이전 우...",
-          "link": "https://www.khan.co.kr/article/202607162104015",
+          "title": "9월1일-9월5일 주간 키워드 검색량 리스트",
+          "link": "https://blog.naver.com/zeenty/224000943237",
+          "blogger": "지니의 아카이브",
+          "date": "2025-09-09"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "EPA OUTLOOK",
+          "link": "https://n.news.naver.com/mnews/article/091/0006694796?sid=104",
           "press": "",
-          "date": "2026-07-16"
+          "date": "2018-08-03"
+        },
+        {
+          "title": "EPA OUTLOOK",
+          "link": "https://n.news.naver.com/mnews/article/091/0003947802?sid=104",
+          "press": "",
+          "date": "2013-08-13"
+        },
+        {
+          "title": "EPA OUTLOOK",
+          "link": "https://n.news.naver.com/mnews/article/091/0002000417?sid=108",
+          "press": "",
+          "date": "2008-04-08"
         }
       ],
       "rank": 10
