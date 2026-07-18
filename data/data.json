@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-18T17:55:26.138Z",
+  "updatedAt": "2026-07-18T19:01:16.645Z",
   "source": "live",
   "keywords": [
     {
       "keyword": "토트넘",
       "traffic": "100+",
       "blogTotal": 568028,
-      "newsTotal": 672547,
-      "recentToday": 92,
+      "newsTotal": 672549,
+      "recentToday": 90,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -43,6 +43,18 @@
       ],
       "topNews": [
         {
+          "title": "'결국, 마이클 캐릭과 손잡는다' 좀처럼 안 팔리는 맨유 성골 마커스 래...",
+          "link": "https://www.sportschosun.com/football/2026-07-19/202607190100111140007044",
+          "press": "",
+          "date": "2026-07-18"
+        },
+        {
+          "title": "'237일 무득점'에도 PK 양보, 손흥민 이유 밝혔다...\"부앙가가 골 넣으면...",
+          "link": "http://www.osen.co.kr/article/G1112841872",
+          "press": "",
+          "date": "2026-07-18"
+        },
+        {
           "title": "'부디 손흥민처럼 자라다오' 토트넘, '차세대 윙어' 찍은 사비우 영입 초...",
           "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=690805",
           "press": "",
@@ -59,99 +71,14 @@
           "link": "https://www.sportschosun.com/football/2026-07-19/202607190100111030007037",
           "press": "",
           "date": "2026-07-18"
-        },
-        {
-          "title": "'토트넘 충성심'은 손흥민급이네...\"유벤투스 관심에도 잔류 선호 히샬...",
-          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=690803",
-          "press": "",
-          "date": "2026-07-18"
-        },
-        {
-          "title": "BTS ‘아리랑’, 英 올해 가장 성공한 앨범 중 하나로 꼽혀",
-          "link": "http://enews.imbc.com/News/RetrieveNewsInfo/511917",
-          "press": "",
-          "date": "2026-07-18"
         }
       ],
       "rank": 1
     },
     {
-      "keyword": "일베",
-      "traffic": "200+",
-      "blogTotal": 105184,
-      "newsTotal": 54534,
-      "recentToday": 51,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "조국 또다시 리센느 원이 '무섭노' 언급, 20대 사용하면 일베...",
-          "link": "https://blog.naver.com/inos2002/224338067841",
-          "blogger": "양평 부동산 스토리",
-          "date": "2026-07-06"
-        },
-        {
-          "title": "말끝에 노 붙이면 일베일까? 무섭노 뜻 한 번에 정리",
-          "link": "https://blog.naver.com/tjrkfka87/224349980886",
-          "blogger": "세딸과함께 행복을 만드는 일상",
-          "date": "2026-07-18"
-        },
-        {
-          "title": "일베 뜻 무섭노 일베일까? 오해하기 쉬운 표현 총정리",
-          "link": "https://blog.naver.com/fds6051/224341273826",
-          "blogger": "옥냥의 육아 한스푼",
-          "date": "2026-07-09"
-        },
-        {
-          "title": "\"드디어 일베 폐쇄되나\"…MB정권 시절 급성장한 혐오 커뮤니티...",
-          "link": "https://blog.naver.com/theenews/224294931596",
-          "blogger": "더e뉴스",
-          "date": "2026-05-24"
-        },
-        {
-          "title": "원이 무섭노 한마디가 불러온 폭풍, '일베 감별법' 논란 총정리",
-          "link": "https://blog.naver.com/jimini2277/224344945729",
-          "blogger": "지미니's Edu 정보 공간",
-          "date": "2026-07-13"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "리센느, 악플러 단죄 나선다 \"신고 사이트 오픈\"...원이 '무섭노' 사태 ...",
-          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=829185",
-          "press": "",
-          "date": "2026-07-18"
-        },
-        {
-          "title": "리센느 사투리, '일베 몰이' 부추긴 언론",
-          "link": "https://www.mediatoday.co.kr/news/articleView.html?idxno=335787",
-          "press": "",
-          "date": "2026-07-18"
-        },
-        {
-          "title": "[편집장의 편지] '성역'과 '입틀막법' 시대, '발언의 자유'를 생각한다",
-          "link": "https://monthly.chosun.com/news/articleView.html?idxno=70768",
-          "press": "",
-          "date": "2026-07-18"
-        },
-        {
-          "title": "리센느가 알린 거제, 발로 뛰어 응답한 경남신문 기자 \"지역 살리는 건...",
-          "link": "https://www.mediatoday.co.kr/news/articleView.html?idxno=335778",
-          "press": "",
-          "date": "2026-07-18"
-        },
-        {
-          "title": "[토요칼럼] 영원한 언더독은 없다",
-          "link": "https://www.hankyung.com/article/2026071712171",
-          "press": "",
-          "date": "2026-07-17"
-        }
-      ],
-      "rank": 2
-    },
-    {
       "keyword": "김소영",
       "traffic": "100+",
-      "blogTotal": 113645,
+      "blogTotal": 113647,
       "newsTotal": 137392,
       "recentToday": 34,
       "recentWeek": 100,
@@ -219,15 +146,88 @@
           "date": "2026-07-18"
         }
       ],
+      "rank": 2
+    },
+    {
+      "keyword": "정은경",
+      "traffic": "200+",
+      "blogTotal": 69615,
+      "newsTotal": 163371,
+      "recentToday": 33,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "정은경 장관 교체설, 속도의 정치와 숙의의 정치의 \"충돌\"",
+          "link": "https://blog.naver.com/426ms/224313870331",
+          "blogger": "글의지도-깊이읽기",
+          "date": "2026-06-12"
+        },
+        {
+          "title": "정은경 \"청년 소득보장, 내년 시범사업.. 기초연금은...",
+          "link": "https://blog.naver.com/allthereviews00/224350353167",
+          "blogger": "올더리뷰",
+          "date": "2026-07-18"
+        },
+        {
+          "title": "기초연금 70% 기준 바뀌나…정은경 \"중위소득 기준으로 변경...",
+          "link": "https://blog.naver.com/naeil16/224348790447",
+          "blogger": "부자아빠",
+          "date": "2026-07-16"
+        },
+        {
+          "title": "'노인 용돈' 전락한 '기초연금' 수술대 위로 : 정은경 복지부...",
+          "link": "https://blog.naver.com/insight-sj24/224349492517",
+          "blogger": "인생의 길목에서",
+          "date": "2026-07-17"
+        },
+        {
+          "title": "정은경 \"중위소득으로 변경 검토\" 공식 발표와 이 대통령 지시...",
+          "link": "https://blog.naver.com/timing_2000/224349101684",
+          "blogger": "일상의 결 (Living & Life)",
+          "date": "2026-07-17"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "기초연금 ‘노인 70%’ 고정 기준 손본다…저소득층 더 주는 ‘하후상박...",
+          "link": "https://www.sedaily.com/article/20068969?ref=naver",
+          "press": "",
+          "date": "2026-07-18"
+        },
+        {
+          "title": "장애인 사회참여 지원, '돌봄'에서 '참여'로",
+          "link": "http://www.rightknow.co.kr/news/articleView.html?idxno=34439",
+          "press": "",
+          "date": "2026-07-18"
+        },
+        {
+          "title": "정은경 장관 “청년 소득 보장, 내년 시범사업 목표”",
+          "link": "https://www.segye.com/newsView/20260717508931?OutUrl=naver",
+          "press": "",
+          "date": "2026-07-18"
+        },
+        {
+          "title": "캐스팅 작정했네…상상 초월 소재에 '호화 출연진' 대거 모신 한국 드라...",
+          "link": "https://www.wikitree.co.kr/articles/1146275",
+          "press": "",
+          "date": "2026-07-17"
+        },
+        {
+          "title": "올 12월 전국 비대면진료 예고…예외지역 최소화",
+          "link": "https://www.dailymedi.com/news/news_view.php?wr_id=938525",
+          "press": "",
+          "date": "2026-07-17"
+        }
+      ],
       "rank": 3
     },
     {
       "keyword": "멸망전",
-      "traffic": "100+",
-      "blogTotal": 20450,
+      "traffic": "200+",
+      "blogTotal": 20451,
       "newsTotal": 4652,
       "recentToday": 13,
-      "recentWeek": 69,
+      "recentWeek": 70,
       "topBlogs": [
         {
           "title": "[K리그] 대전과 전북의 '멸망전'...설마가 역시나로",
@@ -339,8 +339,8 @@
     {
       "keyword": "폐지",
       "traffic": "1000+",
-      "blogTotal": 3202395,
-      "newsTotal": 2498043,
+      "blogTotal": 3202428,
+      "newsTotal": 2498044,
       "recentToday": 0,
       "recentWeek": 100,
       "topBlogs": [
@@ -377,6 +377,12 @@
       ],
       "topNews": [
         {
+          "title": "여당 지지층도 '보완수사권 폐지' 우려?… 보수언론, \"당권주자들 달라...",
+          "link": "https://www.mediatoday.co.kr/news/articleView.html?idxno=335857",
+          "press": "",
+          "date": "2026-07-18"
+        },
+        {
           "title": "‘제2의 장윤기’ 막는다...‘친족 증거인멸 면책 폐지’ 추진",
           "link": "https://www.womennews.co.kr/news/articleView.html?idxno=280059",
           "press": "",
@@ -399,12 +405,6 @@
           "link": "https://www.sedaily.com/article/20068353?ref=naver",
           "press": "",
           "date": "2026-07-18"
-        },
-        {
-          "title": "한동훈 “민주당 160명 누구든 올라와라”… 공개토론 문 열어뒀다",
-          "link": "https://www.jibs.co.kr/news/articles/articlesDetail/63597?feed=na",
-          "press": "",
-          "date": "2026-07-18"
         }
       ],
       "rank": 6
@@ -419,6 +419,18 @@
       "topBlogs": [],
       "topNews": [],
       "rank": 7
+    },
+    {
+      "keyword": "일베",
+      "traffic": "200+",
+      "blogTotal": 0,
+      "newsTotal": 0,
+      "recentToday": 0,
+      "recentWeek": 0,
+      "topBlogs": [],
+      "topNews": [],
+      "error": "HTTP 429 https://openapi.naver.com/v1/search/news.json?query=%EC%9D%BC%EB%B2%A0&display=5&sort=date",
+      "rank": 8
     },
     {
       "keyword": "로트바이스 오버하우젠 대 도르트문트",
@@ -485,7 +497,7 @@
           "date": "2009-09-30"
         }
       ],
-      "rank": 8
+      "rank": 9
     },
     {
       "keyword": "чемпионат мира по футболу fifa –2026",
@@ -526,17 +538,6 @@
           "date": "2015-10-06"
         }
       ],
-      "topNews": [],
-      "rank": 9
-    },
-    {
-      "keyword": "แมนยู พบ เร็กซ์แฮม",
-      "traffic": "500+",
-      "blogTotal": 0,
-      "newsTotal": 0,
-      "recentToday": 0,
-      "recentWeek": 0,
-      "topBlogs": [],
       "topNews": [],
       "rank": 10
     }
