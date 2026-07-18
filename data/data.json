@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-18T16:55:40.485Z",
+  "updatedAt": "2026-07-18T17:55:26.138Z",
   "source": "live",
   "keywords": [
     {
       "keyword": "토트넘",
       "traffic": "100+",
-      "blogTotal": 568032,
-      "newsTotal": 672546,
-      "recentToday": 93,
+      "blogTotal": 568028,
+      "newsTotal": 672547,
+      "recentToday": 92,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -43,6 +43,12 @@
       ],
       "topNews": [
         {
+          "title": "'부디 손흥민처럼 자라다오' 토트넘, '차세대 윙어' 찍은 사비우 영입 초...",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=690805",
+          "press": "",
+          "date": "2026-07-18"
+        },
+        {
           "title": "韓 축구 초대형 호재! '리옹 이적 동의' 배준호, 주전 경쟁 청신호 켜졌...",
           "link": "https://www.goal.com/kr/뉴스/a/bltcad82bff984d79ed",
           "press": "",
@@ -65,12 +71,6 @@
           "link": "http://enews.imbc.com/News/RetrieveNewsInfo/511917",
           "press": "",
           "date": "2026-07-18"
-        },
-        {
-          "title": "이럴 수가! '역대급 반전' 가능성 등장...'골칫거리' 맨체스터 유나이티...",
-          "link": "https://www.mydaily.co.kr/page/view/2026071818555417888",
-          "press": "",
-          "date": "2026-07-18"
         }
       ],
       "rank": 1
@@ -78,7 +78,7 @@
     {
       "keyword": "일베",
       "traffic": "200+",
-      "blogTotal": 105183,
+      "blogTotal": 105184,
       "newsTotal": 54534,
       "recentToday": 51,
       "recentWeek": 100,
@@ -147,6 +147,79 @@
         }
       ],
       "rank": 2
+    },
+    {
+      "keyword": "김소영",
+      "traffic": "100+",
+      "blogTotal": 113645,
+      "newsTotal": 137392,
+      "recentToday": 34,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "모텔 약물 살인 김소영 근황",
+          "link": "https://blog.naver.com/bluebelldaum/224349780301",
+          "blogger": "달팽이처럼 여유롭게",
+          "date": "2026-07-17"
+        },
+        {
+          "title": "강북 모텔 약물 살인 김소영 손해배상 소송 자필 답변서 논란과...",
+          "link": "https://blog.naver.com/kkk88_/224347901147",
+          "blogger": "생활해택노트",
+          "date": "2026-07-15"
+        },
+        {
+          "title": "약물 연쇄살인 김소영 피해자 유족 손해배상 감액 요구 및...",
+          "link": "https://blog.naver.com/gais38/224347117054",
+          "blogger": "보고 가이소",
+          "date": "2026-07-15"
+        },
+        {
+          "title": "강북 모텔 연쇄살인 사건 김소영, 약물 제공 이유와 민사 소송...",
+          "link": "https://blog.naver.com/musicbob88/224346993303",
+          "blogger": "자산 증식에 관심이 생겼습니다",
+          "date": "2026-07-15"
+        },
+        {
+          "title": "강북모텔연쇄살인 피의자 김소영 얼굴 신상공개 사건 정리",
+          "link": "https://blog.naver.com/chhyks1/224210546503",
+          "blogger": "방송•영화 리뷰어 라온",
+          "date": "2026-03-09"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "오상진, 둘째 子에 \"♥김소영 아침에 일어난 얼굴 닮았다\"('띵그리TV')",
+          "link": "http://www.osen.co.kr/article/G1112842218",
+          "press": "",
+          "date": "2026-07-18"
+        },
+        {
+          "title": "김소영♥오상진, 아들 출산 후 첫 가족 사진 \"백일 기념\"('띵그리TV')[순...",
+          "link": "http://www.osen.co.kr/article/G1112842212",
+          "press": "",
+          "date": "2026-07-18"
+        },
+        {
+          "title": "'오상진♥' 김소영, 100일 子에 \"진정한 효자로 임명합니다\"('띵그리TV')...",
+          "link": "http://www.osen.co.kr/article/G1112842211",
+          "press": "",
+          "date": "2026-07-18"
+        },
+        {
+          "title": "김소영♥오상진, 子 100일 맞아 네 식구 첫 가족사진..\"진정한 효자로 임...",
+          "link": "https://www.sportschosun.com/entertainment/2026-07-18/202607180100110640007009",
+          "press": "",
+          "date": "2026-07-18"
+        },
+        {
+          "title": "오상진♥김소영, 엄마 쏙 빼닮은 '둘째 子' 100일 근황→벌써 '완성형 미...",
+          "link": "https://www.tvreport.co.kr/breaking/article/1062021/",
+          "press": "",
+          "date": "2026-07-18"
+        }
+      ],
+      "rank": 3
     },
     {
       "keyword": "멸망전",
@@ -219,14 +292,56 @@
           "date": "2026-07-16"
         }
       ],
-      "rank": 3
+      "rank": 4
+    },
+    {
+      "keyword": "man utd đấu với wrexham",
+      "traffic": "500+",
+      "blogTotal": 34,
+      "newsTotal": 0,
+      "recentToday": 0,
+      "recentWeek": 0,
+      "topBlogs": [
+        {
+          "title": "대 메츠,man utd đấu với west ham,inter miami vs cincinnati",
+          "link": "https://blog.naver.com/junhoda1004/223948610229",
+          "blogger": "세상 돌아가는 이야기",
+          "date": "2025-07-27"
+        },
+        {
+          "title": "Solskjaer: 'Tôi đã phải đại tu Man Utd'(솔샤르: 나는...",
+          "link": "https://blog.naver.com/pcipci/221853447598",
+          "blogger": "felixfelix",
+          "date": "2020-03-14"
+        },
+        {
+          "title": "Man Utd tính đổi Pogba lấy De Ligt(맨유가 포그바를...",
+          "link": "https://blog.naver.com/pcipci/221892591000",
+          "blogger": "felixfelix",
+          "date": "2020-04-05"
+        },
+        {
+          "title": "8월18일-8월22일 주간 키워드 리스트",
+          "link": "https://blog.naver.com/zeenty/223982401839",
+          "blogger": "지니의 아카이브",
+          "date": "2025-08-25"
+        },
+        {
+          "title": "11월1일-11월2일 주말간 키워드 검색량 리스트",
+          "link": "https://blog.naver.com/zeenty/224063313796",
+          "blogger": "지니의 아카이브",
+          "date": "2025-11-03"
+        }
+      ],
+      "topNews": [],
+      "rank": 5
     },
     {
       "keyword": "폐지",
       "traffic": "1000+",
-      "blogTotal": 3202374,
+      "blogTotal": 3202395,
       "newsTotal": 2498043,
-      "recentToday": 9,
+      "recentToday": 0,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -292,49 +407,7 @@
           "date": "2026-07-18"
         }
       ],
-      "rank": 4
-    },
-    {
-      "keyword": "man utd đấu với wrexham",
-      "traffic": "200+",
-      "blogTotal": 34,
-      "newsTotal": 0,
-      "recentToday": 0,
-      "recentWeek": 0,
-      "topBlogs": [
-        {
-          "title": "대 메츠,man utd đấu với west ham,inter miami vs cincinnati",
-          "link": "https://blog.naver.com/junhoda1004/223948610229",
-          "blogger": "세상 돌아가는 이야기",
-          "date": "2025-07-27"
-        },
-        {
-          "title": "Solskjaer: 'Tôi đã phải đại tu Man Utd'(솔샤르: 나는...",
-          "link": "https://blog.naver.com/pcipci/221853447598",
-          "blogger": "felixfelix",
-          "date": "2020-03-14"
-        },
-        {
-          "title": "Man Utd tính đổi Pogba lấy De Ligt(맨유가 포그바를...",
-          "link": "https://blog.naver.com/pcipci/221892591000",
-          "blogger": "felixfelix",
-          "date": "2020-04-05"
-        },
-        {
-          "title": "8월18일-8월22일 주간 키워드 리스트",
-          "link": "https://blog.naver.com/zeenty/223982401839",
-          "blogger": "지니의 아카이브",
-          "date": "2025-08-25"
-        },
-        {
-          "title": "11월1일-11월2일 주말간 키워드 검색량 리스트",
-          "link": "https://blog.naver.com/zeenty/224063313796",
-          "blogger": "지니의 아카이브",
-          "date": "2025-11-03"
-        }
-      ],
-      "topNews": [],
-      "rank": 5
+      "rank": 6
     },
     {
       "keyword": "2026 國際足總世界盃",
@@ -345,7 +418,74 @@
       "recentWeek": 0,
       "topBlogs": [],
       "topNews": [],
-      "rank": 6
+      "rank": 7
+    },
+    {
+      "keyword": "로트바이스 오버하우젠 대 도르트문트",
+      "traffic": "1000+",
+      "blogTotal": 416,
+      "newsTotal": 4,
+      "recentToday": 0,
+      "recentWeek": 0,
+      "topBlogs": [
+        {
+          "title": "[공식 발표] 도르트문트, 에미레이츠 컵서 아스날과 프리시즌...",
+          "link": "https://blog.naver.com/bvb_official/224329045987",
+          "blogger": "보루시아 도르트문트",
+          "date": "2026-06-27"
+        },
+        {
+          "title": "[매치 리포트] '프리시즌 6승 1무' 도르트문트, 마지막...",
+          "link": "https://blog.naver.com/bvb_official/223720000373",
+          "blogger": "보루시아 도르트문트",
+          "date": "2023-08-10"
+        },
+        {
+          "title": "분데스리가 역사상 최악의 사건 : 1971년의 승부조작 스캔들",
+          "link": "https://blog.naver.com/mgomez33/224266059375",
+          "blogger": "Kaiser's Fußball Arena",
+          "date": "2026-04-26"
+        },
+        {
+          "title": "25-26 5월 1주 주말 해외 중소리그에 소속된 우리나라 선수...",
+          "link": "https://blog.naver.com/songjaedong/224281364256",
+          "blogger": "재동동의 축구 소식지!",
+          "date": "2026-05-11"
+        },
+        {
+          "title": "만프레트 벅스뮐러 (Manfred Burgsmüller)",
+          "link": "https://blog.naver.com/diaspora0709/223134898433",
+          "blogger": "치달의 축구이야기",
+          "date": "2023-06-21"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "[김현민의 푸스발 리베로] '1위 등극' 라이프치히, 승격팀 역사 새로 쓰...",
+          "link": "http://www.goal.com/kr/match/%EB%B0%94%EC%9D%B4%EC%97%98-%EB%A0%88%EB%B2%84%EC%BF%A0%EC%A0%A0-vs-rb-%EB%9D%BC%EC%9D%B4%ED%94%84%EC%B9%98%ED%9E%88/2254997/report",
+          "press": "",
+          "date": "2016-11-18"
+        },
+        {
+          "title": "[Goal.com] 레버쿠젠, 도르트문트의 독주 저지할까?",
+          "link": "http://www.goal.com/kr/match/48129/leverkusen-vs-dortmund/preview",
+          "press": "",
+          "date": "2011-01-13"
+        },
+        {
+          "title": "'조기 복귀' 발락… 레버쿠젠에 우승 안길까?",
+          "link": "http://www.goal.com/kr/news/1805/germany/2011/01/07/2293650/%ec%a1%b0%ea%b8%b0-%eb%b3%b5%ea%b7%80-%eb%b0%9c%eb%9d%bd-%eb%a0%88%eb%b2%84%ec%bf%a0%ec%a0%a0%ec%97%90-%ec%9a%b0%ec%8a%b9-%ec%95%88%ea%b8%b8%ea%b9%8c",
+          "press": "",
+          "date": "2011-01-07"
+        },
+        {
+          "title": "[GOAL.com] 獨 vs 伊 자존심 대결: 바이에른 vs 유벤투스",
+          "link": "http://www.goal.com/kr/news/1063/hit-goalcom/2009/09/30/1531644/cl-2r-%EC%B5%9C%EA%B3%A0%EC%9D%98-%EB%B9%85%EB%A7%A4%EC%B9%98-%EB%B0%94%EC%9D%B4%EC%97%90%EB%A5%B8-vs-%EC%9C%A0%EB%B2%A4%ED%88%AC%EC%8A%A4",
+          "press": "",
+          "date": "2009-09-30"
+        }
+      ],
+      "rank": 8
     },
     {
       "keyword": "чемпионат мира по футболу fifa –2026",
@@ -387,19 +527,7 @@
         }
       ],
       "topNews": [],
-      "rank": 7
-    },
-    {
-      "keyword": "김소영",
-      "traffic": "100+",
-      "blogTotal": 0,
-      "newsTotal": 0,
-      "recentToday": 0,
-      "recentWeek": 0,
-      "topBlogs": [],
-      "topNews": [],
-      "error": "HTTP 429 https://openapi.naver.com/v1/search/blog.json?query=%EA%B9%80%EC%86%8C%EC%98%81&display=5&sort=sim",
-      "rank": 8
+      "rank": 9
     },
     {
       "keyword": "แมนยู พบ เร็กซ์แฮม",
@@ -410,79 +538,6 @@
       "recentWeek": 0,
       "topBlogs": [],
       "topNews": [],
-      "rank": 9
-    },
-    {
-      "keyword": "물고기",
-      "traffic": "100+",
-      "blogTotal": 6020099,
-      "newsTotal": 467941,
-      "recentToday": 0,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "화성 무한리필 숙성회 물고기자리 화성점",
-          "link": "https://blog.naver.com/raintaro/224289092991",
-          "blogger": "모세스 (MOSES) 의 음악 여행",
-          "date": "2026-05-18"
-        },
-        {
-          "title": "영종도카페 아이랑 가볼만한곳 작은연못 물고기 동물체험 후기",
-          "link": "https://blog.naver.com/happyaiba/224339264218",
-          "blogger": "메론소다 플레이그라운드",
-          "date": "2026-07-07"
-        },
-        {
-          "title": "잠실새내 맛집 회식 남해물고기 사시미 오마카세 점심 횟집 후기",
-          "link": "https://blog.naver.com/duatsong/224343770791",
-          "blogger": "Nana, Hello Travler",
-          "date": "2026-07-12"
-        },
-        {
-          "title": "제주 동쪽 숙소 조용히 쉬기 좋았던 물고기나무 스테이하우스...",
-          "link": "https://blog.naver.com/jinique_/224332308662",
-          "blogger": "나의 계절, 모든 순간이 여행",
-          "date": "2026-06-30"
-        },
-        {
-          "title": "구로디지털단지 무한리필 [ 물고기자리 ] 숙성회 맛집 feat....",
-          "link": "https://blog.naver.com/white_nine/224323857432",
-          "blogger": "백구한끼",
-          "date": "2026-07-08"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "오늘의 별자리 운세 7월 19일 일요일",
-          "link": "https://www.vegannews.co.kr/news/article.html?no=384135",
-          "press": "",
-          "date": "2026-07-18"
-        },
-        {
-          "title": "[오늘의 운세] 7월 19일 일요일 별자리별 총운…빠른 답보다 오래 갈 계...",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16138796",
-          "press": "",
-          "date": "2026-07-18"
-        },
-        {
-          "title": "오늘의 운세-띠별(7월19일)",
-          "link": "http://www.kjdaily.com/article.php?aid=1784386801682574227",
-          "press": "",
-          "date": "2026-07-18"
-        },
-        {
-          "title": "오늘의 운세 띠별 운세 7월19일",
-          "link": "https://www.bntnews.co.kr/article/view/bnt202607180132",
-          "press": "",
-          "date": "2026-07-18"
-        },
-        {
-          "title": "7월19일 오늘의 운세-띠별·별자리 총정리",
-          "link": "https://www.namdonews.com/news/articleView.html?idxno=917039",
-          "press": "",
-          "date": "2026-07-18"
-        }
-      ],
       "rank": 10
     }
   ]
