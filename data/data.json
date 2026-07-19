@@ -1,80 +1,7 @@
 {
-  "updatedAt": "2026-07-19T16:56:38.742Z",
+  "updatedAt": "2026-07-19T17:57:43.323Z",
   "source": "live",
   "keywords": [
-    {
-      "keyword": "현대건설",
-      "traffic": "200+",
-      "blogTotal": 616112,
-      "newsTotal": 799720,
-      "recentToday": 96,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "네옴시티 계약이 무너졌는데 현대건설은 왜 손실이 없었을까",
-          "link": "https://blog.naver.com/yerinang/224349208154",
-          "blogger": "예린의 세상",
-          "date": "2026-07-17"
-        },
-        {
-          "title": "현대건설 제로금리/리픽싱(0%) 전환사채(CB) 발행 흥행! 대형...",
-          "link": "https://blog.naver.com/sjay34/224344542247",
-          "blogger": "Becoming a Millionaire",
-          "date": "2026-07-13"
-        },
-        {
-          "title": "현대건설, 미래 교통·물류 인프라 핵심기술 확보 나선다",
-          "link": "https://blog.naver.com/hdec_official/224344895850",
-          "blogger": "현대건설 공식 블로그",
-          "date": "2026-07-13"
-        },
-        {
-          "title": "현대건설 GTX-C 본격 착공, 수혜지역은 어디",
-          "link": "https://blog.naver.com/bluebelldaum/224271277546",
-          "blogger": "달팽이처럼 여유롭게",
-          "date": "2026-05-01"
-        },
-        {
-          "title": "현대건설 주가, 철근누락 자백 GTX-A 삼성역 균열 422개 발생",
-          "link": "https://blog.naver.com/dysaghwls/224294599007",
-          "blogger": "경제토대왕 부의 전술",
-          "date": "2026-05-24"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "LG전자, 압구정 재건축 7000여세대에 가전 구독서비스",
-          "link": "https://www.kmib.co.kr/article/view.asp?arcid=1784440453&code=11151400&cp=nv",
-          "press": "",
-          "date": "2026-07-19"
-        },
-        {
-          "title": "“압구정 재건축 단지에 가전 구독 서비스 공급”..LG전자, B2B 가전 구독...",
-          "link": "https://www.dailycar.co.kr/content/news.html?type=view&autoId=62069",
-          "press": "",
-          "date": "2026-07-19"
-        },
-        {
-          "title": "LG, 압구정 재건축 단지에 맞춤형 가전 구독 서비스",
-          "link": "https://www.chosun.com/economy/tech_it/2026/07/20/NFRHAB7FOJGUHBTHW6X2URQ2JQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-          "press": "",
-          "date": "2026-07-19"
-        },
-        {
-          "title": "‘압구정’ 재건축 단지에… LG전자, 구독서비스 공급",
-          "link": "https://www.donga.com/news/Economy/article/all/20260719/134323786/2",
-          "press": "",
-          "date": "2026-07-19"
-        },
-        {
-          "title": "LG전자, 7000가구 압구정 재건축 단지에 '가전 구독' 도입한다",
-          "link": "https://www.apnews.kr/news/articleView.html?idxno=3049862",
-          "press": "",
-          "date": "2026-07-19"
-        }
-      ],
-      "rank": 1
-    },
     {
       "keyword": "김혜수",
       "traffic": "1000+",
@@ -146,14 +73,160 @@
           "date": "2026-07-19"
         }
       ],
+      "rank": 1
+    },
+    {
+      "keyword": "현대건설",
+      "traffic": "500+",
+      "blogTotal": 616111,
+      "newsTotal": 799720,
+      "recentToday": 94,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "네옴시티 계약이 무너졌는데 현대건설은 왜 손실이 없었을까",
+          "link": "https://blog.naver.com/yerinang/224349208154",
+          "blogger": "예린의 세상",
+          "date": "2026-07-17"
+        },
+        {
+          "title": "현대건설 제로금리/리픽싱(0%) 전환사채(CB) 발행 흥행! 대형...",
+          "link": "https://blog.naver.com/sjay34/224344542247",
+          "blogger": "Becoming a Millionaire",
+          "date": "2026-07-13"
+        },
+        {
+          "title": "현대건설, 미래 교통·물류 인프라 핵심기술 확보 나선다",
+          "link": "https://blog.naver.com/hdec_official/224344895850",
+          "blogger": "현대건설 공식 블로그",
+          "date": "2026-07-13"
+        },
+        {
+          "title": "현대건설 GTX-C 본격 착공, 수혜지역은 어디",
+          "link": "https://blog.naver.com/bluebelldaum/224271277546",
+          "blogger": "달팽이처럼 여유롭게",
+          "date": "2026-05-01"
+        },
+        {
+          "title": "현대건설 주가, 철근누락 자백 GTX-A 삼성역 균열 422개 발생",
+          "link": "https://blog.naver.com/dysaghwls/224294599007",
+          "blogger": "경제토대왕 부의 전술",
+          "date": "2026-05-24"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "LG전자, 압구정 재건축 7000여세대에 가전 구독서비스",
+          "link": "https://www.kmib.co.kr/article/view.asp?arcid=1784440453&code=11151400&cp=nv",
+          "press": "",
+          "date": "2026-07-19"
+        },
+        {
+          "title": "“압구정 재건축 단지에 가전 구독 서비스 공급”..LG전자, B2B 가전 구독...",
+          "link": "https://www.dailycar.co.kr/content/news.html?type=view&autoId=62069",
+          "press": "",
+          "date": "2026-07-19"
+        },
+        {
+          "title": "LG, 압구정 재건축 단지에 맞춤형 가전 구독 서비스",
+          "link": "https://www.chosun.com/economy/tech_it/2026/07/20/NFRHAB7FOJGUHBTHW6X2URQ2JQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+          "press": "",
+          "date": "2026-07-19"
+        },
+        {
+          "title": "‘압구정’ 재건축 단지에… LG전자, 구독서비스 공급",
+          "link": "https://www.donga.com/news/Economy/article/all/20260719/134323786/2",
+          "press": "",
+          "date": "2026-07-19"
+        },
+        {
+          "title": "LG전자, 7000가구 압구정 재건축 단지에 '가전 구독' 도입한다",
+          "link": "https://www.apnews.kr/news/articleView.html?idxno=3049862",
+          "press": "",
+          "date": "2026-07-19"
+        }
+      ],
       "rank": 2
     },
     {
+      "keyword": "디플러스기아",
+      "traffic": "1000+",
+      "blogTotal": 8396,
+      "newsTotal": 22772,
+      "recentToday": 81,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "[EWC] 디플러스 기아, 파리에서 북벌 달성! 젠지 꺾고 결승 진출",
+          "link": "https://blog.naver.com/thenam77/224350782133",
+          "blogger": "Miracledoo의 e스포츠 이야기",
+          "date": "2026-07-19"
+        },
+        {
+          "title": "[2026EWC] \"헝그리 기아\" 디플러스 기아, 새로운 EWC...",
+          "link": "https://blog.naver.com/onseramon/224351486271",
+          "blogger": "온새준의 게임스토리",
+          "date": "2026-07-20"
+        },
+        {
+          "title": "롤 EWC 2026 4강 결승 일정 T1 젠지 디플러스 기아 경기",
+          "link": "https://blog.naver.com/ms7215465/224350170547",
+          "blogger": "치코리타의 모험노트",
+          "date": "2026-07-18"
+        },
+        {
+          "title": "디플러스 기아 전 종목 급여 지연, ‘한 달’이 위험한 진짜...",
+          "link": "https://blog.naver.com/ggwwkkdd/224349906402",
+          "blogger": "오늘도 궁금한 아카이브",
+          "date": "2026-07-18"
+        },
+        {
+          "title": "디플러스 기아 EWC 우승! KC... 완승 - 사랑한다!! 디플러스 기아",
+          "link": "https://blog.naver.com/hoya921021/224351459696",
+          "blogger": "호야",
+          "date": "2026-07-20"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "[EWC] '쇼메이커' 허수, \"오늘 이 순간 정말 자랑스럽다\"",
+          "link": "http://www.dailyesports.com/view.php?ud=202607200254345566b91e133c1f_27",
+          "press": "",
+          "date": "2026-07-19"
+        },
+        {
+          "title": "[EWC] 많은 이 놀라게 한 DK, KC 꺾고 우승 차지",
+          "link": "http://www.dailyesports.com/view.php?ud=202607200230355184b91e133c1f_27",
+          "press": "",
+          "date": "2026-07-19"
+        },
+        {
+          "title": "‘동기부여의 힘’ 디플러스 기아, e스포츠 월드컵 제패…한국팀 3회 연...",
+          "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8614413&ref=A",
+          "press": "",
+          "date": "2026-07-19"
+        },
+        {
+          "title": "'최약체'에서 '낭만 드라마'로...디플러스 기아 2026 EWC 우승",
+          "link": "https://www.gameple.co.kr/news/articleView.html?idxno=216081",
+          "press": "",
+          "date": "2026-07-19"
+        },
+        {
+          "title": "'언더독' 디플러스 기아, 국제전 한 풀었다…EWC 2026 우승",
+          "link": "https://www.yna.co.kr/view/AKR20260720000600017?input=1195m",
+          "press": "",
+          "date": "2026-07-19"
+        }
+      ],
+      "rank": 3
+    },
+    {
       "keyword": "변우석",
-      "traffic": "500+",
-      "blogTotal": 154718,
+      "traffic": "1000+",
+      "blogTotal": 154721,
       "newsTotal": 68656,
-      "recentToday": 80,
+      "recentToday": 78,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -219,14 +292,87 @@
           "date": "2026-07-19"
         }
       ],
-      "rank": 3
+      "rank": 4
+    },
+    {
+      "keyword": "ewc",
+      "traffic": "2000+",
+      "blogTotal": 10899,
+      "newsTotal": 6347,
+      "recentToday": 77,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "2026 롤 EWC 일정 LCK 진출팀 대진표 상금 공략",
+          "link": "https://blog.naver.com/ms7215465/224343818694",
+          "blogger": "치코리타의 모험노트",
+          "date": "2026-07-12"
+        },
+        {
+          "title": "2026 EWC 롤 일정 대진표 방식 상금 LCK 진출팀 젠지 한화...",
+          "link": "https://blog.naver.com/yong9260/224343873204",
+          "blogger": "용혁순",
+          "date": "2026-07-12"
+        },
+        {
+          "title": "EWC 2026 롤 일정 대진표 참가팀 관전포인트 총정리",
+          "link": "https://blog.naver.com/fje0978bb/224344559944",
+          "blogger": "정오의게임",
+          "date": "2026-07-13"
+        },
+        {
+          "title": "[2026EWC] \"헝그리 기아\" 디플러스 기아, 새로운 EWC...",
+          "link": "https://blog.naver.com/onseramon/224351486271",
+          "blogger": "온새준의 게임스토리",
+          "date": "2026-07-20"
+        },
+        {
+          "title": "2026 롤 EWC 일정 참가팀 상금 정리 아직도모르면 클릭",
+          "link": "https://blog.naver.com/kdj111111111/224327215847",
+          "blogger": "덕이 블로그",
+          "date": "2026-06-29"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "[EWC] '쇼메이커' 허수, \"오늘 이 순간 정말 자랑스럽다\"",
+          "link": "http://www.dailyesports.com/view.php?ud=202607200254345566b91e133c1f_27",
+          "press": "",
+          "date": "2026-07-19"
+        },
+        {
+          "title": "[EWC] 많은 이 놀라게 한 DK, KC 꺾고 우승 차지",
+          "link": "http://www.dailyesports.com/view.php?ud=202607200230355184b91e133c1f_27",
+          "press": "",
+          "date": "2026-07-19"
+        },
+        {
+          "title": "‘동기부여의 힘’ 디플러스 기아, e스포츠 월드컵 제패…한국팀 3회 연...",
+          "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8614413&ref=A",
+          "press": "",
+          "date": "2026-07-19"
+        },
+        {
+          "title": "'최약체'에서 '낭만 드라마'로...디플러스 기아 2026 EWC 우승",
+          "link": "https://www.gameple.co.kr/news/articleView.html?idxno=216081",
+          "press": "",
+          "date": "2026-07-19"
+        },
+        {
+          "title": "'언더독' 디플러스 기아, 국제전 한 풀었다…EWC 2026 우승",
+          "link": "https://www.yna.co.kr/view/AKR20260720000600017?input=1195m",
+          "press": "",
+          "date": "2026-07-19"
+        }
+      ],
+      "rank": 5
     },
     {
       "keyword": "남주혁",
       "traffic": "200+",
-      "blogTotal": 82446,
+      "blogTotal": 82455,
       "newsTotal": 85442,
-      "recentToday": 61,
+      "recentToday": 53,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -292,12 +438,12 @@
           "date": "2026-07-19"
         }
       ],
-      "rank": 4
+      "rank": 6
     },
     {
       "keyword": "공희용",
       "traffic": "2000+",
-      "blogTotal": 6124,
+      "blogTotal": 6125,
       "newsTotal": 6926,
       "recentToday": 48,
       "recentWeek": 100,
@@ -365,51 +511,51 @@
           "date": "2026-07-19"
         }
       ],
-      "rank": 5
+      "rank": 7
     },
     {
-      "keyword": "쇼메이커",
-      "traffic": "500+",
-      "blogTotal": 6430,
-      "newsTotal": 9462,
-      "recentToday": 31,
-      "recentWeek": 83,
+      "keyword": "담원기아",
+      "traffic": "200+",
+      "blogTotal": 7123,
+      "newsTotal": 16192,
+      "recentToday": 6,
+      "recentWeek": 18,
       "topBlogs": [
         {
-          "title": "역대급 원딜메타? 상체는 3명이야! 쇼메이커 메자이 트페",
-          "link": "https://blog.naver.com/jejecha114/224155126482",
-          "blogger": "체체의 게임별",
-          "date": "2026-01-21"
+          "title": "2026 롤 디플러스 기아 선수단 담원 게이밍 재현 가능성",
+          "link": "https://blog.naver.com/ms7215465/224176440638",
+          "blogger": "치코리타의 모험노트",
+          "date": "2026-02-08"
         },
         {
-          "title": "디플러스 기아(DK) 선수 연봉 2026 총정리 — 쇼메이커는...",
-          "link": "https://blog.naver.com/ggwwkkdd/224278368638",
-          "blogger": "오늘도 궁금한 아카이브",
-          "date": "2026-05-08"
+          "title": "담원기아까지 LPL 격파하고 4강 전원 진출 기원",
+          "link": "https://blog.naver.com/anaffairwoman/224349729966",
+          "blogger": "지식이 얇은 소피스트님의 블로그",
+          "date": "2026-07-17"
         },
         {
-          "title": "2026 디플러스 기아 DK 로스터 쇼메이커만 남은 담원 게이밍",
-          "link": "https://blog.naver.com/yong9260/224109535310",
-          "blogger": "용혁순",
-          "date": "2025-12-14"
+          "title": "담원 기아 선수단 2023 LCK 로스터 정보",
+          "link": "https://blog.naver.com/kdj111111111/222974013050",
+          "blogger": "덕이 블로그",
+          "date": "2023-01-04"
         },
         {
-          "title": "씨맥이 말하는 쇼메이커 스매쉬 2026 디플러스기아...",
-          "link": "https://blog.naver.com/studyevery/224124991359",
-          "blogger": "Stadium",
-          "date": "2025-12-28"
+          "title": "[이벤트] 담원기아 DWG 응원메세지 남기고 선수들 친필...",
+          "link": "https://blog.naver.com/xenicsholic/222967245877",
+          "blogger": "::: 제닉스 공식 네이버 블로그 :::",
+          "date": "2022-12-27"
         },
         {
-          "title": "'쇼메이커' 앞세운 DK의 체급인가, 'DK 킬러' 한진 브리온의...",
-          "link": "https://blog.naver.com/searb/224307732574",
-          "blogger": "게임이슈 읽어주는 남자",
-          "date": "2026-06-06"
+          "title": "LCK 스프링 담원기아 vs 리브샌박 (230219) 직관 후기 at...",
+          "link": "https://blog.naver.com/junjin63/223046468704",
+          "blogger": "위대한 깽램의 인생노트",
+          "date": "2023-03-16"
         }
       ],
       "topNews": [
         {
-          "title": "'언더독' 디플러스 기아, 국제전 한 풀었다…EWC 2026 우승",
-          "link": "https://www.yna.co.kr/view/AKR20260720000600017?input=1195m",
+          "title": "‘동기부여의 힘’ 디플러스 기아, e스포츠 월드컵 제패…한국팀 3회 연...",
+          "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8614413&ref=A",
           "press": "",
           "date": "2026-07-19"
         },
@@ -426,162 +572,16 @@
           "date": "2026-07-19"
         },
         {
-          "title": "[EWC in 파리] 완성된 DK의 서사, 2026 챔피언 등극",
-          "link": "https://www.inven.co.kr/webzine/news/?news=318643",
+          "title": "DK, 2026 EWC LoL 우승... '언더독의 반란' 신화 썼다",
+          "link": "https://www.insight.co.kr/news/563633",
           "press": "",
           "date": "2026-07-19"
         },
         {
-          "title": "[EWC 결승] 디플러스 기아, 압도적인 3:0 스코어로 KC 꺾고 우승(종합)",
-          "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=59418",
+          "title": "‘파리의 기적’ 디플러스 기아, 카르민코프 3-0 꺾고 EWC 우승",
+          "link": "https://www.kukinews.com/article/view/kuk202607200001",
           "press": "",
           "date": "2026-07-19"
-        }
-      ],
-      "rank": 6
-    },
-    {
-      "keyword": "디플러스 기아 임금체불",
-      "traffic": "200+",
-      "blogTotal": 24,
-      "newsTotal": 13,
-      "recentToday": 5,
-      "recentWeek": 20,
-      "topBlogs": [
-        {
-          "title": "위기의 디플러스 기아, 재정위기로 인한 선수진 임금체불 사건...",
-          "link": "https://blog.naver.com/a_tiny_point_of_view/224350653854",
-          "blogger": "작은관점",
-          "date": "2026-07-19"
-        },
-        {
-          "title": "디플러스 기아 충격의 임금체불 및 매각 절차 진행 인정! 선수단...",
-          "link": "https://blog.naver.com/wing2722/224348974494",
-          "blogger": "테크모터스 노트",
-          "date": "2026-07-17"
-        },
-        {
-          "title": "디플러스 기아 (DK) 선수단 임금체불 논란",
-          "link": "https://blog.naver.com/bluehoy20/224349515830",
-          "blogger": "별밤소식",
-          "date": "2026-07-17"
-        },
-        {
-          "title": "디플러스기아 매각? 선수단 임금체불에 구단 존속 위기까지",
-          "link": "https://blog.naver.com/gogumangchi/224349700595",
-          "blogger": "고망치네 다락방",
-          "date": "2026-07-18"
-        },
-        {
-          "title": "[LOL]임금 체불 및 구단 매각에 대한 디플러스 기아 입장문",
-          "link": "https://blog.naver.com/thelovedman/224348888527",
-          "blogger": "열대어&기독교,이단,역사,독서,감동,음악,유머,영화등",
-          "date": "2026-07-16"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "'6년만의 국제전 쾌거' DK, 임금 체불 악재 속에 2026 EWC 우승...상금 8억...",
-          "link": "http://www.osen.co.kr/article/G1112842773",
-          "press": "",
-          "date": "2026-07-19"
-        },
-        {
-          "title": "디플러스 기아, '급여 지연·구단 매각' 혼란 딛고 EWC 우승 거머쥘까",
-          "link": "https://www.newsis.com/view/NISX20260719_0003714062",
-          "press": "",
-          "date": "2026-07-19"
-        },
-        {
-          "title": "'4번 시드 반란' DK vs 홈팀 KC···EWC 왕좌 놓고 결승 격돌",
-          "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=422515",
-          "press": "",
-          "date": "2026-07-19"
-        },
-        {
-          "title": "[EWC] '파리에서 북벌'...DK 기적같은 업셋, '디펜딩 챔프' 젠지 꺾고 결...",
-          "link": "http://www.osen.co.kr/article/G1112842273",
-          "press": "",
-          "date": "2026-07-18"
-        },
-        {
-          "title": "‘디펜딩 챔피언’ 젠지도 넘었다…내홍의 DK, 기적 같은 EWC 결승행 [20...",
-          "link": "https://www.sportsseoul.com/news/read/1623128?ref=naver",
-          "press": "",
-          "date": "2026-07-18"
-        }
-      ],
-      "rank": 7
-    },
-    {
-      "keyword": "케스파컵",
-      "traffic": "200+",
-      "blogTotal": 4182,
-      "newsTotal": 4460,
-      "recentToday": 5,
-      "recentWeek": 32,
-      "topBlogs": [
-        {
-          "title": "2026 케스파컵 일정 장소 중계 아직도 모르면 클릭",
-          "link": "https://blog.naver.com/kdj111111111/224349646705",
-          "blogger": "덕이 블로그",
-          "date": "2026-07-18"
-        },
-        {
-          "title": "2026 롤 케스파컵 일정 예선 기준 대진표 중계 공략",
-          "link": "https://blog.naver.com/ms7215465/224350938423",
-          "blogger": "치코리타의 모험노트",
-          "date": "2026-07-19"
-        },
-        {
-          "title": "T1 페이커, 첫 케스파컵 우승. 페이즈 장면마다 매드 무비....",
-          "link": "https://blog.naver.com/spochat/224109614958",
-          "blogger": "스포츠이야기",
-          "date": "2025-12-14"
-        },
-        {
-          "title": "2026 LoL 롤 케스파컵 일정 참가팀 예매방법 총정리",
-          "link": "https://blog.naver.com/2k1y4/224350054117",
-          "blogger": "꿈을꾸는용군",
-          "date": "2026-07-18"
-        },
-        {
-          "title": "롤 케스파컵 중계 2025 일정, 디즈니플러스 싸게 보는 방법",
-          "link": "https://blog.naver.com/yjg01212/224104593101",
-          "blogger": "IT's ivory",
-          "date": "2025-12-10"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "EWC 이어 케스파 컵 중계 일정 공개",
-          "link": "https://www.bntnews.co.kr/article/view/bnt202607160230",
-          "press": "",
-          "date": "2026-07-19"
-        },
-        {
-          "title": "궁궐의 저주·오싹한 로맨스…여름 OTT 달군다 [콘슐랭]",
-          "link": "http://www.inews24.com/view/1986564",
-          "press": "",
-          "date": "2026-07-19"
-        },
-        {
-          "title": "LCK 프로게임단 디플러스 기아 운영난으로 임금체불",
-          "link": "http://www.dailyesports.com/view.php?ud=202607161324005293b91e133c1f_27",
-          "press": "",
-          "date": "2026-07-16"
-        },
-        {
-          "title": "'2026 LoL 케스파컵' 20일 개막…농심 레드포스 vs 한진 브리온 개막전 ...",
-          "link": "https://zdnet.co.kr/view/?no=20260716125050",
-          "press": "",
-          "date": "2026-07-16"
-        },
-        {
-          "title": "2026 케스파컵, 20일 개막…농심-한진 맞대결",
-          "link": "https://www.kukinews.com/article/view/kuk202607160060",
-          "press": "",
-          "date": "2026-07-16"
         }
       ],
       "rank": 8
@@ -662,8 +662,8 @@
     {
       "keyword": "논쟁",
       "traffic": "500+",
-      "blogTotal": 2080380,
-      "newsTotal": 855101,
+      "blogTotal": 2080382,
+      "newsTotal": 855102,
       "recentToday": 0,
       "recentWeek": 100,
       "topBlogs": [
@@ -700,6 +700,12 @@
       ],
       "topNews": [
         {
+          "title": "이스라엘, 미국 부정여론 돌리려 'AI문자 발송' 750억 원 홍보전",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008664347&plink=ORI&cooper=NAVER",
+          "press": "",
+          "date": "2026-07-19"
+        },
+        {
           "title": "이스라엘, 美부정여론 돌리려 'AI문자 발송' 750억원 홍보전",
           "link": "https://www.slist.kr/news/articleView.html?idxno=752718",
           "press": "",
@@ -720,12 +726,6 @@
         {
           "title": "[뉴스룸에서] 우리 교실에 없는 질문",
           "link": "https://www.kmib.co.kr/article/view.asp?arcid=1784449545&code=11171222&cp=nv",
-          "press": "",
-          "date": "2026-07-19"
-        },
-        {
-          "title": "젊은 층 관심 줄어드나… 넷플릭스 주가 7% 급락",
-          "link": "https://www.chosun.com/economy/money/2026/07/20/GSFB2TIZSNFYNDONKQDC5QGDYM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
           "press": "",
           "date": "2026-07-19"
         }
