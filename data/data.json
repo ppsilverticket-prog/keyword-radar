@@ -1,512 +1,500 @@
 {
-  "updatedAt": "2026-07-19T23:28:35.314Z",
+  "updatedAt": "2026-07-20T01:06:43.363Z",
   "source": "live",
   "keywords": [
     {
-      "keyword": "와일드 씽",
-      "traffic": "500+",
-      "blogTotal": 14586,
-      "newsTotal": 5697,
-      "recentToday": 66,
+      "keyword": "있지",
+      "traffic": "1000+",
+      "blogTotal": 40088678,
+      "newsTotal": 3856154,
+      "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "한국 영화 와일드 씽 리뷰 후기 정보 * 끝까지 과장된 코미디...",
-          "link": "https://blog.naver.com/lubkhaki/224301268609",
-          "blogger": "럽카키의 수다 공간",
-          "date": "2026-05-30"
+          "title": "신입사원 강회장 12회 결말, 이준영 있지 류진과 영혼체인지...",
+          "link": "https://blog.naver.com/euene1111/224337465543",
+          "blogger": "보는 사람",
+          "date": "2026-07-06"
         },
         {
-          "title": "와일드씽 정보 관람평 평점 출연진 등장인물 영화 후기 오정세...",
-          "link": "https://blog.naver.com/hyunjee1110/224304957552",
-          "blogger": "시네마100",
-          "date": "2026-06-03"
+          "title": "신입사원 강회장 결말 총정리 있지 ITZY 류진 등장 시청자들...",
+          "link": "https://blog.naver.com/pang_gom/224338142694",
+          "blogger": "미디어 부수기!!",
+          "date": "2026-07-06"
         },
         {
-          "title": "[영화] 오정세가 다 했다. ‘와일드 씽’",
-          "link": "https://blog.naver.com/krystal345/224310214616",
-          "blogger": "소박하고 소소한",
-          "date": "2026-06-09"
-        },
-        {
-          "title": "와일드씽 무대인사 롯데백화점 김포공항점 강동원 실물 후기",
-          "link": "https://blog.naver.com/gksk3232/224308779769",
-          "blogger": "팝업 속에 놀거리를 찾다",
+          "title": "토지지목 종류 전 답 대 또 어떤게있지",
+          "link": "https://blog.naver.com/fyndignews/224308682138",
+          "blogger": "핀디그뉴스",
           "date": "2026-06-07"
         },
         {
-          "title": "영화 와일드 씽 보고 왔습니다!",
-          "link": "https://blog.naver.com/94wlgns/224332386501",
-          "blogger": "Moch's Space",
-          "date": "2026-07-04"
+          "title": "6월 [위험하지만 않으면 재미있지]",
+          "link": "https://blog.naver.com/baereerah88/224340647270",
+          "blogger": "꽃처럼 살아요, 우리♩",
+          "date": "2026-07-08"
+        },
+        {
+          "title": "진짜 AI 경쟁은 더 이상 최고 성능에 있지 않다는 이야기",
+          "link": "https://blog.naver.com/geekagit/224347882461",
+          "blogger": "Harry의 블로그",
+          "date": "2026-07-15"
         }
       ],
       "topNews": [
         {
-          "title": "세계관 구축에 숏폼 바이럴…주연 부럽지 않은 조연배우",
-          "link": "https://www.joongang.co.kr/article/25446263",
+          "title": "노동운동 아저씨가 페미니스트가 되고 조직 문화와 공동체를 말하기까...",
+          "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003251821&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
           "press": "",
-          "date": "2026-07-19"
+          "date": "2026-07-20"
         },
         {
-          "title": "세계관 구축, 새 서사 부여, 숏폼 홍보…‘열일’하는 조연들",
-          "link": "https://www.joongang.co.kr/article/25446193",
+          "title": "[약손+] 잠이 보약! 수면 건강을 지켜라 ④코골이는 남성이 더 많다?!",
+          "link": "https://dgmbc.com/NewsArticle/850641",
           "press": "",
-          "date": "2026-07-19"
+          "date": "2026-07-20"
         },
         {
-          "title": "영화 '와일드 씽' \"우리는 혼성그룹이다! 손재곤 감독, 강동원·엄태구...",
-          "link": "https://www.lecturernews.com/news/articleView.html?idxno=203580",
+          "title": "[강정영 더봄] '21세기 부국강병', 로마제국보다 더 강성한 천년 한국을...",
+          "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=256218",
           "press": "",
-          "date": "2026-07-18"
+          "date": "2026-07-20"
         },
         {
-          "title": "영화 '가려진 시간' \"특별한 이야기가 시작된다! 강동원·신은수·이효제...",
-          "link": "https://www.lecturernews.com/news/articleView.html?idxno=203837",
+          "title": "제이티비시, 신뢰 저널리즘의 유체이탈",
+          "link": "https://h21.hani.co.kr/arti/society/society_general/59635.html",
           "press": "",
-          "date": "2026-07-18"
+          "date": "2026-07-20"
         },
         {
-          "title": "\"강동원 믿었는데\"…제작비 80억 '와일드 씽'도 결국 넷플릭스행",
-          "link": "https://www.mt.co.kr/entertainment/2026/07/19/2026071907025944825",
+          "title": "[이진호의 영화 속 건강이야기] 슈퍼걸의 크립토나이트, 우리에겐 ‘스...",
+          "link": "https://www.sportsworldi.com/newsView/20260720506500",
           "press": "",
-          "date": "2026-07-18"
+          "date": "2026-07-20"
         }
       ],
       "rank": 1
     },
     {
-      "keyword": "카보베르데",
-      "traffic": "100+",
-      "blogTotal": 19249,
-      "newsTotal": 7826,
-      "recentToday": 65,
+      "keyword": "ai",
+      "traffic": "200+",
+      "blogTotal": 11990082,
+      "newsTotal": 6598101,
+      "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "카보베르데를 통해 본 펩트론의 미래",
-          "link": "https://blog.naver.com/js861873/224336485166",
-          "blogger": "추억스케치",
+          "title": "AI가 맘대로 지운다? GPT-5.6 Sol 파일 삭제 논란",
+          "link": "https://blog.naver.com/chaosily/224351702564",
+          "blogger": "여유로운 은빛호수 IT.Lab",
+          "date": "2026-07-20"
+        },
+        {
+          "title": "맥세비스 AI 보드게임 내돈내산 첫날 사용기",
+          "link": "https://blog.naver.com/kk0jjin/224336463551",
+          "blogger": "❤️꼬꼬찐이❤️",
           "date": "2026-07-04"
         },
         {
-          "title": "카보베르데 수도 프라이아 여행 날씨 물가 치안",
-          "link": "https://blog.naver.com/narsyus/224339016873",
-          "blogger": "리아의 세상사는 이야기",
-          "date": "2026-07-07"
+          "title": "\"이건 진짜 미쳤습니다\" 중국 AI 소식만 나오면 폭락하는 나스닥",
+          "link": "https://blog.naver.com/ggokyu/224351007932",
+          "blogger": "짠테크 연구소",
+          "date": "2026-07-19"
         },
         {
-          "title": "아르헨티나 VS 카보베르데 4일 북중미 월드컵 경기 흐름 분석",
-          "link": "https://blog.naver.com/tkekfl51/224334208332",
-          "blogger": "밥밥의 하루",
-          "date": "2026-07-03"
+          "title": "AI가 부르는 전력 대란, 수소연료전지가 답한다",
+          "link": "https://blog.naver.com/energyinfoplaza/224328125272",
+          "blogger": "한국에너지정보문화재단",
+          "date": "2026-07-01"
         },
         {
-          "title": "아르헨티나 vs 카보베르데 역대급 연장 혈투 극적 승리",
-          "link": "https://blog.naver.com/alladept/224336117766",
-          "blogger": "몬도루의 즐거운 일상",
-          "date": "2026-07-04"
-        },
-        {
-          "title": "메시가 아르헨티나를 구한 극적인 승리 #카보베르데",
-          "link": "https://blog.naver.com/eterna01/224337246252",
-          "blogger": "Jer 29:11",
-          "date": "2026-07-05"
+          "title": "애플 재평가... AI Capex에 대한 의심",
+          "link": "https://blog.naver.com/rnjs1016k/224349470517",
+          "blogger": "스마트롱 주식 경제 블로그",
+          "date": "2026-07-17"
         }
       ],
       "topNews": [
         {
-          "title": "세계적 선수들도 죽기살기로 뛴다…이영표, 아르헨티나 '집념'에 박수→...",
-          "link": "https://www.xportsnews.com/article/2173936",
+          "title": "[애널픽] 중동발 메모리 가격 급등 현실화...\"사이클 우려는 구태\"",
+          "link": "https://theviewers.co.kr/View.aspx?No=4153937",
           "press": "",
-          "date": "2026-07-19"
+          "date": "2026-07-20"
         },
         {
-          "title": "준결승까지 19골 넣고 결승 90분 슈팅 0개...메시의 마지막 월드컵, 그라...",
-          "link": "http://www.osen.co.kr/article/G1112842816",
+          "title": "이글루코퍼레이션 보안 AI '에어', 한국표준협회 인증 획득",
+          "link": "https://www.etnews.com/20260720000070",
           "press": "",
-          "date": "2026-07-19"
+          "date": "2026-07-20"
         },
         {
-          "title": "월드컵 결승 맞나, 메시도 어쩔 수가 없다 [아르헨티나 스페인]",
-          "link": "http://www.sportsq.co.kr/news/articleView.html?idxno=496541",
+          "title": "쿠콘, AI MCP 전용 상품관 오픈…‘AI 데이터 플랫폼’ 전환 속도",
+          "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=01941766645516488",
           "press": "",
-          "date": "2026-07-19"
-        },
-        {
-          "title": "EA 스포츠 FC, 월드컵 우승국 또 맞췄다",
-          "link": "https://www.gametoc.co.kr/news/articleView.html?idxno=110053",
-          "press": "",
-          "date": "2026-07-19"
-        },
-        {
-          "title": "'토레스 결승골' 스페인, 연장 접전 끝에 아르헨티나 제압",
-          "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003252267&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
-          "press": "",
-          "date": "2026-07-19"
+          "date": "2026-07-20"
         }
       ],
       "rank": 2
     },
     {
-      "keyword": "월드컵 우승 상금",
-      "traffic": "200+",
-      "blogTotal": 13086,
-      "newsTotal": 11741,
-      "recentToday": 56,
+      "keyword": "면허",
+      "traffic": "500+",
+      "blogTotal": 3709571,
+      "newsTotal": 946867,
+      "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "아르헨티나 스페인 월드컵 결승 중계 시간 우승상금...",
-          "link": "https://blog.naver.com/dydghks3250/224350864762",
-          "blogger": "❤️ ✅kGn뉴스 ✅❤️",
-          "date": "2026-07-19"
+          "title": "노원운전연수 장롱면허 9년차 비용 과정 결과 후기!",
+          "link": "https://blog.naver.com/hjg3336/224308838783",
+          "blogger": "부산발통천국",
+          "date": "2026-06-08"
         },
         {
-          "title": "2026북중미 월드컵 결승전... 황제 야말의 대결속 우승상금은?",
-          "link": "https://blog.naver.com/tjrgh4567/224351333804",
-          "blogger": "SUKHO",
-          "date": "2026-07-19"
+          "title": "인천운전면허학원 합리적인 가격대 후기",
+          "link": "https://blog.naver.com/jhwltjs/224342585601",
+          "blogger": "한류커플's 무쓰동행기",
+          "date": "2026-07-10"
         },
         {
-          "title": "월드컵 우승하면 OOO억? 순위별 상금 다 까봤습니다",
-          "link": "https://blog.naver.com/turn_cio/224347874583",
-          "blogger": "경제적자유LAB",
-          "date": "2026-07-15"
+          "title": "파주운전연수 실전 도로연수 전문 강사님과 장롱면허 탈출 후기",
+          "link": "https://blog.naver.com/rudolph77/224300210275",
+          "blogger": "빌리다-소액대출/비상금대출/무직자대출 비교플랫폼",
+          "date": "2026-05-29"
         },
         {
-          "title": "월드컵 상금 8억7100만 달러, 우승 상금부터 한국 포상금까지",
-          "link": "https://blog.naver.com/chleogml0252/224344027460",
-          "blogger": "어제보다 한걸음만 더",
-          "date": "2026-07-12"
+          "title": "인천운전면허학원 합리적인 가격 빠른 면허 취득 후기",
+          "link": "https://blog.naver.com/wlgoehdehd/224342508375",
+          "blogger": "Love Pop Music Talk (L.P.M.T)",
+          "date": "2026-07-10"
         },
         {
-          "title": "2026 월드컵 우승 상금 대체 얼마길래? 역대급 돈잔치",
-          "link": "https://blog.naver.com/hey_doran/224350696557",
-          "blogger": "도란도란 일상 플레이리스트",
-          "date": "2026-07-19"
+          "title": "2026년 바뀐 운전면허 갱신 방법 및 기간 1종 2종 완벽 정리",
+          "link": "https://blog.naver.com/whitepolarbear/224350214157",
+          "blogger": "하얀 북극곰의 일상",
+          "date": "2026-07-18"
         }
       ],
       "topNews": [
         {
-          "title": "DK, 2026 EWC 우승…KC 3-0 격파",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16139760",
+          "title": "'관저 이전 부실 감사' 유병호 구속심사 출석…묵묵부답",
+          "link": "https://news.tf.co.kr/read/life/2344655.htm",
           "press": "",
-          "date": "2026-07-19"
+          "date": "2026-07-20"
         },
         {
-          "title": "[월드컵] 스페인, 아르헨티나 꺾고 16년 만에 우승…골든볼은 로드리(종...",
-          "link": "https://www.yna.co.kr/view/AKR20260720009252007?input=1195m",
+          "title": "유병호 '관저 부실 감사 의혹' 구속심사 출석…묵묵부답",
+          "link": "https://www.newsis.com/view/NISX20260720_0003714743",
           "press": "",
-          "date": "2026-07-19"
+          "date": "2026-07-20"
         },
         {
-          "title": "[월드컵] 스페인, 16년 만의 영광, 메시의 마지막 춤을 멈추다",
-          "link": "https://www.moneystorm.kr/news/articleView.html?idxno=5146",
+          "title": "[예천군 감사 시리즈③] 예천군 인사행정 '구멍'···채용·승진 절차 ...",
+          "link": "https://www.cnbnews.com/news/articleView.html?idxno=1008455",
           "press": "",
-          "date": "2026-07-19"
+          "date": "2026-07-20"
         },
         {
-          "title": "'무적함대' 스페인, 16년 만에 월드컵 우승···아르헨과 연장 끝 1-0",
-          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3639867",
+          "title": "낡고 고인 정치를 흘려보내라",
+          "link": "http://www.breaknews.com/1222638",
           "press": "",
-          "date": "2026-07-19"
+          "date": "2026-07-20"
         },
         {
-          "title": "[속보] 스페인, 연장 혈투 끝 아르헨티나 1-0 꺾고 월드컵 우승",
-          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3639856",
+          "title": "'관저 이전 부실감사' 유병호 구속심사",
+          "link": "https://imnews.imbc.com/replay/2026/nw930/article/6838564_36996.html",
           "press": "",
-          "date": "2026-07-19"
+          "date": "2026-07-20"
         }
       ],
       "rank": 3
     },
     {
-      "keyword": "이현이",
-      "traffic": "200+",
-      "blogTotal": 88464,
-      "newsTotal": 63243,
-      "recentToday": 42,
+      "keyword": "로또",
+      "traffic": "100+",
+      "blogTotal": 1968671,
+      "newsTotal": 273863,
+      "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "이현이, '삼전 부장' 남편 수입 몰라.. \"내 출연료도 전혀 공유 NO\"",
-          "link": "https://blog.naver.com/dearwinterrain/224308931439",
-          "blogger": "더할 나위 없는",
-          "date": "2026-06-08"
+          "title": "로또 모바일 구매 방법 갤럭시 아이폰 동행복권 홈페이지 어플...",
+          "link": "https://blog.naver.com/tlsdmsdud21/224177158280",
+          "blogger": "긍정적으로...",
+          "date": "2026-02-09"
         },
         {
-          "title": "\"학비 천만원? \" 이현이 남편 두 아들도 간 사립초등학교 장단점",
-          "link": "https://blog.naver.com/sumalin1027/224298481825",
-          "blogger": "횬세니의 오솔길",
-          "date": "2026-05-28"
+          "title": "로또 1등 당첨금 281억원 세금을 내고 나니...",
+          "link": "https://blog.naver.com/ggokyu/224343210666",
+          "blogger": "짠테크 연구소",
+          "date": "2026-07-11"
         },
         {
-          "title": "동상이몽 이현이 삼겹살 냄비 자동 회전 바이탈플랜트 롤팬",
-          "link": "https://blog.naver.com/tazsun20/224299318842",
-          "blogger": "꿀리뷰",
-          "date": "2026-05-28"
+          "title": "강남 로또청약 40억 아파트 당첨된 20대 걸그룹센터",
+          "link": "https://blog.naver.com/xzwe/224343470049",
+          "blogger": "유난easy룸 | 육아는 현실적으로, 살림은 쉽게",
+          "date": "2026-07-11"
         },
         {
-          "title": "\"범인은 남편이었다\"…이현이, 아들 학교 괴담 퍼진 이유 (11의...",
-          "link": "https://blog.naver.com/stonesam3/224297234630",
-          "blogger": "지나가다 봄의 수비학~",
-          "date": "2026-05-26"
+          "title": "1년간 로또 1등 12번이나 터진 소름돋는 '이 번호'",
+          "link": "https://blog.naver.com/troilos/224232095258",
+          "blogger": "블로그하는 경제비둘기",
+          "date": "2026-03-28"
         },
         {
-          "title": "'사립초 보내도 학원 간다‘ 이현이가 직접 들려준...",
-          "link": "https://blog.naver.com/hapdongz/224341573010",
-          "blogger": "곰가족의 지식보관함",
-          "date": "2026-07-09"
+          "title": "로또청약은 당신의 것이 아니다…안유진 디에이치방배 당첨이...",
+          "link": "https://blog.naver.com/mellongi123/224345232026",
+          "blogger": "직딩 혜무늘보 돈버는 일상",
+          "date": "2026-07-13"
         }
       ],
       "topNews": [
         {
-          "title": "'이대 출신' 이현이, 거실 서재로 만들더니…\"시끄러워서 공부 못 해? 다...",
-          "link": "https://www.tenasia.co.kr/article/2026071930184",
+          "title": "진해성, ‘트롯픽’ 위클리 男 1위",
+          "link": "https://sports.donga.com/ent/article/all/20260720/134326155/2",
+          "press": "",
+          "date": "2026-07-20"
+        },
+        {
+          "title": "[사다리밖 2030] ③ 서울에선 돈이 안 모인다…월세에 미래가 막힌 청년...",
+          "link": "https://www.yna.co.kr/view/AKR20260713105800003?input=1195m",
           "press": "",
           "date": "2026-07-19"
         },
         {
-          "title": "이현이♥홍성기, 1300만원 영재캠프 보낸 子..숙소까지 완벽 '테라스서...",
-          "link": "https://www.sportschosun.com/entertainment/2026-07-19/202607190100112640007149",
+          "title": "[임희윤의 팝코노믹스 <25> 매리지노믹스] 750억원 쏟아부은 스위프트 결...",
+          "link": "https://economychosun.com/site/data/html_dir/2026/07/13/2026071300032.html",
           "press": "",
           "date": "2026-07-19"
         },
         {
-          "title": "‘강성연과 재혼’ 장민욱, 모친에 이혼 숨겼다..“오랫동안 말 못 해”...",
-          "link": "http://www.osen.co.kr/article/G1112842307",
+          "title": "“내 차를 박는 게 낫겠더라”…이준영·임영웅·장동윤, 위험한 순간 보...",
+          "link": "https://www.segye.com/newsView/20260716520302?OutUrl=naver",
           "press": "",
           "date": "2026-07-19"
         },
         {
-          "title": "이대 출신 이현이 “어떤 상황에서도 공부 가능, 소음은 핑계” 소신 발...",
-          "link": "https://www.newsen.com/news_view.php?uid=202607190802360310",
+          "title": "작은 그릇이라도 가득 채우는 삶의 아름다움 [인문산책]",
+          "link": "https://www.hankookilbo.com/news/article/A2026071610310001661?did=NA",
           "press": "",
           "date": "2026-07-19"
-        },
-        {
-          "title": "‘♥강성연 재혼’ 의사 장민욱 “모친에 이혼 오래 숨겨” 눈물 (동치...",
-          "link": "https://www.newsen.com/news_view.php?uid=202607190613101710",
-          "press": "",
-          "date": "2026-07-18"
         }
       ],
       "rank": 4
     },
     {
-      "keyword": "안정환",
-      "traffic": "1000+",
-      "blogTotal": 107450,
-      "newsTotal": 190849,
-      "recentToday": 26,
+      "keyword": "2026 fifa world cup winner",
+      "traffic": "5000+",
+      "blogTotal": 7662,
+      "newsTotal": 109,
+      "recentToday": 56,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "안정환, 논란에 \"눈치 본 거 아냐\" 직접 해명, 무슨 말 했나?",
-          "link": "https://blog.naver.com/tmzmfk010/224330807587",
-          "blogger": "힐스터K랑 오늘, 이거 볼래?",
-          "date": "2026-06-29"
+          "title": "FIFA World Cup 2026™ - 밴쿠버",
+          "link": "https://blog.naver.com/canadawow/224313091059",
+          "blogger": "캐나다관광청 공식블로그",
+          "date": "2026-06-12"
         },
         {
-          "title": "남자 올인원 화장품 안정환19 추천템 비레디 오일캡처 로션...",
-          "link": "https://blog.naver.com/486xhxh/224302506366",
-          "blogger": "쥔이로그 : 뷰티&패션&팝업",
-          "date": "2026-06-01"
+          "title": "[스포츠] FIFA World Cup 2026",
+          "link": "https://blog.naver.com/theukc/224312346757",
+          "blogger": "더 영국 컨설팅 THE UKC",
+          "date": "2026-06-11"
         },
         {
-          "title": "안정환 이혜원 딸 안리원 뉴욕대 졸업 사진에 반응 터진 이유?",
-          "link": "https://blog.naver.com/lhswind2/224300929404",
-          "blogger": "우수아빠의 인생은",
-          "date": "2026-05-30"
+          "title": "AI's Prediction for the 2026 World Cup Winner? It's...",
+          "link": "https://blog.naver.com/mybonuslab/224351197984",
+          "blogger": "MyBonusLab | 생활정보 연구소",
+          "date": "2026-07-19"
         },
         {
-          "title": "\"손흥민 왜 뺐냐고?\" 안정환이 홍명보 감독 대신 꺼낸 진짜 이야기",
-          "link": "https://blog.naver.com/skt9386/224324870830",
-          "blogger": "토닥토닥note",
-          "date": "2026-06-23"
+          "title": "fifa world cup 월드컵 관련... 확산됐습니다, 2026 월드컵...",
+          "link": "https://blog.naver.com/sleddogs2014/224342223524",
+          "blogger": "슬레드독 코리아(Snowskates)",
+          "date": "2026-07-10"
         },
         {
-          "title": "월세 1500만원 안정환 피자집 창업 “하지 마세요” 댓글...",
-          "link": "https://blog.naver.com/koreajdyj/224204073521",
-          "blogger": "정면으로 도전하는 어른이삶",
-          "date": "2026-03-04"
+          "title": "6월 28일 밴쿠버 그랜빌 스트릿 - 2026 FIFA WorldCup",
+          "link": "https://blog.naver.com/smh3west/224331499909",
+          "blogger": "벤쿠버가 좋다. 그래서 다~아 보여준다, 벤쿠버",
+          "date": "2026-06-30"
         }
       ],
       "topNews": [
         {
-          "title": "안정환·최현석, 방송 중 JTBC 위기 직접 언급... \"출연료 줄일 겸 '냉부...",
-          "link": "https://www.insight.co.kr/news/563640",
+          "title": "스페인, 아르헨티나 꺾고 ‘2026 FIFA 북중미 월드컵’ 우승..16년만 트로...",
+          "link": "http://www.breaknews.com/1222630",
           "press": "",
-          "date": "2026-07-19"
+          "date": "2026-07-20"
         },
         {
-          "title": "최현석, JTBC 부도 간접 언급…\"출연료 줄이고 한 명 빼자\" ('냉부해')",
-          "link": "https://www.tenasia.co.kr/article/2026072032164",
+          "title": "THAILAND FIFA WORLD CUP 2026",
+          "link": "https://n.news.naver.com/mnews/article/091/0010262612?sid=104",
           "press": "",
-          "date": "2026-07-19"
+          "date": "2026-07-18"
         },
         {
-          "title": "최현석·안정환, JTBC 회생절차 언급…\"회사 어려워\"",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16139684",
+          "title": "THAILAND FIFA WORLD CUP 2026",
+          "link": "https://n.news.naver.com/mnews/article/091/0010262606?sid=104",
           "press": "",
-          "date": "2026-07-19"
+          "date": "2026-07-18"
         },
         {
-          "title": "안정환 \"JTBC 어려워서…\" 회생절차 언급",
-          "link": "https://www.newsis.com/view/NISX20260720_0003714378",
+          "title": "THAILAND FIFA WORLD CUP 2026",
+          "link": "https://n.news.naver.com/mnews/article/091/0010262609?sid=104",
           "press": "",
-          "date": "2026-07-19"
+          "date": "2026-07-18"
         },
         {
-          "title": "“세트 없어지는 거 아냐?”…‘파산위기’ JTBC에 냉부 셰프들도 감추...",
-          "link": "https://www.sportsseoul.com/news/read/1623296?ref=naver",
+          "title": "THAILAND FIFA WORLD CUP 2026",
+          "link": "https://n.news.naver.com/mnews/article/091/0010262610?sid=104",
           "press": "",
-          "date": "2026-07-19"
+          "date": "2026-07-18"
         }
       ],
       "rank": 5
     },
     {
-      "keyword": "天気",
+      "keyword": "인판티노",
       "traffic": "100+",
-      "blogTotal": 25952,
-      "newsTotal": 413,
-      "recentToday": 8,
-      "recentWeek": 72,
+      "blogTotal": 4184,
+      "newsTotal": 13395,
+      "recentToday": 33,
+      "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "[푸른바다] 天気の子 ..",
-          "link": "https://blog.naver.com/isideru/223861565341",
-          "blogger": "지쳐버린 내 마음 쉬어갈 수 있는 곳..",
-          "date": "2025-05-11"
+          "title": "트럼프가 FIFA에 전화하니 발로건 징계유예로 화답한 인판티노...",
+          "link": "https://blog.naver.com/spochat/224338219599",
+          "blogger": "스포츠이야기",
+          "date": "2026-07-06"
         },
         {
-          "title": "【関東の天気】あす3カ月先の暑さ...",
-          "link": "https://blog.naver.com/campfire0914/223810012252",
-          "blogger": "일본어 일본문화 아카데미 | 다시 배우는 일본어",
-          "date": "2025-03-26"
+          "title": "잔니 인판티노, 축구 팬들이 가장 미워하는 인물?",
+          "link": "https://blog.naver.com/gangtefootball/224314187608",
+          "blogger": "강테 풋볼",
+          "date": "2026-06-16"
         },
         {
-          "title": "주의 / 日差し届き 初夏の暑さ 関東では天気の急変も(ANN NEWS)",
-          "link": "https://blog.naver.com/mame_nihongo/224254494062",
-          "blogger": "마메 일본어",
-          "date": "2026-04-16"
+          "title": "트럼프 전화 한 통, 심판 탓으로 돌린 백악관, 인판티노 FIFA...",
+          "link": "https://blog.naver.com/keybak/224341029966",
+          "blogger": "[축구 전문 크리에이터] 후니의 에너지 박스",
+          "date": "2026-07-09"
         },
         {
-          "title": "영화 날씨의 아이 (天気の子, 2019) 정보, 줄거리, 등장인물...",
-          "link": "https://blog.naver.com/ilovescreen/224023090973",
-          "blogger": "대한민국 영화 박스오피스",
-          "date": "2025-09-26"
+          "title": "월드컵이란 무기로 돈 맛을 본 피파 인판티노 회장, 다음...",
+          "link": "https://blog.naver.com/times_minton/224345002798",
+          "blogger": "Minton Studio",
+          "date": "2026-07-17"
         },
         {
-          "title": "각 지역 날씨, 장마는?:日本の各地域のお天気､梅雨は？(2026)",
-          "link": "https://blog.naver.com/yuuko0332/224338448204",
-          "blogger": "★일본인이 들려주는 일본이야기★",
-          "date": "2026-07-07"
+          "title": "2026 월드컵 결승전 일정과 FIFA 인판티노 회장의 역대급...",
+          "link": "https://blog.naver.com/gentleman1899/224351355001",
+          "blogger": "건강한 집밥노트",
+          "date": "2026-07-19"
         }
       ],
       "topNews": [
         {
-          "title": "규빈, 맑은 하늘 아래 여유로운 순간…첫 미니앨범까지 성장한 발걸음",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16125602",
+          "title": "트럼프, 스페인에 우승 트로피·메시에 메달도…관중석에선 야유",
+          "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00011&news_seq_no=5206853",
           "press": "",
-          "date": "2026-07-06"
+          "date": "2026-07-20"
         },
         {
-          "title": "ALPHA DRIVE ONE、「初カムバックに胸が高鳴る…爽やかな『OMG!』のエネ...",
-          "link": "https://www.nc.press/news/articleView.html?idxno=616405",
+          "title": "트럼프 美 대통령·인판티노 FIFA 회장 사이 지나는 메시",
+          "link": "https://www.news1.kr/photos/8015592",
           "press": "",
-          "date": "2026-05-26"
+          "date": "2026-07-20"
         },
         {
-          "title": "ALPHA DRIVE ONE、\"No School Tomorrow\"トラック公開…初夏の\"日常脱出\"ス...",
-          "link": "https://www.nc.press/news/articleView.html?idxno=615016",
+          "title": "\"돈과 권력에 월드컵 공정성 무너진다\"…유럽평의회, FIFA에 공개 서한",
+          "link": "http://www.yonhapnewstv.co.kr/news/AKR202607200957170tv",
           "press": "",
-          "date": "2026-05-11"
+          "date": "2026-07-20"
         },
         {
-          "title": "[現場] \"コリンイ\"でも楽しめる暗号資産リテールフェスティバル、CIS 20...",
-          "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=244958",
+          "title": "트럼프, 스페인 월드컵 우승 세리머니 때도 옆자리 사수",
+          "link": "https://biz.chosun.com/international/international_general/2026/07/20/6QJASXB6WNAG5N54FM5FVRLYNY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
           "press": "",
-          "date": "2026-04-20"
+          "date": "2026-07-20"
         },
         {
-          "title": "[현지 보고]날씨의 변덕",
-          "link": "http://www.breaknews.com/1193137",
+          "title": "공동 개최·참가국 확대…2030 월드컵으로 이어간다",
+          "link": "https://biz.heraldcorp.com/article/10813280?ref=naver",
           "press": "",
-          "date": "2026-03-18"
+          "date": "2026-07-20"
         }
       ],
       "rank": 6
     },
     {
-      "keyword": "ferran torres",
-      "traffic": "200+",
-      "blogTotal": 580,
-      "newsTotal": 811,
-      "recentToday": 1,
-      "recentWeek": 14,
+      "keyword": "빗썸",
+      "traffic": "100+",
+      "blogTotal": 354119,
+      "newsTotal": 304684,
+      "recentToday": 29,
+      "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "스페인 0-0 카보베르데, Vozinha 선방과 Ferran Torres...",
-          "link": "https://blog.naver.com/japkey/224317303452",
-          "blogger": "japkey님의 블로그",
-          "date": "2026-06-16"
+          "title": "빗썸 거래소 테더코인 출금 방법과 가격 책정방법",
+          "link": "https://blog.naver.com/anpfnddl/224345485403",
+          "blogger": "1",
+          "date": "2026-07-14"
         },
         {
-          "title": "바르셀로나와 무적함대의 상어]_Ferran Torres_선수 소개",
-          "link": "https://blog.naver.com/balllover/223973721105",
-          "blogger": "해외축구 덕후 양성소",
-          "date": "2025-08-18"
+          "title": "비트코인사는법 처음이라면? 코인거래소추천 빗썸 비교 후기",
+          "link": "https://blog.naver.com/mellongi123/224333083956",
+          "blogger": "직딩 혜무늘보 돈버는 일상",
+          "date": "2026-07-01"
         },
         {
-          "title": "828 :: FIFA4 ' Torres Squad ' (feat. Fernando, Ferran...",
-          "link": "https://blog.naver.com/ryugu000/224069632979",
-          "blogger": "혼자 잘노는 스앙꼬의 일상",
-          "date": "2025-11-09"
+          "title": "[소식] 빗썸, 버그바운티 확대, 프라이버시센터 개편 등 안전한...",
+          "link": "https://blog.naver.com/bithumb_official/224340454699",
+          "blogger": "빗썸 Bithumb Official",
+          "date": "2026-07-08"
         },
         {
-          "title": "[FC24] 커리어 모드 선수 리뷰 - 페란 토레스(Ferran Torres)",
-          "link": "https://blog.naver.com/ndmns941/223419316593",
-          "blogger": "잡식왕",
-          "date": "2024-04-18"
+          "title": "빗썸 이벤트 7만원 진짜 받았습니다, 27분 분 단위 기록",
+          "link": "https://blog.naver.com/weonha0915/224297179554",
+          "blogger": "빗썸 이벤트 알려줄게요",
+          "date": "2026-05-26"
         },
         {
-          "title": "페란 토레스 (Ferran Torres Garcia) 발렌시아CF 의 보물",
-          "link": "https://blog.naver.com/dk7128/221902878401",
-          "blogger": "청년 다방 J.Y STORY",
-          "date": "2020-04-12"
+          "title": "국내 비트코인 거래소 추천 순위 수수료 비교, 업비트 vs 빗썸",
+          "link": "https://blog.naver.com/beyond363/224328221345",
+          "blogger": "겨울이의 부자플랜",
+          "date": "2026-06-26"
         }
       ],
       "topNews": [
         {
-          "title": "FIFA WORLD CUP 2026",
-          "link": "https://n.news.naver.com/mnews/article/091/0010264261?sid=104",
+          "title": "한 달 새 거래대금 83% '뚝'…가상자산 거래소, 보릿고개 언제 넘나",
+          "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607191439322060595",
           "press": "",
-          "date": "2026-07-19"
+          "date": "2026-07-20"
         },
         {
-          "title": "FIFA WORLD CUP 2026",
-          "link": "https://n.news.naver.com/mnews/article/091/0010264259?sid=104",
+          "title": "[코인시세] 비트코인 6만4천 달러선 횡보세…눈치 보기 장세 지속",
+          "link": "http://www.yonhapnewstv.co.kr/news/AKR202607200944094zX",
           "press": "",
-          "date": "2026-07-19"
+          "date": "2026-07-20"
         },
         {
-          "title": "FIFA WORLD CUP 2026",
-          "link": "https://n.news.naver.com/mnews/article/091/0010264257?sid=104",
+          "title": "‘445억 해킹’ 두나무 제재 돌입…금감원, 감사의견서 발송",
+          "link": "https://www.dailian.co.kr/news/view/1668501/?sc=Naver",
           "press": "",
-          "date": "2026-07-19"
+          "date": "2026-07-20"
         },
         {
-          "title": "FIFA WORLD CUP 2026",
-          "link": "https://n.news.naver.com/mnews/article/091/0010264246?sid=104",
+          "title": "금융그룹·증권사의 잇따른 가상자산거래소 지분 확보… 'STO' 시장 선점...",
+          "link": "https://www.news2day.co.kr/article/20260716500285",
           "press": "",
-          "date": "2026-07-19"
+          "date": "2026-07-20"
         },
         {
-          "title": "APTOPIX Argentina Spain WCup Soccer",
-          "link": "https://n.news.naver.com/mnews/article/077/0007098405?sid=104",
+          "title": "비트코인, 9500만원대…중동 긴장 속 '강보합'",
+          "link": "https://www.newsis.com/view/NISX20260720_0003714506",
           "press": "",
           "date": "2026-07-19"
         }
@@ -514,220 +502,220 @@
       "rank": 7
     },
     {
-      "keyword": "파리 생제르맹 fc",
-      "traffic": "500+",
-      "blogTotal": 15623,
-      "newsTotal": 36344,
-      "recentToday": 1,
-      "recentWeek": 18,
+      "keyword": "공군사관학교",
+      "traffic": "200+",
+      "blogTotal": 44404,
+      "newsTotal": 36123,
+      "recentToday": 24,
+      "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "'파리 생제르맹 FC 소속' 선수 이강인 생애 및 축구 경력 정리",
-          "link": "https://blog.naver.com/pso164/224331588264",
-          "blogger": "과학커뮤니케이터 박종현",
-          "date": "2026-06-30"
+          "title": "2027학년도 공군사관학교 지원동기서 문항 및 예시 작성요령?",
+          "link": "https://blog.naver.com/jimini2277/224319003293",
+          "blogger": "지미니's Edu 정보 공간",
+          "date": "2026-06-17"
         },
         {
-          "title": "파리 생제르맹 FC 직관과 구장투어, 아이와 가기 좋은 파리...",
-          "link": "https://blog.naver.com/lazynana1/224208552095",
-          "blogger": "Funfun한 유럽여행",
-          "date": "2026-03-08"
+          "title": "육·해·공군 사관학교 하나로 합친다…‘국군사관학교’ 대전...",
+          "link": "https://blog.naver.com/aceyeon7/224348257044",
+          "blogger": "우유나무 교육 창고",
+          "date": "2026-07-16"
         },
         {
-          "title": "결승전 파리생제르맹FC(psg) vs 아스널FC [유럽축구]",
-          "link": "https://blog.naver.com/qhadldhaus98/224303121710",
-          "blogger": "♬ 골프치고 여행가고 축구보는 보미",
-          "date": "2026-06-01"
+          "title": "공군사관학교 시험 일정과 기출 난이도 정리",
+          "link": "https://blog.naver.com/sobutab7/224323147313",
+          "blogger": "생기부 연구소",
+          "date": "2026-06-22"
         },
         {
-          "title": "05월 31일 파리 생제르맹 FC 아스널 FC 경기 결과 하이라이트",
-          "link": "https://blog.naver.com/jayy_/224300766007",
-          "blogger": "jayy_디자인헬퍼",
-          "date": "2026-05-30"
+          "title": "군검사 출신 대표변호사, 공군사관학교 군 인권 자문변호사가...",
+          "link": "https://blog.naver.com/ongangmilitary240/224335447609",
+          "blogger": "⭐형사 전문 변호사 - 이의건 변호사⭐",
+          "date": "2026-07-03"
         },
         {
-          "title": "유럽축구 이변 속 파리 생제르맹 FC 아스널 F 승패 가른 5가지",
-          "link": "https://blog.naver.com/jjghao/224303232368",
-          "blogger": "마케터",
-          "date": "2026-06-02"
+          "title": "2027 공군사관학교 모집요강 정리! 지원 및 1, 2차 시험 일정...",
+          "link": "https://blog.naver.com/etooseci247/224254626268",
+          "blogger": "이투스247학원 공식블로그",
+          "date": "2026-04-16"
         }
       ],
       "topNews": [
         {
-          "title": "스페인, 16년 만에 월드컵 우승! 연장 혈투 끝 아르헨티나에 1-0 승리......",
-          "link": "https://www.starnewskorea.com/sports/2026/07/20/2026072005430033107",
+          "title": "국외소재문화유산재단 신임 사무총장에 안태현 전 항공박물관장",
+          "link": "https://www.newsis.com/view/NISX20260720_0003714726",
           "press": "",
-          "date": "2026-07-19"
+          "date": "2026-07-20"
         },
         {
-          "title": "메시 다음이 이강인! 패스 능력 '월드클래스' 인정받았다, 압박 상황 패...",
-          "link": "https://www.starnewskorea.com/sports/2026/07/18/2026071816584457236",
+          "title": "국민의힘 장동혁·정점식 “헌법정신 회복과 의회정치 정상화 촉구”",
+          "link": "http://www.breaknews.com/1222627",
           "press": "",
-          "date": "2026-07-18"
+          "date": "2026-07-20"
         },
         {
-          "title": "[2026월드컵]메시의 왕좌 수성이냐, 야말의 대관식이냐",
-          "link": "https://view.asiae.co.kr/article/2026071613114373277",
+          "title": "국외소재문화유산재단 사무총장에 안태현 전 국립항공박물관장",
+          "link": "https://www.hankookilbo.com/news/article/A2026072009140005067?did=NA",
           "press": "",
-          "date": "2026-07-18"
+          "date": "2026-07-20"
         },
         {
-          "title": "\"월드컵에는 옐로카드에 벌금이 있대요\"[아빠, 이건 왜 파울이야?]",
-          "link": "https://www.nocutnews.co.kr/news/6549639?utm_source=naver&utm_medium=article&utm_campaign=20260718080109",
+          "title": "국외소재문화유산재단 사무총장에 안태현 전 국립항공박물관장",
+          "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=01699046645516488",
           "press": "",
-          "date": "2026-07-17"
+          "date": "2026-07-20"
         },
         {
-          "title": "황인범, 유럽 축구팀 15위 포르투 입단 임박",
-          "link": "https://www.mk.co.kr/article/12101260",
+          "title": "국외소재문화유산재단 사무총장에 안태현 씨",
+          "link": "https://www.sedaily.com/article/20069300?ref=naver",
           "press": "",
-          "date": "2026-07-17"
+          "date": "2026-07-20"
         }
       ],
       "rank": 8
     },
     {
-      "keyword": "철도",
-      "traffic": "100+",
-      "blogTotal": 3604578,
-      "newsTotal": 2579020,
-      "recentToday": 0,
+      "keyword": "이정후",
+      "traffic": "2000+",
+      "blogTotal": 92419,
+      "newsTotal": 162416,
+      "recentToday": 18,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "홍콩 옥토퍼스 카드 구매 공항 철도 AEL 티켓 예약 수령",
-          "link": "https://blog.naver.com/my50cent/224333344647",
-          "blogger": "이토록 멋진 여행",
-          "date": "2026-07-01"
+          "title": "\"1억 달러가 싸다\" 샌프란시스코 이정후 계약 재평가 내용 공개!...",
+          "link": "https://blog.naver.com/rlfehdud/224348052660",
+          "blogger": "두 아들 아빠의 아마추어 선수 도전기",
+          "date": "2026-07-16"
         },
         {
-          "title": "인도네시아 출장과 고속철도(우쉬) 이용기",
-          "link": "https://blog.naver.com/ich_bin_yong/224336754608",
-          "blogger": "Gruen Welt",
-          "date": "2026-07-05"
-        },
-        {
-          "title": "대구광역철도 대경선 노선 요금 서대구역 동대구역 전철 시간표",
-          "link": "https://blog.naver.com/dxsuckit69/224342815727",
-          "blogger": "더홍 미도구리 홍의성 Midoguri The Hong",
+          "title": "이정후 골프 스윙 2루타, 선발 제외가 오히려 반전",
+          "link": "https://blog.naver.com/estauce/224342613110",
+          "blogger": "골프여행♥인플루언서",
           "date": "2026-07-10"
         },
         {
-          "title": "12. fri(3) 쿠로몬시장 공항철도 타고 간사이공항으로",
-          "link": "https://blog.naver.com/myhearttj/224336491522",
-          "blogger": "I'm here !",
-          "date": "2026-07-04"
+          "title": "이정후 MLB 생존기, 시즌초반 부진탈출 달라진 헬멧이 문제였나?",
+          "link": "https://blog.naver.com/july7th73/224328429362",
+          "blogger": "수연아빠의 야구장 출동 (개포맘모스)",
+          "date": "2026-06-26"
         },
         {
-          "title": "방콕 수완나품 공항철도 ARL 탑승기: 파야타이, 막카산역 요금...",
-          "link": "https://blog.naver.com/asnymse/224350726951",
-          "blogger": "멋대로, 내 맘대로",
-          "date": "2026-07-19"
+          "title": "샌프란시스코 야구장 오라클 파크 관람팁 - 이정후 선수 어디서...",
+          "link": "https://blog.naver.com/nydelphie/224311728719",
+          "blogger": "여행작가제이민",
+          "date": "2026-06-10"
+        },
+        {
+          "title": "복귀 대신 미국을 택한 진짜 이유, 그 옆엔 이정후가 있었다",
+          "link": "https://blog.naver.com/urizun03/224350071476",
+          "blogger": "스포탁엔터월드",
+          "date": "2026-07-18"
         }
       ],
       "topNews": [
         {
-          "title": "대륙 최대 조선소 '30년 운영권' 선정 [여의도 Pick!]",
-          "link": "https://news.mtn.co.kr/news-detail/2026072008183674787",
+          "title": "“이정후 트레이드, SF가 거절할 수 없는 제안을 받지 않은 한…” 디트...",
+          "link": "https://www.mydaily.co.kr/page/view/2026072008102351598",
           "press": "",
-          "date": "2026-07-19"
+          "date": "2026-07-20"
         },
         {
-          "title": "[원자재 시황] 중동 긴장 격화에 다시 뛰는 유가",
-          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1716892",
+          "title": "고우석, 만루 위기 넘기고 1이닝 무실점... 송성문은 MLB 첫 3안타 경기",
+          "link": "https://www.hankookilbo.com/news/article/A2026072009180002686?did=NA",
           "press": "",
-          "date": "2026-07-19"
+          "date": "2026-07-20"
         },
         {
-          "title": "[인터뷰] 최상기 인제군수 \"지도를 새로 쓰고 경제의 틀 바꿀 것\"",
-          "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2449897",
+          "title": "미네소타 고우석, 만루 위기 극복하고 1이닝 무실점…송성문은 첫 3안타",
+          "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=01843366645516488",
           "press": "",
-          "date": "2026-07-19"
+          "date": "2026-07-20"
         },
         {
-          "title": "피디시선]20조 통합지원금, 시민 기본소득 가능할까",
-          "link": "https://mpmbc.co.kr/NewsArticle/1528160",
+          "title": "이정후, 2경기 만에 안타 생산…타율은 0.303으로 소폭 하락",
+          "link": "http://www.stoo.com/article.php?aid=107827773145",
           "press": "",
-          "date": "2026-07-19"
+          "date": "2026-07-20"
         },
         {
-          "title": "미군 1명 또 사망…“이란 드론 불발탄 처리하다 사고”",
-          "link": "https://www.hani.co.kr/arti/international/arabafrica/1268952.html",
+          "title": "이정후, 2경기 만에 안타 생산 재개…시즌 타율 0.303",
+          "link": "https://www.newsis.com/view/NISX20260720_0003714559",
           "press": "",
-          "date": "2026-07-19"
+          "date": "2026-07-20"
         }
       ],
       "rank": 9
     },
     {
-      "keyword": "육아",
-      "traffic": "1000+",
-      "blogTotal": 11625485,
-      "newsTotal": 1295516,
-      "recentToday": 0,
-      "recentWeek": 100,
+      "keyword": "금호타이어 광주공장",
+      "traffic": "100+",
+      "blogTotal": 9099,
+      "newsTotal": 25557,
+      "recentToday": 5,
+      "recentWeek": 98,
       "topBlogs": [
         {
-          "title": "책육아 엄마가 1년 동안 내돈내산으로 국어학원을 보낸 이유",
-          "link": "https://blog.naver.com/labelgirl/224350683014",
-          "blogger": "책육아하며 투자하는 Stella",
-          "date": "2026-07-19"
-        },
-        {
-          "title": "분유포트 추천, 온도유지 기능 좋은 육아필수템",
-          "link": "https://blog.naver.com/80milk/224303644118",
-          "blogger": "따랑해의 엄마표 육아교육 감성놀이",
-          "date": "2026-06-03"
-        },
-        {
-          "title": "육아휴직급여 얼마나 받을까? 남자육아휴직 신청방법과 1년...",
-          "link": "https://blog.naver.com/fds6051/224340190206",
-          "blogger": "옥냥의 육아 한스푼",
+          "title": "금호타이어가 다시 주목받는 이유, 광주공장 부지와 반도체...",
+          "link": "https://blog.naver.com/casan8851/224340206613",
+          "blogger": "투자경제 꽃게박사",
           "date": "2026-07-08"
         },
         {
-          "title": "젖병소독기 추천 육아 출산필수템 픽셀 플러스 한달 사용 후기",
-          "link": "https://blog.naver.com/khingba/224325782467",
-          "blogger": "핫플 여행 가이드",
-          "date": "2026-06-24"
+          "title": "금호타이어 광주공장 가격 10배된다? 주가 상승 이유와 전망",
+          "link": "https://blog.naver.com/vraiksy/224343422394",
+          "blogger": "분석쟁이 Vrai",
+          "date": "2026-07-11"
         },
         {
-          "title": "대구 온누리상품권 사용처 링크맘 수성점에서 육아용품 쇼핑 후기",
-          "link": "https://blog.naver.com/2vivi/224331738745",
-          "blogger": "나스나스한하루",
-          "date": "2026-06-30"
+          "title": "금호타이어 광주공장, 반도체 부지로 대박날까",
+          "link": "https://blog.naver.com/prettygirl-30/224344416442",
+          "blogger": "프리티30의 짠테크",
+          "date": "2026-07-12"
+        },
+        {
+          "title": "금호타이어 광주공장 부지 급부상, 호남 반도체 클러스터 최대...",
+          "link": "https://blog.naver.com/hotkangtanggo/224346030091",
+          "blogger": "3분 건강·생활 정리",
+          "date": "2026-07-14"
+        },
+        {
+          "title": "금호타이어, 광주공장 부지 가치 상승 기대감",
+          "link": "https://blog.naver.com/kimjh3609/224338517599",
+          "blogger": "두 아들 아빠의 재테크",
+          "date": "2026-07-06"
         }
       ],
       "topNews": [
         {
-          "title": "홈플러스 이어 오스템도 ‘구조조정 논란’… MBK 경영방식 도마 위",
-          "link": "https://www.kbmaeil.com/article/20260720500046",
+          "title": "금호타이어, CAPA 회복에 글로벌 신공장 효과 '본격화'…광주 부지 가치...",
+          "link": "http://www.newsprime.co.kr/news/article.html?no=740702",
           "press": "",
           "date": "2026-07-19"
         },
         {
-          "title": "은가은·박현호 부부, '살림남' 합류…신혼생활·육아 일상 공개",
-          "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=543119",
+          "title": "'호남 수혜주' 금호타이어, 광주 공장 재가동에 외형 성장 예상",
+          "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4425648",
           "press": "",
           "date": "2026-07-19"
         },
         {
-          "title": "순천향대 부천병원 이영구 교수·황지석 석사과정생, 국제당뇨발학회 최...",
-          "link": "https://kormedi.com/?p=2835791",
+          "title": "금호타이어, 실적 회복 넘어 자산·배당까지…재평가 신호 켜졌다",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=469311",
           "press": "",
-          "date": "2026-07-19"
+          "date": "2026-07-18"
         },
         {
-          "title": "MBK, 홈플러스 사태 이어 오스템임플란트도 구조조정",
-          "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000050746",
+          "title": "“반도체특별시로 도약 선도하는 ‘미래도시 광산’ 만들 것”",
+          "link": "https://www.seoul.co.kr/news/plan/2026/07/17/20260717022002?wlog_tag3=naver",
           "press": "",
-          "date": "2026-07-19"
+          "date": "2026-07-16"
         },
         {
-          "title": "'살림남2' 은가은♥박현호, 신혼집·4개월 딸 첫공개⋯각종 루머 해명",
-          "link": "http://www.joynews24.com/view/1986647",
+          "title": "금호타이어, 美 61억원 소송 국내 확전되나",
+          "link": "https://wemakenews.co.kr/news/view.php?no=25829",
           "press": "",
-          "date": "2026-07-19"
+          "date": "2026-07-16"
         }
       ],
       "rank": 10
