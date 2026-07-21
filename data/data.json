@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-07-21T16:53:51.993Z",
+  "updatedAt": "2026-07-21T18:14:40.830Z",
   "source": "live",
   "keywords": [
     {
       "keyword": "킬러들의 쇼핑몰 시즌2",
-      "traffic": "100+",
+      "traffic": "200+",
       "blogTotal": 3342,
       "newsTotal": 2200,
       "recentToday": 90,
@@ -76,84 +76,11 @@
       "rank": 1
     },
     {
-      "keyword": "시리아",
-      "traffic": "500+",
-      "blogTotal": 392407,
-      "newsTotal": 377745,
-      "recentToday": 90,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "이란 시리아 '6월29일 남자농구 월드컵 예선 분석'",
-          "link": "https://blog.naver.com/duelgwang/224329493424",
-          "blogger": "프로토 분석 커뮤니티 토토위키",
-          "date": "2026-06-29"
-        },
-        {
-          "title": "시리아 VS 이란 5일 남자농구 월드컵예선 경기 흐름 분석",
-          "link": "https://blog.naver.com/tkekfl51/224336208920",
-          "blogger": "밥밥의 하루",
-          "date": "2026-07-05"
-        },
-        {
-          "title": "영자신문, 다마스쿠스 교회 자폭 테러, 시리아 새 정부의...",
-          "link": "https://blog.naver.com/eterna01/223908279001",
-          "blogger": "Jer 29:11",
-          "date": "2025-06-23"
-        },
-        {
-          "title": "[국제커플 일상] 강릉 도보여행과 알리의 시리아 방문",
-          "link": "https://blog.naver.com/rmskcjstk/224346867968",
-          "blogger": "기록장",
-          "date": "2026-07-15"
-        },
-        {
-          "title": "드디어 끝난 시리아 내전, 중동 재건 특수 시작될까?",
-          "link": "https://cos2.tistory.com/2236",
-          "blogger": "Carbon OS Silicon OS",
-          "date": "2026-05-13"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "한국 ‘세계 여권파워’ 2위… 20년 전 1위였던 미국은?",
-          "link": "https://www.segye.com/newsView/20260722500975?OutUrl=naver",
-          "press": "",
-          "date": "2026-07-21"
-        },
-        {
-          "title": "한국 '여권파워' 2위 유지...미, 20년 새 1위→10위",
-          "link": "https://www.ytn.co.kr/_ln/0104_202607220111254491",
-          "press": "",
-          "date": "2026-07-21"
-        },
-        {
-          "title": "튀르키예에 뿌리내린 오스템임플란트, 9년 만에 직원 10배로",
-          "link": "https://www.chosun.com/international/international_general/2026/07/22/WEKIZE3TMVECZHOMOBLFS7WZDQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-          "press": "",
-          "date": "2026-07-21"
-        },
-        {
-          "title": "한국 ‘세계 여권파워’ 2위 유지…美, 20년새 1위→10위",
-          "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8616629&ref=A",
-          "press": "",
-          "date": "2026-07-21"
-        },
-        {
-          "title": "한국 '세계 여권파워' 2위…美, 20년새 1위→10위 '추락'",
-          "link": "https://www.slist.kr/news/articleView.html?idxno=753244",
-          "press": "",
-          "date": "2026-07-21"
-        }
-      ],
-      "rank": 2
-    },
-    {
       "keyword": "다이 소",
-      "traffic": "2000+",
-      "blogTotal": 451097,
+      "traffic": "5000+",
+      "blogTotal": 451102,
       "newsTotal": 1335,
-      "recentToday": 69,
+      "recentToday": 63,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -219,161 +146,88 @@
           "date": "2026-07-05"
         }
       ],
+      "rank": 2
+    },
+    {
+      "keyword": "악어",
+      "traffic": "500+",
+      "blogTotal": 874831,
+      "newsTotal": 70417,
+      "recentToday": 60,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "베트남 나트랑 쇼핑리스트 롯데마트 악어집 기념품",
+          "link": "https://blog.naver.com/4bubuss/224350056695",
+          "blogger": "깔깔부부의 여행블로그",
+          "date": "2026-07-18"
+        },
+        {
+          "title": "5년 동안 부부를 공포에 떨게 한 3미터 악어의 최후",
+          "link": "https://blog.naver.com/wilddog33/224335270558",
+          "blogger": "☀️해피❤️러비☀️Feliznury",
+          "date": "2026-07-03"
+        },
+        {
+          "title": "대전 비오는날 아이랑 실내 대전아쿠아리움 악어쇼 볼까 말까",
+          "link": "https://blog.naver.com/qmfnehr00/224344690500",
+          "blogger": "푸드퐈이터의 힐링여행",
+          "date": "2026-07-13"
+        },
+        {
+          "title": "악어봉 등산 후기 – 충주호 절경에 감탄한 하루 & 게으른 악어",
+          "link": "https://blog.naver.com/jtong/224327337756",
+          "blogger": "구니의 2도5촌 이야기",
+          "date": "2026-06-25"
+        },
+        {
+          "title": "악어와 하마가 물밖에서 싸우면 승자는 누구일까",
+          "link": "https://blog.naver.com/ryuys0826/224339432494",
+          "blogger": "제더에더의 반려동물 이야기",
+          "date": "2026-07-07"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "“네가 왜 거기서 나와”…여주 하천서 잡힌 악어 정체는 ‘세계적 희귀...",
+          "link": "https://www.mk.co.kr/article/12103873",
+          "press": "",
+          "date": "2026-07-21"
+        },
+        {
+          "title": "여주서 발견된 50cm 크기 악어, 국제 멸종위기종 ‘샴악어’였다",
+          "link": "https://www.chosun.com/national/incident/2026/07/21/EQIDS26CPNEGJPZQSFMGQUFJ4Q/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+          "press": "",
+          "date": "2026-07-21"
+        },
+        {
+          "title": "여주 소양천서 발견된 악어, '국제 멸종위기종' 샴악어였다",
+          "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=06241846645516816",
+          "press": "",
+          "date": "2026-07-21"
+        },
+        {
+          "title": "\"악어 잃어버리신 분?\"... 여주 하천 악어 주인 찾는다",
+          "link": "https://www.ggilbo.com/news/articleView.html?idxno=1170556",
+          "press": "",
+          "date": "2026-07-21"
+        },
+        {
+          "title": "여주 하천서 포획 악어, 국제 멸종위기종이었다…\"최대 4m까지 성장\"",
+          "link": "https://www.mt.co.kr/society/2026/07/21/2026072121243967000",
+          "press": "",
+          "date": "2026-07-21"
+        }
+      ],
       "rank": 3
     },
     {
-      "keyword": "관세",
-      "traffic": "200+",
-      "blogTotal": 1897932,
-      "newsTotal": 1706120,
-      "recentToday": 40,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "트럼프 50% 관세 캐나다산 제품에 추가 부과 예고",
-          "link": "https://blog.naver.com/silentforest_studio/224352840049",
-          "blogger": "Bianca’s Archive",
-          "date": "2026-07-21"
-        },
-        {
-          "title": "트럼프 “캐나다 산불로 대기 오염 넘어오면 추가 관세”",
-          "link": "https://blog.naver.com/et_news/224353411698",
-          "blogger": "전자신문 공식 블로그",
-          "date": "2026-07-21"
-        },
-        {
-          "title": "트럼프 캐나다 50% 관세, 한국 철강·자동차는 어떻게 되나",
-          "link": "https://blog.naver.com/mkb0716/224353269359",
-          "blogger": "알아두면 쓸모있는 일상의 정보들",
-          "date": "2026-07-21"
-        },
-        {
-          "title": "10% 관세 24일 만료) 트럼프 관세 폭탄 또 터진다…한국 ‘15...",
-          "link": "https://blog.naver.com/mananym3/224352843902",
-          "blogger": "포로리얌과 함께 부자되세요!(포부요!)",
-          "date": "2026-07-21"
-        },
-        {
-          "title": "국제뉴스 ㅡ 트럼프, 캐나다 자동차·유제품·주류에 50% 관세...",
-          "link": "https://blog.naver.com/gusteam/224352816946",
-          "blogger": "꿀꿀한데 형이팬다",
-          "date": "2026-07-21"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "7월 4주 주요 제조업 전망",
-          "link": "https://www.laborplus.co.kr/news/articleView.html?idxno=41170",
-          "press": "",
-          "date": "2026-07-21"
-        },
-        {
-          "title": "'10% 글로벌 관세' 수명 끝…트럼프, 301조 관세 전면전 임박",
-          "link": "https://www.dailian.co.kr/news/view/1669385/?sc=Naver",
-          "press": "",
-          "date": "2026-07-21"
-        },
-        {
-          "title": "캐나다 총리, '50% 관세'에 \"트럼프와 통화…협상 강화 합의\"",
-          "link": "https://www.yna.co.kr/view/AKR20260722002300072?input=1195m",
-          "press": "",
-          "date": "2026-07-21"
-        },
-        {
-          "title": "[백광엽 칼럼] '우리 시대의 보너스'에 대하여",
-          "link": "https://www.hankyung.com/article/2026072176021",
-          "press": "",
-          "date": "2026-07-21"
-        },
-        {
-          "title": "트럼프 10% 임시관세 만료 임박… USTR \"곧 조치 있을 것\"",
-          "link": "https://www.newscj.com/news/articleView.html?idxno=3418801",
-          "press": "",
-          "date": "2026-07-21"
-        }
-      ],
-      "rank": 4
-    },
-    {
-      "keyword": "하트시그널5",
-      "traffic": "100+",
-      "blogTotal": 53626,
-      "newsTotal": 12917,
-      "recentToday": 14,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "하트시그널5 11~12회 : 질투 고장 선긋기 단호함, 마음을 정한...",
-          "link": "https://blog.naver.com/sharo20/224353232371",
-          "blogger": "테로's STORY",
-          "date": "2026-07-21"
-        },
-        {
-          "title": "박우열 강유경 '우유경' 서원 규리 최종커플 탄생 (하트시그널5)",
-          "link": "https://blog.naver.com/above_cloud/224353742222",
-          "blogger": "과몰입 공간",
-          "date": "2026-07-21"
-        },
-        {
-          "title": "한남동 맛집 하트시그널5, 제니도 다녀간 무월한남",
-          "link": "https://blog.naver.com/chikicho_/224350955414",
-          "blogger": "폴카쥬",
-          "date": "2026-07-20"
-        },
-        {
-          "title": "하트시그널5 김민주 레이어드컷 헤어스타일 총정리 & 애견녀...",
-          "link": "https://blog.naver.com/ceh8561/224352330427",
-          "blogger": "최블리 행복한 일상><",
-          "date": "2026-07-20"
-        },
-        {
-          "title": "하지만 김서원 현커는 최소윤? 대반전 하트시그널5",
-          "link": "https://blog.naver.com/news_curator_j/224353783461",
-          "blogger": "핫 뉴스만 콕 집어요",
-          "date": "2026-07-22"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "[종합] '하트시그널5' 강유경♥박우열→정규리♥김서원, 최종 커플 탄생",
-          "link": "https://enter.etoday.co.kr/news/view/300042",
-          "press": "",
-          "date": "2026-07-21"
-        },
-        {
-          "title": "'男3표' 받은 강유경, 최종 선택은 박우열.. '하트5' 두 커플 탄생",
-          "link": "http://www.osen.co.kr/article/G1112843934",
-          "press": "",
-          "date": "2026-07-21"
-        },
-        {
-          "title": "'하트시그널5' 최종 커플 강유경♥박우열, 정규리♥김서원",
-          "link": "https://www.bntnews.co.kr/article/view/bnt202607220001",
-          "press": "",
-          "date": "2026-07-21"
-        },
-        {
-          "title": "박우열·강유경, 최종선택→최종 커플...\"많이 좋아하는구나\"",
-          "link": "https://www.slist.kr/news/articleView.html?idxno=753243",
-          "press": "",
-          "date": "2026-07-21"
-        },
-        {
-          "title": "최소윤, 김서원과 궁합까지 봤다…\"잘될 수도 있지 않을까 해서\"",
-          "link": "https://www.slist.kr/news/articleView.html?idxno=753242",
-          "press": "",
-          "date": "2026-07-21"
-        }
-      ],
-      "rank": 5
-    },
-    {
       "keyword": "정철원",
-      "traffic": "100+",
-      "blogTotal": 17437,
+      "traffic": "200+",
+      "blogTotal": 17439,
       "newsTotal": 28809,
       "recentToday": 5,
-      "recentWeek": 48,
+      "recentWeek": 50,
       "topBlogs": [
         {
           "title": "\"입이 안 다물어진다\" 롯데 정철원 와이프 김지연의 충격 폭로...",
@@ -438,7 +292,7 @@
           "date": "2026-07-21"
         }
       ],
-      "rank": 6
+      "rank": 4
     },
     {
       "keyword": "박기량",
@@ -481,18 +335,6 @@
       ],
       "topNews": [
         {
-          "title": "박기량 치어리더 ‘눈빛에 빠져’[엑's HD포토]",
-          "link": "https://www.xportsnews.com/article/2174498",
-          "press": "",
-          "date": "2026-07-21"
-        },
-        {
-          "title": "박기량 치어리더 ‘S라인 몸매’[엑's HD포토]",
-          "link": "https://www.xportsnews.com/article/2174500",
-          "press": "",
-          "date": "2026-07-21"
-        },
-        {
           "title": "박기량 치어리더 ‘자기관리 끝판왕’[엑's HD포토]",
           "link": "https://www.xportsnews.com/article/2174497",
           "press": "",
@@ -505,21 +347,33 @@
           "date": "2026-07-21"
         },
         {
+          "title": "박기량 치어리더 ‘눈빛에 빠져’[엑's HD포토]",
+          "link": "https://www.xportsnews.com/article/2174498",
+          "press": "",
+          "date": "2026-07-21"
+        },
+        {
+          "title": "박기량 치어리더 ‘S라인 몸매’[엑's HD포토]",
+          "link": "https://www.xportsnews.com/article/2174500",
+          "press": "",
+          "date": "2026-07-21"
+        },
+        {
           "title": "박기량 치어리더 ‘블링블링’[엑's HD포토]",
           "link": "https://www.xportsnews.com/article/2174496",
           "press": "",
           "date": "2026-07-21"
         }
       ],
-      "rank": 7
+      "rank": 5
     },
     {
       "keyword": "앤서니 테일러",
       "traffic": "200+",
-      "blogTotal": 6844,
+      "blogTotal": 6847,
       "newsTotal": 7767,
       "recentToday": 1,
-      "recentWeek": 15,
+      "recentWeek": 18,
       "topBlogs": [
         {
           "title": "[오피셜] 앤서니 테일러, 심판직 은퇴 선언 ⚽",
@@ -534,6 +388,12 @@
           "date": "2024-07-06"
         },
         {
+          "title": "앤서니 테일러 은퇴 선언! 축구 역사에 또 다른 의미의 레전드로...",
+          "link": "https://blog.naver.com/takeallmyheart/224353783534",
+          "blogger": "Yourside",
+          "date": "2026-07-22"
+        },
+        {
           "title": "불탄다\" EPL 최고의 트러블 메이커, 앤서니 테일러 주심 해부",
           "link": "https://blog.naver.com/earthscience0/224340255016",
           "blogger": "earthscience0",
@@ -544,12 +404,6 @@
           "link": "https://blog.naver.com/cgtech0721/224316425373",
           "blogger": "씨지맨 T_Life",
           "date": "2026-06-15"
-        },
-        {
-          "title": "\"또 이 심판?\" 앤서니 테일러, 2026 월드컵 배정...한국 팬들...",
-          "link": "https://blog.naver.com/cisomvn452/224253740793",
-          "blogger": "부부동반 여행기록 포트폴리오랩",
-          "date": "2026-04-15"
         }
       ],
       "topNews": [
@@ -584,45 +438,191 @@
           "date": "2026-07-17"
         }
       ],
+      "rank": 6
+    },
+    {
+      "keyword": "이자",
+      "traffic": "200+",
+      "blogTotal": 7153319,
+      "newsTotal": 2414390,
+      "recentToday": 0,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "자동차할부이자 문제없이 일사천리",
+          "link": "https://blog.naver.com/progomland/224345482909",
+          "blogger": "옥곰랜드 @ jeju",
+          "date": "2026-07-13"
+        },
+        {
+          "title": "4000만원 대출 이자, 이조건이면 정석적인 단비티켓",
+          "link": "https://blog.naver.com/6012051057/224270449934",
+          "blogger": "캣그라스",
+          "date": "2026-04-30"
+        },
+        {
+          "title": "주택담보대출이자 비교 전 반드시 확인하고 선택한 과정",
+          "link": "https://blog.naver.com/sunjunpogo/224262181465",
+          "blogger": "★옥정동 성공부동산(성공중개플래너)★",
+          "date": "2026-04-23"
+        },
+        {
+          "title": "중고차할부이자 고민 끝에 결정한 곳",
+          "link": "https://blog.naver.com/kmsmichelle/224269553452",
+          "blogger": "미셸 책 소리",
+          "date": "2026-04-29"
+        },
+        {
+          "title": "4000만원 대출 이자, 이조건이면 진취적인 단비티켓",
+          "link": "https://blog.naver.com/yonghon3/224262583513",
+          "blogger": "맨홀뚜껑",
+          "date": "2026-04-23"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "금값 22% 급락에도…위험회피 기능은 여전",
+          "link": "https://www.g-enews.com/view.php?ud=2026072120045318269a1f309431_1",
+          "press": "",
+          "date": "2026-07-21"
+        },
+        {
+          "title": "블룸버그, \"비트코인 ETF, 금 ETF처럼 급등 및 장기 조정 반복 가능\"",
+          "link": "https://www.khgames.co.kr/news/articleView.html?idxno=306551",
+          "press": "",
+          "date": "2026-07-21"
+        },
+        {
+          "title": "[단독] 40조 들고 온 SK하이닉스… 환율 1555원→ 1473원까지 뚝",
+          "link": "https://www.kmib.co.kr/article/view.asp?arcid=1784624014&code=11151200&cp=nv",
+          "press": "",
+          "date": "2026-07-21"
+        },
+        {
+          "title": "[미국 특징주] 보잉, 에어버스에 대한 EU의 사상 최대 대출 관련 미국 정...",
+          "link": "https://www.newspim.com/news/view/20260722000023",
+          "press": "",
+          "date": "2026-07-21"
+        },
+        {
+          "title": "[백광엽 칼럼] '우리 시대의 보너스'에 대하여",
+          "link": "https://www.hankyung.com/article/2026072176021",
+          "press": "",
+          "date": "2026-07-21"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "keyword": "하트시그널5",
+      "traffic": "100+",
+      "blogTotal": 53651,
+      "newsTotal": 12917,
+      "recentToday": 0,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "박우열 강유경 인스타주소 공개, 우유경 현커 (하트시그널5)",
+          "link": "https://blog.naver.com/above_cloud/224353783832",
+          "blogger": "과몰입 공간",
+          "date": "2026-07-22"
+        },
+        {
+          "title": "하트시그널5 11~12회 : 질투 고장 선긋기 단호함, 마음을 정한...",
+          "link": "https://blog.naver.com/sharo20/224353232371",
+          "blogger": "테로's STORY",
+          "date": "2026-07-21"
+        },
+        {
+          "title": "하지만 김서원 현커는 최소윤? 대반전 하트시그널5",
+          "link": "https://blog.naver.com/news_curator_j/224353783461",
+          "blogger": "핫 뉴스만 콕 집어요",
+          "date": "2026-07-22"
+        },
+        {
+          "title": "한남동 맛집 하트시그널5, 제니도 다녀간 무월한남",
+          "link": "https://blog.naver.com/chikicho_/224350955414",
+          "blogger": "폴카쥬",
+          "date": "2026-07-20"
+        },
+        {
+          "title": "하트시그널5 김민주 레이어드컷 헤어스타일 총정리 & 애견녀...",
+          "link": "https://blog.naver.com/ceh8561/224352330427",
+          "blogger": "최블리 행복한 일상><",
+          "date": "2026-07-20"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "[종합] '하트시그널5' 강유경♥박우열→정규리♥김서원, 최종 커플 탄생",
+          "link": "https://enter.etoday.co.kr/news/view/300042",
+          "press": "",
+          "date": "2026-07-21"
+        },
+        {
+          "title": "'男3표' 받은 강유경, 최종 선택은 박우열.. '하트5' 두 커플 탄생",
+          "link": "http://www.osen.co.kr/article/G1112843934",
+          "press": "",
+          "date": "2026-07-21"
+        },
+        {
+          "title": "'하트시그널5' 최종 커플 강유경♥박우열, 정규리♥김서원",
+          "link": "https://www.bntnews.co.kr/article/view/bnt202607220001",
+          "press": "",
+          "date": "2026-07-21"
+        },
+        {
+          "title": "박우열·강유경, 최종선택→최종 커플...\"많이 좋아하는구나\"",
+          "link": "https://www.slist.kr/news/articleView.html?idxno=753243",
+          "press": "",
+          "date": "2026-07-21"
+        },
+        {
+          "title": "최소윤, 김서원과 궁합까지 봤다…\"잘될 수도 있지 않을까 해서\"",
+          "link": "https://www.slist.kr/news/articleView.html?idxno=753242",
+          "press": "",
+          "date": "2026-07-21"
+        }
+      ],
       "rank": 8
     },
     {
       "keyword": "코스닥",
       "traffic": "200+",
-      "blogTotal": 2005903,
-      "newsTotal": 3090220,
+      "blogTotal": 2005922,
+      "newsTotal": 3090219,
       "recentToday": 0,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "상반기가 코스피였다면 하반기는 코스닥인 이유, 국내 ETF 추천",
-          "link": "https://blog.naver.com/nasiba5083/224305201654",
-          "blogger": "콘시토르의 경제 유니버스",
-          "date": "2026-06-04"
-        },
-        {
-          "title": "\"치사하게 혼자 가냐?\" 코스닥 폭락에도 신고가 쏜 종목 TOP 3",
-          "link": "https://blog.naver.com/blueshw/224353724942",
-          "blogger": "보노의 투자 생존기",
+          "title": "코스닥 폭락장 속 월가의 괴물이 매수한 종목 4가지",
+          "link": "https://blog.naver.com/meaning87/224352422479",
+          "blogger": "은퇴연구소",
           "date": "2026-07-21"
         },
         {
-          "title": "코스닥(KOSDAQ) -40% 폭락과 월봉 최저점, 반등 시점과 전략은?",
-          "link": "https://blog.naver.com/bt64s/224353252433",
-          "blogger": "내가 생각하는대로 세상은 돌아간다.",
+          "title": "코스닥 52주 최저가 찍길래... 레버리지 ETF 샀는데",
+          "link": "https://blog.naver.com/isshoko/224353431267",
+          "blogger": "한녕, 경제로그",
           "date": "2026-07-21"
         },
         {
-          "title": "\"물량 폭탄 터진다\" 코스닥 개미들 70% 날릴 국내주식 정체라는데",
-          "link": "https://blog.naver.com/troilos/224352374283",
-          "blogger": "블로그하는 경제비둘기",
+          "title": "코스닥 이어 코스피도 '매도 사이드카' 발동… 반도체주 급락...",
+          "link": "https://blog.naver.com/jgs1708/224351907244",
+          "blogger": "타사남의 시선",
           "date": "2026-07-20"
         },
         {
-          "title": "\"유일한 ETF\" 코스닥150 투자, 변동성 걱정된다면",
-          "link": "https://blog.naver.com/soap77777/224338234717",
-          "blogger": "비누의 경제 공방",
-          "date": "2026-07-07"
+          "title": "[7월 21일 , 국내증시 장 마감 코멘트] 코스피, 코스닥 반등 성공...",
+          "link": "https://blog.naver.com/twobeone21/224353336053",
+          "blogger": "데이리즈",
+          "date": "2026-07-21"
+        },
+        {
+          "title": "이재명 당선일 코스닥 지수 7월 코스닥 749 똑같다고? 2008년...",
+          "link": "https://blog.naver.com/0apple0apple/224353312776",
+          "blogger": "서코지의 돈이 되는 경제",
+          "date": "2026-07-21"
         }
       ],
       "topNews": [
@@ -662,8 +662,8 @@
     {
       "keyword": "달",
       "traffic": "200+",
-      "blogTotal": 20982794,
-      "newsTotal": 7116595,
+      "blogTotal": 20982921,
+      "newsTotal": 7116602,
       "recentToday": 0,
       "recentWeek": 100,
       "topBlogs": [
@@ -700,32 +700,32 @@
       ],
       "topNews": [
         {
-          "title": "[역사속 오늘·7.22] 노르웨이 브레이비크 테러(2011)·베트남 유엔 가입...",
-          "link": "http://kor.theasian.asia/archives/408913",
+          "title": "포켓몬 하나로 부산이 들썩…대체 뭐길래?",
+          "link": "https://www.ggilbo.com/news/articleView.html?idxno=1169992",
           "press": "",
           "date": "2026-07-21"
         },
         {
-          "title": "한국 증시 급락, 제이피모간과 씨티그룹 엇갈린 전망",
-          "link": "https://www.tokenpost.kr/news/market/379943",
+          "title": "\"S&P 연말까지 8% 더 오른다\"…UBS도 증시 전망치 상향",
+          "link": "https://www.mt.co.kr/world/2026/07/22/2026072202492914755",
           "press": "",
           "date": "2026-07-21"
         },
         {
-          "title": "[금융뒷담] “서금원·신복위 통합땐 이해충돌 소지”… 직원들 반발",
-          "link": "https://www.kmib.co.kr/article/view.asp?arcid=1784617776&code=11151400&cp=nv",
+          "title": "대출 여력 바닥난 은행권 ‘중도상환수수료 면제’ 카드 꺼냈다",
+          "link": "https://www.kmib.co.kr/article/view.asp?arcid=1784623556&code=11151300&cp=nv",
           "press": "",
           "date": "2026-07-21"
         },
         {
-          "title": "\"휴머노이드 10억 대 시대, 우리는 무엇을 준비해야 하는가\"",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=47523",
+          "title": "반도체 품귀에 콘솔값 100만원 시대… 국내 게임사 긴장",
+          "link": "https://www.kmib.co.kr/article/view.asp?arcid=1784534566&code=11161100&cp=nv",
           "press": "",
           "date": "2026-07-21"
         },
         {
-          "title": "스페이스X, 첫 실적 8월4일 발표…보호예수 해제 변수",
-          "link": "https://www.bloter.net/news/articleView.html?idxno=668602",
+          "title": "10대 전동 오토바이에 치인 72세…\"처벌보다 부모 교육이 먼저\"",
+          "link": "https://www.radiokorea.com/news/article.php?uid=499853",
           "press": "",
           "date": "2026-07-21"
         }
