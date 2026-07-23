@@ -1,74 +1,74 @@
 {
-  "updatedAt": "2026-07-23T15:13:59.486Z",
+  "updatedAt": "2026-07-23T16:56:37.809Z",
   "source": "live",
   "keywords": [
     {
-      "keyword": "채널a",
-      "traffic": "200+",
-      "blogTotal": 326784,
-      "newsTotal": 1372002,
+      "keyword": "음문석",
+      "traffic": "100+",
+      "blogTotal": 12780,
+      "newsTotal": 14245,
       "recentToday": 96,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "러브라인 추리일지 | 드디어 최종 선택, 현커 탄생? | 채널A",
-          "link": "https://blog.naver.com/ichannela/224354729165",
-          "blogger": "Play the Next, 채널A",
+          "title": "[호프] 개봉주 무대인사 (나홍진감독 황정민 음문석 조인성)...",
+          "link": "https://blog.naver.com/dhlfl/224351529818",
+          "blogger": "이세상에 단하나뿐인 내꺼를 위하여 오늘도 이리저리",
+          "date": "2026-07-20"
+        },
+        {
+          "title": "\"음문석 댄서 시절 충격 비주얼\" 충청도 사투리 쓰던 그 목수 맞아?",
+          "link": "https://blog.naver.com/bora912/224354595866",
+          "blogger": "감의 인사이트",
           "date": "2026-07-22"
         },
         {
-          "title": "이동재 전 채널A 기자 프로필 명예훼손 결과 총정리",
-          "link": "https://blog.naver.com/ggbps/224346641709",
-          "blogger": "아는것이 힘이다",
-          "date": "2026-07-14"
-        },
-        {
-          "title": "채널A 야구여왕시즌2 방송2회 첫경기 블랙퀸즈 대 산타즈...",
-          "link": "https://blog.naver.com/reviewdepot/224355625540",
-          "blogger": "리뷰릭스의 리뷰저장소(reviewdepot)",
-          "date": "2026-07-23"
-        },
-        {
-          "title": "김어준 '전 채널A기자 명예훼손' 1심 벌금형 2000만원 선고",
-          "link": "https://blog.naver.com/byspoets/224346378134",
-          "blogger": "면역학자 배용석",
-          "date": "2026-07-14"
-        },
-        {
-          "title": "채널A 탐정들의 영업비밀 120회 후기, 월요일예능 추천",
-          "link": "https://blog.naver.com/soview/224352589015",
-          "blogger": "단비짱의 리얼리뷰 다이어리",
+          "title": "영화 <호프> 모든 사건의 시작 목수 '양배' 역의 음문석 배우",
+          "link": "https://blog.naver.com/doona90/224352482793",
+          "blogger": "29200분의 하루를 사는 사람",
           "date": "2026-07-20"
+        },
+        {
+          "title": "모범택시 시즌3 8회 광기폭발 음문석 시선강탈",
+          "link": "https://blog.naver.com/js2y86/224124846945",
+          "blogger": "덕빛's 드라마 필모그라피",
+          "date": "2025-12-28"
+        },
+        {
+          "title": "음문석 배우에 대해 몰랐던 7가지 사실",
+          "link": "https://blog.naver.com/tellmetheending/224353754043",
+          "blogger": "그 영화의 엔딩을 알려줘!",
+          "date": "2026-07-22"
         }
       ],
       "topNews": [
         {
-          "title": "'신랑수업2' 탁재훈 흑역사 셀프 소환",
-          "link": "http://www.kjdaily.com/article.php?aid=1784818861682969227",
+          "title": "황정민 \"子와 일본으로 가족 여행, 애니로 배운 일본어 실력에 놀라...\"...",
+          "link": "https://www.tvreport.co.kr/breaking/article/1063346/",
           "press": "",
           "date": "2026-07-23"
         },
         {
-          "title": "'윤수영♥' 김지영, 출산 후 통통 볼살에 더 어려보여…\"컨디션 아주 좋...",
-          "link": "https://www.mydaily.co.kr/page/view/2026072321285182575",
+          "title": "“전작들과는 전혀 다른 영화… 관객 쾌감 극대화가 목표”",
+          "link": "https://www.kmib.co.kr/article/view.asp?arcid=1784718755&code=13200000&cp=nv",
           "press": "",
           "date": "2026-07-23"
         },
         {
-          "title": "'야구여왕2' 박민서, 선발 장수영 부진에 구원 등판…세 타자 KKK",
-          "link": "https://enter.etoday.co.kr/news/view/300120",
+          "title": "음문석 \"황정민과 호흡 설렜다...눈만 봐도 연기가 자동으로 되는 느낌...",
+          "link": "https://www.tvreport.co.kr/breaking/article/1063316/",
           "press": "",
           "date": "2026-07-23"
         },
         {
-          "title": "추신수 감독, 경기 집중 못하는 선수들에 호통 “정신 차려!” (야구여...",
-          "link": "http://enews.imbc.com/News/RetrieveNewsInfo/512434",
+          "title": "황정민 \"'호프' 욕설 많은 이유? 공포 느끼면 욕부터 나온다\"('추성훈')...",
+          "link": "http://www.celuvmedia.com/article.php?aid=1784809202524492010",
           "press": "",
           "date": "2026-07-23"
         },
         {
-          "title": "‘야구여왕2’ 추신수 감독, ‘원조 에이스’ 장수영과 긴급 면담 “기...",
-          "link": "http://enews.imbc.com/News/RetrieveNewsInfo/512433",
+          "title": "황정민, 촬영 중 멧돼지 습격 받았다 \"순간 화나서 때려\"('추성훈')[셀럽...",
+          "link": "http://www.celuvmedia.com/article.php?aid=1784807765524491010",
           "press": "",
           "date": "2026-07-23"
         }
@@ -76,11 +76,157 @@
       "rank": 1
     },
     {
+      "keyword": "토네이도",
+      "traffic": "200+",
+      "blogTotal": 307178,
+      "newsTotal": 42565,
+      "recentToday": 92,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "선출도 인정! 3만원대 가성비 풋살화 추천 | 스타 토네이도",
+          "link": "https://blog.naver.com/runwavesports/224355232536",
+          "blogger": "allaboutworkout",
+          "date": "2026-07-23"
+        },
+        {
+          "title": "디테일링이 편해지는 토네이도건",
+          "link": "https://blog.naver.com/mk5104/224199259854",
+          "blogger": "디테일러명 공식블로그",
+          "date": "2026-02-28"
+        },
+        {
+          "title": "페리오 거품의 혁신이라는 토네이도 칫솔 내돈내산 후",
+          "link": "https://blog.naver.com/cien79/224285277466",
+          "blogger": "KYLE의 소소한 리뷰",
+          "date": "2026-05-14"
+        },
+        {
+          "title": "롯데리아 아이스크림 말차 토네이도 초코쿠키 가격 칼로리",
+          "link": "https://blog.naver.com/ejs2122/224298564760",
+          "blogger": "로지쿡의 먹고 사는 이야기",
+          "date": "2026-05-28"
+        },
+        {
+          "title": "돼지가 한 자리에? 77119 테일즈의 토네이도-1 공식 리뷰 분석",
+          "link": "https://blog.naver.com/a4ga52/224326709183",
+          "blogger": "레고, 사진 그리고 나",
+          "date": "2026-06-25"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "스펙터 “팬케이크스왑 LP, 악성 EIP-7702 서명으로 296만달러 피해”",
+          "link": "https://www.tokenpost.kr/news/breaking/380644",
+          "press": "",
+          "date": "2026-07-23"
+        },
+        {
+          "title": "[현장영상] 중국 덮친 토네이도",
+          "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8618857&ref=A",
+          "press": "",
+          "date": "2026-07-23"
+        },
+        {
+          "title": "낙엽처럼 날아간 집기…토네이도에 아수라장",
+          "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000541415",
+          "press": "",
+          "date": "2026-07-23"
+        },
+        {
+          "title": "[나눔 트렌드] 경북사회복지공동모금회, 2026년 복권기금 아동·청소년 ...",
+          "link": "https://www.ibabynews.com/news/articleView.html?idxno=153118",
+          "press": "",
+          "date": "2026-07-23"
+        },
+        {
+          "title": "[영상] 중국서 승합차 들어 올려 수십미터 날려버린 토네이도 '아찔'",
+          "link": "https://www.yna.co.kr/view/AKR20260723164600704?input=1195m",
+          "press": "",
+          "date": "2026-07-23"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "keyword": "신상출시 편스토랑",
+      "traffic": "500+",
+      "blogTotal": 45204,
+      "newsTotal": 71125,
+      "recentToday": 74,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "시장 가려다 올림픽대로 구경?(신상출시 편스토랑)",
+          "link": "https://blog.naver.com/sarangrachel/224355642020",
+          "blogger": "커피와 꽈배기",
+          "date": "2026-07-23"
+        },
+        {
+          "title": "윤시윤 결혼 못 한 충격적인 이유 (신상출시 편스토랑)",
+          "link": "https://blog.naver.com/travelhyuk/224287696266",
+          "blogger": "임씨의 지구를 지켜라!!",
+          "date": "2026-05-16"
+        },
+        {
+          "title": "신상출시 편스토랑 314회 야노시호 신입 편셰프 출격",
+          "link": "https://blog.naver.com/dotnews/224223707919",
+          "blogger": "닷뉴스",
+          "date": "2026-03-20"
+        },
+        {
+          "title": "신상출시 편스토랑 324회 오상진, 김소영 곁 지킨 둘째 출산 순간",
+          "link": "https://blog.naver.com/newspdc/224300853242",
+          "blogger": "뉴스피디",
+          "date": "2026-05-30"
+        },
+        {
+          "title": "신상출시 편스토랑 331회 하석진, 무심한 플러팅에 엄지윤도...",
+          "link": "https://blog.naver.com/news9kr/224355459371",
+          "blogger": "뉴스나인",
+          "date": "2026-07-23"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "'청담동 자가' 하석진, 결혼+연애 생각 밝혔다..\"여자친구無\" ('편스토랑...",
+          "link": "http://www.osen.co.kr/article/G1112845463",
+          "press": "",
+          "date": "2026-07-23"
+        },
+        {
+          "title": "'편스토랑' 하석진, 목란 짬뽕 레시피 공개…재료 보니",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16144273",
+          "press": "",
+          "date": "2026-07-23"
+        },
+        {
+          "title": "[신상출시 편스토랑] 하석진, 냉털 요리로 ‘팟카파오무쌈' 15분 완성! 이...",
+          "link": "https://kstar.kbs.co.kr/list_view.html?idx=406473",
+          "press": "",
+          "date": "2026-07-23"
+        },
+        {
+          "title": "[신상출시 편스토랑] 엄지윤, \"셰프가 하석진이면 파스타 값 100만 원”...",
+          "link": "https://kstar.kbs.co.kr/list_view.html?idx=406468",
+          "press": "",
+          "date": "2026-07-23"
+        },
+        {
+          "title": "[신상출시 편스토랑] 하석진 ‘성게알 버터 파스타’~ 이연복도 인정한...",
+          "link": "https://kstar.kbs.co.kr/list_view.html?idx=406463",
+          "press": "",
+          "date": "2026-07-23"
+        }
+      ],
+      "rank": 3
+    },
+    {
       "keyword": "wti",
       "traffic": "100+",
-      "blogTotal": 464011,
-      "newsTotal": 387233,
-      "recentToday": 95,
+      "blogTotal": 464040,
+      "newsTotal": 387240,
+      "recentToday": 64,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -102,192 +248,46 @@
           "date": "2026-03-10"
         },
         {
+          "title": "첫 선물투자(MCLQ) WTI(운?) 한입만선생님",
+          "link": "https://blog.naver.com/jinsoek1ok/224355975492",
+          "blogger": "Jumong님의 블로그",
+          "date": "2026-07-23"
+        },
+        {
           "title": "호르무즈 해협이 열린다고 국제 유가 WTI가 내릴까?",
           "link": "https://blog.naver.com/nasiba5083/224317092132",
           "blogger": "콘시토르의 경제 유니버스",
           "date": "2026-06-16"
-        },
-        {
-          "title": "적중률 100%였던 최근 투자!! (feat.WTI 레버리지)",
-          "link": "https://blog.naver.com/yesahang/224355930242",
-          "blogger": "유나비의 리씽크",
-          "date": "2026-07-23"
         }
       ],
       "topNews": [
         {
-          "title": "미국 뉴욕증시, 국제유가·국채금리 상승...다우 나스닥 하락",
-          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3644765",
+          "title": "美 국채가, 연일 하락세…홍해 봉쇄 우려에 유가 급등",
+          "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4426554",
           "press": "",
           "date": "2026-07-23"
         },
         {
-          "title": "브렌트유 100달러 돌파…미·이란 충돌에 후티, 홍해 유조선 피격까지",
-          "link": "https://www.dt.co.kr/article/12074496?ref=naver",
+          "title": "美 증시, 빅테크 실적으로 박스권 탈출?...유가 95달러·금리 5% 악재 뚫...",
+          "link": "http://coinreaders.com/249212",
           "press": "",
           "date": "2026-07-23"
         },
         {
-          "title": "유가 급등·주가 폭락·美 국채 금리 상승…이란 전쟁의 3중 파고",
-          "link": "https://www.newsis.com/view/NISX20260723_0003721261",
+          "title": "WTI 국제유가 장중 7% 급등…배럴당 93달러 돌파",
+          "link": "https://www.tokenpost.kr/news/breaking/380630",
           "press": "",
           "date": "2026-07-23"
         },
         {
-          "title": "국제 유가 다시 100달러 돌파…파랗게 질린 뉴욕 증시",
-          "link": "https://www.chosun.com/international/international_general/2026/07/23/OCEA5MOTXFHJNAL4S4KBHPGBFM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+          "title": "후티 유조선 공격에 브렌트유, 두 달 만에 100달러 넘겨(종합)",
+          "link": "https://www.newscj.com/news/articleView.html?idxno=3419506",
           "press": "",
           "date": "2026-07-23"
         },
         {
-          "title": "중동 긴장 고조…브렌트유 두 달 만에 100달러 돌파",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008672356&plink=ORI&cooper=NAVER",
-          "press": "",
-          "date": "2026-07-23"
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "keyword": "메자닌",
-      "traffic": "100+",
-      "blogTotal": 26285,
-      "newsTotal": 27032,
-      "recentToday": 63,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "메자닌 - 비닐하우스와 같은 어려움이 존재하는 대상",
-          "link": "https://blog.naver.com/cntychn/224355116124",
-          "blogger": "바람을 안은 발걸음",
-          "date": "2026-07-23"
-        },
-        {
-          "title": "메자닌랙(중이층랙) 설치하면 창고 공간이 진짜 2배가 될까?...",
-          "link": "https://blog.naver.com/neo_pmang/224351808680",
-          "blogger": "스마트랙",
-          "date": "2026-07-20"
-        },
-        {
-          "title": "메자닌 구조 뜻 완벽 정리 주식과 채권 사이 하이브리드 금융의...",
-          "link": "https://blog.naver.com/vw1202/224352166877",
-          "blogger": "유레카터널의 파이프라인",
-          "date": "2026-07-20"
-        },
-        {
-          "title": "연천군 철거 전문 메자닌 철거 현장 (+ 포천 가평 의정부 남양주)",
-          "link": "https://blog.naver.com/ojh3529/224309225384",
-          "blogger": "선인맨의 캠프사이트",
-          "date": "2026-06-08"
-        },
-        {
-          "title": "쿠팡 인천 물류센터 화재, 5년 전 경고 무시한 메자닌 구조가 또...",
-          "link": "https://blog.naver.com/yanuseksk/224351143244",
-          "blogger": "블스페이퍼",
-          "date": "2026-07-19"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "KB증권, 상반기 영업이익 1조 돌파…역대 최대 반기 실적",
-          "link": "https://www.econovill.com/news/articleView.html?idxno=746004",
-          "press": "",
-          "date": "2026-07-23"
-        },
-        {
-          "title": "[집중취재① /인천 쿠팡 화재] 창고시설 화재안전기준 높였지만… 인천...",
-          "link": "http://fpn119.co.kr/254300",
-          "press": "",
-          "date": "2026-07-23"
-        },
-        {
-          "title": "[단독] \"선반 사이 치솟는 불길\"...쿠팡 물류센터 화재 초기 모습",
-          "link": "https://www.ytn.co.kr/_ln/0103_202607232306492745",
-          "press": "",
-          "date": "2026-07-23"
-        },
-        {
-          "title": "인천 쿠팡물류센터 화재 현장감식, 안전진단 이후로 연기",
-          "link": "https://www.news1.kr/local/incheon/6237390",
-          "press": "",
-          "date": "2026-07-23"
-        },
-        {
-          "title": "인천 쿠팡물류센터 화재 나흘만에 완진…조만간 합동감식",
-          "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8618760&ref=A",
-          "press": "",
-          "date": "2026-07-23"
-        }
-      ],
-      "rank": 3
-    },
-    {
-      "keyword": "나한일",
-      "traffic": "500+",
-      "blogTotal": 3618,
-      "newsTotal": 4026,
-      "recentToday": 42,
-      "recentWeek": 47,
-      "topBlogs": [
-        {
-          "title": "나한일 프로필 유혜영 34년 애증의 결말 (나이 딸 나혜진...",
-          "link": "https://blog.naver.com/diacpqpqp/224355681183",
-          "blogger": "K 에디트",
-          "date": "2026-07-23"
-        },
-        {
-          "title": "특종세상 나한일 유혜영 세번째 재결합 근황",
-          "link": "https://blog.naver.com/dydghks3250/224355600326",
-          "blogger": "❤️ ✅kGn뉴스 ✅❤️",
-          "date": "2026-07-23"
-        },
-        {
-          "title": "나한일 유혜영 정은숙 이혼 이유 프로필",
-          "link": "https://blog.naver.com/successsssss7/223893136408",
-          "blogger": "쉽고 빠르게 보는 이슈 이야기",
-          "date": "2025-06-09"
-        },
-        {
-          "title": "배우 나한일 프로필, 세 번의 결혼과 재결합 아내 유혜영 전부인...",
-          "link": "https://blog.naver.com/lvhp1/224355573399",
-          "blogger": "lvhp",
-          "date": "2026-07-23"
-        },
-        {
-          "title": "유혜영 프로필 남편 나한일 재혼 이유 자녀 딸 나혜진",
-          "link": "https://blog.naver.com/toygrim/224355592349",
-          "blogger": "정보",
-          "date": "2026-07-23"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "[종합] \"하지 않으면 죽을 거 같아서\"…'특종세상' 죽음의 문턱에 선 서...",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16144264",
-          "press": "",
-          "date": "2026-07-23"
-        },
-        {
-          "title": "나한일, 유혜영과 세 번째 재결합→합가 기념 여행 \"가정적으로 바뀌어...",
-          "link": "https://www.tvreport.co.kr/broadcast/article/1063332/",
-          "press": "",
-          "date": "2026-07-23"
-        },
-        {
-          "title": "\"집 날아가고 생활고까지\"…유혜영, 나한일과 '2번째 이혼' 선택했던 진...",
-          "link": "http://www.osen.co.kr/article/G1112845245",
-          "press": "",
-          "date": "2026-07-23"
-        },
-        {
-          "title": "[TVis] 나한일·유혜영 ‘세번째 재결합’ 이끈 딸 공개...미모의 배우 ...",
-          "link": "https://isplus.com/article/view/isp202607230185",
-          "press": "",
-          "date": "2026-07-23"
-        },
-        {
-          "title": "나한일, 이혼 두 번 후 세 번째 재결합… 유혜영에게 \"전부 내 잘못\" [TV...",
-          "link": "http://www.tvdaily.co.kr/read.php3?aid=17848136741794884002",
+          "title": "미·이란 충돌에 홍해까지 막히나…브렌트유 100달러 돌파",
+          "link": "https://www.segye.com/newsView/20260724500383?OutUrl=naver",
           "press": "",
           "date": "2026-07-23"
         }
@@ -295,9 +295,82 @@
       "rank": 4
     },
     {
-      "keyword": "tesla stock",
+      "keyword": "박세리",
       "traffic": "500+",
-      "blogTotal": 15508,
+      "blogTotal": 103959,
+      "newsTotal": 127725,
+      "recentToday": 54,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "맨발투혼 골프선수 박세리 리치언니의  월드클래스 영어공부법",
+          "link": "https://blog.naver.com/dinnernin/224354923321",
+          "blogger": "캐나다 오피스 영어 디너닝글리시",
+          "date": "2026-07-23"
+        },
+        {
+          "title": "'박세리 결혼 영상이 AI라고?' 김승수 가짜 결혼설 해명 정리",
+          "link": "https://blog.naver.com/gashwoon/224163338343",
+          "blogger": "개쉬운영어",
+          "date": "2026-01-28"
+        },
+        {
+          "title": "신기록, 방신실과 동반 플레이 박세리도 못 깬 기록에 도전한다",
+          "link": "https://blog.naver.com/happypanchok/224295782706",
+          "blogger": "애드공감",
+          "date": "2026-05-25"
+        },
+        {
+          "title": "박세리 아빠 고소 근황",
+          "link": "https://blog.naver.com/dydghks3250/224347106576",
+          "blogger": "❤️ ✅kGn뉴스 ✅❤️",
+          "date": "2026-07-15"
+        },
+        {
+          "title": "야구여왕 박세리, 야구장서 ‘뒷목’ 잡은 사연? “너희, 쉽게...",
+          "link": "https://blog.naver.com/ft-times/224193912085",
+          "blogger": "FT스포츠",
+          "date": "2026-02-24"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "박세리, 이사한 새집 공개‥높은 층고에 테라스만 봐도 으리으리(속사정...",
+          "link": "https://www.newsen.com/news_view.php?uid=202607231628302510",
+          "press": "",
+          "date": "2026-07-23"
+        },
+        {
+          "title": "박세리, 으리으리 새 집 최초 공개…초대형 테라스에 '입이 떡'",
+          "link": "https://www.xportsnews.com/article/2173458",
+          "press": "",
+          "date": "2026-07-23"
+        },
+        {
+          "title": "\"절연한 엄마가 또\" 김혜수→한소희→장윤정...연예계 '가족 리스크'",
+          "link": "https://www.mt.co.kr/society/2026/07/23/2026072208255471182",
+          "press": "",
+          "date": "2026-07-22"
+        },
+        {
+          "title": "임영웅 1위 복귀·김주하 19계단 상승…7월 3주차 예능 출연자 화제성(라...",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16143305",
+          "press": "",
+          "date": "2026-07-22"
+        },
+        {
+          "title": "CJ그룹, 베트남서 전국·국제 태권도 대회 열어",
+          "link": "https://www.cnbizm.com/news/articleView.html?idxno=309273",
+          "press": "",
+          "date": "2026-07-22"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "keyword": "tesla stock",
+      "traffic": "1000+",
+      "blogTotal": 15511,
       "newsTotal": 3019,
       "recentToday": 34,
       "recentWeek": 100,
@@ -365,15 +438,15 @@
           "date": "2026-07-22"
         }
       ],
-      "rank": 5
+      "rank": 6
     },
     {
       "keyword": "자오즈민",
-      "traffic": "500+",
-      "blogTotal": 1032,
+      "traffic": "1000+",
+      "blogTotal": 1035,
       "newsTotal": 2758,
       "recentToday": 32,
-      "recentWeek": 35,
+      "recentWeek": 38,
       "topBlogs": [
         {
           "title": "꼬꼬무 안재형 자오즈민 러브스토리 화제 이유...",
@@ -388,22 +461,22 @@
           "date": "2026-07-23"
         },
         {
-          "title": "꼬꼬무 안재형 자오즈민 탁구선수 러브스토리 자녀 아들 안병훈...",
-          "link": "https://blog.naver.com/kahee0408/224355827868",
-          "blogger": "지구만사 리뷰",
-          "date": "2026-07-23"
-        },
-        {
           "title": "꼬꼬무 안재형 자오즈민 러브스토리｜한중수교 전 국경을 넘은...",
           "link": "https://blog.naver.com/moviechain/224355433128",
           "blogger": "꼬리의일상",
           "date": "2026-07-23"
         },
         {
-          "title": "꼬꼬무 233회 세기의 사랑 안재형 자오즈민 나이 프로필...",
-          "link": "https://blog.naver.com/qhrfks1004/224355755558",
-          "blogger": "♥라니의 달콤한세상이야기♥",
+          "title": "꼬꼬무 안재형 자오즈민 탁구선수 러브스토리 자녀 아들 안병훈...",
+          "link": "https://blog.naver.com/kahee0408/224355827868",
+          "blogger": "지구만사 리뷰",
           "date": "2026-07-23"
+        },
+        {
+          "title": "꼬꼬무 233회 리뷰 세기의 사랑 안재형과 자오즈민의 국경을...",
+          "link": "https://blog.naver.com/sjh823/224356020402",
+          "blogger": "데이지st의 하루",
+          "date": "2026-07-24"
         }
       ],
       "topNews": [
@@ -438,161 +511,15 @@
           "date": "2026-07-23"
         }
       ],
-      "rank": 6
-    },
-    {
-      "keyword": "크보",
-      "traffic": "100+",
-      "blogTotal": 57395,
-      "newsTotal": 2756,
-      "recentToday": 23,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "스타벅스 KBO 키링 야구공 복조리 굿즈 스벅 크보 키체인 후기",
-          "link": "https://blog.naver.com/nowwegom/224232829735",
-          "blogger": "먹기 위해 사는 위장 환자",
-          "date": "2026-03-29"
-        },
-        {
-          "title": "KBO빵 편의점 품절대란 크보빵 파는곳",
-          "link": "https://blog.naver.com/aeirmeki/223810530915",
-          "blogger": "-에르르네 집。",
-          "date": "2025-03-26"
-        },
-        {
-          "title": "삼성 SSG 준플레이오프 중계 채널 라이브 하이라이트 크보",
-          "link": "https://blog.naver.com/designsoho94/224040773543",
-          "blogger": "디자인소호 블로그",
-          "date": "2025-10-14"
-        },
-        {
-          "title": "크보빵이 만든 SPC삼립 주가 상승 비밀",
-          "link": "https://blog.naver.com/lmj400/223810086838",
-          "blogger": "웰커넥티드",
-          "date": "2025-03-26"
-        },
-        {
-          "title": "KBO 컬렉션 포토카드 크보카드 | 일정 가격 선수구성...",
-          "link": "https://blog.naver.com/yaguharu/223872395762",
-          "blogger": "예니의 야구하루",
-          "date": "2025-05-21"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "'39세' 카라스코, 24일 입국⋯LG가 주목한 건 112승 아닌 '기교'",
-          "link": "https://www.etoday.co.kr/news/view/2606752",
-          "press": "",
-          "date": "2026-07-23"
-        },
-        {
-          "title": "5회까지 무실점⋯롯데 타선이 아빌라 공략 못한 이유 3가지",
-          "link": "https://www.etoday.co.kr/news/view/2606481",
-          "press": "",
-          "date": "2026-07-23"
-        },
-        {
-          "title": "KBO, 콘텐츠 제작에 AI 기술 본격 활용…WSC Sports와 파트너십 체결",
-          "link": "https://www.mediapen.com/news/view/1110641",
-          "press": "",
-          "date": "2026-07-16"
-        },
-        {
-          "title": "‘AI 콘텐츠 제작 스타트’ KBO, WSC Sports와 파트너십 체결",
-          "link": "https://www.sportsseoul.com/news/read/1622858?ref=naver",
-          "press": "",
-          "date": "2026-07-16"
-        },
-        {
-          "title": "KBO, WSC 스포츠와 파트너십 기반 AI 콘텐츠 제작",
-          "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553382208",
-          "press": "",
-          "date": "2026-07-16"
-        }
-      ],
       "rank": 7
     },
     {
-      "keyword": "야구여왕 시즌2",
-      "traffic": "100+",
-      "blogTotal": 2461,
-      "newsTotal": 1473,
-      "recentToday": 19,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "장수영 연속 볼넷 에이스의 부진 (야구여왕 시즌2 해머스스톰 전)",
-          "link": "https://blog.naver.com/above_cloud/224355966277",
-          "blogger": "과몰입 공간",
-          "date": "2026-07-23"
-        },
-        {
-          "title": "채널A 야구여왕시즌2 방송2회 첫경기 블랙퀸즈 대 산타즈...",
-          "link": "https://blog.naver.com/reviewdepot/224355625540",
-          "blogger": "리뷰릭스의 리뷰저장소(reviewdepot)",
-          "date": "2026-07-23"
-        },
-        {
-          "title": "야구여왕 시즌2 3회 블랙퀸즈 vs 해머스스톰, 완급 조절에...",
-          "link": "https://blog.naver.com/news9kr/224355501376",
-          "blogger": "뉴스나인",
-          "date": "2026-07-23"
-        },
-        {
-          "title": "야구여왕 시즌2 출연진(멤버)... 송민지와 박민서 선수 관심 폭발",
-          "link": "https://blog.naver.com/caleb0901/224351192019",
-          "blogger": "이과장의 스포츠",
-          "date": "2026-07-19"
-        },
-        {
-          "title": "박보람 김보름 눈물 어린 하차 이유 야구여왕 시즌2 (예능추천)",
-          "link": "https://blog.naver.com/pang_gom/224342320652",
-          "blogger": "미디어 부수기!!",
-          "date": "2026-07-10"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "추신수 감독, 경기 집중 못하는 선수들에 호통 “정신 차려!” (야구여...",
-          "link": "http://enews.imbc.com/News/RetrieveNewsInfo/512434",
-          "press": "",
-          "date": "2026-07-23"
-        },
-        {
-          "title": "‘야구여왕2’ 추신수 감독, ‘원조 에이스’ 장수영과 긴급 면담 “기...",
-          "link": "http://enews.imbc.com/News/RetrieveNewsInfo/512433",
-          "press": "",
-          "date": "2026-07-23"
-        },
-        {
-          "title": "'야구여왕2' 블랙퀸즈vs해머스스톰, 경기결과 궁금증↑",
-          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3644645",
-          "press": "",
-          "date": "2026-07-23"
-        },
-        {
-          "title": "‘야구여왕2’ 추신수의 불호령",
-          "link": "https://sports.khan.co.kr/article/202607231417003?pt=nv",
-          "press": "",
-          "date": "2026-07-23"
-        },
-        {
-          "title": "블랙퀸즈, 해머스스톰 강한 주루·투수 완급에 위기…추신수 감독 '집중...",
-          "link": "https://www.cbci.co.kr/news/articleView.html?idxno=591192",
-          "press": "",
-          "date": "2026-07-23"
-        }
-      ],
-      "rank": 8
-    },
-    {
       "keyword": "박정수",
-      "traffic": "200+",
-      "blogTotal": 49835,
+      "traffic": "500+",
+      "blogTotal": 49836,
       "newsTotal": 66226,
       "recentToday": 14,
-      "recentWeek": 74,
+      "recentWeek": 75,
       "topBlogs": [
         {
           "title": "“착한 남자는 매력 없다” 박정수 말, 그럼 나쁜 남자와 결혼하나",
@@ -657,77 +584,150 @@
           "date": "2026-07-23"
         }
       ],
-      "rank": 9
+      "rank": 8
     },
     {
-      "keyword": "노지선",
+      "keyword": "댕구알버섯",
       "traffic": "200+",
-      "blogTotal": 9705,
-      "newsTotal": 11113,
-      "recentToday": 4,
-      "recentWeek": 11,
+      "blogTotal": 1049,
+      "newsTotal": 1017,
+      "recentToday": 3,
+      "recentWeek": 6,
       "topBlogs": [
         {
-          "title": "20대에 유독 사복이 태가 나는 이유 3가지..노지선 오프숄더가...",
-          "link": "https://blog.naver.com/wrng_stylenote/224344225958",
-          "blogger": "우렁이 스타일 노트",
+          "title": "댕구알버섯이 올해도",
+          "link": "https://blog.naver.com/comzirak/224343852613",
+          "blogger": "꼼지의 작은세상",
           "date": "2026-07-12"
         },
         {
-          "title": "노지선픽 어티슈 모자 이렇게 잘 어울린다고?",
-          "link": "https://blog.naver.com/kuroinu92/224268668329",
-          "blogger": "‘마른체형’ 남자 코디 아카이브",
-          "date": "2026-04-29"
+          "title": "유방암세포 억제하는 댕구알버섯, 남원 과수원서 13년째 연속...",
+          "link": "https://blog.naver.com/3jeong/224355342978",
+          "blogger": "개갈 안나는 블로그",
+          "date": "2026-07-23"
         },
         {
-          "title": "[내돈내산] 노지선 역대급 사복 착장 손에 넣고, 계획 없이 떠난...",
-          "link": "https://blog.naver.com/jho7251/224330371590",
-          "blogger": "이슈 포럼 에딕션",
-          "date": "2026-06-29"
+          "title": "천기누설 댕구알 버섯, 상황버섯 효능 구매하는곳",
+          "link": "https://blog.naver.com/naza123/224098782434",
+          "blogger": "김호두NEWS",
+          "date": "2025-12-05"
         },
         {
-          "title": "이후 더 선명해진 아우라. 노지선이 그리는 29세의 단단한 기록",
-          "link": "https://blog.naver.com/lifesystem365/224208558580",
-          "blogger": "뷰어스 다이어리",
-          "date": "2026-03-08"
+          "title": "댕구알버섯 효능, 식용 가능할까? 13년 연속 발견된 희귀버섯...",
+          "link": "https://blog.naver.com/lee_golgol/224355995791",
+          "blogger": "골골이의 건강 이야기",
+          "date": "2026-07-24"
         },
         {
-          "title": "노지선 패션 뭐야? 나시탑 하나로 완성한 레이어드 여름코디",
-          "link": "https://blog.naver.com/flexgoo/224336504675",
-          "blogger": "일본구짱",
-          "date": "2026-07-04"
+          "title": "댕구알버섯 효능, 건강 챙기려는 직장인 필수 정보",
+          "link": "https://blog.naver.com/healthinfo2541/224180065794",
+          "blogger": "담백한 건강정보 기록장",
+          "date": "2026-02-11"
         }
       ],
       "topNews": [
         {
-          "title": "노지선, 벽돌 배경 올블랙 룩으로 여름 거리 산책",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16144134",
+          "title": "축구공 크기 ‘세계 희귀종’ 13년째 발견…남원 과수원에 무슨일?",
+          "link": "https://www.joongang.co.kr/article/25447713",
           "press": "",
           "date": "2026-07-23"
         },
         {
-          "title": "백지헌, 화보 속 몽환 비주얼…프로미스나인 활동 잇는 존재감",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16143799",
+          "title": "밭 한가운데서 나온 축구공 만한 '이것'…알고보니 세계적 희귀종",
+          "link": "http://www.inews24.com/view/1988309",
           "press": "",
           "date": "2026-07-23"
         },
         {
-          "title": "임영웅·이찬원·신민아 TOP3…손나은 160계단 도약 (MSN 좋아요·열독률...",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16142779",
+          "title": "남원 지리산 자락서 희귀 댕구알버섯 발견",
+          "link": "https://news.tvchosun.com/site/data/html_dir/2026/07/23/2026072390274.html",
           "press": "",
-          "date": "2026-07-22"
+          "date": "2026-07-23"
         },
         {
-          "title": "노지선, 고궁 야경 속 흔들린 셀카로 근황 전해",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16141767",
+          "title": "축구공만한 3000만원짜리 버섯…남원서 ‘댕구알버섯’ 또 발견",
+          "link": "https://www.donga.com/news/Society/article/all/20260723/134352552/2",
           "press": "",
-          "date": "2026-07-21"
+          "date": "2026-07-23"
         },
         {
-          "title": "원호-프로미스나인-에잇턴...가요계 뒤흔들 K-POP 가수들의 컴백",
-          "link": "https://www.raonnews.com/news/article.html?no=59670",
+          "title": "복분자 심었는데 '축구공'이…13년째 '이 버섯' 발견",
+          "link": "https://www.hankyung.com/article/2026072323837",
           "press": "",
+          "date": "2026-07-23"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "keyword": "주거",
+      "traffic": "500+",
+      "blogTotal": 10269633,
+      "newsTotal": 4272371,
+      "recentToday": 0,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "배관노후감각 주거만족도 높이는 관리 포인트",
+          "link": "https://blog.naver.com/yonghon3/224300261624",
+          "blogger": "맨홀뚜껑",
+          "date": "2026-06-01"
+        },
+        {
+          "title": "LH 행복주택 신청 및 주거 안정을 돕는 정보 알아봐요",
+          "link": "https://blog.naver.com/o3140o/224318852627",
+          "blogger": "★행운★",
+          "date": "2026-06-17"
+        },
+        {
+          "title": "주거급여 조건 소득인정액 기준 및 지역별 지급금액 신청",
+          "link": "https://blog.naver.com/2vivi/224342706372",
+          "blogger": "나스나스한하루",
+          "date": "2026-07-10"
+        },
+        {
+          "title": "신생아 특례대출 청년 주거안정 대책 착수",
+          "link": "https://blog.naver.com/mong4862/224345928060",
+          "blogger": "실용주의자",
+          "date": "2026-07-14"
+        },
+        {
+          "title": "정착이 주는 통일 미래의 의미, 남북한의 주거문화 살펴보기",
+          "link": "https://blog.naver.com/gounikorea/224352347001",
+          "blogger": "통일부 공식 블로그",
           "date": "2026-07-21"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "임지락, 첫 조직개편(안)…바이오·폐광진흥 묶고 미래산업 컨트롤 타워...",
+          "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=438036",
+          "press": "",
+          "date": "2026-07-23"
+        },
+        {
+          "title": "부천시, AI 돌봄플러그 4세대 도입 추진",
+          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3644805",
+          "press": "",
+          "date": "2026-07-23"
+        },
+        {
+          "title": "부천시의회 도시교통위, 대장·역곡 공공주택지구 방문",
+          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3644809",
+          "press": "",
+          "date": "2026-07-23"
+        },
+        {
+          "title": "인천시, 유해화학물질 사업장 화학물질 안전관리 교육",
+          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3644801",
+          "press": "",
+          "date": "2026-07-23"
+        },
+        {
+          "title": "보유세, 가격·용도 따져 차등… 李 “잠깐 비거주는 실거주로 쳐야”",
+          "link": "https://www.chosun.com/economy/real_estate/2026/07/24/MYKD6NTMZRB2FJ2DIE7OQT4C6M/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+          "press": "",
+          "date": "2026-07-23"
         }
       ],
       "rank": 10
