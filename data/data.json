@@ -1,12 +1,85 @@
 {
-  "updatedAt": "2026-07-24T19:53:56.179Z",
+  "updatedAt": "2026-07-24T21:00:04.532Z",
   "source": "live",
   "keywords": [
     {
+      "keyword": "액화천연가스",
+      "traffic": "200+",
+      "blogTotal": 110687,
+      "newsTotal": 235320,
+      "recentToday": 90,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "대한민국의 자랑: 액화천연가스(LNG) 운반선",
+          "link": "https://blog.naver.com/leader8949/224328623134",
+          "blogger": "Kimwy TV",
+          "date": "2026-06-27"
+        },
+        {
+          "title": "액화 천연가스 관련주, 앞으로 오를 종목은?",
+          "link": "https://blog.naver.com/jkw039/224171300240",
+          "blogger": "uioyufgrgf",
+          "date": "2026-02-04"
+        },
+        {
+          "title": "2026 액화 천연가스 관련주, 지금 담아야 할 종목은?",
+          "link": "https://blog.naver.com/naju2112/224171314157",
+          "blogger": "늘푸른농장",
+          "date": "2026-02-04"
+        },
+        {
+          "title": "트럼프 LNG관련주 (액화천연가스 LNG프로젝트 재개)...",
+          "link": "https://blog.naver.com/yopretty37/224000445368",
+          "blogger": "민채로운 해빙투자 ; 매매 기록",
+          "date": "2025-09-08"
+        },
+        {
+          "title": "LNG란? 천연가스를 액화한 친환경 에너지의 모든 것",
+          "link": "https://blog.naver.com/cheilvan2/224351729546",
+          "blogger": "슬기로울 농촌생활",
+          "date": "2026-07-20"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "한미 조선협력센터 온 러트닉 “미국서 배 만든 숫자로만 평가”",
+          "link": "https://www.joongang.co.kr/article/25448027",
+          "press": "",
+          "date": "2026-07-24"
+        },
+        {
+          "title": "EU, 한국 러시아산 LNG 수입 제재 예외 규정 마련",
+          "link": "https://www.viva100.com/article/20260725500003",
+          "press": "",
+          "date": "2026-07-24"
+        },
+        {
+          "title": "현대엔지니어링, 북미 SMR 사업기회 모색…전문가 초청 세미나",
+          "link": "https://www.asiatime.co.kr/article/20260724500276",
+          "press": "",
+          "date": "2026-07-24"
+        },
+        {
+          "title": "러 사할린Ⅱ LNG 수입 EU 제재 면제",
+          "link": "https://www.energy-news.co.kr/news/articleView.html?idxno=227056",
+          "press": "",
+          "date": "2026-07-24"
+        },
+        {
+          "title": "조선3사, 한미 조선 협력 확대…글로벌시장 공략",
+          "link": "http://www.yonhapnewstv.co.kr/news/MYH20260724234306c4f",
+          "press": "",
+          "date": "2026-07-24"
+        }
+      ],
+      "rank": 1
+    },
+    {
       "keyword": "김선태",
       "traffic": "200+",
-      "blogTotal": 30417,
-      "newsTotal": 39389,
+      "blogTotal": 30416,
+      "newsTotal": 39390,
       "recentToday": 85,
       "recentWeek": 100,
       "topBlogs": [
@@ -43,6 +116,12 @@
       ],
       "topNews": [
         {
+          "title": "김선태 \"집 팔아 삼전 주식 1000주 몰빵, 평단 5.8만원…그런데 좀\"",
+          "link": "https://www.news1.kr/entertain/celebrity-topic/6237849",
+          "press": "",
+          "date": "2026-07-24"
+        },
+        {
           "title": "\"'억까' 심하다 생각했는데\"…김선태, 역대급 호불호 갈린 '호프' 스포 ...",
           "link": "https://www.topstarnews.net/news/articleView.html?idxno=16145158",
           "press": "",
@@ -65,20 +144,14 @@
           "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=830478",
           "press": "",
           "date": "2026-07-24"
-        },
-        {
-          "title": "'호프' 역대급 호불호 속…'충주맨' 김선태 \"괴물 나오기 전까지, '기생...",
-          "link": "https://www.xportsnews.com/article/2175777",
-          "press": "",
-          "date": "2026-07-24"
         }
       ],
-      "rank": 1
+      "rank": 2
     },
     {
       "keyword": "고윤정",
-      "traffic": "100+",
-      "blogTotal": 84524,
+      "traffic": "200+",
+      "blogTotal": 84525,
       "newsTotal": 43934,
       "recentToday": 82,
       "recentWeek": 100,
@@ -146,11 +219,11 @@
           "date": "2026-07-24"
         }
       ],
-      "rank": 2
+      "rank": 3
     },
     {
       "keyword": "한국마사회",
-      "traffic": "500+",
+      "traffic": "200+",
       "blogTotal": 58545,
       "newsTotal": 194983,
       "recentToday": 23,
@@ -163,10 +236,10 @@
           "date": "2026-07-21"
         },
         {
-          "title": "1월 제주도 여행 한국마사회 제주목장 동백꽃길과 위미리 3760",
-          "link": "https://blog.naver.com/9unique/224116841250",
-          "blogger": "유니크의 제주살이",
-          "date": "2025-12-20"
+          "title": "한국마사회 고객센터 상담원 연결 주말 영업시간 총정리",
+          "link": "https://blog.naver.com/chocolateelf/224353076069",
+          "blogger": "집순이의 현명한 제품 선택기",
+          "date": "2026-07-21"
         },
         {
           "title": "한국마사회 국민소통 간담회에 함께하실 국민 여러분을...",
@@ -175,16 +248,16 @@
           "date": "2026-07-23"
         },
         {
-          "title": "한국마사회 고객센터 상담원 연결 주말 영업시간 총정리",
-          "link": "https://blog.naver.com/chocolateelf/224353076069",
-          "blogger": "집순이의 현명한 제품 선택기",
-          "date": "2026-07-21"
+          "title": "한국마사회 FRP 조형물 제작 사례, 내구성과 디자인을 모두...",
+          "link": "https://blog.naver.com/malong_blog17/224354441240",
+          "blogger": "마롱컴퍼니",
+          "date": "2026-07-22"
         },
         {
-          "title": "제주 동백꽃 trip 4일차 ( 겹동백길, 한국 마사회 제주목장...",
-          "link": "https://blog.naver.com/sanya07/224149844176",
-          "blogger": "늘강 의 建康山行",
-          "date": "2026-01-17"
+          "title": "1월 제주도 여행 한국마사회 제주목장 동백꽃길과 위미리 3760",
+          "link": "https://blog.naver.com/9unique/224116841250",
+          "blogger": "유니크의 제주살이",
+          "date": "2025-12-20"
         }
       ],
       "topNews": [
@@ -219,12 +292,12 @@
           "date": "2026-07-24"
         }
       ],
-      "rank": 3
+      "rank": 4
     },
     {
       "keyword": "artificial intelligence news",
       "traffic": "100+",
-      "blogTotal": 22500,
+      "blogTotal": 22501,
       "newsTotal": 12728,
       "recentToday": 19,
       "recentWeek": 100,
@@ -292,15 +365,15 @@
           "date": "2026-07-24"
         }
       ],
-      "rank": 4
+      "rank": 5
     },
     {
       "keyword": "피를로",
       "traffic": "500+",
-      "blogTotal": 21212,
-      "newsTotal": 11673,
+      "blogTotal": 21213,
+      "newsTotal": 11674,
       "recentToday": 11,
-      "recentWeek": 52,
+      "recentWeek": 53,
       "topBlogs": [
         {
           "title": "\"요크셔 피를로의 끝없는 추락\" DM 칼빈 필립스, 맨시티...",
@@ -335,6 +408,12 @@
       ],
       "topNews": [
         {
+          "title": "이탈리아 4연속 월드컵 불발 되겠다...'유벤투스서 대실패' 피를로 \"아주...",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=691204",
+          "press": "",
+          "date": "2026-07-24"
+        },
+        {
           "title": "대한민국보다 심각하다, 2030년 월드컵도 나갈 생각 없나...HERE WE GO 깜짝...",
           "link": "https://www.sportschosun.com/football/2026-07-25/202607250100153020009806",
           "press": "",
@@ -357,20 +436,14 @@
           "link": "https://www.chosun.com/sports/world-football/2026/07/25/TGJZA7QYQNEQHFGT7E5EYCY7AM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
           "press": "",
           "date": "2026-07-24"
-        },
-        {
-          "title": "\"가족 건드리면 그만둔다\" 독일 감독직 맡은 클롭의 경고…과르디올라...",
-          "link": "http://www.spochoo.com/news/articleView.html?idxno=127973",
-          "press": "",
-          "date": "2026-07-24"
         }
       ],
-      "rank": 5
+      "rank": 6
     },
     {
       "keyword": "twitch",
       "traffic": "100+",
-      "blogTotal": 49116,
+      "blogTotal": 49117,
       "newsTotal": 8016,
       "recentToday": 9,
       "recentWeek": 68,
@@ -438,84 +511,11 @@
           "date": "2026-07-15"
         }
       ],
-      "rank": 6
-    },
-    {
-      "keyword": "mutv",
-      "traffic": "100+",
-      "blogTotal": 1670,
-      "newsTotal": 2349,
-      "recentToday": 1,
-      "recentWeek": 10,
-      "topBlogs": [
-        {
-          "title": "[MUTV] 도르구 “어디서든 팀을 위해 뛰겠다, 다시 경쟁할 수...",
-          "link": "https://blog.naver.com/whdlswo7679/224351100877",
-          "blogger": "조슨생님",
-          "date": "2026-07-19"
-        },
-        {
-          "title": "앤디 미튼: MUTV 진행자 패디 크레란드에 대해",
-          "link": "https://blog.naver.com/mustunited/220408742485",
-          "blogger": "유나이티드 뉴스공장",
-          "date": "2015-07-03"
-        },
-        {
-          "title": "[MUTV] 린데가르트 \" 꿈을 이뤘다 \"",
-          "link": "https://blog.naver.com/yamaricong/50103263408",
-          "blogger": "[My Own Fantasy]",
-          "date": "2011-01-14"
-        },
-        {
-          "title": "[MUTV] 박지성 헌정 다큐 '박지성 맨유의 전설이 되다'",
-          "link": "https://blog.naver.com/spotv_sports/220211961891",
-          "blogger": "SPOTV",
-          "date": "2014-12-16"
-        },
-        {
-          "title": "[MUTV] [프리 시즌] 로센보르그 BK vs 맨체스터 유나이티드 양...",
-          "link": "https://blog.naver.com/theaterofdream/224357068325",
-          "blogger": "Theater of Dream",
-          "date": "2026-07-25"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "'맨유 최전방은 내게 맡겨 둬!' 도르구, 윙어 변신에 대만족 \"더 자유로...",
-          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=690913",
-          "press": "",
-          "date": "2026-07-20"
-        },
-        {
-          "title": "맨유 오자마자 '캡틴'에 사회생활 시작한 산투스 \"브루노 페르난데스에...",
-          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=690625",
-          "press": "",
-          "date": "2026-07-15"
-        },
-        {
-          "title": "[오피셜] 맨유 미래가 너무 밝다! '22골 4도움' 2010년생 초신성, U-18 프...",
-          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=91873",
-          "press": "",
-          "date": "2026-05-13"
-        },
-        {
-          "title": "'아! 아모림의 유산인가' 브루노 페르난데스 3선 기용, 오히려 긍정적....",
-          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=814417",
-          "press": "",
-          "date": "2026-05-03"
-        },
-        {
-          "title": "결국 올 시즌에 복귀 못하고 '시즌 아웃'?...\"오랫동안 지속될 수 있어\"",
-          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=90270",
-          "press": "",
-          "date": "2026-04-09"
-        }
-      ],
       "rank": 7
     },
     {
       "keyword": "rosenborg đấu với man utd",
-      "traffic": "100+",
+      "traffic": "200+",
       "blogTotal": 34,
       "newsTotal": 0,
       "recentToday": 0,
@@ -557,7 +557,7 @@
     },
     {
       "keyword": "โรเซนบอร์ก พบ แมนยู",
-      "traffic": "200+",
+      "traffic": "500+",
       "blogTotal": 0,
       "newsTotal": 0,
       "recentToday": 0,
@@ -568,7 +568,7 @@
     },
     {
       "keyword": "rosenborg vs man united",
-      "traffic": "500+",
+      "traffic": "1000+",
       "blogTotal": 2,
       "newsTotal": 0,
       "recentToday": 0,
