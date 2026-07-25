@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-25T18:30:00.008Z",
+  "updatedAt": "2026-07-25T19:46:44.268Z",
   "source": "live",
   "keywords": [
     {
       "keyword": "나솔사계",
       "traffic": "200+",
-      "blogTotal": 83038,
+      "blogTotal": 83040,
       "newsTotal": 19911,
-      "recentToday": 88,
+      "recentToday": 86,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -77,10 +77,10 @@
     },
     {
       "keyword": "청계천",
-      "traffic": "2000+",
-      "blogTotal": 896731,
+      "traffic": "5000+",
+      "blogTotal": 896728,
       "newsTotal": 231475,
-      "recentToday": 65,
+      "recentToday": 60,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -151,7 +151,7 @@
     {
       "keyword": "블리치",
       "traffic": "200+",
-      "blogTotal": 126935,
+      "blogTotal": 126937,
       "newsTotal": 4583,
       "recentToday": 59,
       "recentWeek": 100,
@@ -224,9 +224,9 @@
     {
       "keyword": "김아영",
       "traffic": "200+",
-      "blogTotal": 43839,
-      "newsTotal": 36958,
-      "recentToday": 51,
+      "blogTotal": 43848,
+      "newsTotal": 36959,
+      "recentToday": 42,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -236,16 +236,16 @@
           "date": "2026-07-24"
         },
         {
+          "title": "전참시 김아영 다도세트 전기포트 주전자, 차도구 세트와...",
+          "link": "https://blog.naver.com/sybclass3585/224357959542",
+          "blogger": "머니 트렌드",
+          "date": "2026-07-26"
+        },
+        {
           "title": "김아영 배우 프로필 나이 키 오빠, SNL 하차 후 각 잡고 연극 도전",
           "link": "https://blog.naver.com/diacpqpqp/224357660627",
           "blogger": "K 에디트",
           "date": "2026-07-25"
-        },
-        {
-          "title": "김아영, 새 집+물구나무 실력 공개 왜 화제? 전참시 408회 관전...",
-          "link": "https://blog.naver.com/worms112/224357907090",
-          "blogger": "땔깜줍는 구루미군",
-          "date": "2026-07-26"
         },
         {
           "title": "2026년 전참시 김아영 빨대 발음 교정 훈련법 원리 및 효과...",
@@ -261,6 +261,12 @@
         }
       ],
       "topNews": [
+        {
+          "title": "이 정도면 진심 아냐?…강훈, 태연에 또 고백 “연상 만나볼래요”",
+          "link": "https://www.sportsseoul.com/news/read/1624556?ref=naver",
+          "press": "",
+          "date": "2026-07-25"
+        },
         {
           "title": "전현무, ‘이상형’ 원진아와 결국 단둘이 만났다 “DM으로 연락해”(전...",
           "link": "http://www.osen.co.kr/article/G1112846606",
@@ -284,12 +290,6 @@
           "link": "https://www.newsen.com/news_view.php?uid=202607260030166110",
           "press": "",
           "date": "2026-07-25"
-        },
-        {
-          "title": "박진영, 농구장 달린 궁궐 같은 집 최초공개..너무 넓어 거실서 스케이...",
-          "link": "http://www.osen.co.kr/article/G1112846592",
-          "press": "",
-          "date": "2026-07-25"
         }
       ],
       "rank": 4
@@ -297,7 +297,7 @@
     {
       "keyword": "추경호",
       "traffic": "500+",
-      "blogTotal": 69856,
+      "blogTotal": 69857,
       "newsTotal": 298287,
       "recentToday": 24,
       "recentWeek": 100,
@@ -353,14 +353,14 @@
           "date": "2026-07-25"
         },
         {
-          "title": "추경호 대구시장 신천 물놀이장 현장 점검",
-          "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3070346",
+          "title": "막을 이유 없어 우수기 족쇄 풀린 대구 팔현파크골프장",
+          "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3070344",
           "press": "",
           "date": "2026-07-25"
         },
         {
-          "title": "막을 이유 없어 우수기 족쇄 풀린 대구 팔현파크골프장",
-          "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3070344",
+          "title": "추경호 대구시장 신천 물놀이장 현장 점검",
+          "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3070346",
           "press": "",
           "date": "2026-07-25"
         }
@@ -369,7 +369,7 @@
     },
     {
       "keyword": "서훈",
-      "traffic": "500+",
+      "traffic": "1000+",
       "blogTotal": 47952,
       "newsTotal": 110408,
       "recentToday": 11,
@@ -516,8 +516,8 @@
     {
       "keyword": "구름",
       "traffic": "1000+",
-      "blogTotal": 10460067,
-      "newsTotal": 1174724,
+      "blogTotal": 10460625,
+      "newsTotal": 1174729,
       "recentToday": 0,
       "recentWeek": 100,
       "topBlogs": [
@@ -554,32 +554,32 @@
       ],
       "topNews": [
         {
-          "title": "[다음 주 날씨] '장마 끝' 대체로 맑고 무더위...낮 최고 39도까지",
-          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3646060",
+          "title": "[오늘의 날씨] 체감 38도~39도 극단적 폭염 지속…전국 5mm~50mm 소나기",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16145706",
           "press": "",
           "date": "2026-07-25"
         },
         {
-          "title": "[오늘의 운세] 2026년 7월 26일 일요일(음력 6월 13일/일진: 신축(辛丑)/...",
-          "link": "https://www.joongboo.com/news/articleView.html?idxno=363732279",
+          "title": "[제주도 날씨예보] 늦은 오후 한때 소나기…체감 35도 폭염·열대야 지속",
+          "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=83165",
           "press": "",
           "date": "2026-07-25"
         },
         {
-          "title": "용인특례시의회 5분 발언…지역화폐·기흥구 분구·동백상권·하수시설...",
-          "link": "http://www.newstown.co.kr/news/articleView.html?idxno=710350",
+          "title": "[광주·전남 날씨예보] 37도 안팎 폭염 계속…광양 '폭염중대경보'·열대...",
+          "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=83162",
           "press": "",
           "date": "2026-07-25"
         },
         {
-          "title": "곳곳 비 또는 소나기…‘폭염’에 열대야까지 [오늘날씨]",
-          "link": "https://www.bntnews.co.kr/article/view/bnt202607250129",
+          "title": "낮 최고 38도 찜통더위 속 소나기…'폭염중대경보' 지속",
+          "link": "https://www.newsis.com/view/NISX20260725_0003723276",
           "press": "",
           "date": "2026-07-25"
         },
         {
-          "title": "오늘 대구 37도 ‘폭염’…중부지방에 소나기",
-          "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8620193&ref=A",
+          "title": "[지윤철학원의 오늘의 운세] 2026년 7월 26일 일요일 띠별 운세",
+          "link": "https://www.news2day.co.kr/article/20260724500090",
           "press": "",
           "date": "2026-07-25"
         }
@@ -589,7 +589,7 @@
     {
       "keyword": "김부장 시즌2",
       "traffic": "200+",
-      "blogTotal": 2151,
+      "blogTotal": 2161,
       "newsTotal": 701,
       "recentToday": 0,
       "recentWeek": 100,
