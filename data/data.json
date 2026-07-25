@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-25T17:29:38.591Z",
+  "updatedAt": "2026-07-25T18:30:00.008Z",
   "source": "live",
   "keywords": [
     {
       "keyword": "나솔사계",
       "traffic": "200+",
-      "blogTotal": 83035,
+      "blogTotal": 83038,
       "newsTotal": 19911,
-      "recentToday": 91,
+      "recentToday": 88,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -78,9 +78,9 @@
     {
       "keyword": "청계천",
       "traffic": "2000+",
-      "blogTotal": 896727,
+      "blogTotal": 896731,
       "newsTotal": 231475,
-      "recentToday": 71,
+      "recentToday": 65,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -149,79 +149,6 @@
       "rank": 2
     },
     {
-      "keyword": "김아영",
-      "traffic": "200+",
-      "blogTotal": 43829,
-      "newsTotal": 36958,
-      "recentToday": 61,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "<전지적 참견 시점> 김아영의 첫 연극 뒤에는 친오빠가 있었다...",
-          "link": "https://blog.naver.com/withinnews/224356274981",
-          "blogger": "위드인뉴스",
-          "date": "2026-07-24"
-        },
-        {
-          "title": "김아영 배우 프로필 나이 키 오빠, SNL 하차 후 각 잡고 연극 도전",
-          "link": "https://blog.naver.com/diacpqpqp/224357660627",
-          "blogger": "K 에디트",
-          "date": "2026-07-25"
-        },
-        {
-          "title": "2026년 전참시 김아영 빨대 발음 교정 훈련법 원리 및 효과...",
-          "link": "https://blog.naver.com/kenshin209/224357774473",
-          "blogger": "콩콩이네 사진관",
-          "date": "2026-07-25"
-        },
-        {
-          "title": "전참시 김아영 친오빠 김택영 누구? 직업, 인스타, 과사, 가족...",
-          "link": "https://blog.naver.com/lucky040404/224355920928",
-          "blogger": "솜선생나라",
-          "date": "2026-07-23"
-        },
-        {
-          "title": "전지적 참견 시점 408회 김아영, 박근형에게 혼난 뒤 깨달은...",
-          "link": "https://blog.naver.com/news9kr/224357532716",
-          "blogger": "뉴스나인",
-          "date": "2026-07-25"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "전현무, ‘이상형’ 원진아와 결국 단둘이 만났다 “DM으로 연락해”(전...",
-          "link": "http://www.osen.co.kr/article/G1112846606",
-          "press": "",
-          "date": "2026-07-25"
-        },
-        {
-          "title": "전현무, '이상형' 원진아와 따로 연락했다..\"DM으로 연극 초대\" [전참시...",
-          "link": "https://www.starnewskorea.com/broadcast-show/2026/07/26/2026072523460946492",
-          "press": "",
-          "date": "2026-07-25"
-        },
-        {
-          "title": "박진영, 유기농으로 몸 챙기더니..발가락 양말 홀릭 “라면은 두 달에 ...",
-          "link": "http://www.osen.co.kr/article/G1112846593",
-          "press": "",
-          "date": "2026-07-25"
-        },
-        {
-          "title": "소속사 나온 김아영, 이사한 새 집+업그레이드 된 물구나무 실력 공개(...",
-          "link": "https://www.newsen.com/news_view.php?uid=202607260030166110",
-          "press": "",
-          "date": "2026-07-25"
-        },
-        {
-          "title": "박진영, 농구장 달린 궁궐 같은 집 최초공개..너무 넓어 거실서 스케이...",
-          "link": "http://www.osen.co.kr/article/G1112846592",
-          "press": "",
-          "date": "2026-07-25"
-        }
-      ],
-      "rank": 3
-    },
-    {
       "keyword": "블리치",
       "traffic": "200+",
       "blogTotal": 126935,
@@ -254,10 +181,10 @@
           "date": "2026-07-16"
         },
         {
-          "title": "26년 6월 | 블리치 천년혈전 정주행",
-          "link": "https://blog.naver.com/nyh6201/224342817072",
-          "blogger": "Bloogg",
-          "date": "2026-07-10"
+          "title": "블리치 소울 레조넌스 환불 모바일게임 환불, 타이밍을 놓치면...",
+          "link": "https://blog.naver.com/jeonghoblog/224357911658",
+          "blogger": "정호 블로그",
+          "date": "2026-07-26"
         }
       ],
       "topNews": [
@@ -290,6 +217,79 @@
           "link": "https://www.econovill.com/news/articleView.html?idxno=745600",
           "press": "",
           "date": "2026-07-20"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "keyword": "김아영",
+      "traffic": "200+",
+      "blogTotal": 43839,
+      "newsTotal": 36958,
+      "recentToday": 51,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "<전지적 참견 시점> 김아영의 첫 연극 뒤에는 친오빠가 있었다...",
+          "link": "https://blog.naver.com/withinnews/224356274981",
+          "blogger": "위드인뉴스",
+          "date": "2026-07-24"
+        },
+        {
+          "title": "김아영 배우 프로필 나이 키 오빠, SNL 하차 후 각 잡고 연극 도전",
+          "link": "https://blog.naver.com/diacpqpqp/224357660627",
+          "blogger": "K 에디트",
+          "date": "2026-07-25"
+        },
+        {
+          "title": "김아영, 새 집+물구나무 실력 공개 왜 화제? 전참시 408회 관전...",
+          "link": "https://blog.naver.com/worms112/224357907090",
+          "blogger": "땔깜줍는 구루미군",
+          "date": "2026-07-26"
+        },
+        {
+          "title": "2026년 전참시 김아영 빨대 발음 교정 훈련법 원리 및 효과...",
+          "link": "https://blog.naver.com/kenshin209/224357774473",
+          "blogger": "콩콩이네 사진관",
+          "date": "2026-07-25"
+        },
+        {
+          "title": "전참시 김아영 친오빠 김택영 누구? 직업, 인스타, 과사, 가족...",
+          "link": "https://blog.naver.com/lucky040404/224355920928",
+          "blogger": "솜선생나라",
+          "date": "2026-07-23"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "전현무, ‘이상형’ 원진아와 결국 단둘이 만났다 “DM으로 연락해”(전...",
+          "link": "http://www.osen.co.kr/article/G1112846606",
+          "press": "",
+          "date": "2026-07-25"
+        },
+        {
+          "title": "전현무, '이상형' 원진아와 따로 연락했다..\"DM으로 연극 초대\" [전참시...",
+          "link": "https://www.starnewskorea.com/broadcast-show/2026/07/26/2026072523460946492",
+          "press": "",
+          "date": "2026-07-25"
+        },
+        {
+          "title": "박진영, 유기농으로 몸 챙기더니..발가락 양말 홀릭 “라면은 두 달에 ...",
+          "link": "http://www.osen.co.kr/article/G1112846593",
+          "press": "",
+          "date": "2026-07-25"
+        },
+        {
+          "title": "소속사 나온 김아영, 이사한 새 집+업그레이드 된 물구나무 실력 공개(...",
+          "link": "https://www.newsen.com/news_view.php?uid=202607260030166110",
+          "press": "",
+          "date": "2026-07-25"
+        },
+        {
+          "title": "박진영, 농구장 달린 궁궐 같은 집 최초공개..너무 넓어 거실서 스케이...",
+          "link": "http://www.osen.co.kr/article/G1112846592",
+          "press": "",
+          "date": "2026-07-25"
         }
       ],
       "rank": 4
@@ -353,14 +353,14 @@
           "date": "2026-07-25"
         },
         {
-          "title": "막을 이유 없어 우수기 족쇄 풀린 대구 팔현파크골프장",
-          "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3070344",
+          "title": "추경호 대구시장 신천 물놀이장 현장 점검",
+          "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3070346",
           "press": "",
           "date": "2026-07-25"
         },
         {
-          "title": "추경호 대구시장 신천 물놀이장 현장 점검",
-          "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3070346",
+          "title": "막을 이유 없어 우수기 족쇄 풀린 대구 팔현파크골프장",
+          "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3070344",
           "press": "",
           "date": "2026-07-25"
         }
@@ -370,7 +370,7 @@
     {
       "keyword": "서훈",
       "traffic": "500+",
-      "blogTotal": 47953,
+      "blogTotal": 47952,
       "newsTotal": 110408,
       "recentToday": 11,
       "recentWeek": 100,
@@ -439,79 +439,6 @@
         }
       ],
       "rank": 6
-    },
-    {
-      "keyword": "twitch",
-      "traffic": "200+",
-      "blogTotal": 49121,
-      "newsTotal": 8016,
-      "recentToday": 7,
-      "recentWeek": 69,
-      "topBlogs": [
-        {
-          "title": "운동생리학 ⑭ 속근과 지근 (Fast Twitch vs Slow Twitch)",
-          "link": "https://blog.naver.com/vulture_kbh/224315472522",
-          "blogger": "Vulture_KBH",
-          "date": "2026-06-14"
-        },
-        {
-          "title": "루어낚시 저크(Jerk) vs 트위치(Twitch) 차이 완벽 정리...",
-          "link": "https://blog.naver.com/htmoon-0929/224230991934",
-          "blogger": "HS로그 : 낚시 인사이트",
-          "date": "2026-03-27"
-        },
-        {
-          "title": "및 OBS Twitch와 같은 소프트웨어YouTube 등 Mac 및, Black",
-          "link": "https://blog.naver.com/rhinoboutique95/224305224529",
-          "blogger": "rhinoboutique95님의 블로그",
-          "date": "2026-06-04"
-        },
-        {
-          "title": "모바일게임 쿠폰 이벤트 정리 (Twitch Drops 보상 받는 방법)",
-          "link": "https://blog.naver.com/psminhaha/224212249877",
-          "blogger": "므찌미니",
-          "date": "2026-03-11"
-        },
-        {
-          "title": "2024년 트위치(Twitch) 결산",
-          "link": "https://blog.naver.com/imitationgucci/223704283749",
-          "blogger": "뿌요의 금융/재테크와 게임 정보",
-          "date": "2024-12-24"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "세게 치는 사람보다 오래 치는 사람이 강하다",
-          "link": "https://health.chosun.com/site/data/html_dir/2026/07/23/2026072302247.html",
-          "press": "",
-          "date": "2026-07-23"
-        },
-        {
-          "title": "Zoomers Are Going to the Movies. This Is Great News for Everyone.",
-          "link": "https://www.nytimes.com/2026/07/17/opinion/gen-z-movie-theaters-hollywood.html?partner=naver",
-          "press": "",
-          "date": "2026-07-17"
-        },
-        {
-          "title": "Put Into Play",
-          "link": "https://www.nytimes.com/2026/07/16/crosswords/daily-puzzle-2026-07-17.html?partner=naver",
-          "press": "",
-          "date": "2026-07-17"
-        },
-        {
-          "title": "On Literacy Struggles and Sleeping Fish: The Winners of Week 4 of Our Sum...",
-          "link": "https://www.nytimes.com/2026/07/15/learning/on-literacy-struggles-and-sleeping-fish-the-winners-of-week-4-of-our-summer-reading-contest.html?partner=naver",
-          "press": "",
-          "date": "2026-07-15"
-        },
-        {
-          "title": "크래프톤 플라이웨이게임즈, 신작 '어센드투제로' 글로벌 출시… '게임...",
-          "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=356006",
-          "press": "",
-          "date": "2026-07-15"
-        }
-      ],
-      "rank": 7
     },
     {
       "keyword": "cryptocurrency trading",
@@ -584,12 +511,12 @@
           "date": "2026-07-23"
         }
       ],
-      "rank": 8
+      "rank": 7
     },
     {
       "keyword": "구름",
       "traffic": "1000+",
-      "blogTotal": 10459639,
+      "blogTotal": 10460067,
       "newsTotal": 1174724,
       "recentToday": 0,
       "recentWeek": 100,
@@ -653,6 +580,79 @@
         {
           "title": "오늘 대구 37도 ‘폭염’…중부지방에 소나기",
           "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8620193&ref=A",
+          "press": "",
+          "date": "2026-07-25"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "keyword": "김부장 시즌2",
+      "traffic": "200+",
+      "blogTotal": 2151,
+      "newsTotal": 701,
+      "recentToday": 0,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "김부장 10회 소지섭 죽는... 회수 주상욱 참교육 시즌2 최종회",
+          "link": "https://blog.naver.com/tammara/224357448433",
+          "blogger": "스밀라의 휘게 라이프",
+          "date": "2026-07-25"
+        },
+        {
+          "title": "김부장 결말 소지섭 새 신분 얻었다, 이도규 시즌2 나올까?",
+          "link": "https://blog.naver.com/dearwinterrain/224357883224",
+          "blogger": "더할 나위 없는",
+          "date": "2026-07-26"
+        },
+        {
+          "title": "김부장 결말 조평견 이도규 등장으로 시즌2 백호인력 판 깔았다?",
+          "link": "https://blog.naver.com/jeje-_-/224357879605",
+          "blogger": "드라마 컷컷",
+          "date": "2026-07-26"
+        },
+        {
+          "title": "김부장 10회 결말 소지섭 새 신분 해피엔딩 시즌2 원작 떡밥?...",
+          "link": "https://blog.naver.com/alsk1130/224357876412",
+          "blogger": "차카니의 잡다한 일상과 드라마리뷰",
+          "date": "2026-07-26"
+        },
+        {
+          "title": "SBS 드라마 〈김부장〉 종영, 시즌2. 나올까?",
+          "link": "https://blog.naver.com/chuliet/224357813960",
+          "blogger": "상담자의 사진여행",
+          "date": "2026-07-25"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "'김부장' 소지섭 채용한 이도규 누구? '왼손 결손' 세계관 최강자 [핫피...",
+          "link": "http://www.osen.co.kr/article/G1112846597",
+          "press": "",
+          "date": "2026-07-25"
+        },
+        {
+          "title": "[종합] '김부장' 해피엔딩 결말 종영…새 직장 찾고 '시즌2' 암시",
+          "link": "https://enter.etoday.co.kr/news/view/300203",
+          "press": "",
+          "date": "2026-07-25"
+        },
+        {
+          "title": "소지섭 시즌2 암시 엔딩?...쿠키 영상 풀고 종영[김부장][★밤TView]",
+          "link": "https://www.starnewskorea.com/broadcast-drama/2026/07/25/2026072523054156513",
+          "press": "",
+          "date": "2026-07-25"
+        },
+        {
+          "title": "'김부장' 소지섭, 딸과 새 신분 얻었다…새 직장 면접 보며 '시즌2 암시...",
+          "link": "https://www.tvreport.co.kr/uncategorized/article/1063747/",
+          "press": "",
+          "date": "2026-07-25"
+        },
+        {
+          "title": "'김부장' 소지섭 부녀, 새 신분 얻었다…백호인력 등장 시즌2 암시 엔딩...",
+          "link": "http://www.stoo.com/article.php?aid=107929344788",
           "press": "",
           "date": "2026-07-25"
         }
