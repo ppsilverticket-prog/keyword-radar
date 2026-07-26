@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-07-26T15:37:48.767Z",
+  "updatedAt": "2026-07-26T16:56:58.599Z",
   "source": "live",
   "keywords": [
     {
       "keyword": "장윤기",
       "traffic": "500+",
       "blogTotal": 8801,
-      "newsTotal": 12129,
+      "newsTotal": 12130,
       "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
@@ -43,6 +43,12 @@
       ],
       "topNews": [
         {
+          "title": "오늘 장윤기 3차 공판...유족·피해 남학생 증인 신문",
+          "link": "https://www.ytn.co.kr/_ln/0115_202607270058459769",
+          "press": "",
+          "date": "2026-07-26"
+        },
+        {
           "title": "[뉴스&이슈]강원 동일 경찰서 10년 이상 근무 789명⋯치안 전문성 vs 지역...",
           "link": "https://www.kwnews.co.kr/article/20260726500820",
           "press": "",
@@ -65,12 +71,6 @@
           "link": "https://www.kado.net/news/articleView.html?idxno=2063250",
           "press": "",
           "date": "2026-07-26"
-        },
-        {
-          "title": "10년 이상 한곳 근무 강원경찰 789명…순환인사 내부 반발",
-          "link": "https://www.kado.net/news/articleView.html?idxno=2063228",
-          "press": "",
-          "date": "2026-07-26"
         }
       ],
       "rank": 1
@@ -78,9 +78,9 @@
     {
       "keyword": "앤 트로픽",
       "traffic": "200+",
-      "blogTotal": 12424,
+      "blogTotal": 12429,
       "newsTotal": 120,
-      "recentToday": 97,
+      "recentToday": 92,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -149,72 +149,72 @@
       "rank": 2
     },
     {
-      "keyword": "오싹한 연애 드라마",
-      "traffic": "100+",
-      "blogTotal": 4772,
-      "newsTotal": 3661,
-      "recentToday": 89,
+      "keyword": "경찰관",
+      "traffic": "200+",
+      "blogTotal": 852862,
+      "newsTotal": 964986,
+      "recentToday": 81,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "오싹한연애 기본정보, 드라마 원작부터 등장인물 천여리...",
-          "link": "https://blog.naver.com/hyunjee1110/224349539532",
-          "blogger": "시네마100",
-          "date": "2026-07-17"
+          "title": "사람은 책임진다, 대한민국 치안의 새 지평 ‘모두의 경찰관’",
+          "link": "https://blog.naver.com/polinlove2/224323158650",
+          "blogger": "경찰청",
+          "date": "2026-06-22"
         },
         {
-          "title": "드라마 오싹한 연애 원작 영화와 다른 점",
-          "link": "https://blog.naver.com/soopia13/224351792256",
-          "blogger": "A Day in the Life",
-          "date": "2026-07-20"
+          "title": "[승소] 현행범으로 체포, 상해 공무집행방해 경찰관 공무원 폭행...",
+          "link": "https://blog.naver.com/newone_law/224354982783",
+          "blogger": "법률사무소 뉴원 | 1% 무죄 확률 뚫는 법률 명가",
+          "date": "2026-07-26"
         },
         {
-          "title": "양세종 조합 화제 300만 흥행작 tvN '오싹한 연애' (드라마 정보)",
-          "link": "https://blog.naver.com/tmzmfk010/224316134281",
-          "blogger": "힐스터K랑 오늘, 이거 볼래?",
-          "date": "2026-06-15"
+          "title": "대구 파출소 여경 환승 불륜 유부녀 경찰 남편도 경찰관 지구대...",
+          "link": "https://blog.naver.com/dydghks3250/224345930926",
+          "blogger": "❤️ ✅kGn뉴스 ✅❤️",
+          "date": "2026-07-14"
         },
         {
-          "title": "오싹한 연애 드라마로 컴백?! 영화↔드라마 크로스체인지 한...",
-          "link": "https://blog.naver.com/i2krs/224350496760",
-          "blogger": "레드써니의 Project-R",
+          "title": "경찰관 가족 사건 상피제 도입…'제식구 감싸기' 근절",
+          "link": "https://blog.naver.com/metrotimes/224350018373",
+          "blogger": "메트로타임즈공식뉴스-핵심 심층 분석기사 & 3줄 요약",
           "date": "2026-07-18"
         },
         {
-          "title": "오싹한 연애 드라마 vs 원작 영화 차이점｜박은빈·양세종...",
-          "link": "https://blog.naver.com/chocorato/224358481021",
-          "blogger": "chocorato | 담다, 읽다, 그리다",
-          "date": "2026-07-26"
+          "title": "소방관 및 경찰관 공무상 재해 입증, 이것만 기억해 주세요",
+          "link": "https://blog.naver.com/shinms2139/224218961442",
+          "blogger": "✅산업재해보상SG",
+          "date": "2026-03-17"
         }
       ],
       "topNews": [
         {
-          "title": "'오싹한 연애' 양세종, 담력 훈련 돌입…조교 박은빈",
-          "link": "https://enter.etoday.co.kr/news/view/300226",
+          "title": "[뉴스&이슈]강원 동일 경찰서 10년 이상 근무 789명⋯치안 전문성 vs 지역...",
+          "link": "https://www.kwnews.co.kr/article/20260726500820",
           "press": "",
           "date": "2026-07-26"
         },
         {
-          "title": "'오싹한 연애' 양세종, 귀신 월드 적응 돌입...몇부작 궁금증",
-          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3646589",
+          "title": "[특파원 칼럼] 기시감",
+          "link": "https://www.joongang.co.kr/article/25448307",
           "press": "",
           "date": "2026-07-26"
         },
         {
-          "title": "'오싹한 연애' '쫄보 검사' 양세종, 귀신 월드 적응 훈련 돌입",
-          "link": "http://enews.imbc.com/News/RetrieveNewsInfo/512692",
+          "title": "누범기간 음주 측정 거부한 50대 징역 1년 선고",
+          "link": "https://www.kado.net/news/articleView.html?idxno=2063232",
           "press": "",
           "date": "2026-07-26"
         },
         {
-          "title": "양세종, 귀신 공포 극복 프로젝트 돌입…박은빈 ‘특훈’ 통할까",
-          "link": "https://www.sportsworldi.com/newsView/20260726507614",
+          "title": "10년 이상 한곳 근무 강원경찰 789명…순환인사 내부 반발",
+          "link": "https://www.kado.net/news/articleView.html?idxno=2063228",
           "press": "",
           "date": "2026-07-26"
         },
         {
-          "title": "세븐틴 도겸, 박은빈X양세종 마음 그린다..오늘 ‘오싹한 연애’ OST ‘...",
-          "link": "https://www.heraldmuse.com/article/10820519?ref=naver",
+          "title": "충격! \"임신한 여자친구 머리 가격\" 前 프로 스케이트보더, 출소 7개월 ...",
+          "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553406395",
           "press": "",
           "date": "2026-07-26"
         }
@@ -222,72 +222,72 @@
       "rank": 3
     },
     {
-      "keyword": "k리그1 순위",
+      "keyword": "김연경",
       "traffic": "200+",
-      "blogTotal": 53893,
-      "newsTotal": 94261,
-      "recentToday": 77,
+      "blogTotal": 108362,
+      "newsTotal": 136767,
+      "recentToday": 81,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "K리그 1,2 - 9라운드 현재까지 순위",
-          "link": "https://blog.naver.com/givehyun/224262630895",
-          "blogger": "축구 좀 아는 여자",
-          "date": "2026-04-23"
+          "title": "러닝 무릎보호대 추천, 슬개건 챙기는 러너라면 김연경픽...",
+          "link": "https://blog.naver.com/altomedialtd/224305601631",
+          "blogger": "생활의 달인",
+          "date": "2026-06-04"
         },
         {
-          "title": "2025 K리그1 순위 및 우승 전망 분석",
-          "link": "https://gnhong.com/m/5162",
-          "blogger": "홍준일이 말합니다.",
-          "date": "2025-05-15"
+          "title": "등산 무릎보호대 추천 하산 시 슬개건 걱정에는 김연경...",
+          "link": "https://blog.naver.com/minmm86415/224263925460",
+          "blogger": "다시육아",
+          "date": "2026-04-24"
         },
         {
-          "title": "울산HD는 흔들리고, 전북현대는 올라섰다.시즌 중간 K리그1 순위",
-          "link": "https://blog.naver.com/bestfda/223886906813",
-          "blogger": "포토제비의 시선",
-          "date": "2025-06-03"
+          "title": "김연경도 선택한 잠스트 무릎보호대 JK-Band 기능 추천 및...",
+          "link": "https://youhye1210.tistory.com/630",
+          "blogger": "youhye1210 님의 블로그",
+          "date": "2026-05-11"
         },
         {
-          "title": "K리그순위 요동치는 지금, 정확한 K리그분석으로 예측까지",
-          "link": "https://blog.naver.com/runa036/224270535266",
-          "blogger": "이보다 좋을 순 없다",
-          "date": "2026-05-01"
+          "title": "참석했던 2024-25 V리그 시상식 후기(김연경 라스트 댄스)",
+          "link": "https://blog.naver.com/vee1234/224248804530",
+          "blogger": "J's Locker Room",
+          "date": "2026-04-11"
         },
         {
-          "title": "K리그1 순위 지금 이렇습니다 ⚽ 2026 시즌 판세·주목 선수...",
-          "link": "https://blog.naver.com/k_medclinic/224353943862",
-          "blogger": "블루호",
-          "date": "2026-07-22"
+          "title": "김연경 보호대로 골랐더니 효과 달랐어요, 잠스트 EK-3",
+          "link": "https://blog.naver.com/redsong33/224298020690",
+          "blogger": "꿈그리의 행복한 꿈",
+          "date": "2026-05-27"
         }
       ],
       "topNews": [
         {
-          "title": "'제로톱 출격, 1골 1AS 맹활약' 이동경 \"포워드로 출전할 것이라고 생각...",
-          "link": "https://www.mydaily.co.kr/page/view/2026072622415762279",
+          "title": "\"난 패배의식 없다\"…'8억 연봉퀸' 국대 김연경 계보 잇나, '34점 폭격' ...",
+          "link": "https://www.sportschosun.com/volleyball/2026-07-26/202607270100162060010458",
           "press": "",
           "date": "2026-07-26"
         },
         {
-          "title": "\"100% 아니다, 무려 120%... 선수들 덕분에 이겼다\" 유병훈 감독, '9경기...",
-          "link": "https://www.starnewskorea.com/sports/2026/07/26/2026072618361193252",
+          "title": "다음 달 ‘스포츠 메가 이벤트’ 잇따라 열려",
+          "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8620458&ref=A",
           "press": "",
           "date": "2026-07-26"
         },
         {
-          "title": "강원 10년 징크스 지키고, 140일 만에 홈 승리… 안양 유병훈 감독 “선...",
-          "link": "https://www.mk.co.kr/article/12107868",
+          "title": "\"미치겠다, 죽겠다\" 김연경 은퇴 후 추락, 얼마나 부담이길래…AVC컵 우...",
+          "link": "https://www.sportschosun.com/volleyball/2026-07-26/202607260100161770010431",
           "press": "",
           "date": "2026-07-26"
         },
         {
-          "title": "홈 승리+5위 도약, 안양 유병훈 감독 “120% 해냈다, 아직 완성 아니야”...",
-          "link": "https://www.sportsseoul.com/news/read/1624704?ref=naver",
+          "title": "8월 제주 스포츠 이벤트 잇따라…김연경·김민재·박인비 총출동",
+          "link": "https://www.yna.co.kr/view/AKR20260726050200056?input=1195m",
           "press": "",
           "date": "2026-07-26"
         },
         {
-          "title": "'후반 39분 동점골' 인천, 부천과 1-1…3연승 도전 제동",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16146100",
+          "title": "차상현호 강하네… '강소휘 18점' 한국 여자배구, 인니에 셧아웃 승리",
+          "link": "https://sports.hankooki.com/news/articleView.html?idxno=6936980",
           "press": "",
           "date": "2026-07-26"
         }
@@ -295,10 +295,156 @@
       "rank": 4
     },
     {
+      "keyword": "비비 워터 밤",
+      "traffic": "1000+",
+      "blogTotal": 14213,
+      "newsTotal": 1226,
+      "recentToday": 65,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "[2026 워터밤 서울 토요일후기]... 콜라보(비비, 카리나, 빌리...",
+          "link": "https://blog.naver.com/burn37/224358514916",
+          "blogger": "나여의 잡다한세상",
+          "date": "2026-07-26"
+        },
+        {
+          "title": "워터밤 서울 2026 타임테이블... 카리나 비비 다영 출연진...",
+          "link": "https://blog.naver.com/dydghks3250/224357248664",
+          "blogger": "❤️ ✅kGn뉴스 ✅❤️",
+          "date": "2026-07-25"
+        },
+        {
+          "title": "워터밤 서울 라인업 카리나 비비 다영 출연진 2026 타임테이블...",
+          "link": "https://blog.naver.com/miha1023/224357341997",
+          "blogger": "♥고슴도치 새댁♥",
+          "date": "2026-07-25"
+        },
+        {
+          "title": "권은비 없는 워터밤 여왕은 비비! 올인원 벗고 파격적 몸매...",
+          "link": "https://blog.naver.com/treewg/224358377194",
+          "blogger": "나무처럼",
+          "date": "2026-07-26"
+        },
+        {
+          "title": "\"올해 워터밤은 비비였다\" 무대보다 더 화제된 스타일링",
+          "link": "https://blog.naver.com/tjthdus94/224357715885",
+          "blogger": "백수잡채 패션블로그",
+          "date": "2026-07-25"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "카리나·비비·선미·나띠·츠키 ‘워터밤’ 달군 여신 5인방",
+          "link": "https://enter.etoday.co.kr/news/view/300237",
+          "press": "",
+          "date": "2026-07-26"
+        },
+        {
+          "title": "비비, 워터밤 파격 연출 퍼포먼스에 '갑론을박'",
+          "link": "https://www.newsis.com/view/NISX20260726_0003723800",
+          "press": "",
+          "date": "2026-07-26"
+        },
+        {
+          "title": "\"워터밤다운 퍼포먼스VS선 넘은 연출\"…비비, '男댄서'에 둘러싸여 '파격...",
+          "link": "https://mhnse.com/news/articleView.html?idxno=1469280",
+          "press": "",
+          "date": "2026-07-26"
+        },
+        {
+          "title": "“논란까지 계산했나”…비비, 워터밤 ‘19금 연출’로 이슈화는 성공",
+          "link": "https://www.sportsseoul.com/news/read/1624691?ref=naver",
+          "press": "",
+          "date": "2026-07-26"
+        },
+        {
+          "title": "비비, '워터밤' 가슴 노출 위기→男댄서 4명과 선정적 무대 '갑론을박' ...",
+          "link": "https://www.starnewskorea.com/star/2026/07/26/2026072618395059052",
+          "press": "",
+          "date": "2026-07-26"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "keyword": "정전",
+      "traffic": "200+",
+      "blogTotal": 849659,
+      "newsTotal": 447027,
+      "recentToday": 63,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "갑자기 정전 되는 이유 에어컨 때문일까?",
+          "link": "https://blog.naver.com/dragoon86/224321239951",
+          "blogger": "백곰의 새우사육일지",
+          "date": "2026-07-05"
+        },
+        {
+          "title": "안산전기업체 상록구 정전 수리",
+          "link": "https://blog.naver.com/scent-label/224289983824",
+          "blogger": "10분전",
+          "date": "2026-05-21"
+        },
+        {
+          "title": "진주전기수리 초전동 누전 망경동 정전",
+          "link": "https://blog.naver.com/vndn5525/224285505477",
+          "blogger": "보라전기",
+          "date": "2026-05-15"
+        },
+        {
+          "title": "영종도 정전 2000호 대규모 정전원인과 복구 상황 정리!",
+          "link": "https://blog.naver.com/solmi_illustrator/224347368271",
+          "blogger": "비타민쏠미",
+          "date": "2026-07-15"
+        },
+        {
+          "title": "폭염 속 영종도 2000호 정전… 에어컨 멈추자 주민들 '불안'",
+          "link": "https://blog.naver.com/j_world90/224345889228",
+          "blogger": "밴쿠버홀릭",
+          "date": "2026-07-14"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "[정용수의 한반도 큐] 북한 핵 묵인은 실용적 대북정책이 될 수 없다",
+          "link": "https://www.joongang.co.kr/article/25448309",
+          "press": "",
+          "date": "2026-07-26"
+        },
+        {
+          "title": "유리로 만든 ‘전력 댐’… 우주·방산 시장 노린다 [강원대 앵커사업단...",
+          "link": "https://www.mk.co.kr/article/12106949",
+          "press": "",
+          "date": "2026-07-26"
+        },
+        {
+          "title": "울산, 습식폭염+인공열 '복합 기후재난' 전망",
+          "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1063070",
+          "press": "",
+          "date": "2026-07-26"
+        },
+        {
+          "title": "두동면 야산 대나무밭 화재, 무거동 일대 일시 정전도",
+          "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1063050",
+          "press": "",
+          "date": "2026-07-26"
+        },
+        {
+          "title": "북, 전승절 앞두고 노병 띄우기...충성심 심어주기",
+          "link": "https://www.ytn.co.kr/_ln/0101_202607262311558082",
+          "press": "",
+          "date": "2026-07-26"
+        }
+      ],
+      "rank": 6
+    },
+    {
       "keyword": "헝가리 그랑프리",
-      "traffic": "100+",
-      "blogTotal": 5165,
-      "newsTotal": 3781,
+      "traffic": "200+",
+      "blogTotal": 5170,
+      "newsTotal": 3782,
       "recentToday": 30,
       "recentWeek": 100,
       "topBlogs": [
@@ -335,6 +481,12 @@
       ],
       "topNews": [
         {
+          "title": "루이스 해밀턴, 헝가로링 F1 예선 출전…페라리 소속으로 첫 질주",
+          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3646669",
+          "press": "",
+          "date": "2026-07-26"
+        },
+        {
           "title": "F1 노리스, 헝가리 예선서 시즌 첫 폴포지션…해밀턴 0.012초 차 제쳐",
           "link": "https://www.gpkorea.com/news/articleView.html?idxno=145066",
           "press": "",
@@ -357,96 +509,17 @@
           "link": "https://www.gpkorea.com/news/articleView.html?idxno=145033",
           "press": "",
           "date": "2026-07-24"
-        },
-        {
-          "title": "메르세데스-AMG F1팀 키미 안토넬리, F1 벨기에 그랑프리 우승",
-          "link": "https://www.sportsworldi.com/newsView/20260720520596",
-          "press": "",
-          "date": "2026-07-20"
         }
       ],
-      "rank": 5
-    },
-    {
-      "keyword": "박현빈",
-      "traffic": "200+",
-      "blogTotal": 36971,
-      "newsTotal": 59927,
-      "recentToday": 23,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "가수 박현빈이 결혼하고 엄마 몰래 집 비밀번호 바꾼 진짜 이유",
-          "link": "https://blog.naver.com/healthymaker/224357309468",
-          "blogger": "스푼쿠커의 생활건강 이야기",
-          "date": "2026-07-25"
-        },
-        {
-          "title": "박현빈 프로필 고향 집안 리즈 와이프(부인) 김주희 자녀 실제 키",
-          "link": "https://blog.naver.com/arbol84/224358458631",
-          "blogger": "아르볼",
-          "date": "2026-07-26"
-        },
-        {
-          "title": "조명섭·박현빈·강문경 한자리에…'전설의 사내' 심장 멎는...",
-          "link": "https://blog.naver.com/thfgidrl60/224354693104",
-          "blogger": "트롯포커스",
-          "date": "2026-07-22"
-        },
-        {
-          "title": "가수 박현빈 나이 프로필 결혼 아내 노래모음 콘서트",
-          "link": "https://blog.naver.com/volcamalca/224333618726",
-          "blogger": "지나의 리뷰",
-          "date": "2026-07-04"
-        },
-        {
-          "title": "현역 강자 강문경 박현빈의 살벌한 습격 현장 비하인드",
-          "link": "https://blog.naver.com/dwit-patch/224355952982",
-          "blogger": "뒷스패치",
-          "date": "2026-07-24"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "'미우새' 박현빈, \"엄마 밥 먹고 싶어서 주 10회 정도 본가 방문···아...",
-          "link": "https://ent.sbs.co.kr/news/article.do?article_id=E10010319667&plink=ORI&cooper=NAVER",
-          "press": "",
-          "date": "2026-07-26"
-        },
-        {
-          "title": "“공깃밥 9개씩” 황치열, 댄서 시절 남다른 대식가 면모 (‘미우새’)",
-          "link": "https://www.mk.co.kr/article/12107867",
-          "press": "",
-          "date": "2026-07-26"
-        },
-        {
-          "title": "“주 10회 엄마표 밥 먹어” 박현빈, 결혼 후에도 여전한 ‘미우새’",
-          "link": "https://www.mk.co.kr/article/12107866",
-          "press": "",
-          "date": "2026-07-26"
-        },
-        {
-          "title": "박현빈, 결혼 후에도 '엄마 밥' 고수 \"일주일에 10번 먹으러 가\" (미우새...",
-          "link": "https://www.xportsnews.com/article/2176405",
-          "press": "",
-          "date": "2026-07-26"
-        },
-        {
-          "title": "박현빈 \"결혼 후 母 집 주 10회 방문\"..서장훈 \"아내 음식 입에 안 맞나...",
-          "link": "https://www.starnewskorea.com/broadcast-show/2026/07/26/2026072620550079821",
-          "press": "",
-          "date": "2026-07-26"
-        }
-      ],
-      "rank": 6
+      "rank": 7
     },
     {
       "keyword": "한상진",
       "traffic": "200+",
-      "blogTotal": 21230,
+      "blogTotal": 21232,
       "newsTotal": 53530,
       "recentToday": 11,
-      "recentWeek": 40,
+      "recentWeek": 41,
       "topBlogs": [
         {
           "title": "한상진 자녀 찐부부 나이 아내 재산은?",
@@ -511,12 +584,12 @@
           "date": "2026-07-26"
         }
       ],
-      "rank": 7
+      "rank": 8
     },
     {
       "keyword": "오연수",
-      "traffic": "200+",
-      "blogTotal": 29206,
+      "traffic": "500+",
+      "blogTotal": 29204,
       "newsTotal": 31081,
       "recentToday": 10,
       "recentWeek": 99,
@@ -584,86 +657,13 @@
           "date": "2026-07-23"
         }
       ],
-      "rank": 8
-    },
-    {
-      "keyword": "lg vs hanwha",
-      "traffic": "100+",
-      "blogTotal": 666,
-      "newsTotal": 220,
-      "recentToday": 1,
-      "recentWeek": 6,
-      "topBlogs": [
-        {
-          "title": "feat. #한화이글스파크 LG Twins Vs. Hanwha Eagles",
-          "link": "https://blog.naver.com/prettyssook/223806110161",
-          "blogger": "Twin Flame",
-          "date": "2025-03-22"
-        },
-        {
-          "title": "[엘지승리기원] 2011 프로야구 LG vs Hanwha 엘지 한화전...",
-          "link": "https://blog.naver.com/traveleralice/90113470314",
-          "blogger": "앨리스 일상나들이",
-          "date": "2011-05-13"
-        },
-        {
-          "title": "[KBO] 2026년 7월 25일 LG vs 한화 | '8연패 늪' LG, 에이스...",
-          "link": "https://blog.naver.com/hepi3/224357206030",
-          "blogger": "머니박스",
-          "date": "2026-07-25"
-        },
-        {
-          "title": "C'est la vie :: 08/03/2015, LG Twins vs Hanwha Eagles...",
-          "link": "https://sorrento.tistory.com/1145",
-          "blogger": "C'est la vie :: C'est la vie",
-          "date": "2015-03-30"
-        },
-        {
-          "title": "1차전 10월26일 일요일 8:2승 LG Twins vs Hanwha Eagles",
-          "link": "https://blog.naver.com/gentlemin/224077679111",
-          "blogger": "THE YOUNG POST",
-          "date": "2025-11-16"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "[Closing Market] KOSPI Drops About 2% on Massive Foreign Selling Amid Won...",
-          "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=272323",
-          "press": "",
-          "date": "2026-07-01"
-        },
-        {
-          "title": "KOSPI Achieves Milestone by Breaking the 9,000 Mark, Keeping Won Around 1...",
-          "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=271588",
-          "press": "",
-          "date": "2026-06-18"
-        },
-        {
-          "title": "[VS현장] 네이버·넥슨·삼성이 쓰는 클로드…앤트로픽, 서울 거점 구축...",
-          "link": "https://www.venturesquare.net/1091803/",
-          "press": "",
-          "date": "2026-06-17"
-        },
-        {
-          "title": "LG's 800 Billion Won vs. Hanwha's 300 Billion Won… Unlisted-Firm \"Lever...",
-          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092162733",
-          "press": "",
-          "date": "2026-05-25"
-        },
-        {
-          "title": "Lions riding 7-game winning streak into big series vs. Twins in KBO",
-          "link": "https://en.yna.co.kr/view/AEN20260511003400315?input=2106m",
-          "press": "",
-          "date": "2026-05-11"
-        }
-      ],
       "rank": 9
     },
     {
       "keyword": "검사",
       "traffic": "1000+",
-      "blogTotal": 26543919,
-      "newsTotal": 8144293,
+      "blogTotal": 26544316,
+      "newsTotal": 8144301,
       "recentToday": 0,
       "recentWeek": 100,
       "topBlogs": [
@@ -700,32 +700,32 @@
       ],
       "topNews": [
         {
-          "title": "삼성의 스마트 안경… 그 뒤엔 로봇 선점 전략",
-          "link": "https://www.chosun.com/economy/tech_it/2026/07/27/YMT42KNQDZDNHADYP6VJOI3XQI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+          "title": "“커피 달고 살고, 매일 피곤해”…40대 여성 노리는 ‘침묵의 질환’ ...",
+          "link": "https://www.joongang.co.kr/article/25448318",
           "press": "",
           "date": "2026-07-26"
         },
         {
-          "title": "[사설] 보완수사권 폐지에 법무장관 사의…반려로 덮을 일 아니다",
-          "link": "https://www.joongang.co.kr/article/25448317",
+          "title": "[사설] 보완수사권 폐지, 누더기 보완책으로 될 일인가",
+          "link": "https://www.kmib.co.kr/article/view.asp?arcid=1785048306&code=11171111&cp=nv",
           "press": "",
           "date": "2026-07-26"
         },
         {
-          "title": "오늘 국회 법사위 전체회의...정성호 출석 예정",
-          "link": "https://www.ytn.co.kr/_ln/0101_202607270022320558",
+          "title": "항생제, 무조건 내성 생긴다?…\"잘못된 의학상식\"",
+          "link": "https://www.newsis.com/view/NISX20260724_0003722268",
           "press": "",
           "date": "2026-07-26"
         },
         {
-          "title": "[사설] 수사권 파문에 법무장관 사의, 대통령은 계속 침묵하나",
-          "link": "https://www.chosun.com/opinion/editorial/2026/07/27/QFZXF23XRNHQTPQP5CY24WZXQM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+          "title": "尹 ‘대선 허위발언’ 오늘 1심 선고…국힘 397억 반환하나?",
+          "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8620467&ref=A",
           "press": "",
           "date": "2026-07-26"
         },
         {
-          "title": "[특파원 칼럼] 기시감",
-          "link": "https://www.joongang.co.kr/article/25448307",
+          "title": "[천자칼럼] 테스토스테론과 군대",
+          "link": "https://www.hankyung.com/article/2026072666011",
           "press": "",
           "date": "2026-07-26"
         }
