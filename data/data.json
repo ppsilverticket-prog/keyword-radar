@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-26T18:02:33.041Z",
+  "updatedAt": "2026-07-26T19:43:04.383Z",
   "source": "live",
   "keywords": [
     {
       "keyword": "앤 트로픽",
       "traffic": "200+",
-      "blogTotal": 12429,
+      "blogTotal": 12431,
       "newsTotal": 120,
-      "recentToday": 91,
+      "recentToday": 90,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -78,7 +78,7 @@
     {
       "keyword": "김연경",
       "traffic": "500+",
-      "blogTotal": 108365,
+      "blogTotal": 108363,
       "newsTotal": 136767,
       "recentToday": 81,
       "recentWeek": 100,
@@ -151,9 +151,9 @@
     {
       "keyword": "경찰관",
       "traffic": "500+",
-      "blogTotal": 852866,
-      "newsTotal": 964986,
-      "recentToday": 72,
+      "blogTotal": 852880,
+      "newsTotal": 964988,
+      "recentToday": 59,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -189,6 +189,18 @@
       ],
       "topNews": [
         {
+          "title": "경찰서 1곳서 10년이상 근무한 ‘향찰’ 1만7000명",
+          "link": "https://www.donga.com/news/Society/article/all/20260726/134368307/2",
+          "press": "",
+          "date": "2026-07-26"
+        },
+        {
+          "title": "베를린 차량돌진 테러 용의자, 경찰 작전 중 사살",
+          "link": "https://www.newsis.com/view/NISX20260727_0003723822",
+          "press": "",
+          "date": "2026-07-26"
+        },
+        {
           "title": "[뉴스&이슈]강원 동일 경찰서 10년 이상 근무 789명⋯치안 전문성 vs 지역...",
           "link": "https://www.kwnews.co.kr/article/20260726500820",
           "press": "",
@@ -205,28 +217,16 @@
           "link": "https://www.kado.net/news/articleView.html?idxno=2063228",
           "press": "",
           "date": "2026-07-26"
-        },
-        {
-          "title": "누범기간 음주 측정 거부한 50대 징역 1년 선고",
-          "link": "https://www.kado.net/news/articleView.html?idxno=2063232",
-          "press": "",
-          "date": "2026-07-26"
-        },
-        {
-          "title": "충격! \"임신한 여자친구 머리 가격\" 前 프로 스케이트보더, 출소 7개월 ...",
-          "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553406395",
-          "press": "",
-          "date": "2026-07-26"
         }
       ],
       "rank": 3
     },
     {
       "keyword": "비비 워터 밤",
-      "traffic": "1000+",
-      "blogTotal": 14224,
+      "traffic": "2000+",
+      "blogTotal": 14226,
       "newsTotal": 1226,
-      "recentToday": 52,
+      "recentToday": 50,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -295,84 +295,11 @@
       "rank": 4
     },
     {
-      "keyword": "정전",
-      "traffic": "200+",
-      "blogTotal": 849674,
-      "newsTotal": 447027,
-      "recentToday": 40,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "갑자기 정전 되는 이유 에어컨 때문일까?",
-          "link": "https://blog.naver.com/dragoon86/224321239951",
-          "blogger": "백곰의 새우사육일지",
-          "date": "2026-07-05"
-        },
-        {
-          "title": "안산전기업체 상록구 정전 수리",
-          "link": "https://blog.naver.com/scent-label/224289983824",
-          "blogger": "10분전",
-          "date": "2026-05-21"
-        },
-        {
-          "title": "진주전기수리 초전동 누전 망경동 정전",
-          "link": "https://blog.naver.com/vndn5525/224285505477",
-          "blogger": "보라전기",
-          "date": "2026-05-15"
-        },
-        {
-          "title": "영종도 정전 2000호 대규모 정전원인과 복구 상황 정리!",
-          "link": "https://blog.naver.com/solmi_illustrator/224347368271",
-          "blogger": "비타민쏠미",
-          "date": "2026-07-15"
-        },
-        {
-          "title": "폭염 속 영종도 2000호 정전… 에어컨 멈추자 주민들 '불안'",
-          "link": "https://blog.naver.com/j_world90/224345889228",
-          "blogger": "밴쿠버홀릭",
-          "date": "2026-07-14"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "[정용수의 한반도 큐] 북한 핵 묵인은 실용적 대북정책이 될 수 없다",
-          "link": "https://www.joongang.co.kr/article/25448309",
-          "press": "",
-          "date": "2026-07-26"
-        },
-        {
-          "title": "유리로 만든 ‘전력 댐’… 우주·방산 시장 노린다 [강원대 앵커사업단...",
-          "link": "https://www.mk.co.kr/article/12106949",
-          "press": "",
-          "date": "2026-07-26"
-        },
-        {
-          "title": "울산, 습식폭염+인공열 '복합 기후재난' 전망",
-          "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1063070",
-          "press": "",
-          "date": "2026-07-26"
-        },
-        {
-          "title": "두동면 야산 대나무밭 화재, 무거동 일대 일시 정전도",
-          "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1063050",
-          "press": "",
-          "date": "2026-07-26"
-        },
-        {
-          "title": "북, 전승절 앞두고 노병 띄우기...충성심 심어주기",
-          "link": "https://www.ytn.co.kr/_ln/0101_202607262311558082",
-          "press": "",
-          "date": "2026-07-26"
-        }
-      ],
-      "rank": 5
-    },
-    {
       "keyword": "영종도",
       "traffic": "100+",
-      "blogTotal": 1361165,
-      "newsTotal": 266496,
-      "recentToday": 34,
+      "blogTotal": 1361173,
+      "newsTotal": 266497,
+      "recentToday": 23,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -408,6 +335,12 @@
       ],
       "topNews": [
         {
+          "title": "신도평화대교 개통 열흘 만에 교통대란",
+          "link": "https://www.donga.com/news/Society/article/all/20260726/134367788/2",
+          "press": "",
+          "date": "2026-07-26"
+        },
+        {
           "title": "리센느, 역주행곡 '러브어택'도 지상파 음방 첫 1위…원이 눈물 소감",
           "link": "https://www.newsis.com/view/NISX20260726_0003723797",
           "press": "",
@@ -430,10 +363,77 @@
           "link": "https://www.kyeonggi.com/article/20260726580067",
           "press": "",
           "date": "2026-07-26"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "keyword": "정전",
+      "traffic": "200+",
+      "blogTotal": 849673,
+      "newsTotal": 447029,
+      "recentToday": 13,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "갑자기 정전 되는 이유 에어컨 때문일까?",
+          "link": "https://blog.naver.com/dragoon86/224321239951",
+          "blogger": "백곰의 새우사육일지",
+          "date": "2026-07-05"
         },
         {
-          "title": "[포토 르포] 신도평화대교 교통체증 해소? 개통 두 번째 주말 영종도 차...",
-          "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1328048",
+          "title": "안산전기업체 상록구 정전 수리",
+          "link": "https://blog.naver.com/scent-label/224289983824",
+          "blogger": "10분전",
+          "date": "2026-05-21"
+        },
+        {
+          "title": "진주전기수리 초전동 누전 망경동 정전",
+          "link": "https://blog.naver.com/vndn5525/224285505477",
+          "blogger": "보라전기",
+          "date": "2026-05-15"
+        },
+        {
+          "title": "영종도 정전 2000호 대규모 정전원인과 복구 상황 정리!",
+          "link": "https://blog.naver.com/solmi_illustrator/224347368271",
+          "blogger": "비타민쏠미",
+          "date": "2026-07-15"
+        },
+        {
+          "title": "폭염 속 영종도 2000호 정전… 에어컨 멈추자 주민들 '불안'",
+          "link": "https://blog.naver.com/j_world90/224345889228",
+          "blogger": "밴쿠버홀릭",
+          "date": "2026-07-14"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "[광주·전남, 날씨예보] 폭염·열대야 지속…낮 최고 35도",
+          "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=83198",
+          "press": "",
+          "date": "2026-07-26"
+        },
+        {
+          "title": "[역사속 오늘·7.27] 휴전협정 조인(1953)·갑오경장(1894)·닉슨 탄핵안...",
+          "link": "http://kor.theasian.asia/archives/408903",
+          "press": "",
+          "date": "2026-07-26"
+        },
+        {
+          "title": "[정용수의 한반도 큐] 북한 핵 묵인은 실용적 대북정책이 될 수 없다",
+          "link": "https://www.joongang.co.kr/article/25448309",
+          "press": "",
+          "date": "2026-07-26"
+        },
+        {
+          "title": "유리로 만든 ‘전력 댐’… 우주·방산 시장 노린다 [강원대 앵커사업단...",
+          "link": "https://www.mk.co.kr/article/12106949",
+          "press": "",
+          "date": "2026-07-26"
+        },
+        {
+          "title": "울산, 습식폭염+인공열 '복합 기후재난' 전망",
+          "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1063070",
           "press": "",
           "date": "2026-07-26"
         }
@@ -441,72 +441,72 @@
       "rank": 6
     },
     {
-      "keyword": "영장",
+      "keyword": "한상진",
       "traffic": "200+",
-      "blogTotal": 912157,
-      "newsTotal": 1913319,
-      "recentToday": 27,
-      "recentWeek": 100,
+      "blogTotal": 21231,
+      "newsTotal": 53530,
+      "recentToday": 11,
+      "recentWeek": 42,
       "topBlogs": [
         {
-          "title": "인천구속영장실질심사변호사 실질적인 법적 대안은",
-          "link": "https://blog.naver.com/cjsang/224205278837",
-          "blogger": "대표변호사 직접상담✔로엘 법무법인✔",
-          "date": "2026-03-05"
+          "title": "한상진 자녀 찐부부 나이 아내 재산은?",
+          "link": "https://blog.naver.com/solmi_illustrator/224319923058",
+          "blogger": "비타민쏠미",
+          "date": "2026-06-18"
         },
         {
-          "title": "부산구속영장변호사 총체적 검토는",
-          "link": "https://blog.naver.com/kns_sipjagun/224273351271",
-          "blogger": "대표변호사 직접상담✅로엘 법무법인✅",
-          "date": "2026-05-03"
+          "title": "한상진 자녀 와이프 박정은 프로필, 결혼 22년 차 부부가...",
+          "link": "https://blog.naver.com/tence/224321099844",
+          "blogger": "세동온하우스",
+          "date": "2026-06-19"
         },
         {
-          "title": "체포영장 조언 주장은",
-          "link": "https://blog.naver.com/rockandrollstar/224036477352",
-          "blogger": "힝인디요",
-          "date": "2025-10-10"
+          "title": "“잡혀 산다” 농담하던 한상진, 알고 보니 아내가 한국...",
+          "link": "https://blog.naver.com/mucaldiaproc/224319511886",
+          "blogger": "이슈랭",
+          "date": "2026-06-18"
         },
         {
-          "title": "영장실질심사 법적 기준 검토와 분석 이유는",
-          "link": "https://blog.naver.com/kwn346/224327893958",
-          "blogger": "법무법인YK",
-          "date": "2026-06-26"
+          "title": "6월 17일 유 퀴즈 온 더 블럭 346회 부산댁 한상진 박정은감독...",
+          "link": "https://blog.naver.com/dayeon1007/224319193273",
+          "blogger": "하나님 그리고 조나단",
+          "date": "2026-06-17"
         },
         {
-          "title": "동작마약변호사 마약류 관리에 관한 법률 위반 영장실질심사...",
-          "link": "https://blog.naver.com/cam8180/224342842255",
-          "blogger": "잡학다식 ✅",
-          "date": "2026-07-10"
+          "title": "한상진 자녀 와이프 박정은 프로필, 결혼 22년 차 부부가 다시...",
+          "link": "https://blog.naver.com/lhswind2/224319656781",
+          "blogger": "우수아빠의 인생은",
+          "date": "2026-06-18"
         }
       ],
       "topNews": [
         {
-          "title": "\"김세의가 인정 못하겠다고 해서\"…은현장, '가세연' 주주 지위 소송 2심...",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16146197",
+          "title": "[스브스夜] '미우새' 남창희, '한강 아이유' 아내와 '러브 풀스토리' 공...",
+          "link": "https://ent.sbs.co.kr/news/article.do?article_id=E10010319669&plink=ORI&cooper=NAVER",
           "press": "",
           "date": "2026-07-26"
         },
         {
-          "title": "“증거 있어?” 납치 발뺌 장광… 유일한 열쇠 전광진 실신에 남궁민 고...",
-          "link": "https://sports.khan.co.kr/article/202607270015003?pt=nv",
+          "title": "“DM으로 사랑이 오냐고” 남창희 ‘한강 아이유’ 아내 러브스토리 공...",
+          "link": "https://www.mk.co.kr/article/12107876",
           "press": "",
           "date": "2026-07-26"
         },
         {
-          "title": "[월요마당] 그 사건의 주임검사가 다시 본 '검수완박'",
-          "link": "https://www.kado.net/news/articleView.html?idxno=2063179",
+          "title": "\"친구 폭로로 연락 끊겼다 다시 만나\"...남창희, '아이유 닮은꼴' 아내♥...",
+          "link": "http://www.osen.co.kr/article/G1112847130",
           "press": "",
           "date": "2026-07-26"
         },
         {
-          "title": "[태화강]검사의 보완수사가 필요한 이유",
-          "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1063021",
+          "title": "'미운 우리 새끼' 성시경, 조현아와 캠핑장 데이트 다음주 예고",
+          "link": "https://enter.etoday.co.kr/news/view/300233",
           "press": "",
           "date": "2026-07-26"
         },
         {
-          "title": "[인터뷰] '경찰 수사 쇄신 TF' 김남준 변호사 \"수사기관 제 역할 해야\"",
-          "link": "https://news.tf.co.kr/read/life/2346920.htm",
+          "title": "\"큰 용변 보다가\"… 한상진, 신혼여행가서 이혼할 뻔한 일화 (미우새) [...",
+          "link": "http://www.tvdaily.co.kr/read.php3?aid=17850742471795203019",
           "press": "",
           "date": "2026-07-26"
         }
@@ -516,10 +516,10 @@
     {
       "keyword": "오연수",
       "traffic": "500+",
-      "blogTotal": 29204,
+      "blogTotal": 29203,
       "newsTotal": 31081,
       "recentToday": 10,
-      "recentWeek": 99,
+      "recentWeek": 98,
       "topBlogs": [
         {
           "title": "'남편까지 포기하고 자녀 교육에 올인했더니..' 오연수 자녀 근황",
@@ -588,9 +588,9 @@
     },
     {
       "keyword": "디즈니+",
-      "traffic": "200+",
-      "blogTotal": 2769587,
-      "newsTotal": 513994,
+      "traffic": "500+",
+      "blogTotal": 2769589,
+      "newsTotal": 513996,
       "recentToday": 0,
       "recentWeek": 100,
       "topBlogs": [
@@ -627,6 +627,18 @@
       ],
       "topNews": [
         {
+          "title": "강민아, 꽃밭 셀카 속 '공감세포' 감성 근황",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16146235",
+          "press": "",
+          "date": "2026-07-26"
+        },
+        {
+          "title": "김민하, 영화 행사장에서 두 팔 번지른 반가운 인사",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16146233",
+          "press": "",
+          "date": "2026-07-26"
+        },
+        {
           "title": "디즈니+ '킬러들의 쇼핑몰2', 한국·일본·대만·싱가포르 1위",
           "link": "https://www.econovill.com/news/articleView.html?idxno=746204",
           "press": "",
@@ -643,32 +655,81 @@
           "link": "https://news.jtbc.co.kr/article/NB12310256?influxDiv=NAVER",
           "press": "",
           "date": "2026-07-26"
-        },
-        {
-          "title": "\"'생일 좋다' 지예은, 꽃다발 안고 활짝…바타 공개 열애 후 첫 생일 '축...",
-          "link": "http://www.osen.co.kr/article/G1112847143",
-          "press": "",
-          "date": "2026-07-26"
-        },
-        {
-          "title": "김혜준, '최애의 사원' 런닝맨 팀사진으로 근황",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16146113",
-          "press": "",
-          "date": "2026-07-26"
         }
       ],
       "rank": 9
     },
     {
-      "keyword": "한상진",
-      "traffic": "200+",
-      "blogTotal": 0,
-      "newsTotal": 0,
+      "keyword": "영장",
+      "traffic": "500+",
+      "blogTotal": 912214,
+      "newsTotal": 1913323,
       "recentToday": 0,
-      "recentWeek": 0,
-      "topBlogs": [],
-      "topNews": [],
-      "error": "HTTP 429 https://openapi.naver.com/v1/search/blog.json?query=%ED%95%9C%EC%83%81%EC%A7%84&display=5&sort=sim",
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "인천구속영장실질심사변호사 실질적인 법적 대안은",
+          "link": "https://blog.naver.com/cjsang/224205278837",
+          "blogger": "대표변호사 직접상담✔로엘 법무법인✔",
+          "date": "2026-03-05"
+        },
+        {
+          "title": "부산구속영장변호사 총체적 검토는",
+          "link": "https://blog.naver.com/kns_sipjagun/224273351271",
+          "blogger": "대표변호사 직접상담✅로엘 법무법인✅",
+          "date": "2026-05-03"
+        },
+        {
+          "title": "체포영장 조언 주장은",
+          "link": "https://blog.naver.com/rockandrollstar/224036477352",
+          "blogger": "힝인디요",
+          "date": "2025-10-10"
+        },
+        {
+          "title": "영장실질심사 법적 기준 검토와 분석 이유는",
+          "link": "https://blog.naver.com/kwn346/224327893958",
+          "blogger": "법무법인YK",
+          "date": "2026-06-26"
+        },
+        {
+          "title": "동작마약변호사 마약류 관리에 관한 법률 위반 영장실질심사...",
+          "link": "https://blog.naver.com/cam8180/224342842255",
+          "blogger": "잡학다식 ✅",
+          "date": "2026-07-10"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "[단독]‘주가 조작 패가망신 1호’ DI동일 사건 수사에 제동",
+          "link": "https://www.donga.com/news/Society/article/all/20260726/134368305/2",
+          "press": "",
+          "date": "2026-07-26"
+        },
+        {
+          "title": "'32배 뻥튀기' 마약 놔주고 불법 촬영…청담동 의사의 기막힌 돈벌이",
+          "link": "https://www.mt.co.kr/society/2026/07/27/2026072619513211948",
+          "press": "",
+          "date": "2026-07-26"
+        },
+        {
+          "title": "정성호 사의, 형사사법체계 개편 변수되나",
+          "link": "https://www.mt.co.kr/society/2026/07/27/2026072619532765922",
+          "press": "",
+          "date": "2026-07-26"
+        },
+        {
+          "title": "[사설] 투표율도 조작한 선관위, 끝까지 파헤쳐야",
+          "link": "https://www.kyeonggi.com/article/20260726580309",
+          "press": "",
+          "date": "2026-07-26"
+        },
+        {
+          "title": "\"김세의가 인정 못하겠다고 해서\"…은현장, '가세연' 주주 지위 소송 2심...",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16146197",
+          "press": "",
+          "date": "2026-07-26"
+        }
+      ],
       "rank": 10
     }
   ]
