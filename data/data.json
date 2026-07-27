@@ -1,416 +1,9 @@
 {
-  "updatedAt": "2026-07-27T20:20:07.473Z",
+  "updatedAt": "2026-07-27T21:39:22.945Z",
   "source": "live",
   "keywords": [
     {
-      "keyword": "duv",
-      "traffic": "200+",
-      "blogTotal": 10322,
-      "newsTotal": 3266,
-      "recentToday": 40,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "중국 DUV 양산에 실시간 반도체 주식 나락, 공포에 매도하기 전...",
-          "link": "https://blog.naver.com/todaysdiary-u_u/224359928299",
-          "blogger": "오늘의 일기",
-          "date": "2026-07-28"
-        },
-        {
-          "title": "중국, ASML 의존 낮추기 시작했다 국산 DUV 양산 개시",
-          "link": "https://blog.naver.com/daegyumm/224359786946",
-          "blogger": "With Stay",
-          "date": "2026-07-27"
-        },
-        {
-          "title": "중국 DUV 국산화설부터 엔비디아 금융보증까지, 화요일 개장...",
-          "link": "https://blog.naver.com/yukikang/224359914612",
-          "blogger": "Price Log",
-          "date": "2026-07-28"
-        },
-        {
-          "title": "엔비디아 '순환거래' 논란의 허구성 및  중국 DUV 국산화의...",
-          "link": "https://blog.naver.com/ttemoney/224359908648",
-          "blogger": "대형증권사 20년 경력!!! 1천억원을 벌자!!!",
-          "date": "2026-07-28"
-        },
-        {
-          "title": "⚡ 중국산 DUV 장비 양산과 CXMT 폭등! 한국 반도체 기업에...",
-          "link": "https://blog.naver.com/nicodemus4620/224359939204",
-          "blogger": "ASEAN.EA Post",
-          "date": "2026-07-28"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "[속보]유가 하락에도 반도체주 약세…다우 0.5%↑·나스닥 0.2%↓",
-          "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=01728566645519112",
-          "press": "",
-          "date": "2026-07-27"
-        },
-        {
-          "title": "[글로벌 비즈 브리핑] ‘개미 지옥’ 코스피 보고도?...\"키옥시아 레버...",
-          "link": "https://biz.sbs.co.kr/article_hub/20000324955?division=NAVER",
-          "press": "",
-          "date": "2026-07-27"
-        },
-        {
-          "title": "[美증시 특징주] 반도체 엔비디아 오픈AI 순환금융에 직격…하이닉스·...",
-          "link": "https://www.mediapen.com/news/view/1112544",
-          "press": "",
-          "date": "2026-07-27"
-        },
-        {
-          "title": "ASML, 中 DUV 노광장비 자체 생산 소식에 주가 급락",
-          "link": "https://www.bloter.net/news/articleView.html?idxno=669114",
-          "press": "",
-          "date": "2026-07-27"
-        },
-        {
-          "title": "中, DUV 노광장비도 직접 만든다...반도체 홀로서기 가속",
-          "link": "https://biz.sbs.co.kr/article_hub/20000324948?division=NAVER",
-          "press": "",
-          "date": "2026-07-27"
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "keyword": "중국 duv",
-      "traffic": "200+",
-      "blogTotal": 5380,
-      "newsTotal": 2114,
-      "recentToday": 26,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "중국 DUV 양산에 실시간 반도체 주식 나락, 공포에 매도하기 전...",
-          "link": "https://blog.naver.com/todaysdiary-u_u/224359928299",
-          "blogger": "오늘의 일기",
-          "date": "2026-07-28"
-        },
-        {
-          "title": "중국 DUV 국산화설부터 엔비디아 금융보증까지, 화요일 개장...",
-          "link": "https://blog.naver.com/yukikang/224359914612",
-          "blogger": "Price Log",
-          "date": "2026-07-28"
-        },
-        {
-          "title": "엔비디아 '순환거래' 논란의 허구성 및  중국 DUV 국산화의...",
-          "link": "https://blog.naver.com/ttemoney/224359908648",
-          "blogger": "대형증권사 20년 경력!!! 1천억원을 벌자!!!",
-          "date": "2026-07-28"
-        },
-        {
-          "title": "중국 DUV 양산, 반도체 시장 흔든다",
-          "link": "https://blog.naver.com/jony97/224359975589",
-          "blogger": "재테크의 모든것",
-          "date": "2026-07-28"
-        },
-        {
-          "title": "중국, ASML 의존 낮추기 시작했다 국산 DUV 양산 개시",
-          "link": "https://blog.naver.com/daegyumm/224359786946",
-          "blogger": "With Stay",
-          "date": "2026-07-27"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "[속보]유가 하락에도 반도체주 약세…다우 0.5%↑·나스닥 0.2%↓",
-          "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=01728566645519112",
-          "press": "",
-          "date": "2026-07-27"
-        },
-        {
-          "title": "[글로벌 비즈 브리핑] ‘개미 지옥’ 코스피 보고도?...\"키옥시아 레버...",
-          "link": "https://biz.sbs.co.kr/article_hub/20000324955?division=NAVER",
-          "press": "",
-          "date": "2026-07-27"
-        },
-        {
-          "title": "[美증시 특징주] 반도체 엔비디아 오픈AI 순환금융에 직격…하이닉스·...",
-          "link": "https://www.mediapen.com/news/view/1112544",
-          "press": "",
-          "date": "2026-07-27"
-        },
-        {
-          "title": "ASML, 中 DUV 노광장비 자체 생산 소식에 주가 급락",
-          "link": "https://www.bloter.net/news/articleView.html?idxno=669114",
-          "press": "",
-          "date": "2026-07-27"
-        },
-        {
-          "title": "中, DUV 노광장비도 직접 만든다...반도체 홀로서기 가속",
-          "link": "https://biz.sbs.co.kr/article_hub/20000324948?division=NAVER",
-          "press": "",
-          "date": "2026-07-27"
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "keyword": "스포티비뉴스",
-      "traffic": "100+",
-      "blogTotal": 38504,
-      "newsTotal": 257553,
-      "recentToday": 19,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "로하스, 현실은 마이너 계약…테임즈 부메랑 [스포티비뉴스 폼]",
-          "link": "https://blog.naver.com/parkpilsoon/223575779496",
-          "blogger": "반야월 박회장",
-          "date": "2024-09-07"
-        },
-        {
-          "title": "2025 러너들의 축제, 전국 마라톤 일정 총정리 스포티비뉴스...",
-          "link": "https://blog.naver.com/happy080333/224049841526",
-          "blogger": "행복한 일상 블로그",
-          "date": "2025-10-22"
-        },
-        {
-          "title": "건강한 도전과 즐거움이 가득한 러닝 스포티비뉴스",
-          "link": "https://blog.naver.com/skel25/224032519504",
-          "blogger": "반가워요 :)",
-          "date": "2025-10-05"
-        },
-        {
-          "title": "스포티비뉴스,즐거움의 런닝 축제 BlueRun",
-          "link": "https://blog.naver.com/hermiyoung10/224043569618",
-          "blogger": "hermiyoung10님의 블로그",
-          "date": "2025-10-16"
-        },
-        {
-          "title": "즐거움을 나누는 건강 축제, 2025 블루런 with 스포티비뉴스",
-          "link": "https://blog.naver.com/silver_1771_/224038601755",
-          "blogger": "채워가는 하루",
-          "date": "2025-10-12"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "\"'김부장' 잘되기 전, 사비로 1억\"…소지섭, 300명에 '황금' 선물 비하인...",
-          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=830982",
-          "press": "",
-          "date": "2026-07-27"
-        },
-        {
-          "title": "'김부장' 서수민 \"김다미 닮은꼴? 너무 감사…김고은·이혜영과도 작품...",
-          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=830898",
-          "press": "",
-          "date": "2026-07-27"
-        },
-        {
-          "title": "'김부장' 서수민 \"소속사 몰래 올린 영상이 300만뷰…대박날 줄 몰랐죠...",
-          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=830883",
-          "press": "",
-          "date": "2026-07-27"
-        },
-        {
-          "title": "'킬러들의 쇼핑몰2', 시작부터 신기록...디즈니+ 韓오리지널 '1위'",
-          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=830884",
-          "press": "",
-          "date": "2026-07-27"
-        },
-        {
-          "title": "'김부장' 서수민 \"소지섭 금 선물, 진짜였다 '대박'…데이식스 사인까지...",
-          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=830869",
-          "press": "",
-          "date": "2026-07-27"
-        }
-      ],
-      "rank": 3
-    },
-    {
-      "keyword": "정선희",
-      "traffic": "100+",
-      "blogTotal": 34700,
-      "newsTotal": 38810,
-      "recentToday": 18,
-      "recentWeek": 75,
-      "topBlogs": [
-        {
-          "title": "\"아버지 빚 10년 넘게 갚았다\" 정선희, 마지막 빚 갚고 엄마와...",
-          "link": "https://blog.naver.com/msw118/224359841291",
-          "blogger": "흥미롭고 재밌는 최신 연예 소식",
-          "date": "2026-07-27"
-        },
-        {
-          "title": "정선희 기미팩 궁금해서 써 본 내돈내산 기미제거크림 후기",
-          "link": "https://blog.naver.com/sindo1895/224242855330",
-          "blogger": "오색빛깔",
-          "date": "2026-04-06"
-        },
-        {
-          "title": "정선희 탈모앰플 사용 후기 feat 아쉬움",
-          "link": "https://blog.naver.com/mdgkorea-/224277413274",
-          "blogger": "mdgkorea",
-          "date": "2026-05-07"
-        },
-        {
-          "title": "정선희 기미팩 인스타 보고 써본 솔직 후기",
-          "link": "https://blog.naver.com/wanny2003/224242642950",
-          "blogger": "Merry, Wanny_♡",
-          "date": "2026-04-06"
-        },
-        {
-          "title": "정선희 기미팩 꾸준히 하기로 마음 먹은 케어 방법",
-          "link": "https://blog.naver.com/ohappy26/224242513864",
-          "blogger": ".",
-          "date": "2026-04-06"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "“유재석에 설렜다” 정선희, 리얼 '심쿵'했던 모먼트 어땠길래 ('짠한...",
-          "link": "http://www.osen.co.kr/article/G1112847540",
-          "press": "",
-          "date": "2026-07-27"
-        },
-        {
-          "title": "정선희 \"父 사업 실패로 빚 10년 갚아...낭만 배웠다\" 뭉클 ('짠한형')",
-          "link": "http://www.osen.co.kr/article/G1112847526",
-          "press": "",
-          "date": "2026-07-27"
-        },
-        {
-          "title": "정선희 \"아버지 빚 10년 넘게 갚아…항상 빚에 쪼들려\"",
-          "link": "https://www.newsis.com/view/NISX20260727_0003725491",
-          "press": "",
-          "date": "2026-07-27"
-        },
-        {
-          "title": "정선희 \"자는데 유재석이 코트 덮어줘…나 좋아하는 줄\"",
-          "link": "https://www.newsis.com/view/NISX20260727_0003725461",
-          "press": "",
-          "date": "2026-07-27"
-        },
-        {
-          "title": "정선희 \"父 쫄딱 망해 가족 뿔뿔이…10년 넘게 빚 갚았다\" ('짠한형')",
-          "link": "https://www.tenasia.co.kr/article/2026072791374",
-          "press": "",
-          "date": "2026-07-27"
-        }
-      ],
-      "rank": 4
-    },
-    {
-      "keyword": "철구",
-      "traffic": "500+",
-      "blogTotal": 29428,
-      "newsTotal": 8646,
-      "recentToday": 13,
-      "recentWeek": 75,
-      "topBlogs": [
-        {
-          "title": "암살자들 유해진 역할은 형사 철구, 2026 추석 개봉·박해일...",
-          "link": "https://blog.naver.com/nano_story/224359125555",
-          "blogger": "나노의 생활 경제 이야기",
-          "date": "2026-07-27"
-        },
-        {
-          "title": "아산 아파트 화재청소 철구부터 인테리어 복구 청구까지 한방에!",
-          "link": "https://blog.naver.com/jaehee3005/224339906381",
-          "blogger": "베스트 화재청소 ✔",
-          "date": "2026-07-08"
-        },
-        {
-          "title": "[부동산] 서울 중급지 4대 수문장 아파트.jpg (+철구이불 평가)",
-          "link": "https://blog.naver.com/pi-ok/224193542119",
-          "blogger": "집 보는 사초생",
-          "date": "2026-02-24"
-        },
-        {
-          "title": "최고사양 피시방 RTX5080 9800X3D 벤큐 XL2586X+ 철구 PC방",
-          "link": "https://blog.naver.com/kkikseven1/224194046623",
-          "blogger": "달려라고고씽",
-          "date": "2026-02-24"
-        },
-        {
-          "title": "씨나인 스타부 박재혁 하차, 철구 공지부터 직접 밝힌 이유까지...",
-          "link": "https://blog.naver.com/rlathdusrja/224358412098",
-          "blogger": "사쁜경제",
-          "date": "2026-07-26"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "유해진, 1974년 영부인 저격 사건 추적한다…긴장감 폭발한 이 작품 ('암...",
-          "link": "https://mhnse.com/news/articleView.html?idxno=1469853",
-          "press": "",
-          "date": "2026-07-27"
-        },
-        {
-          "title": "'암살자(들)' 유해진, 형사 캐릭터 스틸 공개…추석 개봉",
-          "link": "http://www.queen.co.kr/news/articleView.html?idxno=460852",
-          "press": "",
-          "date": "2026-07-27"
-        },
-        {
-          "title": "유해진, 대통령 영부인 피살 사건 소재 ‘암살자(들)’ 집념의 형사 변...",
-          "link": "https://www.newsen.com/news_view.php?uid=202607271403410310",
-          "press": "",
-          "date": "2026-07-27"
-        },
-        {
-          "title": "'암살자(들)' 유해진, 영부인 저격 배후 추적…진실 쫓는 형사 된다",
-          "link": "https://ent.sbs.co.kr/news/article.do?article_id=E10010319696&plink=ORI&cooper=NAVER",
-          "press": "",
-          "date": "2026-07-27"
-        },
-        {
-          "title": "'5천만 배우' 유해진, '암살자(들)'로 영부인 저격 사건 추적",
-          "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=543840",
-          "press": "",
-          "date": "2026-07-27"
-        }
-      ],
-      "rank": 5
-    },
-    {
-      "keyword": "klasemen timnas indonesia vs tim nasional sepak bola kamboja",
-      "traffic": "500+",
-      "blogTotal": 6,
-      "newsTotal": 0,
-      "recentToday": 0,
-      "recentWeek": 0,
-      "topBlogs": [
-        {
-          "title": "[아시아] 신태용 “선수에 돈 주고 귀화? 가짜뉴스!”",
-          "link": "https://blog.naver.com/likethewind/223657149505",
-          "blogger": "Bleu",
-          "date": "2024-11-12"
-        },
-        {
-          "title": "인도네시아 주간 이슈 (2026년 3월 첫째 주)",
-          "link": "https://blog.naver.com/dongsunkko/224206510671",
-          "blogger": "beautician의 인도네시아 이야기",
-          "date": "2026-03-06"
-        },
-        {
-          "title": "인도네시아 주간 이슈 (2025년 10월 다섯째 주)",
-          "link": "https://blog.naver.com/dongsunkko/224059381732",
-          "blogger": "beautician의 인도네시아 이야기",
-          "date": "2025-10-31"
-        },
-        {
-          "title": "인도네시아 체육위원회 위원장 면담",
-          "link": "https://blog.naver.com/pabae_jkt/222695444257",
-          "blogger": "꿈은 세계로 가슴은 조국으로",
-          "date": "2022-04-08"
-        },
-        {
-          "title": "인도네시아 뉴스 (5월 13일)",
-          "link": "https://blog.naver.com/jakarta2015/223101064066",
-          "blogger": "jakarta2015님의 블로그",
-          "date": "2023-05-13"
-        }
-      ],
-      "topNews": [],
-      "rank": 6
-    },
-    {
-      "keyword": "성리",
+      "keyword": "전지",
       "traffic": "100+",
       "blogTotal": 0,
       "newsTotal": 0,
@@ -418,226 +11,115 @@
       "recentWeek": 0,
       "topBlogs": [],
       "topNews": [],
-      "error": "HTTP 429 https://openapi.naver.com/v1/search/blog.json?query=%EC%84%B1%EB%A6%AC&display=100&sort=date",
+      "error": "fetch failed",
+      "rank": 1
+    },
+    {
+      "keyword": "이동하",
+      "traffic": "500+",
+      "blogTotal": 0,
+      "newsTotal": 0,
+      "recentToday": 0,
+      "recentWeek": 0,
+      "topBlogs": [],
+      "topNews": [],
+      "error": "fetch failed",
+      "rank": 2
+    },
+    {
+      "keyword": "풍자",
+      "traffic": "200+",
+      "blogTotal": 0,
+      "newsTotal": 0,
+      "recentToday": 0,
+      "recentWeek": 0,
+      "topBlogs": [],
+      "topNews": [],
+      "error": "fetch failed",
+      "rank": 3
+    },
+    {
+      "keyword": "맨체스터 유나이티드 fc",
+      "traffic": "200+",
+      "blogTotal": 0,
+      "newsTotal": 0,
+      "recentToday": 0,
+      "recentWeek": 0,
+      "topBlogs": [],
+      "topNews": [],
+      "error": "fetch failed",
+      "rank": 4
+    },
+    {
+      "keyword": "온도",
+      "traffic": "200+",
+      "blogTotal": 0,
+      "newsTotal": 0,
+      "recentToday": 0,
+      "recentWeek": 0,
+      "topBlogs": [],
+      "topNews": [],
+      "error": "fetch failed",
+      "rank": 5
+    },
+    {
+      "keyword": "태풍",
+      "traffic": "10000+",
+      "blogTotal": 0,
+      "newsTotal": 0,
+      "recentToday": 0,
+      "recentWeek": 0,
+      "topBlogs": [],
+      "topNews": [],
+      "error": "fetch failed",
+      "rank": 6
+    },
+    {
+      "keyword": "구준엽",
+      "traffic": "1000+",
+      "blogTotal": 0,
+      "newsTotal": 0,
+      "recentToday": 0,
+      "recentWeek": 0,
+      "topBlogs": [],
+      "topNews": [],
+      "error": "fetch failed",
       "rank": 7
     },
     {
-      "keyword": "ps",
+      "keyword": "송혜교",
       "traffic": "100+",
-      "blogTotal": 3309303,
-      "newsTotal": 188063,
+      "blogTotal": 0,
+      "newsTotal": 0,
       "recentToday": 0,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "PS COIN 코인 상장 정보 및 전망_ LBANK 국내코인거래소...",
-          "link": "https://blog.naver.com/mycello1052/224353024764",
-          "blogger": "첼로 켜는 작가",
-          "date": "2026-07-21"
-        },
-        {
-          "title": "포스파티딜세린 PS 효능 효과 뇌건강 지키는 선택",
-          "link": "https://blog.naver.com/3_taste/224282170050",
-          "blogger": "마블 일상탈출",
-          "date": "2026-05-12"
-        },
-        {
-          "title": "엄마와 함께한 싱가포르 여행_3 야쿤카야토스트/보타닉가든/ps...",
-          "link": "https://blog.naver.com/hi_jolie_/224340850840",
-          "blogger": "Hi Jolie,",
-          "date": "2026-07-08"
-        },
-        {
-          "title": "포스파티딜세린 PS 효능 정보 성분 일일 복용시간",
-          "link": "https://blog.naver.com/ggomo882/224280704941",
-          "blogger": "설.레.임",
-          "date": "2026-05-10"
-        },
-        {
-          "title": "PS일렉트로닉스(AI 서버 사업이 기업가치의 변곡점)/기관...",
-          "link": "https://blog.naver.com/recsy/224353533885",
-          "blogger": "상위투자",
-          "date": "2026-07-21"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "이정후 날벼락! 가을야구 대체 언제 하나?…'셀러 전환' SF, 트레이드 대...",
-          "link": "https://www.xportsnews.com/article/2176762",
-          "press": "",
-          "date": "2026-07-27"
-        },
-        {
-          "title": "[코스닥] 파커스·PS일렉트로닉스·펄어비스등 85개사, 28일 자사주 매입",
-          "link": "https://www.newstnt.com/news/articleView.html?idxno=711796",
-          "press": "",
-          "date": "2026-07-27"
-        },
-        {
-          "title": "요시다 슈헤이가 묻고 답하다, 인디 게임의 과거·현재·미래",
-          "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=59599",
-          "press": "",
-          "date": "2026-07-27"
-        },
-        {
-          "title": "화면 녹화·키 입력·시드 문구까지…'오코봇' 가상화폐 사용자 집중 공...",
-          "link": "https://www.dailysecu.com/news/articleView.html?idxno=207789",
-          "press": "",
-          "date": "2026-07-27"
-        },
-        {
-          "title": "[이격도과열 종목] 썸에이지 아이크래프트 케이엔알시스템 아이씨에이...",
-          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=471918",
-          "press": "",
-          "date": "2026-07-27"
-        }
-      ],
+      "recentWeek": 0,
+      "topBlogs": [],
+      "topNews": [],
+      "error": "fetch failed",
       "rank": 8
     },
     {
-      "keyword": "치마",
-      "traffic": "1000+",
-      "blogTotal": 3218943,
-      "newsTotal": 215759,
+      "keyword": "박수홍",
+      "traffic": "2000+",
+      "blogTotal": 0,
+      "newsTotal": 0,
       "recentToday": 0,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "경복궁 한복대여 내돈내산 한복남 프리미엄 후기 갈래치마",
-          "link": "https://blog.naver.com/fudwn28/224349411776",
-          "blogger": "격투기하는 디자이너 LadyKlaRe",
-          "date": "2026-07-17"
-        },
-        {
-          "title": "여성 정장 면접 빅사이즈 자켓 스커트 셋업 심플형 치마 세트...",
-          "link": "https://place1.tistory.com/148",
-          "blogger": "place1",
-          "date": "2026-07-10"
-        },
-        {
-          "title": "교내 몰카처벌, 여학생, 교사 치마속 촬영했다면 강제전학 가야...",
-          "link": "https://blog.naver.com/luluroom-/224313671815",
-          "blogger": "국내1️⃣세대 청소년 로펌 동주 대표 변호사 이세환",
-          "date": "2026-06-12"
-        },
-        {
-          "title": "치마 입고도 그냥 올라탑니다 — 스탭스루 프레임 시티...",
-          "link": "https://blog.naver.com/altonbicycle/224311556785",
-          "blogger": "알톤 공식 블로그",
-          "date": "2026-06-10"
-        },
-        {
-          "title": "안다르 롱 스커트 내돈내산, 여름 내내 입은 치마 후기",
-          "link": "https://blog.naver.com/wldmssnla1/224323458964",
-          "blogger": "건강하고 행복한 하루하루❤",
-          "date": "2026-06-23"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "[★오늘의 운세] 2026년 7월 28일(화) 당신의 별자리 운세",
-          "link": "https://www.news2day.co.kr/article/20260727500007",
-          "press": "",
-          "date": "2026-07-27"
-        },
-        {
-          "title": "[칼럼] 연 따는 아가씨",
-          "link": "http://www.cctimes.kr/news/articleView.html?idxno=918686",
-          "press": "",
-          "date": "2026-07-27"
-        },
-        {
-          "title": "'비매너 논란 반격' 손담비, 분 덜풀렸나…\"짜증나는데 뭐 어쩌겠나\"",
-          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=830977",
-          "press": "",
-          "date": "2026-07-27"
-        },
-        {
-          "title": "물놀이 갈 때나 입던 ‘이 치마’가 유행이라고?",
-          "link": "https://www.elle.co.kr/article/1906945",
-          "press": "",
-          "date": "2026-07-27"
-        },
-        {
-          "title": "46세 이지아, 성형설 일축한 청순 미모…선글라스에 절반 이상 가려진 ...",
-          "link": "https://www.newsen.com/news_view.php?uid=202607271642092310",
-          "press": "",
-          "date": "2026-07-27"
-        }
-      ],
+      "recentWeek": 0,
+      "topBlogs": [],
+      "topNews": [],
+      "error": "fetch failed",
       "rank": 9
     },
     {
-      "keyword": "은행",
+      "keyword": "k9 자주포",
       "traffic": "2000+",
-      "blogTotal": 18487283,
-      "newsTotal": 13930732,
+      "blogTotal": 0,
+      "newsTotal": 0,
       "recentToday": 0,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "베트남 다낭 환전 팁 얼마나? 방법과 환전소 은행 차이",
-          "link": "https://blog.naver.com/jini4998/224355588104",
-          "blogger": "끌림",
-          "date": "2026-07-23"
-        },
-        {
-          "title": "근저당권 뜻 쉽게 설명! 은행이 근저당을 설정하는 이유",
-          "link": "https://blog.naver.com/dldnsgud91/224355963492",
-          "blogger": "옙대디의 부동산 경제이야기",
-          "date": "2026-07-24"
-        },
-        {
-          "title": "금값 시세 26% 폭락.... 몰래 매수하는 중앙은행?, 금시세 전망",
-          "link": "https://blog.naver.com/nasiba5083/224336840635",
-          "blogger": "콘시토르의 경제 유니버스",
-          "date": "2026-07-05"
-        },
-        {
-          "title": "\"연 10.00%\" 우리은행 특판 적금! 이자 확인해보니",
-          "link": "https://blog.naver.com/troilos/224298035466",
-          "blogger": "블로그하는 경제비둘기",
-          "date": "2026-05-27"
-        },
-        {
-          "title": "\"연 19%대 미친 효과\" 청년미래적금 은행 잘못 고르면 손해인 이유",
-          "link": "https://blog.naver.com/rkswlwoddl84/224352563144",
-          "blogger": "아기자기님의블로그",
-          "date": "2026-07-21"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "지난달 기업 달러예금 25.9억달러↑…역대 최대",
-          "link": "http://www.yonhapnewstv.co.kr/news/MYH20260728051246F6A",
-          "press": "",
-          "date": "2026-07-27"
-        },
-        {
-          "title": "장특공 '거주 중심' 손질 시사…12억 넘는 집주인들 촉각",
-          "link": "https://www.news1.kr/realestate/general/6240542",
-          "press": "",
-          "date": "2026-07-27"
-        },
-        {
-          "title": "‘불가마 한반도’가 금리 올린다?… 인상 시계 10월 → 8월 당겨지나",
-          "link": "https://www.seoul.co.kr/news/economy/finance/2026/07/28/20260728031004?wlog_tag3=naver",
-          "press": "",
-          "date": "2026-07-27"
-        },
-        {
-          "title": "최고가격제·유류세 인하·금리인상… 부작용 적잖은 물가 대책",
-          "link": "https://www.seoul.co.kr/news/economy/2026/07/28/20260728031006?wlog_tag3=naver",
-          "press": "",
-          "date": "2026-07-27"
-        },
-        {
-          "title": "기업 달러예금 사상 최대… 6월 외화예금 11억 달러↑",
-          "link": "https://www.seoul.co.kr/news/economy/finance/2026/07/28/20260728030002?wlog_tag3=naver",
-          "press": "",
-          "date": "2026-07-27"
-        }
-      ],
+      "recentWeek": 0,
+      "topBlogs": [],
+      "topNews": [],
+      "error": "fetch failed",
       "rank": 10
     }
   ]
