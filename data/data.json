@@ -1,21 +1,520 @@
 {
-  "updatedAt": "2026-07-27T21:39:22.945Z",
+  "updatedAt": "2026-07-27T22:59:12.229Z",
   "source": "live",
   "keywords": [
     {
-      "keyword": "전지",
-      "traffic": "100+",
-      "blogTotal": 0,
-      "newsTotal": 0,
-      "recentToday": 0,
-      "recentWeek": 0,
-      "topBlogs": [],
-      "topNews": [],
-      "error": "fetch failed",
+      "keyword": "한소희",
+      "traffic": "200+",
+      "blogTotal": 124350,
+      "newsTotal": 65411,
+      "recentToday": 68,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "\"백인보다 하얀 한소희 실물..\" 연예인들처럼 피부하얘지는법...",
+          "link": "https://blog.naver.com/qmfosej/224259048646",
+          "blogger": "뷰티 데일리 @이람님",
+          "date": "2026-04-20"
+        },
+        {
+          "title": "류준열 근황, \"당연히 알죠\" 한소희 언급해 칸 영화제 현장 일화...",
+          "link": "https://blog.naver.com/tmzmfk010/224286117119",
+          "blogger": "힐스터K랑 오늘, 이거 볼래?",
+          "date": "2026-05-15"
+        },
+        {
+          "title": "어제자 파리에서 해외 셀럽들 압살했다는 한소희 미모 근황",
+          "link": "https://blog.naver.com/keita_hitomi/224339420686",
+          "blogger": "彼女のドレスルーム(나오클로젯)",
+          "date": "2026-07-07"
+        },
+        {
+          "title": "한소희가 단발하면 안 되는 이유",
+          "link": "https://blog.naver.com/borareview/224238628744",
+          "blogger": "쪼의 리뷰박스",
+          "date": "2026-04-02"
+        },
+        {
+          "title": "한소희 백리스 룩.. 관습을 깬 우아함의 정석",
+          "link": "https://blog.naver.com/mythya0730/224287000243",
+          "blogger": "블루",
+          "date": "2026-05-16"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "한소희 제니→엄정화까지 ‘비키니 전쟁’ 시작됐다‥폭염보다 뜨거운...",
+          "link": "https://www.newsen.com/news_view.php?uid=202607271201255710",
+          "press": "",
+          "date": "2026-07-27"
+        },
+        {
+          "title": "[걸 크러시 액션 ★] 한겨울에 땅굴까지 파고…전도연·한소희, 악과 깡...",
+          "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1531926",
+          "press": "",
+          "date": "2026-07-27"
+        },
+        {
+          "title": "“집에 농구장도”…JYP 박진영 사는 최고급 단독주택은[누구집]",
+          "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=01148006645518456",
+          "press": "",
+          "date": "2026-07-25"
+        },
+        {
+          "title": "넷플릭스 또 일 내나…역대급 미친 캐스팅으로 난리 난 '한국 드라마'",
+          "link": "https://www.wikitree.co.kr/articles/1147867",
+          "press": "",
+          "date": "2026-07-25"
+        },
+        {
+          "title": "안산문화재단, 단원미술제 선정작가 8인 최종 선정",
+          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3645815",
+          "press": "",
+          "date": "2026-07-24"
+        }
+      ],
       "rank": 1
     },
     {
-      "keyword": "이동하",
+      "keyword": "심장병",
+      "traffic": "200+",
+      "blogTotal": 1073399,
+      "newsTotal": 126828,
+      "recentToday": 56,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "강아지심장병  신호와 집에서 관리한 방법",
+          "link": "https://blog.naver.com/gosoo777/224296912356",
+          "blogger": "댕댕이스토리-댕댕이들의 소소한 일상 이야기 그리고",
+          "date": "2026-05-26"
+        },
+        {
+          "title": "고양이 심장병 회복일지ㅣ⑤ 식욕촉진제와 심장병약(이뇨제)...",
+          "link": "https://blog.naver.com/pototeen11/224339886826",
+          "blogger": "성야옹집사의 블로그",
+          "date": "2026-07-08"
+        },
+        {
+          "title": "11살 강아지 심장병 c단계 진단, 동탄동물심장병원 첫 방문...",
+          "link": "https://blog.naver.com/ssmmku/224344451204",
+          "blogger": "맛있는 기록❤️",
+          "date": "2026-07-13"
+        },
+        {
+          "title": "강아지 심장병 증상 보호자들이 가장 많이 놓치는 위험 신호",
+          "link": "https://blog.naver.com/ryuys0826/224311711648",
+          "blogger": "제더에더의 반려동물 이야기",
+          "date": "2026-06-13"
+        },
+        {
+          "title": "구리 더케어 동물병원 심장초음파 초진 후기 (강아지 심장병 B1)",
+          "link": "https://blog.naver.com/ym9240/224329094084",
+          "blogger": "새벽 네시의 손톱달",
+          "date": "2026-06-27"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "\"평소 기저질환 관리가 생명 지킨다\"···세명기독병원 한동선 병원장...",
+          "link": "http://www.newsprime.co.kr/news/article.html?no=741676",
+          "press": "",
+          "date": "2026-07-27"
+        },
+        {
+          "title": "포항세명기독병원 한동선 병원장, 포스코 은퇴 부부 대상 심혈관질환 예...",
+          "link": "https://www.getnews.co.kr/news/articleView.html?idxno=876202",
+          "press": "",
+          "date": "2026-07-27"
+        },
+        {
+          "title": "[포항소식]향토불교승가연합회, 장학금 300만원 전달 등",
+          "link": "https://www.newsis.com/view/NISX20260727_0003725343",
+          "press": "",
+          "date": "2026-07-27"
+        },
+        {
+          "title": "한동선 세명기독병원장, 포스코 퇴직자 대상 심장 건강 강연",
+          "link": "https://www.bosa.co.kr/news/articleView.html?idxno=3009096",
+          "press": "",
+          "date": "2026-07-27"
+        },
+        {
+          "title": "“괜찮은 줄 알았는데” 명의도 놓친 아들의 심장병… 뜻밖의 경고 신호...",
+          "link": "https://health.chosun.com/site/data/html_dir/2026/07/27/2026072702028.html",
+          "press": "",
+          "date": "2026-07-27"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "keyword": "nec",
+      "traffic": "100+",
+      "blogTotal": 101952,
+      "newsTotal": 83682,
+      "recentToday": 44,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "NEC-4000T, 상가 에어컨 설치 안 되는 곳의 해답이 될까",
+          "link": "https://blog.naver.com/hiddentrackk/224348693131",
+          "blogger": "굿라이프",
+          "date": "2026-07-16"
+        },
+        {
+          "title": "[스크린골프장 빔프로젝터 수리] NEC P502HL TEMP 경고등 후...",
+          "link": "https://blog.naver.com/cityhouse1111/224340529055",
+          "blogger": "[빔월드] 빔프로젝터 수리/클리닝/리필램프 전문업체",
+          "date": "2026-07-08"
+        },
+        {
+          "title": "제2의 김연경 그리고 더 큰 무대를 꿈꾸는 이다현 일본 NEC...",
+          "link": "https://blog.naver.com/420yskkk/224332291792",
+          "blogger": "소소한일상 그리고 소소한운동",
+          "date": "2026-07-01"
+        },
+        {
+          "title": "여자배구 이다현, 일본의 NEC 레드 로케츠로 전격 임대 이적",
+          "link": "https://blog.naver.com/caleb0901/224331989893",
+          "blogger": "이과장의 스포츠",
+          "date": "2026-06-30"
+        },
+        {
+          "title": "\"핵심을 왜 보냈나 했더니\" 흥국생명 이다현 일본 NEC 임대...",
+          "link": "https://blog.naver.com/pm2447/224332547798",
+          "blogger": "시커의 스포츠",
+          "date": "2026-07-01"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "'편안함 보다 도전 선택' 이다현 \"일본서 반드시 살아남겠다\"",
+          "link": "https://www.news1.kr/sports/volleyball/6240617",
+          "press": "",
+          "date": "2026-07-27"
+        },
+        {
+          "title": "[돋을새김] ‘일본도 맞았던 일’ 피하려면",
+          "link": "https://www.kmib.co.kr/article/view.asp?arcid=1785115752&code=11171358&cp=nv",
+          "press": "",
+          "date": "2026-07-27"
+        },
+        {
+          "title": "Soccer NEC Tadic",
+          "link": "https://n.news.naver.com/mnews/article/077/0007105377?sid=104",
+          "press": "",
+          "date": "2026-07-27"
+        },
+        {
+          "title": "장동혁 “투표자 수 임의 수정은 전산조작…선관위, 즉각 재선거 실시해...",
+          "link": "http://www.breaknews.com/1224794",
+          "press": "",
+          "date": "2026-07-27"
+        },
+        {
+          "title": "Yoon handed suspended sentence for making false statements during campaig...",
+          "link": "https://www.koreajoongangdaily.com/korea/yoon-handed-suspended-sentence-for-making-false-statements-during-campaign/12793602",
+          "press": "",
+          "date": "2026-07-27"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "keyword": "sndk",
+      "traffic": "100+",
+      "blogTotal": 7502,
+      "newsTotal": 685,
+      "recentToday": 19,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "마이크론 MU 샌디스크 SNDK 주가 10% 급락 이유는?",
+          "link": "https://blog.naver.com/goodinvest4/224307865916",
+          "blogger": "웰쓰빌더의 경제잡담",
+          "date": "2026-06-06"
+        },
+        {
+          "title": "샌디스크 주가 전망 목표 실적 SNDK",
+          "link": "https://blog.naver.com/rekono/224247122333",
+          "blogger": "미국주식으로 세상을 담다",
+          "date": "2026-04-10"
+        },
+        {
+          "title": "koru etf snxx etf sndk sk하이닉스 sk스퀘어 kodex...",
+          "link": "https://blog.naver.com/4ourich/224340409367",
+          "blogger": "킵고잉K씨의 경제 재테크",
+          "date": "2026-07-08"
+        },
+        {
+          "title": "샌디스크(SNDK) 주가 전망 및 투 분석 총정리",
+          "link": "https://blog.naver.com/core_view/224358718186",
+          "blogger": "코어뷰(Core_View)",
+          "date": "2026-07-27"
+        },
+        {
+          "title": "미국주식 대장! 샌디스크 SNDK 주가 실적발표 어닝콜 정리",
+          "link": "https://blog.naver.com/tkos3333/224277298715",
+          "blogger": "타키온의 경제적 자유!",
+          "date": "2026-05-07"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "중국의 역습...466% 폭등한 CXMT 주목하는 월가 [마켓무버의 국장 힌트]",
+          "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607280228&t=NN",
+          "press": "",
+          "date": "2026-07-27"
+        },
+        {
+          "title": "미국증시 S&P500 '강보합'...자동차주 '뛰고' vs 광통신주 '급락'",
+          "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=168841",
+          "press": "",
+          "date": "2026-07-27"
+        },
+        {
+          "title": "중국 CXMT 상장 파장 SK하이닉스·마이크론·샌디스크 하락",
+          "link": "https://www.g-enews.com/view.php?ud=202607280707387849e250e8e188_1",
+          "press": "",
+          "date": "2026-07-27"
+        },
+        {
+          "title": "[中 하드테크 IPO 빅뱅] ⑪YMTC. 국유자본이 키워낸 낸드플래시 리더",
+          "link": "https://www.newspim.com/news/view/20260727001086",
+          "press": "",
+          "date": "2026-07-27"
+        },
+        {
+          "title": "美 증시 나스닥100 '하락'...쇼피파이·SW주 '활짝' vs 반도체주 '휘청'",
+          "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=168838",
+          "press": "",
+          "date": "2026-07-27"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "keyword": "ionq",
+      "traffic": "500+",
+      "blogTotal": 29305,
+      "newsTotal": 3904,
+      "recentToday": 18,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "[주식이야기] 내가 아이온큐(IONQ) 를 모아가는 이유...",
+          "link": "https://blog.naver.com/winekang1/224300481169",
+          "blogger": "깡쓰의 뚝딱뚝딱 재활용",
+          "date": "2026-06-03"
+        },
+        {
+          "title": "양자컴퓨터 관련주, 지금이 매수 적기일까? (ft. IBM, IonQ)",
+          "link": "https://blog.naver.com/goodbye202407/224293426038",
+          "blogger": "투자하는 망고주스",
+          "date": "2026-05-23"
+        },
+        {
+          "title": "아이온큐 IONQ 주가 전망, 20억 달러 유상증자 주식 더 사야...",
+          "link": "https://blog.naver.com/press02/224045548297",
+          "blogger": "재미진 저널리스트의 금융탐구생활",
+          "date": "2025-10-18"
+        },
+        {
+          "title": "IONQ 주가 급등 후 양자컴퓨터 상용화 확인, 이제 BTQ 보안에...",
+          "link": "https://blog.naver.com/nasiba5083/224226272176",
+          "blogger": "콘시토르의 경제 유니버스",
+          "date": "2026-03-23"
+        },
+        {
+          "title": "아이온큐 IonQ, 20억 달러 투자 유치!양자 산업 역사상 최대...",
+          "link": "https://blog.naver.com/slplim/224038952947",
+          "blogger": "성장하는 투자자 리치보테",
+          "date": "2025-10-12"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "양자 컴퓨팅 디웨이브 20%·아이온큐 9% 급등…상용화 호재에 '불기둥'",
+          "link": "https://www.g-enews.com/view.php?ud=202607280616428829e250e8e188_1",
+          "press": "",
+          "date": "2026-07-27"
+        },
+        {
+          "title": "[속보] 아이온큐 리게티 컴퓨팅 등 주가 급등…미국 양자컴퓨터주 일제...",
+          "link": "https://www.cbci.co.kr/news/articleView.html?idxno=592301",
+          "press": "",
+          "date": "2026-07-27"
+        },
+        {
+          "title": "아이온큐, 2분기 실적 발표 일정은?…가이던스 등 '이목'",
+          "link": "https://www.cbci.co.kr/news/articleView.html?idxno=591983",
+          "press": "",
+          "date": "2026-07-26"
+        },
+        {
+          "title": "\"AI보다 더 큰놈이 온다\"…투자 고수들이 찜한 양자 컴퓨팅 Top 3",
+          "link": "https://www.g-enews.com/view.php?ud=202607261449379460e250e8e188_1",
+          "press": "",
+          "date": "2026-07-26"
+        },
+        {
+          "title": "반도체 다음 '루비듐 대란' 온다…양자컴 확산에 희귀금속 몸값 폭등 조...",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=685314",
+          "press": "",
+          "date": "2026-07-20"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "keyword": "로베르토 데 제르비",
+      "traffic": "100+",
+      "blogTotal": 3143,
+      "newsTotal": 5295,
+      "recentToday": 8,
+      "recentWeek": 50,
+      "topBlogs": [
+        {
+          "title": "'강등 위기 토트넘의 새로운 감독' 로베르토 데 제르비는 어떤...",
+          "link": "https://blog.naver.com/seongo_1572/224249059167",
+          "blogger": "축킹의 축구 전술 / 전략 분석",
+          "date": "2026-04-11"
+        },
+        {
+          "title": "로베르토 데 제르비, 마르세유 참패 (빅클럽 감독할 자격 있나?)",
+          "link": "https://blog.naver.com/gangtefootball/224183252840",
+          "blogger": "강테 풋볼",
+          "date": "2026-02-14"
+        },
+        {
+          "title": "토트넘, 로베르토 데 제르비 선임이라는 선택이 위험한 이유...",
+          "link": "https://blog.naver.com/kickstory7/224234998506",
+          "blogger": "KICK STORY 킥스토리",
+          "date": "2026-03-30"
+        },
+        {
+          "title": "7분 유럽 축구 보기 129_토트넘 훗스퍼, 로베르토 데 제르비...",
+          "link": "https://blog.naver.com/maksmedia/224236831404",
+          "blogger": "MAX MEDIA",
+          "date": "2026-04-01"
+        },
+        {
+          "title": "[잭 핏-브룩] 토트넘, 로베르토 데 제르비 감독 선임 추진",
+          "link": "https://blog.naver.com/mabrii/224235523828",
+          "blogger": "발전하는 發電人",
+          "date": "2026-03-31"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "손흥민 완장 이어받을 진정한 재목!...'부주장' 판 더 펜 \"다음 시즌은 ...",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=691378",
+          "press": "",
+          "date": "2026-07-27"
+        },
+        {
+          "title": "\"이게 축구야!\" '토트넘 에이스' 미키 판 더 펜 '충격' 저격…\"지난 시즌...",
+          "link": "https://www.sportschosun.com/football/2026-07-27/202607270100171190011056",
+          "press": "",
+          "date": "2026-07-27"
+        },
+        {
+          "title": "토트넘 감독 작심 발언...\"팀을 자랑스럽게 생각하지 않는다면 떠나라\"",
+          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=830929",
+          "press": "",
+          "date": "2026-07-27"
+        },
+        {
+          "title": "'180도 달라진 토트넘, 선수가 대환영' 네덜란드 국대 수비수 판 더 펜 ...",
+          "link": "https://www.sportschosun.com/football/2026-07-27/202607270100169990010978",
+          "press": "",
+          "date": "2026-07-27"
+        },
+        {
+          "title": "\"이제야 축구다운 축구 하겠네\"… 전임 감독 '저격'한 판 더 펜, 이적 시...",
+          "link": "https://www.besteleven.com/news/articleView.html?idxno=310461",
+          "press": "",
+          "date": "2026-07-27"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "keyword": "수익률",
+      "traffic": "200+",
+      "blogTotal": 4571287,
+      "newsTotal": 2437860,
+      "recentToday": 0,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "삼성전기 주가 왜 이래, etf 수익률, 배당금 둘다 별로네",
+          "link": "https://blog.naver.com/maratoniano/224345668010",
+          "blogger": "캐니즈캔의 경제 라이프",
+          "date": "2026-07-13"
+        },
+        {
+          "title": "만기 1년남은 ISA 수익률 (+ 포트폴리오)",
+          "link": "https://blog.naver.com/loveme-_-3/224301744298",
+          "blogger": "적게 벌어도 많이 모으기",
+          "date": "2026-06-04"
+        },
+        {
+          "title": "오사카 부동산 시세 수익률과 관리비 알아봄",
+          "link": "https://blog.naver.com/hoosigidane/224349530560",
+          "blogger": "토벤머리vs빡빡머리",
+          "date": "2026-07-17"
+        },
+        {
+          "title": "나스닥100 레버리지 장기투자 괜찮을까 수익률보다 먼저 볼...",
+          "link": "https://blog.naver.com/sjpc113/224327877233",
+          "blogger": "세종 경매 114",
+          "date": "2026-06-26"
+        },
+        {
+          "title": "매수일지 10 - 이틀 연속 매수했더니, 하루 사이 수익률이 또...",
+          "link": "https://blog.naver.com/readingfrog_o/224354665911",
+          "blogger": "everything",
+          "date": "2026-07-22"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "\"삼전닉스 레버리지, 日까지 흔들어\"...증시 변동성 확산 [도쿄나우]",
+          "link": "https://www.hankyung.com/article/202607289340i",
+          "press": "",
+          "date": "2026-07-27"
+        },
+        {
+          "title": "[보험 궁금증 ⑦] 변액보험, 가입해두고 잊고 있어도 되나요",
+          "link": "https://www.raonnews.com/news/article.html?no=59832",
+          "press": "",
+          "date": "2026-07-27"
+        },
+        {
+          "title": "코인베이스 \"투자자들 변동성 완화 기다리며 자금 이동\"",
+          "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=852575",
+          "press": "",
+          "date": "2026-07-27"
+        },
+        {
+          "title": "\"버블은 불가능하다…이번 주 코스피 7000 회복하며 저점 확인 가능성\"",
+          "link": "https://www.newsis.com/view/NISX20260727_0003724945",
+          "press": "",
+          "date": "2026-07-27"
+        },
+        {
+          "title": "美 포르테그라 품은 DB손보…관건은 자본건정성 유지",
+          "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=852643",
+          "press": "",
+          "date": "2026-07-27"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "keyword": "전현무",
       "traffic": "500+",
       "blogTotal": 0,
       "newsTotal": 0,
@@ -23,103 +522,153 @@
       "recentWeek": 0,
       "topBlogs": [],
       "topNews": [],
-      "error": "fetch failed",
-      "rank": 2
-    },
-    {
-      "keyword": "풍자",
-      "traffic": "200+",
-      "blogTotal": 0,
-      "newsTotal": 0,
-      "recentToday": 0,
-      "recentWeek": 0,
-      "topBlogs": [],
-      "topNews": [],
-      "error": "fetch failed",
-      "rank": 3
-    },
-    {
-      "keyword": "맨체스터 유나이티드 fc",
-      "traffic": "200+",
-      "blogTotal": 0,
-      "newsTotal": 0,
-      "recentToday": 0,
-      "recentWeek": 0,
-      "topBlogs": [],
-      "topNews": [],
-      "error": "fetch failed",
-      "rank": 4
-    },
-    {
-      "keyword": "온도",
-      "traffic": "200+",
-      "blogTotal": 0,
-      "newsTotal": 0,
-      "recentToday": 0,
-      "recentWeek": 0,
-      "topBlogs": [],
-      "topNews": [],
-      "error": "fetch failed",
-      "rank": 5
-    },
-    {
-      "keyword": "태풍",
-      "traffic": "10000+",
-      "blogTotal": 0,
-      "newsTotal": 0,
-      "recentToday": 0,
-      "recentWeek": 0,
-      "topBlogs": [],
-      "topNews": [],
-      "error": "fetch failed",
-      "rank": 6
-    },
-    {
-      "keyword": "구준엽",
-      "traffic": "1000+",
-      "blogTotal": 0,
-      "newsTotal": 0,
-      "recentToday": 0,
-      "recentWeek": 0,
-      "topBlogs": [],
-      "topNews": [],
-      "error": "fetch failed",
-      "rank": 7
-    },
-    {
-      "keyword": "송혜교",
-      "traffic": "100+",
-      "blogTotal": 0,
-      "newsTotal": 0,
-      "recentToday": 0,
-      "recentWeek": 0,
-      "topBlogs": [],
-      "topNews": [],
-      "error": "fetch failed",
+      "error": "HTTP 429 https://openapi.naver.com/v1/search/blog.json?query=%EC%A0%84%ED%98%84%EB%AC%B4&display=5&sort=sim",
       "rank": 8
     },
     {
-      "keyword": "박수홍",
-      "traffic": "2000+",
-      "blogTotal": 0,
-      "newsTotal": 0,
+      "keyword": "스포 티비 뉴스",
+      "traffic": "1000+",
+      "blogTotal": 2318,
+      "newsTotal": 72,
       "recentToday": 0,
-      "recentWeek": 0,
-      "topBlogs": [],
-      "topNews": [],
-      "error": "fetch failed",
+      "recentWeek": 14,
+      "topBlogs": [
+        {
+          "title": "특별시민 (최민식,라미란) 약간 스포 주의",
+          "link": "https://blog.naver.com/sowooko/220995322689",
+          "blogger": "윰's이야기",
+          "date": "2017-04-30"
+        },
+        {
+          "title": "영화 3학년 2학기",
+          "link": "https://blog.naver.com/moonsoul7/224112335032",
+          "blogger": "Anonymously",
+          "date": "2025-12-17"
+        },
+        {
+          "title": "(스포주의) 루돌프계 사슴 로비",
+          "link": "https://blog.naver.com/goflsie02/223592686114",
+          "blogger": "엔데믹 생활",
+          "date": "2024-09-23"
+        },
+        {
+          "title": "영화 프리가이 (스포 有) - 탄탄한 기초 위에 트렌디한 패러디",
+          "link": "https://blog.naver.com/sesirlis/222476621032",
+          "blogger": "먹고 마시고 보고 쓰고",
+          "date": "2021-08-19"
+        },
+        {
+          "title": "곡성 + 미끼문사람들, 현혹된분들 같이 이야기좀.. (스포스포)",
+          "link": "https://blog.naver.com/true4753/220710526676",
+          "blogger": "추억이 될 오늘에게 感.중진담",
+          "date": "2016-05-15"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "\"누나 시간 돼요?\"…김대호, ♥김숙 이상형으로 지목→플러팅",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=15926450",
+          "press": "",
+          "date": "2026-01-06"
+        },
+        {
+          "title": "\"커서 아내 될 것\"…김숙♥구본승, 결혼 불발 이유는 김민경? 발언 들어...",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=15848182",
+          "press": "",
+          "date": "2025-10-22"
+        },
+        {
+          "title": "[Opinion] 평범한 화학 교사에서 마약왕이 되기까지 [드라마/예능]",
+          "link": "https://www.artinsight.co.kr/news/view.php?no=77282",
+          "press": "",
+          "date": "2025-09-02"
+        },
+        {
+          "title": "인천 계양, 민주당 경쟁 속 국힘 선전할까?",
+          "link": "http://news.lghellovision.net/news/articleView.html?idxno=516200",
+          "press": "",
+          "date": "2025-08-12"
+        },
+        {
+          "title": "김숙, ♥구본승과 현커 실패? 결혼설에 입 열었다…\"좋은 오빠, 편안한...",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=15687278",
+          "press": "",
+          "date": "2025-06-04"
+        }
+      ],
       "rank": 9
     },
     {
-      "keyword": "k9 자주포",
+      "keyword": "약사",
       "traffic": "2000+",
-      "blogTotal": 0,
-      "newsTotal": 0,
+      "blogTotal": 1422354,
+      "newsTotal": 551695,
       "recentToday": 0,
-      "recentWeek": 0,
-      "topBlogs": [],
-      "topNews": [],
-      "error": "fetch failed",
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "약사가 추천하는 종합비타민, 닥터체크 멀티비타민으로...",
+          "link": "https://blog.naver.com/camel95/224352657316",
+          "blogger": "느리게 걷고 경험하자!",
+          "date": "2026-07-21"
+        },
+        {
+          "title": "약사가 말하길, 고지혈증영양제 오메가3 만성염증에 필수다?",
+          "link": "https://blog.naver.com/1524sck/224352343548",
+          "blogger": "달콤한 긍정마을",
+          "date": "2026-07-20"
+        },
+        {
+          "title": "약사 개발 프로즌랩 콜라겐 부스터 내돈내산 후기",
+          "link": "https://blog.naver.com/wansojun/224333011379",
+          "blogger": "준또의 오늘 하루",
+          "date": "2026-07-01"
+        },
+        {
+          "title": "뉴벨라 글루타치온 솔직 후기, 의사 약사 공동 배합 제품",
+          "link": "https://blog.naver.com/hw03088/224315570096",
+          "blogger": "Cherish my memory",
+          "date": "2026-06-14"
+        },
+        {
+          "title": "비타민C 추천 순위 약사 제품 후기",
+          "link": "https://blog.naver.com/estherdanbi/224156085614",
+          "blogger": "단비마켓-공구/맛집/뷰티리뷰",
+          "date": "2026-01-22"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "日 발기부전치료제 OTC 시대 개막, 초고령 한국에 던진 과제",
+          "link": "http://www.medical-tribune.co.kr/news/articleView.html?idxno=214651",
+          "press": "",
+          "date": "2026-07-27"
+        },
+        {
+          "title": "'새 약가제' 8월·'혁신형 인증결과' 12월말…신규 제네릭 '우대' 공백은...",
+          "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7175751",
+          "press": "",
+          "date": "2026-07-27"
+        },
+        {
+          "title": "먹는 위고비?…소비자 노리는 의약품 오인 광고",
+          "link": "https://news.bizwatch.co.kr/article/healthcare/2026/07/27/0020",
+          "press": "",
+          "date": "2026-07-27"
+        },
+        {
+          "title": "제천시, 수산면 10월부터 '의약분업 예외 지정' 취소",
+          "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2430593",
+          "press": "",
+          "date": "2026-07-27"
+        },
+        {
+          "title": "혁신형 제약기업 R&D 비율 '5·7·9%' 구분",
+          "link": "https://www.dailymedi.com/news/news_view.php?wr_id=938811",
+          "press": "",
+          "date": "2026-07-27"
+        }
+      ],
       "rank": 10
     }
   ]
