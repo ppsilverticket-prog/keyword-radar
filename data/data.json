@@ -1,84 +1,11 @@
 {
-  "updatedAt": "2026-07-29T16:48:45.702Z",
+  "updatedAt": "2026-07-29T18:04:47.121Z",
   "source": "live",
   "keywords": [
     {
-      "keyword": "선거법",
-      "traffic": "1000+",
-      "blogTotal": 296240,
-      "newsTotal": 413572,
-      "recentToday": 94,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "윤석열 공직선거법 1심 판결, 국민의힘 397억 반환이 당장...",
-          "link": "https://blog.naver.com/candorf777/224360330288",
-          "blogger": "중고폰매입 선불폰개통 부산하단점",
-          "date": "2026-07-28"
-        },
-        {
-          "title": "윤석열 선거법 1심 선고, 국민의힘 선거비용 397억원 반환할까?",
-          "link": "https://blog.naver.com/news33net/224358165464",
-          "blogger": "창업일보",
-          "date": "2026-07-26"
-        },
-        {
-          "title": "이재명 선거법위반, 1심에서 『파기환송심』까지 경과과정",
-          "link": "https://blog.naver.com/bulgirya/224359265696",
-          "blogger": "功成而不居 bulgirya 孤豚",
-          "date": "2026-07-27"
-        },
-        {
-          "title": "윤석열 '공직선거법 위반' 집유 3년, 확정시 국힘 397억...",
-          "link": "https://blog.naver.com/news_curator_j/224359354794",
-          "blogger": "핫 뉴스만 콕 집어요",
-          "date": "2026-07-27"
-        },
-        {
-          "title": "윤석열 공직선거법 위반 1심 징역형 집유…확정시 국힘...",
-          "link": "https://blog.naver.com/dalsunlm1/224359499778",
-          "blogger": "배당만이 살길",
-          "date": "2026-07-27"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "조계종 총무원장 선거 막 올랐다",
-          "link": "https://www.kwnews.co.kr/article/20260729501251",
-          "press": "",
-          "date": "2026-07-29"
-        },
-        {
-          "title": "[김순덕 칼럼]군불 때는 ‘이 대통령 연임 개헌론’ 심상치 않다",
-          "link": "https://www.donga.com/news/Opinion/article/all/20260729/134391225/2",
-          "press": "",
-          "date": "2026-07-29"
-        },
-        {
-          "title": "윤석열 실형 판결에 \"이재명 파기환송\" 강조한 조선일보",
-          "link": "https://www.mediatoday.co.kr/news/articleView.html?idxno=336060",
-          "press": "",
-          "date": "2026-07-29"
-        },
-        {
-          "title": "당선 무효형 이어 변호사 박탈까지...윤석열 '사법 후폭풍'",
-          "link": "https://www.ytn.co.kr/_ln/0103_202607292249490617",
-          "press": "",
-          "date": "2026-07-29"
-        },
-        {
-          "title": "[시사천국] 정성국 \"징계로 당내 문제 해결? 정치는 정치로 풀어야\"",
-          "link": "https://news.cpbc.co.kr/article/1174642?division=NAVER",
-          "press": "",
-          "date": "2026-07-29"
-        }
-      ],
-      "rank": 1
-    },
-    {
       "keyword": "최정원",
       "traffic": "200+",
-      "blogTotal": 76417,
+      "blogTotal": 76419,
       "newsTotal": 93099,
       "recentToday": 87,
       "recentWeek": 100,
@@ -146,159 +73,13 @@
           "date": "2026-07-29"
         }
       ],
-      "rank": 2
-    },
-    {
-      "keyword": "원자력",
-      "traffic": "500+",
-      "blogTotal": 881847,
-      "newsTotal": 1240770,
-      "recentToday": 74,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "원자력기사 응시자격 온라인으로 준비한 후기",
-          "link": "https://blog.naver.com/bobe26/224145525687",
-          "blogger": "모든것이 애매하고 평범한 블로그",
-          "date": "2026-01-14"
-        },
-        {
-          "title": "\"AI 시대 폭증하는 전력수요\" 왜 원자력 ETF에 주목할까?",
-          "link": "https://blog.naver.com/little_buffett/224356784579",
-          "blogger": "리틀버핏 공식블로그",
-          "date": "2026-07-24"
-        },
-        {
-          "title": "원자력병원장례식장 황망함 속에 치러졌던 장례식",
-          "link": "https://blog.naver.com/luneonroon/224143451374",
-          "blogger": "실속상조 3일장례 120만원",
-          "date": "2026-01-12"
-        },
-        {
-          "title": "원자력병원 근처 한방병원 면역 회복을",
-          "link": "https://blog.naver.com/crown42889/224221141970",
-          "blogger": "체질약선요리교실",
-          "date": "2026-03-18"
-        },
-        {
-          "title": "원자력병원장례식장에서 마지막 곁을 지켰던 기록",
-          "link": "https://blog.naver.com/telmi123/224323607477",
-          "blogger": "실속상조 3일장례 120만원",
-          "date": "2026-06-22"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "메가 프로젝트, 발전소 짓는 것보다 더 시급한 게 있다.",
-          "link": "https://slownews.kr/163961",
-          "press": "",
-          "date": "2026-07-29"
-        },
-        {
-          "title": "여권 일부 반발 속에… 부임하는 주한美대사",
-          "link": "https://www.chosun.com/politics/diplomacy-defense/2026/07/30/6SUNGI65GRCNRFCTKAJFLQZQ64/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-          "press": "",
-          "date": "2026-07-29"
-        },
-        {
-          "title": "가천대 길병원, 한·미 공동 연구로 차세대 암 치료기술 국제표준 개발...",
-          "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=204954",
-          "press": "",
-          "date": "2026-07-29"
-        },
-        {
-          "title": "10년 만에 깨어난 ‘최고위험 단층’… 단수·정전에 대피소도 멈췄다",
-          "link": "https://www.chosun.com/international/international_general/2026/07/30/C65EKDZLNZCEFC45BZURV5YPBU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-          "press": "",
-          "date": "2026-07-29"
-        },
-        {
-          "title": "정부, '핵잠 도입 특별법' 입법예고…\"연내 제정 목표\"",
-          "link": "http://www.yonhapnewstv.co.kr/news/MYH20260730003928dZn",
-          "press": "",
-          "date": "2026-07-29"
-        }
-      ],
-      "rank": 3
-    },
-    {
-      "keyword": "노웨이홈",
-      "traffic": "200+",
-      "blogTotal": 41437,
-      "newsTotal": 9486,
-      "recentToday": 56,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "영화 <스파이더맨: 노 웨이 홈> 줄거리 결말 정보 (톰 홀랜드)",
-          "link": "https://blog.naver.com/bamhobak/224224634346",
-          "blogger": "name is 밤호박",
-          "date": "2026-03-21"
-        },
-        {
-          "title": "스파이더맨 노웨이홈 쿠키 영상 2개 완벽 해석 베놈 심비오트...",
-          "link": "https://blog.naver.com/misojea/224361108752",
-          "blogger": "misojea님의블로그",
-          "date": "2026-07-29"
-        },
-        {
-          "title": "스파이더맨 노웨이홈 OTT 다시보기 불가? 웨이브·왓챠...",
-          "link": "https://blog.naver.com/cloud2388/224359421636",
-          "blogger": "empty space",
-          "date": "2026-07-27"
-        },
-        {
-          "title": "영화 피규어 - [MAFEX] 친절한 이웃 스파이더맨(노 웨이 홈.ver)",
-          "link": "https://blog.naver.com/cinassica/224354628564",
-          "blogger": "이것 저것 그것",
-          "date": "2026-07-22"
-        },
-        {
-          "title": "영화 스파이더맨: 노 웨이 홈 정보 결말 쿠키 마블 슈퍼히어로...",
-          "link": "https://blog.naver.com/i-83-love/224321193730",
-          "blogger": "집하남의 영화&여행",
-          "date": "2026-06-20"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "[비즈 리뷰] '스파이더맨: 브랜드 뉴 데이' 기다린 보람이 있다",
-          "link": "https://enter.etoday.co.kr/news/view/300365",
-          "press": "",
-          "date": "2026-07-29"
-        },
-        {
-          "title": "20대 스파이더맨 고독을 넘어 성장하다",
-          "link": "https://www.khan.co.kr/article/202607292105005",
-          "press": "",
-          "date": "2026-07-29"
-        },
-        {
-          "title": "우리 동네 지켜주는 '친절한 이웃' 스파이더맨 컴백",
-          "link": "https://www.hankyung.com/article/2026072937941",
-          "press": "",
-          "date": "2026-07-29"
-        },
-        {
-          "title": "MJ는 피터를 기억해낼까?…스파이더맨, 외로움 넘어 성장하다",
-          "link": "https://www.khan.co.kr/article/202607291814001",
-          "press": "",
-          "date": "2026-07-29"
-        },
-        {
-          "title": "[봤더니]‘스파이더맨: 브랜드 뉴 데이’, 커진 액션 속 깊어진 성장 서...",
-          "link": "https://www.nspna.com/news/?mode=view&newsid=822402",
-          "press": "",
-          "date": "2026-07-29"
-        }
-      ],
-      "rank": 4
+      "rank": 1
     },
     {
       "keyword": "donald trump",
       "traffic": "100+",
       "blogTotal": 110412,
-      "newsTotal": 230239,
+      "newsTotal": 230240,
       "recentToday": 25,
       "recentWeek": 100,
       "topBlogs": [
@@ -335,14 +116,14 @@
       ],
       "topNews": [
         {
-          "title": "Así sobrevive Cuba a la falta de combustible",
-          "link": "https://www.nytimes.com/es/2026/07/29/espanol/mundo/cuba-sobrevivencia-apagones-corriente.html?partner=naver",
+          "title": "Fed holds key interest rate steady for 5th straight time",
+          "link": "https://en.yna.co.kr/view/AEN20260730000300315?input=2106m",
           "press": "",
           "date": "2026-07-29"
         },
         {
-          "title": "Trump reaffirms ROK-U.S. alliance in light of Korean War armistice agreem...",
-          "link": "https://www.arirang.com/news/view?id=299026",
+          "title": "Así sobrevive Cuba a la falta de combustible",
+          "link": "https://www.nytimes.com/es/2026/07/29/espanol/mundo/cuba-sobrevivencia-apagones-corriente.html?partner=naver",
           "press": "",
           "date": "2026-07-29"
         },
@@ -353,27 +134,100 @@
           "date": "2026-07-29"
         },
         {
-          "title": "트럼프, 호르무즈 통제권 언급…이란 타격도 거론",
-          "link": "https://www.tokenpost.kr/news/breaking/382625",
+          "title": "Trump reaffirms ROK-U.S. alliance in light of Korean War armistice agreem...",
+          "link": "https://www.arirang.com/news/view?id=299026",
           "press": "",
           "date": "2026-07-29"
         },
         {
-          "title": "El anfitrión que organiza fiestas para luchar por el cambio político en...",
-          "link": "https://www.nytimes.com/es/2026/07/29/espanol/america-latina/cuba-fiestas-proyecto.html?partner=naver",
+          "title": "트럼프, 호르무즈 통제권 언급…이란 타격도 거론",
+          "link": "https://www.tokenpost.kr/news/breaking/382625",
           "press": "",
           "date": "2026-07-29"
         }
       ],
-      "rank": 5
+      "rank": 2
+    },
+    {
+      "keyword": "허경민",
+      "traffic": "100+",
+      "blogTotal": 30379,
+      "newsTotal": 85539,
+      "recentToday": 21,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "\"147㎞ 얼굴강타\" KT 허경민 CT 결과가 나왔는데도 안심할 수...",
+          "link": "https://blog.naver.com/rlfehdud/224362128340",
+          "blogger": "두 아들 아빠의 아마추어 선수 도전기",
+          "date": "2026-07-29"
+        },
+        {
+          "title": "KT 허경민 147km 헤드샷 아찔했던 순간, 병원 검진 결과 및...",
+          "link": "https://blog.naver.com/wellnesslog_/224362134124",
+          "blogger": "스포츠백과",
+          "date": "2026-07-29"
+        },
+        {
+          "title": "KT 허경민 얼굴에 또 140㎞대 공이 날아왔다...구급차 후송...",
+          "link": "https://blog.naver.com/sports_archive_/224362247929",
+          "blogger": "스포츠아카이브",
+          "date": "2026-07-30"
+        },
+        {
+          "title": "147㎞ 헤드샷 맞은 허경민, CT 결과 단순 타박…KT “상태...",
+          "link": "https://blog.naver.com/signature90/224362106000",
+          "blogger": "allpick",
+          "date": "2026-07-29"
+        },
+        {
+          "title": "\"또 헤드샷 맞았다고?\" KT 허경민, NC전 147㎞ 투심 안면...",
+          "link": "https://blog.naver.com/kida02_/224362310624",
+          "blogger": "스포츠에 빠지다",
+          "date": "2026-07-30"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "올해 헤드샷만 두 번, 그것도 146-147km 강속구에 맞았다…허경민 트라우...",
+          "link": "https://www.mydaily.co.kr/page/view/2026072923374421178",
+          "press": "",
+          "date": "2026-07-29"
+        },
+        {
+          "title": "힐리어드 26-27호포 폭발! 오원석 82일 만의 승리! KT, NC 10-3 대파...허...",
+          "link": "http://www.osen.co.kr/article/G1112848760",
+          "press": "",
+          "date": "2026-07-29"
+        },
+        {
+          "title": "'김도영 31호포' KIA, 4위 탈환…키움은 난타전 끝 LG 제압(종합)",
+          "link": "https://www.news1.kr/sports/baseball/6243384",
+          "press": "",
+          "date": "2026-07-29"
+        },
+        {
+          "title": "'5회 9득점' 키움, 18-11로 LG 격파…'김도영 쐐기포' KIA, 4위 탈환(종합...",
+          "link": "https://www.newsis.com/view/NISX20260729_0003728893",
+          "press": "",
+          "date": "2026-07-29"
+        },
+        {
+          "title": "[AI상보] '힐리어드 연타석포+오원석 역투' KT 2연승, NC 10-3 완파",
+          "link": "https://www.newspim.com/news/view/20260729001309",
+          "press": "",
+          "date": "2026-07-29"
+        }
+      ],
+      "rank": 3
     },
     {
       "keyword": "전북특별자치도지사",
-      "traffic": "200+",
-      "blogTotal": 15300,
+      "traffic": "500+",
+      "blogTotal": 15302,
       "newsTotal": 50873,
       "recentToday": 21,
-      "recentWeek": 89,
+      "recentWeek": 91,
       "topBlogs": [
         {
           "title": "[취임식]   이원택 전북특별자치도지사 취임식, 최정호...",
@@ -438,15 +292,15 @@
           "date": "2026-07-29"
         }
       ],
-      "rank": 6
+      "rank": 4
     },
     {
       "keyword": "글렌 한사드",
-      "traffic": "500+",
-      "blogTotal": 5445,
+      "traffic": "1000+",
+      "blogTotal": 5450,
       "newsTotal": 797,
       "recentToday": 20,
-      "recentWeek": 57,
+      "recentWeek": 62,
       "topBlogs": [
         {
           "title": "'원스 출연' 글렌 핸사드 사고 사망 후 인스타그램 댓글창 상황.....",
@@ -511,80 +365,7 @@
           "date": "2026-07-29"
         }
       ],
-      "rank": 7
-    },
-    {
-      "keyword": "임금",
-      "traffic": "1000+",
-      "blogTotal": 3765408,
-      "newsTotal": 2526145,
-      "recentToday": 16,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "통상임금 및 각종수당 계산방법(주휴, 휴일, 연장, 야간)",
-          "link": "https://blog.naver.com/edumaster2018/224361249267",
-          "blogger": "학원전문가 자오선",
-          "date": "2026-07-29"
-        },
-        {
-          "title": "2027년 최저임금 10,700원 확정 달라진 시급 실수령액은...",
-          "link": "https://blog.naver.com/duacjdthf2/224352845355",
-          "blogger": "요핑의 재테크",
-          "date": "2026-07-21"
-        },
-        {
-          "title": "2027년 최저임금 1만700원…월급 계산 시 주의사항",
-          "link": "https://blog.naver.com/fow99/224347825279",
-          "blogger": "월간 세금박사",
-          "date": "2026-07-15"
-        },
-        {
-          "title": "최저임금 위반시 사업주 벌칙 신고방법 체크",
-          "link": "https://blog.naver.com/parkjs3309/224321120260",
-          "blogger": "소상공인 전문 블로그",
-          "date": "2026-06-20"
-        },
-        {
-          "title": "간호조무사 자격증: 1년 준비했는데 최저임금? 월급 현실 및...",
-          "link": "https://blog.naver.com/junhyuk7272/224347682577",
-          "blogger": "Speros' blog",
-          "date": "2026-07-21"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "테슬라·BYD 시장 잠식하는데… 현대차노조, 또 부분 파업",
-          "link": "https://www.kmib.co.kr/article/view.asp?arcid=1785311380&code=11151400&cp=nv",
-          "press": "",
-          "date": "2026-07-29"
-        },
-        {
-          "title": "38세 한인 ‘싱글맘 노동자’, 美 주지사 후보 경선 돌풍",
-          "link": "https://www.chosun.com/international/international_general/2026/07/30/7WEVG3WICVFSRMH462HDZ7DR2Q/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-          "press": "",
-          "date": "2026-07-29"
-        },
-        {
-          "title": "\"미 민주당 하원의원 보궐선거 결선행…고(故) 데이비드 스콧 딸, 과반 ...",
-          "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=389220",
-          "press": "",
-          "date": "2026-07-29"
-        },
-        {
-          "title": "경기도-GH, 건설기계·자재대금 직접지급 등 임금체불 예방 강화",
-          "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2249736",
-          "press": "",
-          "date": "2026-07-29"
-        },
-        {
-          "title": "[사설] 한국GM도 ‘퇴직 후 재고용’ 도입, 정년 연장 고집할 이유 없다",
-          "link": "https://www.sedaily.com/article/20073488?ref=naver",
-          "press": "",
-          "date": "2026-07-29"
-        }
-      ],
-      "rank": 8
+      "rank": 5
     },
     {
       "keyword": "sadie sink",
@@ -657,6 +438,225 @@
           "date": "2026-07-28"
         }
       ],
+      "rank": 6
+    },
+    {
+      "keyword": "glen hansard",
+      "traffic": "200+",
+      "blogTotal": 4702,
+      "newsTotal": 167,
+      "recentToday": 7,
+      "recentWeek": 21,
+      "topBlogs": [
+        {
+          "title": "When Your Mind's Made Up - Glen Hansard & Marketa Irglova...",
+          "link": "https://blog.naver.com/allmylovin/224309537963",
+          "blogger": "영감 모음집",
+          "date": "2026-06-08"
+        },
+        {
+          "title": "[해외 음악] Glen Hansard & Marketa Irglova - Falling...",
+          "link": "https://blog.naver.com/kimmmes/224124597148",
+          "blogger": "김응짱의 블로그",
+          "date": "2026-01-04"
+        },
+        {
+          "title": "Falling Slowly 스며드는 관계: Glen Hansard, Marketa Irglova...",
+          "link": "https://blog.naver.com/kupenhauer/224043871072",
+          "blogger": "음악으로 달리는 기차",
+          "date": "2025-10-17"
+        },
+        {
+          "title": "FlukeKrist커버 Falling Slowly-glen hansard,marketa irglova",
+          "link": "https://blog.naver.com/m1om1o/223703810961",
+          "blogger": "불러제끼는 불로그",
+          "date": "2024-12-24"
+        },
+        {
+          "title": "GLEN HANSARD",
+          "link": "https://blog.naver.com/apzmfh12/224362293246",
+          "blogger": "방방민 블로그",
+          "date": "2026-07-30"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "Obit - Glen Hansard",
+          "link": "https://n.news.naver.com/mnews/article/077/0007107600?sid=104",
+          "press": "",
+          "date": "2026-07-29"
+        },
+        {
+          "title": "Obit - Glen Hansard",
+          "link": "https://n.news.naver.com/mnews/article/077/0007107598?sid=104",
+          "press": "",
+          "date": "2026-07-29"
+        },
+        {
+          "title": "(FILE) IRELAND GLEN HANSARD OBIT",
+          "link": "https://n.news.naver.com/mnews/article/091/0010270584?sid=104",
+          "press": "",
+          "date": "2026-07-29"
+        },
+        {
+          "title": "(FILE) IRELAND GLEN HANSARD OBIT",
+          "link": "https://n.news.naver.com/mnews/article/091/0010270583?sid=104",
+          "press": "",
+          "date": "2026-07-29"
+        },
+        {
+          "title": "Glen Hansard, Frontman of Irish Band the Frames, Dies at 56",
+          "link": "https://www.nytimes.com/2026/07/29/arts/glen-hansard-dead.html?partner=naver",
+          "press": "",
+          "date": "2026-07-29"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "keyword": "cryptocurrency trading",
+      "traffic": "100+",
+      "blogTotal": 5782,
+      "newsTotal": 5047,
+      "recentToday": 5,
+      "recentWeek": 22,
+      "topBlogs": [
+        {
+          "title": "Zoomex: The Future of Cryptocurrency Trading and Innovation",
+          "link": "https://blog.naver.com/adonis_jackson/223773359325",
+          "blogger": "adonis_jackson님의 블로그",
+          "date": "2025-02-25"
+        },
+        {
+          "title": "Zoomex: The Ultimate Cryptocurrency Trading Platform...",
+          "link": "https://blog.naver.com/cillianmaybigwin/223771529674",
+          "blogger": "cillianmaybigwin님의 블로그",
+          "date": "2025-02-24"
+        },
+        {
+          "title": "HybridBlock a Singapore based cryptocurrency trading...",
+          "link": "https://azraelsmerryland.blogspot.com/2018/04/hybridblock-singapore-based.html",
+          "blogger": "Azrael's Merryland Blog - 2003-2023",
+          "date": "2018-04-23"
+        },
+        {
+          "title": "(LSKUSDT +293% 수익) Bitcoin and Cryptocurrency Trading...",
+          "link": "https://seokoyun.tistory.com/180",
+          "blogger": "기본부터 :: 기본부터",
+          "date": "2021-04-20"
+        },
+        {
+          "title": "The Impact of Psychology On Cryptocurrency Trading",
+          "link": "https://blog.naver.com/bravocasino/222983743454",
+          "blogger": "♡초이스경제",
+          "date": "2023-01-13"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "Bithumb Stands Apart as Korean Crypto Exchanges Strike Equity Alliances",
+          "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=251157",
+          "press": "",
+          "date": "2026-07-29"
+        },
+        {
+          "title": "Stablecoin Wallets Move Beyond Crypto as Global Business Payment Infrastr...",
+          "link": "https://www.koreaittimes.com/news/articleView.html?idxno=155577",
+          "press": "",
+          "date": "2026-07-29"
+        },
+        {
+          "title": "Robinhood Explores Crypto.com Partnership to Expand Prediction Markets: W...",
+          "link": "http://www.smarttimes.co.kr/news/articleView.html?idxno=47705",
+          "press": "",
+          "date": "2026-07-28"
+        },
+        {
+          "title": "Kraken Parent to Acquire Magic Labs Wallet Business in Infrastructure Exp...",
+          "link": "http://www.smarttimes.co.kr/news/articleView.html?idxno=47703",
+          "press": "",
+          "date": "2026-07-28"
+        },
+        {
+          "title": "HashKey Unifies Regional Crypto Exchanges Under Single Global Platform",
+          "link": "http://www.smarttimes.co.kr/news/articleView.html?idxno=47702",
+          "press": "",
+          "date": "2026-07-28"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "keyword": "best shows on hbo max",
+      "traffic": "100+",
+      "blogTotal": 9100,
+      "newsTotal": 409,
+      "recentToday": 1,
+      "recentWeek": 10,
+      "topBlogs": [
+        {
+          "title": "HBO Max 신작 <스튜어트 우주 구출 대실패>예고편으로 영어공부",
+          "link": "https://blog.naver.com/moore_see/224309672593",
+          "blogger": "무어의하루",
+          "date": "2026-06-08"
+        },
+        {
+          "title": "넷플릭스 디즈니+ HBO Max 신작 영화 라인업 총정리",
+          "link": "https://blog.naver.com/blacksmiths-/224036613729",
+          "blogger": "영어, 입체적인 생각",
+          "date": "2025-10-10"
+        },
+        {
+          "title": "Is Kung Fu on HBO Max?",
+          "link": "https://blog.naver.com/odrysoupt/222925334837",
+          "blogger": "⭐⭐✅⭐✅어그레시브✅⭐✅⭐⭐",
+          "date": "2022-11-10"
+        },
+        {
+          "title": "GAGA CHROMATICA BALL on HBO MAX",
+          "link": "https://blog.naver.com/ultraviolence/223440793723",
+          "blogger": "garden of terrence",
+          "date": "2024-05-09"
+        },
+        {
+          "title": "HBO Max 왕좌 탈환 - HBO Max와 AT&T에 대한 나의 생각은...",
+          "link": "https://blog.naver.com/place_sympathy/222260743608",
+          "blogger": "공감가는 이야기 공간",
+          "date": "2021-03-01"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "Octavia Spencer Believed in Herself Even When Hollywood Didn’t",
+          "link": "https://www.nytimes.com/2026/07/15/arts/television/octavia-spencer-ride-or-die.html?partner=naver",
+          "press": "",
+          "date": "2026-07-15"
+        },
+        {
+          "title": "How Good Is Jon Hamm at Playing Jon Hamm?",
+          "link": "https://www.nytimes.com/2026/07/11/movies/actors-playing-themselves-jon-hamm.html?partner=naver",
+          "press": "",
+          "date": "2026-07-11"
+        },
+        {
+          "title": "The U.S. Attacks Iran Again",
+          "link": "https://www.nytimes.com/2026/07/08/briefing/us-iran-attacks-ukraine-patriot-missiles.html?partner=naver",
+          "press": "",
+          "date": "2026-07-08"
+        },
+        {
+          "title": "Where to Stream 2026 Emmy-Nominated Series: ‘The Pitt,’ ‘Hacks’ and ...",
+          "link": "https://www.nytimes.com/2026/07/08/arts/television/emmy-nominees-watch-stream.html?partner=naver",
+          "press": "",
+          "date": "2026-07-08"
+        },
+        {
+          "title": "2026 Emmy Nominations: ‘The Pitt’ and ‘Hacks’ Lead the Pack",
+          "link": "https://www.nytimes.com/2026/07/08/arts/television/emmy-nominations-2026.html?partner=naver",
+          "press": "",
+          "date": "2026-07-08"
+        }
+      ],
       "rank": 9
     },
     {
@@ -706,14 +706,14 @@
           "date": "2026-07-29"
         },
         {
-          "title": "[ST포토] 차영현 치어리더, 흠뻑 젖어 응원",
-          "link": "http://www.stoo.com/article.php?aid=108000252623",
+          "title": "[ST포토] 차영현 치어리더, '젖을 각오해~'",
+          "link": "http://www.stoo.com/article.php?aid=108000321398",
           "press": "",
           "date": "2026-07-29"
         },
         {
-          "title": "[ST포토] 차영현 치어리더, '젖을 각오해~'",
-          "link": "http://www.stoo.com/article.php?aid=108000321398",
+          "title": "[ST포토] 차영현 치어리더, 흠뻑 젖어 응원",
+          "link": "http://www.stoo.com/article.php?aid=108000252623",
           "press": "",
           "date": "2026-07-29"
         },
