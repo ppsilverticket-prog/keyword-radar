@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T17:05:14.658Z",
+  "updatedAt": "2026-07-30T18:54:40.951Z",
   "source": "live",
   "keywords": [
     {
@@ -7,7 +7,7 @@
       "traffic": "500+",
       "blogTotal": 163020,
       "newsTotal": 151303,
-      "recentToday": 95,
+      "recentToday": 93,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -76,84 +76,11 @@
       "rank": 1
     },
     {
-      "keyword": "샌디스크 주가",
-      "traffic": "200+",
-      "blogTotal": 28243,
-      "newsTotal": 8174,
-      "recentToday": 88,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "1부 #PLUS SK하이닉스샌디스크채권혼합50 ETF(종목코드 0226A0)",
-          "link": "https://blog.naver.com/hanwhaasset/224363032789",
-          "blogger": "한화자산운용 공식 블로그",
-          "date": "2026-07-30"
-        },
-        {
-          "title": "고점대비 하락률 (삼전닉스 마이크론 키옥시아 샌디스크 주가)",
-          "link": "https://blog.naver.com/tkos3333/224351040400",
-          "blogger": "타키온의 경제적 자유!",
-          "date": "2026-07-19"
-        },
-        {
-          "title": "매수 타이밍은 바로 지금? 주가 반토막 난 샌디스크 투자 기회",
-          "link": "https://blog.naver.com/hisiyul/224363166628",
-          "blogger": "직장인 재테크 참고서",
-          "date": "2026-07-30"
-        },
-        {
-          "title": "샌디스크 SNXX 주가 전망, \"반도체 슈퍼위크 다시 올까?\"",
-          "link": "https://blog.naver.com/veriyas/224337701361",
-          "blogger": "토박이의 경제 초읽기",
-          "date": "2026-07-06"
-        },
-        {
-          "title": "샌디스크 주가, 이틀 새 22% 빠진 이유",
-          "link": "https://blog.naver.com/wedcademy/224361204978",
-          "blogger": "초보 눈높이 경제 읽기, 엘보스 리부트",
-          "date": "2026-07-29"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "미국증시, 마이크로소프트 15% 급등…물가 둔화에도 금리 부담",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16150411",
-          "press": "",
-          "date": "2026-07-30"
-        },
-        {
-          "title": "연이틀 급락 후 또 하락...공포감에 개인은 투매",
-          "link": "https://www.ytn.co.kr/_ln/0102_202607302217181298",
-          "press": "",
-          "date": "2026-07-30"
-        },
-        {
-          "title": "샌디스크, 고점 대비 57% 폭락…15개월 만의 과매도가 바닥 신호일까",
-          "link": "http://coinreaders.com/250438",
-          "press": "",
-          "date": "2026-07-30"
-        },
-        {
-          "title": "최대 실적에도 못 웃은 SK하이닉스…증권가 목표가 '극과 극'",
-          "link": "https://www.thepublic.kr/news/articleView.html?idxno=313273",
-          "press": "",
-          "date": "2026-07-30"
-        },
-        {
-          "title": "연이틀 급락 후 또 하락...공포감에 개인은 투매",
-          "link": "https://www.ytn.co.kr/_ln/0102_202607301809092896",
-          "press": "",
-          "date": "2026-07-30"
-        }
-      ],
-      "rank": 2
-    },
-    {
       "keyword": "이영애",
-      "traffic": "500+",
-      "blogTotal": 170209,
+      "traffic": "1000+",
+      "blogTotal": 170210,
       "newsTotal": 121001,
-      "recentToday": 82,
+      "recentToday": 80,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -219,14 +146,87 @@
           "date": "2026-07-30"
         }
       ],
+      "rank": 2
+    },
+    {
+      "keyword": "샌디스크 주가",
+      "traffic": "200+",
+      "blogTotal": 28251,
+      "newsTotal": 8174,
+      "recentToday": 80,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "1부 #PLUS SK하이닉스샌디스크채권혼합50 ETF(종목코드 0226A0)",
+          "link": "https://blog.naver.com/hanwhaasset/224363032789",
+          "blogger": "한화자산운용 공식 블로그",
+          "date": "2026-07-30"
+        },
+        {
+          "title": "고점대비 하락률 (삼전닉스 마이크론 키옥시아 샌디스크 주가)",
+          "link": "https://blog.naver.com/tkos3333/224351040400",
+          "blogger": "타키온의 경제적 자유!",
+          "date": "2026-07-19"
+        },
+        {
+          "title": "매수 타이밍은 바로 지금? 주가 반토막 난 샌디스크 투자 기회",
+          "link": "https://blog.naver.com/hisiyul/224363166628",
+          "blogger": "직장인 재테크 참고서",
+          "date": "2026-07-30"
+        },
+        {
+          "title": "샌디스크 주가 급등 이유, 하루 만에 24% 반등한 배경은?",
+          "link": "https://blog.naver.com/hbomul/224363402953",
+          "blogger": "하니의 보물창고",
+          "date": "2026-07-31"
+        },
+        {
+          "title": "샌디스크 SNXX 주가 전망, \"반도체 슈퍼위크 다시 올까?\"",
+          "link": "https://blog.naver.com/veriyas/224337701361",
+          "blogger": "토박이의 경제 초읽기",
+          "date": "2026-07-06"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "미국증시, 마이크로소프트 15% 급등…물가 둔화에도 금리 부담",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16150411",
+          "press": "",
+          "date": "2026-07-30"
+        },
+        {
+          "title": "연이틀 급락 후 또 하락...공포감에 개인은 투매",
+          "link": "https://www.ytn.co.kr/_ln/0102_202607302217181298",
+          "press": "",
+          "date": "2026-07-30"
+        },
+        {
+          "title": "샌디스크, 고점 대비 57% 폭락…15개월 만의 과매도가 바닥 신호일까",
+          "link": "http://coinreaders.com/250438",
+          "press": "",
+          "date": "2026-07-30"
+        },
+        {
+          "title": "최대 실적에도 못 웃은 SK하이닉스…증권가 목표가 '극과 극'",
+          "link": "https://www.thepublic.kr/news/articleView.html?idxno=313273",
+          "press": "",
+          "date": "2026-07-30"
+        },
+        {
+          "title": "연이틀 급락 후 또 하락...공포감에 개인은 투매",
+          "link": "https://www.ytn.co.kr/_ln/0102_202607301809092896",
+          "press": "",
+          "date": "2026-07-30"
+        }
+      ],
       "rank": 3
     },
     {
       "keyword": "노웨이홈",
       "traffic": "500+",
-      "blogTotal": 41957,
+      "blogTotal": 41969,
       "newsTotal": 9614,
-      "recentToday": 63,
+      "recentToday": 52,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -295,11 +295,84 @@
       "rank": 4
     },
     {
+      "keyword": "간선 급행 버스 체계",
+      "traffic": "200+",
+      "blogTotal": 17322,
+      "newsTotal": 28805,
+      "recentToday": 51,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "대중교통 대폭 강화, 제2차 간선급행버스체계 종합계획 확정",
+          "link": "https://blog.naver.com/bangwl33/224361936857",
+          "blogger": "#경제이야기",
+          "date": "2026-07-29"
+        },
+        {
+          "title": "제2차 간선급행버스 체계(BRT) 종합 계획(2026-2030) 확정...",
+          "link": "https://blog.naver.com/pange70/224361730246",
+          "blogger": "해들일번지",
+          "date": "2026-07-29"
+        },
+        {
+          "title": "간선급행버스체계 38개 노선 확대, BRT가 바꾸는 출퇴근길",
+          "link": "https://blog.naver.com/kongmuda/224363210654",
+          "blogger": "Kongmuda - 이슈, 시사, 상식",
+          "date": "2026-07-30"
+        },
+        {
+          "title": "1.6조 투입, 전국 간선급행버스체계(BRT) 2배로…수도권...",
+          "link": "https://blog.naver.com/honamnews24/224361664630",
+          "blogger": "호남뉴스24 호남지역 신문, 경제, 문화, 교육, 사회",
+          "date": "2026-07-29"
+        },
+        {
+          "title": "간선급행버스체계(BRT) 전국 38개 노선 추진, 우리 동네는...",
+          "link": "https://blog.naver.com/su697697/224363167995",
+          "blogger": "나무아의 스쿨카2",
+          "date": "2026-07-30"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "광주 BRT 3개 노선 국가계획 반영…도심 대중교통망 대폭 확충",
+          "link": "https://view.asiae.co.kr/article/2026073020513644032",
+          "press": "",
+          "date": "2026-07-30"
+        },
+        {
+          "title": "전남광주서 자율주행 BRT 달릴까",
+          "link": "http://www.gjdream.com/news/articleView.html?idxno=671444",
+          "press": "",
+          "date": "2026-07-30"
+        },
+        {
+          "title": "전남광주 통합 '실핏줄' 광역교통망 구축 '하세월'",
+          "link": "http://www.gjdream.com/news/articleView.html?idxno=671450",
+          "press": "",
+          "date": "2026-07-30"
+        },
+        {
+          "title": "박맹우 전 시장 '울산 트램 전면 백지화' 주장",
+          "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1063462",
+          "press": "",
+          "date": "2026-07-30"
+        },
+        {
+          "title": "박맹우 전 울산시장 \"도시철도 1호선 백지화\"",
+          "link": "http://www.ujeil.com/news/articleView.html?idxno=389687",
+          "press": "",
+          "date": "2026-07-30"
+        }
+      ],
+      "rank": 5
+    },
+    {
       "keyword": "톰 홀랜드",
       "traffic": "100+",
-      "blogTotal": 58478,
+      "blogTotal": 58494,
       "newsTotal": 19653,
-      "recentToday": 54,
+      "recentToday": 38,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -353,87 +426,14 @@
           "date": "2026-07-30"
         },
         {
-          "title": "'스파이더맨4' 역대급 후기에 흥행 시작...쿠키영상은 몇개?",
-          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3651641",
-          "press": "",
-          "date": "2026-07-30"
-        },
-        {
           "title": "[비즈 리뷰] '오디세이' 3000년의 대서사시, 172분의 몰입",
           "link": "https://enter.etoday.co.kr/news/view/300405",
           "press": "",
           "date": "2026-07-30"
-        }
-      ],
-      "rank": 5
-    },
-    {
-      "keyword": "간선 급행 버스 체계",
-      "traffic": "200+",
-      "blogTotal": 17322,
-      "newsTotal": 28805,
-      "recentToday": 51,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "대중교통 대폭 강화, 제2차 간선급행버스체계 종합계획 확정",
-          "link": "https://blog.naver.com/bangwl33/224361936857",
-          "blogger": "#경제이야기",
-          "date": "2026-07-29"
         },
         {
-          "title": "제2차 간선급행버스 체계(BRT) 종합 계획(2026-2030) 확정...",
-          "link": "https://blog.naver.com/pange70/224361730246",
-          "blogger": "해들일번지",
-          "date": "2026-07-29"
-        },
-        {
-          "title": "간선급행버스체계 38개 노선 확대, BRT가 바꾸는 출퇴근길",
-          "link": "https://blog.naver.com/kongmuda/224363210654",
-          "blogger": "Kongmuda - 이슈, 시사, 상식",
-          "date": "2026-07-30"
-        },
-        {
-          "title": "1.6조 투입, 전국 간선급행버스체계(BRT) 2배로…수도권...",
-          "link": "https://blog.naver.com/honamnews24/224361664630",
-          "blogger": "호남뉴스24 호남지역 신문, 경제, 문화, 교육, 사회",
-          "date": "2026-07-29"
-        },
-        {
-          "title": "간선급행버스체계(BRT) 전국 38개 노선 추진, 우리 동네는...",
-          "link": "https://blog.naver.com/su697697/224363167995",
-          "blogger": "나무아의 스쿨카2",
-          "date": "2026-07-30"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "광주 BRT 3개 노선 국가계획 반영…도심 대중교통망 대폭 확충",
-          "link": "https://view.asiae.co.kr/article/2026073020513644032",
-          "press": "",
-          "date": "2026-07-30"
-        },
-        {
-          "title": "전남광주 통합 '실핏줄' 광역교통망 구축 '하세월'",
-          "link": "http://www.gjdream.com/news/articleView.html?idxno=671450",
-          "press": "",
-          "date": "2026-07-30"
-        },
-        {
-          "title": "전남광주서 자율주행 BRT 달릴까",
-          "link": "http://www.gjdream.com/news/articleView.html?idxno=671444",
-          "press": "",
-          "date": "2026-07-30"
-        },
-        {
-          "title": "박맹우 전 시장 '울산 트램 전면 백지화' 주장",
-          "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1063462",
-          "press": "",
-          "date": "2026-07-30"
-        },
-        {
-          "title": "박맹우 전 울산시장 \"도시철도 1호선 백지화\"",
-          "link": "http://www.ujeil.com/news/articleView.html?idxno=389687",
+          "title": "'스파이더맨4' 역대급 후기에 흥행 시작...쿠키영상은 몇개?",
+          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3651641",
           "press": "",
           "date": "2026-07-30"
         }
@@ -514,79 +514,6 @@
       "rank": 7
     },
     {
-      "keyword": "마이크로소프트",
-      "traffic": "1000+",
-      "blogTotal": 1145996,
-      "newsTotal": 722347,
-      "recentToday": 8,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "MS 마이크로소프트 365 엑셀 워드 가격 비교 저렴하게 할인 구독",
-          "link": "https://blog.naver.com/korovo/224359312395",
-          "blogger": "잡동사니 저장소",
-          "date": "2026-07-30"
-        },
-        {
-          "title": "마이크로소프트, 애저 클라우드 매출 1000억 달러 돌파...",
-          "link": "https://blog.naver.com/eterna01/224362629872",
-          "blogger": "Jer 29:11",
-          "date": "2026-07-30"
-        },
-        {
-          "title": "마이크로소프트 2026년 4분기 실적, 애저 매출 1000억 달러...",
-          "link": "https://blog.naver.com/ribis9/224363164776",
-          "blogger": "구반장의 잡다한 지식",
-          "date": "2026-07-30"
-        },
-        {
-          "title": "마이크로소프트(Microsoft), 윈도우10 연장지원 불가피...",
-          "link": "https://blog.naver.com/rockstar88/224362384494",
-          "blogger": "그놈의 돈이 문제다.",
-          "date": "2026-07-30"
-        },
-        {
-          "title": "마이크로소프트 26년 2분기 실적 요약 및 코멘트",
-          "link": "https://blog.naver.com/tommyhslee1/224362439668",
-          "blogger": "보고 듣고 느끼는 것들",
-          "date": "2026-07-30"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "애플 시총 1위 굳힐까…애플·아마존 2분기 실적 발표",
-          "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=01259526645520096",
-          "press": "",
-          "date": "2026-07-30"
-        },
-        {
-          "title": "빅테크, 7600조원 ‘AI 군비 경쟁’… “반도체 수요 탄탄”",
-          "link": "https://www.chosun.com/economy/tech_it/2026/07/31/NPNMXQC2CRCELBQZTXQBVKQT3A/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-          "press": "",
-          "date": "2026-07-30"
-        },
-        {
-          "title": "'삼전'도 최대 실적이지만…\"AI 투자 언제까지?\" 우려",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008683552&plink=ORI&cooper=NAVER",
-          "press": "",
-          "date": "2026-07-30"
-        },
-        {
-          "title": "MS·메타, AI 투자 수익화 성과에 상반된 평가",
-          "link": "https://www.bloter.net/news/articleView.html?idxno=669594",
-          "press": "",
-          "date": "2026-07-30"
-        },
-        {
-          "title": "[뉴욕증시]반도체 업종의 강세에 일제히 상승…물가 예상 부합",
-          "link": "https://view.asiae.co.kr/article/2026073100215927325",
-          "press": "",
-          "date": "2026-07-30"
-        }
-      ],
-      "rank": 8
-    },
-    {
       "keyword": "sadie sink",
       "traffic": "100+",
       "blogTotal": 850,
@@ -657,6 +584,30 @@
           "date": "2026-07-28"
         }
       ],
+      "rank": 8
+    },
+    {
+      "keyword": "rottach-egern 대 바이에른",
+      "traffic": "1000+",
+      "blogTotal": 2,
+      "newsTotal": 0,
+      "recentToday": 0,
+      "recentWeek": 0,
+      "topBlogs": [
+        {
+          "title": "[프리시즌 리뷰] FC Rottach-Egern vs 바이에른 뮌헨(청소년...",
+          "link": "https://blog.naver.com/hjl0828/223160151859",
+          "blogger": "Internazionale Milano",
+          "date": "2023-07-19"
+        },
+        {
+          "title": "바이에른 뭔헨 27대 0 승리",
+          "link": "https://blog.naver.com/tigrmetal2/223160893777",
+          "blogger": "ZG Zombie risinG",
+          "date": "2023-07-19"
+        }
+      ],
+      "topNews": [],
       "rank": 9
     },
     {
