@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-31T17:03:37.278Z",
+  "updatedAt": "2026-07-31T18:52:31.793Z",
   "source": "live",
   "keywords": [
     {
       "keyword": "데드캣",
-      "traffic": "2000+",
-      "blogTotal": 11608,
+      "traffic": "1000+",
+      "blogTotal": 11611,
       "newsTotal": 821,
-      "recentToday": 94,
+      "recentToday": 90,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -78,9 +78,9 @@
     {
       "keyword": "넥슨",
       "traffic": "500+",
-      "blogTotal": 432037,
-      "newsTotal": 572352,
-      "recentToday": 91,
+      "blogTotal": 432033,
+      "newsTotal": 572353,
+      "recentToday": 90,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -116,6 +116,12 @@
       ],
       "topNews": [
         {
+          "title": "[MONTHLY SOOP] 이윤열, 어인섬 막내 베스트 스트리머 됐다",
+          "link": "https://www.gametoc.co.kr/news/articleView.html?idxno=110358",
+          "press": "",
+          "date": "2026-07-31"
+        },
+        {
           "title": "메이플M, 최초 챌린저스 월드와 함께 '렌' 등장",
           "link": "https://www.gametoc.co.kr/news/articleView.html?idxno=110355",
           "press": "",
@@ -138,95 +144,16 @@
           "link": "https://www.hankyung.com/article/202607318266H",
           "press": "",
           "date": "2026-07-31"
-        },
-        {
-          "title": "'26FSL' 클래스 출시한 'FC 온라인', 리그 관람과 게임 플레이 잇는 넥슨...",
-          "link": "https://www.xportsnews.com/article/2178613",
-          "press": "",
-          "date": "2026-07-31"
         }
       ],
       "rank": 2
     },
     {
-      "keyword": "김혜준",
-      "traffic": "100+",
-      "blogTotal": 21579,
-      "newsTotal": 29101,
-      "recentToday": 91,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "<킬러들의 쇼핑몰2> 유현수, 김혜준 향한 약속 지키며 맞은 비극",
-          "link": "https://blog.naver.com/withinnews/224363105803",
-          "blogger": "위드인뉴스",
-          "date": "2026-07-30"
-        },
-        {
-          "title": "킬러들의 쇼핑몰2 3회 3화 이동욱 과거 특임대였다 김혜준...",
-          "link": "https://blog.naver.com/1002bsh/224362116458",
-          "blogger": "레몬스카이 드라마 리뷰",
-          "date": "2026-07-29"
-        },
-        {
-          "title": "강훈> 귀환이 반가운 이유! 김혜준 차우민과 금괴 쟁탈전 반응",
-          "link": "https://blog.naver.com/review-pang/224358845532",
-          "blogger": "연예로운 하루",
-          "date": "2026-07-28"
-        },
-        {
-          "title": "'김혜준 런닝맨' 7년만 재출연 소름 흥정·횡령범 정체",
-          "link": "https://blog.naver.com/mykslove12/224358805242",
-          "blogger": "세상슈지 쟙블잡블",
-          "date": "2026-07-27"
-        },
-        {
-          "title": "최애의 사원, 차우민 보러 입사한 김혜준 강훈과 얽혔다",
-          "link": "https://blog.naver.com/js2y86/224364317850",
-          "blogger": "덕빛's 드라마 필모그라피",
-          "date": "2026-07-31"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "취랄 신드롬 ‘취사병’ 최우수 작품상 “박지훈 너무 고생했다”[청룡...",
-          "link": "https://www.newsen.com/news_view.php?uid=202607311748322510",
-          "press": "",
-          "date": "2026-07-31"
-        },
-        {
-          "title": "[포토] 이동욱-김혜준, 눈부신 자태",
-          "link": "https://www.sportschosun.com/entertainment/2026-07-31/202607310100204140013478",
-          "press": "",
-          "date": "2026-07-31"
-        },
-        {
-          "title": "[포토] 이동욱-김혜준, 시상자로 나와도 빛나네",
-          "link": "https://www.sportschosun.com/entertainment/2026-07-31/202607310100204150013479",
-          "press": "",
-          "date": "2026-07-31"
-        },
-        {
-          "title": "'킬러들의 쇼핑몰' 시즌2, 김혜준 매력 성장",
-          "link": "https://news.jtbc.co.kr/article/NB12311215?influxDiv=NAVER",
-          "press": "",
-          "date": "2026-07-31"
-        },
-        {
-          "title": "김혜준 \"김사부' 시즌 3서 재회한 한석규, 잘 버텼다고...위로 받는 기분...",
-          "link": "https://www.tvreport.co.kr/breaking/article/1065430/",
-          "press": "",
-          "date": "2026-07-31"
-        }
-      ],
-      "rank": 3
-    },
-    {
       "keyword": "코스피 야간선물",
       "traffic": "200+",
-      "blogTotal": 50195,
+      "blogTotal": 50198,
       "newsTotal": 17146,
-      "recentToday": 87,
+      "recentToday": 84,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -292,14 +219,14 @@
           "date": "2026-07-31"
         }
       ],
-      "rank": 4
+      "rank": 3
     },
     {
       "keyword": "제주항공",
       "traffic": "100+",
-      "blogTotal": 629376,
+      "blogTotal": 629371,
       "newsTotal": 399078,
-      "recentToday": 86,
+      "recentToday": 79,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -365,13 +292,86 @@
           "date": "2026-07-31"
         }
       ],
+      "rank": 4
+    },
+    {
+      "keyword": "사극",
+      "traffic": "500+",
+      "blogTotal": 574490,
+      "newsTotal": 384878,
+      "recentToday": 69,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "7% 돌파, 남지현 사극 불패 신화 또 증명한 한국사극드라마",
+          "link": "https://blog.naver.com/flax_hemp/224320171681",
+          "blogger": "하루의 드라마 일기",
+          "date": "2026-06-18"
+        },
+        {
+          "title": "\"아이 혼낼 때 사극 말투를 썼습니다\" 채시라의 특별한 자녀...",
+          "link": "https://blog.naver.com/let_it_bloom/224328366960",
+          "blogger": "레릿블룸",
+          "date": "2026-06-26"
+        },
+        {
+          "title": "출연진·줄거리·후기, 웃음과 반전이 가득했던 퓨전 사극",
+          "link": "https://blog.naver.com/cloud_983/224337727153",
+          "blogger": "잔잔한 이야기 :: 느린 일상의 기록",
+          "date": "2026-07-06"
+        },
+        {
+          "title": "세자의 비밀 왕이 아들 죽인 이유 넷플릭스 한국사극드라마 추천",
+          "link": "https://blog.naver.com/1002bsh/224351484611",
+          "blogger": "레몬스카이 드라마 리뷰",
+          "date": "2026-07-20"
+        },
+        {
+          "title": "“공주 아니고 옹주?” 사극 볼 때마다 헷갈렸던 그 호칭...",
+          "link": "https://blog.naver.com/ptee79/224351929509",
+          "blogger": "인생을 설계해주는 이름 상담",
+          "date": "2026-07-20"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "김민규, 서점에서 포착된 사복 비주얼…연기 행보 잇는 청춘 배우",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16151424",
+          "press": "",
+          "date": "2026-07-31"
+        },
+        {
+          "title": "손우현, '신의 구슬' 이어 야외 사진으로 근황 공개",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16151422",
+          "press": "",
+          "date": "2026-07-31"
+        },
+        {
+          "title": "이은샘, '유부녀킬러'로 공효진 시누이 변신",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16151423",
+          "press": "",
+          "date": "2026-07-31"
+        },
+        {
+          "title": "차학연, 여름 저녁 계단길 산책…쿠팡플레이 새 로맨스 준비",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16151419",
+          "press": "",
+          "date": "2026-07-31"
+        },
+        {
+          "title": "강미나, '내일도 출근' 윤노아와 밤거리 투샷…'기리고'까지 활약",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16151412",
+          "press": "",
+          "date": "2026-07-31"
+        }
+      ],
       "rank": 5
     },
     {
       "keyword": "이선민",
       "traffic": "100+",
-      "blogTotal": 19414,
-      "newsTotal": 20578,
+      "blogTotal": 19417,
+      "newsTotal": 20582,
       "recentToday": 57,
       "recentWeek": 100,
       "topBlogs": [
@@ -408,37 +408,110 @@
       ],
       "topNews": [
         {
+          "title": "구성환, 옥상에 반려견 '꽃분이' 새겼다…펫로스 이겨낸 추모 '뭉클'",
+          "link": "https://www.mt.co.kr/entertainment/2026/08/01/2026080102593495959",
+          "press": "",
+          "date": "2026-07-31"
+        },
+        {
+          "title": "\"어떤 미친X이 이걸…\" 구성환, 이선민 집들이 선물에 경악 '뭐길래?'",
+          "link": "https://www.mt.co.kr/entertainment/2026/08/01/2026080102412237921",
+          "press": "",
+          "date": "2026-07-31"
+        },
+        {
+          "title": "\"호텔 좋아하고 캠핑 안 좋아한다\"…구성환, 반전 식성→취향 공개",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16151642",
+          "press": "",
+          "date": "2026-07-31"
+        },
+        {
+          "title": "구성환, 시장 뒤집은 이선민 인기에 깜짝 \"20대에 서태지급\"",
+          "link": "https://www.mt.co.kr/entertainment/2026/08/01/2026080102144338561",
+          "press": "",
+          "date": "2026-07-31"
+        },
+        {
           "title": "류혜영X고경표, 다음주 '나혼산' 출연 예고",
           "link": "https://enter.etoday.co.kr/news/view/300456",
-          "press": "",
-          "date": "2026-07-31"
-        },
-        {
-          "title": "전현무, 헷갈리는 영어스펠링쯤이야...'영문학도 클래스' (나 혼자 산다...",
-          "link": "https://www.xportsnews.com/article/2178948",
-          "press": "",
-          "date": "2026-07-31"
-        },
-        {
-          "title": "전현무, 中 중매 77년생 女프로필 눈여겨봤는데…\"키 때문에 탈락\" ('나...",
-          "link": "https://www.tvreport.co.kr/broadcast/article/1065482/",
-          "press": "",
-          "date": "2026-07-31"
-        },
-        {
-          "title": "구성환, 요리 실력 어떻길래..김신영 \"이 집 다신 안와\" 폭발[나혼산][★...",
-          "link": "https://www.starnewskorea.com/broadcast-show/2026/08/01/2026073123102034180",
-          "press": "",
-          "date": "2026-07-31"
-        },
-        {
-          "title": "이선민, 시장방문에 사인요청 쇄도...2030 인기 이 정도였나 (나 혼자 산...",
-          "link": "https://www.xportsnews.com/article/2178946",
           "press": "",
           "date": "2026-07-31"
         }
       ],
       "rank": 6
+    },
+    {
+      "keyword": "디즈니",
+      "traffic": "100+",
+      "blogTotal": 2782577,
+      "newsTotal": 515478,
+      "recentToday": 0,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "상하이 디즈니랜드 티켓 상해 주토피아 DPA 10분 컷",
+          "link": "https://blog.naver.com/wlsgml850/224349310086",
+          "blogger": "트래블러버의 맛있는 여행",
+          "date": "2026-07-17"
+        },
+        {
+          "title": "05 디친놈의 라따뚜이 레스토랑 바운딩은? -  파리 디즈니랜드",
+          "link": "https://blog.naver.com/yjny75/224347735971",
+          "blogger": "잡덕의 길",
+          "date": "2026-07-21"
+        },
+        {
+          "title": "싱가포르 여행준비zip | 디즈니크루즈부터...",
+          "link": "https://blog.naver.com/fayeinbohol/224351946616",
+          "blogger": "One life, right?",
+          "date": "2026-07-20"
+        },
+        {
+          "title": "습격, 충격 전개 제이·베일 죽음 진짜? 디즈니플러스 추천",
+          "link": "https://blog.naver.com/alsk1130/224362157469",
+          "blogger": "차카니의 잡다한 일상과 드라마리뷰",
+          "date": "2026-07-29"
+        },
+        {
+          "title": "상하이 디즈니랜드 상해 주토피아 트론 DPA 티켓 놀이기구 추천",
+          "link": "https://blog.naver.com/uni7741/224351756079",
+          "blogger": "둔켈의 여행 그리고 이야기",
+          "date": "2026-07-20"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "[포토Q] 서지혜 '우아한 오프숄더'",
+          "link": "http://www.sportsq.co.kr/news/articleView.html?idxno=497058",
+          "press": "",
+          "date": "2026-07-31"
+        },
+        {
+          "title": "[포토Q] 송건희 '군복무 중 청룡시리즈어워즈 등장'",
+          "link": "http://www.sportsq.co.kr/news/articleView.html?idxno=497057",
+          "press": "",
+          "date": "2026-07-31"
+        },
+        {
+          "title": "[포토Q] 아린 '시선을 뺏겼어'",
+          "link": "http://www.sportsq.co.kr/news/articleView.html?idxno=497056",
+          "press": "",
+          "date": "2026-07-31"
+        },
+        {
+          "title": "[포토Q] 아린 '많이 설렜어'",
+          "link": "http://www.sportsq.co.kr/news/articleView.html?idxno=497055",
+          "press": "",
+          "date": "2026-07-31"
+        },
+        {
+          "title": "[포토Q] 이광수 '흘러 넘치는 멋짐'",
+          "link": "http://www.sportsq.co.kr/news/articleView.html?idxno=497054",
+          "press": "",
+          "date": "2026-07-31"
+        }
+      ],
+      "rank": 7
     },
     {
       "keyword": "thứ hạng của đội tuyển bóng đá quốc gia việt nam gặp đội tuyển bóng đá quốc gia singapore",
@@ -480,12 +553,12 @@
         }
       ],
       "topNews": [],
-      "rank": 7
+      "rank": 8
     },
     {
       "keyword": "복도",
       "traffic": "2000+",
-      "blogTotal": 4790208,
+      "blogTotal": 4790444,
       "newsTotal": 316436,
       "recentToday": 0,
       "recentWeek": 100,
@@ -553,13 +626,13 @@
           "date": "2026-07-31"
         }
       ],
-      "rank": 8
+      "rank": 9
     },
     {
       "keyword": "덕분",
-      "traffic": "200+",
-      "blogTotal": 65593031,
-      "newsTotal": 3318968,
+      "traffic": "500+",
+      "blogTotal": 65602626,
+      "newsTotal": 3318970,
       "recentToday": 0,
       "recentWeek": 100,
       "topBlogs": [
@@ -596,6 +669,18 @@
       ],
       "topNews": [
         {
+          "title": "무기한 선물, 크립토 파생시장 중심으로…펀딩비 리스크는 더 커졌다",
+          "link": "https://www.tokenpost.kr/news/cryptocurrency/383445",
+          "press": "",
+          "date": "2026-07-31"
+        },
+        {
+          "title": "유럽증시, 주요 기업들 실적 발표 소화하며 혼조 마감… 월간 기준 1.2% ...",
+          "link": "https://www.newspim.com/news/view/20260801000004",
+          "press": "",
+          "date": "2026-07-31"
+        },
+        {
           "title": "이찬원, 소속사 이적 후 첫 프로필 촬영…비하인드 공개",
           "link": "https://enter.etoday.co.kr/news/view/300455",
           "press": "",
@@ -610,91 +695,6 @@
         {
           "title": "배관-미장-목공… AI가 대체 못할 블루칼라 될래요",
           "link": "https://www.donga.com/news/Society/article/all/20260731/134403222/2",
-          "press": "",
-          "date": "2026-07-31"
-        },
-        {
-          "title": "“명퇴 후 체인점 2곳 운영… 철저한 시장 분석 덕분”[은퇴 레시피]",
-          "link": "https://www.donga.com/news/Society/article/all/20260731/134403611/2",
-          "press": "",
-          "date": "2026-07-31"
-        },
-        {
-          "title": "‘와’ 삼성 떨고 있나, 2위팀 기세 미쳤다! 류현진까지 격파→1위 0.5G차...",
-          "link": "http://www.osen.co.kr/article/G1112850419",
-          "press": "",
-          "date": "2026-07-31"
-        }
-      ],
-      "rank": 9
-    },
-    {
-      "keyword": "은중과 상연",
-      "traffic": "200+",
-      "blogTotal": 22274,
-      "newsTotal": 4843,
-      "recentToday": 0,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "은중과 상연 넷플릭스 드라마 추천 후기｜김고은 박지현...",
-          "link": "https://blog.naver.com/happypudding/224296768521",
-          "blogger": "먹고 놀고 즐거운 인생 ♬",
-          "date": "2026-05-26"
-        },
-        {
-          "title": "은중과 상연, 윤현숙 선생님은 천상학 오빠만 좋아했을까?...",
-          "link": "https://blog.naver.com/chummilmil99/224006674666",
-          "blogger": "Te Quiero",
-          "date": "2025-09-13"
-        },
-        {
-          "title": "결과 : 나눠 갖은 미지의 서울과 은중과 상연, 그리고 류승룡!!",
-          "link": "https://blog.naver.com/twostarwoo/224279485095",
-          "blogger": "DRAMA, WATCH, SHOES",
-          "date": "2026-05-09"
-        },
-        {
-          "title": "[은중과 상연] 동경, 질투, 원망 그리고 연민",
-          "link": "https://blog.naver.com/tomstrong/224300592535",
-          "blogger": "U GO's Visual Museum",
-          "date": "2026-05-30"
-        },
-        {
-          "title": "[리뷰] 끝내 이해할 수 없었던 그녀의 마지막 선택, <은중과 상연>",
-          "link": "https://blog.naver.com/lovej1103/224275909322",
-          "blogger": "이상한나라의 토토",
-          "date": "2026-05-06"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "[종합] 김고은, '청룡시리즈어워즈' 영예의 대상…최우수작품상 '취사병...",
-          "link": "https://enter.etoday.co.kr/news/view/300457",
-          "press": "",
-          "date": "2026-07-31"
-        },
-        {
-          "title": "[영상] 김고은-박지현, 수상을 서로 양보하는 훈훈한 '은중과 상연'(청룡...",
-          "link": "http://enews.imbc.com/News/RetrieveNewsInfo/513317",
-          "press": "",
-          "date": "2026-07-31"
-        },
-        {
-          "title": "김고은, 눈물의 대상 수상 “매 작품 절실…더 많은 기회 달라” (청룡...",
-          "link": "http://enews.imbc.com/News/RetrieveNewsInfo/513314",
-          "press": "",
-          "date": "2026-07-31"
-        },
-        {
-          "title": "\"더 많이 찾아주세요\" 김고은, 눈물의 대상…'취사병' 3관왕, 박지훈 무...",
-          "link": "https://www.tenasia.co.kr/article/2026073188944",
-          "press": "",
-          "date": "2026-07-31"
-        },
-        {
-          "title": "김고은, '은중과 상연'으로 '청룡시리즈어워즈' 대상…\"앞으로 더 열심...",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16151500",
           "press": "",
           "date": "2026-07-31"
         }
