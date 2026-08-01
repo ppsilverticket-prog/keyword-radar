@@ -1,704 +1,125 @@
 {
-  "updatedAt": "2026-08-01T21:52:34.369Z",
+  "updatedAt": "2026-08-01T22:54:17.485Z",
   "source": "live",
   "keywords": [
     {
-      "keyword": "박진만",
-      "traffic": "2000+",
-      "blogTotal": 30936,
-      "newsTotal": 61347,
-      "recentToday": 89,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "\"전율이 흐른다\" 삼성 라이온즈 감독 박진만 300승 달성, 5연승...",
-          "link": "https://blog.naver.com/cgnara/224364497169",
-          "blogger": "Sports MAG:ZINE",
-          "date": "2026-08-01"
-        },
-        {
-          "title": "삼성 라이온즈 박진만 감독의 믿음, 디아즈 끝내기 홈런으로...",
-          "link": "https://blog.naver.com/rlfehdud/224273745698",
-          "blogger": "두 아들 아빠의 아마추어 선수 도전기",
-          "date": "2026-05-04"
-        },
-        {
-          "title": "“파란 유니폼만 봐도 두렵게”…박진만 300승보다 강렬했던...",
-          "link": "https://blog.naver.com/winephk/224364384243",
-          "blogger": "박쿤의 스포츠로그",
-          "date": "2026-08-01"
-        },
-        {
-          "title": "2026 KBO 각 구단 LG 염경엽 KT 이강철 삼성 박진만 KIA...",
-          "link": "https://blog.naver.com/lionhair01/224332016417",
-          "blogger": "야구 경기 좋아하는 랄라씨",
-          "date": "2026-06-30"
-        },
-        {
-          "title": "\"뷰캐넌 라팍 온다!\" 설마 복귀 추진? 박진만 감독 반응은?",
-          "link": "https://blog.naver.com/chaesports/224350068412",
-          "blogger": "채씨가 전하는 스포츠⚡",
-          "date": "2026-07-18"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "'걸리면 넘어간다' 1차 지명 출신 내야수의 무서운 홈런 페이스, 다만 아...",
-          "link": "http://www.osen.co.kr/article/G1112850850",
-          "press": "",
-          "date": "2026-08-01"
-        },
-        {
-          "title": "\"감독님과 400승, 500승도 함께\"→\"자욱이가 있으면 하지 않을까\"…예비...",
-          "link": "http://www.osen.co.kr/article/G1112850750",
-          "press": "",
-          "date": "2026-08-01"
-        },
-        {
-          "title": "박진만 감독 '300승 금자탑'에 주장 구자욱 \"400승, 500승 하셔야죠\"→사...",
-          "link": "https://www.xportsnews.com/article/2179038",
-          "press": "",
-          "date": "2026-08-01"
-        },
-        {
-          "title": "\"영상은 문제가 없는데…\" 갑자기 사라진 삼성 마무리…회복세 더디면 ...",
-          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=832215",
-          "press": "",
-          "date": "2026-08-01"
-        },
-        {
-          "title": "폭염중대경보에도 강행, 이례적 목소리 높인 박진만 감독 \"경기 전 요청...",
-          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=832203",
-          "press": "",
-          "date": "2026-08-01"
-        }
-      ],
+      "keyword": "송혜교",
+      "traffic": "500+",
+      "blogTotal": 0,
+      "newsTotal": 0,
+      "recentToday": 0,
+      "recentWeek": 0,
+      "topBlogs": [],
+      "topNews": [],
+      "error": "fetch failed",
       "rank": 1
     },
     {
-      "keyword": "아리아나 그란데",
-      "traffic": "100+",
-      "blogTotal": 66809,
-      "newsTotal": 32182,
-      "recentToday": 69,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "미트 페어런츠4 정보 예고편 포커 가족 아리아나 그란데 합류",
-          "link": "https://blog.naver.com/rissnam/224257076809",
-          "blogger": "리쓰남의 영화수목금",
-          "date": "2026-04-18"
-        },
-        {
-          "title": "아리아나 그란데 8집 [petal] 발매 기념 성수 팝업 스토어...",
-          "link": "https://blog.naver.com/nodopaminenolife/224364900327",
-          "blogger": "no dopamine = no life",
-          "date": "2026-08-01"
-        },
-        {
-          "title": "Grande 아리아나 그란데 해석 번역 곡정보 팝송 추천...",
-          "link": "https://blog.naver.com/raintaro/224300946368",
-          "blogger": "모세스 (MOSES) 의 음악 여행",
-          "date": "2026-05-30"
-        },
-        {
-          "title": "you love me 가사 해석 발음 아리아나 그란데 신곡 이별송",
-          "link": "https://blog.naver.com/pjj1219/224305779330",
-          "blogger": "직장인 구름의 기록",
-          "date": "2026-06-04"
-        },
-        {
-          "title": "놀란, 나이팅게일, 하우 투 롭 어 뱅크, 아리아나 그란데",
-          "link": "https://blog.naver.com/myblue_lunacat/224343641458",
-          "blogger": "MY BLUE",
-          "date": "2026-07-11"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "[시대&VIEW] 英 총리의 소박한 '생활 정치' 실험",
-          "link": "https://www.sidae.com/article/2026073114425814941",
-          "press": "",
-          "date": "2026-08-01"
-        },
-        {
-          "title": "아리아나 그란데, 신곡 MV서 수척한 모습..'뼈말라' 논란 재점화 [월드스...",
-          "link": "https://www.starnewskorea.com/star/2026/08/02/2026080123244296942",
-          "press": "",
-          "date": "2026-08-01"
-        },
-        {
-          "title": "아리아나 그란데, 신곡 냈는데 뼈말라 몸으로 거식증 의혹 [할리웃통신...",
-          "link": "https://www.tvreport.co.kr/world/article/1065604/",
-          "press": "",
-          "date": "2026-08-01"
-        },
-        {
-          "title": "“거식증 아냐?” vs “외모품평 NO” 아리아나 그란데 ‘Petal’ 뮤비 속...",
-          "link": "https://sports.khan.co.kr/article/202608011828003?pt=nv",
-          "press": "",
-          "date": "2026-08-01"
-        },
-        {
-          "title": "“뼈가 보여” 새 노래 들려줬더니 또 ‘몸매’로 시끌…美 여가수 ‘몸...",
-          "link": "https://www.seoul.co.kr/news/international/2026/08/01/20260801500022?wlog_tag3=naver",
-          "press": "",
-          "date": "2026-08-01"
-        }
-      ],
+      "keyword": "로스앤젤레스 fc",
+      "traffic": "1000+",
+      "blogTotal": 0,
+      "newsTotal": 0,
+      "recentToday": 0,
+      "recentWeek": 0,
+      "topBlogs": [],
+      "topNews": [],
+      "error": "fetch failed",
       "rank": 2
     },
     {
-      "keyword": "김원형",
-      "traffic": "100+",
-      "blogTotal": 13254,
-      "newsTotal": 36842,
-      "recentToday": 38,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "\"정수빈 3피트 아웃\" 김원형 감독이 폭발한 진짜 이유?",
-          "link": "https://blog.naver.com/total_feel/224365230359",
-          "blogger": "골(GOLF)치는 박간지",
-          "date": "2026-08-02"
-        },
-        {
-          "title": "“이렇게 끝난다고?” 김원형 감독이 격분한 진짜 이유",
-          "link": "https://blog.naver.com/cgnara/224365217287",
-          "blogger": "Sports MAG:ZINE",
-          "date": "2026-08-01"
-        },
-        {
-          "title": "\"왜 아웃인가\" 두산 김원형 감독이 항의한 진짜 이유, 끝내기...",
-          "link": "https://blog.naver.com/writedo/224365216042",
-          "blogger": "광이의 크로스핏, 운동은 장비빨!",
-          "date": "2026-08-01"
-        },
-        {
-          "title": "“세이프가 왜 아웃으로?” 경기 끝난 뒤 김원형 감독이 폭발한...",
-          "link": "https://blog.naver.com/winephk/224365194462",
-          "blogger": "박쿤의 스포츠로그",
-          "date": "2026-08-01"
-        },
-        {
-          "title": "\"전반기 5위 비결이요?\" 김원형 감독이 밝힌 두산 선전 이유!",
-          "link": "https://blog.naver.com/chaesports/224343930773",
-          "blogger": "채씨가 전하는 스포츠⚡",
-          "date": "2026-07-12"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "'이럴수가' 외국인 퇴출이 '신의 한 수' 되나→사령탑도 \"끝내주죠\" 엄지...",
-          "link": "https://www.starnewskorea.com/sports/2026/08/02/2026080115253756602",
-          "press": "",
-          "date": "2026-08-01"
-        },
-        {
-          "title": "'퍼펙트 7이닝' 카라스코 데뷔쇼, 그러나 승자는 없었다... LG-두산 연장...",
-          "link": "https://www.stnsports.co.kr/news/articleView.html?idxno=320212",
-          "press": "",
-          "date": "2026-08-01"
-        },
-        {
-          "title": "두산 김원형 감독, 연장 11회 '3피트 아웃' 판정에 심판진 강력 항의…'...",
-          "link": "https://www.sportschosun.com/baseball/2026-08-02/202608020100005140000259",
-          "press": "",
-          "date": "2026-08-01"
-        },
-        {
-          "title": "김원형 감독 입틀막! 이제 누가 그를 '무툴'이라고 부를 수 있을까…'퍼...",
-          "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553424639",
-          "press": "",
-          "date": "2026-08-01"
-        },
-        {
-          "title": "[IS 이슈] 미친 더위에 타들어가는 야구 현장...'기후 변화' 대응 뉴노멀...",
-          "link": "https://isplus.com/article/view/isp202608010045",
-          "press": "",
-          "date": "2026-08-01"
-        }
-      ],
-      "rank": 3
-    },
-    {
-      "keyword": "고우림",
+      "keyword": "대한민국 축구 국가대표팀",
       "traffic": "200+",
-      "blogTotal": 24711,
-      "newsTotal": 15203,
-      "recentToday": 29,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "‘불후의 명곡’ 고우림, ♥김연아와 ‘달달’ 결혼 생활",
-          "link": "https://blog.naver.com/goomi207/224357512184",
-          "blogger": "반클립",
-          "date": "2026-07-25"
-        },
-        {
-          "title": "고우림, 연아 사랑! 결혼 사회 짠한형 신동엽 앞에서 자랑 만발!...",
-          "link": "https://blog.naver.com/peekplus/224317785852",
-          "blogger": "틈 사이를 담다",
-          "date": "2026-06-16"
-        },
-        {
-          "title": "고우림 프로필 김연아 남편, 팬들 반응과 소속사 입장문까지",
-          "link": "https://blog.naver.com/gomanbo_/224349654912",
-          "blogger": "고만보",
-          "date": "2026-07-17"
-        },
-        {
-          "title": "김연아 고우림 \"먼저 연락한 건 아내였다\"…4년 비밀연애 끝...",
-          "link": "https://blog.naver.com/stonesam3/224318111816",
-          "blogger": "지나가다 봄의 수비학~",
-          "date": "2026-06-17"
-        },
-        {
-          "title": "\"김연아가 내 와이프라니\" 고우림, 결혼식 당일 가사까지...",
-          "link": "https://blog.naver.com/dog_mina/224317187878",
-          "blogger": "오다가다",
-          "date": "2026-06-16"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "\"10대인가?\" 김연아 근황 공개, 반응 폭발!…\"여왕님 행차하신다\", \"이게...",
-          "link": "https://www.xportsnews.com/article/2179187",
-          "press": "",
-          "date": "2026-08-01"
-        },
-        {
-          "title": "'고우림♥' 김연아, 명품보다 빛난 미모…우아함의 정석",
-          "link": "https://www.mydaily.co.kr/page/view/2026080116233651051",
-          "press": "",
-          "date": "2026-08-01"
-        },
-        {
-          "title": "김연아, 인간 디올 변신...우아하고 사랑스럽고 다 했네",
-          "link": "http://www.joynews24.com/view/1991074",
-          "press": "",
-          "date": "2026-08-01"
-        },
-        {
-          "title": "‘고우림♥’ 김연아, 이래서 퀸연아‥명품보다 더 빛나는 아우라",
-          "link": "https://www.newsen.com/news_view.php?uid=202608012101372510",
-          "press": "",
-          "date": "2026-08-01"
-        },
-        {
-          "title": "김연아, ♥고우림 사랑꾼 될 수밖에..또 미모 리즈 찍은 ‘퀸연아’",
-          "link": "https://www.heraldmuse.com/article/10827819?ref=naver",
-          "press": "",
-          "date": "2026-08-01"
-        }
-      ],
-      "rank": 4
-    },
-    {
-      "keyword": "장동민",
-      "traffic": "100+",
-      "blogTotal": 66479,
-      "newsTotal": 135361,
-      "recentToday": 28,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "\"나 20조 벌 거예요\" 장동민이 이 말을 입에 달고 사는 진짜 이유",
-          "link": "https://blog.naver.com/nox03011/224336590527",
-          "blogger": "공또세상",
-          "date": "2026-07-05"
-        },
-        {
-          "title": "장동민 ㅡ 제이콥 신 님 페북글",
-          "link": "https://blog.naver.com/teleioi/224341064961",
-          "blogger": "teleioi님의 블로그",
-          "date": "2026-07-09"
-        },
-        {
-          "title": "\"지들이 일 안하고 무슨 취업이 안된대\"…장동민 지적에 2030...",
-          "link": "https://blog.naver.com/news_curator_j/224288514288",
-          "blogger": "핫 뉴스만 콕 집어요",
-          "date": "2026-05-17"
-        },
-        {
-          "title": "장동민 아파트 집 미사역 파라곤 입지 시세",
-          "link": "https://blog.naver.com/althoughiam/224357702076",
-          "blogger": "열정러 꾸미의 공부방",
-          "date": "2026-07-25"
-        },
-        {
-          "title": "끝까지 간다 독박투어 4회 홍인규 ‘렌터카 독박’에 장동민...",
-          "link": "https://blog.naver.com/news9kr/224329626982",
-          "blogger": "뉴스나인",
-          "date": "2026-06-28"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "전성기 두달 간 양상국에 “해 뜨고 지는 건 순식간” 유세윤 뼈있는 발...",
-          "link": "https://www.newsen.com/news_view.php?uid=202608012309236110",
-          "press": "",
-          "date": "2026-08-01"
-        },
-        {
-          "title": "양상국, 대선배 김준호에 버럭‥방해 공작에 화 못 참았다(독박투어)",
-          "link": "https://www.newsen.com/news_view.php?uid=202608020256016110",
-          "press": "",
-          "date": "2026-08-01"
-        },
-        {
-          "title": "무릎 부상 장동민, 피해 끼친 미안함에 눈물 “3년만 처음 봐” 김준호...",
-          "link": "https://www.newsen.com/news_view.php?uid=202608012309376110",
-          "press": "",
-          "date": "2026-08-01"
-        },
-        {
-          "title": "“유산 많이 줄게” 장동민, 붐 첫째 딸을 며느릿감으로 점찍었다 (최우...",
-          "link": "http://enews.imbc.com/News/RetrieveNewsInfo/513371",
-          "press": "",
-          "date": "2026-08-01"
-        },
-        {
-          "title": "‘독박투어’ 양상국 “좋은 예능 프로그램에 고정으로 들어가고파”",
-          "link": "http://enews.imbc.com/News/RetrieveNewsInfo/513355",
-          "press": "",
-          "date": "2026-08-01"
-        }
-      ],
-      "rank": 5
-    },
-    {
-      "keyword": "정경호",
-      "traffic": "100+",
-      "blogTotal": 87011,
-      "newsTotal": 116628,
-      "recentToday": 23,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "정경호 소녀시대 수영 결별 '14년 공개연애 끝낸 이유'",
-          "link": "https://blog.naver.com/gashwoon/224312118863",
-          "blogger": "개쉬운영어",
-          "date": "2026-06-10"
-        },
-        {
-          "title": "\"당연히 결혼할 줄 알았는데..\" 소녀시대 수영, 정경호 인스타...",
-          "link": "https://blog.naver.com/beautyfox11/224310823659",
-          "blogger": "꽃비의 방송 연예 블라블라",
-          "date": "2026-06-09"
-        },
-        {
-          "title": "정경호 수영 결별  무속인이 6개월 전 예측한 내용이 현실이 됐다",
-          "link": "https://blog.naver.com/5004yurim/224312471800",
-          "blogger": "유림여사 제4의 활동",
-          "date": "2026-06-11"
-        },
-        {
-          "title": "정경호 최수영 결별 이유는? 언팔과 14년 연애의 끝",
-          "link": "https://blog.naver.com/fine1177/224310839742",
-          "blogger": "가가무비의 영화픽",
-          "date": "2026-06-09"
-        },
-        {
-          "title": "소녀시대 수영 정경호 결별 14년 열애 마침표",
-          "link": "https://blog.naver.com/mucaldiaproc/224311412619",
-          "blogger": "이슈랭",
-          "date": "2026-06-10"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "효연, 정경호와 결별한 최수영 근황 걱정 “기력 없어 보여”(레벨업)",
-          "link": "https://www.newsen.com/news_view.php?uid=202608012027336110",
-          "press": "",
-          "date": "2026-08-01"
-        },
-        {
-          "title": "강원FC의 깊어지는 고민…시즌 첫 연패 떠안았다",
-          "link": "https://www.kado.net/news/articleView.html?idxno=2064250",
-          "press": "",
-          "date": "2026-08-01"
-        },
-        {
-          "title": "시즌 첫 연패, 강원 정경호 감독 “이길 수 있는 경기 변화 필요, 더 잘...",
-          "link": "https://www.sportsseoul.com/news/read/1626017?ref=naver",
-          "press": "",
-          "date": "2026-08-01"
-        },
-        {
-          "title": "강원FC, 부천에 0대3 완패⋯2연패 수렁",
-          "link": "https://www.kwnews.co.kr/article/20260801500307",
-          "press": "",
-          "date": "2026-08-01"
-        },
-        {
-          "title": "'머리 밀고 마지막 인사' 강원 송준석 입대 전 고별전... 정경호 감독 \"...",
-          "link": "https://www.starnewskorea.com/sports/2026/08/01/2026080113542829310",
-          "press": "",
-          "date": "2026-08-01"
-        }
-      ],
-      "rank": 6
+      "blogTotal": 0,
+      "newsTotal": 0,
+      "recentToday": 0,
+      "recentWeek": 0,
+      "topBlogs": [],
+      "topNews": [],
+      "error": "fetch failed",
+      "rank": 3
     },
     {
       "keyword": "이천수",
       "traffic": "2000+",
-      "blogTotal": 48251,
-      "newsTotal": 78324,
-      "recentToday": 13,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "이천수의 거침없는 발언, 프리킥을 차지 못한 진짜 이유",
-          "link": "https://blog.naver.com/tel0/224117568741",
-          "blogger": "스말골",
-          "date": "2025-12-21"
-        },
-        {
-          "title": "이천수 여자 과거 이름 바꾼 톱여배우 운명 고백 감동",
-          "link": "https://blog.naver.com/metamonx/224364900506",
-          "blogger": "잇슈보물창고",
-          "date": "2026-08-01"
-        },
-        {
-          "title": "축구협회 ‘고인물 5명’ 논란…이천수가 장급 실무진 퇴진을...",
-          "link": "https://blog.naver.com/winephk/224349726547",
-          "blogger": "박쿤의 스포츠로그",
-          "date": "2026-07-17"
-        },
-        {
-          "title": "2002년 4강 주역 이천수까지 나섰다, 홍명보를 향한 쓸개...",
-          "link": "https://blog.naver.com/dydtkemfaks/224331347665",
-          "blogger": "우주인",
-          "date": "2026-06-30"
-        },
-        {
-          "title": "이천수 정치자금법 위반 코인 연루 의혹 논란 총정리",
-          "link": "https://blog.naver.com/rlrlqkq2/224090839393",
-          "blogger": "소심한 Hermes의 세상은 요지경",
-          "date": "2025-11-28"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "\"왜 졌냐고 물으니 당황\" 이천수, 김진규 향한 청문회 질의에 '쓴소리'",
-          "link": "http://www.osen.co.kr/article/G1112850916",
-          "press": "",
-          "date": "2026-08-01"
-        },
-        {
-          "title": "이천수 돌발 주장 \"정몽규, '돌아 돌아 홍명보예요?'라고 반문했다는 거...",
-          "link": "https://www.xportsnews.com/article/2179186",
-          "press": "",
-          "date": "2026-08-01"
-        },
-        {
-          "title": "청문회 향한 이천수의 작심 발언! \"질문하는 사람과 대답하는 사람 꼬여...",
-          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=691672",
-          "press": "",
-          "date": "2026-08-01"
-        },
-        {
-          "title": "조은희 “감독 아닌 몸통 바꿔야…축협 실세 5명 끌어내려야” [현장영...",
-          "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000542761",
-          "press": "",
-          "date": "2026-07-31"
-        },
-        {
-          "title": "\"밖에서 쓴소리 말고 안에서 바꿔보라\"…홍명보, 이천수·김영광 직격?",
-          "link": "https://www.sidae.com/article/2026073116012865720",
-          "press": "",
-          "date": "2026-07-31"
-        }
-      ],
-      "rank": 7
+      "blogTotal": 0,
+      "newsTotal": 0,
+      "recentToday": 0,
+      "recentWeek": 0,
+      "topBlogs": [],
+      "topNews": [],
+      "error": "fetch failed",
+      "rank": 4
     },
     {
-      "keyword": "하비에르 아기 레",
-      "traffic": "2000+",
-      "blogTotal": 2434,
+      "keyword": "아리아나 그란데",
+      "traffic": "200+",
+      "blogTotal": 0,
       "newsTotal": 0,
-      "recentToday": 4,
-      "recentWeek": 29,
-      "topBlogs": [
-        {
-          "title": "좋은 출발 기대해” 멕시코 하비에르 아기레 감독의 노스텔지어",
-          "link": "https://blog.naver.com/fifapluskorea/224312728897",
-          "blogger": "네이버스포츠 공식 스토리텔러",
-          "date": "2026-06-11"
-        },
-        {
-          "title": "하비에르 아기레 감독, 선수 시절부터 2026년 현재까지 커리어...",
-          "link": "https://blog.naver.com/gere_/224365258283",
-          "blogger": "gere_님의 블로그",
-          "date": "2026-08-02"
-        },
-        {
-          "title": "[2026 북중미 월드컵 경기 분석] 하비에르 아기레 감독의...",
-          "link": "https://blog.naver.com/seongo_1572/224314315923",
-          "blogger": "축킹의 축구 전술 / 전략 분석",
-          "date": "2026-06-12"
-        },
-        {
-          "title": "'이강인 스승' 하비에르 아기레, 손흥민과도 궁합 좋을까?...",
-          "link": "https://blog.naver.com/daddycon2026/224350680461",
-          "blogger": "빠른 소식지",
-          "date": "2026-07-19"
-        },
-        {
-          "title": "유력 후보, 이강인 스승 하비에르 아기레 감독 급물살 탄 배경",
-          "link": "https://blog.naver.com/jikl7201/224342855630",
-          "blogger": "목련",
-          "date": "2026-07-10"
-        }
-      ],
+      "recentToday": 0,
+      "recentWeek": 0,
+      "topBlogs": [],
       "topNews": [],
-      "rank": 8
+      "error": "fetch failed",
+      "rank": 5
     },
     {
       "keyword": "일본인",
-      "traffic": "200+",
-      "blogTotal": 2592367,
-      "newsTotal": 576345,
+      "traffic": "500+",
+      "blogTotal": 0,
+      "newsTotal": 0,
       "recentToday": 0,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "[케이비자 비자 발급 성공사례 고객 인터뷰] 일본인 아내와...",
-          "link": "https://blog.naver.com/kvisaofficial/224361632977",
-          "blogger": "K-VISA_Official",
-          "date": "2026-07-29"
-        },
-        {
-          "title": "포항 여행지 추천 | 구룡포 일본인 가옥거리, 과메기 문화관",
-          "link": "https://blog.naver.com/biio-story/224294561928",
-          "blogger": "정 이야기",
-          "date": "2026-05-23"
-        },
-        {
-          "title": "포항 여행 코스 갈만한곳 구룡포 일본인가옥 거리.",
-          "link": "https://blog.naver.com/rivertour/224327579444",
-          "blogger": "밍크의 여행일기",
-          "date": "2026-06-26"
-        },
-        {
-          "title": "동백꽃 필 무렵  그 골목, 포항 구룡포 일본인 가옥거리에서...",
-          "link": "https://blog.naver.com/goodjcs/224341476649",
-          "blogger": "우아한 인생",
-          "date": "2026-07-11"
-        },
-        {
-          "title": "구룡포 일본인가옥거리 동백꽃필무렵 촬영지 근대문화역사거리...",
-          "link": "https://blog.naver.com/kwanwoo8181/224365009889",
-          "blogger": "과누의 역사기행",
-          "date": "2026-08-01"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "서장훈, 룰라 표절 사건 기사화 전 알았다 “동거하던 일본 지인 들려줘...",
-          "link": "https://www.newsen.com/news_view.php?uid=202608012058016110",
-          "press": "",
-          "date": "2026-08-01"
-        },
-        {
-          "title": "[오피셜] 분데스리가에 일본인만 14명...옌스와 뛴다! 묀헨글라트바흐,...",
-          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=691688",
-          "press": "",
-          "date": "2026-08-01"
-        },
-        {
-          "title": "이상민, 룰라 '천상유애' 표절 후일담…\"90만 장 회수 못 했다\" (아는형...",
-          "link": "https://www.xportsnews.com/article/2179204",
-          "press": "",
-          "date": "2026-08-01"
-        },
-        {
-          "title": "서장훈, 美 유학 시절 룰라 표절 직감 \"일본인이 똑같은 노래 들려줘\"",
-          "link": "https://www.mt.co.kr/entertainment/2026/08/02/2026080203094066472",
-          "press": "",
-          "date": "2026-08-01"
-        },
-        {
-          "title": "'韓 최고재능' 양민혁 날벼락! 첼시전 충격의 0분…일찌감치 경쟁 빨간...",
-          "link": "https://www.xportsnews.com/article/2179208",
-          "press": "",
-          "date": "2026-08-01"
-        }
-      ],
+      "recentWeek": 0,
+      "topBlogs": [],
+      "topNews": [],
+      "error": "fetch failed",
+      "rank": 6
+    },
+    {
+      "keyword": "박진만",
+      "traffic": "2000+",
+      "blogTotal": 0,
+      "newsTotal": 0,
+      "recentToday": 0,
+      "recentWeek": 0,
+      "topBlogs": [],
+      "topNews": [],
+      "error": "fetch failed",
+      "rank": 7
+    },
+    {
+      "keyword": "장동민",
+      "traffic": "100+",
+      "blogTotal": 0,
+      "newsTotal": 0,
+      "recentToday": 0,
+      "recentWeek": 0,
+      "topBlogs": [],
+      "topNews": [],
+      "error": "fetch failed",
+      "rank": 8
+    },
+    {
+      "keyword": "정경호",
+      "traffic": "200+",
+      "blogTotal": 0,
+      "newsTotal": 0,
+      "recentToday": 0,
+      "recentWeek": 0,
+      "topBlogs": [],
+      "topNews": [],
+      "error": "fetch failed",
       "rank": 9
     },
     {
-      "keyword": "latest iphone rumors",
+      "keyword": "김원형",
       "traffic": "200+",
-      "blogTotal": 651,
-      "newsTotal": 121,
+      "blogTotal": 0,
+      "newsTotal": 0,
       "recentToday": 0,
-      "recentWeek": 1,
-      "topBlogs": [
-        {
-          "title": "latest iphone rumors, 출시 연기설이 도는 충격적인 진짜...",
-          "link": "https://blog.naver.com/question_marks/224186909183",
-          "blogger": "세상 이거저거요거그거",
-          "date": "2026-02-18"
-        },
-        {
-          "title": "Jim Dalrymple on the Latest Verizon/iPhone Rumors",
-          "link": "https://daringfireball.net/linked/2010/07/01/dalrymple-verizon",
-          "blogger": "Daring Fireball",
-          "date": "1990-01-01"
-        },
-        {
-          "title": "색상  Latest iPhone 7 Rumors \"Limited Supply\" Fifth Color...",
-          "link": "https://blog.naver.com/youseok0/220806582926",
-          "blogger": "T H E · I M P R E S S I O N · I S S U E",
-          "date": "2016-09-06"
-        },
-        {
-          "title": "MacBook Ultra or M6 MacBook Pro: Based on The Latest Rumors",
-          "link": "https://blog.naver.com/amourdesanfransokio/224267114774",
-          "blogger": "bienvenue",
-          "date": "2026-04-27"
-        },
-        {
-          "title": "아이폰 폴드(iPhone Fold) DVT 시료 유출 | 갤럭시 Z 폴드8과...",
-          "link": "https://blog.naver.com/z4h1027/224362151586",
-          "blogger": "테크토니",
-          "date": "2026-07-29"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "How Pam Bondi’s Missteps on the Epstein Files Jeopardized Her Job",
-          "link": "https://www.nytimes.com/2026/04/01/us/politics/bondi-epstein-files-doj-trump.html?partner=naver",
-          "press": "",
-          "date": "2026-04-01"
-        },
-        {
-          "title": "Galaxy S26 hands-on: Samsung delivers on AI assistance, nearly polishes s...",
-          "link": "https://koreajoongangdaily.joins.com/news/2026-02-26/business/industry/With-Galaxy-S26-Samsung-delivers-on-AI-assistance-nearly-polishes-screen-privacy/2532585",
-          "press": "",
-          "date": "2026-02-26"
-        },
-        {
-          "title": "Samsung's next fold: Three ways",
-          "link": "https://www.koreaherald.com/article/10602059?ref=naver",
-          "press": "",
-          "date": "2025-10-27"
-        },
-        {
-          "title": "Foldables finally breakthrough—and Korean suppliers are cashing in",
-          "link": "https://www.chosun.com/english/industry-en/2025/08/05/ODGGWB73AVDRVC6EEE67SHJCWI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-          "press": "",
-          "date": "2025-08-05"
-        },
-        {
-          "title": "Huawei's 5nm Chip Actually 7nm, PhoneArena Reports",
-          "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=245257",
-          "press": "",
-          "date": "2025-06-23"
-        }
-      ],
+      "recentWeek": 0,
+      "topBlogs": [],
+      "topNews": [],
+      "error": "fetch failed",
       "rank": 10
     }
   ]
