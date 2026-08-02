@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-02T17:06:20.465Z",
+  "updatedAt": "2026-08-02T18:28:43.350Z",
   "source": "live",
   "keywords": [
     {
       "keyword": "서주원",
       "traffic": "100+",
-      "blogTotal": 9501,
-      "newsTotal": 9991,
-      "recentToday": 93,
+      "blogTotal": 9504,
+      "newsTotal": 9992,
+      "recentToday": 90,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -43,6 +43,12 @@
       ],
       "topNews": [
         {
+          "title": "\"잘생긴 한의사 있다고\"…아옳이, ♥김형배 먼저 찾아갔다→한강뷰가 맺...",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16153122",
+          "press": "",
+          "date": "2026-08-02"
+        },
+        {
           "title": "아옳이, 이혼 후 첫 열애 인정..♥김형배 얼굴→러브스토리 공개 \"5분 거...",
           "link": "https://www.starnewskorea.com/star/2026/08/03/2026080223483483624",
           "press": "",
@@ -65,12 +71,6 @@
           "link": "https://www.sportschosun.com/entertainment/2026-08-02/202608020100010750000631",
           "press": "",
           "date": "2026-08-02"
-        },
-        {
-          "title": "'돌싱' 아옳이, 한의사 ♥김형배와 연애…\"다이어트 상담 후 DM 받았다\"",
-          "link": "https://www.tenasia.co.kr/article/2026080203264",
-          "press": "",
-          "date": "2026-08-02"
         }
       ],
       "rank": 1
@@ -80,7 +80,7 @@
       "traffic": "5000+",
       "blogTotal": 10579,
       "newsTotal": 9142,
-      "recentToday": 91,
+      "recentToday": 90,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -151,7 +151,7 @@
     {
       "keyword": "앤드류 가필드",
       "traffic": "200+",
-      "blogTotal": 29713,
+      "blogTotal": 29715,
       "newsTotal": 5621,
       "recentToday": 88,
       "recentWeek": 100,
@@ -225,7 +225,7 @@
       "keyword": "잠실대교",
       "traffic": "200+",
       "blogTotal": 123322,
-      "newsTotal": 28887,
+      "newsTotal": 28888,
       "recentToday": 87,
       "recentWeek": 100,
       "topBlogs": [
@@ -242,6 +242,12 @@
           "date": "2026-08-02"
         },
         {
+          "title": "잠실대교 수문 사고, 한강 수영이 위험한 이유",
+          "link": "https://blog.naver.com/kongmuda/224366149625",
+          "blogger": "Kongmuda - 이슈, 시사, 상식",
+          "date": "2026-08-03"
+        },
+        {
           "title": "한강 잠실대교서 수영하던 남성 심정지 사고!",
           "link": "https://blog.naver.com/chkkim22/224366011451",
           "blogger": "IT와 경제 이야기",
@@ -252,15 +258,15 @@
           "link": "https://blog.naver.com/j3837/224365929732",
           "blogger": "최고의 선택.",
           "date": "2026-08-02"
-        },
-        {
-          "title": "수영하다 수문 속으로... 잠실대교 충격 사고, 도대체 무슨 일?",
-          "link": "https://blog.naver.com/tikka/224365979199",
-          "blogger": "불가능한 꿈을 꿔라!!",
-          "date": "2026-08-02"
         }
       ],
       "topNews": [
+        {
+          "title": "한강 수영하던 30대 심정지...\"수중보에 빨려들어가\"",
+          "link": "https://www.ytn.co.kr/_ln/0103_202608030220223289",
+          "press": "",
+          "date": "2026-08-02"
+        },
         {
           "title": "한강서 수영하던 30대 심정지...\"수중보에 빨려 들어가\"",
           "link": "https://www.ytn.co.kr/_ln/0103_202608022328307169",
@@ -284,22 +290,16 @@
           "link": "http://weekly.chosun.com/news/articleView.html?idxno=53976",
           "press": "",
           "date": "2026-08-02"
-        },
-        {
-          "title": "잠실대교 인근서 수영하던 30대, 수문에 빨려들어가… 심정지 이송",
-          "link": "https://www.segye.com/newsView/20260802514460?OutUrl=naver",
-          "press": "",
-          "date": "2026-08-02"
         }
       ],
       "rank": 4
     },
     {
       "keyword": "여객선",
-      "traffic": "500+",
-      "blogTotal": 463449,
+      "traffic": "1000+",
+      "blogTotal": 463450,
       "newsTotal": 351447,
-      "recentToday": 77,
+      "recentToday": 70,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -368,98 +368,13 @@
       "rank": 5
     },
     {
-      "keyword": "달 탐사",
-      "traffic": "500+",
-      "blogTotal": 132087,
-      "newsTotal": 85167,
-      "recentToday": 57,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "아르테미스 2호 귀환 완료, 달 탐사 54년만의 귀환, 귀환 과정...",
-          "link": "https://blog.naver.com/buildshop/224248769744",
-          "blogger": "메이커박스 3D프린팅 & 디자인 제작소",
-          "date": "2026-04-11"
-        },
-        {
-          "title": "[상식이 ~착] 민간 기업이 만드는 달 탐사의 미래",
-          "link": "https://blog.naver.com/ktl_blog/223760472756",
-          "blogger": "한국산업기술시험원",
-          "date": "2025-02-14"
-        },
-        {
-          "title": "미국 행정명령이 만든 달 탐사 및 우주 인프라 경쟁: 인튜이티브...",
-          "link": "https://blog.naver.com/shakey7/224118277903",
-          "blogger": "4차산업 다이어리 :: 기업 및 산업에 관한 글",
-          "date": "2025-12-22"
-        },
-        {
-          "title": "AP위성 주가, 지금 사도 될까? 달탐사·군정찰 수혜 총정리",
-          "link": "https://blog.naver.com/thebestjune2/224280718453",
-          "blogger": "금쪽보험상담소 카니아빠",
-          "date": "2026-05-10"
-        },
-        {
-          "title": "아르테미스 2호 발사 성공, 54년 만의 유인 달 탐사가 왜...",
-          "link": "https://blog.naver.com/news33net/224237872968",
-          "blogger": "창업일보",
-          "date": "2026-04-02"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "우주 떠돌던 스페이스X 로켓 잔해, 8700㎞ 속도로 달에 충돌 예정",
-          "link": "https://www.hani.co.kr/arti/international/international_general/1271067.html",
-          "press": "",
-          "date": "2026-08-02"
-        },
-        {
-          "title": "“우주 쓰레기가 달 덮친다” 스페이스X 로켓 충돌 예고",
-          "link": "https://www.seoul.co.kr/news/international/2026/08/02/20260802500068?wlog_tag3=naver",
-          "press": "",
-          "date": "2026-08-02"
-        },
-        {
-          "title": "우주 떠돌던 스페이스X 로켓 잔해, 5일 달에 충돌한다",
-          "link": "https://www.ddaily.co.kr/page/view/2026080216522033451",
-          "press": "",
-          "date": "2026-08-02"
-        },
-        {
-          "title": "‘시속 8700㎞’로 달과 충돌하는 머스크 로켓, 韓 궤도선이 관찰…지구...",
-          "link": "https://nownews.seoul.co.kr/news/newsView.php?id=20260802601010&wlog_tag3=naver",
-          "press": "",
-          "date": "2026-08-02"
-        },
-        {
-          "title": "폐기된 스페이스X 로켓 잔해, 시속 8700km로 달에 충돌한다",
-          "link": "https://www.etnews.com/20260802000073",
-          "press": "",
-          "date": "2026-08-02"
-        }
-      ],
-      "rank": 6
-    },
-    {
       "keyword": "lck",
       "traffic": "1000+",
-      "blogTotal": 101187,
+      "blogTotal": 101188,
       "newsTotal": 142903,
       "recentToday": 56,
       "recentWeek": 100,
       "topBlogs": [
-        {
-          "title": "[LCK] 농심 레드포스, BNK 피어엑스 꺾고 3라운드 2연승!",
-          "link": "https://blog.naver.com/thenam77/224365049991",
-          "blogger": "Miracledoo의 e스포츠 이야기",
-          "date": "2026-08-01"
-        },
-        {
-          "title": "2026LCK::브레나 BNK브랜드데이 다녀옴 BFX화이팅♡",
-          "link": "https://blog.naver.com/helloyowon/224366023147",
-          "blogger": "요워니는 요원요원해",
-          "date": "2026-08-02"
-        },
         {
           "title": "LCK 롤챔스 직관 티켓팅 방법, 가격은 얼마?",
           "link": "https://blog.naver.com/rlarjsdn5589/224360721481",
@@ -477,6 +392,18 @@
           "link": "https://blog.naver.com/wndhkeodurtk/224356779995",
           "blogger": "네이버 게임블로거 쏠킴",
           "date": "2026-07-26"
+        },
+        {
+          "title": "msi 예매 방법 road to 로드투 일정 lck 대진표 2026",
+          "link": "https://blog.naver.com/blogbaksa/224293173510",
+          "blogger": "아파트,상가,빌라 분양정보",
+          "date": "2026-05-22"
+        },
+        {
+          "title": "2026 msi 티켓 예매 방법 롤 lck road to 선발전 티켓팅...",
+          "link": "https://blog.naver.com/clearclear80/224298107928",
+          "blogger": "별밤이의 추억놀이",
+          "date": "2026-05-27"
         }
       ],
       "topNews": [
@@ -511,7 +438,7 @@
           "date": "2026-08-02"
         }
       ],
-      "rank": 7
+      "rank": 6
     },
     {
       "keyword": "마이클세일러",
@@ -584,15 +511,15 @@
           "date": "2026-08-01"
         }
       ],
-      "rank": 8
+      "rank": 7
     },
     {
       "keyword": "히샬리송",
       "traffic": "500+",
-      "blogTotal": 23745,
-      "newsTotal": 32664,
+      "blogTotal": 23746,
+      "newsTotal": 32665,
       "recentToday": 13,
-      "recentWeek": 39,
+      "recentWeek": 40,
       "topBlogs": [
         {
           "title": "3개월 공부 끝에 영국 시민권 따낸 히샬리송 손흥민 동료의 새...",
@@ -627,6 +554,12 @@
       ],
       "topNews": [
         {
+          "title": "[오피셜] 수비수에 밀려 벤치 '토트넘 강등 위기' 주범…'30경기 1골' 최...",
+          "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553426002",
+          "press": "",
+          "date": "2026-08-02"
+        },
+        {
           "title": "토트넘, 마침내 손흥민 빈자리 메울 '월드클래스' 정조준!…'41골 10도움...",
           "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553425953",
           "press": "",
@@ -649,15 +582,9 @@
           "link": "https://www.sportschosun.com/football/2026-08-02/202608020100008940000499",
           "press": "",
           "date": "2026-08-02"
-        },
-        {
-          "title": "데 제르비도 모르는 히샬리송 속내, 이번에는 토트넘 정말 떠나나…첼시...",
-          "link": "https://www.sportschosun.com/football/2026-08-02/202608020100008710000485",
-          "press": "",
-          "date": "2026-08-02"
         }
       ],
-      "rank": 9
+      "rank": 8
     },
     {
       "keyword": "박기량",
@@ -712,14 +639,14 @@
           "date": "2026-08-02"
         },
         {
-          "title": "박기량 치어리더 ‘가녀린 각선미'[엑's HD포토]",
-          "link": "https://www.xportsnews.com/article/2179290",
+          "title": "박기량 치어리더 ‘뜨거운 날씨에도 리허설’[엑's HD포토]",
+          "link": "https://www.xportsnews.com/article/2179293",
           "press": "",
           "date": "2026-08-02"
         },
         {
-          "title": "박기량 치어리더 ‘뜨거운 날씨에도 리허설’[엑's HD포토]",
-          "link": "https://www.xportsnews.com/article/2179293",
+          "title": "박기량 치어리더 ‘가녀린 각선미'[엑's HD포토]",
+          "link": "https://www.xportsnews.com/article/2179290",
           "press": "",
           "date": "2026-08-02"
         },
@@ -730,6 +657,18 @@
           "date": "2026-08-02"
         }
       ],
+      "rank": 9
+    },
+    {
+      "keyword": "달 탐사",
+      "traffic": "500+",
+      "blogTotal": 0,
+      "newsTotal": 0,
+      "recentToday": 0,
+      "recentWeek": 0,
+      "topBlogs": [],
+      "topNews": [],
+      "error": "HTTP 429 https://openapi.naver.com/v1/search/blog.json?query=%EB%8B%AC+%ED%83%90%EC%82%AC&display=5&sort=sim",
       "rank": 10
     }
   ]
