@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-03T16:00:58.361Z",
+  "updatedAt": "2026-08-03T18:15:52.822Z",
   "source": "live",
   "keywords": [
     {
       "keyword": "lg이노텍",
       "traffic": "200+",
-      "blogTotal": 209165,
+      "blogTotal": 209168,
       "newsTotal": 160968,
-      "recentToday": 96,
+      "recentToday": 93,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -77,10 +77,10 @@
     },
     {
       "keyword": "대피소",
-      "traffic": "200+",
-      "blogTotal": 374758,
-      "newsTotal": 151325,
-      "recentToday": 95,
+      "traffic": "500+",
+      "blogTotal": 374761,
+      "newsTotal": 151326,
+      "recentToday": 88,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -116,6 +116,12 @@
       ],
       "topNews": [
         {
+          "title": "[한국은 지금] 서울 첫 '폭염중대경보'…'극한 폭염'에 온열질환자 속출",
+          "link": "https://www.voakorea.com/a/korea-now-08-03-26/8182103.html",
+          "press": "",
+          "date": "2026-08-03"
+        },
+        {
           "title": "온열질환자 185명…서울, '폭염중대경보' 첫 발령에 비상",
           "link": "http://www.kdfnews.com/news/articleView.html?idxno=186039",
           "press": "",
@@ -138,12 +144,6 @@
           "link": "http://www.ttlnews.com/news/articleView.html?idxno=3131209",
           "press": "",
           "date": "2026-08-03"
-        },
-        {
-          "title": "서울 첫 폭염중대경보 임박… 온열질환자 하루 18명",
-          "link": "https://www.newscj.com/news/articleView.html?idxno=3422214",
-          "press": "",
-          "date": "2026-08-03"
         }
       ],
       "rank": 2
@@ -151,9 +151,9 @@
     {
       "keyword": "반포자이",
       "traffic": "500+",
-      "blogTotal": 134611,
+      "blogTotal": 134626,
       "newsTotal": 33741,
-      "recentToday": 90,
+      "recentToday": 73,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -224,8 +224,8 @@
     {
       "keyword": "김용빈",
       "traffic": "100+",
-      "blogTotal": 31159,
-      "newsTotal": 36234,
+      "blogTotal": 31161,
+      "newsTotal": 36235,
       "recentToday": 62,
       "recentWeek": 100,
       "topBlogs": [
@@ -262,14 +262,20 @@
       ],
       "topNews": [
         {
-          "title": "'가요무대' 여름 스페셜, 3일 라인업 아이유·박보검 등 출연",
-          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3654671",
+          "title": "\"아티스트의 행사 일정과 중복\"…김용빈 첫 단독 콘서트 '세레나데', 예...",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16154010",
           "press": "",
           "date": "2026-08-03"
         },
         {
           "title": "임영웅 1위·이찬원 2위·황정민 3위…임수향 급등 (MSN 좋아요·열독률...",
           "link": "https://www.topstarnews.net/news/articleView.html?idxno=16153927",
+          "press": "",
+          "date": "2026-08-03"
+        },
+        {
+          "title": "'가요무대' 여름 스페셜, 3일 라인업 아이유·박보검 등 출연",
+          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3654671",
           "press": "",
           "date": "2026-08-03"
         },
@@ -284,12 +290,6 @@
           "link": "https://www.polinews.co.kr/news/articleView.html?idxno=739004",
           "press": "",
           "date": "2026-08-03"
-        },
-        {
-          "title": "이찬원·임영웅·황정민 TOP3, 공효진 149계단 상승 (기사열독순위)",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16153759",
-          "press": "",
-          "date": "2026-08-03"
         }
       ],
       "rank": 4
@@ -297,9 +297,9 @@
     {
       "keyword": "내 남은 연애",
       "traffic": "100+",
-      "blogTotal": 293915,
-      "newsTotal": 18281,
-      "recentToday": 61,
+      "blogTotal": 293931,
+      "newsTotal": 18282,
+      "recentToday": 32,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -309,31 +309,37 @@
           "date": "2026-08-03"
         },
         {
-          "title": "‘내 남은 연애’ 투병 일기 공개, 정용화·최예나가 건넨 응원",
-          "link": "https://blog.naver.com/newspdc/224365677549",
-          "blogger": "뉴스피디",
-          "date": "2026-08-02"
+          "title": "내 남은 연애 출연진 전원... 김선호 혼자 살아남았다 (연애예...",
+          "link": "https://blog.naver.com/euene1111/224367256095",
+          "blogger": "보는 사람",
+          "date": "2026-08-04"
         },
         {
-          "title": "신들린 연애 PD가 또 일냈다... 청춘들의 '내 남은 연애...",
-          "link": "https://blog.naver.com/yel_vely/224367029907",
-          "blogger": "옐블리 콘텐츠노트",
-          "date": "2026-08-03"
+          "title": "암환자가 울면서 본 \"내 남은 연애\" 출연자 소개 병명 공개",
+          "link": "https://blog.naver.com/coffeeholic9077/224367286157",
+          "blogger": "coffeeholic",
+          "date": "2026-08-04"
         },
         {
-          "title": "불치병' 김선호 정예지 시한부 연프 '내 남은 연애' 잔인한가",
-          "link": "https://blog.naver.com/above_cloud/224366756878",
-          "blogger": "과몰입 공간",
-          "date": "2026-08-03"
+          "title": "'내 남은 연애' 최예나가 아팠던 어린 시절 \"다 내가 잘못한 것...",
+          "link": "https://blog.naver.com/j_world90/224367254462",
+          "blogger": "밴쿠버홀릭",
+          "date": "2026-08-04"
         },
         {
-          "title": "내 남은 연애 첫방 투병 고백, 청춘 로맨스가 던진 새 출발",
-          "link": "https://blog.naver.com/postadclous/224365615716",
-          "blogger": "A trace of thought",
-          "date": "2026-08-03"
+          "title": "내 남은 연애 남자 출연자... 현재 투병 근황, 서로빈 (연애예능)",
+          "link": "https://blog.naver.com/chummilmil99/224367252747",
+          "blogger": "Te Quiero",
+          "date": "2026-08-04"
         }
       ],
       "topNews": [
+        {
+          "title": "[스브스夜] '내 남은 연애' 김선호, \"어떻게 이런 우연이···진짜 영화...",
+          "link": "https://ent.sbs.co.kr/news/article.do?article_id=E10010320071&plink=ORI&cooper=NAVER",
+          "press": "",
+          "date": "2026-08-03"
+        },
         {
           "title": "최예나, 소아암 림프종 투병 고백...\"내 잘못 같았다\" (내 남은 연애)",
           "link": "https://www.xportsnews.com/article/2179741",
@@ -357,19 +363,13 @@
           "link": "https://www.xportsnews.com/article/2179740",
           "press": "",
           "date": "2026-08-03"
-        },
-        {
-          "title": "김선호, 정예지 첫 만남에 가슴 부여잡고 심쿵 “귀여워” 최예나 감탄...",
-          "link": "https://www.newsen.com/news_view.php?uid=202608040001211710",
-          "press": "",
-          "date": "2026-08-03"
         }
       ],
       "rank": 5
     },
     {
       "keyword": "화산분화",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "blogTotal": 46493,
       "newsTotal": 20929,
       "recentToday": 20,
@@ -514,85 +514,12 @@
       "rank": 7
     },
     {
-      "keyword": "낚시",
-      "traffic": "500+",
-      "blogTotal": 5064697,
-      "newsTotal": 523224,
-      "recentToday": 3,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "부산 바다 좌대 낚시체험, 동삼어촌체험휴양마을 게임과...",
-          "link": "https://blog.naver.com/xenia5779/224365440571",
-          "blogger": "한국 대만 부부가 함께 채워가는 일상",
-          "date": "2026-08-02"
-        },
-        {
-          "title": "20260717 첫 통영 한치낚시 버스출조 조행기",
-          "link": "https://blog.naver.com/model1031/224355304285",
-          "blogger": "낚시하는 집수리반장",
-          "date": "2026-07-23"
-        },
-        {
-          "title": "초보도 가능한 인천 배낚시 선상에서 즐기는 바다낚시...",
-          "link": "https://blog.naver.com/dosz/224324576959",
-          "blogger": "이바구캠핑",
-          "date": "2026-06-23"
-        },
-        {
-          "title": "말레이시아 코타키나발루 여행 스노쿨링 수상가옥 낚시 투어",
-          "link": "https://blog.naver.com/hjk8427_/224363282271",
-          "blogger": "엘리의 영국라이프",
-          "date": "2026-07-30"
-        },
-        {
-          "title": "인천바다낚시 인천제일바다낚시 우럭광어다잡아 체험낚시 후기",
-          "link": "https://blog.naver.com/mits37/224360948606",
-          "blogger": "꾸준히 그리고 기다림.",
-          "date": "2026-07-28"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "[삶의 향기] 꽃말이 피어나는 여백",
-          "link": "https://www.joongang.co.kr/article/25450546",
-          "press": "",
-          "date": "2026-08-03"
-        },
-        {
-          "title": "[오늘의 운세] 8월 4일",
-          "link": "https://www.joongang.co.kr/article/25450528",
-          "press": "",
-          "date": "2026-08-03"
-        },
-        {
-          "title": "한채아, 시댁으로 여름휴가...시어머니표 음식에 \"고흥 오면 살찌는 이...",
-          "link": "https://www.tvreport.co.kr/breaking/article/1066086/",
-          "press": "",
-          "date": "2026-08-03"
-        },
-        {
-          "title": "'1900억 연봉' 추신수, 美 5500평 대저택 클래스…\"관리비 月1000만원\" ('...",
-          "link": "https://www.tenasia.co.kr/article/2026080327314",
-          "press": "",
-          "date": "2026-08-03"
-        },
-        {
-          "title": "방 7개·화장실 12개…추신수, 한 달 관리비 '1000만 원' 럭셔리 집 내부...",
-          "link": "https://mhnse.com/news/articleView.html?idxno=1477708",
-          "press": "",
-          "date": "2026-08-03"
-        }
-      ],
-      "rank": 8
-    },
-    {
       "keyword": "인터 마이애미 cf",
       "traffic": "200+",
-      "blogTotal": 4357,
+      "blogTotal": 4358,
       "newsTotal": 1562,
       "recentToday": 2,
-      "recentWeek": 40,
+      "recentWeek": 41,
       "topBlogs": [
         {
           "title": "[공홈] 인터 마이애미 CF, UEFA 챔피언스 리그 5회 우승 경력의...",
@@ -657,45 +584,118 @@
           "date": "2026-07-30"
         }
       ],
+      "rank": 8
+    },
+    {
+      "keyword": "제이든 산초",
+      "traffic": "200+",
+      "blogTotal": 10559,
+      "newsTotal": 17239,
+      "recentToday": 1,
+      "recentWeek": 8,
+      "topBlogs": [
+        {
+          "title": "7300만 파운드의 기대와 계약 만료 방출의 결말…제이든 산초...",
+          "link": "https://blog.naver.com/harrykim9830/224312202049",
+          "blogger": "경기뒤의생각님의 블로그",
+          "date": "2026-06-10"
+        },
+        {
+          "title": "제이든 산초, 맨체스터 유나이티드 역사상 최악의 영입일까?",
+          "link": "https://blog.naver.com/nomessi/224312249081",
+          "blogger": "노희동의 축구이야기",
+          "date": "2026-06-10"
+        },
+        {
+          "title": "맨유, 제이든 산초에게 최후통첩 전달 도르트문트 가나?",
+          "link": "https://blog.naver.com/ssuggest1/224252605381",
+          "blogger": "겜스토리의 게임연구소",
+          "date": "2026-04-15"
+        },
+        {
+          "title": "첼시, 제이든 산초 버려야 합니다 (맨유 시절 짜증나는 괴짜로...",
+          "link": "https://blog.naver.com/gangtefootball/223758048744",
+          "blogger": "강테 풋볼",
+          "date": "2025-02-13"
+        },
+        {
+          "title": "맨유의 1400억 투자, '결실 없는 방출'로 끝난 제이든 산초...",
+          "link": "https://blog.naver.com/sunhoo272/224313025570",
+          "blogger": "BBC 미디어센터",
+          "date": "2026-06-11"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "'1400억의 사나이' 산초 끝없는 추락!…英 10부리그서 홀로 훈련→구단...",
+          "link": "https://www.xportsnews.com/article/2179748",
+          "press": "",
+          "date": "2026-08-03"
+        },
+        {
+          "title": "한때 잉글랜드 최고 재능, 이렇게까지 몰락할 수가...맨유와 결별→'10부...",
+          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=832633",
+          "press": "",
+          "date": "2026-08-03"
+        },
+        {
+          "title": "'英 국대 출신' 산초가 잉글랜드 10부리그 팀에?...\"분명히 말하자면 테...",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=691795",
+          "press": "",
+          "date": "2026-08-03"
+        },
+        {
+          "title": "새 팀 못 찾은 산초, 잉글랜드 10부 훈련장에서 포착… 난데없는 이적설...",
+          "link": "https://www.besteleven.com/news/articleView.html?idxno=310730",
+          "press": "",
+          "date": "2026-08-03"
+        },
+        {
+          "title": "첼시 떠나자마자 \"다시 축구 즐겨 행복\"… '금쪽이' 가르나초, 아스톤 빌...",
+          "link": "https://www.besteleven.com/news/articleView.html?idxno=310728",
+          "press": "",
+          "date": "2026-08-03"
+        }
+      ],
       "rank": 9
     },
     {
-      "keyword": "indonesia đấu với việt nam",
-      "traffic": "2000+",
-      "blogTotal": 634,
+      "keyword": "klasemen timnas indonesia vs tim nasional sepak bola vietnam",
+      "traffic": "100+",
+      "blogTotal": 11,
       "newsTotal": 0,
       "recentToday": 0,
-      "recentWeek": 2,
+      "recentWeek": 0,
       "topBlogs": [
         {
-          "title": "2026 U-23 아시안컵: u-23 việt nam đấu với u-23 trung...",
-          "link": "https://blog.naver.com/silverperro/224154171189",
-          "blogger": "실버페로 생활정보",
-          "date": "2026-01-21"
+          "title": "[아시아] 신태용 “선수에 돈 주고 귀화? 가짜뉴스!”",
+          "link": "https://blog.naver.com/likethewind/223657149505",
+          "blogger": "Bleu",
+          "date": "2024-11-12"
         },
         {
-          "title": "Nguyễn Hoàng Yến Nhi - thiên tài bi-a Việt Nam...",
-          "link": "https://blog.naver.com/rlatkghd34/224355518782",
-          "blogger": "현장형 생존노트",
-          "date": "2026-07-23"
+          "title": "인도네시아 주간 이슈 (2026년 3월 첫째 주)",
+          "link": "https://blog.naver.com/dongsunkko/224206510671",
+          "blogger": "beautician의 인도네시아 이야기",
+          "date": "2026-03-06"
         },
         {
-          "title": "tuyển Việt Nam gặp Indonesia: Minh Vương trở lại",
-          "link": "https://blog.naver.com/sunshine-shop/222596121393",
-          "blogger": "선샤인샵",
-          "date": "2021-12-16"
+          "title": "인도네시아 주간 이슈 (2025년 10월 넷째 주)",
+          "link": "https://blog.naver.com/dongsunkko/224051773631",
+          "blogger": "beautician의 인도네시아 이야기",
+          "date": "2025-10-24"
         },
         {
-          "title": "tuyển Việt Nam베트남 팀의 강한 수비는 최강의...",
-          "link": "https://blog.naver.com/kickofff/221406178475",
-          "blogger": "김성주",
-          "date": "2018-11-26"
+          "title": "정관장 메가와티 현대건설 위파위 제외한 V리그 외국인...",
+          "link": "https://blog.naver.com/neo2538/223546491996",
+          "blogger": "NEO 스포츠",
+          "date": "2024-08-14"
         },
         {
-          "title": "Việt Nam đối đầu Indonesia ở trận ra quân...",
-          "link": "https://blog.naver.com/sangkwan7090/221312527731",
-          "blogger": "♠ 평생 두고두고 읽어도 너무 좋은 글 ♠",
-          "date": "2018-07-04"
+          "title": "인도네시아 체육위원회 위원장 면담",
+          "link": "https://blog.naver.com/pabae_jkt/222695444257",
+          "blogger": "꿈은 세계로 가슴은 조국으로",
+          "date": "2022-04-08"
         }
       ],
       "topNews": [],
