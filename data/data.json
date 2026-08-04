@@ -1,159 +1,13 @@
 {
-  "updatedAt": "2026-08-04T18:11:13.262Z",
+  "updatedAt": "2026-08-04T20:08:17.051Z",
   "source": "live",
   "keywords": [
     {
-      "keyword": "이투데이",
-      "traffic": "200+",
-      "blogTotal": 104974,
-      "newsTotal": 1840640,
-      "recentToday": 93,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "이투데이 | “공급 부족에 3~4년 뒤 집값 불안”…민간임대...",
-          "link": "https://blog.naver.com/kamp_36524/224361682179",
-          "blogger": "한국자산관리원",
-          "date": "2026-07-29"
-        },
-        {
-          "title": "11월 서울 마라톤 션 스타마라톤 이투데이 스타 기부런 신청 일정",
-          "link": "https://blog.naver.com/chldlwjd94/224037160912",
-          "blogger": "일상의 끄적임의 힘",
-          "date": "2025-10-10"
-        },
-        {
-          "title": "채용 안내 | 이투데이 20기 수습기자 모집 (~8/6)",
-          "link": "https://blog.naver.com/etoday12/224359015972",
-          "blogger": "이투데이 공식블로그",
-          "date": "2026-07-27"
-        },
-        {
-          "title": "[이투데이 행사 서포터즈] 한국 취업 고민 끝! 유학생 내...",
-          "link": "https://blog.naver.com/rlawotls17/224359559307",
-          "blogger": "늘푸른",
-          "date": "2026-07-27"
-        },
-        {
-          "title": "[이투데이] [이법저법] 아이를 차로 학교에 데려다 주는데...",
-          "link": "https://blog.naver.com/lawfirm_one/224348568525",
-          "blogger": "법무법인(유) 원 공식 블로그",
-          "date": "2026-07-16"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "금융위, ‘한국 증시 투자 부적격’ 블룸버그에 정면 반박…“근거 불분...",
-          "link": "https://www.etoday.co.kr/news/view/2611022",
-          "press": "",
-          "date": "2026-08-04"
-        },
-        {
-          "title": "베선트 “엔화 안정은 아시아 전체 문제…원화 과도한 변동성”",
-          "link": "https://www.etoday.co.kr/news/view/2611020",
-          "press": "",
-          "date": "2026-08-04"
-        },
-        {
-          "title": "서울 첫 폭염중대경보…온열질환자 하루 23명 ‘올여름 최다’",
-          "link": "https://www.etoday.co.kr/news/view/2611019",
-          "press": "",
-          "date": "2026-08-04"
-        },
-        {
-          "title": "변동성 커진 증시⋯거래소, 파생상품 증거금률 줄줄이 인상",
-          "link": "https://www.etoday.co.kr/news/view/2611018",
-          "press": "",
-          "date": "2026-08-04"
-        },
-        {
-          "title": "與전대 과열에 선관위 심판대로…‘투표 가이드·현수막’ 결론",
-          "link": "https://www.etoday.co.kr/news/view/2611017",
-          "press": "",
-          "date": "2026-08-04"
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "keyword": "토비 맥과이어",
-      "traffic": "100+",
-      "blogTotal": 24347,
-      "newsTotal": 3040,
-      "recentToday": 91,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "스파이더맨 순서 총정리, 토비 맥과이어부터 브랜드 뉴 데이까지",
-          "link": "https://blog.naver.com/stressed-desserts-/224367003312",
-          "blogger": "WellnessPlan",
-          "date": "2026-08-03"
-        },
-        {
-          "title": "영화 <스파이더맨> 줄거리 결말 정보 (토비 맥과이어, 윌렘 대포)...",
-          "link": "https://blog.naver.com/bamhobak/224272096889",
-          "blogger": "name is 밤호박",
-          "date": "2026-05-02"
-        },
-        {
-          "title": "토비 맥과이어와 전 아내 제니퍼 메이어, 이혼 후에도 특별한...",
-          "link": "https://blog.naver.com/ny-keith/224293863234",
-          "blogger": "행복 메신저",
-          "date": "2026-05-25"
-        },
-        {
-          "title": "뉴욕 스파이더맨 성지순례️ 조스피자 ft.토비맥과이어",
-          "link": "https://blog.naver.com/ciao_camelia/224349045149",
-          "blogger": "스위스 박사유학과 갓생",
-          "date": "2026-07-18"
-        },
-        {
-          "title": "스파이더맨 시리즈 순서 완벽 정리 : 토비 맥과이어, 앤드류...",
-          "link": "https://blog.naver.com/orgarnic2026/224365979090",
-          "blogger": "오가닉 님의 블로그",
-          "date": "2026-08-02"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "“절대 열애 금지”‥‘스파이더맨’ 프로듀서 경고했지만‥톰 홀랜드...",
-          "link": "https://www.newsen.com/news_view.php?uid=202608041508226710",
-          "press": "",
-          "date": "2026-08-04"
-        },
-        {
-          "title": "역대 3대 ‘스파이더맨’의 완성...토비X앤드류와 달랐던 ‘톰스파’ [...",
-          "link": "https://isplus.com/article/view/isp202608040113",
-          "press": "",
-          "date": "2026-08-04"
-        },
-        {
-          "title": "스파이더맨의 축복-피터 파커와 MJ, 현실 커플로",
-          "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=85566",
-          "press": "",
-          "date": "2026-08-04"
-        },
-        {
-          "title": "토비 맥과이어 안녕! 톰 홀랜드 '스파이더맨' 시대..개봉 첫주 1조원 수...",
-          "link": "http://www.osen.co.kr/article/G1112851871",
-          "press": "",
-          "date": "2026-08-04"
-        },
-        {
-          "title": "관객 수 330만 모은 ‘스파이더맨’의 비밀…영화 속 설정으로 살펴본 ...",
-          "link": "https://www.segye.com/newsView/20260804506697?OutUrl=naver",
-          "press": "",
-          "date": "2026-08-04"
-        }
-      ],
-      "rank": 2
-    },
-    {
       "keyword": "장동건",
-      "traffic": "5000+",
-      "blogTotal": 172596,
-      "newsTotal": 147023,
-      "recentToday": 91,
+      "traffic": "10000+",
+      "blogTotal": 172601,
+      "newsTotal": 147024,
+      "recentToday": 89,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -181,13 +35,19 @@
           "date": "2026-07-06"
         },
         {
-          "title": "\"최근 달라진 얼굴 장동건\"...아이큐143인데 대학 입시만 3번...",
-          "link": "https://blog.naver.com/iamfca/224365195062",
-          "blogger": "공신테라스",
-          "date": "2026-08-01"
+          "title": "장동건 근황, 고소영 유튜브에 깜짝 등장…짧은 인사에 시선 집중",
+          "link": "https://blog.naver.com/areyou1238/224337243561",
+          "blogger": "찐똥's Blog",
+          "date": "2026-07-06"
         }
       ],
       "topNews": [
+        {
+          "title": "'볼 빵빵' 장동건, 외모 논란+시술 의혹 타파…유튜브 속 조각미모",
+          "link": "https://www.mt.co.kr/entertainment/2026/08/05/2026080421525447962",
+          "press": "",
+          "date": "2026-08-04"
+        },
         {
           "title": "고소영, 장동건 시술 논란 직접 진화…여전한 비주얼",
           "link": "https://www.newsis.com/view/NISX20260804_0003736511",
@@ -211,95 +71,89 @@
           "link": "https://www.sportschosun.com/entertainment/2026-08-04/202608040100025700001575",
           "press": "",
           "date": "2026-08-04"
-        },
-        {
-          "title": "고소영, 장동건과 다정한 투샷 공개…달라진 얼굴 의혹 잠재웠다",
-          "link": "https://sports.donga.com/ent/article/all/20260804/134422081/1",
-          "press": "",
-          "date": "2026-08-04"
         }
       ],
-      "rank": 3
+      "rank": 1
     },
     {
-      "keyword": "투신",
+      "keyword": "유가증권",
       "traffic": "200+",
-      "blogTotal": 322790,
-      "newsTotal": 352699,
-      "recentToday": 90,
+      "blogTotal": 427026,
+      "newsTotal": 912224,
+      "recentToday": 76,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "그것이 알고 싶다 1483회 J교회, 20대 여신도 투신 사건과...",
-          "link": "https://blog.naver.com/news9kr/224247609228",
-          "blogger": "뉴스나인",
-          "date": "2026-04-10"
+          "title": "유가증권시장 뜻, 다름 아닌 코스피의 역사, 그리고 코스닥시장",
+          "link": "https://blog.naver.com/dysaghwls/224367689044",
+          "blogger": "경제토대왕 부의 전술",
+          "date": "2026-08-04"
         },
         {
-          "title": "김포 차량서 50대 여성 살해 살인 도주 파주에서 투신 자살...",
-          "link": "https://blog.naver.com/inos2002/224345936506",
-          "blogger": "양평 부동산 스토리",
-          "date": "2026-07-14"
+          "title": "유가증권 CB 발동 뜻, 코스피 거래정지 시간과 재개 후 주문은?",
+          "link": "https://blog.naver.com/starku281/224365950238",
+          "blogger": "꿀템 추천소",
+          "date": "2026-08-02"
         },
         {
-          "title": "\"주식 수급 보는 법\" 기관 외국인 금융투자 투신 연기금...",
-          "link": "https://blog.naver.com/ivvlove/224346044827",
-          "blogger": "나엠제이의 투자맥잡기",
-          "date": "2026-07-14"
+          "title": "15번째 유가증권시장 거래 정지! \"이달에만 18조 쓸어 담고 튄...",
+          "link": "https://blog.naver.com/uncle82j/224361877560",
+          "blogger": "청년 인테리어",
+          "date": "2026-07-29"
         },
         {
-          "title": "그것이 알고싶다 1483회 시흥 아파트 투신 사건 J교회 목사...",
-          "link": "https://blog.naver.com/ssangna1/224248746175",
-          "blogger": "드진남 - 드라마에 진심인 남자",
-          "date": "2026-04-11"
+          "title": "증권! 경제 필수 용어 모음집 (평가절상, 환차익, 유가증권...",
+          "link": "https://blog.naver.com/canonkoreabs/224359505853",
+          "blogger": "캐논코리아 주식회사 공식 블로그",
+          "date": "2026-07-28"
         },
         {
-          "title": "국가전산망 장애 담당 공무원 세종청사 투신 사망",
-          "link": "https://blog.naver.com/digital-asset/224030635469",
-          "blogger": "알쓸신잡",
-          "date": "2025-10-03"
+          "title": "증여(상속)세 분납 유가증권 납세담보공탁, 압류 리스크 방어",
+          "link": "https://blog.naver.com/tree94smy/224347717612",
+          "blogger": "성문영법무사사무소, 서울가정법원",
+          "date": "2026-07-15"
         }
       ],
       "topNews": [
         {
-          "title": "코스닥, 기관 매수세가 이끈 3일 연속 급등... 중소형주로 자금 이동",
-          "link": "https://www.tokenpost.kr/news/market/385220",
+          "title": "“10% 폭락하자 4조 샀는데, 18% 뛰자 8조 팔았다”…개미들 왜 이러나 ...",
+          "link": "https://www.segye.com/newsView/20260805501866?OutUrl=naver",
           "press": "",
           "date": "2026-08-04"
         },
         {
-          "title": "[코스닥 볕드나①] 반도체 쏠림 풀리자 5.88% 급등…순환매 '신호탄'",
-          "link": "http://www.newsian.co.kr/news/articleView.html?idxno=93272",
+          "title": "거래 이용자 줄고 투자금 54% 증발... 국내 코인시장 무슨 일?",
+          "link": "https://www.ggilbo.com/news/articleView.html?idxno=1172842",
           "press": "",
           "date": "2026-08-04"
         },
         {
-          "title": "[추적] SK하이닉스 ⑤ 생명선 150만원은 얼마나 버틸까?",
-          "link": "http://www.breaknews.com/1226745",
+          "title": "[GAM] 보잉 ② 투자의견 '두 단계' 상향 겹경사 속 주가 8% 급등",
+          "link": "https://www.newspim.com/news/view/20260805000023",
           "press": "",
           "date": "2026-08-04"
         },
         {
-          "title": "레버리지 ETF 규제, 순매도로 이어졌나...코스닥, 3거래일간 21% 급등",
-          "link": "https://www.g-enews.com/view.php?ud=202608041807045517923c501012_1",
+          "title": "[사설] “주가 누르면 세금 인상”…징벌적 상속세율부터 손질해야",
+          "link": "https://www.sedaily.com/article/20075744?ref=naver",
           "press": "",
           "date": "2026-08-04"
         },
         {
-          "title": "사상 첫 '3일 연속 매수 사이드카'…설움 씻고 날아오른 코스닥",
-          "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000054524",
+          "title": "[주요공시] 피델릭스, IPARK현대산업개발, 한화오션, 한화에어로스페이...",
+          "link": "https://www.kdpress.co.kr/news/articleView.html?idxno=207511",
           "press": "",
           "date": "2026-08-04"
         }
       ],
-      "rank": 4
+      "rank": 2
     },
     {
       "keyword": "양산시",
       "traffic": "200+",
-      "blogTotal": 731659,
-      "newsTotal": 271844,
-      "recentToday": 65,
+      "blogTotal": 731681,
+      "newsTotal": 271845,
+      "recentToday": 51,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -335,6 +189,12 @@
       ],
       "topNews": [
         {
+          "title": "[오늘의 주요일정]경남(8월5일 수요일)",
+          "link": "https://www.newsis.com/view/NISX20260804_0003736484",
+          "press": "",
+          "date": "2026-08-04"
+        },
+        {
           "title": "폭염에 과열·자연발화…화재위험 '산재'",
           "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1063839",
           "press": "",
@@ -357,20 +217,14 @@
           "link": "http://www.gnmaeil.com/news/articleView.html?idxno=592041",
           "press": "",
           "date": "2026-08-04"
-        },
-        {
-          "title": "온열질환자 수 경남이 서울 제쳤다… '가마솥 양산' 지자체 대책은 낮에...",
-          "link": "http://www.civicnews.com/news/articleView.html?idxno=40258",
-          "press": "",
-          "date": "2026-08-04"
         }
       ],
-      "rank": 5
+      "rank": 3
     },
     {
       "keyword": "양희은",
-      "traffic": "200+",
-      "blogTotal": 80902,
+      "traffic": "1000+",
+      "blogTotal": 80906,
       "newsTotal": 42986,
       "recentToday": 25,
       "recentWeek": 100,
@@ -438,75 +292,221 @@
           "date": "2026-08-04"
         }
       ],
-      "rank": 6
+      "rank": 4
     },
     {
-      "keyword": "감염",
-      "traffic": "500+",
-      "blogTotal": 8500991,
-      "newsTotal": 5786249,
-      "recentToday": 0,
+      "keyword": "이윤지",
+      "traffic": "100+",
+      "blogTotal": 47650,
+      "newsTotal": 75756,
+      "recentToday": 17,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "고양이 코로나 감염과 고양이 복막염 반려묘 고양이 아플때...",
-          "link": "https://blog.naver.com/blue_bells82/224367686369",
-          "blogger": "푸들푸들한 하루",
-          "date": "2026-08-04"
+          "title": "이윤지 남편 정한울 한쪽 눈 무슨 일 충격적인 이유",
+          "link": "https://blog.naver.com/metamonx/224365765100",
+          "blogger": "잇슈보물창고",
+          "date": "2026-08-02"
         },
         {
-          "title": "감염요양병원, 안심하고 머물 수 있는 치료 환경의 중요성",
-          "link": "https://blog.naver.com/mag4658/224367926581",
-          "blogger": "의료법인 매그너스의료재단",
-          "date": "2026-08-04"
+          "title": "“직업병”이라 웃었지만… 이윤지 남편 정한울 한쪽 눈에...",
+          "link": "https://blog.naver.com/jmsoon8922/224365411343",
+          "blogger": "오지랖뉴스",
+          "date": "2026-08-02"
         },
         {
-          "title": "A형은 음식, B·C형은 혈액…감염 경로부터 다른 간염",
-          "link": "https://blog.naver.com/mkhealthcorp/224360515285",
-          "blogger": "매경헬스 공식블로그",
+          "title": "이윤지 치과의사 남편 정한울, 한쪽 눈 안대 근황…왜 병실이...",
+          "link": "https://blog.naver.com/big203040/224366253853",
+          "blogger": "ISTP Hyeong",
           "date": "2026-08-03"
         },
         {
-          "title": "결핵예방, 잠복결핵감염 관리로 시작해요!",
-          "link": "https://blog.naver.com/first_seogu/224367851108",
-          "blogger": "대전광역시 서구청 블로그입니다.",
-          "date": "2026-08-04"
+          "title": "'이윤지♥' 정한울, 안대 쓰고 \"고장난 정선비\".. 다래끼...",
+          "link": "https://blog.naver.com/hellojinnyfree/224365662865",
+          "blogger": "건강픽지니",
+          "date": "2026-08-02"
         },
         {
-          "title": "잠실 곤지름 HPV 감염과 오해를 바로 살펴보면",
-          "link": "https://blog.naver.com/ina0421/224364200343",
-          "blogger": "늘푸른하늘",
-          "date": "2026-07-31"
+          "title": "\"제가 애를 망친 거 같아요...\" 이윤지가 고백한 자녀교육과...",
+          "link": "https://blog.naver.com/yeji2552/224313120539",
+          "blogger": "우리끼리, 성장하는 공간",
+          "date": "2026-06-11"
         }
       ],
       "topNews": [
         {
-          "title": "홍역부터 뎅기열까지… 여름철 해외여행객 감염병 주의보",
-          "link": "https://www.ggilbo.com/news/articleView.html?idxno=1172852",
+          "title": "이윤지 \"치과 의사 남편 눈탱 밤탱 내가 때린 거 아냐\"",
+          "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=85522",
+          "press": "",
+          "date": "2026-08-03"
+        },
+        {
+          "title": "이윤지, 한쪽 눈 퉁퉁 부은 치과의사 남편 공개…“제가 친 거 아닙니다...",
+          "link": "https://www.segye.com/newsView/20260803521306?OutUrl=naver",
+          "press": "",
+          "date": "2026-08-03"
+        },
+        {
+          "title": "이윤지, 눈 퉁퉁 부은 ♥정한울 근황..혹시 오해 살까 “제가 친 거 아니...",
+          "link": "http://www.osen.co.kr/article/G1112851753",
+          "press": "",
+          "date": "2026-08-03"
+        },
+        {
+          "title": "이윤지, 치과의사 남편 '눈탱밤탱'…\"제가 친 거 아닙니다\"",
+          "link": "https://www.newsis.com/view/NISX20260803_0003734692",
+          "press": "",
+          "date": "2026-08-03"
+        },
+        {
+          "title": "'치과의사 남편♥' 이윤지, 수술받은 아빠에 꼭 안긴 딸과…\"당신 곁에...",
+          "link": "https://www.tvreport.co.kr/breaking/article/1065946/",
+          "press": "",
+          "date": "2026-08-03"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "keyword": "스파이더맨: 브랜드 뉴 데이",
+      "traffic": "200+",
+      "blogTotal": 12039,
+      "newsTotal": 2822,
+      "recentToday": 16,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "마블 영화 스파이더맨 브랜드 뉴 데이 결말 해석 차이 발생중",
+          "link": "https://blog.naver.com/ptj0969/224366877048",
+          "blogger": "에레키맨의 무겐 블로그",
+          "date": "2026-08-03"
+        },
+        {
+          "title": "기억했을까? <스파이더맨: 브랜드 뉴 데이> 결말의 숨은 의미",
+          "link": "https://blog.naver.com/macguffinal/224366703820",
+          "blogger": "맥거피날의 스토리보드",
+          "date": "2026-08-03"
+        },
+        {
+          "title": "스파이더맨 브랜드 뉴 데이 : 친절한 이웃 팝업 후기",
+          "link": "https://blog.naver.com/compile_error/224367065187",
+          "blogger": "29",
+          "date": "2026-08-03"
+        },
+        {
+          "title": "영화] 감독이 바뀐 스파이더맨 :브랜드 뉴 데이 관람후기",
+          "link": "https://blog.naver.com/sun_ps/224366540603",
+          "blogger": "썬's Note",
+          "date": "2026-08-03"
+        },
+        {
+          "title": "영화 : 스파이더맨 브랜드 뉴 데이(용산 IMAX)",
+          "link": "https://blog.naver.com/givemin5u/224367728228",
+          "blogger": "낯선 곳에서의 즐거움",
+          "date": "2026-08-04"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "스파이더맨도 못 막은 '악취 빌런'…콜롬비아 영화관 대피 소동",
+          "link": "http://www.yonhapnewstv.co.kr/news/AKR20260804160556Zuw",
           "press": "",
           "date": "2026-08-04"
         },
         {
-          "title": "“생활비 급등, 선거 최대 이슈”",
-          "link": "http://www.koreatimes.com/article/1624169",
+          "title": "초유의 사태, 벌써 후속편 논의 중…올해 최단기간 400만 돌파 성공한 ‘...",
+          "link": "https://www.wikitree.co.kr/articles/1150254",
           "press": "",
           "date": "2026-08-04"
         },
         {
-          "title": "서폭,‘버번 바이러스’ 환자 발생",
-          "link": "http://www.koreatimes.com/article/1624180",
+          "title": "\"진짜 빌런은 방귀?\"…콜롬비아 '스파이더맨' 상영관 대피 소동",
+          "link": "https://www.newsis.com/view/NISX20260804_0003735943",
           "press": "",
           "date": "2026-08-04"
         },
         {
-          "title": "“가벼이 여겼다간 후회”… 의사가 남성들 향해 경고한 ‘다섯 가지 질...",
-          "link": "https://health.chosun.com/site/data/html_dir/2026/08/04/2026080401772.html",
+          "title": "'오디세이' vs '스파이더맨: 브랜드 뉴 데이'…10·20대가 1위 결정한다",
+          "link": "https://www.econovill.com/news/articleView.html?idxno=747125",
           "press": "",
           "date": "2026-08-04"
         },
         {
-          "title": "인천성모병원, 뇌졸중·약제급여 적정성 평가 11회 연속 1등급",
-          "link": "https://www.medipana.com/news/articleView.html?idxno=415513",
+          "title": "'스파이더맨: 브랜드 뉴 데이', 7일 연속 박스오피스 1위…개봉 2주차 특...",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16154924",
+          "press": "",
+          "date": "2026-08-04"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "keyword": "휴가",
+      "traffic": "200+",
+      "blogTotal": 11131395,
+      "newsTotal": 1936962,
+      "recentToday": 0,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "가평 빠지 추천 국내 여름휴가 1박2일 촬영지",
+          "link": "https://blog.naver.com/mixsun/224364745997",
+          "blogger": "사진 속 일상에서 여행을 하다",
+          "date": "2026-08-01"
+        },
+        {
+          "title": "2026 여름휴가 - 제천, 단양, 속초 여행 기록",
+          "link": "https://blog.naver.com/allalone815/224367881718",
+          "blogger": "Yoon's.",
+          "date": "2026-08-04"
+        },
+        {
+          "title": "휴가 전 배터리 점검, 출발 전 5분이면 됩니다",
+          "link": "https://blog.naver.com/boanbox/224360629537",
+          "blogger": "배터리잡스 수원점",
+          "date": "2026-08-01"
+        },
+        {
+          "title": "해운대여름휴가 준비 중이라면 개장 기간부터 즐길거리까지...",
+          "link": "https://blog.naver.com/dreamclock33/224366644142",
+          "blogger": "철인 삼남매 우리 아이 연구소",
+          "date": "2026-08-03"
+        },
+        {
+          "title": "강릉 가볼만한곳 여름휴가 강릉 여행 코스",
+          "link": "https://blog.naver.com/tcacyc/224366112545",
+          "blogger": "일상탈출",
+          "date": "2026-08-03"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "맨시티와 격돌하는 팀 K리그… 이동경 “나 자신을 시험할 것”",
+          "link": "https://www.seoul.co.kr/news/sport/soccer/2026/08/05/20260805034002?wlog_tag3=naver",
+          "press": "",
+          "date": "2026-08-04"
+        },
+        {
+          "title": "[현장에서] 모성보호, 제도에서 실효성으로",
+          "link": "https://www.lawtimes.co.kr/news/articleView.html?idxno=224256",
+          "press": "",
+          "date": "2026-08-04"
+        },
+        {
+          "title": "[오늘의 주요일정] 충북·세종(5일, 수)",
+          "link": "https://www.news1.kr/local/sejong-chungbuk/6249094",
+          "press": "",
+          "date": "2026-08-04"
+        },
+        {
+          "title": "[오늘의 주요일정] 전북(5일, 수)",
+          "link": "https://www.news1.kr/local/jeonbuk/6249239",
+          "press": "",
+          "date": "2026-08-04"
+        },
+        {
+          "title": "[오늘의 주요일정]전북(8월5일 수요일)",
+          "link": "https://www.newsis.com/view/NISX20260804_0003736475",
           "press": "",
           "date": "2026-08-04"
         }
@@ -515,9 +515,9 @@
     },
     {
       "keyword": "돼지",
-      "traffic": "500+",
-      "blogTotal": 21700501,
-      "newsTotal": 1345943,
+      "traffic": "1000+",
+      "blogTotal": 21700268,
+      "newsTotal": 1345950,
       "recentToday": 0,
       "recentWeek": 100,
       "topBlogs": [
@@ -554,32 +554,32 @@
       ],
       "topNews": [
         {
-          "title": "* 8월 5일 오늘의 운세 *",
-          "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=313792",
+          "title": "마트 ‘金삼겹’ 알고 보니… 6년간 1.2조 담합 있었다",
+          "link": "https://www.seoul.co.kr/news/society/law/2026/08/05/20260805010009?wlog_tag3=naver",
           "press": "",
           "date": "2026-08-04"
         },
         {
-          "title": "[김동완의 오늘의 운세] 2026년 8월 5일",
-          "link": "https://www.seoul.co.kr/news/life/culture-news/fortune-today/2026/08/05/20260805500003?wlog_tag3=naver",
+          "title": "[소송으로 읽는 음식 이야기] 상표 등록 먼저 했다고 꼭 '원조' 아니다",
+          "link": "https://www.lawtimes.co.kr/news/articleView.html?idxno=224266",
           "press": "",
           "date": "2026-08-04"
         },
         {
-          "title": "6년간 돼지고기 납품가 담합…유통업체 6곳·임직원 무더기 기소",
-          "link": "https://www.geconomy.co.kr/news/article.html?no=322518",
+          "title": "[시론] 인공지능이 바꾸는 ‘농업·농촌 미래’",
+          "link": "https://www.nongmin.com/article/20260803500717",
           "press": "",
           "date": "2026-08-04"
         },
         {
-          "title": "'금겹살' 이유 있었다…6년간 담합해 20% 넘게 올려",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008690475&plink=ORI&cooper=NAVER",
+          "title": "제주양돈농협, 신세계백화점서 ‘제주도니’ 홍보",
+          "link": "https://www.nongmin.com/article/20260803500624",
           "press": "",
           "date": "2026-08-04"
         },
         {
-          "title": "1조원대 돼지고기 납품가 담합 불구속 기소",
-          "link": "https://www.kado.net/news/articleView.html?idxno=2064891",
+          "title": "[오늘의 운세] 2026년 8월 5일(수) ♣띠별 운세♣",
+          "link": "http://www.srtimes.kr/news/articleView.html?idxno=208951",
           "press": "",
           "date": "2026-08-04"
         }
@@ -587,9 +587,82 @@
       "rank": 8
     },
     {
+      "keyword": "감염",
+      "traffic": "500+",
+      "blogTotal": 8501047,
+      "newsTotal": 5786253,
+      "recentToday": 0,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "잠실 곤지름 HPV 감염과 오해를 바로 살펴보면",
+          "link": "https://blog.naver.com/ina0421/224364200343",
+          "blogger": "늘푸른하늘",
+          "date": "2026-07-31"
+        },
+        {
+          "title": "아기 요로감염 증상 원인 신생아 용인 어린이병원 입원 후기",
+          "link": "https://blog.naver.com/ulsune/224188525633",
+          "blogger": "울수네 신혼집 이야기",
+          "date": "2026-02-20"
+        },
+        {
+          "title": "24개월 갑작스런 고열 돌발진? 요로감염? 4일만에 떨어진 열",
+          "link": "https://blog.naver.com/dhektha22/224320258223",
+          "blogger": "평범한것이 좋아",
+          "date": "2026-06-18"
+        },
+        {
+          "title": "RSV바이러스 뜻과 증상 아기부터 성인까지 꼭 알아야 할 감염...",
+          "link": "https://blog.naver.com/tjrkfka87/224348340380",
+          "blogger": "세딸과함께 행복을 만드는 일상",
+          "date": "2026-07-16"
+        },
+        {
+          "title": "인유두종바이러스 16 18 고위험군 감염 소멸 방법 확인",
+          "link": "https://blog.naver.com/skytjddo12/224324589599",
+          "blogger": "큐어람한의원 임창락 원장 자궁경부이형성증",
+          "date": "2026-06-23"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "[르포]\"김밥, 양치도 사치\"…몸 갈아 버티는 119의 24시간",
+          "link": "https://www.nocutnews.co.kr/news/6558227?utm_source=naver&utm_medium=article&utm_campaign=20260805050035",
+          "press": "",
+          "date": "2026-08-04"
+        },
+        {
+          "title": "초유의 사태, 벌써 후속편 논의 중…올해 최단기간 400만 돌파 성공한 ‘...",
+          "link": "https://www.wikitree.co.kr/articles/1150254",
+          "press": "",
+          "date": "2026-08-04"
+        },
+        {
+          "title": "[美특징주]치폴레, 할라피뇨 살모넬라 연관 가능성에 주가 8% 급락",
+          "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=01590806645544368",
+          "press": "",
+          "date": "2026-08-04"
+        },
+        {
+          "title": "미국서 2000명 집단감염시킨 '사이클로스포라'의 정체는?",
+          "link": "http://weekly.chosun.com/news/articleView.html?idxno=53935",
+          "press": "",
+          "date": "2026-08-04"
+        },
+        {
+          "title": "홍역부터 뎅기열까지… 여름철 해외여행객 감염병 주의보",
+          "link": "https://www.ggilbo.com/news/articleView.html?idxno=1172852",
+          "press": "",
+          "date": "2026-08-04"
+        }
+      ],
+      "rank": 9
+    },
+    {
       "keyword": "삼성 갤럭시 z 폴드 6",
       "traffic": "2000+",
-      "blogTotal": 239936,
+      "blogTotal": 239979,
       "newsTotal": 27616,
       "recentToday": 0,
       "recentWeek": 100,
@@ -657,18 +730,6 @@
           "date": "2026-08-04"
         }
       ],
-      "rank": 9
-    },
-    {
-      "keyword": "이윤지",
-      "traffic": "100+",
-      "blogTotal": 0,
-      "newsTotal": 0,
-      "recentToday": 0,
-      "recentWeek": 0,
-      "topBlogs": [],
-      "topNews": [],
-      "error": "HTTP 429 https://openapi.naver.com/v1/search/news.json?query=%EC%9D%B4%EC%9C%A4%EC%A7%80&display=5&sort=date",
       "rank": 10
     }
   ]
