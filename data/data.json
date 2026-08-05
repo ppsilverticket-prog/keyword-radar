@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-05T16:14:12.362Z",
+  "updatedAt": "2026-08-05T18:03:00.163Z",
   "source": "live",
   "keywords": [
     {
       "keyword": "장항준",
       "traffic": "1000+",
-      "blogTotal": 70694,
+      "blogTotal": 70698,
       "newsTotal": 48200,
-      "recentToday": 90,
+      "recentToday": 88,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -77,10 +77,10 @@
     },
     {
       "keyword": "계엄",
-      "traffic": "500+",
-      "blogTotal": 381763,
-      "newsTotal": 699694,
-      "recentToday": 88,
+      "traffic": "1000+",
+      "blogTotal": 381792,
+      "newsTotal": 699695,
+      "recentToday": 80,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -116,6 +116,12 @@
       ],
       "topNews": [
         {
+          "title": "[노트북을 열며] '무소불위' 방첩사 역사 속으로",
+          "link": "https://www.goodmorningcc.com/news/articleView.html?idxno=450126",
+          "press": "",
+          "date": "2026-08-05"
+        },
+        {
           "title": "이 대통령 \"쿠데타 모두 육군서 발생…사관학교 통합 신속 추진해야\"",
           "link": "https://www.cbci.co.kr/news/articleView.html?idxno=594800",
           "press": "",
@@ -138,24 +144,97 @@
           "link": "https://www.joongang.co.kr/article/25451193",
           "press": "",
           "date": "2026-08-05"
-        },
-        {
-          "title": "[여의도포럼] 누가 반민주주의를 용인하는가",
-          "link": "https://www.kmib.co.kr/article/view.asp?arcid=1785909392&code=11171316&cp=nv",
-          "press": "",
-          "date": "2026-08-05"
         }
       ],
       "rank": 2
     },
     {
+      "keyword": "경로당",
+      "traffic": "200+",
+      "blogTotal": 592701,
+      "newsTotal": 688289,
+      "recentToday": 80,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "경로당행정매니저 자격증 중장년층을 위한 쉬운 취득방법",
+          "link": "https://blog.naver.com/skidrow5041/224325639927",
+          "blogger": "국민자격증인증협회",
+          "date": "2026-06-24"
+        },
+        {
+          "title": "아산시의회 윤영숙 의원 \"경로당 통합돌봄으로 지역경제 살려야\"",
+          "link": "https://blog.naver.com/asandailynew/224346452368",
+          "blogger": "아산데일리 [공식 뉴스]",
+          "date": "2026-07-14"
+        },
+        {
+          "title": "[5분자유발언]정승구 의원 “경로당 운영 지원 체계, 현실...",
+          "link": "https://blog.naver.com/gbnews/224360667733",
+          "blogger": "서울강북신문",
+          "date": "2026-07-28"
+        },
+        {
+          "title": "경로당행정매니저 자격증 취득과정 및 종류 정보",
+          "link": "https://blog.naver.com/wwevoszmffjq/224060322919",
+          "blogger": "왜 안 가인요?",
+          "date": "2025-10-31"
+        },
+        {
+          "title": "토항경로당 맞은편 수심·주차·편의시설 솔직 후기",
+          "link": "https://blog.naver.com/abidehere/224369355349",
+          "blogger": "여여시리의 머묾",
+          "date": "2026-08-05"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "대한노인회 경기 구리시지회, 갈매와이시티경로당 '2026년 모범경로당'...",
+          "link": "https://www.100ssd.co.kr/news/articleView.html?idxno=211606",
+          "press": "",
+          "date": "2026-08-05"
+        },
+        {
+          "title": "장성군, 가뭄·폭염 예방에 행정력 집중",
+          "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000054764",
+          "press": "",
+          "date": "2026-08-05"
+        },
+        {
+          "title": "대한노인회 경기 광주시지회, 신현3통경로당과 노블로지스 1사1경로당 ...",
+          "link": "https://www.100ssd.co.kr/news/articleView.html?idxno=211551",
+          "press": "",
+          "date": "2026-08-05"
+        },
+        {
+          "title": "대한노인회 경기 고양시 덕양구지회, 노인일자리 참여자 2026년 직무·안...",
+          "link": "https://www.100ssd.co.kr/news/articleView.html?idxno=211587",
+          "press": "",
+          "date": "2026-08-05"
+        },
+        {
+          "title": "함평군, '지원 사각지대' 어르신 1대 1 안부 묻는다",
+          "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000054567",
+          "press": "",
+          "date": "2026-08-05"
+        }
+      ],
+      "rank": 3
+    },
+    {
       "keyword": "lck",
       "traffic": "1000+",
-      "blogTotal": 101717,
-      "newsTotal": 143136,
+      "blogTotal": 101725,
+      "newsTotal": 143137,
       "recentToday": 73,
       "recentWeek": 100,
       "topBlogs": [
+        {
+          "title": "[LCK] ‘MSI 챔피언’ 한화생명e스포츠, 반등 성공할까…3R...",
+          "link": "https://blog.naver.com/thenam77/224367531772",
+          "blogger": "Miracledoo의 e스포츠 이야기",
+          "date": "2026-08-04"
+        },
         {
           "title": "LCK 롤챔스 직관 티켓팅 방법, 가격은 얼마?",
           "link": "https://blog.naver.com/rlarjsdn5589/224360721481",
@@ -169,25 +248,25 @@
           "date": "2026-07-27"
         },
         {
-          "title": "msi 예매 방법 road to 로드투 일정 lck 대진표 2026",
-          "link": "https://blog.naver.com/blogbaksa/224293173510",
-          "blogger": "아파트,상가,빌라 분양정보",
-          "date": "2026-05-22"
-        },
-        {
           "title": "롤 케스파컵 2026 시작! LCK 10팀 격돌 관전 포인트",
           "link": "https://blog.naver.com/wndhkeodurtk/224356779995",
           "blogger": "네이버 게임블로거 쏠킴",
           "date": "2026-07-26"
         },
         {
-          "title": "2026 msi 티켓 예매 방법 롤 lck road to 선발전 티켓팅...",
-          "link": "https://blog.naver.com/clearclear80/224298107928",
-          "blogger": "별밤이의 추억놀이",
-          "date": "2026-05-27"
+          "title": "[젠지 홈그라운드 LCK  T1 경기 직관] 하우스 오브 젠지 현장...",
+          "link": "https://blog.naver.com/seven2181/224364700333",
+          "blogger": "아기상어 뚜뚜루 일상",
+          "date": "2026-08-01"
         }
       ],
       "topNews": [
+        {
+          "title": "'연패 탈출' 젠지 유상욱, \"승리 요인은 '주도권'\"",
+          "link": "http://www.dailyesports.com/view.php?ud=202608060127304964b91e133c1f_27",
+          "press": "",
+          "date": "2026-08-05"
+        },
         {
           "title": "[LCK] '7연패 끝, 테디가 웃었다'... 한진 브리온, 농심 2-1 제압하며 반...",
           "link": "https://www.stnsports.co.kr/news/articleView.html?idxno=320444",
@@ -211,20 +290,14 @@
           "link": "https://www.kmib.co.kr/article/view.asp?arcid=0030212467&code=61162012&cp=nv",
           "press": "",
           "date": "2026-08-05"
-        },
-        {
-          "title": "[LCK] 3연패 한화생명 \"개개인 실수도 많고, 연패로 분위기 다운\"",
-          "link": "https://www.inven.co.kr/webzine/news/?news=319235",
-          "press": "",
-          "date": "2026-08-05"
         }
       ],
-      "rank": 3
+      "rank": 4
     },
     {
       "keyword": "고현정",
-      "traffic": "1000+",
-      "blogTotal": 151910,
+      "traffic": "2000+",
+      "blogTotal": 151913,
       "newsTotal": 105660,
       "recentToday": 49,
       "recentWeek": 100,
@@ -242,6 +315,12 @@
           "date": "2026-07-03"
         },
         {
+          "title": "배곧피부과 고현정리프팅 잘하는 곳 텐트리플 600라인 효과...",
+          "link": "https://blog.naver.com/wjswl9008/224369356818",
+          "blogger": "찌둥이 소소한 일기장",
+          "date": "2026-08-05"
+        },
+        {
           "title": "고현정 슬림웨이 다이어트 가격 효과 주의사항 후기 총정리",
           "link": "https://blog.naver.com/dlaifj1829/224360221072",
           "blogger": "캐 모 블 로 그",
@@ -252,12 +331,6 @@
           "link": "https://blog.naver.com/takeamission/224326929345",
           "blogger": "꿀 정 보 다 있 다 ~",
           "date": "2026-06-25"
-        },
-        {
-          "title": "고현정 화장품 얼굴 리프팅 코이 랩핑 크림 보르피린 성분 3주...",
-          "link": "https://blog.naver.com/486xhxh/224284876293",
-          "blogger": "쥔이로그 : 뷰티&패션&팝업",
-          "date": "2026-05-14"
         }
       ],
       "topNews": [
@@ -292,13 +365,13 @@
           "date": "2026-08-05"
         }
       ],
-      "rank": 4
+      "rank": 5
     },
     {
       "keyword": "fa컵",
       "traffic": "200+",
-      "blogTotal": 156124,
-      "newsTotal": 255360,
+      "blogTotal": 156127,
+      "newsTotal": 255362,
       "recentToday": 29,
       "recentWeek": 100,
       "topBlogs": [
@@ -335,6 +408,18 @@
       ],
       "topNews": [
         {
+          "title": "'가나전 그 심판' 벤투 퇴장 선언했던 테일러, 은퇴 2주 만에 새 직장 찾...",
+          "link": "https://mhnse.com/news/articleView.html?idxno=1479398",
+          "press": "",
+          "date": "2026-08-05"
+        },
+        {
+          "title": "확률 0.0065%, 진짜 날벼락 맞아 사망…24세 태국 축구선수, 경기 도중 뇌...",
+          "link": "https://www.xportsnews.com/article/2180343",
+          "press": "",
+          "date": "2026-08-05"
+        },
+        {
           "title": "'자려고 누웠는데 갑자기...도대체 왜?' 맨유, 여자팀 사령탑 교체...에...",
           "link": "http://www.footballist.co.kr/news/articleView.html?idxno=213187",
           "press": "",
@@ -349,91 +434,6 @@
         {
           "title": "'첼시 감독 맞아?' 알론소 감독, 리버풀 시절 유니폼 보자 망설임 없이...",
           "link": "https://www.xportsnews.com/article/2180463",
-          "press": "",
-          "date": "2026-08-05"
-        },
-        {
-          "title": "'3년 만에 방한' 맨시티, 팀 K리그 3-1로 제압...폭염 속 '명품 축구' 선...",
-          "link": "https://www.newspim.com/news/view/20260805001524",
-          "press": "",
-          "date": "2026-08-05"
-        },
-        {
-          "title": "벼락 맞은 '24세' 축구선수 사망…태국 경기장서 '참변'",
-          "link": "https://www.hankyung.com/article/2026080573067",
-          "press": "",
-          "date": "2026-08-05"
-        }
-      ],
-      "rank": 5
-    },
-    {
-      "keyword": "나는솔로",
-      "traffic": "500+",
-      "blogTotal": 1040650,
-      "newsTotal": 156899,
-      "recentToday": 22,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "게 없는 나솔 28기 돌싱특집 현실 근황? (나는솔로 예능다시보기)",
-          "link": "https://blog.naver.com/chummilmil99/224368837514",
-          "blogger": "Te Quiero",
-          "date": "2026-08-05"
-        },
-        {
-          "title": "나는솔로다 32기 옥순 광수 프러포즈 공개 화제",
-          "link": "https://blog.naver.com/wnaldud3255/224368232988",
-          "blogger": "은서차니맘의 여행육아기록",
-          "date": "2026-08-04"
-        },
-        {
-          "title": "나는솔로 32기 최신 근황 잘생겨진 영철 화제 영수 인스타...",
-          "link": "https://blog.naver.com/pang_gom/224368457013",
-          "blogger": "미디어 부수기!!",
-          "date": "2026-08-05"
-        },
-        {
-          "title": "솔로지옥이 되어버렸다는 조선의사랑꾼 근황",
-          "link": "https://blog.naver.com/honestpsc17/224368300242",
-          "blogger": "꼴뚝",
-          "date": "2026-08-04"
-        },
-        {
-          "title": "나는솔로 33기 영숙 정숙 순자 옥순 영자 여자 나이 직업...",
-          "link": "https://blog.naver.com/lemonic119/224369399225",
-          "blogger": "맛집, 여행, 육아 정보 나누는 푸드 인플루언서",
-          "date": "2026-08-05"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "33기 모솔 순자, 영호에 첫인상 꽂혔다 (나는 SOLO)",
-          "link": "http://www.tvdaily.co.kr/read.php3?aid=17859425021796598019",
-          "press": "",
-          "date": "2026-08-05"
-        },
-        {
-          "title": "'나는 솔로' 모태솔로 특집, '행시 합격' 광수 등장… '사기급 외모' 영...",
-          "link": "https://mhnse.com/news/articleView.html?idxno=1479520",
-          "press": "",
-          "date": "2026-08-05"
-        },
-        {
-          "title": "28기 영자, 파경 알린 후 평온한 일상 \"고마워\"..단아함은 그대로",
-          "link": "https://www.starnewskorea.com/star/2026/08/05/2026080523434366760",
-          "press": "",
-          "date": "2026-08-05"
-        },
-        {
-          "title": "‘나는 솔로’ 33기 모솔녀들, 몰표남보다 0표남에 심쿵? “대인배 같아...",
-          "link": "http://enews.imbc.com/News/RetrieveNewsInfo/513817",
-          "press": "",
-          "date": "2026-08-05"
-        },
-        {
-          "title": "“여자보다 수학이 더 좋았다”…‘나는 솔로’ 세 번째 모태솔로 특집...",
-          "link": "http://enews.imbc.com/News/RetrieveNewsInfo/513816",
           "press": "",
           "date": "2026-08-05"
         }
@@ -515,9 +515,9 @@
     },
     {
       "keyword": "덕분",
-      "traffic": "100+",
-      "blogTotal": 66172831,
-      "newsTotal": 3322122,
+      "traffic": "200+",
+      "blogTotal": 66177928,
+      "newsTotal": 3322130,
       "recentToday": 0,
       "recentWeek": 100,
       "topBlogs": [
@@ -554,32 +554,32 @@
       ],
       "topNews": [
         {
-          "title": "[LCK] '7연패 끝, 테디가 웃었다'... 한진 브리온, 농심 2-1 제압하며 반...",
-          "link": "https://www.stnsports.co.kr/news/articleView.html?idxno=320444",
+          "title": "[GAM] 지브라 52주 신고가 ① 메모리 품귀 속 사상 최고 분기",
+          "link": "https://www.newspim.com/news/view/20260806000024",
           "press": "",
           "date": "2026-08-05"
         },
         {
-          "title": "“일론 머스크의 구상 덕분에”..삼성 파운드리, 잿팟 터지나(?)",
-          "link": "https://www.dailycar.co.kr/content/news.html?type=view&autoId=62204",
+          "title": "[GAM] 지브라 52주 신고가 ② AI 기반 솔루션으로 중장기 성장 전략",
+          "link": "https://www.newspim.com/news/view/20260806000025",
           "press": "",
           "date": "2026-08-05"
         },
         {
-          "title": "[시사천국] 서범수 '돌려차기' 발언 파장…\"사석에서도 안 될 말\"",
-          "link": "https://news.cpbc.co.kr/article/1174822?division=NAVER",
+          "title": "바다, 워터밤 섭외 공개 호소 \"자존심 없어…대타라도 불러달라\"",
+          "link": "https://www.mt.co.kr/entertainment/2026/08/06/2026080601474769089",
           "press": "",
           "date": "2026-08-05"
         },
         {
-          "title": "낮엔 노인, 밤엔 노숙인… 피서지 돼버린 인천공항",
-          "link": "https://www.chosun.com/national/transport-environment/2026/08/06/AFBZLRPNARAIFKA7OTCSMYDFDM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+          "title": "점심값 아껴가며 1.2억 모은 26세, 서른 전 내집 장만하려면…",
+          "link": "https://www.kmib.co.kr/article/view.asp?arcid=1785913962&code=11151300&cp=nv",
           "press": "",
           "date": "2026-08-05"
         },
         {
-          "title": "\"음료 한 캔에 1만1000원?\"…우즈벡 관광청까지 나섰다, 유튜버 폭로 후...",
-          "link": "https://www.newsis.com/view/NISX20260805_0003736752",
+          "title": "제시카, 데뷔 19주년 콘서트 현장 공개…'냉면' 무대 앞두고 팬들과 추...",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16155899",
           "press": "",
           "date": "2026-08-05"
         }
@@ -588,9 +588,9 @@
     },
     {
       "keyword": "주소",
-      "traffic": "500+",
-      "blogTotal": 44989785,
-      "newsTotal": 1807086,
+      "traffic": "200+",
+      "blogTotal": 44990500,
+      "newsTotal": 1807088,
       "recentToday": 0,
       "recentWeek": 100,
       "topBlogs": [
@@ -627,6 +627,18 @@
       ],
       "topNews": [
         {
+          "title": "마스터카드, 크립토 크리덴셜로 스테이블코인 결제 검증 통합한다",
+          "link": "https://www.wikitree.co.kr/articles/1150676",
+          "press": "",
+          "date": "2026-08-05"
+        },
+        {
+          "title": "짐 크레이머, 양자공포로 비트코인 매도…가격 1.6% 상승",
+          "link": "https://www.wikitree.co.kr/articles/1150673",
+          "press": "",
+          "date": "2026-08-05"
+        },
+        {
           "title": "휴맥스모빌리티 하이파킹, 렌터카 차고지 실시간 매칭 지원",
           "link": "https://www.electimes.com/news/articleView.html?idxno=371032",
           "press": "",
@@ -641,18 +653,6 @@
         {
           "title": "병무청, 병역면탈 차단·AI 병무행정 강화…취업맞춤특기병도 확대",
           "link": "https://www.munhwa.com/article/11607548?ref=naver",
-          "press": "",
-          "date": "2026-08-05"
-        },
-        {
-          "title": "[사설] 고향사랑 기부금 의미 되새길 때",
-          "link": "https://www.kado.net/news/articleView.html?idxno=2065129",
-          "press": "",
-          "date": "2026-08-05"
-        },
-        {
-          "title": "\"춘천 당일 구매 가능\" SNS 타고 몇 초 만에 닿는 마약",
-          "link": "https://www.kado.net/news/articleView.html?idxno=2065139",
           "press": "",
           "date": "2026-08-05"
         }
