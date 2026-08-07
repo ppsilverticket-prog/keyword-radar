@@ -1,74 +1,74 @@
 {
-  "updatedAt": "2026-08-07T15:24:23.290Z",
+  "updatedAt": "2026-08-07T16:23:12.901Z",
   "source": "live",
   "keywords": [
     {
-      "keyword": "전고체 전지",
+      "keyword": "하한가",
       "traffic": "500+",
-      "blogTotal": 91001,
-      "newsTotal": 35929,
-      "recentToday": 99,
+      "blogTotal": 322163,
+      "newsTotal": 203062,
+      "recentToday": 85,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "전고체배터리 관련주, 2차전지 반등하면 다시 볼 테마일까",
-          "link": "https://blog.naver.com/luckyboy4616/224337079027",
-          "blogger": "삶은돈의 돈공부 기록장",
-          "date": "2026-07-09"
+          "title": "HLB 주가 급락 이유는? HLB제약·HLB생명과학·HLB테라퓨틱스·HLB그룹주 ....",
+          "link": "https://blog.naver.com/breakdown0123/224342582560",
+          "blogger": "마자용의 경제블로그",
+          "date": "2026-07-10"
         },
         {
-          "title": "2차전지관련주 TOP 6 \"삼성SDI 전고체냐, LG엔솔 ESS냐\" 하반기 반격 주....",
-          "link": "https://blog.naver.com/cs1487/224327194451",
-          "blogger": "오쿤의 투자노트",
-          "date": "2026-06-25"
+          "title": "\"하한가 딛고 반등\" HLB 주식·펩트론 주가 비결",
+          "link": "https://blog.naver.com/rct190/224364853901",
+          "blogger": "파이어족의 경제, 금융 이야기",
+          "date": "2026-08-02"
         },
         {
-          "title": "차세대 배터리 나트륨전지 SIB와 전고체 배터리",
-          "link": "https://blog.naver.com/gaajur/224338507442",
-          "blogger": "쥬라기의 세상을 보는 창",
-          "date": "2026-07-06"
+          "title": "\"이틀 연속 하한가..\" 에이치엘비주가 왜 이렇게 됐나 봤더니",
+          "link": "https://blog.naver.com/misskim616/224359605308",
+          "blogger": "미스킴의 한땀경제",
+          "date": "2026-07-27"
         },
         {
-          "title": "현재 배터리(이차전지, 전고체) 시장은 매우 암울하다. feat 지금 배....",
-          "link": "https://blog.naver.com/lovehot1013/224327804100",
-          "blogger": "이것 저것 STORY",
-          "date": "2026-06-26"
+          "title": "SKT하이닉스 주가 127만원? 개장 직후 하한가 찍은 진짜 이유",
+          "link": "https://blog.naver.com/252jong/224361338283",
+          "blogger": "뚝딱경제",
+          "date": "2026-07-29"
         },
         {
-          "title": "전고체전지 상용화, K-배터리의 특허출원 경쟁과 미래 전망",
-          "link": "https://blog.naver.com/bitsbyhun/224189975090",
-          "blogger": "경제 인사이트 노트",
-          "date": "2026-02-21"
+          "title": "주식 반대매매 매도 주문 지정가 하한가 체결 원리와 당장 막는 법",
+          "link": "https://blog.naver.com/kzuni1324/224361892931",
+          "blogger": "더쿠곰의 경제공부방",
+          "date": "2026-07-29"
         }
       ],
       "topNews": [
         {
-          "title": "[오늘의 특징주] 본느 '6연속 상한가' 대기록… 혜인·신스틸 등 9개 종...",
-          "link": "https://www.ppss.kr/news/articleView.html?idxno=304548",
+          "title": "하이닉스 단 1주 하한가, 실수인가 조작인가? \"상하한가 주문 금지\"",
+          "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6843240_37004.html",
           "press": "",
           "date": "2026-08-07"
         },
         {
-          "title": "[대기업집단 탐구] 75. 에코프로, 환경기업서 ‘배터리 소재 제국’으로...",
-          "link": "http://www.thevaluenews.co.kr/news/view.php?idx=200443",
+          "title": "넥스트레이드, 프리마켓 상·하한가 주문 한시 금지",
+          "link": "http://www.yonhapnewstv.co.kr/news/MYH202608072011370md",
           "press": "",
           "date": "2026-08-07"
         },
         {
-          "title": "[마켓 펄스] SK하이닉스 이틀간 15% 급락…2차전지·바이오로 순환매",
-          "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=128629",
+          "title": "11주로 SK하이닉스 주가 흔든 프리마켓…넥스트레이드, 상·하한가 주문...",
+          "link": "https://www.thepublic.kr/news/articleView.html?idxno=314254",
           "press": "",
           "date": "2026-08-07"
         },
         {
-          "title": "에코프로, 이차전지 케즘에도 수익성 양호... 2Q 영업익 329억·전년동기...",
-          "link": "http://www.thevaluenews.co.kr/news/view.php?idx=200623",
+          "title": "넥스트레이드, 프리마켓 상·하한가 주문 전면 금지… SK하이닉스 사고...",
+          "link": "https://www.tokenpost.kr/news/market/386699",
           "press": "",
           "date": "2026-08-07"
         },
         {
-          "title": "[B트렌드] K-배터리, 흔들리는 순위보다 중요한 다음 시장… ESS·공급망...",
-          "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=84180",
+          "title": "트럼프 행정부, '태양광·반도체 핵심 원료' 폴리실리콘에 15% 관세",
+          "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=84196",
           "press": "",
           "date": "2026-08-07"
         }
@@ -76,84 +76,11 @@
       "rank": 1
     },
     {
-      "keyword": "구급차",
-      "traffic": "2000+",
-      "blogTotal": 444774,
-      "newsTotal": 280235,
-      "recentToday": 98,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "하츄핑 구급차 병원놀이 장난감, 연휴 끝나고 막내가 제일 좋아한 ....",
-          "link": "https://blog.naver.com/anhyeok/224192029304",
-          "blogger": "독수리5남매",
-          "date": "2026-02-23"
-        },
-        {
-          "title": "원주 사설 구급차 사고 총정리 학원 가던 15세 중학생 숨진 이유",
-          "link": "https://blog.naver.com/sywjsw/224299199480",
-          "blogger": "오늘도 뛰는 엄마",
-          "date": "2026-05-28"
-        },
-        {
-          "title": "[사회] 가짜 구급차 이제 사라질까? 2026년부터 달라지는 구급차 제도....",
-          "link": "https://blog.naver.com/jallive0/224344860010",
-          "blogger": "기특이네의 평범한 생활",
-          "date": "2026-07-13"
-        },
-        {
-          "title": "구급차기록관리시스템 AiR은 구급차 GPS 의무화와 어떤 관계가 있을....",
-          "link": "https://blog.naver.com/iotplex20/224346445571",
-          "blogger": "국내 최고 통합 위치관제 - (주)아이오티플렉스",
-          "date": "2026-07-15"
-        },
-        {
-          "title": "119 구급차 비용 무료 기준과 사설 구급차 이용 요금 신청 요령",
-          "link": "https://blog.naver.com/jungyeop3/224309377172",
-          "blogger": "wednesday | 웰니스 라이프",
-          "date": "2026-06-08"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "청양 비닐하우스 앞서 90대 숨진 채 발견…온열질환 여부 조사",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008695688&plink=ORI&cooper=NAVER",
-          "press": "",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "“마운자로 용량 올렸는데”… 복통 후 6시간 만 사망 70대, 무슨 일?",
-          "link": "https://health.chosun.com/site/data/html_dir/2026/08/07/2026080700994.html",
-          "press": "",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "안전관리와 이용객 편의를 한층 강화...동작구, '노량 물총대첩' 개최",
-          "link": "https://www.cnbizm.com/news/articleView.html?idxno=310940",
-          "press": "",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "[단독] \"경기 시작 늦춰달라 요구 묵살\"...선수 탈진하자 1시간 연기",
-          "link": "https://www.ytn.co.kr/_ln/0103_202608072242068820",
-          "press": "",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "“숙소 돌아온 뒤 기억 없다”… 12m 아래로 추락한 여성, 무슨 일?",
-          "link": "https://health.chosun.com/site/data/html_dir/2026/08/07/2026080701650.html",
-          "press": "",
-          "date": "2026-08-07"
-        }
-      ],
-      "rank": 2
-    },
-    {
       "keyword": "뉴데일리",
       "traffic": "500+",
-      "blogTotal": 467824,
+      "blogTotal": 467823,
       "newsTotal": 929296,
-      "recentToday": 94,
+      "recentToday": 85,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -163,16 +90,16 @@
           "date": "2026-07-17"
         },
         {
-          "title": ":: 데일리 섹터 코멘트",
-          "link": "https://happystock.tistory.com/38483",
-          "blogger": "효마을365요양원",
-          "date": "2017-06-22"
-        },
-        {
           "title": "피크닉 준비물 써모스 뉴 데일리 원터치 텀블러 꼭 챙기는 여행 필....",
           "link": "https://blog.naver.com/soh109/223594219735",
           "blogger": "야옹이만의 5차원 세계",
           "date": "2024-09-24"
+        },
+        {
+          "title": ":: 데일리 섹터 코멘트",
+          "link": "https://happystock.tistory.com/38483",
+          "blogger": "효마을365요양원",
+          "date": "2017-06-22"
         },
         {
           "title": "텀블러추천 | 써모스 뉴 데일리 원터치 텀블러 500ml (초코) 리뷰",
@@ -219,16 +146,95 @@
           "date": "2026-08-07"
         }
       ],
+      "rank": 2
+    },
+    {
+      "keyword": "정해인",
+      "traffic": "200+",
+      "blogTotal": 124160,
+      "newsTotal": 125202,
+      "recentToday": 66,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "넷플릭스 이런 엿같은 사랑 출연진 기본정보, 정해인 하영이 그리는....",
+          "link": "https://blog.naver.com/zumzany/224363173113",
+          "blogger": "점자니의 점잖은 생활",
+          "date": "2026-07-30"
+        },
+        {
+          "title": "홍진경 오이김밥 레시피 정해인도 감탄한 다이어트 김밥",
+          "link": "https://blog.naver.com/haosu01/224340611921",
+          "blogger": "두리뭉실's 알뜰 식탁",
+          "date": "2026-07-08"
+        },
+        {
+          "title": "4%대로 조용했는데 시청률 두 배 뛴 정해인 넷플릭스 드라마 | 정소....",
+          "link": "https://blog.naver.com/cjm03199/224357638373",
+          "blogger": "도파민 다이어리",
+          "date": "2026-07-25"
+        },
+        {
+          "title": "정해인 인생 로코 예감?! 넷플릭스 <이런 엿 같은 사랑> 8월 7일 공개!....",
+          "link": "https://blog.naver.com/rock11201/224357305475",
+          "blogger": "유익하고 신비한 이야기 전도사",
+          "date": "2026-07-25"
+        },
+        {
+          "title": "정해인 프로필｜훈훈한 미소 뒤 숨겨진 이야기…배우 정해인은 누....",
+          "link": "https://blog.naver.com/hahaland0904/224347355661",
+          "blogger": "스타 이슈 연구소",
+          "date": "2026-07-16"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "정해인, 스태프 100명 영덕 대게 회식비 결제…“돈 많이 나오긴 했다”",
+          "link": "https://sports.donga.com/ent/article/all/20260807/134440821/1",
+          "press": "",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "“미소년 얼굴에 몸은 짐승” 정해인, 김종국도 놀란 등 근육+전완근(옥...",
+          "link": "https://www.newsen.com/news_view.php?uid=202608072256082510",
+          "press": "",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "[옥탑방의 문제아들] 정해인·하영, 데뷔 비화부터 이상형까지~ 거침없...",
+          "link": "https://kstar.kbs.co.kr/list_view.html?idx=407382",
+          "press": "",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "하영 \"대대로 의사 집안, 증조할아버지→언니까지\"(옥문아) [TV캡처]",
+          "link": "http://www.stoo.com/article.php?aid=108203239471",
+          "press": "",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "‘참교육’ 김무열 약혼녀 하영 “누워서 글로벌 1위 날로 먹었다? 좀 좋...",
+          "link": "https://www.newsen.com/news_view.php?uid=202608072256342510",
+          "press": "",
+          "date": "2026-08-07"
+        }
+      ],
       "rank": 3
     },
     {
-      "keyword": "재벌형사2",
+      "keyword": "재벌형사",
       "traffic": "500+",
-      "blogTotal": 40764,
-      "newsTotal": 29547,
-      "recentToday": 92,
+      "blogTotal": 56588,
+      "newsTotal": 49495,
+      "recentToday": 66,
       "recentWeek": 100,
       "topBlogs": [
+        {
+          "title": "재벌X형사 시즌1 줄거리·결말 복습｜진승주가 진이수 부모를 죽인 ....",
+          "link": "https://blog.naver.com/happydr29/224363662825",
+          "blogger": "바나나",
+          "date": "2026-07-31"
+        },
         {
           "title": "재벌 형사 2 기본정보: 몇부작, 출연진, 등장인물 관계도, 줄거리 총....",
           "link": "https://blog.naver.com/dba0907/224357962576",
@@ -242,22 +248,16 @@
           "date": "2026-07-28"
         },
         {
-          "title": "‘재벌X형사2’ 강력1팀, ‘클래스는 달라도 정의는 같다’ 수사 재....",
-          "link": "https://blog.naver.com/dotnews/224355514961",
-          "blogger": "닷뉴스",
-          "date": "2026-07-23"
-        },
-        {
-          "title": "주인공 교체 재벌X형사2 정은채 이어 유승호 합류 정보 OTT 방영일 몇....",
-          "link": "https://blog.naver.com/okjoa012/224353153547",
-          "blogger": "세계의 영화지도",
-          "date": "2026-07-24"
-        },
-        {
           "title": "[재벌X형사2] 원작이 러시아 드라마? 안보현 캐릭터의 소름 돋는 원....",
           "link": "https://blog.naver.com/ccyyy03/224361296849",
           "blogger": "리뷰돌이의 드라마 같은 물욕인생",
           "date": "2026-07-29"
+        },
+        {
+          "title": "‘재벌X형사2’ 강력1팀, ‘클래스는 달라도 정의는 같다’ 수사 재....",
+          "link": "https://blog.naver.com/dotnews/224355514961",
+          "blogger": "닷뉴스",
+          "date": "2026-07-23"
         }
       ],
       "topNews": [
@@ -295,156 +295,10 @@
       "rank": 4
     },
     {
-      "keyword": "정해인",
-      "traffic": "200+",
-      "blogTotal": 124144,
-      "newsTotal": 125201,
-      "recentToday": 83,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "넷플릭스 이런 엿같은 사랑 출연진 기본정보, 정해인 하영이 그리는....",
-          "link": "https://blog.naver.com/zumzany/224363173113",
-          "blogger": "점자니의 점잖은 생활",
-          "date": "2026-07-30"
-        },
-        {
-          "title": "홍진경 오이김밥 레시피 정해인도 감탄한 다이어트 김밥",
-          "link": "https://blog.naver.com/haosu01/224340611921",
-          "blogger": "두리뭉실's 알뜰 식탁",
-          "date": "2026-07-08"
-        },
-        {
-          "title": "4%대로 조용했는데 시청률 두 배 뛴 정해인 넷플릭스 드라마 | 정소....",
-          "link": "https://blog.naver.com/cjm03199/224357638373",
-          "blogger": "도파민 다이어리",
-          "date": "2026-07-25"
-        },
-        {
-          "title": "알고 보니 정해인 인성, 논란 (+김수현 복귀)",
-          "link": "https://blog.naver.com/tmds0617/224347721633",
-          "blogger": "인상착의ㅣ인상을 바꾸는 착용의 기술",
-          "date": "2026-07-15"
-        },
-        {
-          "title": "정해인 인생 로코 예감?! 넷플릭스 <이런 엿 같은 사랑> 8월 7일 공개!....",
-          "link": "https://blog.naver.com/rock11201/224357305475",
-          "blogger": "유익하고 신비한 이야기 전도사",
-          "date": "2026-07-25"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "[옥탑방의 문제아들] 정해인·하영, 데뷔 비화부터 이상형까지~ 거침없...",
-          "link": "https://kstar.kbs.co.kr/list_view.html?idx=407382",
-          "press": "",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "“미소년 얼굴에 몸은 짐승” 정해인, 김종국도 놀란 등 근육+전완근(옥...",
-          "link": "https://www.newsen.com/news_view.php?uid=202608072256082510",
-          "press": "",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "하영 \"대대로 의사 집안, 증조할아버지→언니까지\"(옥문아) [TV캡처]",
-          "link": "http://www.stoo.com/article.php?aid=108203239471",
-          "press": "",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "[옥탑방의 문제아들] 정해인, \"이공계 준비하다 길거리 캐스팅” 26세 데...",
-          "link": "https://kstar.kbs.co.kr/list_view.html?idx=407377",
-          "press": "",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "‘참교육’ 김무열 약혼녀 하영 “누워서 글로벌 1위 날로 먹었다? 좀 좋...",
-          "link": "https://www.newsen.com/news_view.php?uid=202608072256342510",
-          "press": "",
-          "date": "2026-08-07"
-        }
-      ],
-      "rank": 5
-    },
-    {
-      "keyword": "엘니뇨",
-      "traffic": "200+",
-      "blogTotal": 46340,
-      "newsTotal": 31041,
-      "recentToday": 66,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "2026년 슈퍼 엘니뇨 온다 — 우리 일상이 어떻게 바뀔까요",
-          "link": "https://blog.naver.com/easyscience3337/224357723436",
-          "blogger": "분당과학학원 #이지싸이언스",
-          "date": "2026-07-25"
-        },
-        {
-          "title": "슈퍼 엘리뇨 뜻은? 엘니뇨 라니냐 차이까지 총정리",
-          "link": "https://blog.naver.com/jjin_1990/224331085684",
-          "blogger": "서평코치 별아해 책이야기",
-          "date": "2026-06-29"
-        },
-        {
-          "title": "엘니뇨현상이란? 뜻·원인·라니냐 차이 한번에 정리",
-          "link": "https://blog.naver.com/yoonx2mom/224314571515",
-          "blogger": "단정한 일상 by.쩨이",
-          "date": "2026-06-13"
-        },
-        {
-          "title": "엘니뇨와 라니냐 이야기",
-          "link": "https://blog.naver.com/naverschool/224320079196",
-          "blogger": "스쿨잼",
-          "date": "2026-06-18"
-        },
-        {
-          "title": "엘니뇨 현상 원인 쉽게 이해하기, 무역풍이 약해지면 무슨일이 생길....",
-          "link": "https://blog.naver.com/jjin_1990/224336395962",
-          "blogger": "서평코치 별아해 책이야기",
-          "date": "2026-07-04"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "폭염·전쟁에…세계 식량가격지수 3년반 만에 최고 수준",
-          "link": "http://www.yonhapnewstv.co.kr/news/AKR20260807230540FMK",
-          "press": "",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "이례적인 폭염, 식품 가격도 올렸다…\"3년 반 만에 최고\"",
-          "link": "https://www.hankyung.com/article/2026080715567",
-          "press": "",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "세계 식량가격 3년반 만에 ‘최고’…“이례적인 고온·이란 전쟁 영향...",
-          "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8631793&ref=A",
-          "press": "",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "폭염·전쟁에 세계 식량 가격↑...3년 반 만에 최고",
-          "link": "https://www.ytn.co.kr/_ln/0104_202608072240537552",
-          "press": "",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "폭염·전쟁에 다시 뛰는 세계 식량가격…3년 반 만에 최고",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008695654&plink=ORI&cooper=NAVER",
-          "press": "",
-          "date": "2026-08-07"
-        }
-      ],
-      "rank": 6
-    },
-    {
       "keyword": "싱가포르 대 인도네시아",
       "traffic": "100+",
-      "blogTotal": 90837,
-      "newsTotal": 11883,
+      "blogTotal": 90838,
+      "newsTotal": 11884,
       "recentToday": 48,
       "recentWeek": 100,
       "topBlogs": [
@@ -481,6 +335,12 @@
       ],
       "topNews": [
         {
+          "title": "“풍요 위해 자연 희생시킨 인류… 이 더위는 치러야 할 대가”",
+          "link": "https://www.chosun.com/culture-life/book/2026/08/08/EID4ZPNN5BH5BKGOIOPEN4K6VY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+          "press": "",
+          "date": "2026-08-07"
+        },
+        {
           "title": "국립한국해양대, 한·아세안 해양기업 89곳 글로벌 협력 확대",
           "link": "https://www.inthenews.co.kr/news/article.html?no=90299",
           "press": "",
@@ -503,10 +363,150 @@
           "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=169498",
           "press": "",
           "date": "2026-08-07"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "keyword": "류혜영",
+      "traffic": "500+",
+      "blogTotal": 21436,
+      "newsTotal": 29392,
+      "recentToday": 38,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "25살이후로 다이어트 안했다는 류혜영.. 타고난 뼈말라의 위엄",
+          "link": "https://blog.naver.com/qufqlc08/224356493836",
+          "blogger": "소유 beauty",
+          "date": "2026-07-24"
         },
         {
-          "title": "지성 ‘아파트’ 흥행 국경 넘었다‥넷플 글로벌 TOP10 한달째 입성",
-          "link": "https://www.newsen.com/news_view.php?uid=202608060953031910",
+          "title": "나혼산 류혜영 소파 거실 쇼파. 나혼자산다 의자 가구. 사멘스카브, ....",
+          "link": "https://blog.naver.com/zingga9/224321312431",
+          "blogger": "Kim쪼꼬님의 블로그",
+          "date": "2026-06-19"
+        },
+        {
+          "title": "응팔 성보라 류혜영 연예인병? 암막커튼에 숨은 충격적인 이유_나혼....",
+          "link": "https://blog.naver.com/treewg/224321545712",
+          "blogger": "나무처럼",
+          "date": "2026-06-20"
+        },
+        {
+          "title": "류혜영 나이 아파트 집 위치 동네 어디 나혼산 11년 차 자취 라이프 ....",
+          "link": "https://blog.naver.com/selly435/224320474602",
+          "blogger": "별빛 셀럽톡",
+          "date": "2026-06-19"
+        },
+        {
+          "title": "나혼산 류혜영이어폰 귀를 막지 않고 러닝하는 보스 울트라 오픈 이....",
+          "link": "https://blog.naver.com/jieun_3088/224370139595",
+          "blogger": "잡동사니 리뷰장",
+          "date": "2026-08-06"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "박경혜x현봉식→전현무 무작정 여행, 다음주 '나 혼자 산다' 예고",
+          "link": "https://enter.etoday.co.kr/news/view/300749",
+          "press": "",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "‘16년 절친’ 류혜영-고경표 풋풋했던 대학 시절 사진 깜짝 공개 (나혼...",
+          "link": "http://enews.imbc.com/News/RetrieveNewsInfo/514075",
+          "press": "",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "류혜영, 고경표 자취방 드나드는 사이였다 “부모님 마주치고 깜짝 놀라...",
+          "link": "http://www.osen.co.kr/article/G1112853694",
+          "press": "",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "류혜영 “일본 한 달 살기 후 짐 조금씩 비워내는 중” (나혼산)",
+          "link": "http://enews.imbc.com/News/RetrieveNewsInfo/514074",
+          "press": "",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "‘나혼산’ 민호 “류혜영과 대학교 동기…불량 학생인 줄 알았다”",
+          "link": "http://enews.imbc.com/News/RetrieveNewsInfo/514073",
+          "press": "",
+          "date": "2026-08-07"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "keyword": "김구라",
+      "traffic": "500+",
+      "blogTotal": 111564,
+      "newsTotal": 350750,
+      "recentToday": 21,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "주식 수익률 500% 찍은 김구라가 구매한 4대의 차",
+          "link": "https://blog.naver.com/tmzmfk010/224357709193",
+          "blogger": "힐스터K랑 오늘, 이거 볼래?",
+          "date": "2026-07-25"
+        },
+        {
+          "title": "김구라 아들 그리의 두 엄마, 17억 빚 친엄마와 고민상담 새엄마(살....",
+          "link": "https://blog.naver.com/treewg/224329171033",
+          "blogger": "나무처럼",
+          "date": "2026-06-27"
+        },
+        {
+          "title": "김구라 사주 보니 재물운/배우자운 재혼운 어떨까?!(ft병진일주,을유....",
+          "link": "https://blog.naver.com/kimtakaiji/224326124809",
+          "blogger": "원더로우",
+          "date": "2026-06-24"
+        },
+        {
+          "title": "김구라 장성규 삼성전자 수익률 극과 극? 520% 대박 vs 25% 눈물 손절의....",
+          "link": "https://blog.naver.com/mslim81/224284222675",
+          "blogger": "윤스",
+          "date": "2026-05-13"
+        },
+        {
+          "title": "김구라 늦둥이 딸 연예인 사주라고? 그리(김동현)가 직접 밝힌 충격....",
+          "link": "https://blog.naver.com/ttbb90/224315666650",
+          "blogger": "컬처캐스트 방송맨S",
+          "date": "2026-06-14"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "'김구라 子' 그리, 87세 할머니 모시고 5성급 호텔 호캉스…\"유럽도 보내...",
+          "link": "https://www.tenasia.co.kr/article/2026080714994",
+          "press": "",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "김구라 딸, 연예인 사주라더니…MC그리도 \"끼 정말 많다\" 눈길",
+          "link": "http://www.osen.co.kr/article/G1112853635",
+          "press": "",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "'김구라 子' 그리, 할머니가 물은 친母 근황 \"나뿐이라 연락 잘 드려\"",
+          "link": "https://www.sportschosun.com/entertainment/2026-08-07/202608070100043440002689",
+          "press": "",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "[TOP이슈] 서장훈, '28억→450억' 서초동 양재역 건물 내놨다…재산 2조...",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16157626",
+          "press": "",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "'심괴' 女배우, 매니저 6년 권유 끝에 출연→구마 퍼포먼스까지…\"역대...",
+          "link": "https://mhnse.com/news/articleView.html?idxno=1479934",
           "press": "",
           "date": "2026-08-06"
         }
@@ -514,85 +514,12 @@
       "rank": 7
     },
     {
-      "keyword": "김상혁",
-      "traffic": "200+",
-      "blogTotal": 17508,
-      "newsTotal": 26426,
-      "recentToday": 39,
-      "recentWeek": 75,
-      "topBlogs": [
-        {
-          "title": "김상혁 가방 대기업 연봉 사업 성공 비결은",
-          "link": "https://blog.naver.com/k251206/224352442527",
-          "blogger": "신혼쀼의 내돈내산 후기 기록",
-          "date": "2026-07-20"
-        },
-        {
-          "title": "클릭비 김상혁 동안 비결? 공복 운동부터 동안 쉐이크까지!",
-          "link": "https://blog.naver.com/uksu687/224356689573",
-          "blogger": "생활 속 건강노트",
-          "date": "2026-07-24"
-        },
-        {
-          "title": "김상혁 프로필 나이 식당 어디? 송다예와 이혼 6년차 이제 재혼 결심....",
-          "link": "https://blog.naver.com/diacpqpqp/224349650250",
-          "blogger": "K 에디트",
-          "date": "2026-07-17"
-        },
-        {
-          "title": "김상혁 고깃집 식당 육회 가게. 이혼 후 돌싱 근황. 육회관블랙 신용....",
-          "link": "https://blog.naver.com/zingga9/224350286228",
-          "blogger": "Kim쪼꼬님의 블로그",
-          "date": "2026-07-18"
-        },
-        {
-          "title": "김상혁 사업 매출 대기업 연봉 이상 공개, 실제로 운영하는 일은 무....",
-          "link": "https://blog.naver.com/happyhan1122/224356284908",
-          "blogger": "두근두근 내 인생、",
-          "date": "2026-07-25"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "'돌싱' 김상혁, 소개팅녀와 첫 만남부터 \"시술 많이 하셨냐\"…이승철 \"미...",
-          "link": "https://www.tvreport.co.kr/broadcast/article/1067199/",
-          "press": "",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "47세 김상혁, 홀로서기 6년만..인터넷 쇼핑몰 CEO와 소개팅 (‘신랑수업...",
-          "link": "http://www.osen.co.kr/article/G1112853653",
-          "press": "",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "클릭비 김상혁, 재혼 의지 활활 불타나…꽃까지 준비하며 소개팅 출격 ...",
-          "link": "https://www.xportsnews.com/article/2181248",
-          "press": "",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "김상혁, 1억 생긴다면 \"가상화폐 물 탈 것\" 솔직 고백 웃음 (신랑수업2)",
-          "link": "https://www.xportsnews.com/article/2181245",
-          "press": "",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "‘신랑수업2’ 돌싱 김상혁 소개팅 상대는? “만날 운명이었나”",
-          "link": "http://enews.imbc.com/News/RetrieveNewsInfo/514066",
-          "press": "",
-          "date": "2026-08-07"
-        }
-      ],
-      "rank": 8
-    },
-    {
       "keyword": "박항서",
       "traffic": "100+",
-      "blogTotal": 49418,
+      "blogTotal": 49420,
       "newsTotal": 60369,
       "recentToday": 7,
-      "recentWeek": 77,
+      "recentWeek": 78,
       "topBlogs": [
         {
           "title": "베트남 신화 박항서, 이번엔 태국 2부리그로…쌀딩크 매직 재현될까....",
@@ -657,6 +584,79 @@
           "date": "2026-08-07"
         }
       ],
+      "rank": 8
+    },
+    {
+      "keyword": "기사",
+      "traffic": "100+",
+      "blogTotal": 28515838,
+      "newsTotal": 14234110,
+      "recentToday": 0,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "버스기사 월급 현실, 수당까지 제대로 알아보고 지원하세요",
+          "link": "https://blog.naver.com/serom200/224294937018",
+          "blogger": "선플라워",
+          "date": "2026-05-24"
+        },
+        {
+          "title": "[자몽이네 집밥 레시피] 실패없는 기사식당 제육볶음 만드는 법 ️ ....",
+          "link": "https://blog.naver.com/p0409u/224313333014",
+          "blogger": "자몽이네 다정한 보통날",
+          "date": "2026-06-12"
+        },
+        {
+          "title": "직장인 산업위생관리기사 필기 5일 합격 후기 | 실기 벼락치기 공부....",
+          "link": "https://blog.naver.com/ekdk940/224348145572",
+          "blogger": "다아의 웨딩 & 일상기록",
+          "date": "2026-07-16"
+        },
+        {
+          "title": "[2026] 안정적인 버스기사 되는법 및 채용 조건 (실제 월급, 수당 기준....",
+          "link": "https://blog.naver.com/wjh20211/224294942090",
+          "blogger": "이대리경제이야기",
+          "date": "2026-05-24"
+        },
+        {
+          "title": "누가 더 많이 버나 기사들 중 TOP! 고속버스기사 월급 공개(ft. 버스운....",
+          "link": "https://blog.naver.com/certified07/224292656713",
+          "blogger": "스페셜리스트",
+          "date": "2026-05-21"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "애플 저가 매수 기회?…금값도 시동 건다[박신영의 개장전 요것만]",
+          "link": "https://www.hankyung.com/article/202608081598i",
+          "press": "",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "“설마 일본 심판도 성접대 받았나?” 충격 받은 日언론, 대한축구협회...",
+          "link": "http://www.osen.co.kr/article/G1112853613",
+          "press": "",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "샌디스크·웨스턴디지털, 호실적에도 매도 폭탄...엔비디아로 돈 몰리나...",
+          "link": "http://coinreaders.com/251775",
+          "press": "",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "정장男에게 돈봉투 건네는 할머니?…이상함 느낀 택배기사, 2990만원 보...",
+          "link": "https://www.sedaily.com/article/20077162?ref=naver",
+          "press": "",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "한국 갖고 온 '1만장' 벌써 완판!…\"이강인, 그리즈만 5배\"→ATM 영입 효...",
+          "link": "https://www.xportsnews.com/article/2181280",
+          "press": "",
+          "date": "2026-08-07"
+        }
+      ],
       "rank": 9
     },
     {
@@ -674,28 +674,28 @@
           "date": "2026-08-03"
         },
         {
-          "title": "8·3 '26년도 부동산 세제 개편안 상세 요약 및 시장 파급력 분석",
-          "link": "https://tikongs.tistory.com/1791",
+          "title": "8월 4일(화) IT 정보보안 뉴스클리핑",
+          "link": "https://tikongs.tistory.com/1787",
           "blogger": "콩쓰의 화끈한 생각",
           "date": "2026-08-04"
         },
         {
-          "title": "자바의 특징, 장점",
-          "link": "https://tikongs.tistory.com/294",
+          "title": "아웃룩의 강력한 대안, 모질라 썬더버드(Thunderbird) 가이드",
+          "link": "https://tikongs.tistory.com/1387",
           "blogger": "콩쓰의 화끈한 생각",
-          "date": "2014-04-22"
+          "date": "2026-04-20"
         },
         {
-          "title": "[Từ điển Anh-Việt] 'K-' (1)",
-          "link": "https://blog.naver.com/grioom00/223977696357",
-          "blogger": "헛짓거리 저장소",
-          "date": "2025-08-21"
+          "title": "show-me-the-work (smtw): AI 에이전트 실행 증거 검증 도구 완벽 가이드",
+          "link": "https://tikongs.tistory.com/1747",
+          "blogger": "콩쓰의 화끈한 생각",
+          "date": "2026-07-24"
         },
         {
-          "title": "베트남어 단어 1000 + 문장 1000 (801~900)",
-          "link": "https://blog.naver.com/zek24/220787129864",
-          "blogger": "은지아빠 공부로그",
-          "date": "2016-08-14"
+          "title": "7월 28일(화) IT 정보보안 뉴스클리핑",
+          "link": "https://tikongs.tistory.com/1758",
+          "blogger": "콩쓰의 화끈한 생각",
+          "date": "2026-07-28"
         }
       ],
       "topNews": [
