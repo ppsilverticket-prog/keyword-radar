@@ -1,86 +1,13 @@
 {
-  "updatedAt": "2026-08-08T16:30:07.781Z",
+  "updatedAt": "2026-08-08T17:04:37.035Z",
   "source": "live",
   "keywords": [
     {
-      "keyword": "맨유",
-      "traffic": "500+",
-      "blogTotal": 396302,
-      "newsTotal": 392428,
-      "recentToday": 91,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "맨유 26/27 어웨이 유니폼 후기 - 잠실 아디다스 브랜드센터 롯데월드....",
-          "link": "https://blog.naver.com/luvletterkim/224357472162",
-          "blogger": "사랑찾아 인생을 찾아",
-          "date": "2026-07-25"
-        },
-        {
-          "title": "맨유의 MF 에두아르도 카마빙가 영입 추진, 득보다 실이 많은 '고위....",
-          "link": "https://blog.naver.com/football_goat/224363642215",
-          "blogger": "스포츠를 생각하는 축보트",
-          "date": "2026-07-31"
-        },
-        {
-          "title": "맨유, 여름 네 번째 영입 완료…스완지 출신 유망주 골키퍼 키트 마....",
-          "link": "https://blog.naver.com/ssuggest/224359879611",
-          "blogger": "영군의 즐거운 세상",
-          "date": "2026-07-28"
-        },
-        {
-          "title": "맨유가 임대를 거부한 4명의 천재들… 셰이 레이시·플레처 형제·JJ ....",
-          "link": "https://blog.naver.com/nomessi/224362044702",
-          "blogger": "노희동의 축구이야기",
-          "date": "2026-07-29"
-        },
-        {
-          "title": "\"5000만 파운드 투자\" 맨유가 산투스를 선택한 결정적 배경",
-          "link": "https://blog.naver.com/yyjj2814/224341170231",
-          "blogger": "열정의 그라운드",
-          "date": "2026-07-09"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "'그야말로 깜짝 타깃'...맨체스터 유나이티드, 2007년생 '초신성' 바이아...",
-          "link": "https://www.mydaily.co.kr/page/view/2026080815142742802",
-          "press": "",
-          "date": "2026-08-08"
-        },
-        {
-          "title": "'맨유 초대형 호재!' 세슈코, 드디어 돌아온다...다음 주 훈련캠프 합류...",
-          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96061",
-          "press": "",
-          "date": "2026-08-08"
-        },
-        {
-          "title": "\"절대 안 팔아\" 맨체스터 유나이티드 초비상! 레프트백 보강 '핵심 타깃...",
-          "link": "https://mhnse.com/news/articleView.html?idxno=1483415",
-          "press": "",
-          "date": "2026-08-08"
-        },
-        {
-          "title": "'HERE WE GO' 컨펌! \"맨유 가려고 두 번이나 매달렸는데...\" 발레바, 발목...",
-          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96060",
-          "press": "",
-          "date": "2026-08-08"
-        },
-        {
-          "title": "[오피셜] 맨유가 노렸던 재능...PSV, '사노 카이슈 弟' 사노 코다이 품었...",
-          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=692133",
-          "press": "",
-          "date": "2026-08-08"
-        }
-      ],
-      "rank": 1
-    },
-    {
       "keyword": "psg",
       "traffic": "200+",
-      "blogTotal": 160367,
-      "newsTotal": 178175,
-      "recentToday": 90,
+      "blogTotal": 160368,
+      "newsTotal": 178176,
+      "recentToday": 89,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -116,6 +43,12 @@
       ],
       "topNews": [
         {
+          "title": "‘축구의 신’ 메시 키워낸 조력자 부친 별세…20여년 간 스타 뒷받침",
+          "link": "https://www.dt.co.kr/article/12077160?ref=naver",
+          "press": "",
+          "date": "2026-08-08"
+        },
+        {
           "title": "이강인, 처진 스트라이커 활용? 시메오네 감독 “장점 극대화하는 데 초...",
           "link": "https://www.mk.co.kr/article/12121805",
           "press": "",
@@ -138,10 +71,77 @@
           "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=692140",
           "press": "",
           "date": "2026-08-08"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "keyword": "맨유",
+      "traffic": "500+",
+      "blogTotal": 396303,
+      "newsTotal": 392429,
+      "recentToday": 88,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "맨유 26/27 어웨이 유니폼 후기 - 잠실 아디다스 브랜드센터 롯데월드....",
+          "link": "https://blog.naver.com/luvletterkim/224357472162",
+          "blogger": "사랑찾아 인생을 찾아",
+          "date": "2026-07-25"
         },
         {
-          "title": "‘아틀레티코 7번’ 이강인 “레전드들이 달았던 번호란 것 알아”···...",
-          "link": "https://www.mk.co.kr/article/12121802",
+          "title": "맨유의 MF 에두아르도 카마빙가 영입 추진, 득보다 실이 많은 '고위....",
+          "link": "https://blog.naver.com/football_goat/224363642215",
+          "blogger": "스포츠를 생각하는 축보트",
+          "date": "2026-07-31"
+        },
+        {
+          "title": "맨유, 여름 네 번째 영입 완료…스완지 출신 유망주 골키퍼 키트 마....",
+          "link": "https://blog.naver.com/ssuggest/224359879611",
+          "blogger": "영군의 즐거운 세상",
+          "date": "2026-07-28"
+        },
+        {
+          "title": "맨유가 임대를 거부한 4명의 천재들… 셰이 레이시·플레처 형제·JJ ....",
+          "link": "https://blog.naver.com/nomessi/224362044702",
+          "blogger": "노희동의 축구이야기",
+          "date": "2026-07-29"
+        },
+        {
+          "title": "맨유 26/27 홈 유니폼 후기 - 잠실 아디다스 브랜드센터 롯데월드몰점",
+          "link": "https://blog.naver.com/luvletterkim/224299397555",
+          "blogger": "사랑찾아 인생을 찾아",
+          "date": "2026-05-28"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "'아모림은 밀어냈지만 캐릭은 품는다!' 래쉬포드, 캐릭과 직접 연락까지...",
+          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96063",
+          "press": "",
+          "date": "2026-08-08"
+        },
+        {
+          "title": "'맨유 초대형 호재!' 세슈코, 드디어 돌아온다...다음 주 훈련캠프 합류...",
+          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96061",
+          "press": "",
+          "date": "2026-08-08"
+        },
+        {
+          "title": "'그야말로 깜짝 타깃'...맨체스터 유나이티드, 2007년생 '초신성' 바이아...",
+          "link": "https://www.mydaily.co.kr/page/view/2026080815142742802",
+          "press": "",
+          "date": "2026-08-08"
+        },
+        {
+          "title": "\"절대 안 팔아\" 맨체스터 유나이티드 초비상! 레프트백 보강 '핵심 타깃...",
+          "link": "https://mhnse.com/news/articleView.html?idxno=1483415",
+          "press": "",
+          "date": "2026-08-08"
+        },
+        {
+          "title": "'HERE WE GO' 컨펌! \"맨유 가려고 두 번이나 매달렸는데...\" 발레바, 발목...",
+          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96060",
           "press": "",
           "date": "2026-08-08"
         }
@@ -151,9 +151,9 @@
     {
       "keyword": "면목동",
       "traffic": "200+",
-      "blogTotal": 590555,
+      "blogTotal": 590569,
       "newsTotal": 26594,
-      "recentToday": 89,
+      "recentToday": 85,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -220,79 +220,6 @@
         }
       ],
       "rank": 3
-    },
-    {
-      "keyword": "트로이",
-      "traffic": "500+",
-      "blogTotal": 281463,
-      "newsTotal": 69096,
-      "recentToday": 49,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "고전읽기 오디세이아 줄거리 요약 트로이목마 | 오디세이 영화 개봉....",
-          "link": "https://blog.naver.com/intool/224362278294",
-          "blogger": "챗GPT 전문강사 | 도서 인플루언서",
-          "date": "2026-08-01"
-        },
-        {
-          "title": "트로이 전쟁과 아킬레우스 이야기 오디세우스(Odysseus)",
-          "link": "https://blog.naver.com/gascop7/224358339790",
-          "blogger": "여행 등산 깨알 팁 TiP",
-          "date": "2026-07-26"
-        },
-        {
-          "title": "오디세우스의 10년 귀향 여정: 트로이 전쟁 승리 후 고향 '이타카' 돌....",
-          "link": "https://blog.naver.com/gascop7/224367198548",
-          "blogger": "여행 등산 깨알 팁 TiP",
-          "date": "2026-08-03"
-        },
-        {
-          "title": "[상품리뷰] 인플루언서 은젤 '트로이아르케 기초' 공구템 솔직후기",
-          "link": "https://blog.naver.com/richgirl9999/224257527578",
-          "blogger": "몽땅일기",
-          "date": "2026-04-19"
-        },
-        {
-          "title": "신의 침묵 속 무너진 신앙의 시대, 영화 <트로이> 리뷰",
-          "link": "https://blog.naver.com/seok9c/224367386322",
-          "blogger": "석구랑놀자구",
-          "date": "2026-08-04"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "'스파이더맨 4' 올해 최단 500만 돌파… '오디세이'도 100만 등판",
-          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3659440",
-          "press": "",
-          "date": "2026-08-08"
-        },
-        {
-          "title": "오십 넘어 본<오디세이>, 아버지가 떠올랐다",
-          "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003257424&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
-          "press": "",
-          "date": "2026-08-08"
-        },
-        {
-          "title": "놀란 감독 '오디세이', 개봉 4일 만에 100만 돌파⋯'왕사남' 보다 빠르다",
-          "link": "https://www.etoday.co.kr/news/view/2612397",
-          "press": "",
-          "date": "2026-08-08"
-        },
-        {
-          "title": "10m 트로이 목마·필름 길이 640km…'오디세이' 비하인드 화제",
-          "link": "https://www.slist.kr/news/articleView.html?idxno=757497",
-          "press": "",
-          "date": "2026-08-08"
-        },
-        {
-          "title": "'오디세이', 개봉 4일째 100만 돌파…박스오피스 3일 연속 1위",
-          "link": "https://www.nocutnews.co.kr/news/6560105?utm_source=naver&utm_medium=article&utm_campaign=20260808060118",
-          "press": "",
-          "date": "2026-08-08"
-        }
-      ],
-      "rank": 4
     },
     {
       "keyword": "김소영",
@@ -365,12 +292,85 @@
           "date": "2026-08-08"
         }
       ],
+      "rank": 4
+    },
+    {
+      "keyword": "fotmob",
+      "traffic": "100+",
+      "blogTotal": 11004,
+      "newsTotal": 1434,
+      "recentToday": 21,
+      "recentWeek": 70,
+      "topBlogs": [
+        {
+          "title": "주먹으로 잔디 내리친 이강인, 남아공전 패배 뒤 흘린 눈물이 더 아....",
+          "link": "https://blog.naver.com/ehdwns3405/224328186078",
+          "blogger": "필드노트 LOG",
+          "date": "2026-06-26"
+        },
+        {
+          "title": "'2승2무' 노르웨이는 브라질전 무패 중",
+          "link": "https://blog.naver.com/soccerbox82/224335033672",
+          "blogger": "축구 맛집 싸커박스",
+          "date": "2026-07-03"
+        },
+        {
+          "title": "스페인 2-0 프랑스 경기 후 선수 평점",
+          "link": "https://blog.naver.com/soccerbox82/224347001430",
+          "blogger": "축구 맛집 싸커박스",
+          "date": "2026-07-15"
+        },
+        {
+          "title": "북중미 월드컵 개최 3개국 모두 무패행진",
+          "link": "https://blog.naver.com/soccerbox82/224322478369",
+          "blogger": "축구 맛집 싸커박스",
+          "date": "2026-06-21"
+        },
+        {
+          "title": "토트넘은 매년 부상으로 고생한다 이게 맞나?",
+          "link": "https://blog.naver.com/soccerbox82/224178451673",
+          "blogger": "축구 맛집 싸커박스",
+          "date": "2026-02-12"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "이한범, 입단 나흘 만에 'MOM'… 벨기에 데뷔전 합격점",
+          "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=02722406645545352",
+          "press": "",
+          "date": "2026-08-08"
+        },
+        {
+          "title": "[if.review] 케인이 침묵하니 벨링엄이 터졌다! '슈퍼스타' 벨링엄의 존...",
+          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=94710",
+          "press": "",
+          "date": "2026-07-12"
+        },
+        {
+          "title": "초대박! '韓축구 에이스' 이강인, 월드컵 'TOP 10' 진입...'최다 드리블...",
+          "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553361659",
+          "press": "",
+          "date": "2026-07-08"
+        },
+        {
+          "title": "[월드컵] \"할아버지처럼 어슬렁 거린다!\" BBC의 저격. C 호날두에 극대노...",
+          "link": "https://www.sportschosun.com/football/2026-07-07/202607070100041700002450",
+          "press": "",
+          "date": "2026-07-07"
+        },
+        {
+          "title": "'벨링엄 멀티골' 잉글랜드, 개최국 멕시코 격파…진땀 승부 끝 8강행",
+          "link": "https://news.tf.co.kr/read/soccer/2340075.htm",
+          "press": "",
+          "date": "2026-07-06"
+        }
+      ],
       "rank": 5
     },
     {
       "keyword": "psg 대 맨유",
       "traffic": "2000+",
-      "blogTotal": 6638,
+      "blogTotal": 6639,
       "newsTotal": 1002,
       "recentToday": 14,
       "recentWeek": 51,
@@ -514,79 +514,6 @@
       "rank": 7
     },
     {
-      "keyword": "토트넘 헤타페",
-      "traffic": "200+",
-      "blogTotal": 6740,
-      "newsTotal": 2197,
-      "recentToday": 5,
-      "recentWeek": 16,
-      "topBlogs": [
-        {
-          "title": "2026 토트넘 프리시즌 중계｜양민혁 출전·헤타페 호펜하임 한국시간....",
-          "link": "https://blog.naver.com/make2t0418/224372063556",
-          "blogger": "우유한모금",
-          "date": "2026-08-08"
-        },
-        {
-          "title": "토트넘 프리시즌 일정 토트넘홋스퍼 헤타페 호펜하임 양민혁 선발 ....",
-          "link": "https://blog.naver.com/miha1023/224369875435",
-          "blogger": "♥고슴도치 새댁♥",
-          "date": "2026-08-06"
-        },
-        {
-          "title": "토트넘 헤타페 8월 8일 경기 승부예측 프리뷰 무료중계 보는 방법 추....",
-          "link": "https://blog.naver.com/diaspora421/224372272662",
-          "blogger": "디아스포라 블로그",
-          "date": "2026-08-08"
-        },
-        {
-          "title": "라리가의 모든 것에 대해 이야기하자 [디 애슬레틱] QnA",
-          "link": "https://wsoccer-wbaseball-story.tistory.com/109",
-          "blogger": "European Soccer & MLB Story",
-          "date": "2020-04-09"
-        },
-        {
-          "title": "쿠팡플레이시리즈 맨시티 vs 아틀레티코 3년만 재매치 일정, 티켓 예....",
-          "link": "https://blog.naver.com/yj_hwang09/224359117510",
-          "blogger": "육아하며 차곡차곡 재테크",
-          "date": "2026-07-27"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "2년 연속 17위에 절망, 토트넘 떠나려 했던 판 더 펜… 5년 재계약 눈앞...",
-          "link": "https://www.besteleven.com/news/articleView.html?idxno=310914",
-          "press": "",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "韓 축구 악재! '손흥민 후계자' 양민혁, 프리시즌 대형 날벼락...\"활약상...",
-          "link": "https://www.sportschosun.com/football/2026-08-05/202608050100027570001686",
-          "press": "",
-          "date": "2026-08-05"
-        },
-        {
-          "title": "\"다음 행보 판단하기 쉽지 않아\" 양민혁 향한 냉정한 평가",
-          "link": "https://www.nocutnews.co.kr/news/6557672?utm_source=naver&utm_medium=article&utm_campaign=20260804083820",
-          "press": "",
-          "date": "2026-08-03"
-        },
-        {
-          "title": "\"양민혁 토트넘 행보 예측 안 돼\"...프리시즌 존재감 없었다! 데 제르비...",
-          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=691831",
-          "press": "",
-          "date": "2026-08-03"
-        },
-        {
-          "title": "한국 0분, 일본은 난리! 손흥민 이후 드디어 日의 시대…데 제르비 감독...",
-          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=832572",
-          "press": "",
-          "date": "2026-08-03"
-        }
-      ],
-      "rank": 8
-    },
-    {
       "keyword": "mutv",
       "traffic": "200+",
       "blogTotal": 1349,
@@ -655,6 +582,79 @@
           "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=91873",
           "press": "",
           "date": "2026-05-13"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "keyword": "가능한 사랑",
+      "traffic": "200+",
+      "blogTotal": 21783828,
+      "newsTotal": 1983498,
+      "recentToday": 0,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "'러닝 타임이 2시간 44분?' 가능한 사랑 출연진, 등장인물 (넷플릭스 ....",
+          "link": "https://blog.naver.com/jangkkoo/224365886390",
+          "blogger": "아나스타샤한 일기장",
+          "date": "2026-08-02"
+        },
+        {
+          "title": "[ 돌아기 선물 ] 사랑둥이 아기그림책 :: 책 육아 | 세이펜 호환 가능....",
+          "link": "https://blog.naver.com/1004kkjj/224344540420",
+          "blogger": "Daily ✨",
+          "date": "2026-07-13"
+        },
+        {
+          "title": "이창동 감독 8년 만의 컴백작 '가능한 사랑', 전도연·설경구·조인성....",
+          "link": "https://blog.naver.com/allday_everyday/224353153974",
+          "blogger": "올데이톡톡 | 매일 보는 트렌드",
+          "date": "2026-07-21"
+        },
+        {
+          "title": "성남사랑상품권 사용 가능한 맛집 총정리! 판교·분당·모란·야탑·....",
+          "link": "https://blog.naver.com/wltn6129/224362711868",
+          "blogger": "느슨한 기록",
+          "date": "2026-07-31"
+        },
+        {
+          "title": "이창동 감독 넷플 영화 가능한 사랑 전도연 조인성 설경구 조여정 ....",
+          "link": "https://blog.naver.com/withjames0115/224231253773",
+          "blogger": "읽어주는 남자의 세상일기",
+          "date": "2026-03-27"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "벽 가득 채운 2,500장 카드...\"첫 번째 생일 축하해\"",
+          "link": "https://www.ytn.co.kr/_ln/0104_202608090115408182",
+          "press": "",
+          "date": "2026-08-08"
+        },
+        {
+          "title": "김정렬, 군 복무 중 숨진 형 고백…36년 만에 밝혀진 진실",
+          "link": "https://sports.donga.com/ent/article/all/20260808/134441973/1",
+          "press": "",
+          "date": "2026-08-08"
+        },
+        {
+          "title": "오늘의 운세-띠별(8월9일)",
+          "link": "http://www.kjdaily.com/article.php?aid=1786201201683967227",
+          "press": "",
+          "date": "2026-08-08"
+        },
+        {
+          "title": "오늘의 운세 띠별 운세 8월 9일",
+          "link": "https://www.bntnews.co.kr/article/view/bnt202608080091",
+          "press": "",
+          "date": "2026-08-08"
+        },
+        {
+          "title": "[오늘의 운세] 2026년 8월 9일 띠별 운세",
+          "link": "https://www.news1.kr/life-culture/fortune-wisesaying/6252525",
+          "press": "",
+          "date": "2026-08-08"
         }
       ],
       "rank": 9
