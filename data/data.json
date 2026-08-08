@@ -1,12 +1,158 @@
 {
-  "updatedAt": "2026-08-08T05:40:49.352Z",
+  "updatedAt": "2026-08-08T06:47:14.107Z",
   "source": "live",
   "keywords": [
     {
-      "keyword": "하리수",
+      "keyword": "입양",
+      "traffic": "2000+",
+      "blogTotal": 2519829,
+      "newsTotal": 404975,
+      "recentToday": 100,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "포인핸드에서 운명처럼 만난 내 새끼, 유기견 보호소 입양 절차와 ....",
+          "link": "https://blog.naver.com/heyllaattee/224365528791",
+          "blogger": "떼떼 하우스, 애개육아 이야기",
+          "date": "2026-08-02"
+        },
+        {
+          "title": "[경기 | 화성] <반려마루 화성 고양이 입양센터> 자원봉사 신청방법....",
+          "link": "https://blog.naver.com/gjyejin/224360537899",
+          "blogger": "Jinnie's Blog",
+          "date": "2026-07-28"
+        },
+        {
+          "title": "포인핸드 유기견 보호소 봉사활동 입양 후원 방법",
+          "link": "https://blog.naver.com/eh60135/224362212191",
+          "blogger": "하얀댕댕 말티즈",
+          "date": "2026-07-29"
+        },
+        {
+          "title": "가족이 생겼어요 ♥ / 주세요닷컴 강아지 입양 후기 (솔직 후기 + 비....",
+          "link": "https://blog.naver.com/oh0527sy/224219928820",
+          "blogger": "ʬʬ",
+          "date": "2026-03-17"
+        },
+        {
+          "title": "예뻐서 입양했다가? 파양률 높은 고양이 품종 숨겨진 반전 이유",
+          "link": "https://blog.naver.com/kl1106/224367482244",
+          "blogger": "식탐대장 토르",
+          "date": "2026-08-04"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "이 대통령, ‘결혼 페널티’ 개선 예고…“정책 때문에 망설이는 일 없...",
+          "link": "https://www.hani.co.kr/arti/politics/bluehouse/1271991.html",
+          "press": "",
+          "date": "2026-08-08"
+        },
+        {
+          "title": "李대통령 \"청년 결혼 망설이지 않게\"…대출·청약·세제 22개 과제 점검",
+          "link": "https://news.tf.co.kr/read/ptoday/2351988.htm",
+          "press": "",
+          "date": "2026-08-08"
+        },
+        {
+          "title": "\"결혼 망설이는 일 없게\"…李대통령, 22개 '결혼 페널티' 손질 예고",
+          "link": "https://www.sisajournal.com/news/articleView.html?idxno=382866",
+          "press": "",
+          "date": "2026-08-08"
+        },
+        {
+          "title": "‘결혼 불이익’ 없게끔…이 대통령 대출·청약·세제 점검 지시",
+          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000001372&cp=nv",
+          "press": "",
+          "date": "2026-08-08"
+        },
+        {
+          "title": "\"결혼, 불이익 없어야\"…李, '대출·청약·세제' 22개 과제 점검 지시",
+          "link": "https://www.dailian.co.kr/news/view/1676139/?sc=Naver",
+          "press": "",
+          "date": "2026-08-08"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "keyword": "삼성 갤럭시 z 시리즈",
       "traffic": "200+",
-      "blogTotal": 14731,
-      "newsTotal": 20669,
+      "blogTotal": 120531,
+      "newsTotal": 51859,
+      "recentToday": 100,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "삼성 갤럭시 Z 폴드8 장점 단점 실사용후기",
+          "link": "https://blog.naver.com/01198916129/224363871891",
+          "blogger": "테크티노의 IT 이야기",
+          "date": "2026-07-31"
+        },
+        {
+          "title": "삼성 갤럭시 Z폴드8 사전예약 자급제 아이폰17에서 갈아탈 이유",
+          "link": "https://blog.naver.com/bian258/224360792632",
+          "blogger": "지구는 둥그니까",
+          "date": "2026-07-28"
+        },
+        {
+          "title": "삼성 갤럭시Z8 시리즈 가격 특징 비교 (Z폴드8울트라, Z폴드8, Z플립8)",
+          "link": "https://blog.naver.com/pmh0830kr/224358722028",
+          "blogger": "우리들만의 비밀코디북",
+          "date": "2026-07-26"
+        },
+        {
+          "title": "갤럭시 Z 폴드8 사전예약 : 직접 써본 후기",
+          "link": "https://blog.naver.com/holpi37/224356983042",
+          "blogger": "이타적 연구소",
+          "date": "2026-07-25"
+        },
+        {
+          "title": "갤럭시 폴더블폰 Z플립8 사전예약 하고 왔어요! 삼성닷컴 전용혜택 ....",
+          "link": "https://blog.naver.com/shinhaley/224360288138",
+          "blogger": "햇님! 뭐 했님?",
+          "date": "2026-07-28"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "갤럭시 폴드8 시리즈 정식 출시…민팃 \"중고폰 팔면 최대 5만원 더\"",
+          "link": "https://www.econovill.com/news/articleView.html?idxno=747477",
+          "press": "",
+          "date": "2026-08-08"
+        },
+        {
+          "title": "[테크톡노트] 폴드는 어떻게 '아재폰'에서 'MZ폰'이 됐나",
+          "link": "https://www.yna.co.kr/view/AKR20260807094200017?input=1195m",
+          "press": "",
+          "date": "2026-08-08"
+        },
+        {
+          "title": "갤럭시Z 플립9 단종되면 안되는 이유",
+          "link": "https://www.betanews.net/article/view/beta202608080001",
+          "press": "",
+          "date": "2026-08-08"
+        },
+        {
+          "title": "\"귀여운데 철벽 방어까지\"…케이스티파이, '갤Z8' 꽉 잡아주네[잇:써봐...",
+          "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=02840486645545352",
+          "press": "",
+          "date": "2026-08-08"
+        },
+        {
+          "title": "애플, 삼성 갤럭시 Z 폴드 8 중국 출시날 보상판매 금액 인상",
+          "link": "https://www.raonnews.com/news/article.html?no=60149",
+          "press": "",
+          "date": "2026-08-08"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "keyword": "하리수",
+      "traffic": "500+",
+      "blogTotal": 14751,
+      "newsTotal": 20670,
       "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
@@ -35,13 +181,19 @@
           "date": "2026-08-07"
         },
         {
-          "title": "하리수, 미키정과 이혼 진짜 이유 밝혔다…\"30억 루머는 사실 아니다....",
-          "link": "https://blog.naver.com/soggomdi/224371876474",
-          "blogger": "안 보면 손해☆정보 보물단지",
+          "title": "하리수 미키정 이혼 이유 근황 눈길",
+          "link": "https://blog.naver.com/dydghks3250/224371936808",
+          "blogger": "❤️ ✅kGn뉴스 ✅❤️",
           "date": "2026-08-08"
         }
       ],
       "topNews": [
+        {
+          "title": "하리수 “전 남편 미키정에 폭력? 사실 아냐..이혼한 진짜 이유는”(‘...",
+          "link": "https://www.heraldmuse.com/article/10834790?ref=naver",
+          "press": "",
+          "date": "2026-08-08"
+        },
         {
           "title": "‘트젠’ 하리수에 대시한 톱 배우 S·L·K..“남자들 지긋지긋하게 따...",
           "link": "https://www.sportschosun.com/entertainment/2026-08-08/202608080100045520002822",
@@ -65,21 +217,15 @@
           "link": "https://www.mk.co.kr/article/12121699",
           "press": "",
           "date": "2026-08-08"
-        },
-        {
-          "title": "하리수, 미키정과 이혼한 진짜 이유…“아이 못 낳아 항상 미안했다”",
-          "link": "https://isplus.com/article/view/isp202608080022",
-          "press": "",
-          "date": "2026-08-08"
         }
       ],
-      "rank": 1
+      "rank": 3
     },
     {
       "keyword": "파크 골프",
       "traffic": "1000+",
-      "blogTotal": 1041840,
-      "newsTotal": 288937,
+      "blogTotal": 1041790,
+      "newsTotal": 288938,
       "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
@@ -116,6 +262,12 @@
       ],
       "topNews": [
         {
+          "title": "한국파크골프학회 공식 출범…조준용 회장 \"파크골프의 산업적 성장 돕...",
+          "link": "https://www.dailian.co.kr/news/view/1676046/?sc=Naver",
+          "press": "",
+          "date": "2026-08-08"
+        },
+        {
           "title": "태백 황부자 며느리축제 28일 개막…황지연못 일대 이틀간 개최",
           "link": "https://www.yna.co.kr/view/AKR20260807136900062?input=1195m",
           "press": "",
@@ -138,20 +290,14 @@
           "link": "http://www.inews24.com/view/1993073",
           "press": "",
           "date": "2026-08-08"
-        },
-        {
-          "title": "\"더위 피해 일찍 쳐요\"…창원 파크골프장 새벽부터 수백명 긴 줄",
-          "link": "https://www.yna.co.kr/view/AKR20260807065800052?input=1195m",
-          "press": "",
-          "date": "2026-08-07"
         }
       ],
-      "rank": 2
+      "rank": 4
     },
     {
       "keyword": "기안84",
       "traffic": "1000+",
-      "blogTotal": 159476,
+      "blogTotal": 159479,
       "newsTotal": 103958,
       "recentToday": 100,
       "recentWeek": 100,
@@ -219,233 +365,160 @@
           "date": "2026-08-08"
         }
       ],
-      "rank": 3
-    },
-    {
-      "keyword": "자녀",
-      "traffic": "1000+",
-      "blogTotal": 14805580,
-      "newsTotal": 3579865,
-      "recentToday": 100,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "2026년부터 보육수당 비과세, 자녀 수만큼 늘어납니다",
-          "link": "https://blog.naver.com/shoppartner/224366643029",
-          "blogger": "샵파트너세무법인 공식 블로그",
-          "date": "2026-08-03"
-        },
-        {
-          "title": "\"애가 둘이면 다자녀 혜택 다 받습니다\" 2026년 기준 서울 vs 경기도 ....",
-          "link": "https://blog.naver.com/certified07/224317999008",
-          "blogger": "스페셜리스트",
-          "date": "2026-06-27"
-        },
-        {
-          "title": "삼성화재 자녀사랑 할인 특약 가입 방법 등록 신청",
-          "link": "https://blog.naver.com/pepes119/224359486574",
-          "blogger": "그램",
-          "date": "2026-07-27"
-        },
-        {
-          "title": "만 14세 미만 자녀 애플 계정 생성 방법부터 결제 차단 설정까지",
-          "link": "https://blog.naver.com/themban/224353007937",
-          "blogger": "생활력 업그레이드 프로젝트",
-          "date": "2026-07-24"
-        },
-        {
-          "title": "자녀 주식 증여 방법, 현금보다 유리한 이유 3가지 (2026 최신)",
-          "link": "https://blog.naver.com/rijjung/224326726625",
-          "blogger": "행복한 라온맘과 라온파\"",
-          "date": "2026-06-25"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "\"10대 여성과 재혼했습니다\" 38세 日격투기 스타, 충격의 재혼 발표…2주...",
-          "link": "https://www.xportsnews.com/article/2181386",
-          "press": "",
-          "date": "2026-08-08"
-        },
-        {
-          "title": "지성, 이번엔 유튜버 변신…박병은 비리 폭로 나선다 (아파트)",
-          "link": "https://sports.donga.com/ent/article/all/20260808/134441458/1",
-          "press": "",
-          "date": "2026-08-08"
-        },
-        {
-          "title": "10ｍ 트로이 목마에 실제 항해까지…'오디세이' 제작 이모저모",
-          "link": "https://www.yna.co.kr/view/AKR20260808032900005?input=1195m",
-          "press": "",
-          "date": "2026-08-08"
-        },
-        {
-          "title": "건양대 논산계룡진로체험센터, 지역 학부모·학생 대상 '맞춤형 직업 체...",
-          "link": "http://www.beyondpost.co.kr/view.php?ud=20260808140925470192e75d13a3_30",
-          "press": "",
-          "date": "2026-08-08"
-        },
-        {
-          "title": "이 대통령도 질타한 ‘주가 누르기 방지법’ 정부안, 핵심 문제 4가지",
-          "link": "https://vop.co.kr/A00001696137.html",
-          "press": "",
-          "date": "2026-08-08"
-        }
-      ],
-      "rank": 4
-    },
-    {
-      "keyword": "김선태",
-      "traffic": "2000+",
-      "blogTotal": 32350,
-      "newsTotal": 39766,
-      "recentToday": 69,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "김선태 누구? 나이 프로필 논란에 자진 하차 KBS'돈선태 성공시대' 시....",
-          "link": "https://blog.naver.com/qhrfks1004/224363919972",
-          "blogger": "♥라니의 달콤한세상이야기♥",
-          "date": "2026-07-31"
-        },
-        {
-          "title": "김선태, 무섭노 MC 자진하차 “공중파 단독 MC 욕심냈다”",
-          "link": "https://blog.naver.com/jaewoon197/224363881900",
-          "blogger": "도도슨트",
-          "date": "2026-07-31"
-        },
-        {
-          "title": "김선태 리센느 논란 사과 총정리, 돈선태 성공시대 무슨 일이 있었....",
-          "link": "https://blog.naver.com/whitenaruto/224363262189",
-          "blogger": "whitenaruto님의블로그",
-          "date": "2026-07-30"
-        },
-        {
-          "title": "'무섭노' 질문 결국 역풍…김선태 웹예능, 첫 방송도 못 하고 전면 ....",
-          "link": "https://blog.naver.com/ymr000128/224364579024",
-          "blogger": "ymr000128님의 블로그",
-          "date": "2026-08-01"
-        },
-        {
-          "title": "'9급 공무원에서 유튜버로' 충주맨 김선태 생애와 경력 및 학력 정리",
-          "link": "https://blog.naver.com/pso164/224354141186",
-          "blogger": "과학커뮤니케이터 박종현",
-          "date": "2026-07-25"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "자숙중인 김선태에 신임 시장 러브콜... “충주시청 다시 돌아오실래요...",
-          "link": "https://isplus.com/article/view/isp202608080034",
-          "press": "",
-          "date": "2026-08-08"
-        },
-        {
-          "title": "[뮤즈이슈]“돌아올 생각 있냐” 수척해진 김선태, 충주시장은 복직 제...",
-          "link": "https://www.heraldmuse.com/article/10834767?ref=naver",
-          "press": "",
-          "date": "2026-08-08"
-        },
-        {
-          "title": "초췌해진 김선태, 술병 가득 \"고독하구만\"…'리센느 사태' 후 심경 [ST이...",
-          "link": "http://www.stoo.com/article.php?aid=108208856648",
-          "press": "",
-          "date": "2026-08-08"
-        },
-        {
-          "title": "김선태, 사과 후 1주일 만에 근황 영상 공개…'고독하구만'",
-          "link": "https://www.cbci.co.kr/news/articleView.html?idxno=595991",
-          "press": "",
-          "date": "2026-08-08"
-        },
-        {
-          "title": "‘리센느 논란’ 김선태, 술병 가득·수염 기른 충격 근황…충주시장은...",
-          "link": "https://www.newsen.com/news_view.php?uid=202608081213502110",
-          "press": "",
-          "date": "2026-08-08"
-        }
-      ],
       "rank": 5
     },
     {
-      "keyword": "포탄",
-      "traffic": "100+",
-      "blogTotal": 198875,
-      "newsTotal": 107413,
-      "recentToday": 29,
+      "keyword": "민생회복 소비쿠폰",
+      "traffic": "10000+",
+      "blogTotal": 376083,
+      "newsTotal": 70246,
+      "recentToday": 75,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "미금역 맛집 생포탄 돼지 생갈비 내돈내산 후기",
-          "link": "https://blog.naver.com/rudwn0209/224370898911",
-          "blogger": "아이와 보통의 행복 쌓기",
-          "date": "2026-08-07"
+          "title": "2026 민생회복 소비쿠폰, 7월 21일 신청 시작! 방법·대상·사용처 완전....",
+          "link": "https://blog.naver.com/mintgpal/224349562668",
+          "blogger": "That`s OK",
+          "date": "2026-07-17"
         },
         {
-          "title": "[쩝쩝박사] 분당 미금 맛집 ㅣ생포탄 (생갈비 맛집, 회식장소 추천)",
-          "link": "https://blog.naver.com/shindong9710/224296808829",
-          "blogger": "희동이의 soso한 일상",
-          "date": "2026-05-26"
+          "title": "\"민생회복 소비쿠폰 60만 원 지급!\" 이 문자, 열어보기 전에 꼭 읽으....",
+          "link": "https://blog.naver.com/soul7963/224358354636",
+          "blogger": "누구나 행복한 세상",
+          "date": "2026-07-26"
         },
         {
-          "title": "별내 돼지갈비 맛집 박경순포탄갈비 별내본점, 가성비까지 만족했....",
-          "link": "https://blog.naver.com/aha2332/224360429018",
-          "blogger": "오늘의 혼첼",
-          "date": "2026-07-28"
+          "title": "2025 민생회복 소비쿠폰 25만 원, 지급 기준부터 경제 효과·국가채무 ....",
+          "link": "https://blog.naver.com/inxihee/224364808442",
+          "blogger": "꿀정보 알려주는 언니",
+          "date": "2026-08-01"
         },
         {
-          "title": "분당 미금역 맛집 생포탄 현지인 추천 돼지 생갈비 내돈내산 후기",
-          "link": "https://blog.naver.com/sbyjsbyj/224371278075",
-          "blogger": "SBYJ 육아기록",
-          "date": "2026-08-07"
+          "title": "7월 21일 신청 시작! 최대 45만 원 민생회복 소비쿠폰 지급 대상 및 신....",
+          "link": "https://blog.naver.com/family3905/224349337530",
+          "blogger": "1분꿀팁",
+          "date": "2026-07-17"
         },
         {
-          "title": "별내 자이더스타 박경순포탄갈비 진짜 갈비집 발견! 72시간 숙성!! ....",
-          "link": "https://blog.naver.com/jin2jin2_/224344981596",
-          "blogger": "찐찐짠짠_하다",
-          "date": "2026-07-13"
+          "title": "민생회복소비쿠폰 3차 신청 대상과 방법 고유가 피해지원금 팩트체....",
+          "link": "https://blog.naver.com/darkccocco/224337072404",
+          "blogger": "머리어깨손무릎발",
+          "date": "2026-07-05"
         }
       ],
       "topNews": [
         {
-          "title": "[전문가 기고] 미사일보다 먼저 움직이는 인공지능의 알고리즘",
-          "link": "https://www.seoulfn.com/news/articleView.html?idxno=635092",
-          "press": "",
-          "date": "2026-08-08"
-        },
-        {
-          "title": "[월드 프리즘] 150년 만에 폭발할 뻔…남북전쟁 당시의 불발탄을 문진으...",
-          "link": "http://www.wikileaks-kr.org/news/articleView.html?idxno=190647",
+          "title": "\"장사 잘 했네~\"…GS리테일·BGF리테일, 2Q 영업익 '20%대' 깜짝 상승",
+          "link": "https://theviewers.co.kr/View.aspx?No=4177902",
           "press": "",
           "date": "2026-08-07"
         },
         {
-          "title": "‘세계는 지금’ 밀입국하다 88명 사망한 스페인 세우타의 反이민 갈등",
-          "link": "https://sports.khan.co.kr/article/202608080530003?pt=nv",
+          "title": "출점경쟁 접은 CU·GS25, 나란히 깜짝 실적…질적 성장 통했다",
+          "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=05815446645545024",
           "press": "",
           "date": "2026-08-07"
         },
         {
-          "title": "호주·필리핀 “북한 대러 파병, 미사일 수출 심각한 우려\"",
-          "link": "https://www.voakorea.com/a/australia-philippines-defense-dprk-080726/8183914.html",
+          "title": "[ET특징주] BGF리테일, 호실적·하반기 실적 기대감… 주가 15%↑",
+          "link": "https://www.etnews.com/20260807000143",
           "press": "",
           "date": "2026-08-07"
         },
         {
-          "title": "\"김정은, 31조 벌었다\" 러시아 덕에 '복권' 당첨?...집권 후 최대 자금력",
-          "link": "https://www.mt.co.kr/world/2026/08/07/2026080722170878537",
+          "title": "[특징주] BGF리테일, 호실적·실적 개선 기대감에 15% ↑",
+          "link": "https://biz.chosun.com/stock/stock_general/2026/08/07/WCNKWWLGHVHBHOUSAYSPRRIOQQ/?utm_source=naver&utm_medium=original&utm_campaign=biz",
           "press": "",
           "date": "2026-08-07"
+        },
+        {
+          "title": "'무더위 특수' 누린 BGF리테일…2분기 영업익 22% 뛰었다",
+          "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=361401",
+          "press": "",
+          "date": "2026-08-06"
         }
       ],
       "rank": 6
     },
     {
+      "keyword": "손현보",
+      "traffic": "500+",
+      "blogTotal": 9494,
+      "newsTotal": 4677,
+      "recentToday": 67,
+      "recentWeek": 84,
+      "topBlogs": [
+        {
+          "title": "손현보 목사는 누구? 트럼프 백악관까지 간 세계로교회 목사..왜, 미....",
+          "link": "https://blog.naver.com/hw020102/224371840454",
+          "blogger": "행간 읽는 뚜벅이",
+          "date": "2026-08-08"
+        },
+        {
+          "title": "5개월 수감된 손현보 목사, 美 갈보리교회 찾아 가족 위해 한 일",
+          "link": "https://blog.naver.com/outofpress/224356642019",
+          "blogger": "에디터Y의 재테크 이야기",
+          "date": "2026-07-25"
+        },
+        {
+          "title": "내란 동조 손영광 교수 누구? 프로필 손현보아들?",
+          "link": "https://blog.naver.com/jian5240/224357298065",
+          "blogger": "유지안 배우 시니어모델 홍보 마케팅 블로그 운영사",
+          "date": "2026-07-25"
+        },
+        {
+          "title": "부산 세계로교회 손현보 목사 프로필 나이 고향 학력",
+          "link": "https://blog.naver.com/ncd1992/224290349119",
+          "blogger": "몽땅 프로필 기도문 인물 정보 초대저널",
+          "date": "2026-05-19"
+        },
+        {
+          "title": "[속보] 세계로교회 손현보 목사,  백악관에서 트럼프 대통령 접견",
+          "link": "https://blog.naver.com/dreamteller/224371896995",
+          "blogger": "GMW연합",
+          "date": "2026-08-08"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "손현보 목사, 백악관서 트럼프 대통령 접견…당시 사진 공개",
+          "link": "https://www.wikitree.co.kr/articles/1151195",
+          "press": "",
+          "date": "2026-08-08"
+        },
+        {
+          "title": "[속보] 손현보 목사 \"백악관서 트럼프 만나\"…美정부 인사들과 잇단 접...",
+          "link": "https://www.busan.com/view/busan/view.php?code=2026080815271069415",
+          "press": "",
+          "date": "2026-08-08"
+        },
+        {
+          "title": "‘윤석열 탄핵 반대’ 손현보 목사, 백악관서 트럼프 접견…무슨 대화 ...",
+          "link": "https://www.mk.co.kr/article/12121725",
+          "press": "",
+          "date": "2026-08-08"
+        },
+        {
+          "title": "`尹 탄핵반대` 손현보 목사, 백악관서 트럼프 접견…사진 공개",
+          "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=02912646645545352",
+          "press": "",
+          "date": "2026-08-08"
+        },
+        {
+          "title": "‘尹 탄핵 반대’ 손현보 목사, 백악관서 트럼프 접견",
+          "link": "https://www.segye.com/newsView/20260808508263?OutUrl=naver",
+          "press": "",
+          "date": "2026-08-08"
+        }
+      ],
+      "rank": 7
+    },
+    {
       "keyword": "김하성",
       "traffic": "1000+",
-      "blogTotal": 55532,
-      "newsTotal": 151088,
-      "recentToday": 23,
+      "blogTotal": 55538,
+      "newsTotal": 151096,
+      "recentToday": 29,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -467,201 +540,128 @@
           "date": "2026-07-30"
         },
         {
-          "title": "“MLB 수준 아니다” 독설까지… 연봉 2000만달러 김하성, 결국 방출 ....",
-          "link": "https://blog.naver.com/yyjj2814/224323625376",
-          "blogger": "열정의 그라운드",
-          "date": "2026-06-22"
-        },
-        {
           "title": "\"2000만 달러 몸값도 소용없다\" 메이저리그 1위 애틀랜타의 냉정한 돈....",
           "link": "https://blog.naver.com/edwin9407/224313120218",
           "blogger": "더블체커(DC)",
           "date": "2026-06-11"
+        },
+        {
+          "title": "메이저리그 복귀 앞둔 김하성...성적보다 궁금한 연봉 규모, 이 정도....",
+          "link": "https://blog.naver.com/pjh1752/224366379771",
+          "blogger": "스포팅리포트",
+          "date": "2026-08-03"
         }
       ],
       "topNews": [
         {
-          "title": "이정후 6경기 연속 안타…2타점 활약",
-          "link": "http://www.kjdaily.com/article.php?aid=1786166963684079227",
+          "title": "이정후, 2사 만루서 '2타점 결승타'‥6경기 연속 안타 행진",
+          "link": "https://imnews.imbc.com/news/2026/sports/article/6843339_36946.html",
           "press": "",
           "date": "2026-08-08"
         },
         {
-          "title": "이정후, 결승 2타점 적시타...김하성, 복귀전 무안타",
-          "link": "https://www.ytn.co.kr/_ln/0107_202608081431204690",
+          "title": "이정후, 결승 2타점 적시타 폭발…6경기 연속 안타",
+          "link": "http://www.yonhapnewstv.co.kr/news/AKR20260808154335jH5",
           "press": "",
           "date": "2026-08-08"
         },
         {
-          "title": "살아난 이정후, 6경기 연속 안타…만루서 결승 2타점 적시타",
-          "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=02876566645545352",
+          "title": "샌프란시스코 이정후, 디트로이트전서 2타점 결승 적시타",
+          "link": "https://www.chosun.com/sports/world-baseball/2026/08/08/D2VQAWRID5C47I54BQB2ROW2TM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
           "press": "",
           "date": "2026-08-08"
         },
         {
-          "title": "이정후, 6경기 연속 안타…만루서 결승 적시타",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008696082&plink=ORI&cooper=NAVER",
+          "title": "'38일 만에 빅리그 복귀' 김하성, MLB 양키스전 2타수 무안타 1삼진...시...",
+          "link": "http://www.maniareport.com/view.php?ud=202608081349217921dad9f33a29_19",
           "press": "",
           "date": "2026-08-08"
         },
         {
-          "title": "38일 만에 돌아온 김하성, 복귀전 2타수 무안타 침묵",
-          "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=855405",
+          "title": "‘6경기 연속 안타’ 이정후, 만루서 2타점…타율 0.303 유지",
+          "link": "https://www.kukinews.com/article/view/kuk202608080013",
           "press": "",
           "date": "2026-08-08"
-        }
-      ],
-      "rank": 7
-    },
-    {
-      "keyword": "홍서범",
-      "traffic": "2000+",
-      "blogTotal": 11654,
-      "newsTotal": 12983,
-      "recentToday": 19,
-      "recentWeek": 48,
-      "topBlogs": [
-        {
-          "title": "홍서범 조갑경 아들 홍석준 와이프 ! 며느리 손녀 자녀 나무위키",
-          "link": "https://blog.naver.com/alodia22/224231035242",
-          "blogger": "알로디아의 사생활",
-          "date": "2026-03-27"
-        },
-        {
-          "title": "위자료 3,000만 원·월 양육비 80만 원 선고에도…홍서범 아들 전처 SNS....",
-          "link": "https://blog.naver.com/agsw1023/224371587956",
-          "blogger": "햇님달님의 세상연구소",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "홍서범 전며느리, 승소 해도 달라진 것 없어... 상간녀 협박까지?",
-          "link": "https://blog.naver.com/tmzmfk010/224329288830",
-          "blogger": "힐스터K랑 오늘, 이거 볼래?",
-          "date": "2026-06-28"
-        },
-        {
-          "title": "홍서범 조갑경 아들 불륜 소송, \"위자료 3000만원+양육비?\" 6월 25일 항....",
-          "link": "https://blog.naver.com/mslim81/224294253522",
-          "blogger": "윤스",
-          "date": "2026-05-23"
-        },
-        {
-          "title": "홍서범 아들 사실혼 파기 항소심 5월로 연기... 조갑경 부부 사과에....",
-          "link": "https://blog.naver.com/mslim81/224264749580",
-          "blogger": "윤스",
-          "date": "2026-04-25"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "홍서범♥조갑경, '子 사생활 논란'에도 굳건…지인과 만남 '근황'",
-          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=833491",
-          "press": "",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "'아들 불륜 의혹' 홍서범·조갑경, 논란 후 첫 근황 [★한컷]",
-          "link": "http://www.tvdaily.co.kr/read.php3?aid=17860896641796895002",
-          "press": "",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "홍서범♥조갑경, 아들 불륜 사과 후 근황…밝은 미소",
-          "link": "https://www.newsis.com/view/NISX20260807_0003740902",
-          "press": "",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "홍서범♥조갑경, '아들 불륜 의혹' 공방 속..밝은 근황 포착 [스타이슈...",
-          "link": "https://www.starnewskorea.com/music/2026/08/07/2026080716271880929",
-          "press": "",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "홍서범·조갑경, '아들 불륜' 사과 후 근황... 광화문 인근서 환한 미소",
-          "link": "https://www.insight.co.kr/news/567087",
-          "press": "",
-          "date": "2026-08-07"
         }
       ],
       "rank": 8
     },
     {
-      "keyword": "김지선",
-      "traffic": "500+",
-      "blogTotal": 50506,
-      "newsTotal": 76866,
-      "recentToday": 3,
+      "keyword": "르윈 디아즈",
+      "traffic": "200+",
+      "blogTotal": 6271,
+      "newsTotal": 14658,
+      "recentToday": 11,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "“다 부질없더라” 김지선 복근 월 2억 수익 뒤 숨겨진 충격적 고백",
-          "link": "https://blog.naver.com/bora912/224324320928",
-          "blogger": "감의 인사이트",
-          "date": "2026-06-23"
+          "title": "50홈런 디아즈 어디갔나?삼성라이온즈 디아즈 교체하나??",
+          "link": "https://blog.naver.com/young2542/224362452221",
+          "blogger": "나의 작은 보금자리",
+          "date": "2026-07-30"
         },
         {
-          "title": "개그맨 김지선 최근현황 교통사고 홈쇼핑 수입 자녀 근황 정리",
-          "link": "https://blog.naver.com/ae3773/224324286011",
-          "blogger": "공인중개사의 여행이야기",
-          "date": "2026-06-23"
+          "title": "SNS 구설·홈런 급감 삼성 디아즈 재계약 어렵다",
+          "link": "https://blog.naver.com/hardstuff/224359229288",
+          "blogger": "漢文에 감춰진 野球의 言語",
+          "date": "2026-07-27"
         },
         {
-          "title": "탕정 김밥맛집 | 김지선태양김밥 솔직후기",
-          "link": "https://blog.naver.com/alswl7077/224292107066",
-          "blogger": "소소한 일상기록",
-          "date": "2026-05-21"
+          "title": "\"타점 5위인데 왜 방출론까지? 삼성 디아즈 논쟁의 숨은 핵심\"",
+          "link": "https://blog.naver.com/2park_gazi/224363812782",
+          "blogger": "운동,여행, 일상",
+          "date": "2026-07-31"
         },
         {
-          "title": "'김지선 아들' 래퍼 시바 \"사회공포증·공황장애 극복중, 알바 시작....",
-          "link": "https://blog.naver.com/severance1997/224367811848",
-          "blogger": "장원영의 실시간 핫이슈",
+          "title": "KBO 야구 선수 르윈 디아즈(프로필,스타일,경력 등)",
+          "link": "https://blog.naver.com/mistermy18/224347933140",
+          "blogger": "H2의 스포츠와 여행",
+          "date": "2026-07-16"
+        },
+        {
+          "title": "[KBO] ‘약점을 고치려다 장점까지 잃었나’…삼성 르윈 디아즈의 타....",
+          "link": "https://blog.naver.com/kshabsolute1/224367156107",
+          "blogger": "언덕위의작은집 이야기 (로비의 스포츠 칼럼)",
           "date": "2026-08-04"
-        },
-        {
-          "title": "\"정명석은 메시아\" 여신도에 세뇌시킨 김지선씨. JMS 2인자의 정체…....",
-          "link": "https://blog.naver.com/jjubika1/224353441262",
-          "blogger": "스페셜타임스",
-          "date": "2026-07-21"
         }
       ],
       "topNews": [
         {
-          "title": "'2026 SIMB 프레스티지 콘서트' 8월 26일 개최..세계 정상급 음악가 한 무...",
-          "link": "https://www.gosiweek.com/article/1065589930465139",
+          "title": "\"삼파룸파요? 뿌듯하고 멋있죠\" 홈런 없는 홈런왕 팀, '최단신 듀오' 김...",
+          "link": "https://isplus.com/article/view/isp202608080038",
           "press": "",
           "date": "2026-08-08"
         },
         {
-          "title": "월 2억 버는 워킹맘 김지선, 죽음의 문턱에서 깨달은 멈춤의 미학",
-          "link": "https://www.segye.com/newsView/20260624517548?OutUrl=naver",
+          "title": "\"디아즈 바꿔라? 내 생각은 아니다\"…동료 보호 나선 삼성 캡틴, 50홈런...",
+          "link": "https://www.xportsnews.com/article/2181306",
           "press": "",
-          "date": "2026-08-07"
+          "date": "2026-08-08"
         },
         {
-          "title": "JMS 정명석, 법원 조정 불복…‘무고 피해 교수에 손배금 지급’에 이의...",
-          "link": "https://www.munhwa.com/article/11608050?ref=naver",
+          "title": "170km 총알 타구가 만든 김도영의 시대",
+          "link": "https://www.sisajournal.com/news/articleView.html?idxno=382371",
           "press": "",
-          "date": "2026-08-07"
+          "date": "2026-08-08"
         },
         {
-          "title": "종합특검, '관저 이전 부실 감사' 유병호 감사위원 구속기소",
-          "link": "https://www.dailian.co.kr/news/view/1675835/?sc=Naver",
+          "title": "'아시아쿼터 교체' 삼성, 선두 경쟁 승부수 던졌다",
+          "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003257422&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
           "press": "",
-          "date": "2026-08-07"
+          "date": "2026-08-08"
         },
         {
-          "title": "2차 종합특검, '관저 이전 부실감사' 유병호 구속 기소",
-          "link": "https://www.goodmorningcc.com/news/articleView.html?idxno=450279",
+          "title": "'올해는 우승!' 삼성 외국인 4명 중 3명이 새얼굴, '마지막 퍼즐' 디아즈...",
+          "link": "https://isplus.com/article/view/isp202608080011",
           "press": "",
-          "date": "2026-08-07"
+          "date": "2026-08-08"
         }
       ],
       "rank": 9
     },
     {
       "keyword": "그랜드 테 프트 오토 vi",
-      "traffic": "200+",
+      "traffic": "500+",
       "blogTotal": 5,
       "newsTotal": 0,
       "recentToday": 0,
