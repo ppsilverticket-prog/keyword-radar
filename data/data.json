@@ -1,232 +1,13 @@
 {
-  "updatedAt": "2026-08-08T14:59:57.578Z",
+  "updatedAt": "2026-08-08T15:37:43.528Z",
   "source": "live",
   "keywords": [
     {
-      "keyword": "토트넘",
-      "traffic": "20000+",
-      "blogTotal": 549483,
-      "newsTotal": 673833,
-      "recentToday": 100,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "오클랜드 시티 토트넘 스칼렛 히샬리송 골 양민혁 교체 출전",
-          "link": "https://blog.naver.com/ung3256/224358565932",
-          "blogger": "츠토무의 로그북",
-          "date": "2026-07-26"
-        },
-        {
-          "title": "토트넘 홋스퍼 역대 이적료 순위",
-          "link": "https://blog.naver.com/sus5473/224363096180",
-          "blogger": "축구선수 류승우",
-          "date": "2026-07-30"
-        },
-        {
-          "title": "토트넘 사비뉴 영입 임박, 맨체스터 시티의 브라질 윙어 팀에 이적 ....",
-          "link": "https://blog.naver.com/ssuggest/224361344721",
-          "blogger": "영군의 즐거운 세상",
-          "date": "2026-07-29"
-        },
-        {
-          "title": "\"토트넘이 맨유를 제쳤다고?!\" 26/27 전 세계 축구 클럽 스쿼드 가치 ....",
-          "link": "https://blog.naver.com/certified07/224362141668",
-          "blogger": "스페셜리스트",
-          "date": "2026-08-02"
-        },
-        {
-          "title": "토트넘, 2,000억 중원 개편 뒤 오시멘까지…6500만 파운드 승부수",
-          "link": "https://blog.naver.com/ssuggest/224367221275",
-          "blogger": "영군의 즐거운 세상",
-          "date": "2026-08-04"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "'손흥민 절친' 천재의 끝없는 추락…카지노서 3억 날린 알리, 英 2부에서...",
-          "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553442520",
-          "press": "",
-          "date": "2026-08-08"
-        },
-        {
-          "title": "토트넘 초대박이다! HERE WE GO 컨펌, \"재계약 구두 합의\"...로메로와 18...",
-          "link": "https://www.mydaily.co.kr/page/view/2026080813172728368",
-          "press": "",
-          "date": "2026-08-08"
-        },
-        {
-          "title": "'도색' 손흥민 좀 배워라 \"아스널에 열려있다\" 로메로 충격 이적설…토...",
-          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=833598",
-          "press": "",
-          "date": "2026-08-08"
-        },
-        {
-          "title": "토트넘 최악의 주장 되기 충분!...\"로메로 아스널 이적에 열려 있어\"→토...",
-          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=692126",
-          "press": "",
-          "date": "2026-08-08"
-        },
-        {
-          "title": "韓 축구 비보...'또' 양민혁 이름은 없었다! \"YANG 임대 예정→토트넘은...",
-          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=692119",
-          "press": "",
-          "date": "2026-08-08"
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "keyword": "리그컵",
-      "traffic": "1000+",
-      "blogTotal": 1021392,
-      "newsTotal": 64767,
-      "recentToday": 100,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "손흥민경기일정 해외 프로 축구 리그컵에서의 활약은?",
-          "link": "https://blog.naver.com/nicefama/224370860180",
-          "blogger": "버디가 이글이글",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "축구팬도 몰랐던 '리그컵'의 정체, 8월 5일과 10월 24일에 답이 있습니....",
-          "link": "https://blog.naver.com/dltjdgh0928/224369333939",
-          "blogger": "오늘뭐봄",
-          "date": "2026-08-05"
-        },
-        {
-          "title": "축구팬도 헷갈린 '리그컵', 알고 보니 인천에 숨은 진짜 이야기가 있....",
-          "link": "https://blog.naver.com/sjw04093/224369375840",
-          "blogger": "오늘님의 블로그",
-          "date": "2026-08-05"
-        },
-        {
-          "title": "리그컵 검색량 폭발했는데, 오늘 서울월드컵경기장 경기는 리그컵....",
-          "link": "https://blog.naver.com/mkim90023/224369967486",
-          "blogger": "구르미",
-          "date": "2026-08-06"
-        },
-        {
-          "title": "리그컵 뜻 검색 폭증, 정작 지금 열리는 두 대회는 '리그컵'이 아닙....",
-          "link": "https://blog.naver.com/mkim9002/224369031820",
-          "blogger": "여가우 - 여행가자 우리",
-          "date": "2026-08-05"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "'2부 강등' 울버햄튼 황희찬, 새 시즌 공식 첫 경기 결장",
-          "link": "https://www.news1.kr/sports/overseas-soccer/6253180",
-          "press": "",
-          "date": "2026-08-08"
-        },
-        {
-          "title": "버밍엄 백승호, 시즌 개막 앞두고 부상…\"회복 상당한 진전\"",
-          "link": "https://www.newsis.com/view/NISX20260808_0003741421",
-          "press": "",
-          "date": "2026-08-08"
-        },
-        {
-          "title": "'2부 강등' 울버햄튼 황희찬, 새 시즌 첫 경기서 명단 제외",
-          "link": "https://www.newsis.com/view/NISX20260808_0003741396",
-          "press": "",
-          "date": "2026-08-08"
-        },
-        {
-          "title": "\"HWANG 한 줄 언급도 없다\" 황희찬, 시즌 개막전에 '명단제외' 충격, '2부...",
-          "link": "https://www.sportschosun.com/football/2026-08-08/202608080100045950002848",
-          "press": "",
-          "date": "2026-08-08"
-        },
-        {
-          "title": "'韓 축구 또 날벼락!' 백승호, 프리시즌 부상…공식전 하루 앞두고 쓰러...",
-          "link": "https://www.xportsnews.com/article/2181244",
-          "press": "",
-          "date": "2026-08-07"
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "keyword": "정화조",
-      "traffic": "500+",
-      "blogTotal": 569414,
-      "newsTotal": 41639,
-      "recentToday": 100,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "대부도·선재도 전원주택 정화조 설치비용과 시공방법 제대로 알아....",
-          "link": "https://blog.naver.com/hidc1130/224280825201",
-          "blogger": "건축.인테리어 시공&정보공유",
-          "date": "2026-05-10"
-        },
-        {
-          "title": "노후주택 철거 전 정화조폐쇄, 청소부터 철거까지 확인하세요",
-          "link": "https://blog.naver.com/edsafety/224348648074",
-          "blogger": "건축구조기술사사무소 으뜸안전기술 공식블로그",
-          "date": "2026-07-16"
-        },
-        {
-          "title": "정화조 시공법 가이드: 규격부터 설치 조건까지 완벽 정리!",
-          "link": "https://blog.naver.com/kkey1314/224338887170",
-          "blogger": "공감 디자인 인테리어",
-          "date": "2026-07-07"
-        },
-        {
-          "title": "FRP 정화조 설치 크기 비용 최근 법 개정으로 인한 변화",
-          "link": "https://blog.naver.com/lhi5303/224260018655",
-          "blogger": "영진로그",
-          "date": "2026-04-21"
-        },
-        {
-          "title": "용도변경 시 정화조 용량 확인 및 해결 방법",
-          "link": "https://blog.naver.com/layearth-a/224311817399",
-          "blogger": "레이어스 건축사사무소",
-          "date": "2026-06-11"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "[이백자 칼럼] 폐버스 청년주택",
-          "link": "http://www.nongaek.com/news/articleView.html?idxno=96327",
-          "press": "",
-          "date": "2026-08-08"
-        },
-        {
-          "title": "[8일 사건사고] 부산 사하구 철강 제조공장서 화재…대량 연기 발생에 ...",
-          "link": "https://idsn.co.kr/news/view/1065620426867042",
-          "press": "",
-          "date": "2026-08-08"
-        },
-        {
-          "title": "제주 양돈장 정화조서 외국인 근로자 2명 숨져…유독가스 질식 추정",
-          "link": "https://idsn.co.kr/news/view/1065620540593862",
-          "press": "",
-          "date": "2026-08-08"
-        },
-        {
-          "title": "제주 양돈장 정화조서 외국인 근로자 2명 질식사",
-          "link": "https://www.ikbc.co.kr/article/view/kbc202608080042",
-          "press": "",
-          "date": "2026-08-08"
-        },
-        {
-          "title": "양돈장에서 외국인 노동자 2명 정화조 추락...사망",
-          "link": "https://www.jibs.co.kr/news/replay/viewNewsReplayDetail/2026080821275688506?feed=na",
-          "press": "",
-          "date": "2026-08-08"
-        }
-      ],
-      "rank": 3
-    },
-    {
       "keyword": "효성중공업",
       "traffic": "200+",
-      "blogTotal": 175455,
+      "blogTotal": 175456,
       "newsTotal": 109407,
-      "recentToday": 100,
+      "recentToday": 99,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -292,87 +73,87 @@
           "date": "2026-08-08"
         }
       ],
-      "rank": 4
+      "rank": 1
     },
     {
-      "keyword": "k리그1",
-      "traffic": "500+",
-      "blogTotal": 565954,
-      "newsTotal": 959555,
-      "recentToday": 100,
+      "keyword": "토트넘",
+      "traffic": "20000+",
+      "blogTotal": 549500,
+      "newsTotal": 673835,
+      "recentToday": 97,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "(8월 2일) 오늘의 하나원큐 축구 퀴즈 정답 / 오늘 K리그1 21 라운드, ....",
-          "link": "https://blog.naver.com/babydreamer5/224365337263",
-          "blogger": "영어뉴스와 미드영어",
+          "title": "오클랜드 시티 토트넘 스칼렛 히샬리송 골 양민혁 교체 출전",
+          "link": "https://blog.naver.com/ung3256/224358565932",
+          "blogger": "츠토무의 로그북",
+          "date": "2026-07-26"
+        },
+        {
+          "title": "토트넘 홋스퍼 역대 이적료 순위",
+          "link": "https://blog.naver.com/sus5473/224363096180",
+          "blogger": "축구선수 류승우",
+          "date": "2026-07-30"
+        },
+        {
+          "title": "토트넘 사비뉴 영입 임박, 맨체스터 시티의 브라질 윙어 팀에 이적 ....",
+          "link": "https://blog.naver.com/ssuggest/224361344721",
+          "blogger": "영군의 즐거운 세상",
+          "date": "2026-07-29"
+        },
+        {
+          "title": "\"토트넘이 맨유를 제쳤다고?!\" 26/27 전 세계 축구 클럽 스쿼드 가치 ....",
+          "link": "https://blog.naver.com/certified07/224362141668",
+          "blogger": "스페셜리스트",
           "date": "2026-08-02"
         },
         {
-          "title": "(7월 31일) 하나원큐 축구 퀴즈 정답 / 오늘 기준, 13승 3무 4패로 K리그....",
-          "link": "https://blog.naver.com/babydreamer5/224363492473",
-          "blogger": "영어뉴스와 미드영어",
-          "date": "2026-07-31"
-        },
-        {
-          "title": "(7월 28일) 오늘의 하나원큐 축구 퀴즈 정답 / 지난 7월 26일(일), 무승....",
-          "link": "https://blog.naver.com/babydreamer5/224360053352",
-          "blogger": "영어뉴스와 미드영어",
-          "date": "2026-07-28"
-        },
-        {
-          "title": "K리그1 K리그2 현재 순위 및 득점 도움 순위",
-          "link": "https://blog.naver.com/sus5473/224345509304",
-          "blogger": "축구선수 류승우",
-          "date": "2026-07-13"
-        },
-        {
-          "title": "K리그1 K리그2 차이 월드컵 참패 반복하지 않겠다 승강제 경쟁 재개",
-          "link": "https://blog.naver.com/climbscene/224336421724",
-          "blogger": "클라이밍의 모든 순간, 클라임씬",
-          "date": "2026-07-09"
+          "title": "토트넘, 2,000억 중원 개편 뒤 오시멘까지…6500만 파운드 승부수",
+          "link": "https://blog.naver.com/ssuggest/224367221275",
+          "blogger": "영군의 즐거운 세상",
+          "date": "2026-08-04"
         }
       ],
       "topNews": [
         {
-          "title": "\"이정효 나와!\" 수원FC 놀라운 반등, 파주 1-0 꺾고 7경기 무패→3위 점...",
-          "link": "https://www.sportschosun.com/football/2026-08-08/202608080100047270002940",
+          "title": "기마랑이스 빈자리, 손흥민 옛 동료로 메운다? 뉴캐슬이 주목한 285억 베...",
+          "link": "https://www.besteleven.com/news/articleView.html?idxno=310970",
           "press": "",
           "date": "2026-08-08"
         },
         {
-          "title": "[핌in안양] \"선수들 위축될 필요 없다\"...대전 반등의 키워드는 '자신감...",
-          "link": "https://www.newspim.com/news/view/20260808000146",
+          "title": "\"절대 안 팔아\" 맨체스터 유나이티드 초비상! 레프트백 보강 '핵심 타깃...",
+          "link": "https://mhnse.com/news/articleView.html?idxno=1483415",
           "press": "",
           "date": "2026-08-08"
         },
         {
-          "title": "‘5경기 연속 실점’ 흔들리는 수비에 고민…안양 유병훈 감독 “선수들...",
-          "link": "https://www.mk.co.kr/article/12121799",
+          "title": "'손흥민 절친' 천재의 끝없는 추락…카지노서 3억 날린 알리, 英 2부에서...",
+          "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553442520",
           "press": "",
           "date": "2026-08-08"
         },
         {
-          "title": "'유럽 데뷔전서 데뷔골' 미쳤다, 韓 스트라이커…독일로 간 이호재, 16분...",
-          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=833603",
+          "title": "토트넘 초대박이다! HERE WE GO 컨펌, \"재계약 구두 합의\"...로메로와 18...",
+          "link": "https://www.mydaily.co.kr/page/view/2026080813172728368",
           "press": "",
           "date": "2026-08-08"
         },
         {
-          "title": "이영민 \"선수들 헷갈리게 해\"… 이정규 \"결과 책임\"",
-          "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=855427",
+          "title": "'도색' 손흥민 좀 배워라 \"아스널에 열려있다\" 로메로 충격 이적설…토...",
+          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=833598",
           "press": "",
           "date": "2026-08-08"
         }
       ],
-      "rank": 5
+      "rank": 2
     },
     {
       "keyword": "k리그1 순위",
       "traffic": "200+",
-      "blogTotal": 90176,
-      "newsTotal": 94548,
-      "recentToday": 100,
+      "blogTotal": 90181,
+      "newsTotal": 94551,
+      "recentToday": 97,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -408,6 +189,24 @@
       ],
       "topNews": [
         {
+          "title": "5G '9실점', 뒷문 흔들리며 연패 빠진 안양...유병훈 감독의 진단 \"집중...",
+          "link": "https://www.mydaily.co.kr/page/view/2026080822450280114",
+          "press": "",
+          "date": "2026-08-08"
+        },
+        {
+          "title": "\"너무나 죄송\" 슈팅 33개 패배→메가폰 잡은 정정용 감독...\"결과는 감독...",
+          "link": "http://www.osen.co.kr/article/G1112854024",
+          "press": "",
+          "date": "2026-08-08"
+        },
+        {
+          "title": "[핌in안양] 안양 유병훈 감독 \"전반 압박 강도 떨어진 게 패인\"...아일톤...",
+          "link": "https://www.newspim.com/news/view/20260808000147",
+          "press": "",
+          "date": "2026-08-08"
+        },
+        {
           "title": "\"이정효 나와!\" 수원FC 놀라운 반등, 파주 1-0 꺾고 7경기 무패→3위 점...",
           "link": "https://www.sportschosun.com/football/2026-08-08/202608080100047270002940",
           "press": "",
@@ -418,34 +217,162 @@
           "link": "https://www.newspim.com/news/view/20260808000146",
           "press": "",
           "date": "2026-08-08"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "keyword": "정화조",
+      "traffic": "500+",
+      "blogTotal": 569408,
+      "newsTotal": 41639,
+      "recentToday": 95,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "대부도·선재도 전원주택 정화조 설치비용과 시공방법 제대로 알아....",
+          "link": "https://blog.naver.com/hidc1130/224280825201",
+          "blogger": "건축.인테리어 시공&정보공유",
+          "date": "2026-05-10"
         },
         {
-          "title": "‘5경기 연속 실점’ 흔들리는 수비에 고민…안양 유병훈 감독 “선수들...",
-          "link": "https://www.mk.co.kr/article/12121799",
+          "title": "노후주택 철거 전 정화조폐쇄, 청소부터 철거까지 확인하세요",
+          "link": "https://blog.naver.com/edsafety/224348648074",
+          "blogger": "건축구조기술사사무소 으뜸안전기술 공식블로그",
+          "date": "2026-07-16"
+        },
+        {
+          "title": "정화조 시공법 가이드: 규격부터 설치 조건까지 완벽 정리!",
+          "link": "https://blog.naver.com/kkey1314/224338887170",
+          "blogger": "공감 디자인 인테리어",
+          "date": "2026-07-07"
+        },
+        {
+          "title": "FRP 정화조 설치 크기 비용 최근 법 개정으로 인한 변화",
+          "link": "https://blog.naver.com/lhi5303/224260018655",
+          "blogger": "영진로그",
+          "date": "2026-04-21"
+        },
+        {
+          "title": "용도변경 시 정화조 용량 확인 및 해결 방법",
+          "link": "https://blog.naver.com/layearth-a/224311817399",
+          "blogger": "레이어스 건축사사무소",
+          "date": "2026-06-11"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "[이백자 칼럼] 폐버스 청년주택",
+          "link": "http://www.nongaek.com/news/articleView.html?idxno=96327",
           "press": "",
           "date": "2026-08-08"
         },
         {
-          "title": "'3개월 만의 연승' 대전, 안양 원정 2-1 승리로 반등 시동",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16158632",
+          "title": "[8일 사건사고] 부산 사하구 철강 제조공장서 화재…대량 연기 발생에 ...",
+          "link": "https://idsn.co.kr/news/view/1065620426867042",
           "press": "",
           "date": "2026-08-08"
         },
         {
-          "title": "'3개월 만의 연승' 대전 황선홍 \"축구는 기세…자신감 갖길\"",
-          "link": "https://www.yna.co.kr/view/AKR20260808053600007?input=1195m",
+          "title": "제주 양돈장 정화조서 외국인 근로자 2명 숨져…유독가스 질식 추정",
+          "link": "https://idsn.co.kr/news/view/1065620540593862",
+          "press": "",
+          "date": "2026-08-08"
+        },
+        {
+          "title": "제주 양돈장 정화조서 외국인 근로자 2명 질식사",
+          "link": "https://www.ikbc.co.kr/article/view/kbc202608080042",
+          "press": "",
+          "date": "2026-08-08"
+        },
+        {
+          "title": "양돈장에서 외국인 노동자 2명 정화조 추락...사망",
+          "link": "https://www.jibs.co.kr/news/replay/viewNewsReplayDetail/2026080821275688506?feed=na",
           "press": "",
           "date": "2026-08-08"
         }
       ],
-      "rank": 6
+      "rank": 4
+    },
+    {
+      "keyword": "리그컵",
+      "traffic": "1000+",
+      "blogTotal": 1021418,
+      "newsTotal": 64767,
+      "recentToday": 86,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "손흥민경기일정 해외 프로 축구 리그컵에서의 활약은?",
+          "link": "https://blog.naver.com/nicefama/224370860180",
+          "blogger": "버디가 이글이글",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "축구팬도 몰랐던 '리그컵'의 정체, 8월 5일과 10월 24일에 답이 있습니....",
+          "link": "https://blog.naver.com/dltjdgh0928/224369333939",
+          "blogger": "오늘뭐봄",
+          "date": "2026-08-05"
+        },
+        {
+          "title": "축구팬도 헷갈린 '리그컵', 알고 보니 인천에 숨은 진짜 이야기가 있....",
+          "link": "https://blog.naver.com/sjw04093/224369375840",
+          "blogger": "오늘님의 블로그",
+          "date": "2026-08-05"
+        },
+        {
+          "title": "리그컵 검색량 폭발했는데, 오늘 서울월드컵경기장 경기는 리그컵....",
+          "link": "https://blog.naver.com/mkim90023/224369967486",
+          "blogger": "구르미",
+          "date": "2026-08-06"
+        },
+        {
+          "title": "리그컵 뜻 검색 폭증, 정작 지금 열리는 두 대회는 '리그컵'이 아닙....",
+          "link": "https://blog.naver.com/mkim9002/224369031820",
+          "blogger": "여가우 - 여행가자 우리",
+          "date": "2026-08-05"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "'2부 강등' 울버햄튼 황희찬, 새 시즌 공식 첫 경기 결장",
+          "link": "https://www.news1.kr/sports/overseas-soccer/6253180",
+          "press": "",
+          "date": "2026-08-08"
+        },
+        {
+          "title": "버밍엄 백승호, 시즌 개막 앞두고 부상…\"회복 상당한 진전\"",
+          "link": "https://www.newsis.com/view/NISX20260808_0003741421",
+          "press": "",
+          "date": "2026-08-08"
+        },
+        {
+          "title": "'2부 강등' 울버햄튼 황희찬, 새 시즌 첫 경기서 명단 제외",
+          "link": "https://www.newsis.com/view/NISX20260808_0003741396",
+          "press": "",
+          "date": "2026-08-08"
+        },
+        {
+          "title": "\"HWANG 한 줄 언급도 없다\" 황희찬, 시즌 개막전에 '명단제외' 충격, '2부...",
+          "link": "https://www.sportschosun.com/football/2026-08-08/202608080100045950002848",
+          "press": "",
+          "date": "2026-08-08"
+        },
+        {
+          "title": "'韓 축구 또 날벼락!' 백승호, 프리시즌 부상…공식전 하루 앞두고 쓰러...",
+          "link": "https://www.xportsnews.com/article/2181244",
+          "press": "",
+          "date": "2026-08-07"
+        }
+      ],
+      "rank": 5
     },
     {
       "keyword": "라스트 하우스",
       "traffic": "100+",
-      "blogTotal": 324654,
+      "blogTotal": 324673,
       "newsTotal": 6380,
-      "recentToday": 100,
+      "recentToday": 86,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -511,75 +438,148 @@
           "date": "2026-08-07"
         }
       ],
-      "rank": 7
+      "rank": 6
     },
     {
-      "keyword": "슈퍼주니어",
-      "traffic": "1000+",
-      "blogTotal": 383714,
-      "newsTotal": 489024,
-      "recentToday": 100,
+      "keyword": "k리그1",
+      "traffic": "500+",
+      "blogTotal": 565976,
+      "newsTotal": 959559,
+      "recentToday": 84,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "김희철이 ‘아는 형님’을 잠시 떠난 이유…슈퍼주니어 일정과의 ....",
-          "link": "https://blog.naver.com/gon791213/224366357278",
-          "blogger": "아직 청춘이야",
-          "date": "2026-08-03"
+          "title": "(8월 2일) 오늘의 하나원큐 축구 퀴즈 정답 / 오늘 K리그1 21 라운드, ....",
+          "link": "https://blog.naver.com/babydreamer5/224365337263",
+          "blogger": "영어뉴스와 미드영어",
+          "date": "2026-08-02"
         },
         {
-          "title": "이천 키즈카페 슈퍼키즈랜드 모래놀이 기차 물놀이",
-          "link": "https://blog.naver.com/s1595777/224329460007",
-          "blogger": "오늘 뭐했스얀",
-          "date": "2026-06-28"
+          "title": "(7월 31일) 하나원큐 축구 퀴즈 정답 / 오늘 기준, 13승 3무 4패로 K리그....",
+          "link": "https://blog.naver.com/babydreamer5/224363492473",
+          "blogger": "영어뉴스와 미드영어",
+          "date": "2026-07-31"
         },
         {
-          "title": "이특 김희철 우정, 슈퍼주니어 83z 팬콘 1983 전석 매진",
-          "link": "https://blog.naver.com/elwjtmxm/224361039559",
-          "blogger": "지금까지",
-          "date": "2026-07-29"
+          "title": "(7월 28일) 오늘의 하나원큐 축구 퀴즈 정답 / 지난 7월 26일(일), 무승....",
+          "link": "https://blog.naver.com/babydreamer5/224360053352",
+          "blogger": "영어뉴스와 미드영어",
+          "date": "2026-07-28"
         },
         {
-          "title": "슈퍼주니어 Sorry Sorry 부터 세월이 흘러도 레전드",
-          "link": "https://blog.naver.com/panda5679/224345209119",
-          "blogger": "담백한 성장일지와",
+          "title": "K리그1 K리그2 현재 순위 및 득점 도움 순위",
+          "link": "https://blog.naver.com/sus5473/224345509304",
+          "blogger": "축구선수 류승우",
           "date": "2026-07-13"
         },
         {
-          "title": "슈퍼주니어 예성 솔로 데뷔 10주년 아시아 투어 콘서트 개최 결정",
-          "link": "https://blog.naver.com/yoon77890/224359862543",
-          "blogger": "라톰의 다크섬광",
-          "date": "2026-07-27"
+          "title": "K리그1 K리그2 차이 월드컵 참패 반복하지 않겠다 승강제 경쟁 재개",
+          "link": "https://blog.naver.com/climbscene/224336421724",
+          "blogger": "클라이밍의 모든 순간, 클라임씬",
+          "date": "2026-07-09"
         }
       ],
       "topNews": [
         {
-          "title": "김희철, '태극기' 일침했다가 정치색 해명 \"좌우 떠나 당연한 일\" [스타...",
-          "link": "https://www.starnewskorea.com/broadcast-show/2026/08/08/2026080823150099142",
+          "title": "5G '9실점', 뒷문 흔들리며 연패 빠진 안양...유병훈 감독의 진단 \"집중...",
+          "link": "https://www.mydaily.co.kr/page/view/2026080822450280114",
           "press": "",
           "date": "2026-08-08"
         },
         {
-          "title": "김희철, '뒤집힌 태극기' 지적 후 정치색 논란…\"좌우 떠나 우리나라 국...",
-          "link": "https://www.etoday.co.kr/news/view/2612405",
+          "title": "\"너무나 죄송\" 슈팅 33개 패배→메가폰 잡은 정정용 감독...\"결과는 감독...",
+          "link": "http://www.osen.co.kr/article/G1112854024",
           "press": "",
           "date": "2026-08-08"
         },
         {
-          "title": "'거꾸로 태극기' 지적에 정치색 오해받은 김희철, \"좌우 떠난 대한민국...",
-          "link": "https://www.insight.co.kr/news/567173",
+          "title": "[핌in안양] 안양 유병훈 감독 \"전반 압박 강도 떨어진 게 패인\"...아일톤...",
+          "link": "https://www.newspim.com/news/view/20260808000147",
           "press": "",
           "date": "2026-08-08"
         },
         {
-          "title": "‘거꾸로 태극기에 분노’ 김희철, 정치적 해석에 “좌우 떠나 우리나라...",
-          "link": "https://www.newsen.com/news_view.php?uid=202608082226342510",
+          "title": "[프로축구] 수원FC, 파주 꺾고 K리그2 3위 도약…성남은 천안에 극장승",
+          "link": "https://www.newspim.com/news/view/20260808000145",
           "press": "",
           "date": "2026-08-08"
         },
         {
-          "title": "김희철, '뒤집힌 태극기' 일침했다가..\"좌우 떠나 우리나라잖아요\"",
-          "link": "http://www.osen.co.kr/article/G1112854003",
+          "title": "\"이정효 나와!\" 수원FC 놀라운 반등, 파주 1-0 꺾고 7경기 무패→3위 점...",
+          "link": "https://www.sportschosun.com/football/2026-08-08/202608080100047270002940",
+          "press": "",
+          "date": "2026-08-08"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "keyword": "트로이",
+      "traffic": "500+",
+      "blogTotal": 281433,
+      "newsTotal": 69096,
+      "recentToday": 79,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "고전읽기 오디세이아 줄거리 요약 트로이목마 | 오디세이 영화 개봉....",
+          "link": "https://blog.naver.com/intool/224362278294",
+          "blogger": "챗GPT 전문강사 | 도서 인플루언서",
+          "date": "2026-08-01"
+        },
+        {
+          "title": "트로이 전쟁과 아킬레우스 이야기 오디세우스(Odysseus)",
+          "link": "https://blog.naver.com/gascop7/224358339790",
+          "blogger": "여행 등산 깨알 팁 TiP",
+          "date": "2026-07-26"
+        },
+        {
+          "title": "오디세우스의 10년 귀향 여정: 트로이 전쟁 승리 후 고향 '이타카' 돌....",
+          "link": "https://blog.naver.com/gascop7/224367198548",
+          "blogger": "여행 등산 깨알 팁 TiP",
+          "date": "2026-08-03"
+        },
+        {
+          "title": "[상품리뷰] 인플루언서 은젤 '트로이아르케 기초' 공구템 솔직후기",
+          "link": "https://blog.naver.com/richgirl9999/224257527578",
+          "blogger": "몽땅일기",
+          "date": "2026-04-19"
+        },
+        {
+          "title": "신의 침묵 속 무너진 신앙의 시대, 영화 <트로이> 리뷰",
+          "link": "https://blog.naver.com/seok9c/224367386322",
+          "blogger": "석구랑놀자구",
+          "date": "2026-08-04"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "'스파이더맨 4' 올해 최단 500만 돌파… '오디세이'도 100만 등판",
+          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3659440",
+          "press": "",
+          "date": "2026-08-08"
+        },
+        {
+          "title": "오십 넘어 본<오디세이>, 아버지가 떠올랐다",
+          "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003257424&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+          "press": "",
+          "date": "2026-08-08"
+        },
+        {
+          "title": "놀란 감독 '오디세이', 개봉 4일 만에 100만 돌파⋯'왕사남' 보다 빠르다",
+          "link": "https://www.etoday.co.kr/news/view/2612397",
+          "press": "",
+          "date": "2026-08-08"
+        },
+        {
+          "title": "10m 트로이 목마·필름 길이 640km…'오디세이' 비하인드 화제",
+          "link": "https://www.slist.kr/news/articleView.html?idxno=757497",
+          "press": "",
+          "date": "2026-08-08"
+        },
+        {
+          "title": "'오디세이', 개봉 4일째 100만 돌파…박스오피스 3일 연속 1위",
+          "link": "https://www.nocutnews.co.kr/news/6560105?utm_source=naver&utm_medium=article&utm_campaign=20260808060118",
           "press": "",
           "date": "2026-08-08"
         }
@@ -588,7 +588,7 @@
     },
     {
       "keyword": "대한당구연맹",
-      "traffic": "100+",
+      "traffic": "200+",
       "blogTotal": 8166,
       "newsTotal": 11210,
       "recentToday": 13,
@@ -707,13 +707,13 @@
         },
         {
           "title": "INDONESIA SOCCER",
-          "link": "https://n.news.naver.com/mnews/article/091/0010277841?sid=104",
+          "link": "https://n.news.naver.com/mnews/article/091/0010277840?sid=104",
           "press": "",
           "date": "2026-08-08"
         },
         {
           "title": "INDONESIA SOCCER",
-          "link": "https://n.news.naver.com/mnews/article/091/0010277840?sid=104",
+          "link": "https://n.news.naver.com/mnews/article/091/0010277841?sid=104",
           "press": "",
           "date": "2026-08-08"
         },
