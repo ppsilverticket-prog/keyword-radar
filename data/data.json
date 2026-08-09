@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-09T17:28:34.237Z",
+  "updatedAt": "2026-08-09T18:00:30.340Z",
   "source": "live",
   "keywords": [
     {
       "keyword": "앤 해서웨이",
       "traffic": "100+",
-      "blogTotal": 86320,
+      "blogTotal": 86326,
       "newsTotal": 18317,
-      "recentToday": 74,
+      "recentToday": 71,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -149,11 +149,84 @@
       "rank": 2
     },
     {
+      "keyword": "arsenal",
+      "traffic": "100+",
+      "blogTotal": 55228,
+      "newsTotal": 44061,
+      "recentToday": 28,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "다카마쓰 카페｜효고마치 분위기 좋은 커피 스탠드, 아스날 커피(ARS....",
+          "link": "https://blog.naver.com/vvllaa/224314847262",
+          "blogger": "찰나의 순간",
+          "date": "2026-06-13"
+        },
+        {
+          "title": "[아스널 팝업] WE ARE THE ARSENAL POP-UP ⚽",
+          "link": "https://blog.naver.com/oysssaka/224292294347",
+          "blogger": "[공식] SSAKA FOOTBALL",
+          "date": "2026-05-21"
+        },
+        {
+          "title": "[크로아티아/두브로브니크] ‘Arsenal Restaurant 아스날 레스토랑’ - 두....",
+          "link": "https://blog.naver.com/aydayd23/224220385184",
+          "blogger": "묭묭이의 하루ෆ˙ᵕ˙ෆ",
+          "date": "2026-03-18"
+        },
+        {
+          "title": "⚽️ 22 Years Later — Arsenal Finally End the Wait",
+          "link": "https://blog.naver.com/1234___z/224293918989",
+          "blogger": "nadie sabe lo que va a pasar mañana",
+          "date": "2026-05-22"
+        },
+        {
+          "title": "[크로아티아 여행 # 1] 두브로브니크 맛집 뷰맛집 Gradska kavana Arsenal Re....",
+          "link": "https://blog.naver.com/lhyfnql5/224184626038",
+          "blogger": "바다의 기록노트",
+          "date": "2026-02-15"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "Britain Soccer",
+          "link": "https://n.news.naver.com/mnews/article/077/0007118348?sid=104",
+          "press": "",
+          "date": "2026-08-09"
+        },
+        {
+          "title": "Britain Soccer",
+          "link": "https://n.news.naver.com/mnews/article/077/0007118338?sid=104",
+          "press": "",
+          "date": "2026-08-09"
+        },
+        {
+          "title": "Inside the War on Hezbollah’s Finances",
+          "link": "https://www.nytimes.com/2026/08/09/world/europe/lebanon-hezbollah-iran-us-finances.html?partner=naver",
+          "press": "",
+          "date": "2026-08-09"
+        },
+        {
+          "title": "Justin Trudeau, Katy Perry y el ‘look’ del estadista convertido en cel...",
+          "link": "https://www.nytimes.com/es/2026/08/09/espanol/estilos-de-vida/justin-trudeau-katy-perry-look.html?partner=naver",
+          "press": "",
+          "date": "2026-08-09"
+        },
+        {
+          "title": "The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking ...",
+          "link": "https://www.nytimes.com/2026/08/08/us/politics/pentagon-weapons-stockpiles-china-russia.html?partner=naver",
+          "press": "",
+          "date": "2026-08-08"
+        }
+      ],
+      "rank": 3
+    },
+    {
       "keyword": "피부암",
       "traffic": "1000+",
-      "blogTotal": 1921028,
+      "blogTotal": 1921043,
       "newsTotal": 29362,
-      "recentToday": 26,
+      "recentToday": 16,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -219,14 +292,14 @@
           "date": "2026-08-09"
         }
       ],
-      "rank": 3
+      "rank": 4
     },
     {
       "keyword": "트로이",
       "traffic": "500+",
-      "blogTotal": 282429,
-      "newsTotal": 69127,
-      "recentToday": 18,
+      "blogTotal": 282440,
+      "newsTotal": 69128,
+      "recentToday": 11,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -262,6 +335,12 @@
       ],
       "topNews": [
         {
+          "title": "'샌프란시스코 유일 3할 타자' 이정후, 디트로이트전서 2번 타자-우익수...",
+          "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553444060",
+          "press": "",
+          "date": "2026-08-09"
+        },
+        {
           "title": "'오디세이', 박스오피스 1위…2위는 스파이더맨",
           "link": "https://www.topstarnews.net/news/articleView.html?idxno=16159168",
           "press": "",
@@ -284,15 +363,9 @@
           "link": "https://www.hani.co.kr/arti/opinion/column/1272098.html",
           "press": "",
           "date": "2026-08-09"
-        },
-        {
-          "title": "놀란이 만든 ‘오디세이’는 달랐다…영웅 신화 뒤집은 이 장면",
-          "link": "https://www.joongang.co.kr/article/25451925",
-          "press": "",
-          "date": "2026-08-09"
         }
       ],
-      "rank": 4
+      "rank": 5
     },
     {
       "keyword": "liverpool vs monaco",
@@ -365,7 +438,7 @@
           "date": "2018-05-25"
         }
       ],
-      "rank": 5
+      "rank": 6
     },
     {
       "keyword": "ลิเวอร์พูล พบ มอนาโก",
@@ -376,24 +449,12 @@
       "recentWeek": 0,
       "topBlogs": [],
       "topNews": [],
-      "rank": 6
-    },
-    {
-      "keyword": "arsenal",
-      "traffic": "100+",
-      "blogTotal": 0,
-      "newsTotal": 0,
-      "recentToday": 0,
-      "recentWeek": 0,
-      "topBlogs": [],
-      "topNews": [],
-      "error": "HTTP 429 https://openapi.naver.com/v1/search/news.json?query=arsenal&display=5&sort=date",
       "rank": 7
     },
     {
       "keyword": "전주시",
       "traffic": "200+",
-      "blogTotal": 4996722,
+      "blogTotal": 4996771,
       "newsTotal": 654791,
       "recentToday": 0,
       "recentWeek": 100,
@@ -466,7 +527,7 @@
     {
       "keyword": "관리종목",
       "traffic": "500+",
-      "blogTotal": 1914952,
+      "blogTotal": 1914985,
       "newsTotal": 80851,
       "recentToday": 0,
       "recentWeek": 100,
@@ -539,7 +600,7 @@
     {
       "keyword": "교회",
       "traffic": "100+",
-      "blogTotal": 10686536,
+      "blogTotal": 10686563,
       "newsTotal": 1499818,
       "recentToday": 0,
       "recentWeek": 100,
