@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-09T16:44:49.317Z",
+  "updatedAt": "2026-08-09T17:28:34.237Z",
   "source": "live",
   "keywords": [
     {
       "keyword": "앤 해서웨이",
       "traffic": "100+",
-      "blogTotal": 86316,
+      "blogTotal": 86320,
       "newsTotal": 18317,
-      "recentToday": 78,
+      "recentToday": 74,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -76,82 +76,9 @@
       "rank": 1
     },
     {
-      "keyword": "피부암",
-      "traffic": "1000+",
-      "blogTotal": 1920994,
-      "newsTotal": 29362,
-      "recentToday": 47,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "자외선이 점을 바꾼다? 피부암 예방과 점 자가진단법!",
-          "link": "https://blog.naver.com/amc_seoul/224347429602",
-          "blogger": "서울아산병원 블로그",
-          "date": "2026-08-04"
-        },
-        {
-          "title": "[EBS 명의] 점인 줄 알았는데 피부암 증상일 수 있다고?",
-          "link": "https://blog.naver.com/ebsstory/224252069001",
-          "blogger": "EBS",
-          "date": "2026-04-15"
-        },
-        {
-          "title": "피부암 초기증상 얼굴피부암 점 증상",
-          "link": "https://blog.naver.com/oia_87/224351798921",
-          "blogger": "건강한 삶을 위해, :)❤️",
-          "date": "2026-07-21"
-        },
-        {
-          "title": "피부암 초기증상 6가지 — ABCDE 법칙으로 흑색종·기저세포암 조기발....",
-          "link": "https://blog.naver.com/lkj7420/224331561126",
-          "blogger": "마인드리",
-          "date": "2026-07-05"
-        },
-        {
-          "title": "피부암, 초기 증상부터 종류·구별법까지 꼭 알아야 할 핵심 정보",
-          "link": "https://blog.naver.com/ziwnghzi1/224330602449",
-          "blogger": "꺽딸뿡의 건강일지",
-          "date": "2026-06-29"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "[이정범의 응급의학 가이드] 눈에 보이는 암 '피부흑색종'",
-          "link": "https://www.insnews.co.kr/news/articleView.html?idxno=92133",
-          "press": "",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "바이든 암 뼈까지 전이…“매우 고통스럽게 투병”",
-          "link": "https://www.seoul.co.kr/news/international/2026/08/10/20260810014002?wlog_tag3=naver",
-          "press": "",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "“동양인 특히 주의하라는데”… 손바닥·발바닥에 생긴 점, 암일까?",
-          "link": "https://health.chosun.com/site/data/html_dir/2026/08/07/2026080702505.html",
-          "press": "",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "바이든 전립선암 뼈까지 전이…고통 속 투병",
-          "link": "https://news.tvchosun.com/site/data/html_dir/2026/08/09/2026080990081.html",
-          "press": "",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "“바이든 전 대통령, 전립선암 뼈 전이로 고통 속 투병”",
-          "link": "https://www.munhwa.com/article/11608223?ref=naver",
-          "press": "",
-          "date": "2026-08-09"
-        }
-      ],
-      "rank": 2
-    },
-    {
       "keyword": "혼전연애",
-      "traffic": "100+",
-      "blogTotal": 26675,
+      "traffic": "200+",
+      "blogTotal": 26676,
       "newsTotal": 8601,
       "recentToday": 37,
       "recentWeek": 100,
@@ -181,10 +108,10 @@
           "date": "2026-07-25"
         },
         {
-          "title": "나솔 현커 30기 영수♥옥순 내년에 결혼, 혼전임신설 해명",
-          "link": "https://blog.naver.com/tmzmfk010/224359692062",
-          "blogger": "힐스터K랑 오늘, 이거 볼래?",
-          "date": "2026-07-27"
+          "title": "혼전연애 일본 여자와 한일로맨스 연애예능 추천, 카호는 누구?(최....",
+          "link": "https://blog.naver.com/treewg/223593517664",
+          "blogger": "나무처럼",
+          "date": "2024-09-23"
         }
       ],
       "topNews": [
@@ -219,14 +146,87 @@
           "date": "2026-08-06"
         }
       ],
+      "rank": 2
+    },
+    {
+      "keyword": "피부암",
+      "traffic": "1000+",
+      "blogTotal": 1921028,
+      "newsTotal": 29362,
+      "recentToday": 26,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "자외선이 점을 바꾼다? 피부암 예방과 점 자가진단법!",
+          "link": "https://blog.naver.com/amc_seoul/224347429602",
+          "blogger": "서울아산병원 블로그",
+          "date": "2026-08-04"
+        },
+        {
+          "title": "[EBS 명의] 점인 줄 알았는데 피부암 증상일 수 있다고?",
+          "link": "https://blog.naver.com/ebsstory/224252069001",
+          "blogger": "EBS",
+          "date": "2026-04-15"
+        },
+        {
+          "title": "피부암 초기증상 얼굴피부암 점 증상",
+          "link": "https://blog.naver.com/oia_87/224351798921",
+          "blogger": "건강한 삶을 위해, :)❤️",
+          "date": "2026-07-21"
+        },
+        {
+          "title": "피부암, 초기 증상부터 종류·구별법까지 꼭 알아야 할 핵심 정보",
+          "link": "https://blog.naver.com/ziwnghzi1/224330602449",
+          "blogger": "꺽딸뿡의 건강일지",
+          "date": "2026-06-29"
+        },
+        {
+          "title": "피부암 초기증상 6가지 — ABCDE 법칙으로 흑색종·기저세포암 조기발....",
+          "link": "https://blog.naver.com/lkj7420/224331561126",
+          "blogger": "마인드리",
+          "date": "2026-07-05"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "[이정범의 응급의학 가이드] 눈에 보이는 암 '피부흑색종'",
+          "link": "https://www.insnews.co.kr/news/articleView.html?idxno=92133",
+          "press": "",
+          "date": "2026-08-09"
+        },
+        {
+          "title": "바이든 암 뼈까지 전이…“매우 고통스럽게 투병”",
+          "link": "https://www.seoul.co.kr/news/international/2026/08/10/20260810014002?wlog_tag3=naver",
+          "press": "",
+          "date": "2026-08-09"
+        },
+        {
+          "title": "“동양인 특히 주의하라는데”… 손바닥·발바닥에 생긴 점, 암일까?",
+          "link": "https://health.chosun.com/site/data/html_dir/2026/08/07/2026080702505.html",
+          "press": "",
+          "date": "2026-08-09"
+        },
+        {
+          "title": "바이든 전립선암 뼈까지 전이…고통 속 투병",
+          "link": "https://news.tvchosun.com/site/data/html_dir/2026/08/09/2026080990081.html",
+          "press": "",
+          "date": "2026-08-09"
+        },
+        {
+          "title": "“바이든 전 대통령, 전립선암 뼈 전이로 고통 속 투병”",
+          "link": "https://www.munhwa.com/article/11608223?ref=naver",
+          "press": "",
+          "date": "2026-08-09"
+        }
+      ],
       "rank": 3
     },
     {
       "keyword": "트로이",
-      "traffic": "2000+",
-      "blogTotal": 282418,
+      "traffic": "500+",
+      "blogTotal": 282429,
       "newsTotal": 69127,
-      "recentToday": 30,
+      "recentToday": 18,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -295,79 +295,6 @@
       "rank": 4
     },
     {
-      "keyword": "arsenal",
-      "traffic": "100+",
-      "blogTotal": 55226,
-      "newsTotal": 44061,
-      "recentToday": 28,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "다카마쓰 카페｜효고마치 분위기 좋은 커피 스탠드, 아스날 커피(ARS....",
-          "link": "https://blog.naver.com/vvllaa/224314847262",
-          "blogger": "찰나의 순간",
-          "date": "2026-06-13"
-        },
-        {
-          "title": "[아스널 팝업] WE ARE THE ARSENAL POP-UP ⚽",
-          "link": "https://blog.naver.com/oysssaka/224292294347",
-          "blogger": "[공식] SSAKA FOOTBALL",
-          "date": "2026-05-21"
-        },
-        {
-          "title": "[크로아티아/두브로브니크] ‘Arsenal Restaurant 아스날 레스토랑’ - 두....",
-          "link": "https://blog.naver.com/aydayd23/224220385184",
-          "blogger": "묭묭이의 하루ෆ˙ᵕ˙ෆ",
-          "date": "2026-03-18"
-        },
-        {
-          "title": "⚽️ 22 Years Later — Arsenal Finally End the Wait",
-          "link": "https://blog.naver.com/1234___z/224293918989",
-          "blogger": "nadie sabe lo que va a pasar mañana",
-          "date": "2026-05-22"
-        },
-        {
-          "title": "[크로아티아 여행 # 1] 두브로브니크 맛집 뷰맛집 Gradska kavana Arsenal Re....",
-          "link": "https://blog.naver.com/lhyfnql5/224184626038",
-          "blogger": "바다의 기록노트",
-          "date": "2026-02-15"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "Britain Soccer",
-          "link": "https://n.news.naver.com/mnews/article/077/0007118348?sid=104",
-          "press": "",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "Britain Soccer",
-          "link": "https://n.news.naver.com/mnews/article/077/0007118338?sid=104",
-          "press": "",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "Inside the War on Hezbollah’s Finances",
-          "link": "https://www.nytimes.com/2026/08/09/world/europe/lebanon-hezbollah-iran-us-finances.html?partner=naver",
-          "press": "",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "Justin Trudeau, Katy Perry y el ‘look’ del estadista convertido en cel...",
-          "link": "https://www.nytimes.com/es/2026/08/09/espanol/estilos-de-vida/justin-trudeau-katy-perry-look.html?partner=naver",
-          "press": "",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking ...",
-          "link": "https://www.nytimes.com/2026/08/08/us/politics/pentagon-weapons-stockpiles-china-russia.html?partner=naver",
-          "press": "",
-          "date": "2026-08-08"
-        }
-      ],
-      "rank": 5
-    },
-    {
       "keyword": "liverpool vs monaco",
       "traffic": "200+",
       "blogTotal": 124,
@@ -382,12 +309,6 @@
           "date": "2010-01-27"
         },
         {
-          "title": "2014 브라질월드컵 조별 분석 - C조",
-          "link": "https://banega.tistory.com/54",
-          "blogger": "El Maestro",
-          "date": "2014-05-31"
-        },
-        {
           "title": "2014 브라질월드컵 조별 분석 - F조",
           "link": "https://banega.tistory.com/57",
           "blogger": "El Maestro",
@@ -398,6 +319,12 @@
           "link": "https://parismonsieuroh.tistory.com/411",
           "blogger": "파리 외노자",
           "date": "2022-11-17"
+        },
+        {
+          "title": "2014 브라질월드컵 조별 분석 - C조",
+          "link": "https://banega.tistory.com/54",
+          "blogger": "El Maestro",
+          "date": "2014-05-31"
         },
         {
           "title": "[챔스 하이라이트] UCL 토트넘 vs 도르트문트 3-1",
@@ -438,7 +365,7 @@
           "date": "2018-05-25"
         }
       ],
-      "rank": 6
+      "rank": 5
     },
     {
       "keyword": "ลิเวอร์พูล พบ มอนาโก",
@@ -449,13 +376,25 @@
       "recentWeek": 0,
       "topBlogs": [],
       "topNews": [],
+      "rank": 6
+    },
+    {
+      "keyword": "arsenal",
+      "traffic": "100+",
+      "blogTotal": 0,
+      "newsTotal": 0,
+      "recentToday": 0,
+      "recentWeek": 0,
+      "topBlogs": [],
+      "topNews": [],
+      "error": "HTTP 429 https://openapi.naver.com/v1/search/news.json?query=arsenal&display=5&sort=date",
       "rank": 7
     },
     {
       "keyword": "전주시",
       "traffic": "200+",
-      "blogTotal": 4996675,
-      "newsTotal": 654790,
+      "blogTotal": 4996722,
+      "newsTotal": 654791,
       "recentToday": 0,
       "recentWeek": 100,
       "topBlogs": [
@@ -492,6 +431,12 @@
       ],
       "topNews": [
         {
+          "title": "전주 송천동 농수산물시장서 화재…1시간 50분 만에 초진(종합)",
+          "link": "https://www.yna.co.kr/view/AKR20260809054451055?input=1195m",
+          "press": "",
+          "date": "2026-08-09"
+        },
+        {
           "title": "전주 송천동 농수산물시장서 불…소방당국, 큰 불길 잡아(종합)",
           "link": "https://www.news1.kr/local/jeonbuk/6253581",
           "press": "",
@@ -514,20 +459,14 @@
           "link": "https://www.joongang.co.kr/article/25452009",
           "press": "",
           "date": "2026-08-09"
-        },
-        {
-          "title": "전주 송천동 농수산물시장 화재…한때 대응 2단계 발령",
-          "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8632346&ref=A",
-          "press": "",
-          "date": "2026-08-09"
         }
       ],
       "rank": 8
     },
     {
       "keyword": "관리종목",
-      "traffic": "200+",
-      "blogTotal": 1914818,
+      "traffic": "500+",
+      "blogTotal": 1914952,
       "newsTotal": 80851,
       "recentToday": 0,
       "recentWeek": 100,
@@ -539,16 +478,16 @@
           "date": "2026-07-30"
         },
         {
-          "title": "관리종목 지정 이유와 해제 조건, 투자자가 꼭 알아야 할 핵심 정보",
-          "link": "https://blog.naver.com/raingauge/224309679672",
-          "blogger": "츠구기님의 블로그",
-          "date": "2026-06-08"
-        },
-        {
           "title": "삼보산업 주가 상승 이유 관리종목 지정 탈출, 주식병합 가결이 요....",
           "link": "https://blog.naver.com/nabbeneye2/224361855232",
           "blogger": "깐따의 재테크",
           "date": "2026-07-29"
+        },
+        {
+          "title": "관리종목 지정 이유와 해제 조건, 투자자가 꼭 알아야 할 핵심 정보",
+          "link": "https://blog.naver.com/raingauge/224309679672",
+          "blogger": "츠구기님의 블로그",
+          "date": "2026-06-08"
         },
         {
           "title": "상장폐지 절차 관리종목 지정부터 정리매매까지 모르면 0원 된다고?",
@@ -600,7 +539,7 @@
     {
       "keyword": "교회",
       "traffic": "100+",
-      "blogTotal": 10686513,
+      "blogTotal": 10686536,
       "newsTotal": 1499818,
       "recentToday": 0,
       "recentWeek": 100,
@@ -618,16 +557,16 @@
           "date": "2026-07-31"
         },
         {
-          "title": "김양재 목사 어록과 공개고백, 우리들교회는 과연 건강한 교회인가?",
-          "link": "https://blog.naver.com/revwhalkim/224363473708",
-          "blogger": "김활목사의 기독교 바로알기",
-          "date": "2026-07-31"
-        },
-        {
           "title": "평창 실버벨교회 주차 반려동물 출입 가능한 강원도 여행 포토스팟",
           "link": "https://blog.naver.com/17_bom/224338484258",
           "blogger": "오늘의 지니는 여행 중",
           "date": "2026-07-06"
+        },
+        {
+          "title": "김양재 목사 어록과 공개고백, 우리들교회는 과연 건강한 교회인가?",
+          "link": "https://blog.naver.com/revwhalkim/224363473708",
+          "blogger": "김활목사의 기독교 바로알기",
+          "date": "2026-07-31"
         },
         {
           "title": "온누리교회 서빙고 예배시간주차 꿀팁 총정리",
@@ -656,14 +595,14 @@
           "date": "2026-08-09"
         },
         {
-          "title": "[부고] 김석한씨 外",
-          "link": "https://www.joongang.co.kr/article/25451962",
+          "title": "[사진] 백악관서 트럼프 만난 손현보 목사",
+          "link": "https://www.joongang.co.kr/article/25451965",
           "press": "",
           "date": "2026-08-09"
         },
         {
-          "title": "[사진] 백악관서 트럼프 만난 손현보 목사",
-          "link": "https://www.joongang.co.kr/article/25451965",
+          "title": "[부고] 김석한씨 外",
+          "link": "https://www.joongang.co.kr/article/25451962",
           "press": "",
           "date": "2026-08-09"
         }
