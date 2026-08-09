@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-09T11:26:02.923Z",
+  "updatedAt": "2026-08-09T11:55:15.278Z",
   "source": "live",
   "keywords": [
     {
       "keyword": "제니",
-      "traffic": "2000+",
-      "blogTotal": 1278606,
-      "newsTotal": 192583,
+      "traffic": "5000+",
+      "blogTotal": 1278612,
+      "newsTotal": 192584,
       "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
@@ -43,6 +43,12 @@
       ],
       "topNews": [
         {
+          "title": "블핑 “데뷔 10주년… 즐기다 보니 순식간”",
+          "link": "https://www.segye.com/newsView/20260809511240?OutUrl=naver",
+          "press": "",
+          "date": "2026-08-09"
+        },
+        {
           "title": "완전체 뭉친 '10주년' 블랙핑크 \"함께여서 더 웃을 수 있었다\"",
           "link": "https://news.jtbc.co.kr/article/NB12312437?influxDiv=NAVER",
           "press": "",
@@ -65,12 +71,6 @@
           "link": "https://www.mk.co.kr/article/12122234",
           "press": "",
           "date": "2026-08-09"
-        },
-        {
-          "title": "“10주년 선물이 6900원 떡?” 블랙핑크, 팬 홀대 이어 역조공도 논란",
-          "link": "https://www.mk.co.kr/article/12122221",
-          "press": "",
-          "date": "2026-08-09"
         }
       ],
       "rank": 1
@@ -78,7 +78,7 @@
     {
       "keyword": "상속",
       "traffic": "5000+",
-      "blogTotal": 2825270,
+      "blogTotal": 2825308,
       "newsTotal": 549824,
       "recentToday": 100,
       "recentWeek": 100,
@@ -116,6 +116,12 @@
       ],
       "topNews": [
         {
+          "title": "정부, ISA·주가 누르기 방지법 재검토…李 대통령 지시 후속",
+          "link": "https://www.news1.kr/economy/trend/6253548",
+          "press": "",
+          "date": "2026-08-09"
+        },
+        {
           "title": "“나 죽으면 다 니들 거” 홍석천, 입양 두 자녀에 재산 상속 약속(피식...",
           "link": "https://www.sportschosun.com/entertainment/2026-08-09/202608090100051330003188",
           "press": "",
@@ -138,20 +144,14 @@
           "link": "https://www.munhwa.com/article/11608244?ref=naver",
           "press": "",
           "date": "2026-08-09"
-        },
-        {
-          "title": "정부 'ISA·주가누르기 방지법' 재검토",
-          "link": "https://www.ytn.co.kr/_ln/0102_202608091928549325",
-          "press": "",
-          "date": "2026-08-09"
         }
       ],
       "rank": 2
     },
     {
       "keyword": "유튜버",
-      "traffic": "2000+",
-      "blogTotal": 2613100,
+      "traffic": "5000+",
+      "blogTotal": 2613129,
       "newsTotal": 561954,
       "recentToday": 100,
       "recentWeek": 100,
@@ -181,10 +181,10 @@
           "date": "2026-07-28"
         },
         {
-          "title": "54만 유튜버 덕자, 3년 만에 돌아왔는데… 모두 놀란 건 토익 960점",
-          "link": "https://blog.naver.com/153eeju/224342415348",
-          "blogger": "엄작가의 연예기록",
-          "date": "2026-07-10"
+          "title": "3.3% 뗐으면 부가세도 끝? 프리랜서·유튜버가 확인해야 할 것",
+          "link": "https://blog.naver.com/shoppartner/224356326363",
+          "blogger": "샵파트너세무법인 공식 블로그",
+          "date": "2026-07-24"
         }
       ],
       "topNews": [
@@ -224,7 +224,7 @@
     {
       "keyword": "엄정욱",
       "traffic": "1000+",
-      "blogTotal": 3404,
+      "blogTotal": 3415,
       "newsTotal": 5949,
       "recentToday": 100,
       "recentWeek": 100,
@@ -297,8 +297,8 @@
     {
       "keyword": "물고기",
       "traffic": "1000+",
-      "blogTotal": 5903337,
-      "newsTotal": 469615,
+      "blogTotal": 5903432,
+      "newsTotal": 469616,
       "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
@@ -335,6 +335,12 @@
       ],
       "topNews": [
         {
+          "title": "끓는 바다, 무너지는 양식장",
+          "link": "https://kjmbc.co.kr/NewsArticle/1531330",
+          "press": "",
+          "date": "2026-08-09"
+        },
+        {
           "title": "여전히 낮에는 '가마솥' 더위…피서 절정",
           "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008696978&plink=ORI&cooper=NAVER",
           "press": "",
@@ -357,22 +363,16 @@
           "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000544209",
           "press": "",
           "date": "2026-08-09"
-        },
-        {
-          "title": "[시민기자] 어린이집의 슬기로운 여름나기",
-          "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0700&key=20260810.22018002279",
-          "press": "",
-          "date": "2026-08-09"
         }
       ],
       "rank": 5
     },
     {
       "keyword": "오윤아",
-      "traffic": "2000+",
-      "blogTotal": 42492,
+      "traffic": "5000+",
+      "blogTotal": 42496,
       "newsTotal": 75581,
-      "recentToday": 50,
+      "recentToday": 54,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -439,79 +439,6 @@
         }
       ],
       "rank": 6
-    },
-    {
-      "keyword": "new york times",
-      "traffic": "100+",
-      "blogTotal": 134368,
-      "newsTotal": 148556,
-      "recentToday": 44,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "[뉴욕/신혼여행] Home2 Suites by Hilton New York Times Square 타임스퀘어 부근 ....",
-          "link": "https://blog.naver.com/wkdwof/224216466569",
-          "blogger": "✨",
-          "date": "2026-03-14"
-        },
-        {
-          "title": "A timeline of Tesla Cybertruck problems",
-          "link": "https://www.fastcompany.com/91109879/a-timeline-of-tesla-cybertruck-problems-from-rust-to-hail-damage-to-pedal-recalls",
-          "blogger": "https://www.fastcompany.com/",
-          "date": "2025-03-20"
-        },
-        {
-          "title": "뉴욕 여행 맨해튼 호텔 추천 힐튼 가든 인 후기 센트럴파크 근처 가....",
-          "link": "https://blog.naver.com/heina0612/224220049311",
-          "blogger": "나다운 여행, 다움",
-          "date": "2026-03-17"
-        },
-        {
-          "title": "[뉴욕/신혼여행] 타임스퀘어 가성비 호텔 Home2 Suites by Hilton New York Tim....",
-          "link": "https://blog.naver.com/wkdwof/224215424573",
-          "blogger": "✨",
-          "date": "2026-03-13"
-        },
-        {
-          "title": "미국 이란 전쟁 후 한국방산이 뜨는 진짜 이유 .new york times 보고서 ....",
-          "link": "https://blog.naver.com/victory0133/224244319130",
-          "blogger": "달빛문학관",
-          "date": "2026-04-07"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "Is ‘Gentle Parenting’ Ruining French Children?",
-          "link": "https://www.nytimes.com/2026/08/09/podcasts/the-daily/is-gentle-parenting-ruining-french-children.html?partner=naver",
-          "press": "",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "Please Judge What I’m Reading",
-          "link": "https://www.nytimes.com/2026/08/09/opinion/reading-books-judges-awards-booker.html?partner=naver",
-          "press": "",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "Connections Companion No. 1,156",
-          "link": "https://www.nytimes.com/2026/08/09/crosswords/connections-companion-1156.html?partner=naver",
-          "press": "",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "Wordle Review No. 1,878",
-          "link": "https://www.nytimes.com/2026/08/09/crosswords/wordle-review-1878.html?partner=naver",
-          "press": "",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "Pop Music Is the Problem",
-          "link": "https://www.nytimes.com/2026/08/09/opinion/bts-grammys-pop-genre-racism.html?partner=naver",
-          "press": "",
-          "date": "2026-08-09"
-        }
-      ],
-      "rank": 7
     },
     {
       "keyword": "케리아",
@@ -584,80 +511,80 @@
           "date": "2026-08-08"
         }
       ],
-      "rank": 8
+      "rank": 7
     },
     {
-      "keyword": "마이클 버리",
-      "traffic": "500+",
-      "blogTotal": 21685,
-      "newsTotal": 3752,
-      "recentToday": 11,
+      "keyword": "방은희",
+      "traffic": "100+",
+      "blogTotal": 6615,
+      "newsTotal": 12388,
+      "recentToday": 10,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "AI 종말의 시작? 마이클 버리의 '숏'에 또 속지 않으려면",
-          "link": "https://blog.naver.com/ghks5/224359522044",
-          "blogger": "매일스쿱 정보레시피",
-          "date": "2026-07-28"
-        },
-        {
-          "title": "마이클 버리 반도체 숏, 한국 800조 투자가 종말의 시작인 이유?",
-          "link": "https://blog.naver.com/jouser/224335246854",
-          "blogger": "하루의 쉼표",
-          "date": "2026-07-03"
-        },
-        {
-          "title": "흔들릴 때마다 다시 읽는 마이클 버리 명언 TOP3… 결국 돈 버는 사람....",
-          "link": "https://blog.naver.com/hidy79/224371552027",
-          "blogger": "똑쟁이하이디 돈모으는 이야기",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "'빅쇼트' 마이클 버리, 미국 증시 급락 경고! 1987년 블랙먼데이 재현....",
-          "link": "https://blog.naver.com/tujabook/224369350711",
-          "blogger": "투자공책",
+          "title": "특종세상 751회 방은희 정삼 나이 프로필 2번의 이혼과 눈물겨운 사....",
+          "link": "https://blog.naver.com/qhrfks1004/224370291321",
+          "blogger": "♥라니의 달콤한세상이야기♥",
           "date": "2026-08-06"
         },
         {
-          "title": "\"AI 폭락 베팅한 마이클 버리\" 조용히 싹쓸이한 이 종목들",
-          "link": "https://blog.naver.com/eunjoo0627/224364817427",
-          "blogger": "소수래빗의 경제노마드",
-          "date": "2026-08-01"
+          "title": "방은희 어머니 고독사 고백 \"돌아가신 지 이틀 만에 발견\"…6년째 죄....",
+          "link": "https://blog.naver.com/allday_everyday/224371237283",
+          "blogger": "올데이톡톡 | 매일 보는 트렌드",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "방은희 프로필 나이 필모그래피 화제, 전남편 누구? 자녀 유무",
+          "link": "https://blog.naver.com/everythingforyou/224369888001",
+          "blogger": "투데이 스타 이슈♡",
+          "date": "2026-08-06"
+        },
+        {
+          "title": "특종세상 방은희 두 번의 이혼 생활고 어머니의 고독사 (+프로필 나....",
+          "link": "https://blog.naver.com/domagent/224370430044",
+          "blogger": "달달한 소금창고",
+          "date": "2026-08-06"
+        },
+        {
+          "title": "특종세상 방은희 어머니 고독사 죽음으로 자책하는 이유 나이",
+          "link": "https://blog.naver.com/eueuy/224370330967",
+          "blogger": "이랑이랑 맛집찾기",
+          "date": "2026-08-06"
         }
       ],
       "topNews": [
         {
-          "title": "[김대호 인물] 빅쇼트 마이클 버리... 반도체 공매도 전면전",
-          "link": "https://www.g-enews.com/view.php?ud=202608060906371760906806b77b_1",
-          "press": "",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "수익률 1000% 찍고도 무너진 펀드…버핏식 투자가 답이었다?",
-          "link": "https://www.newsis.com/view/NISX20260807_0003740761",
-          "press": "",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "엔비디아(NVDA) 생태계에 또 20억 달러 확보...37명 중 36명 '매수'",
-          "link": "http://coinreaders.com/251846",
-          "press": "",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "'빅쇼트' 버리 AI 공매도…4500억달러 부채 경고음",
-          "link": "https://www.g-enews.com/view.php?ud=202608080944193944fbbec65dfb_1",
+          "title": "‘2번 이혼’ 방은희, 아들 미국 유학 보냈는데…“월 생활비 20만원, 버...",
+          "link": "https://www.tenasia.co.kr/article/2026080820614",
           "press": "",
           "date": "2026-08-08"
         },
         {
-          "title": "마이클 버리 \"AI 투자 열풍, 2008년처럼 무너진다\"",
-          "link": "http://coinreaders.com/251767",
+          "title": "방은희, 母 고독사 이틀 뒤 발견…“하루만 빨랐어도 살아계셨을 수도”",
+          "link": "https://www.mk.co.kr/article/12121779",
+          "press": "",
+          "date": "2026-08-08"
+        },
+        {
+          "title": "방은희, 어머니 고독사 고백 \"이틀 만에 발견\"",
+          "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=545181",
+          "press": "",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "방은희, 어머니 고독사 6년째 자책 “이틀 만에 발견…너무 후회”",
+          "link": "https://www.etoday.co.kr/news/view/2612273",
+          "press": "",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "\"지난해 부친상\"...유명 男 배우, 뒤늦게 안타까운 고벡→끝내 '오열' (...",
+          "link": "https://mhnse.com/news/articleView.html?idxno=1481773",
           "press": "",
           "date": "2026-08-07"
         }
       ],
-      "rank": 9
+      "rank": 8
     },
     {
       "keyword": "맨 시티 대 아틀레티코",
@@ -728,6 +655,61 @@
           "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=697606",
           "press": "",
           "date": "2024-08-13"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "keyword": "man city vs atlético madrid",
+      "traffic": "500+",
+      "blogTotal": 35,
+      "newsTotal": 2,
+      "recentToday": 0,
+      "recentWeek": 0,
+      "topBlogs": [
+        {
+          "title": "Arsenal vs Bayern, 챔스 8강 대진표 확정",
+          "link": "https://historylibrary.net/entry/Arsenal-vs-Bayern-%EC%B1%94%EC%8A%A4-8%EA%B0%95-%EB%8C%80%EC%A7%84%ED%91%9C-%ED%99%95%EC%A0%95",
+          "blogger": "https://historylibrary.net/",
+          "date": "2024-03-16"
+        },
+        {
+          "title": "22-23 챔스 조별리그 일정과 결승 정보!",
+          "link": "https://blog.naver.com/ryan901/222860073135",
+          "blogger": "스포츠에미친인간",
+          "date": "2022-08-28"
+        },
+        {
+          "title": "2018/19 챔피언스 리그 16강 대진표 및 일정",
+          "link": "https://blog.naver.com/pearl_58/221421643160",
+          "blogger": "조이의 즐거운 하루",
+          "date": "2018-12-18"
+        },
+        {
+          "title": "UCL Jornada01 19_de_septiembre_de_2024 VS 라이프치히 (꼬마홈전)",
+          "link": "https://blog.naver.com/calamity0223/223592067346",
+          "blogger": "표상과 사물",
+          "date": "2024-09-22"
+        },
+        {
+          "title": "유로2024, 벨기에 vs 루마니아 (조별예선 E조) / 승부예측",
+          "link": "https://blog.naver.com/cherishtip/223488041000",
+          "blogger": "체리쉬닷컴",
+          "date": "2024-06-22"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "The Fall Guy",
+          "link": "https://www.nytimes.com/2021/05/15/sports/soccer/juventus-andrea-pirlo-serie-a.html?partner=naver",
+          "press": "",
+          "date": "2021-05-15"
+        },
+        {
+          "title": "P.S.G. Beats RB Leipzig to Reach Champions League Final",
+          "link": "https://www.nytimes.com/2020/08/18/sports/soccer/psg-leipzig-live-score.html?partner=naver",
+          "press": "",
+          "date": "2020-08-18"
         }
       ],
       "rank": 10
