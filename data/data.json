@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-09T19:10:41.157Z",
+  "updatedAt": "2026-08-09T19:56:38.988Z",
   "source": "live",
   "keywords": [
     {
       "keyword": "뱅크 오브 아메리카",
-      "traffic": "100+",
-      "blogTotal": 105565,
-      "newsTotal": 129168,
-      "recentToday": 89,
+      "traffic": "200+",
+      "blogTotal": 105571,
+      "newsTotal": 129170,
+      "recentToday": 86,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -43,6 +43,18 @@
       ],
       "topNews": [
         {
+          "title": "[글로벌 비즈 브리핑] \"애플, 中 창신메모리 칩 테스트\" 外",
+          "link": "https://biz.sbs.co.kr/article_hub/20000327533?division=NAVER",
+          "press": "",
+          "date": "2026-08-09"
+        },
+        {
+          "title": "버핏 물러난 버크셔, 다시 지갑 열었다...4년 만에 주식 순매수",
+          "link": "https://biz.sbs.co.kr/article_hub/20000327528?division=NAVER",
+          "press": "",
+          "date": "2026-08-09"
+        },
+        {
           "title": "AI 투자, 채권·SPV로 확산…한국도 리스크 관리 시급",
           "link": "https://www.g-enews.com/view.php?ud=202608091458117071fbbec65dfb_1",
           "press": "",
@@ -59,18 +71,6 @@
           "link": "https://www.g-enews.com/view.php?ud=2026080923005259429a1f309431_1",
           "press": "",
           "date": "2026-08-09"
-        },
-        {
-          "title": "버크셔 해서웨이(BRK.B), 14분기 매도 끝...200억달러 주식 매수",
-          "link": "http://coinreaders.com/251865",
-          "press": "",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "반도체, 이젠 5년짜리 계약이 뉴노멀인 까닭은",
-          "link": "https://www.chosun.com/economy/tech_it/2026/08/10/CSERSWHWBZAF3NK3R54L7ESNXE/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-          "press": "",
-          "date": "2026-08-09"
         }
       ],
       "rank": 1
@@ -80,7 +80,7 @@
       "traffic": "100+",
       "blogTotal": 86332,
       "newsTotal": 18318,
-      "recentToday": 64,
+      "recentToday": 63,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -108,9 +108,9 @@
           "date": "2026-06-20"
         },
         {
-          "title": "애덤 셜먼 누구? 앤 해서웨이 남편 직업 재산 자녀 셋째 임신까지 놀....",
-          "link": "https://blog.naver.com/luxblue83/224355053334",
-          "blogger": "디디방송국",
+          "title": "앤 해서웨이♥애덤 셜먼, 셰익스피어 환생설부터 영화 같은 러브스....",
+          "link": "https://blog.naver.com/tryhard0712/224355391836",
+          "blogger": "더마니의 블로그",
           "date": "2026-07-23"
         }
       ],
@@ -149,11 +149,84 @@
       "rank": 2
     },
     {
+      "keyword": "혼전연애",
+      "traffic": "200+",
+      "blogTotal": 26677,
+      "newsTotal": 8601,
+      "recentToday": 37,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "열애 2주 만에 혼전임신 고백 광고 17개 휩쓴 여배우의 정체",
+          "link": "https://blog.naver.com/jaewoon197/224366544877",
+          "blogger": "도도슨트",
+          "date": "2026-08-03"
+        },
+        {
+          "title": "최다니엘♥카호 도쿄서 다시 만났다…“첫 데이트 때랑 비슷” 혼....",
+          "link": "https://blog.naver.com/zini5530/224373424922",
+          "blogger": "야옹이화장대",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "혼전순결 강균성, 14살 연하 유하진과 결혼 (독특한연예뉴스)",
+          "link": "https://blog.naver.com/euene1111/224368346909",
+          "blogger": "보는 사람",
+          "date": "2026-08-05"
+        },
+        {
+          "title": "“연애 그만합니다”…나는솔로 30기 영수 옥순, 내년 결혼·혼전임....",
+          "link": "https://blog.naver.com/wltntleo/224361639992",
+          "blogger": "지구의 VLOG",
+          "date": "2026-07-29"
+        },
+        {
+          "title": "현아♥용준형, 공개 연애부터 삼청각 결혼식까지! 혼전임신설 해명....",
+          "link": "https://blog.naver.com/tryhard0712/224357215451",
+          "blogger": "더마니의 블로그",
+          "date": "2026-07-25"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "최다니엘, 日유명 여배우 카호와 재회했다...이번엔 도쿄 데이트",
+          "link": "http://www.osen.co.kr/article/G1112854351",
+          "press": "",
+          "date": "2026-08-09"
+        },
+        {
+          "title": "\"첫 데이트 때랑 비슷\" 최다니엘, 혼전연애 ♥카호와 日서 다시 만났다",
+          "link": "https://www.sportschosun.com/entertainment/2026-08-09/202608090100050030003108",
+          "press": "",
+          "date": "2026-08-09"
+        },
+        {
+          "title": "노을 강균성, 품절남 된다… 예비신부는 14세 연하 배우 유하진",
+          "link": "https://www.ggilbo.com/news/articleView.html?idxno=1173143",
+          "press": "",
+          "date": "2026-08-08"
+        },
+        {
+          "title": "유다연, '돌싱글즈' ♥한정민과 상담 2달 만에 벌써 \"이혼하면 솔직하게...",
+          "link": "http://www.atstar1.com/news/articleView.html?idxno=6037343",
+          "press": "",
+          "date": "2026-08-06"
+        },
+        {
+          "title": "11살 연하 만난 男스타, '55세'까지 혼전순결 지켰던 뜻밖의 이유 ('동치...",
+          "link": "https://mhnse.com/news/articleView.html?idxno=1480091",
+          "press": "",
+          "date": "2026-08-06"
+        }
+      ],
+      "rank": 3
+    },
+    {
       "keyword": "한혜진",
-      "traffic": "100+",
-      "blogTotal": 174955,
+      "traffic": "200+",
+      "blogTotal": 174960,
       "newsTotal": 218843,
-      "recentToday": 40,
+      "recentToday": 36,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -219,159 +292,159 @@
           "date": "2026-08-09"
         }
       ],
-      "rank": 3
-    },
-    {
-      "keyword": "혼전연애",
-      "traffic": "200+",
-      "blogTotal": 26677,
-      "newsTotal": 8601,
-      "recentToday": 37,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "최다니엘♥카호 도쿄서 다시 만났다…“첫 데이트 때랑 비슷” 혼....",
-          "link": "https://blog.naver.com/zini5530/224373424922",
-          "blogger": "야옹이화장대",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "혼전순결 강균성, 14살 연하 유하진과 결혼 (독특한연예뉴스)",
-          "link": "https://blog.naver.com/euene1111/224368346909",
-          "blogger": "보는 사람",
-          "date": "2026-08-05"
-        },
-        {
-          "title": "“연애 그만합니다”…나는솔로 30기 영수 옥순, 내년 결혼·혼전임....",
-          "link": "https://blog.naver.com/wltntleo/224361639992",
-          "blogger": "지구의 VLOG",
-          "date": "2026-07-29"
-        },
-        {
-          "title": "“기다리고 있었다”…최다니엘, ‘혼전연애’ ♥카호와 日 도쿄서....",
-          "link": "https://blog.naver.com/deepwelloper/224373453636",
-          "blogger": "투데이체크",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "현아♥용준형, 공개 연애부터 삼청각 결혼식까지! 혼전임신설 해명....",
-          "link": "https://blog.naver.com/tryhard0712/224357215451",
-          "blogger": "더마니의 블로그",
-          "date": "2026-07-25"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "최다니엘, 日유명 여배우 카호와 재회했다...이번엔 도쿄 데이트",
-          "link": "http://www.osen.co.kr/article/G1112854351",
-          "press": "",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "\"첫 데이트 때랑 비슷\" 최다니엘, 혼전연애 ♥카호와 日서 다시 만났다",
-          "link": "https://www.sportschosun.com/entertainment/2026-08-09/202608090100050030003108",
-          "press": "",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "노을 강균성, 품절남 된다… 예비신부는 14세 연하 배우 유하진",
-          "link": "https://www.ggilbo.com/news/articleView.html?idxno=1173143",
-          "press": "",
-          "date": "2026-08-08"
-        },
-        {
-          "title": "유다연, '돌싱글즈' ♥한정민과 상담 2달 만에 벌써 \"이혼하면 솔직하게...",
-          "link": "http://www.atstar1.com/news/articleView.html?idxno=6037343",
-          "press": "",
-          "date": "2026-08-06"
-        },
-        {
-          "title": "11살 연하 만난 男스타, '55세'까지 혼전순결 지켰던 뜻밖의 이유 ('동치...",
-          "link": "https://mhnse.com/news/articleView.html?idxno=1480091",
-          "press": "",
-          "date": "2026-08-06"
-        }
-      ],
       "rank": 4
     },
     {
-      "keyword": "liverpool vs monaco",
-      "traffic": "500+",
-      "blogTotal": 125,
-      "newsTotal": 20,
-      "recentToday": 2,
-      "recentWeek": 2,
+      "keyword": "arsenal",
+      "traffic": "100+",
+      "blogTotal": 55231,
+      "newsTotal": 44062,
+      "recentToday": 28,
+      "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "이청용 5호골 동영상 _볼튼 vs. 번리, Bolton vs. Burnley _10.01.27",
-          "link": "https://assetguide.tistory.com/1142",
-          "blogger": "AZE",
-          "date": "2010-01-27"
+          "title": "다카마쓰 카페｜효고마치 분위기 좋은 커피 스탠드, 아스날 커피(ARS....",
+          "link": "https://blog.naver.com/vvllaa/224314847262",
+          "blogger": "찰나의 순간",
+          "date": "2026-06-13"
         },
         {
-          "title": "show-me-the-work (smtw): AI 에이전트 실행 증거 검증 도구 완벽 가이드",
-          "link": "https://tikongs.tistory.com/1747",
-          "blogger": "콩쓰의 화끈한 생각",
-          "date": "2026-07-24"
+          "title": "[아스널 팝업] WE ARE THE ARSENAL POP-UP ⚽",
+          "link": "https://blog.naver.com/oysssaka/224292294347",
+          "blogger": "[공식] SSAKA FOOTBALL",
+          "date": "2026-05-21"
         },
         {
-          "title": "8월 3일(월) 매크로 지표 분석",
-          "link": "https://tikongs.tistory.com/1772",
-          "blogger": "콩쓰의 화끈한 생각",
-          "date": "2026-08-03"
+          "title": "[크로아티아/두브로브니크] ‘Arsenal Restaurant 아스날 레스토랑’ - 두....",
+          "link": "https://blog.naver.com/aydayd23/224220385184",
+          "blogger": "묭묭이의 하루ෆ˙ᵕ˙ෆ",
+          "date": "2026-03-18"
         },
         {
-          "title": "2014 브라질월드컵 조별 분석 - F조",
-          "link": "https://banega.tistory.com/57",
-          "blogger": "El Maestro",
-          "date": "2014-06-16"
+          "title": "⚽️ 22 Years Later — Arsenal Finally End the Wait",
+          "link": "https://blog.naver.com/1234___z/224293918989",
+          "blogger": "nadie sabe lo que va a pasar mañana",
+          "date": "2026-05-22"
         },
         {
-          "title": "[프랑스 정보] 2022년 카타르 월드컵 프랑스 축구 국가대표팀 카타르....",
-          "link": "https://parismonsieuroh.tistory.com/411",
-          "blogger": "파리 외노자",
-          "date": "2022-11-17"
+          "title": "[크로아티아 여행 # 1] 두브로브니크 맛집 뷰맛집 Gradska kavana Arsenal Re....",
+          "link": "https://blog.naver.com/lhyfnql5/224184626038",
+          "blogger": "바다의 기록노트",
+          "date": "2026-02-15"
         }
       ],
       "topNews": [
         {
-          "title": "Champions League Final: How, and When, to Watch",
-          "link": "https://www.nytimes.com/2022/05/28/sports/soccer/champions-league-watch-stream-time.html?partner=naver",
+          "title": "Don Nelson, Hall of Fame NBA Coach and Celtics Star, Dies at 86",
+          "link": "https://www.nytimes.com/2026/08/09/obituaries/don-nelson-dead.html?partner=naver",
           "press": "",
-          "date": "2022-05-28"
+          "date": "2026-08-09"
         },
         {
-          "title": "EPA OUTLOOK",
-          "link": "https://n.news.naver.com/mnews/article/091/0006696055?sid=104",
+          "title": "Britain Soccer",
+          "link": "https://n.news.naver.com/mnews/article/077/0007118348?sid=104",
           "press": "",
-          "date": "2018-08-04"
+          "date": "2026-08-09"
         },
         {
-          "title": "EPA OUTLOOK",
-          "link": "https://n.news.naver.com/mnews/article/091/0006552842?sid=104",
+          "title": "Britain Soccer",
+          "link": "https://n.news.naver.com/mnews/article/077/0007118338?sid=104",
           "press": "",
-          "date": "2018-05-26"
+          "date": "2026-08-09"
         },
         {
-          "title": "EPA OUTLOOK",
-          "link": "https://n.news.naver.com/mnews/article/091/0006551976?sid=104",
+          "title": "Inside the War on Hezbollah’s Finances",
+          "link": "https://www.nytimes.com/2026/08/09/world/europe/lebanon-hezbollah-iran-us-finances.html?partner=naver",
           "press": "",
-          "date": "2018-05-25"
+          "date": "2026-08-09"
         },
         {
-          "title": "EPA OUTLOOK",
-          "link": "https://n.news.naver.com/mnews/article/091/0006550928?sid=104",
+          "title": "Justin Trudeau, Katy Perry y el ‘look’ del estadista convertido en cel...",
+          "link": "https://www.nytimes.com/es/2026/08/09/espanol/estilos-de-vida/justin-trudeau-katy-perry-look.html?partner=naver",
           "press": "",
-          "date": "2018-05-25"
+          "date": "2026-08-09"
         }
       ],
       "rank": 5
     },
     {
+      "keyword": "ai",
+      "traffic": "100+",
+      "blogTotal": 13841568,
+      "newsTotal": 6736950,
+      "recentToday": 0,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "삼성 AI 스마트안경 공개, 젠틀몬스터와 만든 기능은?",
+          "link": "https://blog.naver.com/huenga/224360075938",
+          "blogger": "벨롬 / IT TECH",
+          "date": "2026-07-28"
+        },
+        {
+          "title": "미 증시 AI 반도체 희비! 엔비디아 독주와 AMD의 경고",
+          "link": "https://blog.naver.com/vitamin2230/224369682592",
+          "blogger": "REONE P&I",
+          "date": "2026-08-06"
+        },
+        {
+          "title": "삼성 비스포크 AI콤보 세탁기 실사용 후기 | 건조기 따로 안 산 이유",
+          "link": "https://blog.naver.com/jkzkan/224330652358",
+          "blogger": "자유여행자의 블로그",
+          "date": "2026-06-29"
+        },
+        {
+          "title": "수노 AI 사용법 가격 상세히 비교해서",
+          "link": "https://blog.naver.com/badahorangyi/224331270726",
+          "blogger": "기어 앤 코드",
+          "date": "2026-06-30"
+        },
+        {
+          "title": "갤럭시 S26 울트라 실사용 후기 | 자급제로 산 이유 (feat. AI 기능 후기....",
+          "link": "https://blog.naver.com/jkzkan/224331663500",
+          "blogger": "자유여행자의 블로그",
+          "date": "2026-06-30"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "블룸버그 \"한국은 투자 부적합\"…증권가 \"레버리지 아닌 반도체 편중이...",
+          "link": "https://www.news2day.co.kr/article/20260807500219",
+          "press": "",
+          "date": "2026-08-09"
+        },
+        {
+          "title": "[김대호 진단] 반도체 열전 (34) 유니트리 宇樹科技,... 휴머노이드 로봇...",
+          "link": "https://www.g-enews.com/view.php?ud=202608071617514625906806b77b_1",
+          "press": "",
+          "date": "2026-08-09"
+        },
+        {
+          "title": "[IPO 워치] 딜리셔스·KNS 증시 입성…공모청약 3곳",
+          "link": "https://www.news2day.co.kr/article/20260808500017",
+          "press": "",
+          "date": "2026-08-09"
+        },
+        {
+          "title": "복잡하게 얽힌 사회구조 8년째 탐구… “AI시대, 데이터 제공 위해 살지...",
+          "link": "https://www.donga.com/news/Culture/article/all/20260810/134445784/2",
+          "press": "",
+          "date": "2026-08-09"
+        },
+        {
+          "title": "中 로봇기술도 패권 강화… 유니트리 IPO에 딥시크도 투자",
+          "link": "https://www.donga.com/news/Inter/article/all/20260810/134445902/2",
+          "press": "",
+          "date": "2026-08-09"
+        }
+      ],
+      "rank": 6
+    },
+    {
       "keyword": "다음 뉴스",
       "traffic": "100+",
-      "blogTotal": 6136161,
-      "newsTotal": 3067403,
+      "blogTotal": 6136034,
+      "newsTotal": 3067405,
       "recentToday": 0,
       "recentWeek": 100,
       "topBlogs": [
@@ -408,6 +481,18 @@
       ],
       "topNews": [
         {
+          "title": "[N2 포커스] ETF 애프터마켓 한달 앞…거래소, 업계 의견 다시 듣는다",
+          "link": "https://www.news2day.co.kr/article/20260809500036",
+          "press": "",
+          "date": "2026-08-09"
+        },
+        {
+          "title": "[뉴스룸에서] 검찰 만능주의, ‘확신의 함정’",
+          "link": "https://www.hankookilbo.com/news/article/A2026080917530000331?did=NA",
+          "press": "",
+          "date": "2026-08-09"
+        },
+        {
           "title": "0.65달러 BTC 전송에 수수료 6514달러 지불",
           "link": "https://www.tokenpost.kr/news/breaking/387252",
           "press": "",
@@ -424,27 +509,15 @@
           "link": "https://www.xportsnews.com/article/2181861",
           "press": "",
           "date": "2026-08-09"
-        },
-        {
-          "title": "'187번째 도전' 끝에 터진 눈물... 장은수, 벙커도 버티고 생애 첫 우승",
-          "link": "https://www.stnsports.co.kr/news/articleView.html?idxno=320606",
-          "press": "",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "극한 폭염에 멈춘 프로야구…1300만 관중 신기록 ‘비상’",
-          "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=01095526645546008",
-          "press": "",
-          "date": "2026-08-09"
         }
       ],
-      "rank": 6
+      "rank": 7
     },
     {
       "keyword": "유격수",
-      "traffic": "200+",
-      "blogTotal": 769515,
-      "newsTotal": 520487,
+      "traffic": "2000+",
+      "blogTotal": 769524,
+      "newsTotal": 520488,
       "recentToday": 0,
       "recentWeek": 100,
       "topBlogs": [
@@ -481,6 +554,12 @@
       ],
       "topNews": [
         {
+          "title": "배지환 전격 밀워키행, 마이너계약 맺고 곧바로 빅리그 콜업…메츠 방출...",
+          "link": "https://www.mydaily.co.kr/page/view/2026081004165345366",
+          "press": "",
+          "date": "2026-08-09"
+        },
+        {
           "title": "기회의 문은 밀워키에서 열렸다...배지환, 마이너 계약 직후 전격 콜업",
           "link": "https://www.mk.co.kr/article/12122393",
           "press": "",
@@ -503,15 +582,9 @@
           "link": "http://www.osen.co.kr/article/G1112854160",
           "press": "",
           "date": "2026-08-09"
-        },
-        {
-          "title": "잔여 연봉 2260억 선수, 한국에서 뛸 수도 있다고? 천재의 몰락, 복귀 원...",
-          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=833795",
-          "press": "",
-          "date": "2026-08-09"
         }
       ],
-      "rank": 7
+      "rank": 8
     },
     {
       "keyword": "ลิเวอร์พูล พบ มอนาโก",
@@ -522,22 +595,16 @@
       "recentWeek": 0,
       "topBlogs": [],
       "topNews": [],
-      "rank": 8
+      "rank": 9
     },
     {
       "keyword": "피부암",
       "traffic": "1000+",
-      "blogTotal": 1921066,
+      "blogTotal": 1921069,
       "newsTotal": 29362,
       "recentToday": 0,
       "recentWeek": 100,
       "topBlogs": [
-        {
-          "title": "자외선이 점을 바꾼다? 피부암 예방과 점 자가진단법!",
-          "link": "https://blog.naver.com/amc_seoul/224347429602",
-          "blogger": "서울아산병원 블로그",
-          "date": "2026-08-04"
-        },
         {
           "title": "[EBS 명의] 점인 줄 알았는데 피부암 증상일 수 있다고?",
           "link": "https://blog.naver.com/ebsstory/224252069001",
@@ -555,6 +622,12 @@
           "link": "https://blog.naver.com/ziwnghzi1/224330602449",
           "blogger": "꺽딸뿡의 건강일지",
           "date": "2026-06-29"
+        },
+        {
+          "title": "태닝기계 피부노화 피부암 유발 1급 발암물질",
+          "link": "https://blog.naver.com/dstarline/224347648581",
+          "blogger": "비버의건강학개론",
+          "date": "2026-07-15"
         },
         {
           "title": "피부암 초기증상 6가지 — ABCDE 법칙으로 흑색종·기저세포암 조기발....",
@@ -591,79 +664,6 @@
         {
           "title": "“바이든 전 대통령, 전립선암 뼈 전이로 고통 속 투병”",
           "link": "https://www.munhwa.com/article/11608223?ref=naver",
-          "press": "",
-          "date": "2026-08-09"
-        }
-      ],
-      "rank": 9
-    },
-    {
-      "keyword": "전주시",
-      "traffic": "200+",
-      "blogTotal": 4996814,
-      "newsTotal": 654792,
-      "recentToday": 0,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "김포공항 인천공항 전주 공항버스 요금 시간",
-          "link": "https://blog.naver.com/rsrs0930/224346869504",
-          "blogger": "일편이여행로드맵",
-          "date": "2026-07-15"
-        },
-        {
-          "title": "전주 다가양조장 | 안주가 끝도 없이 나오는 가성비 술집",
-          "link": "https://blog.naver.com/hin1530/224345948089",
-          "blogger": "HANI.zip",
-          "date": "2026-07-14"
-        },
-        {
-          "title": "전주 한옥마을 풍남정｜아이들도 맛있게 먹은 전주비빔밥 맛집",
-          "link": "https://blog.naver.com/smmra98/224355993200",
-          "blogger": "쿠난나나의 유익한 수다",
-          "date": "2026-07-24"
-        },
-        {
-          "title": "[전주여의동맛집] 풍자 또간집에도 나온 현지인이 추천하는 전주 인....",
-          "link": "https://blog.naver.com/hi081712/224349367077",
-          "blogger": "기록하고 기억하는 혜니의 블로그❤︎",
-          "date": "2026-07-17"
-        },
-        {
-          "title": "[전주맛집/최선] 덕진구 점심 혼밥 추천! 치킨난반 정식이 있는 한식....",
-          "link": "https://blog.naver.com/sarakim12345/224349395310",
-          "blogger": "랑킷리스트Rangkitlist✈️",
-          "date": "2026-07-17"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "전주 덕진구 농수산물시장 화재…1시간 50분 만에 큰불 잡혀",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008697127&plink=ORI&cooper=NAVER",
-          "press": "",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "전주 송천동 농수산물시장서 화재…1시간 50분 만에 초진(종합)",
-          "link": "https://www.yna.co.kr/view/AKR20260809054451055?input=1195m",
-          "press": "",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "전주 송천동 농수산물시장서 불…소방당국, 큰 불길 잡아(종합)",
-          "link": "https://www.news1.kr/local/jeonbuk/6253581",
-          "press": "",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "전주 송천동 농수산물시장 화재…소방 대응 2단계 발령",
-          "link": "https://biz.chosun.com/topics/topics_social/2026/08/10/WFYGUZ2HLJCQ7GSTWZOGA3ALVI/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-          "press": "",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "전주 송천동 농수산물시장에서 큰불...한때 대응 2단계 발령",
-          "link": "https://www.ytn.co.kr/_ln/0115_202608100114234128",
           "press": "",
           "date": "2026-08-09"
         }
