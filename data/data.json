@@ -1,12 +1,231 @@
 {
-  "updatedAt": "2026-08-09T06:52:15.627Z",
+  "updatedAt": "2026-08-09T07:52:10.334Z",
   "source": "live",
   "keywords": [
     {
+      "keyword": "의과대학",
+      "traffic": "200+",
+      "blogTotal": 550801,
+      "newsTotal": 505086,
+      "recentToday": 100,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "일본 사립 의과대학 개요_2_일본 사립의대 전형",
+          "link": "https://blog.naver.com/mathcrux/224348425620",
+          "blogger": "의대에서 인서울까지 철저한 개별 플랜 프로젝트",
+          "date": "2026-07-16"
+        },
+        {
+          "title": "2026 차의과대 수시등급 내신 정시 입결_차의과학대학교 입시결과 약....",
+          "link": "https://blog.naver.com/endiary/224341928225",
+          "blogger": "드림하이 에꼴",
+          "date": "2026-07-09"
+        },
+        {
+          "title": "2027, 2028학년도 지역별 의대 의과대학 정원 증원 순위, 국립대, 지역....",
+          "link": "https://blog.naver.com/runharry2/224221028798",
+          "blogger": "내가 찾던 정보들",
+          "date": "2026-03-18"
+        },
+        {
+          "title": "[호주 의대 순위 TOP9] 대학교 의과대학 특징, 장점분석",
+          "link": "https://blog.naver.com/viva4014/224315039258",
+          "blogger": "대치동 조상현토플 ★ YBM인천상륙",
+          "date": "2026-06-13"
+        },
+        {
+          "title": "의학전문대학원 폐지 이유, 결국 기존의 학부 6년제 의과대학 체제....",
+          "link": "https://blog.naver.com/pso164/224173787828",
+          "blogger": "과학커뮤니케이터 박종현",
+          "date": "2026-02-11"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "의료IT ‘한우물 43년’ 조현정 비트컴퓨터 회장…새로운 도약 이끌 승...",
+          "link": "https://www.dt.co.kr/article/12077280?ref=naver",
+          "press": "",
+          "date": "2026-08-09"
+        },
+        {
+          "title": "[BIO톡]보로노이, 폐암 표적치료제 VRN11 캐나다 임상 본격화 外 엑셀...",
+          "link": "https://www.getnews.co.kr/news/articleView.html?idxno=877401",
+          "press": "",
+          "date": "2026-08-09"
+        },
+        {
+          "title": "\"어린이에 말·소 피 주입\"…중일전쟁 때 日 의대 '충격의 인체실험'",
+          "link": "https://www.kyeonggi.com/article/20260809580217",
+          "press": "",
+          "date": "2026-08-09"
+        },
+        {
+          "title": "[김대호 인물] 빅쇼트 마이클 버리... 반도체 공매도 전면전",
+          "link": "https://www.g-enews.com/view.php?ud=202608060906371760906806b77b_1",
+          "press": "",
+          "date": "2026-08-09"
+        },
+        {
+          "title": "日의대, 중일전쟁 때 환자에 동물 피 수혈 의혹",
+          "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000055484",
+          "press": "",
+          "date": "2026-08-09"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "keyword": "채무",
+      "traffic": "5000+",
+      "blogTotal": 5931240,
+      "newsTotal": 1199282,
+      "recentToday": 100,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "[경기도 개인회생] 빚더미 채무 고민, 법률사무소 우주 처리과정 직....",
+          "link": "https://blog.naver.com/hyunsuk3210/224359422622",
+          "blogger": "핵 정보",
+          "date": "2026-07-27"
+        },
+        {
+          "title": "채무조정제도란? 빚을 줄여주는 것과 상환기간을 늘리는 것은 어떻....",
+          "link": "https://blog.naver.com/hwre7774/224366827308",
+          "blogger": "워누공간의 블로그",
+          "date": "2026-08-03"
+        },
+        {
+          "title": "채무자 주소 모를 때 대응 방법 총정리",
+          "link": "https://blog.naver.com/rmacjs0316/224302445738",
+          "blogger": "✅낚시인플루언서",
+          "date": "2026-06-01"
+        },
+        {
+          "title": "2026년 새도약기금 장기연체 채무자 개인회생·파산면책 지원｜대상....",
+          "link": "https://blog.naver.com/lordassetbu/224360918234",
+          "blogger": "Better, little by little",
+          "date": "2026-07-28"
+        },
+        {
+          "title": "내 채무조회, 오래된 채무까지 찾는법 완벽정리",
+          "link": "https://blog.naver.com/qaws0809/224359169546",
+          "blogger": "법률사무소 공감",
+          "date": "2026-07-27"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "[디벨로퍼, 생존의 조건⑦] SK디앤디 흔든 지배구조 변화…1367억 증자로...",
+          "link": "https://www.ajunews.com/view/20260809161930915",
+          "press": "",
+          "date": "2026-08-09"
+        },
+        {
+          "title": "사천 A 수협 ‘200억 규모 대출 보증 이관’ 논란…검찰 송치",
+          "link": "https://www.busan.com/view/busan/view.php?code=2026080911320841352",
+          "press": "",
+          "date": "2026-08-09"
+        },
+        {
+          "title": "[김대호 인물] 빅쇼트 마이클 버리... 반도체 공매도 전면전",
+          "link": "https://www.g-enews.com/view.php?ud=202608060906371760906806b77b_1",
+          "press": "",
+          "date": "2026-08-09"
+        },
+        {
+          "title": "“벌어서 이자도 못 갚는다”… 10곳 중 1곳 ‘한계기업’",
+          "link": "https://m.skyedaily.com/news_view.html?ID=309451",
+          "press": "",
+          "date": "2026-08-09"
+        },
+        {
+          "title": "추미애 지사 \"경기도 '부자 지자체' 착시...구조적 모순에 재정난 심화...",
+          "link": "https://www.newspim.com/news/view/20260809000087",
+          "press": "",
+          "date": "2026-08-09"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "keyword": "결혼의 완성",
+      "traffic": "2000+",
+      "blogTotal": 2376143,
+      "newsTotal": 180924,
+      "recentToday": 100,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "결혼의완성 몇부작?10회 줄거리 충격적인 결말 노만희 김경애 만남 ....",
+          "link": "https://blog.naver.com/qhrfks1004/224366081982",
+          "blogger": "♥라니의 달콤한세상이야기♥",
+          "date": "2026-08-02"
+        },
+        {
+          "title": "결혼의완성 몇부작 8회 줄거리 결말 9화 예고 충격적인 고동찬 과거....",
+          "link": "https://blog.naver.com/qhrfks1004/224359040570",
+          "blogger": "♥라니의 달콤한세상이야기♥",
+          "date": "2026-07-27"
+        },
+        {
+          "title": "결혼의완성 몇부작, 남은 4회는 납치 얘기가 아니다",
+          "link": "https://blog.naver.com/shbg0226/224359761371",
+          "blogger": "테오의 드라마 원픽",
+          "date": "2026-07-27"
+        },
+        {
+          "title": "결혼의완성 9회 범인 고동찬 아닌 차명희 ?! 9화 + 10회 (KBS드라마)",
+          "link": "https://blog.naver.com/euene1111/224365256830",
+          "blogger": "보는 사람",
+          "date": "2026-08-02"
+        },
+        {
+          "title": "결혼의 완성 7화 고동찬 김경애 임상실험 관계?! + 8회 (KBS드라마)",
+          "link": "https://blog.naver.com/euene1111/224357827318",
+          "blogger": "보는 사람",
+          "date": "2026-07-25"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "'결혼의 완성' 남궁민-이설-김대명-이상희, 애정 가득한 마지막 인사",
+          "link": "http://enews.imbc.com/News/RetrieveNewsInfo/514201",
+          "press": "",
+          "date": "2026-08-09"
+        },
+        {
+          "title": "'결혼의 완성' 남궁민, 종영소감 \"공감+응원해준 시청자들 덕분에 큰 힘...",
+          "link": "https://www.ize.co.kr/news/articleView.html?idxno=79694",
+          "press": "",
+          "date": "2026-08-09"
+        },
+        {
+          "title": "‘결혼의 완성’ 기억에 남는 명장면 공개",
+          "link": "https://www.bntnews.co.kr/article/view/bnt202608090055",
+          "press": "",
+          "date": "2026-08-09"
+        },
+        {
+          "title": "지안, 예고도 없었는데…♥엄정욱과 깜짝 결혼 발표 \"짧지만 깊은 연애...",
+          "link": "https://www.xportsnews.com/article/2181641",
+          "press": "",
+          "date": "2026-08-09"
+        },
+        {
+          "title": "‘결혼의 완성’ 남궁민, 김대명, 이설, 이상희 종영 소감",
+          "link": "https://www.bntnews.co.kr/article/view/bnt202608090053",
+          "press": "",
+          "date": "2026-08-09"
+        }
+      ],
+      "rank": 3
+    },
+    {
       "keyword": "가요대전",
       "traffic": "500+",
-      "blogTotal": 297715,
-      "newsTotal": 136819,
+      "blogTotal": 297725,
+      "newsTotal": 137248,
       "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
@@ -43,43 +262,43 @@
       ],
       "topNews": [
         {
-          "title": "스트레이키즈 '남다른 카리스마'[★포토]",
-          "link": "https://www.starnewskorea.com/photo/2026/08/09/2026080915492394454",
+          "title": "[TD포토] 에이티즈 여상 '",
+          "link": "http://www.tvdaily.co.kr/read.php3?aid=17862616861797095017",
           "press": "",
           "date": "2026-08-09"
         },
         {
-          "title": "[HD포토] 레드벨벳, '너와 함께여서 사랑으로 가득했던 그 여름날의 우...",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16159037",
+          "title": "하츠투하츠 이안 '압도적 미모'[★포토]",
+          "link": "https://www.starnewskorea.com/photo/2026/08/09/2026080916495371677",
           "press": "",
           "date": "2026-08-09"
         },
         {
-          "title": "[포토] 레드벨벳 '서핑 여신'",
-          "link": "https://mhnse.com/news/articleView.html?idxno=1484152",
+          "title": "[사진]올데이 프로젝트 영서,'백옥피부 뽐내며'",
+          "link": "http://www.osen.co.kr/article/G1112854185",
           "press": "",
           "date": "2026-08-09"
         },
         {
-          "title": "이안 ‘드레스 요정’ [MK포토]",
-          "link": "https://www.mk.co.kr/article/12122077",
+          "title": "NCT WISH 유우시 '독특한 반바지'[엑's HD포토]",
+          "link": "https://www.xportsnews.com/article/2181715",
           "press": "",
           "date": "2026-08-09"
         },
         {
-          "title": "성찬-이안-시온 ‘SBS가요대전 MC’ [MK포토]",
-          "link": "https://www.mk.co.kr/article/12122075",
+          "title": "[S포토] 키스오브라이프 벨, '여신벨'",
+          "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=545293",
           "press": "",
           "date": "2026-08-09"
         }
       ],
-      "rank": 1
+      "rank": 4
     },
     {
       "keyword": "휴대 전화",
-      "traffic": "500+",
-      "blogTotal": 14811937,
-      "newsTotal": 1506537,
+      "traffic": "1000+",
+      "blogTotal": 14812124,
+      "newsTotal": 1506547,
       "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
@@ -116,251 +335,32 @@
       ],
       "topNews": [
         {
-          "title": "中 7월 CPI 전년비 0.5%↑…예상치 0.8%↑하회",
-          "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429292",
+          "title": "가뭄에 물놀이 취소됐지만…태화강 여름축제 열기 '후끈'",
+          "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1066437",
           "press": "",
           "date": "2026-08-09"
         },
         {
-          "title": "\"더운 건 알겠는데…\" 하루 수차례 폭염 재난문자에 도민 피로감 호소",
-          "link": "http://www.domin.co.kr/news/articleView.html?idxno=1564601",
+          "title": "“숨었지만 딱 걸렸다”…류혜영 찍어주다 엘리베이터 거울에 포착된 고...",
+          "link": "https://www.sportsseoul.com/news/read/1627473?ref=naver",
           "press": "",
           "date": "2026-08-09"
         },
         {
-          "title": "[생활과 법률] 딥페이크 영상과 위자료 책임",
-          "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4080577",
+          "title": "삼프로TV 앱서 개인정보 46만여건 유출…\"진심으로 사과\"",
+          "link": "http://www.yonhapnewstv.co.kr/news/AKR20260809164117aKF",
           "press": "",
           "date": "2026-08-09"
         },
         {
-          "title": "중국 7월 생산자물가, 3.5% 상승...상승 폭 둔화",
-          "link": "https://www.etoday.co.kr/news/view/2612474",
+          "title": "통신사, '9월 개강' 앞두고 유학생 확보 총력…순증 경쟁 새 격전지",
+          "link": "https://www.etnews.com/20260807000217",
           "press": "",
           "date": "2026-08-09"
         },
         {
-          "title": "공공기관·유명인 사칭 '신종 피싱' 급증",
-          "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=662102",
-          "press": "",
-          "date": "2026-08-09"
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "keyword": "열사병",
-      "traffic": "1000+",
-      "blogTotal": 218906,
-      "newsTotal": 67526,
-      "recentToday": 100,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "온열질환 증상 열사병과 일사병 차이부터 응급처치까지 총정리",
-          "link": "https://blog.naver.com/fds6051/224361263533",
-          "blogger": "옥냥의 육아 한스푼",
-          "date": "2026-07-29"
-        },
-        {
-          "title": "부산 사하구, 20대 남성 열사병으로 사망... 온열질환 예방 방법",
-          "link": "https://blog.naver.com/mg12344/224364317328",
-          "blogger": "살랑살랑",
-          "date": "2026-07-31"
-        },
-        {
-          "title": "열사병과 다른 더위 먹은 증상, 헷갈리지 마세요.",
-          "link": "https://blog.naver.com/pulire/224362261421",
-          "blogger": "쁘리레",
-          "date": "2026-07-31"
-        },
-        {
-          "title": "덥고 습한 여름, 강아지 열사병 의심 증상과 예방법 미리 체크!",
-          "link": "https://blog.naver.com/direct_hi/224348467289",
-          "blogger": "현대해상다이렉트 공식블로그",
-          "date": "2026-07-30"
-        },
-        {
-          "title": "열사병 증상 일사병 차이, 대처 및 응급조치",
-          "link": "https://blog.naver.com/hohos87/224363516527",
-          "blogger": "건강한 육아이야기, 김주부별전",
-          "date": "2026-07-31"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "폭염에 온열질환 사망 늘고, 실내선 '냉방병'…여름철 건강 비상",
-          "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4080586",
-          "press": "",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "생명 위협하는 폭염...일본 럭비 선수 훈련하다 열사병으로 사망",
-          "link": "https://www.sportsworldi.com/newsView/20260809510638",
-          "press": "",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "'체감 38도 넘으면 옥외작업 멈춰라!' 제천역에 뜬 폭염 안전지킴이",
-          "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1092696",
-          "press": "",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "“어머니가 돌아가셔”…일 지진 ‘희생자 사칭’ SNS로 기부금 챙겨",
-          "link": "https://www.hani.co.kr/arti/international/international_general/1272046.html",
-          "press": "",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "'5일간 사상 첫 강제방학'이 남긴 숙제… KBO리그, '폭염 뉴노멀' 준비해...",
-          "link": "https://www.sportschosun.com/baseball/2026-08-09/202608090100049660003091",
-          "press": "",
-          "date": "2026-08-09"
-        }
-      ],
-      "rank": 3
-    },
-    {
-      "keyword": "교통 사고",
-      "traffic": "200+",
-      "blogTotal": 6792975,
-      "newsTotal": 1405959,
-      "recentToday": 100,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "교통사고 나이롱환자 진짜 큰일났다, 9월부터 정부가 '이것' 도입한....",
-          "link": "https://blog.naver.com/highstem/224367985655",
-          "blogger": "남들처럼 돈 모으기",
-          "date": "2026-08-04"
-        },
-        {
-          "title": "어린이 보호구역 교통사고 처벌기준과  운전자 책임 / 스클존 사고 ....",
-          "link": "https://blog.naver.com/kimkum6/224323321774",
-          "blogger": "좋은정보(8085)",
-          "date": "2026-06-30"
-        },
-        {
-          "title": "보험금 청구 필수 서류! 교통사고 사실확인원 발급 방법 : 온라인·....",
-          "link": "https://blog.naver.com/wjh20211/224333238940",
-          "blogger": "이대리경제이야기",
-          "date": "2026-07-01"
-        },
-        {
-          "title": "교통사고 나는 꿈 / 차사고 내는 꿈 / 교통사고 당하는 꿈 해몽은?",
-          "link": "https://blog.naver.com/cltube/224335414489",
-          "blogger": "교육, 어학의 모든 것",
-          "date": "2026-07-04"
-        },
-        {
-          "title": "교통사고 합의금 기준 총정리 | 2주 진단 시 위자료·통원치료비·특....",
-          "link": "https://blog.naver.com/wlstjd8559/224341512910",
-          "blogger": "유기농의 일상",
-          "date": "2026-07-09"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "최원용 평택시장 \"고덕택지상가 주차난 현장에서 해결\"...유료화·관리인...",
-          "link": "https://www.ajunews.com/view/20260809153804845",
-          "press": "",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "후진 차량 노렸다… 고의사고 내 보험금 2억 챙긴 30대",
-          "link": "https://www.dynews.co.kr/news/articleView.html?idxno=861063",
-          "press": "",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "대전소방, '최악의 현장' 재현…구급대원 307명 생명구조 대응력 강화",
-          "link": "https://www.greened.kr/news/articleView.html?idxno=347192",
-          "press": "",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "청주서 후진 차량 노려 고의 사고… 보험금 2억 챙긴 30대 송치",
-          "link": "https://www.jbnews.com/news/articleView.html?idxno=1509093",
-          "press": "",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "롯데 4월만 빼면 -1인데.. → 2017년에는 기적의 '8치올' 해냈다",
-          "link": "https://www.sportschosun.com/baseball/2026-08-09/202608090100050080003109",
-          "press": "",
-          "date": "2026-08-09"
-        }
-      ],
-      "rank": 4
-    },
-    {
-      "keyword": "상장지수 펀드",
-      "traffic": "1000+",
-      "blogTotal": 368488,
-      "newsTotal": 360287,
-      "recentToday": 100,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "상장지수펀드란, 같은 ETF인데 위험이 전혀 다른 두 종류",
-          "link": "https://blog.naver.com/csj4032/224371256289",
-          "blogger": "Le mieux est l’ennemi du bien",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "'애프터마켓' ETF 거래 미뤄지나.. 업계 \"ETF 상장지수펀드 보류?\"",
-          "link": "https://blog.naver.com/ysc0907/224362833664",
-          "blogger": "이승철플라워",
-          "date": "2026-07-30"
-        },
-        {
-          "title": "주식처럼 거래하는 펀드, \"ETF(상장지수펀드)\"",
-          "link": "https://blog.naver.com/archirap/224346156357",
-          "blogger": "땅보고 돈보는 두꺼비 \"락쿠\"",
-          "date": "2026-07-14"
-        },
-        {
-          "title": "ETF ( Exchange Traded Fund, 상장지수 ( 上場指數 )펀드 )",
-          "link": "https://blog.naver.com/stoppoint/224369548359",
-          "blogger": "stoppoint님의 블로그",
-          "date": "2026-08-06"
-        },
-        {
-          "title": "ETF 뜻 수익률 종목 ETF 상장지수펀드 투자 방법 추천 가입 방법",
-          "link": "https://blog.naver.com/ejk0258/224218777633",
-          "blogger": "아침커피",
-          "date": "2026-03-16"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "블룸버그 \"레버리지 청산에 한국 증시 변동성 일단락 가능성\"",
-          "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1533421",
-          "press": "",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "美 비트코인 ETF, 15주 만에 '주 5일' 순유입…이더리움은 5주째 '쑥'",
-          "link": "https://www.news1.kr/finance/blockchain-fintech/6253434",
-          "press": "",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "블룸버그 \"한국증시 변동성 진정 단계…한국 주식 저평가\"",
-          "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5211232",
-          "press": "",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "고강도 '레버리지 규제'…\"지수·해외 상품 '풍선효과' 지켜봐야\"",
-          "link": "https://www.newsis.com/view/NISX20260809_0003741804",
-          "press": "",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "블룸버그 \"'레버리지' 청산에 한국 증시 변동성 일단락 가능성\"",
-          "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=80409",
+          "title": "엔하이픈 팬덤, 숨진 팬 ‘2차 가해’ 논란 역풍",
+          "link": "https://sports.khan.co.kr/article/202608091627003?pt=nv",
           "press": "",
           "date": "2026-08-09"
         }
@@ -368,72 +368,72 @@
       "rank": 5
     },
     {
-      "keyword": "벼",
-      "traffic": "200+",
-      "blogTotal": 1086053,
-      "newsTotal": 439698,
+      "keyword": "경찰학교",
+      "traffic": "100+",
+      "blogTotal": 1849680,
+      "newsTotal": 1077991,
       "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "벼 이삭이 하나둘 패기 시작했다면 — 지금 이 관리, 놓치면 가을에 ....",
-          "link": "https://blog.naver.com/bioplan1/224363653876",
-          "blogger": "바이오플랜 - 성공적인 농업생활",
+          "title": "경찰중앙학교, 교육 일정과 졸업 조건 등등",
+          "link": "https://blog.naver.com/sjsmqnwk12/224359540665",
+          "blogger": "공시생X의 하루",
+          "date": "2026-07-27"
+        },
+        {
+          "title": "[입시분석]경찰대 합격을 위한 3개년 로드맵: 학생부 관리법과 1차 ....",
+          "link": "https://blog.naver.com/missionhil/224364647042",
+          "blogger": "엠큐브학원 국어명가 수학대가",
+          "date": "2026-08-01"
+        },
+        {
+          "title": "중앙경찰학교 매점 기념품샵, 경찰 기념품 굿즈 후기",
+          "link": "https://blog.naver.com/sweetvlog/224328232492",
+          "blogger": "MOONLIT BLOOM",
+          "date": "2026-06-26"
+        },
+        {
+          "title": "파주 신상 카페 스튜디오 7248 경찰서 세트장 아이와 다녀온 내돈내....",
+          "link": "https://blog.naver.com/heymooni_/224363479189",
+          "blogger": "헤이무니의 일상탐방",
           "date": "2026-07-31"
         },
         {
-          "title": "벼농사 물떼기 언제 할까? 시기·기간·효과 총정리",
-          "link": "https://blog.naver.com/hyunjumessi/224363152107",
-          "blogger": "유기농공주의 유기농라이프",
-          "date": "2026-07-30"
-        },
-        {
-          "title": "벼 이삭 비료 살포시기 적정량 중부지방 남부지방 알아보자",
-          "link": "https://blog.naver.com/kccpcs/224349551209",
-          "blogger": "미슐랭 가이둘",
-          "date": "2026-07-17"
-        },
-        {
-          "title": "[시로보는세상] 벼 이성부 시인 시감상",
-          "link": "https://blog.naver.com/ktc3373/224347072689",
-          "blogger": "삶으로 보는 세상이야기",
-          "date": "2026-07-16"
-        },
-        {
-          "title": "[농어촌 팩트노트] 벼는 익을수록 고개를 숙인다?",
-          "link": "https://blog.naver.com/krcpolicy/224367740126",
-          "blogger": "농이터",
-          "date": "2026-08-04"
+          "title": "[고3] 8월 1일 경찰대학교 1차 시험 보러 가다 - 수능 대비용 고난이도....",
+          "link": "https://blog.naver.com/coolor2/224364624865",
+          "blogger": "대치동 안부러운 고3 입시 | 4050 은퇴 준비 재테크",
+          "date": "2026-08-01"
         }
       ],
       "topNews": [
         {
-          "title": "충남도 농업기술원, '고온다습 경계'... 벼 예찰·생강 포장관리 강화",
-          "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=440329",
+          "title": "손수조 \"검수완박, 민주당 전대 김민석 당대표 '제물'...金 위해 전 국민...",
+          "link": "https://www.ikbc.co.kr/article/view/kbc202608090035",
           "press": "",
           "date": "2026-08-09"
         },
         {
-          "title": "거북등처럼 갈라진 고령 들녘…\"200m 더 파도 물 찾기 어렵다\"",
-          "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4080594",
+          "title": "\"반성은커녕 독기 품고 노려봤다\"...엄마 살해한 18세 아들의 소름돋는...",
+          "link": "https://www.insight.co.kr/news/567244",
           "press": "",
           "date": "2026-08-09"
         },
         {
-          "title": "농협, 폭염·가뭄에 3000억원 투입…강호동 회장 \"범농협 역량 총동원\"",
-          "link": "https://www.ajunews.com/view/20260809151622804",
+          "title": "[경기 교육] 교권보호전담관 면접 마무리…안민석 \"교권 보호는 교육을...",
+          "link": "https://www.kgnews.co.kr/news/article.html?no=906990",
           "press": "",
           "date": "2026-08-09"
         },
         {
-          "title": "손훈모 순천시장, 쉼터부터 논·축사까지…폭염 피해 예방 '현장 행보'",
-          "link": "https://www.kpinews.kr/newsView/1065594327246040",
+          "title": "“시청 김주무관인데요”…공무원 사칭 ‘대리구매 사기’ 기승",
+          "link": "https://www.ddaily.co.kr/page/view/2026080916045194960",
           "press": "",
           "date": "2026-08-09"
         },
         {
-          "title": "손훈모 순천시장, 폭염·가뭄 피해 예방 \"민생 현장\" 직접 살펴",
-          "link": "http://www.jeollailbo.com/news/articleView.html?idxno=807663",
+          "title": "교총, 대전 둔산여고 전 교장 징계 철회 서명 운동 돌입",
+          "link": "https://www.ggilbo.com/news/articleView.html?idxno=1174232",
           "press": "",
           "date": "2026-08-09"
         }
@@ -441,72 +441,72 @@
       "rank": 6
     },
     {
-      "keyword": "전한길",
-      "traffic": "500+",
-      "blogTotal": 49200,
-      "newsTotal": 30692,
-      "recentToday": 37,
+      "keyword": "김정렬",
+      "traffic": "100+",
+      "blogTotal": 10804,
+      "newsTotal": 24120,
+      "recentToday": 86,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "\"인주가 안 묻어 나온다?\" 전한길, '투표지 인쇄 조작' 통영선거 부정....",
-          "link": "https://blog.naver.com/wogus1514/224360056340",
-          "blogger": "27분전",
-          "date": "2026-07-28"
+          "title": "<김주하의 데이앤나잇> 황기순·김정렬, 굴곡진 인생사부터 희극인....",
+          "link": "https://blog.naver.com/withinnews/224370200947",
+          "blogger": "위드인뉴스",
+          "date": "2026-08-06"
         },
         {
-          "title": "전한길 아내 이혼 직업 아버지 전도수 사망 원인 어머니 형 전유영 ....",
-          "link": "https://blog.naver.com/3116i/224192348944",
-          "blogger": "가득나눔",
-          "date": "2026-02-23"
+          "title": "김정렬 프로필, 친형 군대서 구타 사망 자살 처리 32년 만에 밝혀진 ....",
+          "link": "https://blog.naver.com/echo90/224372440772",
+          "blogger": "동화같은 삶~!",
+          "date": "2026-08-08"
         },
         {
-          "title": "'한국사 강사에서 극우 친윤 유튜버로' 전한길 생애 및 정치 경력 정....",
-          "link": "https://blog.naver.com/pso164/224328746528",
-          "blogger": "과학커뮤니케이터 박종현",
-          "date": "2026-06-30"
+          "title": "김정렬 결국 이혼 고백, 13년 별거까지 간 진짜 이유",
+          "link": "https://blog.naver.com/j55n030/224370178844",
+          "blogger": "준님 옷장",
+          "date": "2026-08-06"
         },
         {
-          "title": "\"전한길 등장에 재검표장 술렁! 통영시장 44표 승부, 무슨 일이 있었....",
-          "link": "https://blog.naver.com/yhmlkh/224360605296",
-          "blogger": "골프마녀의 취미생활",
-          "date": "2026-07-28"
+          "title": "'숭구리당당' 개그맨 김정렬 형 군대 구타 사망 사건 \"30년 만에 밝혀....",
+          "link": "https://blog.naver.com/chbnwj/224372474154",
+          "blogger": "딸기라떼",
+          "date": "2026-08-08"
         },
         {
-          "title": "'극우 유튜버' 전한길 학력은? 학사 석사로 경북대학교 졸업",
-          "link": "https://blog.naver.com/pso164/224311516414",
-          "blogger": "과학커뮤니케이터 박종현",
-          "date": "2026-06-12"
+          "title": "\"강남 건물 2채, 술버릇에 13년 별거\"…원조 유행어 부자 김정렬의 진....",
+          "link": "https://blog.naver.com/allday_everyday/224372453098",
+          "blogger": "올데이톡톡 | 매일 보는 트렌드",
+          "date": "2026-08-08"
         }
       ],
       "topNews": [
         {
-          "title": "전한길 \"국민주권과 참정권 보장하라\"",
-          "link": "https://www.dynews.co.kr/news/articleView.html?idxno=861062",
+          "title": "30년만에 진실 찾았는데 ‘구타로 숨진 형은 못 찾아’…김정렬 ‘국립...",
+          "link": "https://www.sportsseoul.com/news/read/1627453?ref=naver",
           "press": "",
           "date": "2026-08-09"
         },
         {
-          "title": "전한길, 출국금지 연장 취소소송 패소…법원 “수사 차질 우려”",
-          "link": "https://www.joongang.co.kr/article/25451905",
+          "title": "'데이앤나잇' 김정렬 \"친형, 군복무 중 구타로 사망\"",
+          "link": "http://enews.imbc.com/News/RetrieveNewsInfo/514159",
           "press": "",
           "date": "2026-08-09"
         },
         {
-          "title": "法, '출국금지 연장 취소 소송' 전한길 패소 판결…\"수사 상당한 차질\"",
-          "link": "https://www.ajunews.com/view/20260809133759628",
+          "title": "[TVis] 김정렬 “軍서 구타 사망한 친형…사인 은폐 당했다” (‘데이앤...",
+          "link": "https://isplus.com/article/view/isp202608090045",
           "press": "",
           "date": "2026-08-09"
         },
         {
-          "title": "전한길 출국금지 연장 취소소송 패소...법원 \"수사 차질 우려\"",
-          "link": "https://www.ytn.co.kr/_ln/0103_202608091324207837",
+          "title": "코미디언 김정렬, 뒤늦은 이혼 고백… 13년 별거 끝 각자의 길로",
+          "link": "https://www.hankookilbo.com/news/article/A2026080911070002557?did=NA",
           "press": "",
           "date": "2026-08-09"
         },
         {
-          "title": "전한길, 출금 연장 취소소송 패소…\"수사 차질 우려\"",
-          "link": "https://www.dailian.co.kr/news/view/1676238/?sc=Naver",
+          "title": "김정렬 “친형 군복무 중 구타 사망, 유골 못찾아” 30년만 밝힌 진실(데...",
+          "link": "https://www.newsen.com/news_view.php?uid=202608091057040410",
           "press": "",
           "date": "2026-08-09"
         }
@@ -514,11 +514,11 @@
       "rank": 7
     },
     {
-      "keyword": "데미스 허사비스",
-      "traffic": "100+",
-      "blogTotal": 4960,
+      "keyword": "데미스 허사 비스",
+      "traffic": "500+",
+      "blogTotal": 4964,
       "newsTotal": 5110,
-      "recentToday": 13,
+      "recentToday": 16,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -587,147 +587,147 @@
       "rank": 8
     },
     {
-      "keyword": "오정연",
-      "traffic": "200+",
-      "blogTotal": 16687,
-      "newsTotal": 40145,
-      "recentToday": 3,
-      "recentWeek": 23,
+      "keyword": "볼로디미르 젤렌스키",
+      "traffic": "2000+",
+      "blogTotal": 31423,
+      "newsTotal": 110053,
+      "recentToday": 15,
+      "recentWeek": 91,
       "topBlogs": [
         {
-          "title": "\"어린이날마다 질렀어요\" 아나운서 오정연이 바이크 4대나 모으게 ....",
-          "link": "https://blog.naver.com/avecjtm/224305932322",
-          "blogger": "CIEL 라이프 연구소",
-          "date": "2026-06-04"
+          "title": "'우크라이나 배우에서 대통령으로' 젤렌스키 학력 및 정치 경력과 ....",
+          "link": "https://blog.naver.com/pso164/224351820590",
+          "blogger": "과학커뮤니케이터 박종현",
+          "date": "2026-07-23"
         },
         {
-          "title": "수능 상위 1%에 지상파 3사 최종면접 전멸 패스? 방송인 오정연의 역....",
-          "link": "https://blog.naver.com/union219/224359149931",
-          "blogger": "유나의 보물섬",
-          "date": "2026-07-27"
+          "title": "북한군 3만 명 추가 파병? 러시아·우크라이나 전쟁 최신 상황 총정....",
+          "link": "https://blog.naver.com/wavestar2013/224358472011",
+          "blogger": "정보BOX",
+          "date": "2026-07-26"
         },
         {
-          "title": "서울대 학사에 최고위 과정까지.. 알고 보면 연예계 대표 공부벌레 ....",
-          "link": "https://blog.naver.com/kissme5710/224333870729",
-          "blogger": "건강언니",
-          "date": "2026-07-02"
+          "title": "젤렌스키, 트럼프에 스타링크 사용 요청!",
+          "link": "https://blog.naver.com/chkkim22/224364992165",
+          "blogger": "IT와 경제 이야기",
+          "date": "2026-08-01"
         },
         {
-          "title": "\"2개월 만에 11kg 감량\" 오정연 다이어트 식단 공개! 바나나·고구마·....",
-          "link": "https://blog.naver.com/digimon520/224341431659",
-          "blogger": "오늘의 시장 한눈에",
-          "date": "2026-07-11"
+          "title": "[세계 정세] 트럼프의 생일날 걸려 온 전화, 우크라이나 전쟁 종식의....",
+          "link": "https://blog.naver.com/moon519629/224316387181",
+          "blogger": "달강 moonriver",
+          "date": "2026-06-15"
         },
         {
-          "title": "냉장고까지 줄 맞추는 남편 vs 오정연, 지금 더 빛나는 이유 1가지",
-          "link": "https://blog.naver.com/helloeunsong/224312232755",
-          "blogger": "트렌드를 읽는여자",
-          "date": "2026-06-10"
+          "title": "트럼프 왜 이러나…",
+          "link": "https://sjgold.tistory.com/17118595",
+          "blogger": "banyane",
+          "date": "2026-07-09"
         }
       ],
       "topNews": [
         {
-          "title": "오정연, 여전한 아나운서 포스",
-          "link": "https://www.newsen.com/news_view.php?uid=202608091438080410",
+          "title": "젤렌스키 \"北, 러시아에 5만명 파병…韓, 방공 지원해달라\"",
+          "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=02460006645545680",
           "press": "",
           "date": "2026-08-09"
         },
         {
-          "title": "오정연, 본업 '아나운서'로 활약 중···편안해 보이는 모습",
-          "link": "http://www.osen.co.kr/article/G1112853926",
+          "title": "패트리엇 1500발 쏟아부은 이란전…美 안보 공백에 우크라·아시아 ‘전...",
+          "link": "https://www.munhwa.com/article/11608232?ref=naver",
           "press": "",
-          "date": "2026-08-08"
+          "date": "2026-08-09"
         },
         {
-          "title": "우송대·충청대 간호학과 학생, 용돈 모아 장애인복지시설에 TV 기증",
-          "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=901854",
+          "title": "우크라 공습에 ‘러시아판 아마존’ 8조 피해…고려인 여성 CEO 위기",
+          "link": "https://www.joongang.co.kr/article/25451922",
           "press": "",
-          "date": "2026-08-03"
+          "date": "2026-08-09"
         },
         {
-          "title": "히가시노 게이고 별세에 서점가도 추모 열기 뜨겁다",
-          "link": "https://www.sedaily.com/article/20072910?ref=naver",
+          "title": "김정은, 푸틴에 최대 5만명?…젤렌스키가 더 걱정한 건 따로 있다 [밀리...",
+          "link": "https://nownews.seoul.co.kr/news/newsView.php?id=20260809601009&wlog_tag3=naver",
           "press": "",
-          "date": "2026-07-28"
+          "date": "2026-08-09"
         },
         {
-          "title": "[잇슈 컬처] 일본 추리 소설 거장 별세…서점가·연예계 추모 물결",
-          "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8622753&ref=A",
+          "title": "\"패트리엇 바닥났다\"…美 재고 소진에 한반도 방어태세 흔들리나",
+          "link": "https://www.news2day.co.kr/article/20260809500021",
           "press": "",
-          "date": "2026-07-28"
+          "date": "2026-08-09"
         }
       ],
       "rank": 9
     },
     {
-      "keyword": "장쯔위",
-      "traffic": "100+",
-      "blogTotal": 161,
-      "newsTotal": 255,
-      "recentToday": 2,
-      "recentWeek": 3,
+      "keyword": "엘에이 fc",
+      "traffic": "200+",
+      "blogTotal": 508,
+      "newsTotal": 115,
+      "recentToday": 0,
+      "recentWeek": 0,
       "topBlogs": [
         {
-          "title": "여자농구 226cm 장쯔위, 나이지리아 골밑 초토화…19분 만에 24점 11리....",
-          "link": "https://blog.naver.com/winephk/224372396945",
-          "blogger": "박쿤의 스포츠로그",
-          "date": "2026-08-08"
+          "title": "손흥민 LAFC 경기 일정 한국시간으로 확인하세요",
+          "link": "https://blog.naver.com/echo90/224361210190",
+          "blogger": "동화같은 삶~!",
+          "date": "2026-07-29"
         },
         {
-          "title": "여자 정대만 등장, 일본 농구 천재 다나카 코코로 220cm 중국 격파",
-          "link": "https://blog.naver.com/allaboutball/223944728175",
-          "blogger": "올어바웃볼",
-          "date": "2025-07-23"
+          "title": "엘에이 fc 대 캔자스시티 승패 가를 3가지 변수 (★)",
+          "link": "https://blog.naver.com/bingo925/224358279957",
+          "blogger": "돈이 도는 길목",
+          "date": "2026-07-26"
         },
         {
-          "title": "226cm의 괴물 등장, '여자 야오밍' 장쯔위, 2027 WNBA 드래프트 2순위 유....",
-          "link": "https://blog.naver.com/all_d2020/224040963438",
-          "blogger": "올디의 모든 것~",
-          "date": "2025-10-14"
+          "title": "Three.js 개념부터 활용법, 실전 꿀팁까지 정리",
+          "link": "https://tikongs.tistory.com/1756",
+          "blogger": "콩쓰의 화끈한 생각",
+          "date": "2026-07-27"
         },
         {
-          "title": "중국 여자 농구 대표 선수 최장신 장쯔위, 여자 야오밍",
-          "link": "https://blog.naver.com/kim21818/223910304497",
-          "blogger": "농구하는아재 상코비 하우스",
-          "date": "2025-06-24"
+          "title": "토트넘 이적시장 총정리 | 영입과 방출 소식 이모저모 (26.07.28)",
+          "link": "https://tikongs.tistory.com/1761",
+          "blogger": "콩쓰의 화끈한 생각",
+          "date": "2026-07-28"
         },
         {
-          "title": "인기있는 중국 여배우 및 여자모델 순위 top 10",
-          "link": "https://zranking.tistory.com/61",
-          "blogger": "세상의 궁금함 Top List",
-          "date": "2018-01-25"
+          "title": "8월 4일(화) IT 정보보안 뉴스클리핑",
+          "link": "https://tikongs.tistory.com/1787",
+          "blogger": "콩쓰의 화끈한 생각",
+          "date": "2026-08-04"
         }
       ],
       "topNews": [
         {
-          "title": "中 여자농구, 226cm 초대형 센터 떴다!…19세 장쯔위, 19분 뛰고 24점+11리...",
-          "link": "https://www.xportsnews.com/article/2181455",
+          "title": "홍명보호 긴장해야…‘월드컵 상대’ 체코·멕시코, 평가전 나란히 승리",
+          "link": "https://www.hani.co.kr/arti/sports/soccer/1262128.html",
           "press": "",
-          "date": "2026-08-08"
+          "date": "2026-06-05"
         },
         {
-          "title": "[스포츠人사이드] 코트 복귀 간절한 박지수",
-          "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=848316",
+          "title": "유니폼에 태극마크 손흥민, 득점 못 했지만 공격력 살아났다",
+          "link": "https://www.hani.co.kr/arti/sports/soccer/1260253.html",
           "press": "",
-          "date": "2026-07-05"
+          "date": "2026-05-25"
         },
         {
-          "title": "\"어디서든 잘 적응하는 부분이 제 장점...작년보다는 뭐든 무조건 더 잘...",
-          "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553323127",
+          "title": "LAFC 손흥민, 리그 9호 도움…팀은 내슈빌에 2-3 패",
+          "link": "https://www.hani.co.kr/arti/sports/soccer/1259145.html",
           "press": "",
-          "date": "2026-06-24"
+          "date": "2026-05-18"
         },
         {
-          "title": "한국 여자농구 웃을때 중국은 울었다···벨기에에 65-80 완패 ‘여자 ...",
-          "link": "https://sports.khan.co.kr/article/202603131039003?pt=nv",
+          "title": "손흥민-정상빈, MLS ‘코리안더비’ 성사…LAFC의 1-2 패",
+          "link": "https://www.hani.co.kr/arti/sports/soccer/1258635.html",
           "press": "",
-          "date": "2026-03-13"
+          "date": "2026-05-14"
         },
         {
-          "title": "[FIBA WC QT] 17회 연속 WC 노리는 한국, FIBA의 전제조건 “박지수 기량...",
-          "link": "https://m.sports.naver.com/basketball/article/065/0000293854",
+          "title": "‘골가뭄’ 손흥민, 월드컵 전까지 득점 감각 회복할까",
+          "link": "https://www.hani.co.kr/arti/sports/soccer/1258101.html",
           "press": "",
-          "date": "2026-03-05"
+          "date": "2026-05-11"
         }
       ],
       "rank": 10
