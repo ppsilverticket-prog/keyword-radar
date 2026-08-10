@@ -1,74 +1,74 @@
 {
-  "updatedAt": "2026-08-10T04:13:00.244Z",
+  "updatedAt": "2026-08-10T05:54:27.279Z",
   "source": "live",
   "keywords": [
     {
-      "keyword": "발전소",
-      "traffic": "200+",
-      "blogTotal": 6563149,
-      "newsTotal": 1243099,
+      "keyword": "구속",
+      "traffic": "500+",
+      "blogTotal": 3819977,
+      "newsTotal": 4116302,
       "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "노는 지붕을 수익으로, 400kW급 안성 건물 지붕형 태양광발전소 시공....",
-          "link": "https://blog.naver.com/energyzone11/224362882990",
-          "blogger": "한국에너지서비스",
+          "title": "차가원 대표 구속영장 발부 증거인멸 우려",
+          "link": "https://blog.naver.com/eueuy/224367184244",
+          "blogger": "이랑이랑 맛집찾기",
+          "date": "2026-08-03"
+        },
+        {
+          "title": "양정원 사건 무마 의혹 전말: 전 강남서 수사팀장 구속 및 사건 핵심....",
+          "link": "https://blog.naver.com/rlatkghd34/224369547101",
+          "blogger": "현장형 생존노트",
+          "date": "2026-08-06"
+        },
+        {
+          "title": "청주시 최영중 시의원 구속 여중생 성매매 혐의 증거인멸 우려",
+          "link": "https://blog.naver.com/bugnam3/224363669752",
+          "blogger": "✔세상다양한 일들",
           "date": "2026-07-31"
         },
         {
-          "title": "영덕가볼만한곳 영덕풍력발전소 - 스위스느낌 나는 국내여행지",
-          "link": "https://blog.naver.com/winterade/224340045470",
-          "blogger": "반짝반짝 빛나는",
-          "date": "2026-07-08"
+          "title": "최영중 전 청주시의원 구속 기로…경찰 \"증거인멸 우려\" 제시",
+          "link": "https://blog.naver.com/ysh836/224362108381",
+          "blogger": "오늘의 시선",
+          "date": "2026-07-29"
         },
         {
-          "title": "반도체 산업의 숨은 핵심, 양수발전소가 주목받는 이유",
-          "link": "https://blog.naver.com/pg005/224364925675",
-          "blogger": "세종한국공인중개사",
-          "date": "2026-08-02"
-        },
-        {
-          "title": "한수원, 포천양수발전소 본공사 착공 : 재생에너지 시대 전력 안정....",
-          "link": "https://blog.naver.com/pkhbd/224368282740",
-          "blogger": "세종한국부동산",
-          "date": "2026-08-05"
-        },
-        {
-          "title": "태양광 발전소 완공했는데 연결 불가?수천만원 받은 한전의 뒤늦은 ....",
-          "link": "https://blog.naver.com/a4300317/224286018069",
-          "blogger": "가장 나다운 법(法)",
-          "date": "2026-05-15"
+          "title": "최영중 전 청주시의원, 미성년자 성매매 혐의 구속,추가 범행 증거....",
+          "link": "https://blog.naver.com/ps90002/224367822487",
+          "blogger": "아비부의 JOB블로그",
+          "date": "2026-08-04"
         }
       ],
       "topNews": [
         {
-          "title": "월드비전 경기북부사업본부, '히어로마인드 여름캠프' 성료...한국동서...",
-          "link": "https://www.gokorea.kr/news/articleView.html?idxno=874562",
+          "title": "'호카' 총판 조성환 전 대표, \"폭행 사건은 판권 탈취 노린 언론 플레이...",
+          "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=761131",
           "press": "",
           "date": "2026-08-10"
         },
         {
-          "title": "“중부발전, 신서천화력 인명사고 책임없어”",
-          "link": "https://www.naeil.com/news/read/598325?ref=naver",
+          "title": "해경, 8만㎘ 석유 훔쳐 판 67명 적발",
+          "link": "https://theopiniontimes.news/%ed%95%b4%ea%b2%bd-8%eb%a7%8c%e3%8e%98-%ec%84%9d%ec%9c%a0-%ed%9b%94%ec%b3%90-%ed%8c%90-67%eb%aa%85-%ec%a0%81%eb%b0%9c/",
           "press": "",
           "date": "2026-08-10"
         },
         {
-          "title": "아마존 AI 데이터센터용 발전소, 美 최대 탄소배출원 되나",
-          "link": "https://www.hellot.net/news/article.html?no=114247",
+          "title": "'호카 갑질 폭행' 조성환 전 대표 \"사과할 건 사과, 사실 아닌 건 바로잡...",
+          "link": "https://daily.hankooki.com/news/articleView.html?idxno=1394241",
           "press": "",
           "date": "2026-08-10"
         },
         {
-          "title": "폭염이 드러낸 가스발전의 가치…태양광없는 저녁 수급 떠받쳐",
-          "link": "https://www.naeil.com/news/read/598257?ref=naver",
+          "title": "텔레그램 이용해 마약 거래한 일당 검거",
+          "link": "https://www.tbc.co.kr/news/view?pno=20260810123338AE03679&id=209544",
           "press": "",
           "date": "2026-08-10"
         },
         {
-          "title": "영암군, 군민발전소·송전선로 등 현안 7건 정부에 건의",
-          "link": "https://www.thereport.co.kr/news/articleView.html?idxno=90310",
+          "title": "민주당, 국민의힘 청주시의원 잇단 비위 질타",
+          "link": "http://www.inews24.com/view/1993462",
           "press": "",
           "date": "2026-08-10"
         }
@@ -76,72 +76,72 @@
       "rank": 1
     },
     {
-      "keyword": "집행유예",
+      "keyword": "통장",
       "traffic": "100+",
-      "blogTotal": 1085420,
-      "newsTotal": 756494,
+      "blogTotal": 5250237,
+      "newsTotal": 1175777,
       "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "선고유예 집행유예 기소유예 차이, 전과 기록은 어떻게 남을까?",
-          "link": "https://blog.naver.com/snukmj0404/224360906977",
-          "blogger": "누구에게나 벌어질 수 있는 사건의 흐름",
-          "date": "2026-07-29"
+          "title": "아기 통장 만들기(신한은행 미성년자 계좌 개설 준비물, 한도, 청약....",
+          "link": "https://blog.naver.com/eunji2513/224369376401",
+          "blogger": "팽이네",
+          "date": "2026-08-05"
         },
         {
-          "title": "윤석열 집행유예 3년 의미, 항소하면 형 확정과 구속 여부는 어떻게 ....",
-          "link": "https://blog.naver.com/solee1440/224359832908",
-          "blogger": "까다로운 S",
-          "date": "2026-07-27"
+          "title": "네이버페이 머니 우리통장 추천, 연 4% 이자·스타벅스 7잔 받기",
+          "link": "https://blog.naver.com/vitamin2230/224364834880",
+          "blogger": "REONE P&I",
+          "date": "2026-08-02"
         },
         {
-          "title": "집행유예 기간 중에 또 범죄를 저질렀다면 어떻게 될까요? — 집행....",
-          "link": "https://blog.naver.com/prkjongho1/224361710906",
-          "blogger": "형사전문 박종호 변호사",
-          "date": "2026-07-31"
+          "title": "통장사본 핸드폰 어플로1분 만에 발급받기",
+          "link": "https://blog.naver.com/jallive0/224355734521",
+          "blogger": "기특이네의 평범한 생활",
+          "date": "2026-07-23"
         },
         {
-          "title": "윤석열 전 대통령 1심 징역 1년 6개월 집행유예 3년",
-          "link": "https://blog.naver.com/thezoat/224359406631",
-          "blogger": "방구석청와대",
-          "date": "2026-07-27"
+          "title": "부산청년 기쁨두배통장 720만원 혜택 모집기간 안내",
+          "link": "https://blog.naver.com/vitamin2230/224366821999",
+          "blogger": "REONE P&I",
+          "date": "2026-08-03"
         },
         {
-          "title": "윤석열 피선거권 제한 10년 가능성, 집행유예 확정되면 투표도 못 하....",
-          "link": "https://blog.naver.com/solee1440/224359830114",
-          "blogger": "까다로운 S",
-          "date": "2026-07-27"
+          "title": "통장 쪼개기  번거롭죠? 이 앱 하나면 OK",
+          "link": "https://blog.naver.com/sungjumm/224317669931",
+          "blogger": "1분 경제 마스터",
+          "date": "2026-06-16"
         }
       ],
       "topNews": [
         {
-          "title": "\"보톡스 시술 후 눈꺼풀 처져\", 브리트니 스피어스 끔찍 고백[해외이슈...",
-          "link": "https://www.mydaily.co.kr/page/view/2026080920541615615",
+          "title": "“이상한 고집”…서장훈, 무명배우 남친에 분노(‘연애전쟁’)",
+          "link": "https://www.mk.co.kr/article/12122831",
           "press": "",
           "date": "2026-08-10"
         },
         {
-          "title": "“중부발전, 신서천화력 인명사고 책임없어”",
-          "link": "https://www.naeil.com/news/read/598325?ref=naver",
+          "title": "우정사업본부, 최고 연 2.0% 이자 '파킹통장' 특판 실시",
+          "link": "http://www.tjb.co.kr/sub0301/bodo/view/id/102201",
           "press": "",
           "date": "2026-08-10"
         },
         {
-          "title": "텔레그램으로 마약 매수한 30대...징역형 집행유예",
-          "link": "https://www.ytn.co.kr/_ln/0115_202608101306082414",
+          "title": "대포통장 107개로 5062억 세탁… 179명 검거",
+          "link": "https://www.newscj.com/news/articleView.html?idxno=3423856",
           "press": "",
           "date": "2026-08-10"
         },
         {
-          "title": "고 최숙현 선수 배상금 지급 못해 계좌 압류당한 경주시체육회",
-          "link": "https://www.munhwa.com/article/11608469?ref=naver",
+          "title": "문경시, 주거 취약계층 주택 중개보수 최대 30만원 지원",
+          "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5049834",
           "press": "",
           "date": "2026-08-10"
         },
         {
-          "title": "불륜 관계 시들해지자 \"가족에게 다 알리겠다\" 내연남 협박하고 돌 던지...",
-          "link": "https://lawtalknews.co.kr/article/3XTTVZ4II1P0",
+          "title": "이기형 김포시장 \"5호선 연장 등 교통확충 중점 추진\"",
+          "link": "https://www.sidae.com/article/2026081014293940853",
           "press": "",
           "date": "2026-08-10"
         }
@@ -149,72 +149,72 @@
       "rank": 2
     },
     {
-      "keyword": "보트",
-      "traffic": "500+",
-      "blogTotal": 2272905,
-      "newsTotal": 363218,
+      "keyword": "대통령",
+      "traffic": "10000+",
+      "blogTotal": 9453363,
+      "newsTotal": 16823134,
       "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "제주 안덕 아이와 가볼만한곳! SNS 핫한 유리바닥보트 체험 후기",
-          "link": "https://blog.naver.com/wepofk781/224362272013",
-          "blogger": "윤윤이들의 일상생활",
+          "title": "[스페인 EFE] 이재명 대통령 칠레 방문, \"자유무역협정(FTA)은 진화해....",
+          "link": "https://blog.naver.com/jaemyunglee/224362344594",
+          "blogger": "대한민국 제21대 대통령 이재명",
           "date": "2026-07-30"
         },
         {
-          "title": "스윔어바웃 투명 유리보트ㅣ내돈내산ㅣ바다에서 아이 둘 태워본 대....",
-          "link": "https://blog.naver.com/sisibrolog/224362302370",
-          "blogger": "삼남매로그",
+          "title": "'변호사 자격 박탈' 윤석열 전 대통령 체포방해 혐의로 징역 7년 확....",
+          "link": "https://blog.naver.com/pso164/224362574987",
+          "blogger": "과학커뮤니케이터 박종현",
           "date": "2026-07-30"
         },
         {
-          "title": "팀버랜드 보트슈즈 3아이 버건디 색상 리뷰",
-          "link": "https://blog.naver.com/gusqls4108/224335378107",
-          "blogger": "리뷰맛집 포뇨야",
-          "date": "2026-07-03"
+          "title": "대통령 거부권과 재의요구권, 무슨 뜻일까? 쉽게 정리",
+          "link": "https://blog.naver.com/leegoon3000/224367511511",
+          "blogger": "수학에게 질수는없다.",
+          "date": "2026-08-04"
         },
         {
-          "title": "송도 센트럴파크 보트 타는 곳/보트 할인 및 추천 정보",
-          "link": "https://blog.naver.com/wop1101/224329054764",
-          "blogger": "쁨's travel record",
-          "date": "2026-06-27"
+          "title": "요즘 도는 매도인 근저당 (이재명 대통령 Case) 팩트체크",
+          "link": "https://blog.naver.com/meaning87/224354499196",
+          "blogger": "은퇴연구소",
+          "date": "2026-07-22"
         },
         {
-          "title": "우도 보트 투어 추천 '우도올레보트' 보트 타는 곳 할인 우도 8경 동....",
-          "link": "https://blog.naver.com/kuhlemadchen/224357650975",
-          "blogger": "내가 좋아하는 곳들 - 수수의 여행 아카이브",
-          "date": "2026-07-25"
+          "title": "[아산] 아산 아구찜 맛집 아구대통령, 숯불향 가득한 아구불고기까....",
+          "link": "https://blog.naver.com/ready_to_go__/224351208601",
+          "blogger": "강철 같은 인생 생존기",
+          "date": "2026-07-19"
         }
       ],
       "topNews": [
         {
-          "title": "인천 앞바다서 실종된 낚시객들...11시간 보트 매달려 극적 구조",
-          "link": "https://www.ytn.co.kr/_ln/0103_202608101301199790",
+          "title": "李대통령 \"광주 반도체 전격전…군공항 기능 2028년까지 임시 이전\"",
+          "link": "https://www.dailian.co.kr/news/view/1676737/?sc=Naver",
           "press": "",
           "date": "2026-08-10"
         },
         {
-          "title": "여름날의 싱그러움, 장성의 자연 속에서 찾아보는 가볼 만한 곳",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16155379",
+          "title": "李대통령 \"2028년 중순까지 광주군공항 기능 他기지로 임시배치\"",
+          "link": "https://www.yna.co.kr/view/AKR20260810093300001?input=1195m",
           "press": "",
           "date": "2026-08-10"
         },
         {
-          "title": "밤바다 한가운데서 11시간 버틴 낚시꾼들…생환 비결은 '구명조끼'",
-          "link": "https://www.sisajournal.com/news/articleView.html?idxno=382954",
+          "title": "[속보] 李대통령 \"메가프로젝트 속도전 넘어 전격전… 호남 반도체 조기...",
+          "link": "https://economist.co.kr/article/view/ecn202608100025",
           "press": "",
           "date": "2026-08-10"
         },
         {
-          "title": "29세 이하 고용보험 47개월째 감소… AI·경력직 선호에 막힌 청년 문턱",
-          "link": "https://biz.heraldcorp.com/article/10836001?ref=naver",
+          "title": "李 \"광주 군공항 기능, 2028년 중순까지 임시 배치…속도전 넘어 전격전...",
+          "link": "https://www.ajunews.com/view/20260810144844331",
           "press": "",
           "date": "2026-08-10"
         },
         {
-          "title": "“구명조끼가 살렸다”…인천 앞바다 전복 보트 3명 11시간 만에 구조",
-          "link": "https://www.kbmaeil.com/article/20260810500274",
+          "title": "비트코인, 이번 주 CPI가 분기점 될까…고용 둔화에도 물가 변수",
+          "link": "https://www.tokenpost.kr/news/cryptocurrency/387411",
           "press": "",
           "date": "2026-08-10"
         }
@@ -222,133 +222,145 @@
       "rank": 3
     },
     {
-      "keyword": "이다 영",
-      "traffic": "1000+",
-      "blogTotal": 1467007,
-      "newsTotal": 1282,
+      "keyword": "버크셔 해서웨이",
+      "traffic": "200+",
+      "blogTotal": 84520,
+      "newsTotal": 41893,
       "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "올리브영 다이어트 여행가기 전 메타그린 슬림업으로 해본 후기",
-          "link": "https://blog.naver.com/qmfosej/224331044110",
-          "blogger": "뷰티 데일리 @이람님",
-          "date": "2026-06-29"
+          "title": "그렉아벨이 싹 다 갈아엎은 \"버크셔 해서웨이 포트폴리오\"",
+          "link": "https://blog.naver.com/meaning87/224365400538",
+          "blogger": "은퇴연구소",
+          "date": "2026-08-02"
         },
         {
-          "title": "샤워볼 이젠 안사요... 올리브영 바디스크럽 샤워글로브로 갈아탄 ....",
-          "link": "https://blog.naver.com/qmfosej/224366839476",
-          "blogger": "뷰티 데일리 @이람님",
-          "date": "2026-08-03"
+          "title": "워렌 버핏의 마지막 주주총회 여행 오마하 버크셔 해서웨이 본사 가....",
+          "link": "https://blog.naver.com/graceyang/224363376448",
+          "blogger": "여행에 진심인 블로그",
+          "date": "2026-08-05"
         },
         {
-          "title": "일주일만에 하얘진다고..? 화제의 올리브영 치아미백제 써봄",
-          "link": "https://blog.naver.com/qmfosej/224347851677",
-          "blogger": "뷰티 데일리 @이람님",
-          "date": "2026-07-15"
+          "title": "버크셔 해서웨이 회사 분석-4. 숫자로 보는 버크셔 해서웨이",
+          "link": "https://blog.naver.com/hb240331/224350007935",
+          "blogger": "곰남부부의 기록집",
+          "date": "2026-07-18"
         },
         {
-          "title": "선크림이 바르기 싫다면? 올리브영 선스프레이 비오레 찐후기...(얼....",
-          "link": "https://blog.naver.com/qmfosej/224362041573",
-          "blogger": "뷰티 데일리 @이람님",
-          "date": "2026-07-29"
+          "title": "버크셔 해서웨이 회사 분석-1. 뭐하는 회사일까?",
+          "link": "https://blog.naver.com/hb240331/224345814801",
+          "blogger": "곰남부부의 기록집",
+          "date": "2026-07-14"
         },
         {
-          "title": "백화점 파운데이션을 올리브영에서? 비디비치 NEW 커버 핏 실크 스킨....",
-          "link": "https://blog.naver.com/qmfosej/224366851101",
-          "blogger": "뷰티 데일리 @이람님",
-          "date": "2026-08-03"
+          "title": "버크셔해서웨이 A B 뭘 사는게 돈을 더 벌까",
+          "link": "https://blog.naver.com/humanresource/224337014651",
+          "blogger": "열달애비",
+          "date": "2026-07-05"
         }
       ],
       "topNews": [
         {
-          "title": "브리트니 스피어스, 두 아들 떼어놓은 부모 폭로 “2달간 무릎 꿇고 울...",
-          "link": "http://www.osen.co.kr/article/G1112853823",
+          "title": "삼성생명, 亞太 20대 보험사 중 주가 상승률 최고…'삼전 효과'",
+          "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429401",
           "press": "",
-          "date": "2026-08-08"
+          "date": "2026-08-10"
         },
         {
-          "title": "\"정후, 잘 있어\" 팀내 타율 1위도 내보냈다...SF, 트레이드 마감일 '광폭...",
-          "link": "https://www.sportschosun.com/baseball/2026-08-04/202608040100018360001093",
+          "title": "美 국채금리 정점 찍었나...버크셔, 3년만에 주식 매수 [월가딥다이브]",
+          "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608100183&t=NN",
           "press": "",
-          "date": "2026-08-03"
+          "date": "2026-08-10"
         },
         {
-          "title": "[데스크 칼럼] 월드컵서 엿본 K클래식의 기회",
-          "link": "https://www.hankyung.com/article/2026072813511",
+          "title": "73만5000달러로 버크셔해서웨이 A주 목표가 올린 KBW",
+          "link": "https://www.tokenpost.kr/news/market/387401",
           "press": "",
-          "date": "2026-07-28"
+          "date": "2026-08-10"
         },
         {
-          "title": "[문화 이슈] 코르티스 미니 2집, 스포티파이 누적 스트리밍 3억 회 돌파",
-          "link": "http://www.beyondpost.co.kr/view.php?ud=202607220938345216d3244b4fed_30",
+          "title": "[더벨][서진시스템 회장 체제 전환] 전동규 회장, 컨트롤 타워 재편…내...",
+          "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608091552077360109095",
           "press": "",
-          "date": "2026-07-22"
+          "date": "2026-08-10"
         },
         {
-          "title": "울면서 떠난 '메날두'…새롭게 떠오른 야말·홀란·보지냐",
-          "link": "https://www.news1.kr/sports/overseas-soccer/6233405",
+          "title": "\"알파벳·주택회사 담았다\"...버크셔, 14분기 만에 사자 전환",
+          "link": "https://www.ytn.co.kr/_ln/0104_202608101116166227",
           "press": "",
-          "date": "2026-07-20"
+          "date": "2026-08-10"
         }
       ],
       "rank": 4
     },
     {
-      "keyword": "미국",
-      "traffic": "200+",
-      "blogTotal": 37137296,
-      "newsTotal": 26598188,
+      "keyword": "상장폐지",
+      "traffic": "2000+",
+      "blogTotal": 331228,
+      "newsTotal": 219557,
       "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "이제 여름인데.. 미국 주식 개장시간 서머타임 한국기준으로 언제? ....",
-          "link": "https://blog.naver.com/dq_no1/224309803459",
-          "blogger": "보험설계사 DQ맘",
-          "date": "2026-06-08"
-        },
-        {
-          "title": "야구여왕 박민서가 ‘72년 만에 부활한’ 미국 여자프로야구(WPBL)에 ....",
-          "link": "https://blog.naver.com/heaseong/224363358455",
-          "blogger": "만만돌이의 스포츠 분석",
-          "date": "2026-07-31"
-        },
-        {
-          "title": "미국 이심 추천 무제한 esim 로밍도깨비, 구매 후 등록방법 현지 사용....",
-          "link": "https://blog.naver.com/miniyoung8/224365965171",
-          "blogger": "아이 둘과 떠나는 가족여행",
+          "title": "상장폐지되면 내 주식은 어떻게 될까? 상폐 요건과 정리매매 절차",
+          "link": "https://blog.naver.com/ivvlove/224365762450",
+          "blogger": "나엠제이의 투자맥잡기",
           "date": "2026-08-02"
         },
         {
-          "title": "미국 입국 MPC 사용 방법 ESTA 비자 있어도 꼭 해야하는 이유",
-          "link": "https://blog.naver.com/soohy0630/224286816166",
-          "blogger": "여행하는 수돌이",
-          "date": "2026-05-15"
+          "title": "상장폐지 시가총액 기준 강화 첫 달…최소 16곳 경고, 내 종목은 200....",
+          "link": "https://blog.naver.com/press02/224362998124",
+          "blogger": "재미진 저널리스트의 금융탐구생활",
+          "date": "2026-07-30"
         },
         {
-          "title": "미국이스타비자 신청 방법 ESTA 비자 가격 미국입국심사 질문",
-          "link": "https://blog.naver.com/lsh5755/224353004355",
-          "blogger": "천사는 여행중",
-          "date": "2026-07-21"
+          "title": "\"주식 상장폐지 뜻 조건 거래정지\" 정리매매가 마지막 기회?",
+          "link": "https://blog.naver.com/92happywoo/224355787333",
+          "blogger": "꿈꾸는에릭의 경제스터디",
+          "date": "2026-07-23"
+        },
+        {
+          "title": "거래정지 주식 상장폐지 전 정리매매 기간에 단 1원이라도 건져 탈....",
+          "link": "https://blog.naver.com/guide_hub/224314163870",
+          "blogger": "지원금 조회 센터",
+          "date": "2026-06-12"
+        },
+        {
+          "title": "금양 상장폐지 결정할 유상증자 공시 5가지 특이점",
+          "link": "https://blog.naver.com/sexysbkang/224366464918",
+          "blogger": "직장생활백서",
+          "date": "2026-08-03"
         }
       ],
       "topNews": [
         {
-          "title": "스트레이 키즈, 신곡 'This & That' 흥행 시동…MV 4600만뷰 돌파",
-          "link": "https://www.slist.kr/news/articleView.html?idxno=757855",
+          "title": "'관리종목' 유디엠텍, '상폐 위기론' 어쩌나",
+          "link": "https://www.sisaweek.com/news/articleView.html?idxno=237193",
           "press": "",
           "date": "2026-08-10"
         },
         {
-          "title": "[금융트렌드] 코웨이 '넷마블vs얼라인파트너스' 지분전에 주가 오르나",
-          "link": "https://www.handmk.com/news/articleView.html?idxno=42052",
+          "title": "'동전주' 퇴출 카운트다운…13일부터 첫 관리종목 지정",
+          "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=725973",
           "press": "",
           "date": "2026-08-10"
         },
         {
-          "title": "\"아시아 배구정신 그 자체\" 김연경, 제1회 AVC 갈라 시상식 공로상 수상...",
-          "link": "https://www.sportschosun.com/volleyball/2026-08-10/202608100100055400003486",
+          "title": "배재규 한투운용 사장 \"레버리지 말고 성장산업에 장기 투자해야\"",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=691472",
+          "press": "",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "골프존홀딩스 상폐 '마지막 퍼트'…에스제이투자홀딩스, 2차 공개매수 돌...",
+          "link": "https://www.thepublic.kr/news/articleView.html?idxno=314395",
+          "press": "",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "상폐 1차 관문 이번 주 열린다…살아남아도 내년엔 '300억 시험대'",
+          "link": "https://www.etnews.com/20260810000308",
           "press": "",
           "date": "2026-08-10"
         }
@@ -356,72 +368,72 @@
       "rank": 5
     },
     {
-      "keyword": "후티 예멘",
-      "traffic": "200+",
-      "blogTotal": 29061,
-      "newsTotal": 36597,
-      "recentToday": 92,
+      "keyword": "제시카",
+      "traffic": "1000+",
+      "blogTotal": 445876,
+      "newsTotal": 187933,
+      "recentToday": 68,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "예멘 후티 반군은 누구인가?",
-          "link": "https://blog.naver.com/bklim2014/224370009820",
-          "blogger": "야옹이네",
-          "date": "2026-08-06"
+          "title": "WD22_제시카로렌 지정 본식드레스 가봉 후기! (+2부드레스)",
+          "link": "https://blog.naver.com/dbsdkfl3520/224362110007",
+          "blogger": "all about Ari",
+          "date": "2026-07-30"
         },
         {
-          "title": "'후티 반군은 뭔가요?' 특징, 군사력, 영향력, 현재 국제적 상황 등 ....",
-          "link": "https://blog.naver.com/pso164/224354168159",
-          "blogger": "과학커뮤니케이터 박종현",
-          "date": "2026-07-26"
+          "title": "[웨딩#15] 본식가봉, 제시카로렌 지정 다녀온 후기 (feat. 통통한 ♀️)....",
+          "link": "https://blog.naver.com/haru9893/224359370091",
+          "blogger": "겨리겨리",
+          "date": "2026-07-27"
         },
         {
-          "title": "예멘과 후티 반군의 근현대사 흐름",
-          "link": "https://blog.naver.com/jedu71/224278129258",
-          "blogger": "스튜디오 나르젠",
-          "date": "2026-05-07"
+          "title": "제시카로렌 본식 드레스 잔잔비즈, 레이스, 오간자 셀렉 후기",
+          "link": "https://blog.naver.com/duswn974/224303427135",
+          "blogger": "Seoul&Jeju",
+          "date": "2026-06-10"
         },
         {
-          "title": "사우디 후티반군 공습 중동전쟁 확전 조짐",
-          "link": "https://blog.naver.com/kjm2336/224358051946",
-          "blogger": "독일병정의 세상사는이야기",
-          "date": "2026-07-26"
+          "title": "[W.11 드레스투어] 제시카로렌 드투 후기",
+          "link": "https://blog.naver.com/waefhan/224362907416",
+          "blogger": "두딩이네",
+          "date": "2026-07-30"
         },
         {
-          "title": "[명랑한 국제정세] #. 후티반군 사우디아라비아 타격/ 후틴반군이란?",
-          "link": "https://blog.naver.com/wildshark/224346655821",
-          "blogger": "명랑한 녀석이 지구를 돌린다.",
-          "date": "2026-07-14"
+          "title": "W. 제시카로렌 본식 가봉 후기 : 최종 셀렉(본식 사진O)",
+          "link": "https://blog.naver.com/iyunseoo/224303945610",
+          "blogger": "and윤돌",
+          "date": "2026-06-02"
         }
       ],
       "topNews": [
         {
-          "title": "후티 반군, 예멘 항구도시 모카 또 공격…사상자 37명(종합)",
-          "link": "https://www.news1.kr/world/middleeast-africa/6254150",
+          "title": "모든에듀케이션·V365 아카데미, '2026 진로진학콘서트' 개최…",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=110762",
           "press": "",
           "date": "2026-08-10"
         },
         {
-          "title": "[아시아라운드업 20260810] 미얀마 \"아세안의 아웅산 수치 석방 요구는 ...",
-          "link": "http://kor.theasian.asia/archives/412644",
+          "title": "\"17년 만의 '냉면' 기대해\"... 제시카, 박명수와 재결합 앞두고 뉴욕서 ...",
+          "link": "https://www.insight.co.kr/news/567363",
           "press": "",
           "date": "2026-08-10"
         },
         {
-          "title": "[포착] “11명 사망” 사우디軍 때린 후티 반군 드론…파키스탄·튀르키...",
-          "link": "https://nownews.seoul.co.kr/news/newsView.php?id=20260810601006&wlog_tag3=naver",
+          "title": "'소녀시대 탈퇴' 제시카, 17년만 '무도' 무대 앞두고..美뉴욕 길거리 포...",
+          "link": "http://www.osen.co.kr/article/G1112854715",
           "press": "",
           "date": "2026-08-10"
         },
         {
-          "title": "美만 믿지 않겠다… 사우디·튀르키예·파키스탄, ‘무슬림 NATO’ 메카...",
-          "link": "https://biz.chosun.com/international/international_general/2026/08/10/QXXNMLW7ONHHJCHCHBULV7GQ7A/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+          "title": "이란發 고유가에 美 하이브리드카 '불티'…현대차 판매 62% 급증",
+          "link": "https://www.widedaily.com/news/articleView.html?idxno=299140",
           "press": "",
           "date": "2026-08-10"
         },
         {
-          "title": "트럼프, 이란 추가공습 유보...이란, 호르무즈 쥐고 트럼프 출구전략 압...",
-          "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260810010002963",
+          "title": "2026년 8월호 마리끌레르 코리아 편집장의 에디터스 레터",
+          "link": "https://www.marieclairekorea.com/special/2026/08/editors-letter-46/?utm_source=naver&utm_medium=partnership",
           "press": "",
           "date": "2026-08-10"
         }
@@ -429,145 +441,145 @@
       "rank": 6
     },
     {
-      "keyword": "중대범죄 수사청",
+      "keyword": "박현경",
       "traffic": "200+",
-      "blogTotal": 78726,
-      "newsTotal": 36299,
-      "recentToday": 92,
+      "blogTotal": 27498,
+      "newsTotal": 66654,
+      "recentToday": 21,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "중대범죄수사청(중수청), 검사, 검찰수사관 특례, 경찰 및 전문직 경....",
-          "link": "https://blog.naver.com/kimbest3/224368221217",
-          "blogger": "방송발전연구소",
-          "date": "2026-08-04"
+          "title": "박현경 KLPGA 200번째 출전 제주삼다수 마스터스 파5가 빛난 이유",
+          "link": "https://blog.naver.com/alsrbaka520/224371068778",
+          "blogger": "사라의 골프여행",
+          "date": "2026-08-07"
         },
         {
-          "title": "중대범죄수사청 출범일 조직도 검사 4급 수사관 공소청 검찰청 폐지....",
-          "link": "https://blog.naver.com/solee1440/224369359100",
-          "blogger": "까다로운 S",
-          "date": "2026-08-05"
+          "title": "필드의 요정에서 메이저 퀸으로, 박현경 선수의 화려한 날갯짓 (ft. ....",
+          "link": "https://blog.naver.com/loc84/224331117096",
+          "blogger": "『랜선위의 고물상』",
+          "date": "2026-06-29"
         },
         {
-          "title": "중대범죄수사청 검색 급증, 10월 2일 출범 전에 확인할 것",
-          "link": "https://blog.naver.com/fearthy/224363084560",
-          "blogger": "앞서기 전 따라잡기",
-          "date": "2026-07-30"
+          "title": "박현경 프로, 6억 9천만원 잭팟… 실격 악몽을 우승으로 갚았습니다?....",
+          "link": "https://blog.naver.com/pan6606/224337246274",
+          "blogger": "아윌리치 Y",
+          "date": "2026-07-05"
         },
         {
-          "title": "검찰청 폐지와 공소청·중수청 신설 총정리, 시행일·역할·국회 논....",
-          "link": "https://blog.naver.com/albatross_01/224349269553",
-          "blogger": "알바트로스 학습전략 연구소",
-          "date": "2026-07-30"
-        },
-        {
-          "title": "검찰청 폐지 시행 시 달라질 수사·기소 절차를 쉽게 보는 법",
-          "link": "https://blog.naver.com/namaksin12/224359740005",
-          "blogger": "책 읽는 아이들",
+          "title": "\"김민선7이 AIG 위민스 오픈 나간다고 했더니..\" 박현경이 하는 말",
+          "link": "https://blog.naver.com/buktaenim/224359760404",
+          "blogger": "골프 꿈나무의 성장 블로그",
           "date": "2026-07-27"
+        },
+        {
+          "title": "대한민국 골프 선수 박현경(프로필,커리어,특징 등)",
+          "link": "https://blog.naver.com/mistermy18/224330592225",
+          "blogger": "H2의 스포츠와 여행",
+          "date": "2026-06-29"
         }
       ],
       "topNews": [
         {
-          "title": "송영길, 정청래 향해 \"李 지키겠다고 해도, 본인이 싫다고 하면 스토커...",
-          "link": "http://www.metroseoul.co.kr/article/20260810500227",
+          "title": "장은수, '제주삼다수 마스터스'서 생애 첫 우승",
+          "link": "http://www.newsprime.co.kr/news/article.html?no=743194",
           "press": "",
-          "date": "2026-08-10"
+          "date": "2026-08-09"
         },
         {
-          "title": "수사·기소 분리, 피해자 부담 줄일 대안 찾아야 [알아야 보이는 법(法)...",
-          "link": "https://www.segye.com/newsView/20260809514803?OutUrl=naver",
+          "title": "[포토] 박현경, 정규투어 200번째 대회서 평균타수 1위 복귀",
+          "link": "http://www.newsprime.co.kr/news/article.html?no=743198",
           "press": "",
-          "date": "2026-08-10"
+          "date": "2026-08-09"
         },
         {
-          "title": "검찰 수사권 폐지 앞둔 경찰…\"기존 수사역량으로 무리없이 소화 가능\"",
-          "link": "https://www.mt.co.kr/society/2026/08/10/2026081011500957798",
+          "title": "'정규투어 200회 출전' 박현경 \"KLPGA 챔피언십 2연패 가장 기억에 남아...",
+          "link": "http://www.stoo.com/article.php?aid=108240589842",
           "press": "",
-          "date": "2026-08-10"
+          "date": "2026-08-09"
         },
         {
-          "title": "아직 결론 못낸 김병기 수사…경찰 \"세부 내용 확인에 시간 걸려\"",
-          "link": "https://www.mt.co.kr/society/2026/08/10/2026081010561951164",
+          "title": "박현경, 1주만에 평균타수 1위로 복귀 [KLPGA 제주삼다수]",
+          "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20021442",
           "press": "",
-          "date": "2026-08-10"
+          "date": "2026-08-09"
         },
         {
-          "title": "檢사건 경찰 이송 전망…서울청 \"기존 수사 역량으로 무리 없이 소화\"",
-          "link": "https://www.news1.kr/society/incident-accident/6254121",
+          "title": "'박현경→김민솔→박현경' 또 바뀐 '평균 타수 1위'…박현경 '200번째 출...",
+          "link": "https://www.golfdigest.co.kr/news/articleView.html?idxno=46779",
           "press": "",
-          "date": "2026-08-10"
+          "date": "2026-08-09"
         }
       ],
       "rank": 7
     },
     {
-      "keyword": "최우수산",
-      "traffic": "10000+",
-      "blogTotal": 1379,
-      "newsTotal": 1139,
-      "recentToday": 24,
-      "recentWeek": 90,
+      "keyword": "문지인",
+      "traffic": "200+",
+      "blogTotal": 8440,
+      "newsTotal": 9832,
+      "recentToday": 19,
+      "recentWeek": 30,
       "topBlogs": [
         {
-          "title": "최우수산 불암산 애기봉 장동민 아들 며느리감으로 지목 붐 딸에게 ....",
-          "link": "https://blog.naver.com/admisun/224365819793",
-          "blogger": "허튼 기억의 서툰 기록",
-          "date": "2026-08-02"
+          "title": "김기리 아내 배우 문지인 칸영화제 임신 근황",
+          "link": "https://blog.naver.com/dydghks3250/224267012324",
+          "blogger": "❤️ ✅kGn뉴스 ✅❤️",
+          "date": "2026-04-27"
         },
         {
-          "title": "MBC '최우수산' 시청률 1%대 벽 못 넘고 결국 폐지… 장동민 폭주 \"누....",
-          "link": "https://blog.naver.com/jinh_418/224373700495",
-          "blogger": "연지곤지의 연예 리뷰",
-          "date": "2026-08-10"
+          "title": "김기리 문지인 첫 아이 출산 앞둔 심경, ‘둘이 놀다 셋이 놀자’로 ....",
+          "link": "https://blog.naver.com/happyhan1122/224372015703",
+          "blogger": "두근두근 내 인생、",
+          "date": "2026-08-09"
         },
         {
-          "title": "최우수산 불암산 애기봉, 아이들과 아빠들의 특별한 등산기",
-          "link": "https://blog.naver.com/namaksin14/224367362944",
-          "blogger": "매튜_하나님의 선물",
-          "date": "2026-08-04"
+          "title": "“누나인데 부모 같았다” 동치미 문지인, 동생을 돌보며 감당한 가....",
+          "link": "https://blog.naver.com/yu_ping/224334277338",
+          "blogger": "바오의 리뷰세상",
+          "date": "2026-07-02"
         },
         {
-          "title": "데이식스 영케이, 저작권료 언급에…\"GD보다 많아→콘서트 수입도 ....",
-          "link": "https://blog.naver.com/severance1997/224331979597",
-          "blogger": "행복이 뉴스",
-          "date": "2026-06-30"
+          "title": "\"이건 선 넘은 거 아니냐\"... 김기리♥문지인, 임신 중 유전자 검사 ....",
+          "link": "https://blog.naver.com/ymr000128/224320000301",
+          "blogger": "ymr000128님의 블로그",
+          "date": "2026-06-18"
         },
         {
-          "title": "7월2일 최우수산에 나왔던 금강산신선대(성인봉)",
-          "link": "https://blog.naver.com/y1kim/224335061899",
-          "blogger": "y1kim님의 블로그",
-          "date": "2026-07-03"
+          "title": "문지인 김기리 만삭 화보 공개, 칸 D라인부터 8월 출산 준비까지 한....",
+          "link": "https://blog.naver.com/kim6352p/224363887365",
+          "blogger": "소소한 정보통",
+          "date": "2026-07-31"
         }
       ],
       "topNews": [
         {
-          "title": "'1% 시청률' 벽 못 넘었다…'대국민 사과→허경환·양세형 결혼 공약'에...",
-          "link": "https://mhnse.com/news/articleView.html?idxno=1484887",
+          "title": "김기리-문지인, 결혼 2년 만에 부모 됐다⋯7일 득남",
+          "link": "http://www.joynews24.com/view/1993480",
           "press": "",
           "date": "2026-08-10"
         },
         {
-          "title": "'최우수산', 1%대 시청률로 종영…\"누가 결정한 거냐, 실업자 됐다\"",
-          "link": "https://www.newsis.com/view/NISX20260810_0003742622",
+          "title": "문지인♥김기리, 결혼 2년 만에 득남 \"산모·아이 모두 건강\"[공식입장...",
+          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=833900",
           "press": "",
           "date": "2026-08-10"
         },
         {
-          "title": "연장 원했지만…'최우수산', 1%대 시청률로 종영",
-          "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=02617446645546008",
+          "title": "[공식] 문지인♥김기리, 결혼 2년 만에 부모 됐다…유산 아픔 딛고 건강...",
+          "link": "https://www.tenasia.co.kr/article/2026081042774",
           "press": "",
           "date": "2026-08-10"
         },
         {
-          "title": "잘나가는 개그맨 뭉쳤는데 \"실업자 됐다\"...시청률 부진 '최우수산' 종영",
-          "link": "https://www.mt.co.kr/entertainment/2026/08/10/2026081009383625272",
+          "title": "문지인·김기리, 결혼 2년 만에 득남…\"산모와 아이 모두 건강\"",
+          "link": "https://news.tf.co.kr/read/entertain/2352394.htm",
           "press": "",
           "date": "2026-08-10"
         },
         {
-          "title": "1%대 시청률, MBC '최우수산' 12회 끝으로 결국 종영",
-          "link": "https://www.insight.co.kr/news/567259",
+          "title": "김기리♥문지인, 부모 됐다… 7일 아들 출산",
+          "link": "https://www.bntnews.co.kr/article/view/bnt202608100220",
           "press": "",
           "date": "2026-08-10"
         }
@@ -575,72 +587,72 @@
       "rank": 8
     },
     {
-      "keyword": "크리스 페덱",
-      "traffic": "500+",
-      "blogTotal": 2855,
-      "newsTotal": 1188,
-      "recentToday": 6,
+      "keyword": "정의선",
+      "traffic": "1000+",
+      "blogTotal": 93614,
+      "newsTotal": 209305,
+      "recentToday": 14,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "\"분명 1회는 폰세였는데..\" 삼성 페덱 KIA전 6실점 첫 패배, 무엇이 문....",
-          "link": "https://blog.naver.com/jjccm0316/224363475411",
-          "blogger": "스포러브",
-          "date": "2026-07-31"
+          "title": "정의선 프로필,나이·학력·가족·재산·현대차 지분 총정리",
+          "link": "https://blog.naver.com/coingap/224346893682",
+          "blogger": "이코노미 인사이드 ECONOMY INSIDE",
+          "date": "2026-07-15"
         },
         {
-          "title": "\"폰세급이라 설레발치더니..\" 페덱, 6실점 털린 진짜 이유?",
-          "link": "https://blog.naver.com/total_feel/224363562702",
-          "blogger": "골(GOLF)치는 박간지",
-          "date": "2026-07-31"
+          "title": "현대차 주주라면 꼭 알아야 할 정의선 승계 이야기｜현대차그룹 지....",
+          "link": "https://blog.naver.com/tuna2121/224355525093",
+          "blogger": "tuna의 다락방",
+          "date": "2026-07-23"
         },
         {
-          "title": "1위 삼성의 새로운 에이스 탄생? 페덱 … KIA 상대로 KBO 3연승 도전",
-          "link": "https://blog.naver.com/agh22/224362602440",
-          "blogger": "자칭 스포츠 칼럼니스트",
-          "date": "2026-07-30"
+          "title": "[칼럼]정의선 회장, 보스턴다이내믹스 지분 25%까지 늘린다! 핵심 수....",
+          "link": "https://blog.naver.com/jinwoongkim1/224351248339",
+          "blogger": "주식시장 성공기!!",
+          "date": "2026-07-19"
         },
         {
-          "title": "[KBO] 삼성 라이온즈 팬이 보는 크리스 페덱 프로필 | MLB 통산 성적, ....",
-          "link": "https://blog.naver.com/leeju0319/224344739983",
-          "blogger": "일상 리뷰 블로그",
-          "date": "2026-07-13"
+          "title": "\"현대차 직원이 테슬라로 출퇴근?\" 정의선 회장의 뜻밖의 폭탄 선언",
+          "link": "https://blog.naver.com/oksk2002kr/224316609595",
+          "blogger": "티보의 IT 자동차 리뷰 공작소",
+          "date": "2026-06-15"
         },
         {
-          "title": "샌디에이고 개막전 선발이 대구에? 삼성의 새 외인 크리스 페덱, 플....",
-          "link": "https://blog.naver.com/loc84/224343277692",
-          "blogger": "『랜선위의 고물상』",
-          "date": "2026-07-11"
+          "title": "현대차 정의선 회장이 할아버지 정주영에게 받은 새벽 5시 교육의 ....",
+          "link": "https://blog.naver.com/blooming2035/224356313639",
+          "blogger": "육아하는 맘시생",
+          "date": "2026-07-24"
         }
       ],
       "topNews": [
         {
-          "title": "‘폭염 브레이크’ 끝낸 삼성 라이온즈, 11일 만에 실전 복귀하는 KIA와...",
-          "link": "https://www.yeongnam.com/web/view.php?key=20260810027231095",
+          "title": "현대차 'CEO 인베스터데이' 주목...피지컬 AI 비전 어떻게 구체화할까",
+          "link": "https://zdnet.co.kr/view/?no=20260810112908",
           "press": "",
           "date": "2026-08-10"
         },
         {
-          "title": "'7이닝 퍼펙트' 카라스코 뜬다, 페덱은 韓 첫 패 설욕 도전…'폭염 브레...",
-          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=833877",
+          "title": "KT&G는 아직 없는 이름을 상상한다 [마이케나스]",
+          "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=363317",
           "press": "",
           "date": "2026-08-10"
         },
         {
-          "title": "[KBO 내일의 선발투수]8월11일(화)",
-          "link": "https://www.newsis.com/view/NISX20260810_0003742672",
+          "title": "자동차부품 상장기업 2026년 8월 브랜드평판...현대모비스, 한국타이어...",
+          "link": "https://www.energy-news.co.kr/news/articleView.html?idxno=227340",
           "press": "",
           "date": "2026-08-10"
         },
         {
-          "title": "[프로야구] '폭염 방학' 마치고 11일 재개...흐름 끊긴 KT, 한숨 돌린 LG",
-          "link": "https://www.newspim.com/news/view/20260810000262",
+          "title": "정의선의 아이오닉 6년...3종 카드가 이렇게 커졌다 [나우앤덴]",
+          "link": "https://www.dailian.co.kr/news/view/1676638/?sc=Naver",
           "press": "",
           "date": "2026-08-10"
         },
         {
-          "title": "[2026 프로야구 삼진과 홈런사이] 선두 kt 위즈, '폭염 브레이크' 최대 ...",
-          "link": "http://www.newsian.co.kr/news/articleView.html?idxno=93502",
+          "title": "[재계 이슈] 이재용·최태원·이해진·정의선, 美서 AI 생태계 구축 | 반...",
+          "link": "https://economychosun.com/site/data/html_dir/2026/08/01/2026080100021.html",
           "press": "",
           "date": "2026-08-10"
         }
@@ -648,74 +660,74 @@
       "rank": 9
     },
     {
-      "keyword": "kf-21 보라매",
-      "traffic": "1000+",
-      "blogTotal": 11991,
-      "newsTotal": 8315,
-      "recentToday": 3,
-      "recentWeek": 47,
+      "keyword": "고의정",
+      "traffic": "5000+",
+      "blogTotal": 1844,
+      "newsTotal": 2296,
+      "recentToday": 13,
+      "recentWeek": 16,
       "topBlogs": [
         {
-          "title": "KF-21 보라매: 대한민국이 만든 4.5세대 전투기와 하늘을 향한 25년의 ....",
-          "link": "https://blog.naver.com/goldenboy196/224361785235",
-          "blogger": "김영재 교수와 함께하는 블로그대학",
-          "date": "2026-07-30"
+          "title": "“정솔민 내주고 고의정·서지혜를 품었다?” 여자배구 신생팀 SOOP....",
+          "link": "https://blog.naver.com/edwin9407/224373856860",
+          "blogger": "더블체커(DC)",
+          "date": "2026-08-10"
         },
         {
-          "title": "한국 전투기 KF-21 보라매 개발 완료｜성능·무장·양산 일정·F-35 차....",
-          "link": "https://blog.naver.com/dailytext/224363929970",
-          "blogger": "데일리텍스트 | 오늘 필요한 생활정보",
+          "title": "오히려 500만원 오른 고의정의 연봉, IBK 배구단의 의도는?",
+          "link": "https://blog.naver.com/caleb0901/224338605429",
+          "blogger": "이과장의 스포츠",
+          "date": "2026-07-07"
+        },
+        {
+          "title": "“20경기 동안 출전 0회였는데” 고의정, 마나베 체제 출전 경쟁서 ....",
+          "link": "https://blog.naver.com/lhalha0606/224363908700",
+          "blogger": "VAR보는포수",
           "date": "2026-07-31"
         },
         {
-          "title": "대한 민국 : 10년 7개월의 결실 계발 완료, KF-21 보라매가 날아오릅니....",
-          "link": "https://blog.naver.com/medic3939/224367895980",
-          "blogger": "실 생활에 유용한",
-          "date": "2026-08-04"
+          "title": "“하루에 3명이 유니폼을 바꿨다” 여자배구 SOOP, 고의정·서지혜 데....",
+          "link": "https://blog.naver.com/lhalha0606/224373856609",
+          "blogger": "VAR보는포수",
+          "date": "2026-08-10"
         },
         {
-          "title": "KF-21, 체계개발 10년만에 공식 종료!",
-          "link": "https://blog.naver.com/chkkim22/224367384331",
-          "blogger": "IT와 경제 이야기",
-          "date": "2026-08-04"
-        },
-        {
-          "title": "대한민국 : 잠수함은 놓쳤지만 하늘은 잡았다? KF-21의 캐나다 진출 ....",
-          "link": "https://blog.naver.com/medic3939/224367876160",
-          "blogger": "실 생활에 유용한",
-          "date": "2026-08-04"
+          "title": "화성 IBK기업은행 알토스 고의정(프로필,경력,스타일 등)",
+          "link": "https://blog.naver.com/mistermy18/224340621619",
+          "blogger": "H2의 스포츠와 여행",
+          "date": "2026-07-08"
         }
       ],
       "topNews": [
         {
-          "title": "KAI, KF-21 '진화' 계속된다…내부무장창 갖춘 스텔스기 개발 추진",
-          "link": "https://www.thepublic.kr/news/articleView.html?idxno=314328",
+          "title": "여자배구 SOOP, 정솔민·지명권 내주고 고의정·서지혜 영입",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008698201&plink=ORI&cooper=NAVER",
           "press": "",
           "date": "2026-08-10"
         },
         {
-          "title": "KAI KF-21, 10월 전력화·블록2 80대 발주…120대 양산 체제 완성",
-          "link": "https://www.g-enews.com/view.php?ud=20260810062908604e8b8a793f7_1",
+          "title": "[공식발표] 신생 구단 SOOP, 트레이드 또.또 성사시켰다! 현대건설 서지...",
+          "link": "https://www.starnewskorea.com/sports/2026/08/10/2026081012562271240",
           "press": "",
-          "date": "2026-08-09"
+          "date": "2026-08-10"
         },
         {
-          "title": "[비디오머그] 완성 선언한 KF-21 보라매…개발사 완벽 총정리",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008690030&plink=ORI&cooper=NAVER",
+          "title": "SOOP 트레이드, 고의정·서지혜 동시 영입…측면 공격 자원 대폭 보강",
+          "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=545440",
           "press": "",
-          "date": "2026-08-08"
+          "date": "2026-08-10"
         },
         {
-          "title": "KAI KF-21, 내부무장창 장착 스텔스 진화…5.5세대 도약 선언",
-          "link": "https://www.g-enews.com/view.php?ud=202608080625422054e8b8a793f7_1",
+          "title": "'측면 공격력 두 명 채웠다' 신생팀 SOOP, 트레이드로 고의정·서지혜 영...",
+          "link": "http://www.maniareport.com/view.php?ud=2026081013271641866cf2d78c68_19",
           "press": "",
-          "date": "2026-08-07"
+          "date": "2026-08-10"
         },
         {
-          "title": "이젠 가성비만으론 안된다…K방산이 준비한 ‘비장의 카드’",
-          "link": "https://www.joongang.co.kr/article/25451775",
+          "title": "여자배구 SOOP, 트레이드로 고의정·서지혜 영입…\"경쟁력 상승\"",
+          "link": "https://www.newsis.com/view/NISX20260810_0003742748",
           "press": "",
-          "date": "2026-08-07"
+          "date": "2026-08-10"
         }
       ],
       "rank": 10
