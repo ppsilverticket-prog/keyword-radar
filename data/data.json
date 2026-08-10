@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-10T19:53:47.758Z",
+  "updatedAt": "2026-08-10T20:39:10.693Z",
   "source": "live",
   "keywords": [
     {
       "keyword": "아이맥스 영화관",
       "traffic": "200+",
-      "blogTotal": 88921,
+      "blogTotal": 88925,
       "newsTotal": 6413,
-      "recentToday": 69,
+      "recentToday": 65,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -78,9 +78,9 @@
     {
       "keyword": "대한 광통신",
       "traffic": "1000+",
-      "blogTotal": 95183,
+      "blogTotal": 95188,
       "newsTotal": 21938,
-      "recentToday": 53,
+      "recentToday": 49,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -149,11 +149,84 @@
       "rank": 2
     },
     {
+      "keyword": "전북특별자치도교육청",
+      "traffic": "200+",
+      "blogTotal": 39726,
+      "newsTotal": 28358,
+      "recentToday": 43,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "<2026-05 학부모 흡연예방교육 7월> 청소년을 위협하는 신종 마약류(일....",
+          "link": "https://blog.naver.com/jbesosik/224355514584",
+          "blogger": "전북특별자치도교육청 공식 블로그",
+          "date": "2026-07-23"
+        },
+        {
+          "title": "<학생안전119-물놀이 안전수칙 편> 물놀이 안전수칙!-안전하게 물놀....",
+          "link": "https://blog.naver.com/jbesosik/224370067250",
+          "blogger": "전북특별자치도교육청 공식 블로그",
+          "date": "2026-08-06"
+        },
+        {
+          "title": "사서샘이 추천하는 8월 책 이야기 “8월의 북캉스!”[전북특별자치....",
+          "link": "https://blog.naver.com/jbesosik/224359253187",
+          "blogger": "전북특별자치도교육청 공식 블로그",
+          "date": "2026-08-03"
+        },
+        {
+          "title": "2027학년도 대입 수시 지원을 위한 고3 학생·학부모 수시 대면 집중....",
+          "link": "https://blog.naver.com/jbesosik/224370841896",
+          "blogger": "전북특별자치도교육청 공식 블로그",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "지방교육재정 안정화를 위한 공개토론회 ‘지방교육재정교부금 개....",
+          "link": "https://blog.naver.com/jbesosik/224360174217",
+          "blogger": "전북특별자치도교육청 공식 블로그",
+          "date": "2026-07-28"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "[오늘의 주요일정]전북(8월11일 화요일)",
+          "link": "https://www.newsis.com/view/NISX20260810_0003743419",
+          "press": "",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "천호성 교육감 \"수업 잘하는 교사 우대\"…평가·인사 틀 바꾼다",
+          "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=703335",
+          "press": "",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "전북교육청의 'AI 교육행정 대전환' 교사가 수업에 전념하는 계기 돼야",
+          "link": "http://www.jeonmin.co.kr/news/articleView.html?idxno=444891",
+          "press": "",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "천호성 교육감“수업 연구·공개·성과 교사 우대”",
+          "link": "https://sjbnews.com/news/news.php?number=884939",
+          "press": "",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "전북 학생 '의대 문' 넓어진다···지역선발 165명→205명 확대",
+          "link": "http://www.jeollailbo.com/news/articleView.html?idxno=807793",
+          "press": "",
+          "date": "2026-08-10"
+        }
+      ],
+      "rank": 3
+    },
+    {
       "keyword": "에어부산",
       "traffic": "100+",
-      "blogTotal": 1007291,
+      "blogTotal": 1007278,
       "newsTotal": 124513,
-      "recentToday": 43,
+      "recentToday": 42,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -219,12 +292,12 @@
           "date": "2026-08-10"
         }
       ],
-      "rank": 3
+      "rank": 4
     },
     {
       "keyword": "더트롯쇼",
       "traffic": "200+",
-      "blogTotal": 63044,
+      "blogTotal": 63048,
       "newsTotal": 33856,
       "recentToday": 30,
       "recentWeek": 100,
@@ -234,6 +307,12 @@
           "link": "https://blog.naver.com/ksm9663/224331334420",
           "blogger": "선매네 작은뜰",
           "date": "2026-06-30"
+        },
+        {
+          "title": "가수 성리 ‘더트롯쇼’ 최종 2위! 1위 후보로 빛난 ‘오늘 이 밤’ ....",
+          "link": "https://blog.naver.com/dksgusals1027/224374429831",
+          "blogger": "쿠시곰의 '성리'로운 음악 생활",
+          "date": "2026-08-10"
         },
         {
           "title": "더트롯쇼 159회 트롯 바캉스 특집 ️",
@@ -252,12 +331,6 @@
           "link": "https://blog.naver.com/tia0328/224346286172",
           "blogger": "오늘의 엔터",
           "date": "2026-07-14"
-        },
-        {
-          "title": "임영웅 '우리에게 안녕' 더 트롯쇼 2주 연속 1위… 명예의 전당 입성....",
-          "link": "https://blog.naver.com/joeun8002/224325351808",
-          "blogger": "강력한 팬덤 영웅시대",
-          "date": "2026-06-24"
         }
       ],
       "topNews": [
@@ -292,11 +365,11 @@
           "date": "2026-08-08"
         }
       ],
-      "rank": 4
+      "rank": 5
     },
     {
       "keyword": "레임덕",
-      "traffic": "10000+",
+      "traffic": "20000+",
       "blogTotal": 39728,
       "newsTotal": 59176,
       "recentToday": 22,
@@ -365,7 +438,7 @@
           "date": "2026-08-10"
         }
       ],
-      "rank": 5
+      "rank": 6
     },
     {
       "keyword": "케스파컵",
@@ -436,79 +509,6 @@
           "link": "https://www.gameple.co.kr/news/articleView.html?idxno=216161",
           "press": "",
           "date": "2026-07-31"
-        }
-      ],
-      "rank": 6
-    },
-    {
-      "keyword": "김유재",
-      "traffic": "200+",
-      "blogTotal": 2774,
-      "newsTotal": 2259,
-      "recentToday": 6,
-      "recentWeek": 17,
-      "topBlogs": [
-        {
-          "title": "성남 지식산업센터 입주기업 현황 : 2501~2852",
-          "link": "https://richcat.tistory.com/4264",
-          "blogger": "리치캣의 현재 그리고 미래",
-          "date": "2020-11-18"
-        },
-        {
-          "title": "ISU피겨그랑프리 배정표",
-          "link": "https://blog.naver.com/babbbna/224342897874",
-          "blogger": "진짱이네 블로그 ◡̈",
-          "date": "2026-07-10"
-        },
-        {
-          "title": "Three.js 개념부터 활용법, 실전 꿀팁까지 정리",
-          "link": "https://tikongs.tistory.com/1756",
-          "blogger": "콩쓰의 화끈한 생각",
-          "date": "2026-07-27"
-        },
-        {
-          "title": "2026년 밀라노 동계올림픽 주목해야할 종목 - 피겨스케이팅 국가대표....",
-          "link": "https://blog.naver.com/seaoflover/224109507268",
-          "blogger": "YUN★의 뷰티골프",
-          "date": "2025-12-14"
-        },
-        {
-          "title": "쌍둥이 피겨 김유재 김유성 주니어 그랑프리 파이널 경기 시간",
-          "link": "https://blog.naver.com/sjyoon_916/224037546125",
-          "blogger": "똔똔이 참새",
-          "date": "2025-10-11"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "김유성 金메달·김유재 銀메달!…'韓 17세 여자피겨 쌍둥이 자매' 시니어...",
-          "link": "https://www.xportsnews.com/article/2182103",
-          "press": "",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "차준환, 오는 11월 시니어 GP 중국·일본 출격",
-          "link": "https://www.joongangenews.com/news/articleView.html?idxno=538189",
-          "press": "",
-          "date": "2026-08-06"
-        },
-        {
-          "title": "[피겨] 차준환, 시니어 그랑프리 2개 대회 초청… 중국·일본 출격",
-          "link": "https://www.newscj.com/news/articleView.html?idxno=3422895",
-          "press": "",
-          "date": "2026-08-06"
-        },
-        {
-          "title": "김채연·이해인·신지아·김유재, ISU 피겨 그랑프리 시리즈 2개 대회 초...",
-          "link": "https://swtvnews.com/news/newsview.php?ncode=1065551549861907",
-          "press": "",
-          "date": "2026-08-05"
-        },
-        {
-          "title": "[오피셜]'韓 피겨 간판' 차준환, 새 시즌 ISU 시니어 그랑프리 시리즈 2...",
-          "link": "https://www.sportschosun.com/sports-news/2026-08-05/202608050100032770002022",
-          "press": "",
-          "date": "2026-08-05"
         }
       ],
       "rank": 7
@@ -589,8 +589,8 @@
     {
       "keyword": "수능",
       "traffic": "100+",
-      "blogTotal": 6278409,
-      "newsTotal": 951976,
+      "blogTotal": 6278424,
+      "newsTotal": 951982,
       "recentToday": 0,
       "recentWeek": 100,
       "topBlogs": [
@@ -627,32 +627,32 @@
       ],
       "topNews": [
         {
-          "title": "오늘 수능 D-100일, 기도하는 母情",
-          "link": "https://www.donga.com/news/Society/article/all/20260810/134453965/2",
+          "title": "'말자쇼' 정지웅 \"불수능 덕에 서울대 가\"…공부법은 [RE:TV]",
+          "link": "https://www.news1.kr/entertain/broadcast-tv/6254712",
           "press": "",
           "date": "2026-08-10"
         },
         {
-          "title": "인하대, 수시 지도 바꾼다…지역의사·첨단바이오 확대",
-          "link": "https://www.etnews.com/20260811000002",
+          "title": "[사설] 수술대 오른 수능, 공정성·사교육 대책부터 단단히 세워야",
+          "link": "https://www.seoul.co.kr/news/editOpinion/editorial/2026/08/11/20260811027003?wlog_tag3=naver",
           "press": "",
           "date": "2026-08-10"
         },
         {
-          "title": "수능 100일 앞…\"아침 먹고 기름진 음식 피해야\"",
-          "link": "https://www.newsis.com/view/NISX20260810_0003742961",
+          "title": "‘서·논술형 수능 도입’ 채점 공정성·신뢰성 확보가 첫 과제…세 가...",
+          "link": "https://www.hani.co.kr/arti/society/schooling/1272296.html",
           "press": "",
           "date": "2026-08-10"
         },
         {
-          "title": "[시사천국] 남성욱 \"사관학교 통합, '육사 혼내기' 아닌 군사전략으로 ...",
-          "link": "https://news.cpbc.co.kr/article/1174876?division=NAVER",
+          "title": "[사설] 2028 통합 체제 새 수능, 시작도 전에 계륵 전락",
+          "link": "https://www.imaeil.com/page/view/2026081016413584466",
           "press": "",
           "date": "2026-08-10"
         },
         {
-          "title": "수능 D-100일 \"이 날짜 놓치면 1년 더 공부해야\" 수능원서 접수기간 언제",
-          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3661038",
+          "title": "[단독] 수능 서·논술형 문항 ‘채점 공정성’ 담보할 수 있을까",
+          "link": "https://www.seoul.co.kr/news/society/education-news/2026/08/11/20260811010002?wlog_tag3=naver",
           "press": "",
           "date": "2026-08-10"
         }
@@ -662,7 +662,7 @@
     {
       "keyword": "컴퓨터 공학",
       "traffic": "200+",
-      "blogTotal": 921229,
+      "blogTotal": 921238,
       "newsTotal": 260452,
       "recentToday": 0,
       "recentWeek": 100,
@@ -692,10 +692,10 @@
           "date": "2026-06-01"
         },
         {
-          "title": "컴퓨터공학과 대학 순위 수시 입결 등급컷과 취업률 취업 후 연봉 ....",
-          "link": "https://blog.naver.com/ekek112233/224362486445",
-          "blogger": "30년 유학 전문가 유캔유학",
-          "date": "2026-07-30"
+          "title": "컴퓨터과학과 컴퓨터공학과 차이비교! 전망과 유명 대학 순위 총정....",
+          "link": "https://blog.naver.com/saevom22/224336247507",
+          "blogger": "꾸리의 공부에세이",
+          "date": "2026-07-04"
         }
       ],
       "topNews": [
