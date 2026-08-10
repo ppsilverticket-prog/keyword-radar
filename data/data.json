@@ -1,13 +1,86 @@
 {
-  "updatedAt": "2026-08-10T14:55:16.475Z",
+  "updatedAt": "2026-08-10T15:58:04.035Z",
   "source": "live",
   "keywords": [
     {
+      "keyword": "교도소",
+      "traffic": "1000+",
+      "blogTotal": 614768,
+      "newsTotal": 439212,
+      "recentToday": 94,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "교도소 에어컨 12억 설치 중단 얼음물 지급 37도까지 치솟은 상황",
+          "link": "https://blog.naver.com/dydghks3250/224371003379",
+          "blogger": "❤️ ✅kGn뉴스 ✅❤️",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "교도소・구치소 편지가 반송됐어요?! <검열 기준과 반송 사유, 대처....",
+          "link": "https://blog.naver.com/easyonmail/224370885819",
+          "blogger": "이지온메일 공식 블로그",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "교도소 에어컨 설치 12억 투입, 정말 세금 낭비일까?",
+          "link": "https://blog.naver.com/unknown__log/224303615131",
+          "blogger": "세상의 모든 이야기.zip",
+          "date": "2026-06-02"
+        },
+        {
+          "title": "☀️교도소 에어컨 설치 논란, 12억 투입에 갑론을박...\"감방이 무슨 ....",
+          "link": "https://blog.naver.com/cottoncandy1014/224302014038",
+          "blogger": "체리쨈의 ♡- 속닥속닥 작은이야기 -♡",
+          "date": "2026-06-01"
+        },
+        {
+          "title": "익산 가볼만한곳 교도소 세트장 이색 체험 후기 (대탈출 촬영 장소)",
+          "link": "https://blog.naver.com/eun_i_7/224352120669",
+          "blogger": "고동여지도",
+          "date": "2026-07-22"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "순천교도소 서버실 화재 발생...인명피해 없어",
+          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3661005",
+          "press": "",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "시민 안전 위협하는 '버스 기사 사칭남', 상상을 초월하는 패륜까지 저...",
+          "link": "https://mhnse.com/news/articleView.html?idxno=1485195",
+          "press": "",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "순천교도소서 화재…인명 피해 없이 7분 만에 자체 진화",
+          "link": "https://www.mk.co.kr/article/12123394",
+          "press": "",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "순천교소도 서버실 불…자체 진화",
+          "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8633353&ref=A",
+          "press": "",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "치과의사 이타적 손길… \"줬다는 생각 잊어야 진정한 나눔\"",
+          "link": "http://www.gnmaeil.com/news/articleView.html?idxno=592515",
+          "press": "",
+          "date": "2026-08-10"
+        }
+      ],
+      "rank": 1
+    },
+    {
       "keyword": "대한 광통신",
       "traffic": "1000+",
-      "blogTotal": 95141,
+      "blogTotal": 95162,
       "newsTotal": 21938,
-      "recentToday": 100,
+      "recentToday": 71,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -35,10 +108,10 @@
           "date": "2026-08-05"
         },
         {
-          "title": "대한광통신 | 11,960원 급락과 메타 악재… 100배 오른 주식의 역사에....",
-          "link": "https://blog.naver.com/sooah___/224334746946",
-          "blogger": "ෆ candy-log ෆ",
-          "date": "2026-07-03"
+          "title": "남편이 몰래 산 대한광통신, 찾아보니 생각보다 심상치 않았다",
+          "link": "https://blog.naver.com/hyomeezzang/224304456128",
+          "blogger": "재테크 좋아하는 간호사",
+          "date": "2026-06-03"
         }
       ],
       "topNews": [
@@ -73,14 +146,14 @@
           "date": "2026-08-10"
         }
       ],
-      "rank": 1
+      "rank": 2
     },
     {
       "keyword": "컴퓨터 공학",
       "traffic": "200+",
-      "blogTotal": 921156,
-      "newsTotal": 260451,
-      "recentToday": 100,
+      "blogTotal": 921204,
+      "newsTotal": 260452,
+      "recentToday": 58,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -116,6 +189,12 @@
       ],
       "topNews": [
         {
+          "title": "메타, 뮤즈 글리머 오픈소스…단일 GPU서 2만 토큰/초",
+          "link": "https://www.wikitree.co.kr/articles/1151600",
+          "press": "",
+          "date": "2026-08-10"
+        },
+        {
           "title": "\"삼전닉스 영향?\"…서울대 공대 90% ‘전기·정보공학’ 선택",
           "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=05989286645546008",
           "press": "",
@@ -138,239 +217,14 @@
           "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=855790",
           "press": "",
           "date": "2026-08-10"
-        },
-        {
-          "title": "중국서 ‘쏘리’ 랜섬웨어 다수 감염 확인",
-          "link": "https://www.tokenpost.kr/news/breaking/387660",
-          "press": "",
-          "date": "2026-08-10"
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "keyword": "한우",
-      "traffic": "500+",
-      "blogTotal": 8311198,
-      "newsTotal": 724220,
-      "recentToday": 100,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "부천 신중동 맛집 덕유산태극한우 1++ No.9 최상급 한우를 부천 최저....",
-          "link": "https://blog.naver.com/yoyon30/224369307815",
-          "blogger": "오늘 하루, 맛집 여행 살림",
-          "date": "2026-08-05"
-        },
-        {
-          "title": "포항 문덕 놀이방 식당 가성비 한우 추천 내돈내산 l 뿔난한우",
-          "link": "https://blog.naver.com/ansgml4196/224359505263",
-          "blogger": "포린이의 핫플탐험",
-          "date": "2026-07-28"
-        },
-        {
-          "title": "양산 한우 맛집 신전한우 점심특선 재방문후기｜산더미 한우불고기....",
-          "link": "https://blog.naver.com/lovehero1221/224364778402",
-          "blogger": "Bibim",
-          "date": "2026-08-02"
-        },
-        {
-          "title": "[내돈내산] 김포 한우 맛집 그랑한우 가격 총정리| 가족모임 장소 추....",
-          "link": "https://blog.naver.com/dlsdj275/224364307396",
-          "blogger": "행복로그",
-          "date": "2026-07-31"
-        },
-        {
-          "title": "부천 청춘한우소곱창 신중동직영점 국내산 한우로 잡내없이 완전 ....",
-          "link": "https://blog.naver.com/yoyon30/224368047119",
-          "blogger": "오늘 하루, 맛집 여행 살림",
-          "date": "2026-08-04"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "정읍시 '3·6·9 투어' 운영…타지역 도시민 '호응'",
-          "link": "http://www.jeonmin.co.kr/news/articleView.html?idxno=444963",
-          "press": "",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "'파인다이닝 출신' 파주 냉면 달인→日 타코야키 협회도 반한 27세 청년...",
-          "link": "https://mhnse.com/news/articleView.html?idxno=1485186",
-          "press": "",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "R]경주축협 사료..죽은 쥐에 이물질까지 검출",
-          "link": "http://andongmbc.co.kr/adboard/NewsView84137",
-          "press": "",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "\"소도 더위 먹는다\"…포천시 한우농가에 전한 폭염기 관리법",
-          "link": "https://www.cnbnews.com/news/articleView.html?idxno=1010894",
-          "press": "",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "경주축협 사료..죽은 쥐에 이물질까지 검출",
-          "link": "http://www.phmbc.co.kr/www/news/desk_news?idx=203981&mode=view",
-          "press": "",
-          "date": "2026-08-10"
         }
       ],
       "rank": 3
     },
     {
-      "keyword": "교도소",
-      "traffic": "1000+",
-      "blogTotal": 614755,
-      "newsTotal": 439212,
-      "recentToday": 100,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "교도소 에어컨 12억 설치 중단 얼음물 지급 37도까지 치솟은 상황",
-          "link": "https://blog.naver.com/dydghks3250/224371003379",
-          "blogger": "❤️ ✅kGn뉴스 ✅❤️",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "교도소・구치소 편지가 반송됐어요?! <검열 기준과 반송 사유, 대처....",
-          "link": "https://blog.naver.com/easyonmail/224370885819",
-          "blogger": "이지온메일 공식 블로그",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "교도소 에어컨 설치 12억 투입, 정말 세금 낭비일까?",
-          "link": "https://blog.naver.com/unknown__log/224303615131",
-          "blogger": "세상의 모든 이야기.zip",
-          "date": "2026-06-02"
-        },
-        {
-          "title": "☀️교도소 에어컨 설치 논란, 12억 투입에 갑론을박...\"감방이 무슨 ....",
-          "link": "https://blog.naver.com/cottoncandy1014/224302014038",
-          "blogger": "체리쨈의 ♡- 속닥속닥 작은이야기 -♡",
-          "date": "2026-06-01"
-        },
-        {
-          "title": "[익산 교도소 세트장] 익산 아이랑 이색체험하기 너무너무너무 좋은....",
-          "link": "https://blog.naver.com/gustjddl628/224359852915",
-          "blogger": "Life Box. 인생함.",
-          "date": "2026-07-27"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "순천교도소 서버실 화재 발생...인명피해 없어",
-          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3661005",
-          "press": "",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "시민 안전 위협하는 '버스 기사 사칭남', 상상을 초월하는 패륜까지 저...",
-          "link": "https://mhnse.com/news/articleView.html?idxno=1485195",
-          "press": "",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "순천교도소서 화재…인명 피해 없이 7분 만에 자체 진화",
-          "link": "https://www.mk.co.kr/article/12123394",
-          "press": "",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "순천교소도 서버실 불…자체 진화",
-          "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8633353&ref=A",
-          "press": "",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "치과의사 이타적 손길… \"줬다는 생각 잊어야 진정한 나눔\"",
-          "link": "http://www.gnmaeil.com/news/articleView.html?idxno=592515",
-          "press": "",
-          "date": "2026-08-10"
-        }
-      ],
-      "rank": 4
-    },
-    {
-      "keyword": "트럭",
-      "traffic": "2000+",
-      "blogTotal": 4825328,
-      "newsTotal": 1030975,
-      "recentToday": 100,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "요즘 핫한 보쌈파는트럭삼촌, 트럭부터 매장까지 또 다녀왔어요",
-          "link": "https://blog.naver.com/my_love_mj/224347903738",
-          "blogger": "바야흐로 봄, 그리고 엠제이",
-          "date": "2026-07-15"
-        },
-        {
-          "title": "테슬라 사이버트럭, 출고 후 리얼 현실감 있는 일주일 후기 [에이전....",
-          "link": "https://blog.naver.com/agent-x/224322786077",
-          "blogger": "────「 Agent X 」────",
-          "date": "2026-06-21"
-        },
-        {
-          "title": "팜트럭 YA-180L2D - 농업용 동력 운반차 구입 후기.",
-          "link": "https://blog.naver.com/shs7580/224333836072",
-          "blogger": "소중한 추억복원소",
-          "date": "2026-07-02"
-        },
-        {
-          "title": "스카니아 덤프트럭 실내 단열 방음 작업 후기",
-          "link": "https://blog.naver.com/korman7777/224345138987",
-          "blogger": "붕붕붕리어카의 차이야기",
-          "date": "2026-07-15"
-        },
-        {
-          "title": "테슬라 사이버트럭 가격 비싸고 무식할 정도로 커서 망할 수밖에 없....",
-          "link": "https://blog.naver.com/jkh25265/224200028743",
-          "blogger": "황가드",
-          "date": "2026-03-01"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "태풍에 상하이 타워 휘청...창틀 끝까지 물 차올라",
-          "link": "https://www.ytn.co.kr/_ln/0104_202608102311248165",
-          "press": "",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "[이승재의 무비홀릭]‘호프’ 유감",
-          "link": "https://www.donga.com/news/Opinion/article/all/20260810/134453374/2",
-          "press": "",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "트럼프, 이란 핵시설 '픽액스 마운틴' 타격 검토…전문가 \"입구 파괴가...",
-          "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=390135",
-          "press": "",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "버크셔해서웨이, 자사주 매입 가속…현금 줄이고 알파벳 100억달러 추가...",
-          "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=390175",
-          "press": "",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "담배꽁초에 창고 전소…“배달기사·업주 2.7억 배상”",
-          "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=05585846645546008",
-          "press": "",
-          "date": "2026-08-10"
-        }
-      ],
-      "rank": 5
-    },
-    {
       "keyword": "전북특별자치도교육청",
       "traffic": "200+",
-      "blogTotal": 39717,
+      "blogTotal": 39718,
       "newsTotal": 28357,
       "recentToday": 43,
       "recentWeek": 100,
@@ -438,14 +292,14 @@
           "date": "2026-08-10"
         }
       ],
-      "rank": 6
+      "rank": 4
     },
     {
       "keyword": "더트롯쇼",
       "traffic": "200+",
-      "blogTotal": 63038,
+      "blogTotal": 63042,
       "newsTotal": 33855,
-      "recentToday": 32,
+      "recentToday": 33,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -461,12 +315,6 @@
           "date": "2026-07-19"
         },
         {
-          "title": "가수 성리 더 트롯쇼 1위 후보 8월 10일 방송 본방사수·투표 응원",
-          "link": "https://blog.naver.com/dksgusals1027/224373371530",
-          "blogger": "쿠시곰의 '성리'로운 음악 생활",
-          "date": "2026-08-10"
-        },
-        {
           "title": "손태진 더트롯쇼 무대 폭발반응 155회 라인업 공개",
           "link": "https://blog.naver.com/2001yjh2001/224295791837",
           "blogger": "원하던 나의것",
@@ -477,6 +325,12 @@
           "link": "https://blog.naver.com/tia0328/224346286172",
           "blogger": "오늘의 엔터",
           "date": "2026-07-14"
+        },
+        {
+          "title": "SBS 더 트롯쇼 투표 방법, 사전 투표, 실시간 투표하기 - 세상의 모든 ....",
+          "link": "https://moneyonmymind.tistory.com/251",
+          "blogger": "https://moneyonmymind.tistory.com/",
+          "date": "2021-05-06"
         }
       ],
       "topNews": [
@@ -511,12 +365,85 @@
           "date": "2026-08-08"
         }
       ],
-      "rank": 7
+      "rank": 5
+    },
+    {
+      "keyword": "레임덕",
+      "traffic": "10000+",
+      "blogTotal": 39725,
+      "newsTotal": 59176,
+      "recentToday": 22,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "레임덕 뜻, 유래부터 데드덕 차이까지 정리",
+          "link": "https://blog.naver.com/nsyncbye1004/224366752700",
+          "blogger": "즐거운 인플루언서 생활",
+          "date": "2026-08-03"
+        },
+        {
+          "title": "레임덕 뜻 왜 하필 오리일까? 재미있는 유래까지 총정리",
+          "link": "https://blog.naver.com/fds6051/224360039701",
+          "blogger": "옥냥의 육아 한스푼",
+          "date": "2026-07-28"
+        },
+        {
+          "title": "레임덕 뜻, 왜 절뚝거리는 오리일까? lame duck 유래",
+          "link": "https://blog.naver.com/sunzooland/224367525927",
+          "blogger": "La Vie En Rose",
+          "date": "2026-08-04"
+        },
+        {
+          "title": "레임덕 뜻 뭘까? 유래, 특징, 실제 사례, 정치 용어 알아보기",
+          "link": "https://blog.naver.com/ppmnm/224372160803",
+          "blogger": "하루 한 View",
+          "date": "2026-08-08"
+        },
+        {
+          "title": "레임덕 뜻 왜 자꾸 나올까요?",
+          "link": "https://blog.naver.com/babydreamer5/224359656159",
+          "blogger": "영어뉴스와 미드영어",
+          "date": "2026-07-27"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "정 “전북엔 560조 소·부·장 공장”…김 “호남 메가 1순위 추진”",
+          "link": "https://www.khan.co.kr/article/202608102113005",
+          "press": "",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "“정청래, 호남 경선서 득표율 앞자리 ‘3’ 찍을 수도”[정치를 부탁해...",
+          "link": "https://www.donga.com/news/Politics/article/all/20260810/134452363/1",
+          "press": "",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "李 대통령 '조기 레임덕' 워닝벨 울렸다 [오창균의 정치 기상대]",
+          "link": "https://www.newdaily.co.kr/site/data/html/2026/08/10/2026081000278.html",
+          "press": "",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "11일부터 호남 당원 투표 개시···김민석 “메가프로젝트 1순위 추진”...",
+          "link": "https://www.khan.co.kr/article/202608101912001",
+          "press": "",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "송영길 \"李대통령, 당청 관계에 잠 못 이룰 정도\"...'명청대전' 강조",
+          "link": "http://www.joseilbo.com/news/news_read.php?uid=573563&class=32&grp=",
+          "press": "",
+          "date": "2026-08-10"
+        }
+      ],
+      "rank": 6
     },
     {
       "keyword": "케스파컵",
       "traffic": "500+",
-      "blogTotal": 5850,
+      "blogTotal": 5855,
       "newsTotal": 4487,
       "recentToday": 17,
       "recentWeek": 100,
@@ -584,11 +511,11 @@
           "date": "2026-07-31"
         }
       ],
-      "rank": 8
+      "rank": 7
     },
     {
       "keyword": "김유재",
-      "traffic": "100+",
+      "traffic": "200+",
       "blogTotal": 2775,
       "newsTotal": 2259,
       "recentToday": 7,
@@ -657,7 +584,7 @@
           "date": "2026-08-05"
         }
       ],
-      "rank": 9
+      "rank": 8
     },
     {
       "keyword": "조원태",
@@ -728,6 +655,79 @@
           "link": "https://www.segye.com/newsView/20260807513025?OutUrl=naver",
           "press": "",
           "date": "2026-08-08"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "keyword": "한우",
+      "traffic": "500+",
+      "blogTotal": 8311343,
+      "newsTotal": 724224,
+      "recentToday": 0,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "부천 신중동 맛집 덕유산태극한우 1++ No.9 최상급 한우를 부천 최저....",
+          "link": "https://blog.naver.com/yoyon30/224369307815",
+          "blogger": "오늘 하루, 맛집 여행 살림",
+          "date": "2026-08-05"
+        },
+        {
+          "title": "포항 문덕 놀이방 식당 가성비 한우 추천 내돈내산 l 뿔난한우",
+          "link": "https://blog.naver.com/ansgml4196/224359505263",
+          "blogger": "포린이의 핫플탐험",
+          "date": "2026-07-28"
+        },
+        {
+          "title": "양산 한우 맛집 신전한우 점심특선 재방문후기｜산더미 한우불고기....",
+          "link": "https://blog.naver.com/lovehero1221/224364778402",
+          "blogger": "Bibim",
+          "date": "2026-08-02"
+        },
+        {
+          "title": "[내돈내산] 김포 한우 맛집 그랑한우 가격 총정리| 가족모임 장소 추....",
+          "link": "https://blog.naver.com/dlsdj275/224364307396",
+          "blogger": "행복로그",
+          "date": "2026-07-31"
+        },
+        {
+          "title": "[신사] 신사역 맛집 한우드림 신사점｜남자친구와 1000일 기념일에 ....",
+          "link": "https://blog.naver.com/yul081620/224360780744",
+          "blogger": "서울 고양이 일상 ≽^• ˕ • ྀི≼",
+          "date": "2026-07-28"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "[명경대] 맛집과 음주율",
+          "link": "https://www.kado.net/news/articleView.html?idxno=2065954",
+          "press": "",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "영월재향경우회 캠페인",
+          "link": "https://www.kado.net/news/articleView.html?idxno=2065906",
+          "press": "",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "\"토마토 맛·멋·둔내의 정 만끽하길…체류형 관광 축제로 도약\"",
+          "link": "https://www.kado.net/news/articleView.html?idxno=2065878",
+          "press": "",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "강 위에서 카약 타고 맥주 한잔… '2026 홍천강 물마실' 400여 명 몰리며...",
+          "link": "https://www.newscj.com/news/articleView.html?idxno=3424023",
+          "press": "",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "정읍시 '3·6·9 투어' 운영…타지역 도시민 '호응'",
+          "link": "http://www.jeonmin.co.kr/news/articleView.html?idxno=444963",
+          "press": "",
+          "date": "2026-08-10"
         }
       ],
       "rank": 10
