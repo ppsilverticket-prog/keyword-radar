@@ -1,12 +1,450 @@
 {
-  "updatedAt": "2026-08-10T08:57:57.219Z",
+  "updatedAt": "2026-08-10T10:20:52.931Z",
   "source": "live",
   "keywords": [
     {
+      "keyword": "후보",
+      "traffic": "2000+",
+      "blogTotal": 6394514,
+      "newsTotal": 11031693,
+      "recentToday": 100,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "2026 더불어민주당 전당대회 일정, 후보, 그리고 '선호투표제' 총정리",
+          "link": "https://blog.naver.com/simuean/224364985061",
+          "blogger": "in and out",
+          "date": "2026-08-01"
+        },
+        {
+          "title": "선호투표제란? 1순위 후보 탈락 후 표가 이동하는 방식",
+          "link": "https://blog.naver.com/fortune537/224347268080",
+          "blogger": "내가 보는 세상",
+          "date": "2026-07-15"
+        },
+        {
+          "title": "하정우 후보 배우자, 김수진 박사 프로필",
+          "link": "https://blog.naver.com/gwjun/224301417067",
+          "blogger": "사람과 정책",
+          "date": "2026-05-31"
+        },
+        {
+          "title": "주택공급대책 (+추가 후보지역 위치표시 +서울 주택공급대책 +주택....",
+          "link": "https://blog.naver.com/inbrein/224370930064",
+          "blogger": "이슈헤드샷",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "정몽규 사퇴..차기 축구협회 회장은 이 사람? 유력 후보 3인 중 가장 ....",
+          "link": "https://blog.naver.com/lovely0477/224338008657",
+          "blogger": "러블리여사 log",
+          "date": "2026-07-06"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "靑, 메가프로젝트 인허가 단축 ‘메가특구특별법’ 연내 제정 추진",
+          "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608101916052820502",
+          "press": "",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "靑 “메가특구특별법 연내 제정…광주 군공항 2028년 임시 배치”",
+          "link": "https://www.viva100.com/article/20260810501303",
+          "press": "",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "축구대표팀 임시감독 접수 마감…다음주 온라인 면접",
+          "link": "http://www.yonhapnewstv.co.kr/news/MYH20260810191812rU7",
+          "press": "",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "靑 \"연내 메가특구특별법 제정 추진해 각종 인허가 등 단축\"",
+          "link": "https://www.goodkyung.com/news/articleView.html?idxno=290138",
+          "press": "",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "“임신중지 전 태아 심장박동 들어라”…칠레서 임신중단 제한 논란",
+          "link": "https://www.hani.co.kr/arti/international/america/1272266.html",
+          "press": "",
+          "date": "2026-08-10"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "keyword": "국채",
+      "traffic": "200+",
+      "blogTotal": 1407229,
+      "newsTotal": 984862,
+      "recentToday": 100,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "국채선물 뜻과 거래 보는법! 금리 향방 쉽게 읽기",
+          "link": "https://blog.naver.com/vitamin2230/224356720055",
+          "blogger": "REONE P&I",
+          "date": "2026-07-30"
+        },
+        {
+          "title": "한국 국채 국고채 뜻 3년 10년 금리 차이는 무엇이며 채권시장은 어....",
+          "link": "https://blog.naver.com/nabbeneye2/224364948286",
+          "blogger": "깐따의 재테크",
+          "date": "2026-08-01"
+        },
+        {
+          "title": "\"미국 10년 국채금리 상승\" 주식 환율 대출 영향 정리",
+          "link": "https://blog.naver.com/gjwlh/224364824906",
+          "blogger": "한대디의 미국주식 이야기",
+          "date": "2026-08-01"
+        },
+        {
+          "title": "미국 단기국채에 투자할 수 있는 SGOV ETF 분석 (Feat. 환율)",
+          "link": "https://blog.naver.com/nunoslash77/224371459162",
+          "blogger": "이안의 경제 인사이트",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "파킹통장 대신, 월배당 주는 미국초단기국채 ETF",
+          "link": "https://blog.naver.com/youstina2000/224357368226",
+          "blogger": "코칭하는 회계사, 김예희",
+          "date": "2026-07-27"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "[亞증시-종합] 美금리 인상 전망 약화에 일제히 상승",
+          "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429443",
+          "press": "",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "‘천문학적 투자’ 빅테크 이자 압박 커져…재무부 “가용 수단 총동원...",
+          "link": "https://www.sedaily.com/article/20077827?ref=naver",
+          "press": "",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "30년물 국고채 금리 하루 6.3bp 올라 4.585%",
+          "link": "https://www.tokenpost.kr/news/market/387546",
+          "press": "",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "1년 IRS 1.50bp 상승, 초장기물 헤지 수요 반영",
+          "link": "https://www.tokenpost.kr/news/market/387544",
+          "press": "",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "['클릭' 증시] 종전 거부 이란·후티...중동 리스크 장기화",
+          "link": "http://www.00news.co.kr/news/articleView.html?idxno=105760",
+          "press": "",
+          "date": "2026-08-10"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "keyword": "한화그룹",
+      "traffic": "500+",
+      "blogTotal": 469957,
+      "newsTotal": 271359,
+      "recentToday": 100,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "김동관 한화 수석부회장 승진, 한화그룹 후계 구도 본격화와 향후 ....",
+          "link": "https://blog.naver.com/jungh3285/224364232615",
+          "blogger": "임소장 [여명의부동산.경제 연구소]",
+          "date": "2026-07-31"
+        },
+        {
+          "title": "한화그룹 3세 경영 시대 본격 시작! 세 아들 동반 승진, 앞으로 주목....",
+          "link": "https://blog.naver.com/james8516/224362917100",
+          "blogger": "경제지망생 님의블로그",
+          "date": "2026-07-30"
+        },
+        {
+          "title": "한화그룹, 김동관 수석부회장 승진… 미래사업·글로벌 확장 드라이....",
+          "link": "https://blog.naver.com/newsnanumy/224362799903",
+          "blogger": "나눔경제뉴스 공식 블로그",
+          "date": "2026-07-30"
+        },
+        {
+          "title": "한화그룹 승계구도 총정리! 김동관 중심으로 재편되는 한화의 미래",
+          "link": "https://blog.naver.com/carmania73/224354507573",
+          "blogger": "레트로 아저씨의 트렌드 읽기,경제부터 동네 소식까지",
+          "date": "2026-07-22"
+        },
+        {
+          "title": "한화 그룹 계열사 구조 총정리, 방산부터 금융까지 한 번에 이해하....",
+          "link": "https://blog.naver.com/chang0333/224359673951",
+          "blogger": "N잡하는 개창",
+          "date": "2026-07-27"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "[기업] 한화, KAI 지분 15% 넘겨...\"우주·항공 경쟁력↑\"",
+          "link": "https://www.ytn.co.kr/_ln/0102_202608101851236708",
+          "press": "",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "[산업 콕!] 한화의 KAI 베팅...K-방산 체급 확대 첫걸음",
+          "link": "http://www.00news.co.kr/news/articleView.html?idxno=105755",
+          "press": "",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "엔진 가진 한화, KAI 지분 15.89%까지…'완성체' 시너지 노린다",
+          "link": "https://www.bloter.net/news/articleView.html?idxno=670541",
+          "press": "",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "한화, KAI 지분 15.89% 확보…2대 주주로 경영 참여 확대",
+          "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=308643",
+          "press": "",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "한화, KAI 지분 15.89% 확보…우주·항공 통합 가속",
+          "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7178310",
+          "press": "",
+          "date": "2026-08-10"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "keyword": "남궁민",
+      "traffic": "1000+",
+      "blogTotal": 79767,
+      "newsTotal": 129349,
+      "recentToday": 100,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "대한민국 남자 배우 남궁민(프로필,스타일,작품활동 등)",
+          "link": "https://blog.naver.com/mistermy18/224359651580",
+          "blogger": "H2의 스포츠와 여행",
+          "date": "2026-07-27"
+        },
+        {
+          "title": "남궁민 진아름 득남 프로필 11세 나이 러브스토리 총정리",
+          "link": "https://blog.naver.com/echo90/224359616359",
+          "blogger": "동화같은 삶~!",
+          "date": "2026-07-27"
+        },
+        {
+          "title": "결혼의 완성 7회 줄거리, 남궁민 장광 배후 의심과 사라진 30억",
+          "link": "https://blog.naver.com/js2y86/224359856954",
+          "blogger": "덕빛's 드라마 필모그라피",
+          "date": "2026-07-28"
+        },
+        {
+          "title": "남궁민 실제 아내 누구 진아름 프로필 러브스토리 임신 소식 한눈에",
+          "link": "https://blog.naver.com/echo90/224343367623",
+          "blogger": "동화같은 삶~!",
+          "date": "2026-07-11"
+        },
+        {
+          "title": "남궁민 진아름 득남, 7년 열애부터 결혼 4년 만의 결실까지 총정리",
+          "link": "https://blog.naver.com/jedi750001/224359301403",
+          "blogger": "핫핫이슈",
+          "date": "2026-07-27"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "'결혼의 완성' 중심에 이상희가 있었다",
+          "link": "http://www.tvdaily.co.kr/read.php3?aid=17863524001797250002",
+          "press": "",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "KBS 사고 쳤다…'시청률 11.2%'→역대 최고 기록 달성하며 유종의 미 거...",
+          "link": "https://www.tvreport.co.kr/breaking/article/1067736/",
+          "press": "",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "‘결혼의 완성’ 이상희, 쏟아진 찬사…“빨리 또 보고싶다”",
+          "link": "https://sports.khan.co.kr/article/202608101706003?pt=nv",
+          "press": "",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "'결혼의 완성' 남궁민+이설, 이혼 엔딩-8.5% 정상",
+          "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=86235",
+          "press": "",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "남궁민 “‘결혼의 완성’ 뜻깊은 작품…강태주 오래 기억에 남을 것”",
+          "link": "https://sports.donga.com/ent/article/all/20260810/134451218/1",
+          "press": "",
+          "date": "2026-08-10"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "keyword": "기온",
+      "traffic": "1000+",
+      "blogTotal": 6531934,
+      "newsTotal": 2494024,
+      "recentToday": 100,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "전 세계 폭염인데 남극은 영하 84.1도…14년 만의 최저기온",
+          "link": "https://blog.naver.com/fortune537/224370003122",
+          "blogger": "내가 보는 세상",
+          "date": "2026-08-06"
+        },
+        {
+          "title": "미쓰이 가든 호텔 후쿠오카 기온  가성비 좋았던 숙박 후기!",
+          "link": "https://blog.naver.com/gh20002000/224359620483",
+          "blogger": "en reve cake 《✅》",
+          "date": "2026-07-28"
+        },
+        {
+          "title": "대구 스파밸리 아이와 다녀왔어요 낮기온 31도 물 차가웠던 현실후....",
+          "link": "https://blog.naver.com/cozyleej/224331188353",
+          "blogger": "유쾌한, 유용한 일상",
+          "date": "2026-06-30"
+        },
+        {
+          "title": "스페인 마드리드 여름 날씨 7월 8월 기온 옷차림 준비물",
+          "link": "https://blog.naver.com/jitothewon/224341890145",
+          "blogger": "원두콩은 여행 중",
+          "date": "2026-07-09"
+        },
+        {
+          "title": "기온쿼츠 레더쉴드 시공하고 한 달이 지난 상태는?",
+          "link": "https://blog.naver.com/lchw19/224326560257",
+          "blogger": "포토리의 즐거운 취미생활",
+          "date": "2026-06-25"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "[내일날씨] 폭염 벗어나자 가뭄 걱정…비소식 당분간 없어",
+          "link": "http://www.inews24.com/view/1993658",
+          "press": "",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "‘생명 위협’ 극한 폭염에도 문 활짝 열고 냉방···전력 사용 1.7배 '...",
+          "link": "http://www.mdilbo.com/detail/c3QycN/757863",
+          "press": "",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "\"펄펄 끓는데 갈 곳 없으니\"…지하철역·공항 찾는 노년층",
+          "link": "https://view.asiae.co.kr/article/2026081016371198812",
+          "press": "",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "15호 태풍 ‘찬홈’ 서진…더 더워진다?",
+          "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000544384",
+          "press": "",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "[날씨] 폭염특보 완화…한낮 33도 안팎 무더위 계속",
+          "link": "http://www.yonhapnewstv.co.kr/news/MYH20260810191354sQG",
+          "press": "",
+          "date": "2026-08-10"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "keyword": "도박",
+      "traffic": "1000+",
+      "blogTotal": 1548455,
+      "newsTotal": 567743,
+      "recentToday": 100,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "BJ 철구, 원정도박·불법사채 빚 수백억 고백… 오늘 경찰 자수 \"이자....",
+          "link": "https://blog.naver.com/minsimnews/224360159245",
+          "blogger": "민심뉴스",
+          "date": "2026-07-28"
+        },
+        {
+          "title": "BJ철구 근황 원정도박 불법사채 자수 총정리 세금체납까지",
+          "link": "https://blog.naver.com/wangmal90/224362715668",
+          "blogger": "살까말까",
+          "date": "2026-07-30"
+        },
+        {
+          "title": "BJ 철구 불법 원정도박·사채 인정…경찰 자수 선언, 무슨 일이 있었....",
+          "link": "https://blog.naver.com/chs3595/224360321781",
+          "blogger": "올리비아 아름다운 일상",
+          "date": "2026-07-28"
+        },
+        {
+          "title": "철구 원정도박 자수 선언, 지금까지 나온 사실",
+          "link": "https://blog.naver.com/alsb92/224361927067",
+          "blogger": "민쌤의 엔터 노트",
+          "date": "2026-07-29"
+        },
+        {
+          "title": "철구 도박 사건 완벽 정리 – 필리핀 원정도박·주 10억 탕진·사채빚....",
+          "link": "https://blog.naver.com/guri1326/224363261480",
+          "blogger": "직접 해보고 바뀐 건강과 수입 이야기",
+          "date": "2026-07-30"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "[교실 밖 생존교양] AI 챗봇, 사회성에 도움?…스마트폰·AI 중독 대처법",
+          "link": "http://news.ebs.co.kr/ebsnews/allView/60756701/N",
+          "press": "",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "광주경찰, 대포통장 107개로 5천억 세탁한 조직 적발",
+          "link": "https://www.namdonews.com/news/articleView.html?idxno=919630",
+          "press": "",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "‘수백개 대포통장’ 5천억대 불법도박 수익 흔적 지웠다",
+          "link": "http://www.jndn.com/article.php?aid=1786353430437591005",
+          "press": "",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "BJ 철구, 또다른 폭로 등장…\"다른 BJ 비리 정보 담보로 제시\"",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16159965",
+          "press": "",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "\"불법 도박수익 5천억, 대포통장 107개로 자금세탁\"",
+          "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000055819",
+          "press": "",
+          "date": "2026-08-10"
+        }
+      ],
+      "rank": 6
+    },
+    {
       "keyword": "이재명 지지율",
-      "traffic": "5000+",
-      "blogTotal": 154994,
-      "newsTotal": 227598,
+      "traffic": "10000+",
+      "blogTotal": 155032,
+      "newsTotal": 227617,
       "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
@@ -23,16 +461,16 @@
           "date": "2026-08-03"
         },
         {
-          "title": "\"20대가 하루아침에 등을 돌렸다\" 이재명 지지율 47.7%, 20대만 18.8%p 증....",
-          "link": "https://blog.naver.com/sonrea51/224370693252",
-          "blogger": "소소한 일상",
-          "date": "2026-08-07"
-        },
-        {
           "title": "2주연속 하락하는 \"이재명 대통령\"의 지지율..",
           "link": "https://blog.naver.com/wogus1514/224349664899",
           "blogger": "27분전",
           "date": "2026-07-17"
+        },
+        {
+          "title": "\"20대가 하루아침에 등을 돌렸다\" 이재명 지지율 47.7%, 20대만 18.8%p 증....",
+          "link": "https://blog.naver.com/sonrea51/224370693252",
+          "blogger": "소소한 일상",
+          "date": "2026-08-07"
         },
         {
           "title": "이재명 지지율 하락, 무속인 예언 \"이재명 얼마 못 가\"",
@@ -43,629 +481,191 @@
       ],
       "topNews": [
         {
-          "title": "국민의힘 \"국민포기정부…여야정 비상경제 시국회의 제안\"",
-          "link": "https://www.natv.go.kr/natv/news/newsView.do?newsId=513927",
+          "title": "'버스하우스' 황희, 간담회 취소하고 SNS 사과…국힘 \"청년 우롱, 석고대...",
+          "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5211538",
           "press": "",
           "date": "2026-08-10"
         },
         {
-          "title": "[뉴스브리핑] 폭염 한풀 꺾였지만…정치권은 여전히 '뜨거운 하루'",
-          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4100007",
+          "title": "이 대통령, 지지율 취임 후 최저…3대 메가프로젝트 올인 \"속도전 넘어...",
+          "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5211523",
           "press": "",
           "date": "2026-08-10"
         },
         {
-          "title": "'버스 하우스' 논란 황희 사과 \"청년 주거문제 깊이 헤아리지 못해\"",
-          "link": "https://www.imaeil.com/page/view/2026081017330813806",
+          "title": "이 대통령 지지율, 취임 후 최저…김어준 \"더 빠지면 안돼, 대처해야\"",
+          "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=04716646645546008",
           "press": "",
           "date": "2026-08-10"
         },
         {
-          "title": "[사설] 李 국정지지율 또 최저치, 정책 전반 돌아봐야",
-          "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2293685",
+          "title": "김어준, 李 지지율 4주째 하락에 \"코어 빠지고 있다…더는 안돼\"",
+          "link": "https://www.news1.kr/politics/assembly/6254724",
           "press": "",
           "date": "2026-08-10"
         },
         {
-          "title": "몰아치는 野…“국정 총체적 난맥, 靑 3실장·내각 전면 교체해야”",
-          "link": "https://www.busan.com/view/busan/view.php?code=2026081016415701109",
+          "title": "'소수 제1야당' 국민의힘, '좀비 체제' 벗어나 서울 재선거 승리 가능할...",
+          "link": "https://www.polinews.co.kr/news/articleView.html?idxno=739696",
           "press": "",
           "date": "2026-08-10"
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "keyword": "문어",
-      "traffic": "2000+",
-      "blogTotal": 3891181,
-      "newsTotal": 122157,
-      "recentToday": 100,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "[포항 낚시] 신항만 북방파제(뜬방) 돌문어 & 벵에돔 출조기! (이용 ....",
-          "link": "https://blog.naver.com/sisihi2311/224364982916",
-          "blogger": "소소한 일상 기록♡",
-          "date": "2026-08-01"
-        },
-        {
-          "title": "[2026년] 문어 워킹 낚시 리뷰",
-          "link": "https://blog.naver.com/wooni365/224366199869",
-          "blogger": "워킹으로 선상만큼",
-          "date": "2026-08-03"
-        },
-        {
-          "title": "문어 맛있게 먹는 방법   문어 데치기 매콤 두루치기 레시피",
-          "link": "https://blog.naver.com/isn56/224366264696",
-          "blogger": "리빙 생활",
-          "date": "2026-08-03"
-        },
-        {
-          "title": "밥솥레시피 문어솥밥 만들기, 실패 없는 초간단 해물솥밥",
-          "link": "https://blog.naver.com/danmijini84/224370491826",
-          "blogger": "단미지니의 소소한 일상기록",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "군자역 중곡동 맛집, 꼼장어랑 돌문어 숙회 같이 먹을 수 있는 곳 내....",
-          "link": "https://blog.naver.com/mtwt_woody/224367805437",
-          "blogger": "월화수목의 요일들 ʚïɞ.•*¨*•.¸¸♬",
-          "date": "2026-08-04"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "'생방송투데이' 산더미 철판 찜 맛집",
-          "link": "https://www.bntnews.co.kr/article/view/bnt202608100271",
-          "press": "",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "달랑 44마리 남은 호주 대왕갑오징어…독성 녹조로 몰살?",
-          "link": "https://www.newstree.kr/newsView/ntr202608100011",
-          "press": "",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "청주 세계쿠킹베이커리, 세계 3대 요리대회 필리핀 컬리너리컵서 금메달...",
-          "link": "https://dhnews.co.kr/news/view/1065593249436677",
-          "press": "",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "'8월에 사면 망하는 생선'과 '8월에 무조건 사야 하는 생선'의 정체",
-          "link": "https://www.wikitree.co.kr/articles/1151496",
-          "press": "",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "\"저녁메뉴로 딱\"…中 강타한 태풍 돌핀에 날아든 의문의 정체",
-          "link": "https://view.asiae.co.kr/article/2026081014365352922",
-          "press": "",
-          "date": "2026-08-10"
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "keyword": "가정폭력",
-      "traffic": "2000+",
-      "blogTotal": 1735367,
-      "newsTotal": 235403,
-      "recentToday": 100,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "가정폭력 여성쉼터 이용 방법과 입소 후 지원 혜택 총정리",
-          "link": "https://blog.naver.com/yo_yuri/224369815082",
-          "blogger": "여수엔딩님의 블로그",
-          "date": "2026-08-06"
-        },
-        {
-          "title": "황현주 아나운서 프로필과 가정폭력 피해 고백 근황",
-          "link": "https://blog.naver.com/freesine/224319088435",
-          "blogger": "프리사인의 블로그 입니다.",
-          "date": "2026-06-17"
-        },
-        {
-          "title": "이혼전문변호사 선임과 가정폭력 위자료 소송 비용은",
-          "link": "https://blog.naver.com/whaudrlekd/224361804758",
-          "blogger": "디지털노마드",
-          "date": "2026-07-29"
-        },
-        {
-          "title": "샤니아 트웨인의 기적 같은 극복! 15년 결혼 비결과 눈물겨운 가정폭....",
-          "link": "https://blog.naver.com/medic3939/224364537628",
-          "blogger": "실 생활에 유용한",
-          "date": "2026-08-01"
-        },
-        {
-          "title": "대전가정폭력변호사 법률상담으로 가정폭력이혼 대응해야 한다면",
-          "link": "https://blog.naver.com/kiaev1/224333890800",
-          "blogger": "자산 불리기 프로젝트",
-          "date": "2026-07-02"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "가정폭력 3건 중 2건 '부부간 폭력'",
-          "link": "https://www.lawtimes.co.kr/news/articleView.html?idxno=224634",
-          "press": "",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "애경산업, 가정폭력 보호시설에 생활용품·화장품 1200세트 지원",
-          "link": "https://www.mk.co.kr/article/12122991",
-          "press": "",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "애경산업, 가정폭력 피해자 일상 회복 돕는다…3억원 상당 지원",
-          "link": "http://www.fnnews.com/news/202608101633456629",
-          "press": "",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "애경산업, 가정폭력 피해자 보호시설에 3억원 상당 생활용품 지원",
-          "link": "https://www.womentimes.co.kr/news/articleView.html?idxno=105119",
-          "press": "",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "[오늘의 ESG] 애경산업·모나미·풀무원재단·한미그룹·남양유업",
-          "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=44120",
-          "press": "",
-          "date": "2026-08-10"
-        }
-      ],
-      "rank": 3
-    },
-    {
-      "keyword": "휴대 전화",
-      "traffic": "1000+",
-      "blogTotal": 14816270,
-      "newsTotal": 1506999,
-      "recentToday": 100,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "휴대폰 물에 빠졌을 때 대처법, 물 들어갔을때 충전",
-          "link": "https://blog.naver.com/akdnsxlds/224350881080",
-          "blogger": "돈되는 재테크 노트",
-          "date": "2026-07-21"
-        },
-        {
-          "title": "구미휴대폰성지 휴대폰파는총각 옥계점 구미휴대폰 싼 곳 추천",
-          "link": "https://blog.naver.com/o0ollv/224367195916",
-          "blogger": "소소한 일상 기록",
-          "date": "2026-08-03"
-        },
-        {
-          "title": "휴대폰성지 갤럭시 Z 폴드8 가격과 사전예약 혜택 총정리",
-          "link": "https://blog.naver.com/djusti/224362883870",
-          "blogger": "버들붕어 스토리",
-          "date": "2026-07-30"
-        },
-        {
-          "title": "일반 휴대폰 전화 착신전환 해제 KT, LG, SKT 설정 방법",
-          "link": "https://blog.naver.com/10310qw/224338778767",
-          "blogger": "테크리랜의 IT IN",
-          "date": "2026-07-07"
-        },
-        {
-          "title": "핸드폰개통대출 이용방법 주의점 필독사항! (ft.휴대폰)",
-          "link": "https://blog.naver.com/mvio11/224361983973",
-          "blogger": "푸하하의 이것저것",
-          "date": "2026-07-30"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "강미애 세종교육감 \"초3까지 태블릿PC 제한…AI 시대일수록 독서·인문학...",
-          "link": "https://cc.newdaily.co.kr/site/data/html/2026/08/10/2026081000266.html",
-          "press": "",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "[은행 뉴스브리핑] 농협금융 하반기 경영전략회의…'경영계획 리뷰' 실...",
-          "link": "https://www.asiatime.co.kr/article/20260810500365",
-          "press": "",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "대포통장으로 5000억 불법 세탁한 일당 검거",
-          "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260810010003259",
-          "press": "",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "통합 첫 수능 준비 본격화…광주·전남 시험지구 기존대로 운영",
-          "link": "http://www.gjdream.com/news/articleView.html?idxno=671722",
-          "press": "",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "축협 '심판 성접대' 의혹… 警, 수사 가능 여부 검토",
-          "link": "https://www.mk.co.kr/article/12123096",
-          "press": "",
-          "date": "2026-08-10"
-        }
-      ],
-      "rank": 4
-    },
-    {
-      "keyword": "new york times",
-      "traffic": "200+",
-      "blogTotal": 134435,
-      "newsTotal": 148570,
-      "recentToday": 45,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "[뉴욕/신혼여행] Home2 Suites by Hilton New York Times Square 타임스퀘어 부근 ....",
-          "link": "https://blog.naver.com/wkdwof/224216466569",
-          "blogger": "✨",
-          "date": "2026-03-14"
-        },
-        {
-          "title": "A timeline of Tesla Cybertruck problems",
-          "link": "https://www.fastcompany.com/91109879/a-timeline-of-tesla-cybertruck-problems-from-rust-to-hail-damage-to-pedal-recalls",
-          "blogger": "https://www.fastcompany.com/",
-          "date": "2025-03-20"
-        },
-        {
-          "title": "뉴욕 여행 맨해튼 호텔 추천 힐튼 가든 인 후기 센트럴파크 근처 가....",
-          "link": "https://blog.naver.com/heina0612/224220049311",
-          "blogger": "나다운 여행, 다움",
-          "date": "2026-03-17"
-        },
-        {
-          "title": "[뉴욕/신혼여행] 타임스퀘어 가성비 호텔 Home2 Suites by Hilton New York Tim....",
-          "link": "https://blog.naver.com/wkdwof/224215424573",
-          "blogger": "✨",
-          "date": "2026-03-13"
-        },
-        {
-          "title": "미국 이란 전쟁 후 한국방산이 뜨는 진짜 이유 .new york times 보고서 ....",
-          "link": "https://blog.naver.com/victory0133/224244319130",
-          "blogger": "달빛문학관",
-          "date": "2026-04-07"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "Spelling Bee Forum",
-          "link": "https://www.nytimes.com/2026/08/10/crosswords/spelling-bee-forum.html?partner=naver",
-          "press": "",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "Ben Jones, ‘Dukes of Hazzard’ Actor and Congressman, Dies at 84",
-          "link": "https://www.nytimes.com/2026/08/10/obituaries/ben-jones-dead.html?partner=naver",
-          "press": "",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "‘My Brilliant Career’ and 5 More Shows to Watch on TV This Week",
-          "link": "https://www.nytimes.com/2026/08/10/arts/television/my-brilliant-career-and-5-more-shows-to-watch-on-tv-this-week.html?partner=naver",
-          "press": "",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "What America Owes to Afghan Women",
-          "link": "https://www.nytimes.com/2026/08/10/opinion/afghanistan-women-america.html?partner=naver",
-          "press": "",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "Prepárate para el primer eclipse solar total en Europa en décadas",
-          "link": "https://www.nytimes.com/es/2026/08/10/espanol/preparate-para-el-primer-eclipse-solar-total-en-europa-en-decadas.html?partner=naver",
-          "press": "",
-          "date": "2026-08-10"
-        }
-      ],
-      "rank": 5
-    },
-    {
-      "keyword": "홍경민",
-      "traffic": "2000+",
-      "blogTotal": 34248,
-      "newsTotal": 60646,
-      "recentToday": 23,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "동상이몽 홍경민 아내 김유나 \"남편이 아이들 다 버려 놨다\" 육아 갈....",
-          "link": "https://blog.naver.com/lhswind2/224368621695",
-          "blogger": "우수아빠의 인생은",
-          "date": "2026-08-05"
-        },
-        {
-          "title": "'홍경민 김유나 부부' 교육관 갈등, 학원 및 용돈 문제와 대학진학까....",
-          "link": "https://blog.naver.com/pso164/224370801128",
-          "blogger": "과학커뮤니케이터 박종현",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "\"아내와의 우정이 흔들리고 있다\".. 동상이몽2 홍경민 아내 김유나, ....",
-          "link": "https://blog.naver.com/pan6606/224368937347",
-          "blogger": "아윌리치 Y",
-          "date": "2026-08-05"
-        },
-        {
-          "title": "동상이몽 홍경민 아내 김유나 10살연하  아이들다버려놨다 폭발 이....",
-          "link": "https://blog.naver.com/hbb17/224368461004",
-          "blogger": "15분전",
-          "date": "2026-08-05"
-        },
-        {
-          "title": "동상이몽 홍경민 집 어디 천호동 아파트 딸 라원 김치덮밥 레시피 30....",
-          "link": "https://blog.naver.com/buwok/224368391562",
-          "blogger": "소중한 시간들",
-          "date": "2026-08-05"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "홍경민, ♥10살 연하 아내 이 정도였어?…지하철 환승음 주인공 (동상이...",
-          "link": "https://sports.donga.com/ent/article/all/20260810/134451598/1",
-          "press": "",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "홍경민 아내 김유나, 한예종 교수+지하철 환승음 녹음",
-          "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=86240",
-          "press": "",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "홍경민 아내, 지하철 환승음 연주자였다…“서울대 박사, 한예종 출강”...",
-          "link": "https://isplus.com/article/view/isp202608100175",
-          "press": "",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "홍경민 아내 김유나, 지하철 환승음 ‘얼씨구야’ 연주자였다",
-          "link": "https://www.donga.com/news/Culture/article/all/20260810/134450406/2",
-          "press": "",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "'동상이몽2', 홍경민 \"국악 중고교·한예종 박사까지\"…10살 연하 아내 ...",
-          "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=545461",
-          "press": "",
-          "date": "2026-08-10"
-        }
-      ],
-      "rank": 6
-    },
-    {
-      "keyword": "로드리고 메시",
-      "traffic": "500+",
-      "blogTotal": 3313,
-      "newsTotal": 3124,
-      "recentToday": 8,
-      "recentWeek": 30,
-      "topBlogs": [
-        {
-          "title": "\"축구의 신 메시가 1등\" 미국 MLS 연봉 순위 TOP5, 손흥민은",
-          "link": "https://blog.naver.com/che05280/224356381839",
-          "blogger": "인사이드 필드ㅣ필드 위의 모든 스포츠",
-          "date": "2026-07-24"
-        },
-        {
-          "title": "메시 형 건들기만 해봐 경고 | 아르헨티나 에이스 호위무사들을 둘....",
-          "link": "https://blog.naver.com/tk12baek/224350405092",
-          "blogger": "왈왈~~~",
-          "date": "2026-07-18"
-        },
-        {
-          "title": "메시 MLS 올스타전 불참 확정, 이유·손흥민 출전·중계 시간 총정리",
-          "link": "https://blog.naver.com/zoom3998/224360771503",
-          "blogger": "운동을 연구하는 남자",
-          "date": "2026-07-28"
-        },
-        {
-          "title": "MLS 손흥민 연봉은 얼마? 메시와 비교해 보니 이 정도일 줄은 몰랐네.....",
-          "link": "https://blog.naver.com/pjh1752/224361534016",
-          "blogger": "스포팅리포트",
-          "date": "2026-07-29"
-        },
-        {
-          "title": "아르헨티나 축구 선수 로드리고 데 파울(프로필,스타일,경력 등)",
-          "link": "https://blog.naver.com/mistermy18/224351566400",
-          "blogger": "H2의 스포츠와 여행",
-          "date": "2026-07-20"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "바르셀로나도 PSG도 마이애미도 함께였다...메시, '평생의 에이전트' 아...",
-          "link": "http://www.osen.co.kr/article/G1112854658",
-          "press": "",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "메시, 정신적 지주인 아버지와 마지막 인사 전했다",
-          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3660268",
-          "press": "",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "메시 아버지 별세, 몰려든 기자들에 욕설로 분노한 메시 형…고향 이웃...",
-          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=833822",
-          "press": "",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "'세계 축구계가 슬픔에 빠졌다...' 메시 아버지 장례식 참여, 바르셀로...",
-          "link": "https://www.starnewskorea.com/sports/2026/08/10/2026081007303712760",
-          "press": "",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "'메시도 누군가의 아들이었다' 월드컵서 눈물 '아버지 부고'로 힘든 시...",
-          "link": "https://www.sportschosun.com/football/2026-08-10/202608100100052510003280",
-          "press": "",
-          "date": "2026-08-09"
         }
       ],
       "rank": 7
     },
     {
-      "keyword": "twitch",
-      "traffic": "200+",
-      "blogTotal": 39947,
-      "newsTotal": 8021,
-      "recentToday": 8,
-      "recentWeek": 86,
+      "keyword": "김지원",
+      "traffic": "500+",
+      "blogTotal": 162572,
+      "newsTotal": 156703,
+      "recentToday": 88,
+      "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "운동생리학 ⑭ 속근과 지근 (Fast Twitch vs Slow Twitch)",
-          "link": "https://blog.naver.com/vulture_kbh/224315472522",
-          "blogger": "Vulture_KBH",
+          "title": "11년 전 유라헬 소환했다... 김지원이 앞머리로 완성한 동안 분위기",
+          "link": "https://blog.naver.com/flqgmscjd/224370612641",
+          "blogger": "레이어리",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "오늘자 김지원이 들어서 난리난 루이비통 신상가방",
+          "link": "https://blog.naver.com/suzin_y/224369787872",
+          "blogger": "호뇨의 패션 블로그",
+          "date": "2026-08-06"
+        },
+        {
+          "title": "얼굴 크기 실화?! 김지원 앤 해서웨이 투샷 인터넷 난리난 이유 (독....",
+          "link": "https://blog.naver.com/treewg/224228778525",
+          "blogger": "나무처럼",
+          "date": "2026-03-25"
+        },
+        {
+          "title": "볼살 쏙 빠져서 소두 인증하더니... 분위기 싹 바뀐 김지원 단발 레....",
+          "link": "https://blog.naver.com/minariari/224315396040",
+          "blogger": "데이민 Day min",
           "date": "2026-06-14"
         },
         {
-          "title": "포토샵 우주 배경 그리기",
-          "link": "https://lioicreim.tistory.com/62",
-          "blogger": "3DNote, 캐릭터모델러 노트",
-          "date": "2019-08-12"
-        },
-        {
-          "title": "[모모 88] 구형벤츠를 신형처럼 세차하는 나 | 👃케인님 버전",
-          "link": "https://kanetv.tistory.com/3262",
-          "blogger": "케인TV",
-          "date": "2020-10-04"
-        },
-        {
-          "title": "CloudFlare Pages 소개 - hi098123",
-          "link": "https://hi098123.tistory.com/477",
-          "blogger": "hi098123 - hi098123",
-          "date": "2022-04-08"
-        },
-        {
-          "title": "[케인] 불쌍맨들과 알까기 대전 210209",
-          "link": "https://kanetv.tistory.com/3440",
-          "blogger": "케인TV",
-          "date": "2021-02-11"
+          "title": "뼈말라 김지원 단발 얼굴 작아 보이는 방법 어울리는 얼굴형 헤어스....",
+          "link": "https://blog.naver.com/sudden4082/224316287540",
+          "blogger": "❤️뷰티 인플루언서 ❤️",
+          "date": "2026-06-15"
         }
       ],
       "topNews": [
         {
-          "title": "Fact-Checking 3 Competitive Senate Races in Maine, Michigan and Ohio",
-          "link": "https://www.nytimes.com/2026/08/08/us/politics/fact-check-candidates-maine-michigan-ohio.html?partner=naver",
+          "title": "8월11일 알림",
+          "link": "https://www.hani.co.kr/arti/society/ngo/1272263.html",
           "press": "",
-          "date": "2026-08-08"
+          "date": "2026-08-10"
         },
         {
-          "title": "엔비디아 '퀘이크콘'서 경품 이벤트와 '퀘이크콘 모드 콘테스트' 개최",
-          "link": "https://gamefocus.co.kr/detail.php?number=178008",
+          "title": "'데뷔 25주년' 뮤지컬 배우 김소향의 향기",
+          "link": "https://www.nc.press/news/articleView.html?idxno=623276",
           "press": "",
-          "date": "2026-08-05"
+          "date": "2026-08-10"
         },
         {
-          "title": "마상소프트 '건즈' 현대적으로 재해석한 'GunZ: The Duel Remastered' 14일 ...",
-          "link": "https://gamefocus.co.kr/detail.php?number=178009",
+          "title": "여주서 30대 외국인 계절근로자 숨져…온열질환 등 사인 조사 중(종합)",
+          "link": "https://www.yna.co.kr/view/AKR20260810066451061?input=1195m",
           "press": "",
-          "date": "2026-08-05"
+          "date": "2026-08-10"
         },
         {
-          "title": "The Internet Suddenly Loves Emeril, Years After His TV Stardom",
-          "link": "https://www.nytimes.com/2026/07/29/dining/emeril-lagasse.html?partner=naver",
+          "title": "하영 증조부 친일 의혹·정연 JYP 떠난다·김지원 1억 기부…오늘 연예...",
+          "link": "https://sports.khan.co.kr/article/202608101757003?pt=nv",
           "press": "",
-          "date": "2026-07-29"
+          "date": "2026-08-10"
         },
         {
-          "title": "\"생일파티가 순식간에 전쟁터로\"…美 유명 스트리머 행사서 총격, 1명 사...",
-          "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=389052",
+          "title": "\"드라마 촬영 중 환아 사연 접해\" 김지원, 어린이병원에 1억 기부",
+          "link": "https://www.tvreport.co.kr/star/article/1067749/",
           "press": "",
-          "date": "2026-07-28"
+          "date": "2026-08-10"
         }
       ],
       "rank": 8
     },
     {
-      "keyword": "브루노 페르난데스",
-      "traffic": "500+",
-      "blogTotal": 22383,
-      "newsTotal": 25411,
-      "recentToday": 6,
-      "recentWeek": 78,
+      "keyword": "조주빈",
+      "traffic": "100+",
+      "blogTotal": 16044,
+      "newsTotal": 30216,
+      "recentToday": 21,
+      "recentWeek": 28,
       "topBlogs": [
         {
-          "title": "맨유, 브루노 페르난데스를 반드시 붙잡는다 잔류 의지 직접 통보 ....",
-          "link": "https://blog.naver.com/ssuggest/224270152488",
-          "blogger": "영군의 즐거운 세상",
-          "date": "2026-04-30"
+          "title": "‘박사방’ 조주빈, 이미 형이 확정됐는데 무엇을 다시 다투려 했나",
+          "link": "https://blog.naver.com/if__if/224373924978",
+          "blogger": "IF",
+          "date": "2026-08-10"
         },
         {
-          "title": "\"앙리, 덕배 비켜!\" 맨유 브루노 페르난데스, EPL 역사상 단일 시즌 최....",
-          "link": "https://blog.naver.com/football_goat/224295989529",
-          "blogger": "스포츠를 생각하는 축보트",
-          "date": "2026-05-25"
+          "title": "‘징역 47년’ 조주빈, 형량 줄이려 했지만 결국 기각",
+          "link": "https://blog.naver.com/hyejung_12/224373917349",
+          "blogger": "랭킹뉴스 모아보기",
+          "date": "2026-08-10"
         },
         {
-          "title": "브루노 페르난데스, 베컴을 넘어섰다... 맨유 단일 시즌 최다 도움 ....",
-          "link": "https://blog.naver.com/ssuggest/224217920356",
-          "blogger": "영군의 즐거운 세상",
-          "date": "2026-03-16"
+          "title": "조주빈이랑 3주 동안 같은 방 썼다 (서울구치소 수용자 목격담)",
+          "link": "https://blog.naver.com/soirmatin/224273438466",
+          "blogger": "나티, 세상이 궁금해",
+          "date": "2026-05-03"
         },
         {
-          "title": "\"형이랑 같이하자!\" 호날두의 러브콜, 브루노 페르난데스 설득당해 ....",
-          "link": "https://blog.naver.com/420yskkk/224360885639",
-          "blogger": "소소한일상 그리고 소소한운동",
-          "date": "2026-07-29"
+          "title": "'징역 47년 4개월' 조주빈, 감형 노렸지만…헌재 판단은?",
+          "link": "https://blog.naver.com/park_9333/224373729900",
+          "blogger": "Barum +",
+          "date": "2026-08-10"
         },
         {
-          "title": "갈라타사라이, 브루노 페르난데스 영입 추진…맨유 주장에게 대형 ....",
-          "link": "https://blog.naver.com/ssuggest/224335045793",
-          "blogger": "영군의 즐거운 세상",
-          "date": "2026-07-03"
+          "title": "N번방 주범 조주빈 누구인가? 징역 47년 판결과 교도소 근황 논란",
+          "link": "https://blog.naver.com/em486love/224211227824",
+          "blogger": "로미의 보석상자",
+          "date": "2026-03-10"
         }
       ],
       "topNews": [
         {
-          "title": "초대박이다! 맨체스터 유나이티드 '캡틴 브페' 장기 후계자 낙점, '18골...",
-          "link": "https://www.mydaily.co.kr/page/view/2026081001184100019",
+          "title": "‘징역 47년’ 조주빈, 성폭행 감형 노렸지만…헌법소원 기각",
+          "link": "https://www.donga.com/news/Society/article/all/20260810/134451817/1",
           "press": "",
-          "date": "2026-08-09"
+          "date": "2026-08-10"
         },
         {
-          "title": "\"왜 이제야 데려온 거야!\" 맨체스터 유나이티드 '666억 신입생' 제대로 ...",
-          "link": "https://mhnse.com/news/articleView.html?idxno=1484387",
+          "title": "'징역 47년' 조주빈, 감형 받으려 헌법소원 냈지만 기각",
+          "link": "http://www.yonhapnewstv.co.kr/news/MYH20260810165336uyo",
           "press": "",
-          "date": "2026-08-09"
+          "date": "2026-08-10"
         },
         {
-          "title": "경기 수 눈덩이처럼 늘어나는데...맨유, 파격 결단! 브루노 대체자·백업...",
-          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=692163",
+          "title": "'성폭행 감형' 노린 조주빈의 시도… 대법 이어 헌재서도 기각됐다",
+          "link": "https://www.hankookilbo.com/news/article/A2026081013420004082?did=NA",
           "press": "",
-          "date": "2026-08-09"
+          "date": "2026-08-10"
         },
         {
-          "title": "1년 8개월 만에 맨유 유니폼 입는다...캐릭 \"래시포드, 리즈와 친선 경기...",
-          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=692159",
+          "title": "징역 47년 '박사방' 조주빈, 성폭행 감형 노렸지만…헌법소원 기각",
+          "link": "https://www.hankyung.com/article/2026081047137",
           "press": "",
-          "date": "2026-08-09"
+          "date": "2026-08-10"
         },
         {
-          "title": "퍼디난드도 대만족! \"맨유가 프리미어리그에서 가장 강력한 중원 보유\"",
-          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=692147",
+          "title": "'78세 출소' 조주빈, 헌법소원 냈으나 기각",
+          "link": "https://www.ggilbo.com/news/articleView.html?idxno=1174537",
           "press": "",
-          "date": "2026-08-09"
+          "date": "2026-08-10"
         }
       ],
       "rank": 9
     },
     {
       "keyword": "권영찬",
-      "traffic": "500+",
-      "blogTotal": 11340,
-      "newsTotal": 21438,
-      "recentToday": 1,
-      "recentWeek": 5,
+      "traffic": "1000+",
+      "blogTotal": 11355,
+      "newsTotal": 21449,
+      "recentToday": 16,
+      "recentWeek": 20,
       "topBlogs": [
         {
           "title": "박사학위를 받은 연예인 TOP 5 배종옥 이윤석 김연주 궁선영 권영찬",
@@ -700,32 +700,32 @@
       ],
       "topNews": [
         {
-          "title": "김수현 팬들에 고발당한 권영찬 “90% 이상 불송치, 일부 송치” 입장",
-          "link": "https://www.newsen.com/news_view.php?uid=202608101725561910",
+          "title": "권영찬, 김수현 관련 허위사실 유포 혐의로 검찰行",
+          "link": "http://www.stoo.com/article.php?aid=108260666465",
           "press": "",
           "date": "2026-08-10"
         },
         {
-          "title": "김수현 팬들에게 고발당한 개그맨 출신 유튜버 檢 송치",
-          "link": "https://www.chosun.com/national/national_general/2026/08/10/SRBZK2Q2XRBDXMN3T56ANWTJB4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+          "title": "개그맨 출신 유튜버, '김수현 명예훼손' 사건 일부 송치",
+          "link": "https://www.slist.kr/news/articleView.html?idxno=757906",
           "press": "",
           "date": "2026-08-10"
         },
         {
-          "title": "“김수현 명예훼손” 팬들이 고발했다…유튜버 권영찬 검찰 송치",
-          "link": "https://www.joongang.co.kr/article/25452202",
+          "title": "유튜버 권영찬, 배우 김수현 명예훼손 혐의로 송치",
+          "link": "https://www.hankyung.com/article/2026081052137",
           "press": "",
           "date": "2026-08-10"
         },
         {
-          "title": "개그맨 출신 유튜버 권영찬 ‘김수현 명예훼손’ 檢송치…“비방 목적...",
-          "link": "https://biz.heraldcorp.com/article/10836421?ref=naver",
+          "title": "前 개그맨 권영찬, 김수현 명예훼손 검찰 송치",
+          "link": "http://www.tvdaily.co.kr/read.php3?aid=17863543981797260002",
           "press": "",
           "date": "2026-08-10"
         },
         {
-          "title": "코미디언 출신 유튜버, 김수현 명예훼손 혐의로 송치",
-          "link": "https://www.yna.co.kr/view/AKR20260810131200004?input=1195m",
+          "title": "개그맨 출신 유튜버, '김수현 명예훼손' 일부 송치",
+          "link": "http://www.inews24.com/view/1993637",
           "press": "",
           "date": "2026-08-10"
         }
