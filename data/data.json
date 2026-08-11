@@ -1,13 +1,305 @@
 {
-  "updatedAt": "2026-08-11T14:20:59.701Z",
+  "updatedAt": "2026-08-11T15:28:40.910Z",
   "source": "live",
   "keywords": [
     {
-      "keyword": "테이",
-      "traffic": "100+",
-      "blogTotal": 648621,
-      "newsTotal": 73850,
+      "keyword": "갈소원",
+      "traffic": "200+",
+      "blogTotal": 9575,
+      "newsTotal": 15269,
       "recentToday": 100,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "\"예승이 맞아?\" 7번방의 선물 갈소원, 21세 숙녀로 폭풍 성장한 근황",
+          "link": "https://blog.naver.com/chbnwj/224374787812",
+          "blogger": "딸기라떼",
+          "date": "2026-08-11"
+        },
+        {
+          "title": "[갈소원 프로필] 7번방의 선물 예승이 벌써 만 19세? 갈소원 근황 공....",
+          "link": "https://blog.naver.com/zioziaaa/224307889408",
+          "blogger": "형곡동 영수학원054)455 9885",
+          "date": "2026-06-06"
+        },
+        {
+          "title": "\"영화 7번방의 선물, 예승이라고?..\" 훌쩍 커버린 갈소원 현재 모습 ....",
+          "link": "https://blog.naver.com/jhjhyj777/224375120172",
+          "blogger": "Star, 보석처럼 빛나는",
+          "date": "2026-08-11"
+        },
+        {
+          "title": "7번방의 선물 예승이 갈소원 근황, 벌써 이렇게 컸다고? 21세 된 모습....",
+          "link": "https://blog.naver.com/dhjh0509/224374847090",
+          "blogger": "DAHiary",
+          "date": "2026-08-11"
+        },
+        {
+          "title": "예승이의 눈부신 성장, 갈소원 21살 성숙미·동행 남자 깜짝 포착",
+          "link": "https://blog.naver.com/ledeye01/224374577690",
+          "blogger": "로아의 정신줄 가출기",
+          "date": "2026-08-11"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "'7번방의 선물' 예승이 맞아? 못 알아볼 뻔…갈소원, 폭풍 성장→놀라운...",
+          "link": "https://www.tvreport.co.kr/broadcast/article/1068018/",
+          "press": "",
+          "date": "2026-08-11"
+        },
+        {
+          "title": "'21세 배우' 갈소원 \"7번방 선물 예승이, 기억해주시면 감사해\"",
+          "link": "https://ent.sbs.co.kr/news/article.do?article_id=E10010320464&plink=ORI&cooper=NAVER",
+          "press": "",
+          "date": "2026-08-11"
+        },
+        {
+          "title": "갈소원, 아무도 못 알아볼 만…'7번방의 선물' 예승이 놀라운 폭풍성장...",
+          "link": "https://www.xportsnews.com/article/2182305",
+          "press": "",
+          "date": "2026-08-11"
+        },
+        {
+          "title": "'7번방' 예승이, 20살 됐다...성숙해진 미모에 '술렁' \"예쁘게 잘컸다\"",
+          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1001223",
+          "press": "",
+          "date": "2026-08-11"
+        },
+        {
+          "title": "'7번방의 선물 예승이' 갈소원 21세 근황...'여기'에서 깜짝 포착",
+          "link": "https://www.wikitree.co.kr/articles/1151667",
+          "press": "",
+          "date": "2026-08-11"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "keyword": "넥슨",
+      "traffic": "2000+",
+      "blogTotal": 448496,
+      "newsTotal": 573069,
+      "recentToday": 97,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "오버워치 넥슨 서비스 시작, 계정 연동 꼭 해야 할까? 스팀 변경까지....",
+          "link": "https://blog.naver.com/ldkboaz/224371467269",
+          "blogger": "코댕의 세상",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "넥슨 오버워치 데이 일정 장소 사전참가신청방법 코스프레참가신청....",
+          "link": "https://blog.naver.com/alfson/224366546059",
+          "blogger": "앤바나",
+          "date": "2026-08-03"
+        },
+        {
+          "title": "오버워치 넥슨 서비스 오픈일 계정 연동 방법 및 보상",
+          "link": "https://blog.naver.com/leejt6614/224368666284",
+          "blogger": "에라라",
+          "date": "2026-08-05"
+        },
+        {
+          "title": "오버워치 넥슨 계정 연동 시작, 보상도 지급된다?",
+          "link": "https://blog.naver.com/rlarjsdn5589/224339566653",
+          "blogger": "크위스의 게임 블로그",
+          "date": "2026-07-07"
+        },
+        {
+          "title": "오버워치 넥슨 연동 방법 신화 프리즘 스킨 보상 챙기는 순서",
+          "link": "https://blog.naver.com/jisu7820/224346256129",
+          "blogger": "소중한 반려견과의 일상",
+          "date": "2026-07-14"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "넥슨표 ‘오버워치’ 서비스 개시… 제2 전성기 이끌까",
+          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000002351&cp=nv",
+          "press": "",
+          "date": "2026-08-11"
+        },
+        {
+          "title": "네오플, '던전앤파이터'의 라이브 서비스 인력 집중 채용",
+          "link": "http://www.maniareport.com/view.php?ud=202608111739418188cecffa9387_19",
+          "press": "",
+          "date": "2026-08-11"
+        },
+        {
+          "title": "게임과 유저 오프라인 스킨십, 선택 아닌 '필수'",
+          "link": "https://www.gameple.co.kr/news/articleView.html?idxno=216230",
+          "press": "",
+          "date": "2026-08-11"
+        },
+        {
+          "title": "T1 김유민, 풀세트 접전 끝에 DNS 박지민 제압…8강 진출 성공 (FSL 서머...",
+          "link": "https://www.xportsnews.com/article/2182547",
+          "press": "",
+          "date": "2026-08-11"
+        },
+        {
+          "title": "“크아 없어지지 마”…어른이 된 2030들의 마지막 접속 [이런뉴스]",
+          "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8634317&ref=A",
+          "press": "",
+          "date": "2026-08-11"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "keyword": "유성우",
+      "traffic": "500+",
+      "blogTotal": 41375,
+      "newsTotal": 9846,
+      "recentToday": 96,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "2026 별똥별 페르세우스 유성우 관측 우주쇼 이번 놓치면 3년 기다림?....",
+          "link": "https://blog.naver.com/ps90002/224369056144",
+          "blogger": "아비부의 JOB블로그",
+          "date": "2026-08-05"
+        },
+        {
+          "title": "페르세우스 유성우 관측 장소 10곳, 새벽 나들이 코스",
+          "link": "https://blog.naver.com/nnasaeun/224369166559",
+          "blogger": "데이트 플래너",
+          "date": "2026-08-05"
+        },
+        {
+          "title": "2026 페르세우스 유성우 관측시간 8월 13일 14일 별똥별 쏟아지는 밤",
+          "link": "https://blog.naver.com/withcoffee24/224369181394",
+          "blogger": "히스토리아",
+          "date": "2026-08-05"
+        },
+        {
+          "title": "2026 페르세우스 유성우 8월 12~14일 절정! 별똥별 언제·어디서 봐야 ....",
+          "link": "https://blog.naver.com/life2331/224368362152",
+          "blogger": "오늘의발견",
+          "date": "2026-08-05"
+        },
+        {
+          "title": "제주 여름밤을 수놓는 페르세우스 유성우! 2026 별똥별 관측 명소와 ....",
+          "link": "https://blog.naver.com/0hio5/224368797759",
+          "blogger": "제주가족여행연구소",
+          "date": "2026-08-05"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "'2026 페르세우스 유성우' 관측 시간은? 뜻과 행사 확인하세요",
+          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3662048",
+          "press": "",
+          "date": "2026-08-11"
+        },
+        {
+          "title": "군포시 누리천문대, 밤하늘 쏟아지는 '우주 쇼' 안내서…유성우 특별강...",
+          "link": "https://www.cnbnews.com/news/articleView.html?idxno=1011187",
+          "press": "",
+          "date": "2026-08-11"
+        },
+        {
+          "title": "서대문자연사박물관, 별똥별 쇼 유튜브 생중계",
+          "link": "https://news.skbroadband.com/news/articleView.html?idxno=234722",
+          "press": "",
+          "date": "2026-08-11"
+        },
+        {
+          "title": "여름밤 수놓는 유성우…시간당 100개 별빛쇼",
+          "link": "http://www.yonhapnewstv.co.kr/news/MYH20260811172355qAo",
+          "press": "",
+          "date": "2026-08-11"
+        },
+        {
+          "title": "군포시, 유성우 관측강좌부터 무더위쉼터까지 여름철 시민 지원 강화",
+          "link": "http://www.queen.co.kr/news/articleView.html?idxno=461596",
+          "press": "",
+          "date": "2026-08-11"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "keyword": "진수 화",
+      "traffic": "500+",
+      "blogTotal": 322286,
+      "newsTotal": 5924,
+      "recentToday": 94,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "컴퓨터의 언어, 진수 변환! 이제 더 이상 어렵게 생각하지 마세요!",
+          "link": "https://blog.naver.com/mayjung/224355668037",
+          "blogger": "정샘컴_메이정",
+          "date": "2026-07-23"
+        },
+        {
+          "title": "[알라딘서재][100자평] 잘가요 내사랑, 안녕",
+          "link": "https://blog.aladin.co.kr/731925164/6541310",
+          "blogger": "https://blog.aladin.co.kr/",
+          "date": "2013-08-22"
+        },
+        {
+          "title": "SWEA 5653번: [모의 SW 역량테스트] 줄기세포 배양하기",
+          "link": "https://2jinishappy.tistory.com/63",
+          "blogger": "2JINISHAPPY :: 2JINISHAPPY",
+          "date": "2020-04-22"
+        },
+        {
+          "title": "[알라딘서재][100자평] Alan Walker - 정규 1집 Different World",
+          "link": "https://blog.aladin.co.kr/700840123/11682170",
+          "blogger": "https://blog.aladin.co.kr/",
+          "date": "2020-04-28"
+        },
+        {
+          "title": "[ESLint es6] JavaScript 이해하기 2 최선의 예제",
+          "link": "https://codingcoding.tistory.com/1252",
+          "blogger": "코딩 기록",
+          "date": "2019-12-20"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "정해인, 순정 고백 또 터졌다…공개되자마자 넷플릭스 글로벌 2위 오른...",
+          "link": "https://www.heraldmuse.com/article/10835501?ref=naver",
+          "press": "",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "오르가니스트 오세은, 11일 프랑스 '제24회 국제 오르간 페스티벌' 초청...",
+          "link": "http://www.beyondpost.co.kr/view.php?ud=20260809222814603492e75d13a3_30",
+          "press": "",
+          "date": "2026-08-09"
+        },
+        {
+          "title": "[포토] 송파구, 해피 썸머타임 콘서트 & 월드 플라멩코 페스티벌",
+          "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=02679766645545680",
+          "press": "",
+          "date": "2026-08-09"
+        },
+        {
+          "title": "송파구민 무료...송파구, 롯데콘서트홀에서 '2026 해피 썸머타임 콘서트...",
+          "link": "https://www.cnbizm.com/news/articleView.html?idxno=310963",
+          "press": "",
+          "date": "2026-08-09"
+        },
+        {
+          "title": "송파구, 25일 썸머타임 콘서트",
+          "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160285329886343",
+          "press": "",
+          "date": "2026-08-09"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "keyword": "테이",
+      "traffic": "200+",
+      "blogTotal": 648631,
+      "newsTotal": 73850,
+      "recentToday": 94,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -49,7 +341,7 @@
           "date": "2026-08-11"
         },
         {
-          "title": "테이 \"친형 같던 매니저 사망한 뒤 3년간 활동 중단… 감정 외면\" ('플리...",
+          "title": "테이 \"친형 같던 매니저 사망한 뒤 3년간 활동 중단… 감정 피해 다녀\" ...",
           "link": "https://www.tvreport.co.kr/broadcast/article/1068103/",
           "press": "",
           "date": "2026-08-11"
@@ -73,14 +365,14 @@
           "date": "2026-08-11"
         }
       ],
-      "rank": 1
+      "rank": 5
     },
     {
       "keyword": "정호연",
       "traffic": "200+",
-      "blogTotal": 46366,
-      "newsTotal": 40498,
-      "recentToday": 100,
+      "blogTotal": 46400,
+      "newsTotal": 40503,
+      "recentToday": 87,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -116,324 +408,32 @@
       ],
       "topNews": [
         {
-          "title": "'틈만나면,' 황정민 \"모든 사람이 욱하지 말라고\"",
-          "link": "http://enews.imbc.com/News/RetrieveNewsInfo/514461",
+          "title": "‘사생활 논란’ 황정민, ‘틈만나면’ 無편집 등장…결혼반지 끼고 ‘...",
+          "link": "https://sports.donga.com/ent/article/all/20260812/134461629/1",
           "press": "",
           "date": "2026-08-11"
         },
         {
-          "title": "정호연, '호프2' 셀프 투자 유치…\"배우 스케줄·제작비 문제\" ('틈만나...",
-          "link": "https://www.tenasia.co.kr/article/2026081153544",
+          "title": "'틈만나면' 정호연, \"'호프2' 보고 싶으면 투자해주세요\"···깜짝 '투자...",
+          "link": "https://ent.sbs.co.kr/news/article.do?article_id=E10010320478&plink=ORI&cooper=NAVER",
           "press": "",
           "date": "2026-08-11"
         },
         {
-          "title": "'사생활 논란' 황정민, 결혼 반지 끼고 홍보 나서…'무편집' 등장",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16160921",
+          "title": "황정민, 사생활 피해 속 '틈만 나면' 출연…\"욱하지 말라더라\"",
+          "link": "https://www.newsis.com/view/NISX20260811_0003745214",
           "press": "",
           "date": "2026-08-11"
         },
         {
-          "title": "'틈만나면', 황정민 잘 넘겼는데 하영으로 또 애매해질 뻔..정해인x허성...",
-          "link": "https://www.starnewskorea.com/broadcast-show/2026/08/11/2026081122483730004",
+          "title": "'틈만나면' 황정민, \"게임하는 게스트들 너무 답답해···다들 화내지 ...",
+          "link": "https://ent.sbs.co.kr/news/article.do?article_id=E10010320477&plink=ORI&cooper=NAVER",
           "press": "",
           "date": "2026-08-11"
         },
         {
-          "title": "'사생활 논란' 황정민, 왼손 약지에 결혼 반지 끼고 출연 \"공중파 처음 ...",
-          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1001385",
-          "press": "",
-          "date": "2026-08-11"
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "keyword": "갈소원",
-      "traffic": "200+",
-      "blogTotal": 9571,
-      "newsTotal": 15269,
-      "recentToday": 100,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "\"예승이 맞아?\" 7번방의 선물 갈소원, 21세 숙녀로 폭풍 성장한 근황",
-          "link": "https://blog.naver.com/chbnwj/224374787812",
-          "blogger": "딸기라떼",
-          "date": "2026-08-11"
-        },
-        {
-          "title": "[갈소원 프로필] 7번방의 선물 예승이 벌써 만 19세? 갈소원 근황 공....",
-          "link": "https://blog.naver.com/zioziaaa/224307889408",
-          "blogger": "형곡동 영수학원054)455 9885",
-          "date": "2026-06-06"
-        },
-        {
-          "title": "\"영화 7번방의 선물, 예승이라고?..\" 훌쩍 커버린 갈소원 현재 모습 ....",
-          "link": "https://blog.naver.com/jhjhyj777/224375120172",
-          "blogger": "Star, 보석처럼 빛나는",
-          "date": "2026-08-11"
-        },
-        {
-          "title": "7번방의 선물 예승이 갈소원 근황, 벌써 이렇게 컸다고? 21세 된 모습....",
-          "link": "https://blog.naver.com/dhjh0509/224374847090",
-          "blogger": "DAHiary",
-          "date": "2026-08-11"
-        },
-        {
-          "title": "갈소원 말자쇼 누구? 7번방의 선물 예승이의 현재 근황",
-          "link": "https://blog.naver.com/candorf777/224374275669",
-          "blogger": "중고폰매입 선불폰개통 부산하단점",
-          "date": "2026-08-10"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "'7번방의 선물' 예승이 맞아? 못 알아볼 뻔…갈소원, 폭풍 성장→놀라운...",
-          "link": "https://www.tvreport.co.kr/broadcast/article/1068018/",
-          "press": "",
-          "date": "2026-08-11"
-        },
-        {
-          "title": "'21세 배우' 갈소원 \"7번방 선물 예승이, 기억해주시면 감사해\"",
-          "link": "https://ent.sbs.co.kr/news/article.do?article_id=E10010320464&plink=ORI&cooper=NAVER",
-          "press": "",
-          "date": "2026-08-11"
-        },
-        {
-          "title": "갈소원, 아무도 못 알아볼 만…'7번방의 선물' 예승이 놀라운 폭풍성장...",
-          "link": "https://www.xportsnews.com/article/2182305",
-          "press": "",
-          "date": "2026-08-11"
-        },
-        {
-          "title": "'7번방' 예승이, 20살 됐다...성숙해진 미모에 '술렁' \"예쁘게 잘컸다\"",
-          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1001223",
-          "press": "",
-          "date": "2026-08-11"
-        },
-        {
-          "title": "'7번방의 선물 예승이' 갈소원 21세 근황...'여기'에서 깜짝 포착",
-          "link": "https://www.wikitree.co.kr/articles/1151667",
-          "press": "",
-          "date": "2026-08-11"
-        }
-      ],
-      "rank": 3
-    },
-    {
-      "keyword": "넥슨",
-      "traffic": "2000+",
-      "blogTotal": 448492,
-      "newsTotal": 573067,
-      "recentToday": 100,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "오버워치 넥슨 서비스 시작, 계정 연동 꼭 해야 할까? 스팀 변경까지....",
-          "link": "https://blog.naver.com/ldkboaz/224371467269",
-          "blogger": "코댕의 세상",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "넥슨 오버워치 데이 일정 장소 사전참가신청방법 코스프레참가신청....",
-          "link": "https://blog.naver.com/alfson/224366546059",
-          "blogger": "앤바나",
-          "date": "2026-08-03"
-        },
-        {
-          "title": "오버워치 넥슨 서비스 오픈일 계정 연동 방법 및 보상",
-          "link": "https://blog.naver.com/leejt6614/224368666284",
-          "blogger": "에라라",
-          "date": "2026-08-05"
-        },
-        {
-          "title": "오버워치 넥슨 계정 연동 시작, 보상도 지급된다?",
-          "link": "https://blog.naver.com/rlarjsdn5589/224339566653",
-          "blogger": "크위스의 게임 블로그",
-          "date": "2026-07-07"
-        },
-        {
-          "title": "오버워치 넥슨 연동 방법 신화 프리즘 스킨 보상 챙기는 순서",
-          "link": "https://blog.naver.com/jisu7820/224346256129",
-          "blogger": "소중한 반려견과의 일상",
-          "date": "2026-07-14"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "게임과 유저 오프라인 스킨십, 선택 아닌 '필수'",
-          "link": "https://www.gameple.co.kr/news/articleView.html?idxno=216230",
-          "press": "",
-          "date": "2026-08-11"
-        },
-        {
-          "title": "T1 김유민, 풀세트 접전 끝에 DNS 박지민 제압…8강 진출 성공 (FSL 서머...",
-          "link": "https://www.xportsnews.com/article/2182547",
-          "press": "",
-          "date": "2026-08-11"
-        },
-        {
-          "title": "“크아 없어지지 마”…어른이 된 2030들의 마지막 접속 [이런뉴스]",
-          "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8634317&ref=A",
-          "press": "",
-          "date": "2026-08-11"
-        },
-        {
-          "title": "디몬(D.Mon)에 르세라핌, 설마하던 류승룡까지… 넥슨 '오버워치' 한국 ...",
-          "link": "https://www.gamechosun.co.kr/webzine/article/view.php?no=224121",
-          "press": "",
-          "date": "2026-08-11"
-        },
-        {
-          "title": "웹툰엔터, RI게임즈에 1억 달러 투자…‘전독시’ 게임 만든다",
-          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000002302&cp=nv",
-          "press": "",
-          "date": "2026-08-11"
-        }
-      ],
-      "rank": 4
-    },
-    {
-      "keyword": "유성우",
-      "traffic": "200+",
-      "blogTotal": 41363,
-      "newsTotal": 9845,
-      "recentToday": 100,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "2026 별똥별 페르세우스 유성우 관측 우주쇼 이번 놓치면 3년 기다림?....",
-          "link": "https://blog.naver.com/ps90002/224369056144",
-          "blogger": "아비부의 JOB블로그",
-          "date": "2026-08-05"
-        },
-        {
-          "title": "페르세우스 유성우 관측 장소 10곳, 새벽 나들이 코스",
-          "link": "https://blog.naver.com/nnasaeun/224369166559",
-          "blogger": "데이트 플래너",
-          "date": "2026-08-05"
-        },
-        {
-          "title": "2026 페르세우스 유성우 관측시간 8월 13일 14일 별똥별 쏟아지는 밤",
-          "link": "https://blog.naver.com/withcoffee24/224369181394",
-          "blogger": "히스토리아",
-          "date": "2026-08-05"
-        },
-        {
-          "title": "2026 페르세우스 유성우 8월 12~14일 절정! 별똥별 언제·어디서 봐야 ....",
-          "link": "https://blog.naver.com/life2331/224368362152",
-          "blogger": "오늘의발견",
-          "date": "2026-08-05"
-        },
-        {
-          "title": "제주 여름밤을 수놓는 페르세우스 유성우! 2026 별똥별 관측 명소와 ....",
-          "link": "https://blog.naver.com/0hio5/224368797759",
-          "blogger": "제주가족여행연구소",
-          "date": "2026-08-05"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "군포시 누리천문대, 밤하늘 쏟아지는 '우주 쇼' 안내서…유성우 특별강...",
-          "link": "https://www.cnbnews.com/news/articleView.html?idxno=1011187",
-          "press": "",
-          "date": "2026-08-11"
-        },
-        {
-          "title": "서대문자연사박물관, 별똥별 쇼 유튜브 생중계",
-          "link": "https://news.skbroadband.com/news/articleView.html?idxno=234722",
-          "press": "",
-          "date": "2026-08-11"
-        },
-        {
-          "title": "여름밤 수놓는 유성우…시간당 100개 별빛쇼",
-          "link": "http://www.yonhapnewstv.co.kr/news/MYH20260811172355qAo",
-          "press": "",
-          "date": "2026-08-11"
-        },
-        {
-          "title": "군포시, 유성우 관측강좌부터 무더위쉼터까지 여름철 시민 지원 강화",
-          "link": "http://www.queen.co.kr/news/articleView.html?idxno=461596",
-          "press": "",
-          "date": "2026-08-11"
-        },
-        {
-          "title": "군포시 누리천문대, 페르세우스 유성우 관측 참가자 모집",
-          "link": "https://www.viva100.com/article/20260811501126",
-          "press": "",
-          "date": "2026-08-11"
-        }
-      ],
-      "rank": 5
-    },
-    {
-      "keyword": "부대",
-      "traffic": "5000+",
-      "blogTotal": 7250357,
-      "newsTotal": 2777944,
-      "recentToday": 100,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "[집밥레시피] 집에서도 식당 맛 그대로 부대찌개 황금레시피",
-          "link": "https://blog.naver.com/hi081712/224361274159",
-          "blogger": "기록하고 기억하는 혜니의 블로그❤︎",
-          "date": "2026-07-29"
-        },
-        {
-          "title": "(내돈내산)오창 맛집 추천, 수제햄이 살아있는 고래부대찌개 오창본....",
-          "link": "https://blog.naver.com/pks6933/224364931954",
-          "blogger": "달빛살림",
-          "date": "2026-08-01"
-        },
-        {
-          "title": "송추 부일기사식당 : 최고의 양주 부대찌개, 내돈내산 방문 후기!(인....",
-          "link": "https://blog.naver.com/fgv132/224366389229",
-          "blogger": "King's trip",
-          "date": "2026-08-03"
-        },
-        {
-          "title": "웰리힐리파크 리조트 부대시설 총정리/범퍼카부터 게임존까지 솔직....",
-          "link": "https://blog.naver.com/syj990830/224350496149",
-          "blogger": "촐랑이의 여행log",
-          "date": "2026-07-18"
-        },
-        {
-          "title": "의정부 부대찌개 맛집 김뚜껑부대찌개 계란말이 서비스에 라면사리....",
-          "link": "https://blog.naver.com/sssh58/224368313909",
-          "blogger": "맛있는 순간에, Cheers!",
-          "date": "2026-08-04"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "'채상병 순직' 임성근 징역형 항소심 불복해 상고",
-          "link": "http://www.yonhapnewstv.co.kr/news/MYH202608112301573r7",
-          "press": "",
-          "date": "2026-08-11"
-        },
-        {
-          "title": "이스턴크루즈, 종각역에 '종각샵' 오픈…크루즈 상담·예약 한곳에서",
-          "link": "https://www.tournews21.com/news/articleView.html?idxno=140772",
-          "press": "",
-          "date": "2026-08-11"
-        },
-        {
-          "title": "전투기 교신 엿듣고, 무기 이동정보까지 도청…한국서 붙잡힌 '중국인들...",
-          "link": "https://www.wikitree.co.kr/articles/1151843",
-          "press": "",
-          "date": "2026-08-11"
-        },
-        {
-          "title": "\"대구세계마스터즈육상, 경기장 밖서도 축제\"",
-          "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=556499",
-          "press": "",
-          "date": "2026-08-11"
-        },
-        {
-          "title": "안규백 \"마오쩌둥의 좌우명이 내 좌우명\"…野 \"어느 나라 장관이냐\"",
-          "link": "http://weekly.chosun.com/news/articleView.html?idxno=54228",
+          "title": "황정민, '틈만나면,' 편집 없었지만…미션 2개 모두 실패 '씁쓸' 엔딩 [종...",
+          "link": "https://www.xportsnews.com/article/2182600",
           "press": "",
           "date": "2026-08-11"
         }
@@ -441,72 +441,72 @@
       "rank": 6
     },
     {
-      "keyword": "최지만",
+      "keyword": "고소영",
       "traffic": "200+",
-      "blogTotal": 16835,
-      "newsTotal": 46219,
-      "recentToday": 76,
+      "blogTotal": 101583,
+      "newsTotal": 80133,
+      "recentToday": 83,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "메이저리그 통산 67홈런의 사나이, 최지만 KBO 신인드래프트행 가능....",
-          "link": "https://blog.naver.com/plansh/224375115805",
-          "blogger": "인생꿀팁",
-          "date": "2026-08-11"
+          "title": "\"이게 53세라고?\" 핑크 골프룩으로 각선미 뽐낸 고소영 근황",
+          "link": "https://blog.naver.com/candyami97/224370850523",
+          "blogger": "현꿀 : 오늘의 드레스코드",
+          "date": "2026-08-07"
         },
         {
-          "title": "최지만 KBO 신인드래프트행 가능성, 35세 거포가 1라운드 후보인 이유",
-          "link": "https://blog.naver.com/yfg7459/224375522543",
-          "blogger": "갓플베",
-          "date": "2026-08-11"
+          "title": "고소영 돈가스 소스, 제품이름, 맛, 요리, 판매처, 총정리",
+          "link": "https://blog.naver.com/hyojeong9539/224362967296",
+          "blogger": "윤둥순의 나들이 ♡",
+          "date": "2026-07-30"
         },
         {
-          "title": "두산베어스 1루보강 대권 도전 위해 신인 드래프트에서 메이저리그 ....",
-          "link": "https://blog.naver.com/young2542/224374801764",
-          "blogger": "나의 작은 보금자리",
-          "date": "2026-08-11"
+          "title": "고소영,430만원 외국 식세기 안써 우라나라 식세기가 최고,과자 라면....",
+          "link": "https://blog.naver.com/highway5023/224361407290",
+          "blogger": "아추블",
+          "date": "2026-07-29"
         },
         {
-          "title": "“1루수 80이닝 데이터에 숨은 복선!” 최지만 낚아채갈 의외의 대권....",
-          "link": "https://blog.naver.com/edwin9407/224373927992",
-          "blogger": "더블체커(DC)",
-          "date": "2026-08-10"
+          "title": "고소영 버터 돈까스 소스. 냉장고 식재료. 아들 고기 구울때 꺼낸 치....",
+          "link": "https://blog.naver.com/zingga9/224361968226",
+          "blogger": "Kim쪼꼬님의 블로그",
+          "date": "2026-07-29"
         },
         {
-          "title": "최지만 영입 후보팀은 KIA 두산 롯데 SSG…\"1라운드에도 뽑힐 수 있다\"....",
-          "link": "https://blog.naver.com/zinx220/224372511313",
-          "blogger": "안맞아도 풀스윙!",
-          "date": "2026-08-09"
+          "title": "“55세에 51kg라고?” 고소영 수수한 패션 속 130만원대 더로우 쪼리",
+          "link": "https://blog.naver.com/suzin_y/224371576721",
+          "blogger": "호뇨의 패션 블로그",
+          "date": "2026-08-07"
         }
       ],
       "topNews": [
         {
-          "title": "'불꽃야구2' 이대호·최지만 홈런포 맞불… 최고 동접 21만 5천 명 돌파",
-          "link": "https://www.maxmovie.com/news/articleView.html?idxno=501081",
+          "title": "고소영, 전지현·정우성과 찍은 지오다노 광고 \"말도 안되는 환경, 감전...",
+          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1001386",
           "press": "",
           "date": "2026-08-11"
         },
         {
-          "title": "‘불꽃야구2’ 이대호vs최지만 거포 대결…동시 시청자 21만명 돌파",
-          "link": "https://www.sportsworldi.com/newsView/20260811515843",
+          "title": "고소영 \"첫 광고료 수백만원→유명해지고 첫 '억대' 계약…몸값 생겼다...",
+          "link": "https://mhnse.com/news/articleView.html?idxno=1485923",
           "press": "",
           "date": "2026-08-11"
         },
         {
-          "title": "단장님도 메뚜기 이동, 청소년대표팀에 스카우트 총출동...유례없는 신...",
-          "link": "http://www.spochoo.com/news/articleView.html?idxno=128675",
+          "title": "고소영 \"남편 장동건과 과거 CF라이벌 관계, 일은 일이다\"",
+          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1001374",
           "press": "",
           "date": "2026-08-11"
         },
         {
-          "title": "이대호 동점포→최지만 대타 홈런…'불꽃야구2' 울산 웨일즈에 3:2 승리",
-          "link": "http://enews.imbc.com/News/RetrieveNewsInfo/514422",
+          "title": "고소영, 소주 CF 못 찍은 이유 있었다 \"신세대 섹시 캐릭터라 맥주가 더...",
+          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1001371",
           "press": "",
           "date": "2026-08-11"
         },
         {
-          "title": "'거포 1루수 간절하다' 최지만, 두산과 궁합 환상적인데...그런데 뽑을 ...",
-          "link": "https://www.sportschosun.com/baseball/2026-08-11/202608110100060510003756",
+          "title": "고소영, 22살에 첫 억대 광고료 받아…\"몸값이라는 게 생겨\"",
+          "link": "https://www.newsis.com/view/NISX20260811_0003745191",
           "press": "",
           "date": "2026-08-11"
         }
@@ -514,85 +514,12 @@
       "rank": 7
     },
     {
-      "keyword": "김설현",
-      "traffic": "500+",
-      "blogTotal": 10277,
-      "newsTotal": 21803,
-      "recentToday": 23,
-      "recentWeek": 66,
-      "topBlogs": [
-        {
-          "title": "김설현, 다이어트 성공하더니 몰라보겠네…“달걀만 150알 먹었다”....",
-          "link": "https://blog.naver.com/zkzi1234/224374414321",
-          "blogger": "우주속의 먼지되어",
-          "date": "2026-08-11"
-        },
-        {
-          "title": "김설현 ‘상남자’ 특별출연, 이정은 곁에서 움직이는 비서 된다",
-          "link": "https://blog.naver.com/news9kr/224361979470",
-          "blogger": "뉴스나인",
-          "date": "2026-07-29"
-        },
-        {
-          "title": "“1~2kg이 안 빠지더라” 김설현이 다이어트 막판에 선택한 음식",
-          "link": "https://blog.naver.com/fkadbswjd/224374497147",
-          "blogger": "뷰지라퍼 | 센스 말고 공식",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "김설현, 4년 만에 유튜브 재개 넷플릭스·JTBC로 연기 컴백 예고",
-          "link": "https://blog.naver.com/wing2722/224375590281",
-          "blogger": "테크모터스 노트",
-          "date": "2026-08-11"
-        },
-        {
-          "title": "\"6개월을 버텼다…\"김설현, 끝까지 안 빠지던 2kg 뺀 현실 다이어트 ....",
-          "link": "https://blog.naver.com/wjddl517/224375415674",
-          "blogger": "슬림곰이의 헬시로그",
-          "date": "2026-08-11"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "김설현, 축구장 직관 인증…새 유튜브와 연기 컴백 예고",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16160849",
-          "press": "",
-          "date": "2026-08-11"
-        },
-        {
-          "title": "“20번 입었네?”…설현, ‘베실바’ 팬이었다 [★SNS]",
-          "link": "https://www.sportsseoul.com/news/read/1628024?ref=naver",
-          "press": "",
-          "date": "2026-08-11"
-        },
-        {
-          "title": "설현 \"달걀 150알 먹은 듯\"…다이어트 간식, 달걀만 믿어도 될까 [헬스톡...",
-          "link": "http://www.fnnews.com/news/202608102223243210",
-          "press": "",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "김설현, 화보보다 더 다채로운 매력 비하인드에 담아",
-          "link": "https://sports.khan.co.kr/article/202608110351003?pt=nv",
-          "press": "",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "설현, 살 더 빠지고 갸름해진 비결? “간식으로 ‘이 음식’ 먹어”",
-          "link": "https://kormedi.com/?p=2844373",
-          "press": "",
-          "date": "2026-08-10"
-        }
-      ],
-      "rank": 8
-    },
-    {
       "keyword": "임 라라",
       "traffic": "2000+",
-      "blogTotal": 25123,
+      "blogTotal": 25126,
       "newsTotal": 414,
-      "recentToday": 15,
-      "recentWeek": 94,
+      "recentToday": 16,
+      "recentWeek": 96,
       "topBlogs": [
         {
           "title": "둘째 임산부의 팬티 추천 엣프터 라라트렁크 하이웨스트 내돈내산",
@@ -657,7 +584,7 @@
           "date": "2026-04-28"
         }
       ],
-      "rank": 9
+      "rank": 8
     },
     {
       "keyword": "민주노동조합총연맹",
@@ -726,6 +653,79 @@
         {
           "title": "민주노총 “이재명 대통령의 ‘쟁의대상 시행령화’ 지시, 재계 편들기...",
           "link": "https://vop.co.kr/A00001696182.html",
+          "press": "",
+          "date": "2026-08-11"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "keyword": "투자가",
+      "traffic": "500+",
+      "blogTotal": 41379083,
+      "newsTotal": 22150916,
+      "recentToday": 0,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "하이닉스 레버리지 투자보다 1배 인버스 투자가 더 위험하다!",
+          "link": "https://blog.naver.com/borg76/224359726739",
+          "blogger": "돈 되는 정보 주식 재테크 *리치스윙*",
+          "date": "2026-07-27"
+        },
+        {
+          "title": "착한양건강멘토 북리뷰 주식 투자가 막막할 때, 『재테크 농부의 초....",
+          "link": "https://blog.naver.com/syclinic/224361391522",
+          "blogger": "착한양 건강 멘토 최율",
+          "date": "2026-07-29"
+        },
+        {
+          "title": "주식 시장의 성적표, ‘어닝콜(Earning Call)’ 뜻 알고 보면 투자가 쉬....",
+          "link": "https://blog.naver.com/lytoo3/224362924653",
+          "blogger": "인생 비움의 정석 비풍초똥팔삼",
+          "date": "2026-08-03"
+        },
+        {
+          "title": "삼전닉스 아무리 잘나가도 미국 반도체 ETF 투자가 진짜인 이유",
+          "link": "https://blog.naver.com/ggokyu/224330305140",
+          "blogger": "짠테크 연구소",
+          "date": "2026-06-29"
+        },
+        {
+          "title": "미국증시와 VIX 지수 뜻, 공포지수만 알아도 투자가 달라집니다",
+          "link": "https://blog.naver.com/vipro/224350858487",
+          "blogger": "서울 자가에 사는 지델롱의 주담대 갚는 이야기",
+          "date": "2026-07-19"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "아마존 창업자 베이조스, EPL 명문 리버풀FC 지분 사들이나",
+          "link": "https://www.dkilbo.com/news/articleView.html?idxno=551137",
+          "press": "",
+          "date": "2026-08-11"
+        },
+        {
+          "title": "코스맥스, 상반기 최대 실적 달성... 글로벌 '저력' 재입증",
+          "link": "https://www.meconomynews.com/news/articleView.html?idxno=200460",
+          "press": "",
+          "date": "2026-08-11"
+        },
+        {
+          "title": "민주당, 전남광주 통합시당 위원장 선거... '권향엽·안도걸·조계원' 불...",
+          "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=440771",
+          "press": "",
+          "date": "2026-08-11"
+        },
+        {
+          "title": "미국 카드빚 1.26조달러, 연체 잔액 비중 12.8%",
+          "link": "https://www.tokenpost.kr/news/market/388590",
+          "press": "",
+          "date": "2026-08-11"
+        },
+        {
+          "title": "[사설] AI에 무너지는 토종 플랫폼 신화",
+          "link": "https://www.joongang.co.kr/article/25452602",
           "press": "",
           "date": "2026-08-11"
         }
