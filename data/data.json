@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-13T17:03:10.138Z",
+  "updatedAt": "2026-08-13T18:26:08.665Z",
   "source": "live",
   "keywords": [
     {
       "keyword": "삼계탕 사발면",
       "traffic": "200+",
-      "blogTotal": 578,
+      "blogTotal": 581,
       "newsTotal": 108,
-      "recentToday": 93,
+      "recentToday": 90,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -78,9 +78,9 @@
     {
       "keyword": "dc",
       "traffic": "100+",
-      "blogTotal": 418425,
-      "newsTotal": 913759,
-      "recentToday": 89,
+      "blogTotal": 418427,
+      "newsTotal": 913760,
+      "recentToday": 85,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -116,20 +116,8 @@
       ],
       "topNews": [
         {
-          "title": "숙명여대, UKC 2026서 미래연구비전 제시",
-          "link": "http://www.koreatimes.com/article/1625473",
-          "press": "",
-          "date": "2026-08-13"
-        },
-        {
-          "title": "12~17세 청소년 20% 중증 불안증",
-          "link": "http://www.koreatimes.com/article/1625474",
-          "press": "",
-          "date": "2026-08-13"
-        },
-        {
-          "title": "ICE 요원, 폴스처치서 시민에 총 겨눠",
-          "link": "http://www.koreatimes.com/article/1625472",
+          "title": "美 싱크탱크 “조선업 재건 위해 한국과 군함 공동생산 필요”",
+          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000003057&cp=nv",
           "press": "",
           "date": "2026-08-13"
         },
@@ -144,16 +132,101 @@
           "link": "http://www.koreatimes.com/article/1625479",
           "press": "",
           "date": "2026-08-13"
+        },
+        {
+          "title": "12~17세 청소년 20% 중증 불안증",
+          "link": "http://www.koreatimes.com/article/1625474",
+          "press": "",
+          "date": "2026-08-13"
+        },
+        {
+          "title": "숙명여대, UKC 2026서 미래연구비전 제시",
+          "link": "http://www.koreatimes.com/article/1625473",
+          "press": "",
+          "date": "2026-08-13"
         }
       ],
       "rank": 2
     },
     {
+      "keyword": "심정지",
+      "traffic": "2000+",
+      "blogTotal": 41465,
+      "newsTotal": 255879,
+      "recentToday": 78,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "급성 심근경색 전조 증상 원인 심정지 골든타임",
+          "link": "https://blog.naver.com/dstarline/224370817886",
+          "blogger": "비버의건강학개론",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "심정지 뜻과 증상, 폭염에 더 위험한 이유와 골든타임 총정리",
+          "link": "https://blog.naver.com/ifdream01/224369566418",
+          "blogger": "쇼니슈리별의 건강연구소",
+          "date": "2026-08-06"
+        },
+        {
+          "title": "“37도 폭염 관중 심정지!” KBO, 팬은 표가 아니라 사람이다!!!",
+          "link": "https://blog.naver.com/skdus173/224368359584",
+          "blogger": "여기저기 가보나연",
+          "date": "2026-08-05"
+        },
+        {
+          "title": "폭염 속 야구 강행하다 관중 심정지까지…잠실·광주는 취소했는데 ....",
+          "link": "https://blog.naver.com/yyjj2814/224368300041",
+          "blogger": "열정의 그라운드",
+          "date": "2026-08-04"
+        },
+        {
+          "title": "광주 화정역 인근 교통사고, 50대 심정지·6명 부상 총정리",
+          "link": "https://blog.naver.com/pato3/224370911899",
+          "blogger": "✅빠른정보앤맛집",
+          "date": "2026-08-07"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "[포토뉴스]원주소방서 하트세이버 영예증서 수여식",
+          "link": "https://www.kwnews.co.kr/article/20260813501417",
+          "press": "",
+          "date": "2026-08-13"
+        },
+        {
+          "title": "\"지금껏 경험하지 못한 폭우\"...광복절 연휴, 태풍 후폭풍?",
+          "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=07747366645546992",
+          "press": "",
+          "date": "2026-08-13"
+        },
+        {
+          "title": "문경 계곡서 20대 남성 물에 빠져…심정지 상태 병원 이송",
+          "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4081185",
+          "press": "",
+          "date": "2026-08-13"
+        },
+        {
+          "title": "문경 계곡서 물놀이 사고… 20대 사망 [사건수첩]",
+          "link": "https://www.segye.com/newsView/20260813524784?OutUrl=naver",
+          "press": "",
+          "date": "2026-08-13"
+        },
+        {
+          "title": "마트 옥상 주차장서 SUV 12m 추락…무면허 20대 운전자 숨져",
+          "link": "https://news.tvchosun.com/site/data/html_dir/2026/08/13/2026081390269.html",
+          "press": "",
+          "date": "2026-08-13"
+        }
+      ],
+      "rank": 3
+    },
+    {
       "keyword": "캐나다",
       "traffic": "2000+",
-      "blogTotal": 1484954,
-      "newsTotal": 1981514,
-      "recentToday": 70,
+      "blogTotal": 1484965,
+      "newsTotal": 1981517,
+      "recentToday": 58,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -189,6 +262,24 @@
       ],
       "topNews": [
         {
+          "title": "美·캐나다, '50% 관세' 시한 앞두고 협상 진전…\"미국도 타결 원해\"",
+          "link": "https://www.news1.kr/world/usa-canada/6258731",
+          "press": "",
+          "date": "2026-08-13"
+        },
+        {
+          "title": "백악관 '환적사기' 보고서, 40여 개국 지목…한국도 위험국 분류",
+          "link": "https://www.newspim.com/news/view/20260814000023",
+          "press": "",
+          "date": "2026-08-13"
+        },
+        {
+          "title": "'K-톡신' 대웅제약·휴젤 양강 구도…뒤처지는 메디톡스",
+          "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=315457",
+          "press": "",
+          "date": "2026-08-13"
+        },
+        {
           "title": "법원은 '성폭행 무죄', 협회 판단은 달랐다... 유망주 4명 '중징계' 최대...",
           "link": "https://www.starnewskorea.com/sports/2026/08/14/2026081400395858987",
           "press": "",
@@ -199,97 +290,6 @@
           "link": "https://www.newscj.com/news/articleView.html?idxno=3425018",
           "press": "",
           "date": "2026-08-13"
-        },
-        {
-          "title": "美 \"中, 40여개국 불법환적해 관세회피\"…韓도 '中환적 위험국' 거론(종...",
-          "link": "https://www.yna.co.kr/view/AKR20260813166451009?input=1195m",
-          "press": "",
-          "date": "2026-08-13"
-        },
-        {
-          "title": "백악관 \"중국산 불법 환적 사기에 40개국 연루\"... 한국도 포함",
-          "link": "https://www.hankookilbo.com/news/article/A2026081400260001368?did=NA",
-          "press": "",
-          "date": "2026-08-13"
-        },
-        {
-          "title": "중국차 공세에 질린 美 딜러단체 “美진출 막아달라” 공개 촉구",
-          "link": "https://www.donga.com/news/Economy/article/all/20260813/134475015/2",
-          "press": "",
-          "date": "2026-08-13"
-        }
-      ],
-      "rank": 3
-    },
-    {
-      "keyword": "기아타이거즈",
-      "traffic": "200+",
-      "blogTotal": 74409,
-      "newsTotal": 56548,
-      "recentToday": 53,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "\"이거 어디서 받아요?\" 팬들 난리 난 기아타이거즈 카톡테마 인기 5....",
-          "link": "https://blog.naver.com/pyw2429/224364673398",
-          "blogger": "경제왕 킹왕짱",
-          "date": "2026-08-01"
-        },
-        {
-          "title": "아직도 7일 전에 예매해? 2026 기아 타이거즈 예매꿀팁 대방출",
-          "link": "https://blog.naver.com/yhr2019622/224303101174",
-          "blogger": "화려한오감의 블로그",
-          "date": "2026-06-01"
-        },
-        {
-          "title": "기아타이거즈 팀스토어 후기 30분 줄 서서 산 어센틱 써드 유니폼",
-          "link": "https://blog.naver.com/rntbdld/224356932688",
-          "blogger": "미니메이의 아이와 전국일주",
-          "date": "2026-07-24"
-        },
-        {
-          "title": "[내돈내산] 기아 타이거즈 어센틱 유니폼 구매 후기! 자수 마킹 추가....",
-          "link": "https://blog.naver.com/fire_rain/224319106668",
-          "blogger": "뚱이 이야기",
-          "date": "2026-06-17"
-        },
-        {
-          "title": "서울에서 기아타이거즈 레플리카 유니폼 모자 굿즈 구매하고 열마....",
-          "link": "https://blog.naver.com/babijadu/224330653728",
-          "blogger": "소비는 확실한 행복",
-          "date": "2026-06-29"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "류현진 무너진 한화 두산에 루징시리즈… 한 발짝 더 멀어진 5강의 꿈",
-          "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2294541",
-          "press": "",
-          "date": "2026-08-13"
-        },
-        {
-          "title": "‘홈런 선두’ 김도영, 시즌 34호 솔로포 작렬",
-          "link": "https://www.bntnews.co.kr/article/view/bnt202608130248",
-          "press": "",
-          "date": "2026-08-13"
-        },
-        {
-          "title": "'복덩이' 하주석, KIA 트레이드 성공 조짐 [프로야구]",
-          "link": "http://www.sportsq.co.kr/news/articleView.html?idxno=497481",
-          "press": "",
-          "date": "2026-08-13"
-        },
-        {
-          "title": "[2026 프로야구 삼진과 홈런 사이] kt 마지막 승부수 '데이비스 데니엘'...",
-          "link": "http://www.newsian.co.kr/news/articleView.html?idxno=93678",
-          "press": "",
-          "date": "2026-08-13"
-        },
-        {
-          "title": "[2026 프로야구 경기일정] 8월 13일 구단별 선발투수와 생중계 채널",
-          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3663268",
-          "press": "",
-          "date": "2026-08-12"
         }
       ],
       "rank": 4
@@ -297,7 +297,7 @@
     {
       "keyword": "사랑 이 온다",
       "traffic": "1000+",
-      "blogTotal": 3916,
+      "blogTotal": 3917,
       "newsTotal": 106045,
       "recentToday": 34,
       "recentWeek": 100,
@@ -309,6 +309,18 @@
           "date": "2026-08-08"
         },
         {
+          "title": "사랑이 온다 5화 리뷰 -한결이 내 아들입니까?",
+          "link": "https://blog.naver.com/whyschool07/224372350826",
+          "blogger": "와이스쿨",
+          "date": "2026-08-08"
+        },
+        {
+          "title": "드라마 사랑이 온다 6화 예고편｜인물관계도·시청률·재방송·등장....",
+          "link": "https://blog.naver.com/with_bohum/224373090010",
+          "blogger": "정보콕",
+          "date": "2026-08-09"
+        },
+        {
           "title": "사랑이 온다 5회 박유나, 고윤 청혼에 ‘행복 미소’",
           "link": "https://blog.naver.com/newsmeter/224372202299",
           "blogger": "뉴스미터",
@@ -318,18 +330,6 @@
           "title": "결별 10년 만에 최악의 재회…'사랑이 온다' 4회, 시청자도 숨죽인 엔....",
           "link": "https://blog.naver.com/mcfunnysunny/224366279818",
           "blogger": "쵸코색은갈색",
-          "date": "2026-08-03"
-        },
-        {
-          "title": "사랑이 온다 5화 리뷰 -한결이 내 아들입니까?",
-          "link": "https://blog.naver.com/whyschool07/224372350826",
-          "blogger": "와이스쿨",
-          "date": "2026-08-08"
-        },
-        {
-          "title": "사랑이 온다 인물관계도 등장인물 줄거리 및 몇부작 총정리",
-          "link": "https://blog.naver.com/wizl01/224366277458",
-          "blogger": "새벽의 책방",
           "date": "2026-08-03"
         }
       ],
@@ -376,15 +376,15 @@
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "KBS 일일드라마 기쁜 우리 좋은 날  몇부작 등장인물 OTT 시청률 관전....",
-          "link": "https://blog.naver.com/rainbow11eun/224364106445",
-          "blogger": "레인보우",
-          "date": "2026-07-31"
-        },
-        {
           "title": "기쁜 우리 좋은 날 88 회  줄거리 서권식이 뒤집어쓴 사고의 비밀…....",
           "link": "https://blog.naver.com/chs3595/224364287320",
           "blogger": "올리비아 아름다운 일상",
+          "date": "2026-07-31"
+        },
+        {
+          "title": "KBS 일일드라마 기쁜 우리 좋은 날  몇부작 등장인물 OTT 시청률 관전....",
+          "link": "https://blog.naver.com/rainbow11eun/224364106445",
+          "blogger": "레인보우",
           "date": "2026-07-31"
         },
         {
@@ -516,8 +516,8 @@
     {
       "keyword": "학교",
       "traffic": "500+",
-      "blogTotal": 14767552,
-      "newsTotal": 13637404,
+      "blogTotal": 14767614,
+      "newsTotal": 13637418,
       "recentToday": 0,
       "recentWeek": 100,
       "topBlogs": [
@@ -554,32 +554,32 @@
       ],
       "topNews": [
         {
-          "title": "이정태 충북도의원, 청주 모충동 수해 현장 점검...\"침수 재발 원천 차단...",
-          "link": "https://www.newstnt.com/news/articleView.html?idxno=713919",
+          "title": "농구 배우고 에버랜드도 간다... 삼성생명, 여고 유망주 30명과 '꿈의 3일...",
+          "link": "https://www.stnsports.co.kr/news/articleView.html?idxno=320918",
           "press": "",
           "date": "2026-08-13"
         },
         {
-          "title": "“뉴욕주 불체학생 학비 감면 중단하라”",
-          "link": "http://www.koreatimes.com/article/1625452",
+          "title": "\"딸 묻을 자리였는데\"…中 아버지가 판 무덤, 9년 뒤 기적의 정원으로",
+          "link": "https://www.newsis.com/view/NISX20260813_0003748059",
           "press": "",
           "date": "2026-08-13"
         },
         {
-          "title": "교실 속 데이터가 아이디어로…부산 학생 AI 실력 통했다",
-          "link": "https://www.sentv.co.kr/article/view/sentv202608130002",
+          "title": "주요 교단 임원 선거 ‘목회자 지원, 교회 연합’ 키워드",
+          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000003073&cp=nv",
           "press": "",
           "date": "2026-08-13"
         },
         {
-          "title": "'이현이♥' 홍성기, 子 뒷바라지 위해 美 갔는데 \"한 끼에 21만 원\"",
-          "link": "http://www.osen.co.kr/article/G1112857009",
+          "title": "'문현빈 판박이' 막냇동생도 형 따라 북일고 야구부…그런데 롤모델은 ...",
+          "link": "https://isplus.com/article/view/isp202608110175",
           "press": "",
           "date": "2026-08-13"
         },
         {
-          "title": "“독도는 일본땅”? 푸틴에 ‘뒤통수’ 맞은 日…굴욕 맛본 다카이치 펄...",
-          "link": "https://www.seoul.co.kr/news/international/2026/08/14/20260814500001?wlog_tag3=naver",
+          "title": "울산북구가족센터, 이주배경 학부모교실 운영…교육정보 제공",
+          "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1064635",
           "press": "",
           "date": "2026-08-13"
         }
@@ -589,8 +589,8 @@
     {
       "keyword": "행동",
       "traffic": "500+",
-      "blogTotal": 3309709,
-      "newsTotal": 5785439,
+      "blogTotal": 3309786,
+      "newsTotal": 5785446,
       "recentToday": 0,
       "recentWeek": 100,
       "topBlogs": [
@@ -627,32 +627,32 @@
       ],
       "topNews": [
         {
-          "title": "[오늘의 운세] 8월 14일 金(음력 7월 2일) 띠별 운세",
-          "link": "https://www.fntimes.com/html/view.php?ud=20260814000715466c1c16452b0_18",
+          "title": "“신앙인, 자신의 일터를 거룩한 사역지로 보길”",
+          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000003089&cp=nv",
           "press": "",
           "date": "2026-08-13"
         },
         {
-          "title": "더워도 너무 더워서 [오각진의 숲길에서 만난 생각들]",
-          "link": "https://www.econovill.com/news/articleView.html?idxno=747748",
+          "title": "'뭐가 그리 초조한가?' 쫓기는 듯한 LG '염갈량' 염경엽 감독에게 필요...",
+          "link": "http://www.maniareport.com/view.php?ud=20260814031528120091b55a0d56_19",
           "press": "",
           "date": "2026-08-13"
         },
         {
-          "title": "[FT영상] 역대 황당했던 프리킥 순간들, 축구팬들을 웃게 만든 기상천외...",
-          "link": "https://www.ftimes.kr/news/articleView.html?idxno=39008",
+          "title": "\"딸 묻을 자리였는데\"…中 아버지가 판 무덤, 9년 뒤 기적의 정원으로",
+          "link": "https://www.newsis.com/view/NISX20260813_0003748059",
           "press": "",
           "date": "2026-08-13"
         },
         {
-          "title": "12~17세 청소년 20% 중증 불안증",
-          "link": "http://www.koreatimes.com/article/1625474",
+          "title": "AI 인프라 투자, 연준 인플레 싸움에 새 변수되나",
+          "link": "https://www.bloter.net/news/articleView.html?idxno=670934",
           "press": "",
           "date": "2026-08-13"
         },
         {
-          "title": "법원은 '성폭행 무죄', 협회 판단은 달랐다... 유망주 4명 '중징계' 최대...",
-          "link": "https://www.starnewskorea.com/sports/2026/08/14/2026081400395858987",
+          "title": "말 잘 듣는 AI가 더 무섭다…미국서 커지는 통제 불안 [워싱턴 리포트]",
+          "link": "https://www.thescoop.co.kr/news/articleView.html?idxno=311253",
           "press": "",
           "date": "2026-08-13"
         }
@@ -663,7 +663,7 @@
       "keyword": "세르비아 축구 국가대표팀",
       "traffic": "200+",
       "blogTotal": 133,
-      "newsTotal": 4619,
+      "newsTotal": 4620,
       "recentToday": 0,
       "recentWeek": 0,
       "topBlogs": [
@@ -686,19 +686,25 @@
           "date": "2022-04-30"
         },
         {
+          "title": "[충격] 한국 축구 성접대 파문 총정리…5승2무 무패, 2002 심판매수설....",
+          "link": "https://blog.naver.com/keheehee2/224371081419",
+          "blogger": "세상을 읽는 눈",
+          "date": "2026-08-07"
+        },
+        {
           "title": "대한축구협회 외국인 심판 성접대 의혹...한국 대표팀은 7경기 무패",
           "link": "https://blog.naver.com/hw020102/224370706029",
           "blogger": "행간 읽는 뚜벅이",
           "date": "2026-08-07"
-        },
-        {
-          "title": "남유럽의 국가별 축구 선수 GOAT",
-          "link": "https://footballpediahistory.tistory.com/470",
-          "blogger": "풋볼피디아 FootballpediA - 축구 백과사전",
-          "date": "2026-07-14"
         }
       ],
       "topNews": [
+        {
+          "title": "혼자 퇴장 두 번, 나홀로 자책골 두 개, 4전 전패… 라오스, AFF 현대컵 ...",
+          "link": "https://www.besteleven.com/news/articleView.html?idxno=311154",
+          "press": "",
+          "date": "2026-08-13"
+        },
         {
           "title": "'韓 국가대표 공격수' 오현규, 주전 자리 또 뺏기나...베식타스 깜짝 이...",
           "link": "https://www.sportschosun.com/football/2026-08-10/202608100100057350003575",
@@ -720,12 +726,6 @@
         {
           "title": "2002년에도?...축구협회, 월드컵 예선 앞두고 외국인 심판 '성접대' 파문",
           "link": "https://www.hidomin.com/news/articleView.html?idxno=716399",
-          "press": "",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "해외 커뮤니티선 “2002년 4강은?”…‘심판 성접대’에 축구팬들 “그...",
-          "link": "https://www.seoul.co.kr/news/society/2026/08/07/20260807500147?wlog_tag3=naver",
           "press": "",
           "date": "2026-08-07"
         }
