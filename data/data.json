@@ -1,13 +1,86 @@
 {
-  "updatedAt": "2026-08-14T18:25:14.215Z",
+  "updatedAt": "2026-08-14T19:28:19.743Z",
   "source": "live",
   "keywords": [
     {
+      "keyword": "맨홀",
+      "traffic": "500+",
+      "blogTotal": 128933,
+      "newsTotal": 76749,
+      "recentToday": 91,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "“맨홀작업 안전가이드”로 질식·추락사고 예방",
+          "link": "https://blog.naver.com/molab_suda/224370088368",
+          "blogger": "고용노동부 공식 블로그",
+          "date": "2026-08-06"
+        },
+        {
+          "title": "당산역 카페 맨홀커피 영국감성 아인슈페너 맛집",
+          "link": "https://blog.naver.com/sjej0524/224372779573",
+          "blogger": "안젤린의 기록",
+          "date": "2026-08-09"
+        },
+        {
+          "title": "영등포구청·당산 대형카페 추천! 영국 감성 맨홀커피 직접 다녀온 ....",
+          "link": "https://blog.naver.com/kkal28/224337990984",
+          "blogger": "그린워커",
+          "date": "2026-07-06"
+        },
+        {
+          "title": "[알.써.여] 후쿠오카 다자이후 포켓몬고 스탬프랠리 도장깨기 - 여행....",
+          "link": "https://blog.naver.com/duri_yapp/224369871232",
+          "blogger": "딴짓하는 퇴근일지",
+          "date": "2026-08-06"
+        },
+        {
+          "title": "서울 영등포 북카페 맨홀커피웨스턴책방 후기",
+          "link": "https://blog.naver.com/qnzo019/224332597458",
+          "blogger": "자유로운 둥둥",
+          "date": "2026-07-01"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "일본 지바현에 시간당 100mm 기습 폭우...8명 숨져",
+          "link": "https://www.ytn.co.kr/_ln/0104_202608150321074726",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "석달치 비가 하룻밤에‥빠져나올 틈도 없었다",
+          "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6844872_37004.html",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "일본 재난급 물폭탄에 8명 사망…나리타 공항에선 7천 명 발 묶여",
+          "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5212635",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "[2026 전남광주미래산업박람회] 에이치엔스마트코리아, 도시안전 솔루션...",
+          "link": "https://www.etnews.com/20260814000309",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "\"석 달 치 비가 반나절 만에\"…日지바현 '물폭탄'",
+          "link": "http://www.yonhapnewstv.co.kr/news/MYH20260814194302XKe",
+          "press": "",
+          "date": "2026-08-14"
+        }
+      ],
+      "rank": 1
+    },
+    {
       "keyword": "쿠팡플레이",
       "traffic": "500+",
-      "blogTotal": 86001,
-      "newsTotal": 157731,
-      "recentToday": 80,
+      "blogTotal": 86002,
+      "newsTotal": 157732,
+      "recentToday": 79,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -23,6 +96,12 @@
           "date": "2026-08-06"
         },
         {
+          "title": "[맨시티 vs 팀K리그] 2026 쿠팡플레이 시리즈 프리미엄A W-F구역 3열 8,9....",
+          "link": "https://blog.naver.com/dlarn3832/224371114366",
+          "blogger": "임구의 다음 목적지",
+          "date": "2026-08-07"
+        },
+        {
           "title": "2026 쿠팡플레이 맨시티 아틀레티코 내한 일정, 티켓 예매 꿀팁 및 오....",
           "link": "https://blog.naver.com/coco_store/224364705502",
           "blogger": "코코점빵",
@@ -33,15 +112,15 @@
           "link": "https://blog.naver.com/biscuit_c/224338467962",
           "blogger": "머니그랜트",
           "date": "2026-07-06"
-        },
-        {
-          "title": "[맨시티 vs 팀K리그] 2026 쿠팡플레이 시리즈 프리미엄A W-F구역 3열 8,9....",
-          "link": "https://blog.naver.com/dlarn3832/224371114366",
-          "blogger": "임구의 다음 목적지",
-          "date": "2026-08-07"
         }
       ],
       "topNews": [
+        {
+          "title": "\"환성적이었다!\" '그리즈만 롤' 이강인, 첫 선발+미친 침투 패스→35분 ...",
+          "link": "https://www.sportschosun.com/football/2026-08-15/202608150100088220005572",
+          "press": "",
+          "date": "2026-08-14"
+        },
         {
           "title": "'이강인이 공격 핵심, 주전 굳힌다'…스페인 유력지, 2026-27시즌 베스트...",
           "link": "https://www.mydaily.co.kr/page/view/2026081412305882726",
@@ -55,32 +134,26 @@
           "date": "2026-08-14"
         },
         {
-          "title": "유럽축구 개막, 코리안리거 0명 위기 EPL서 라리가로 관심 이동?",
-          "link": "https://www.dailian.co.kr/news/view/1678742/?sc=Naver",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
           "title": "[그래도 K리그] '이상 신호' 김기동 축구...선두 서울, 황선홍의 대전 넘...",
           "link": "https://news.tf.co.kr/read/soccer/2354236.htm",
           "press": "",
           "date": "2026-08-14"
         },
         {
-          "title": "[오피셜]'韓 축구 에이스' 이강인, 마침내 AT 마드리드 소속 첫 선발 출...",
-          "link": "https://www.sportschosun.com/football/2026-08-14/202608140100087950005557",
+          "title": "유럽축구 개막, 코리안리거 0명 위기 EPL서 라리가로 관심 이동?",
+          "link": "https://www.dailian.co.kr/news/view/1678742/?sc=Naver",
           "press": "",
           "date": "2026-08-14"
         }
       ],
-      "rank": 1
+      "rank": 2
     },
     {
       "keyword": "대한민국 광복절",
       "traffic": "10000+",
-      "blogTotal": 23116,
-      "newsTotal": 80501,
-      "recentToday": 60,
+      "blogTotal": 23129,
+      "newsTotal": 80502,
+      "recentToday": 49,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -96,25 +169,31 @@
           "date": "2026-08-11"
         },
         {
-          "title": "2026년 광복절 몇 주년일까? 광복절 뜻과 올 8월에 즐기는 영화·뮤지....",
-          "link": "https://blog.naver.com/hippolight_dse/224354336893",
-          "blogger": "아름답고 따듯한 세상을 만드는 디에스이",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "광복절 여행 가볼만한곳 천안 독립기념관 서울 박물관 추천",
-          "link": "https://blog.naver.com/jjinlove1720/224373817469",
-          "blogger": "놀면서 배우는 가족 여행",
-          "date": "2026-08-10"
+          "title": "성심당 광복절빵 4개입 가격 맛 유통기한 내돈내산 대전역 구입 후....",
+          "link": "https://blog.naver.com/nrnrnrnrnr/224368147133",
+          "blogger": "하루의 꼼꼼한 리뷰 다이어리",
+          "date": "2026-08-05"
         },
         {
           "title": "광복절 현수막에 태극기를 거꾸로? 김희철이 사이다 일침 이유",
           "link": "https://blog.naver.com/saevom22/224372393850",
           "blogger": "꾸리의 공부에세이",
           "date": "2026-08-08"
+        },
+        {
+          "title": "광복절 여행 가볼만한곳 천안 독립기념관 서울 박물관 추천",
+          "link": "https://blog.naver.com/jjinlove1720/224373817469",
+          "blogger": "놀면서 배우는 가족 여행",
+          "date": "2026-08-10"
         }
       ],
       "topNews": [
+        {
+          "title": "\"일본은 항상 이겨야 해, 광복절이라 더 중요\"…마줄스호 '무서운 막내...",
+          "link": "https://www.xportsnews.com/article/2183817",
+          "press": "",
+          "date": "2026-08-14"
+        },
         {
           "title": "160㎞ 국토대장정·역사교육… 다음세대에 ‘신앙 기념비’ 세운다",
           "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000003269&cp=nv",
@@ -134,19 +213,13 @@
           "date": "2026-08-14"
         },
         {
-          "title": "국민의힘 장동혁·정점식, “이재명 정부 개헌론·부동산 맹비판”",
-          "link": "http://www.breaknews.com/1229245",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
           "title": "서산시, 동부시장서 ‘광복절 태극기 달기’ 운동 전개…",
           "link": "http://www.breaknews.com/1229235",
           "press": "",
           "date": "2026-08-14"
         }
       ],
-      "rank": 2
+      "rank": 3
     },
     {
       "keyword": "네이버 웹툰",
@@ -201,14 +274,14 @@
           "date": "2026-08-14"
         },
         {
-          "title": "'지스타 2026' 출격 준비… 올해 관전 포인트는?",
-          "link": "https://www.econovill.com/news/articleView.html?idxno=748070",
+          "title": "비밀과 뒤틀린 욕망이 충돌하는 고자극 스릴러[핫웹툰]",
+          "link": "https://www.sedaily.com/article/20079655?ref=naver",
           "press": "",
           "date": "2026-08-14"
         },
         {
-          "title": "비밀과 뒤틀린 욕망이 충돌하는 고자극 스릴러[핫웹툰]",
-          "link": "https://www.sedaily.com/article/20079655?ref=naver",
+          "title": "'지스타 2026' 출격 준비… 올해 관전 포인트는?",
+          "link": "https://www.econovill.com/news/articleView.html?idxno=748070",
           "press": "",
           "date": "2026-08-14"
         },
@@ -219,14 +292,14 @@
           "date": "2026-08-14"
         }
       ],
-      "rank": 3
+      "rank": 4
     },
     {
       "keyword": "인구감소지역",
       "traffic": "100+",
-      "blogTotal": 24728,
+      "blogTotal": 24729,
       "newsTotal": 715143,
-      "recentToday": 32,
+      "recentToday": 33,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -254,10 +327,10 @@
           "date": "2026-07-23"
         },
         {
-          "title": "고유가 피해지원금 더 주는 89개 인구감소지역은? (우대지원, 특별지....",
-          "link": "https://blog.naver.com/findaway12/224249857001",
-          "blogger": "1% 해석",
-          "date": "2026-04-12"
+          "title": "대한민국 인구 감소율 최고 지역 TOP 10과 원인 분석",
+          "link": "https://blog.naver.com/cokehan/224301326914",
+          "blogger": "하고 싶은 건 지금 해라!지금이 내 인생 중 가장 젊다",
+          "date": "2026-05-31"
         }
       ],
       "topNews": [
@@ -292,7 +365,7 @@
           "date": "2026-08-14"
         }
       ],
-      "rank": 4
+      "rank": 5
     },
     {
       "keyword": "t 멤버십",
@@ -361,79 +434,6 @@
         {
           "title": "도미노피자, SKT T멤버십 고객 대상 'SKT T day' 진행",
           "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=206116",
-          "press": "",
-          "date": "2026-08-14"
-        }
-      ],
-      "rank": 5
-    },
-    {
-      "keyword": "김원중",
-      "traffic": "200+",
-      "blogTotal": 16914,
-      "newsTotal": 64738,
-      "recentToday": 4,
-      "recentWeek": 23,
-      "topBlogs": [
-        {
-          "title": "“5점 차가 3점 차로” 김원중 흔들리자 김태형이 직접 마운드에 나....",
-          "link": "https://blog.naver.com/yfg7459/224367975129",
-          "blogger": "갓플베",
-          "date": "2026-08-04"
-        },
-        {
-          "title": "\"카리스마인가 공개 망신인가\" 롯데 김태형 감독이 김원중 글러브를....",
-          "link": "https://blog.naver.com/jjccm0316/224366304935",
-          "blogger": "스포러브",
-          "date": "2026-08-03"
-        },
-        {
-          "title": "\"뺨 맞은 거나 마찬가지\" 김원중, 마운드서 글러브 뺏겼다",
-          "link": "https://blog.naver.com/osang33/224366486048",
-          "blogger": "푸른 하늘",
-          "date": "2026-08-03"
-        },
-        {
-          "title": "\"이게 그 의미라고?\" 롯데 김태형 감독이 김원중의 글러브를 내려버....",
-          "link": "https://blog.naver.com/sjhw118/224366321826",
-          "blogger": "축잘알을 향하여",
-          "date": "2026-08-03"
-        },
-        {
-          "title": "얼어붙은 마운드, 글러브 확 젖힌 김태형의 살벌한 눈빛, '입틀막' ....",
-          "link": "https://blog.naver.com/420yskkk/224366844462",
-          "blogger": "소소한일상 그리고 소소한운동",
-          "date": "2026-08-03"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "맞힌 레이예스도 관중도 놀랐다... '강타구 안면 직격' NC 임지민 병원 ...",
-          "link": "https://www.starnewskorea.com/sports/2026/08/15/2026081500550773953",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "\"김원중 마무리 박탈해야\" 롯데 팬들 인내심 폭발...후반기 ERA 11.12, WHIP...",
-          "link": "http://www.maniareport.com/view.php?ud=20260815004813472191b55a0d56_19",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "4위 두산, KIA 잡고 2연승 질주…LG 반 경기 차 추격",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008706461&plink=ORI&cooper=NAVER",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "52분 기다림 끝에 KIA 잡은 4위 두산, 3위 LG 반 경기 차 추격(종합)",
-          "link": "https://www.yna.co.kr/view/AKR20260814183851007?input=1195m",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "얼굴 강타당한 NC 임지민…\"안면부 타박상으로 정밀 검진 예정\"(종합)",
-          "link": "https://www.yna.co.kr/view/AKR20260814185751007?input=1195m",
           "press": "",
           "date": "2026-08-14"
         }
@@ -515,9 +515,9 @@
     },
     {
       "keyword": "마르세유 대 아틀레티코",
-      "traffic": "1000+",
+      "traffic": "10000+",
       "blogTotal": 6,
-      "newsTotal": 363,
+      "newsTotal": 364,
       "recentToday": 0,
       "recentWeek": 0,
       "topBlogs": [
@@ -554,6 +554,12 @@
       ],
       "topNews": [
         {
+          "title": "\"환성적이었다!\" '그리즈만 롤' 이강인, 첫 선발+미친 침투 패스→35분 ...",
+          "link": "https://www.sportschosun.com/football/2026-08-15/202608150100088220005572",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
           "title": "의욕 미쳤다! 마침내 아틀레티코 훈련장 입성한 이강인, 예정보다 일찍...",
           "link": "https://www.sportschosun.com/football/2026-08-12/202608120100071520004410",
           "press": "",
@@ -576,12 +582,6 @@
           "link": "http://www.footballist.co.kr/news/articleView.html?idxno=213330",
           "press": "",
           "date": "2026-08-08"
-        },
-        {
-          "title": "[월드컵 아스트로] ‘즐기는 자 모드’ 메시, 누가 막을쏘냐… 월드컵 ...",
-          "link": "https://www.sportsworldi.com/newsView/20260623502584",
-          "press": "",
-          "date": "2026-06-22"
         }
       ],
       "rank": 8
@@ -662,11 +662,17 @@
     {
       "keyword": "돈",
       "traffic": "2000+",
-      "blogTotal": 10088319,
-      "newsTotal": 7202801,
+      "blogTotal": 10088493,
+      "newsTotal": 7202808,
       "recentToday": 0,
       "recentWeek": 100,
       "topBlogs": [
+        {
+          "title": "돈키호테 여름 쿨링템 추천 | 시브리즈 아이스 바디 타월 솔직후기 (....",
+          "link": "https://blog.naver.com/senman456/224332779194",
+          "blogger": "센만이의 뷰티탐구",
+          "date": "2026-07-01"
+        },
         {
           "title": "돈키호테 추천템 총정리 면세 할인쿠폰 사용법까지",
           "link": "https://blog.naver.com/jysm0712/224364905803",
@@ -674,10 +680,10 @@
           "date": "2026-08-01"
         },
         {
-          "title": "돈키호테 여름 쿨링템 추천 | 시브리즈 아이스 바디 타월 솔직후기 (....",
-          "link": "https://blog.naver.com/senman456/224332779194",
-          "blogger": "센만이의 뷰티탐구",
-          "date": "2026-07-01"
+          "title": "일본 돈키호테 화장품 솔직리뷰, 추천템vs비추천템 정리",
+          "link": "https://blog.naver.com/myj3306/224289907288",
+          "blogger": "왕굴로드:맛집여행",
+          "date": "2026-05-19"
         },
         {
           "title": "후쿠오카 돈키호테 텐진 니시도리점(26년 6월 오픈) 후기 (할인쿠폰/....",
@@ -686,46 +692,40 @@
           "date": "2026-08-01"
         },
         {
-          "title": "일본 삿포로 돈키호테 꼭 사야 할 쇼핑리스트 추천 (선물, 간식, 할....",
-          "link": "https://blog.naver.com/jitothewon/224361519352",
-          "blogger": "원두콩은 여행 중",
+          "title": "케이뱅크 돈나무 키우기 영양제 빠르게 확보하자!",
+          "link": "https://blog.naver.com/dbs_jln/224361382867",
+          "blogger": "겝빈",
           "date": "2026-07-29"
-        },
-        {
-          "title": "중국여행 출국 준비물 중국돈 환전 환율 1위안 100위안 가격 얼마 계....",
-          "link": "https://blog.naver.com/zinizio/224332080121",
-          "blogger": "지니지오",
-          "date": "2026-06-30"
         }
       ],
       "topNews": [
         {
-          "title": "[송길원 목사의 고백록] 네 컷 인생이 남긴 불멸의 유산",
-          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000003276&cp=nv",
+          "title": "[이승환 경감의 사기(詐欺) 심리학]  속는 사람들의 취약점",
+          "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=315424",
           "press": "",
           "date": "2026-08-14"
         },
         {
-          "title": "싱글맘 죽음으로 내몬 ‘연 6083%’ 사채업자…2심서 징역 3년 6개월로 ...",
-          "link": "https://www.sedaily.com/article/20079551?ref=naver",
+          "title": "美, 고강도 이란 경제제재 예고…\"전례없는 고립 조치 적용\"",
+          "link": "https://www.yna.co.kr/view/AKR20260815003700071?input=1195m",
           "press": "",
           "date": "2026-08-14"
         },
         {
-          "title": "벽돌에 망치까지 들고 '쾅'…인천 무인매장 잇따라 털려",
-          "link": "https://www.newsis.com/view/NISX20260814_0003749011",
+          "title": "메타플래닛, 일본 첫 무담보 채권 ‘비트본드’ 발행…2억엔 조달해 비...",
+          "link": "https://www.wikitree.co.kr/articles/1152607",
           "press": "",
           "date": "2026-08-14"
         },
         {
-          "title": "광복절엔 장병 챙기고, 경기장에선 한국 스포츠 밀고... 하나은행의 '스...",
-          "link": "https://www.stnsports.co.kr/news/articleView.html?idxno=320988",
+          "title": "SK는 왜 ‘4중 상장’에 도전하나… 성공하면 달라지는 것들[홍길용의 ...",
+          "link": "https://biz.heraldcorp.com/article/10842125?ref=naver",
           "press": "",
           "date": "2026-08-14"
         },
         {
-          "title": "\"유학생 재입국 시 성적표 지참해야 안전... 석사 두번 안돼\"",
-          "link": "https://www.radiokorea.com/news/article.php?uid=501655",
+          "title": "BBC가 보도한 은행원 김씨 결혼자금 2천만원 말아먹은 사연",
+          "link": "https://www.munhwa.com/article/11609715?ref=naver",
           "press": "",
           "date": "2026-08-14"
         }
