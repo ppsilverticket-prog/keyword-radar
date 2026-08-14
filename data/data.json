@@ -1,86 +1,13 @@
 {
-  "updatedAt": "2026-08-14T14:18:12.719Z",
+  "updatedAt": "2026-08-14T15:21:34.445Z",
   "source": "live",
   "keywords": [
     {
-      "keyword": "변호사",
-      "traffic": "1000+",
-      "blogTotal": 6563885,
-      "newsTotal": 3448744,
-      "recentToday": 100,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "'검사 출신 변호사 겸 정치인' 김규현 학력 및 경력과 살아온 생애",
-          "link": "https://blog.naver.com/pso164/224357366027",
-          "blogger": "과학커뮤니케이터 박종현",
-          "date": "2026-07-31"
-        },
-        {
-          "title": "넷플릭스 드라마 추천 블랙 트릭 조작 변호사 후기",
-          "link": "https://blog.naver.com/fojesus/224370406533",
-          "blogger": "Entertainment",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "\"노소영 변호사비만 자손대대 먹고살겠네\" 노소영 변호사 수임료 얼....",
-          "link": "https://blog.naver.com/ilovekangstar/224357397330",
-          "blogger": "뉴스스타⭐️",
-          "date": "2026-07-25"
-        },
-        {
-          "title": "배우 오초희 누구? 나이 남편 남주성 변호사 40대 쌍둥이 엄마 독박....",
-          "link": "https://blog.naver.com/qhrfks1004/224373296028",
-          "blogger": "♥라니의 달콤한세상이야기♥",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "9,440억 현금지급, 최태원·노소영 이혼 판결 완벽 정리! (최태원 재산....",
-          "link": "https://blog.naver.com/amingzoo/224356652276",
-          "blogger": "주밍의 이슈 앤 라이프",
-          "date": "2026-07-24"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "'싸이월드' 악용한 미상장 코인 다단계 수사 착수…137억 승소 전 대표 ...",
-          "link": "https://www.goodkyung.com/news/articleView.html?idxno=290330",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "가수→美 변호사→이번엔 뮤지컬 작가…이소은의 ‘끝없는 변신’",
-          "link": "https://www.joongang.co.kr/article/25453482",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "'독립운동가 후손' 이인철 변호사, 결국 눈물…하영 집안에 \"독립기념관...",
-          "link": "https://www.xportsnews.com/article/2183805",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "[투나잇이슈] 李 \"4년 중임·연임제로 중간평가\"…野 \"임기 연장 거부 먼...",
-          "link": "http://www.yonhapnewstv.co.kr/news/MYH20260814230336plj",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "\"남동생 구하려던 절박한 여성 심리 악용\"…“변호 비용은 성관계” 요...",
-          "link": "https://www.etnews.com/20260814000241",
-          "press": "",
-          "date": "2026-08-14"
-        }
-      ],
-      "rank": 1
-    },
-    {
       "keyword": "달서구",
       "traffic": "100+",
-      "blogTotal": 1020254,
-      "newsTotal": 284279,
-      "recentToday": 100,
+      "blogTotal": 1020270,
+      "newsTotal": 284281,
+      "recentToday": 95,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -116,6 +43,18 @@
       ],
       "topNews": [
         {
+          "title": "[8월 셋째주 분양동향] 전국 2,760가구 분양…수도권 물량 다수",
+          "link": "http://www.srtimes.kr/news/articleView.html?idxno=210081",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "1236회 로또 고액 배출점 통계…오프라인 1등 11곳·2등 78곳·인터넷 2등...",
+          "link": "https://www.econovill.com/news/articleView.html?idxno=747729",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
           "title": "'폭염 경감 시설' 우리 동네엔 왜 없죠?",
           "link": "https://www.tbc.co.kr/news/view?pno=20260813161757AE03920&id=209790",
           "press": "",
@@ -132,16 +71,77 @@
           "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000545211",
           "press": "",
           "date": "2026-08-14"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "keyword": "용인시",
+      "traffic": "100+",
+      "blogTotal": 1021791,
+      "newsTotal": 813972,
+      "recentToday": 94,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "용인 기흥 동백 고기 맛집 추천 고철상 용인동백본점 찐후기",
+          "link": "https://blog.naver.com/h_0_n_g/224360856459",
+          "blogger": "Emma.zip",
+          "date": "2026-07-28"
         },
         {
-          "title": "[Y르포] “이제 좀 살겠다”…선선해지자 공원으로 ‘우르르’",
-          "link": "https://www.yeongnam.com/web/view.php?key=20260814026252274",
+          "title": "용인 고기리막국수 | 주말 1시간30분 웨이팅 후기",
+          "link": "https://blog.naver.com/kamja3085/224359371631",
+          "blogger": "두슬이네",
+          "date": "2026-07-27"
+        },
+        {
+          "title": "용인계곡 맛집 추천 | 서울근교 용인 고기리계곡 맛집, 누룽지백숙....",
+          "link": "https://blog.naver.com/heavenswoo/224347776012",
+          "blogger": "추억을 기록하는 나다 :)",
+          "date": "2026-07-15"
+        },
+        {
+          "title": "용인시 한옥건축 지원사업 추가 모집! 최대 1,000만원 지원받는 방법 ....",
+          "link": "https://blog.naver.com/dhkim0422/224366947215",
+          "blogger": "무릎에 사서 어깨에서 팔기",
+          "date": "2026-08-03"
+        },
+        {
+          "title": "용인 고기리 계곡카페 테라스478 주차 브런치 메뉴 키즈 애견 동반",
+          "link": "https://blog.naver.com/sarah_1227_/224308396225",
+          "blogger": "Adorable my life ෆ",
+          "date": "2026-06-07"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "[패트롤] 경기도-경기도의회-경기도교육청",
+          "link": "https://www.ekn.kr/web/view.php?key=20260814024153072",
           "press": "",
           "date": "2026-08-14"
         },
         {
-          "title": "[8월 3주 청약] 다음 주 전국 2760가구 청약…수도권에 약 80% 집중",
-          "link": "https://www.fntimes.com/html/view.php?ud=202608141806366086048b718333_18",
+          "title": "[패트롤] 성남시-용인시-이천시-경기광주시-여주시",
+          "link": "https://www.ekn.kr/web/view.php?key=20260814022183094",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "[용인 민선 9기 연속기획⑤] 반도체 성장동력, 골목과 농촌까지 잇는다...",
+          "link": "http://www.newstown.co.kr/news/articleView.html?idxno=712527",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "[오늘의 행정 일기] 용인시 기흥구, 도·시의원과 머리 맞대…“주민 체...",
+          "link": "https://www.nspna.com/news/?mode=view&newsid=824477",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "SK하이닉스 품다… 떴다방 등장한 ‘동일하이빌 파크밸리’[현장]",
+          "link": "https://www.donga.com/news/Economy/article/all/20260814/134482048/2",
           "press": "",
           "date": "2026-08-14"
         }
@@ -150,10 +150,10 @@
     },
     {
       "keyword": "보그",
-      "traffic": "500+",
+      "traffic": "1000+",
       "blogTotal": 149117,
       "newsTotal": 86043,
-      "recentToday": 87,
+      "recentToday": 89,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -222,85 +222,12 @@
       "rank": 3
     },
     {
-      "keyword": "내일 날씨",
-      "traffic": "200000+",
-      "blogTotal": 424564,
-      "newsTotal": 724325,
-      "recentToday": 79,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "양산 날씨 기록",
-          "link": "https://blog.naver.com/tlrksckdrh/224365163611",
-          "blogger": "아무것도 하지 않으면 아무 일도 일어나지 않는다",
-          "date": "2026-08-01"
-        },
-        {
-          "title": "공심채 볶음 요리 모닝글로리 볶음",
-          "link": "https://blog.naver.com/jhj6972/224366748149",
-          "blogger": "숲 집밥..슬기로운 집밥생활",
-          "date": "2026-08-03"
-        },
-        {
-          "title": "부산 날씨 오늘·내일 비 예보, 해운대는 파도와 너울 주의하세요",
-          "link": "https://blog.naver.com/kthcall/224373168436",
-          "blogger": "마흔의 운영법",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "시즈오카 날씨 언제 가야 좋을까 계절별 옷차림 여행 시기 총정리",
-          "link": "https://blog.naver.com/halosoy/224294598978",
-          "blogger": "또이빈의 내일도 여행중",
-          "date": "2026-05-23"
-        },
-        {
-          "title": "더워도 더워도 너무 더운 날씨이다.",
-          "link": "https://blog.naver.com/bsbae3367/224369231243",
-          "blogger": "감사와 기쁨",
-          "date": "2026-08-05"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "[날씨] 광복절 연휴 전국 비…남부 많고 강한 비 집중",
-          "link": "http://www.yonhapnewstv.co.kr/news/MYH20260814224049IzU",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "내일 중부 소나기…내일~모레 전국 비",
-          "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1534161",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "[내일 날씨] 광복절 전국 흐리고 남부 많은 비",
-          "link": "https://www.g-enews.com/view.php?ud=20260814220612889824debea800_1",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "[뉴스9 날씨] 광복절 연휴, 전국에 비…남부·제주 최대 200mm↑",
-          "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8637772&ref=A",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "내일날씨, 제주부터 '80mm이상 비' 전국 비소식→주말날씨",
-          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3665250",
-          "press": "",
-          "date": "2026-08-14"
-        }
-      ],
-      "rank": 4
-    },
-    {
       "keyword": "엄지원",
       "traffic": "500+",
-      "blogTotal": 21787,
+      "blogTotal": 21788,
       "newsTotal": 92613,
       "recentToday": 33,
-      "recentWeek": 65,
+      "recentWeek": 67,
       "topBlogs": [
         {
           "title": "\"엉뽕인 줄 알았는데...\" 48세 엄지원 완벽한 골반 라인 비결은 '이 운....",
@@ -365,85 +292,12 @@
           "date": "2026-08-14"
         }
       ],
-      "rank": 5
-    },
-    {
-      "keyword": "출연료",
-      "traffic": "1000+",
-      "blogTotal": 30501,
-      "newsTotal": 149931,
-      "recentToday": 32,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "\"회당 14억이라고?\" 대한민국 톱배우 실제 출연료 순위 TOP 6와 진짜 ....",
-          "link": "https://blog.naver.com/certified07/224308584970",
-          "blogger": "스페셜리스트",
-          "date": "2026-06-07"
-        },
-        {
-          "title": "스파이더맨 메시 초당출연료 화제.. 근데 안나옴, 어느 장면에 나오....",
-          "link": "https://blog.naver.com/everythingforyou/224372927915",
-          "blogger": "투데이 스타 이슈♡",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "중국에서 출연료 7000억원? 한국에서는 활동 없는 여배우",
-          "link": "https://blog.naver.com/qufqlc08/224323151697",
-          "blogger": "소유 beauty",
-          "date": "2026-06-22"
-        },
-        {
-          "title": "올해 가장 돈 많이 번다는 할리우드 여배우 “스파이더맨의 그녀 젠....",
-          "link": "https://blog.naver.com/1004gywl/224370330208",
-          "blogger": "효선생 “경제노트”",
-          "date": "2026-08-06"
-        },
-        {
-          "title": "'동궁' 출연료 1위는 누구? 조승우·남주혁·노윤서 비교해 보니",
-          "link": "https://blog.naver.com/whwlsgml21/224350777298",
-          "blogger": "부자 엄마의 현실 돈 이야기",
-          "date": "2026-07-19"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "'궁금한이야기Y' 가수 이씨, 청송군 행사 여러차례 등장...입장 바꾼 공...",
-          "link": "https://www.slist.kr/news/articleView.html?idxno=758900",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "[서인호 칼럼] 평택시문화재단, 몸집은 커졌는데 시민과 예술인은 왜 더...",
-          "link": "https://www.kmaeil.com/news/articleView.html?idxno=648632",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "친일재산 환수 16년 만에 재개…하영과 안상호 재산도 환수 가능할까",
-          "link": "https://view.asiae.co.kr/article/2026081414560919856",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "[인터뷰 | 강제윤 섬연구소장]섬들의 황금시대 ‘파시’ 기록위해 영화...",
-          "link": "https://www.naeil.com/news/read/598914?ref=naver",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "'가방만 300개' 강부자 \"남편에 경제권 다 주고 용돈 받아..남편 외박도...",
-          "link": "http://www.osen.co.kr/article/G1112857089",
-          "press": "",
-          "date": "2026-08-14"
-        }
-      ],
-      "rank": 6
+      "rank": 4
     },
     {
       "keyword": "윤미라",
       "traffic": "500+",
-      "blogTotal": 3538,
+      "blogTotal": 3533,
       "newsTotal": 13398,
       "recentToday": 30,
       "recentWeek": 53,
@@ -511,15 +365,15 @@
           "date": "2026-08-14"
         }
       ],
-      "rank": 7
+      "rank": 5
     },
     {
       "keyword": "양정아",
       "traffic": "500+",
-      "blogTotal": 5914,
+      "blogTotal": 5913,
       "newsTotal": 17229,
       "recentToday": 9,
-      "recentWeek": 56,
+      "recentWeek": 57,
       "topBlogs": [
         {
           "title": "황신혜의 같이 삽시다 30회 양정아, 언니들과 첫 밤마실",
@@ -584,7 +438,226 @@
           "date": "2026-08-13"
         }
       ],
+      "rank": 6
+    },
+    {
+      "keyword": "임지민",
+      "traffic": "1000+",
+      "blogTotal": 2071,
+      "newsTotal": 10018,
+      "recentToday": 4,
+      "recentWeek": 8,
+      "topBlogs": [
+        {
+          "title": "NC 임지민이 끝냈다 KIA전 다섯 대 네 승리 지킨 1과 3분의 1이닝 무실....",
+          "link": "https://blog.naver.com/echo90/224336479619",
+          "blogger": "동화같은 삶~!",
+          "date": "2026-07-04"
+        },
+        {
+          "title": "KBO 야구 선수 임지민(프로필,스타일,경력 등)",
+          "link": "https://blog.naver.com/mistermy18/224359329672",
+          "blogger": "H2의 스포츠와 여행",
+          "date": "2026-07-27"
+        },
+        {
+          "title": "“타구에 맞고 쓰러진 임지민” NC-롯데전 충격의 순간, 구급차까지 ....",
+          "link": "https://blog.naver.com/yb730920/224379007867",
+          "blogger": "롱이네",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "간접계투가 이렇게 무서울 줄이야… NC 임지민, 오늘도 존재감 폭발!....",
+          "link": "https://blog.naver.com/jalanika1/224336485795",
+          "blogger": "하늘아이 매거진",
+          "date": "2026-07-04"
+        },
+        {
+          "title": "\"152km 직구가 그대로 돌아왔다\" NC 임지민, 안면 강타 후 병원 이송… ....",
+          "link": "https://blog.naver.com/yyjj2814/224378988523",
+          "blogger": "열정의 그라운드",
+          "date": "2026-08-14"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "임지민 헤드샷 쇼크, NC 승리 세리머니도 안했다...\"임지민 부상 걱정된...",
+          "link": "http://www.osen.co.kr/article/G1112857667",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "얼굴 강타당한 NC 임지민…\"안면부 타박상으로 정밀 검진 예정\"(종합)",
+          "link": "https://www.yna.co.kr/view/AKR20260814185751007?input=1195m",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "타구에 얼굴 맞은 NC 임지민…“안면부 타박상 정밀 검진 예정”",
+          "link": "https://www.joongang.co.kr/article/25453487",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "최민준, 동료 유니폼 입고 6회 1사까지 노히트",
+          "link": "https://www.ytn.co.kr/_ln/0107_202608142354317850",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "NC 투수 임지민, 강습 타구에 맞아 부상‥펜스 문 열리지 않아 구급차 도...",
+          "link": "https://imnews.imbc.com/news/2026/sports/article/6844903_36946.html",
+          "press": "",
+          "date": "2026-08-14"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "keyword": "김원중",
+      "traffic": "200+",
+      "blogTotal": 16907,
+      "newsTotal": 64735,
+      "recentToday": 4,
+      "recentWeek": 16,
+      "topBlogs": [
+        {
+          "title": "“5점 차가 3점 차로” 김원중 흔들리자 김태형이 직접 마운드에 나....",
+          "link": "https://blog.naver.com/yfg7459/224367975129",
+          "blogger": "갓플베",
+          "date": "2026-08-04"
+        },
+        {
+          "title": "\"카리스마인가 공개 망신인가\" 롯데 김태형 감독이 김원중 글러브를....",
+          "link": "https://blog.naver.com/jjccm0316/224366304935",
+          "blogger": "스포러브",
+          "date": "2026-08-03"
+        },
+        {
+          "title": "\"뺨 맞은 거나 마찬가지\" 김원중, 마운드서 글러브 뺏겼다",
+          "link": "https://blog.naver.com/osang33/224366486048",
+          "blogger": "푸른 하늘",
+          "date": "2026-08-03"
+        },
+        {
+          "title": "\"이게 그 의미라고?\" 롯데 김태형 감독이 김원중의 글러브를 내려버....",
+          "link": "https://blog.naver.com/sjhw118/224366321826",
+          "blogger": "축잘알을 향하여",
+          "date": "2026-08-03"
+        },
+        {
+          "title": "얼어붙은 마운드, 글러브 확 젖힌 김태형의 살벌한 눈빛, '입틀막' ....",
+          "link": "https://blog.naver.com/420yskkk/224366844462",
+          "blogger": "소소한일상 그리고 소소한운동",
+          "date": "2026-08-03"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "52분 기다림 끝에 KIA 잡은 4위 두산, 3위 LG 반 경기 차 추격(종합)",
+          "link": "https://www.yna.co.kr/view/AKR20260814183851007?input=1195m",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "얼굴 강타당한 NC 임지민…\"안면부 타박상으로 정밀 검진 예정\"(종합)",
+          "link": "https://www.yna.co.kr/view/AKR20260814185751007?input=1195m",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "타구에 얼굴 맞은 NC 임지민…“안면부 타박상 정밀 검진 예정”",
+          "link": "https://www.joongang.co.kr/article/25453487",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "'홈런 4방' 삼성, 한화 꺾고 4연패 뒤 2연승…'김재환 결승포' SSG, LG 5-3...",
+          "link": "https://www.newsis.com/view/NISX20260814_0003750371",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "외야 문 안 열려 지연된 구급차…안면부 강타당한 NC 임지민",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16164014",
+          "press": "",
+          "date": "2026-08-14"
+        }
+      ],
       "rank": 8
+    },
+    {
+      "keyword": "변호사",
+      "traffic": "1000+",
+      "blogTotal": 6564314,
+      "newsTotal": 3448749,
+      "recentToday": 0,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "오은영리포트 냉온부부 오초희 변호사 남편, 30년 포켓몬 덕질과 육....",
+          "link": "https://blog.naver.com/zumzany/224374654046",
+          "blogger": "점자니의 점잖은 생활",
+          "date": "2026-08-11"
+        },
+        {
+          "title": "'검사 출신 변호사 겸 정치인' 김규현 학력 및 경력과 살아온 생애",
+          "link": "https://blog.naver.com/pso164/224357366027",
+          "blogger": "과학커뮤니케이터 박종현",
+          "date": "2026-07-31"
+        },
+        {
+          "title": "넷플릭스 드라마 추천 블랙 트릭 조작 변호사 후기",
+          "link": "https://blog.naver.com/fojesus/224370406533",
+          "blogger": "Entertainment",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "\"노소영 변호사비만 자손대대 먹고살겠네\" 노소영 변호사 수임료 얼....",
+          "link": "https://blog.naver.com/ilovekangstar/224357397330",
+          "blogger": "뉴스스타⭐️",
+          "date": "2026-07-25"
+        },
+        {
+          "title": "배우 오초희 누구? 나이 남편 남주성 변호사 40대 쌍둥이 엄마 독박....",
+          "link": "https://blog.naver.com/qhrfks1004/224373296028",
+          "blogger": "♥라니의 달콤한세상이야기♥",
+          "date": "2026-08-09"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "[결혼과 이혼] \"오빠에게만 15억 아파트 증여\"…父 사후 알게 된 딸, 나...",
+          "link": "http://www.inews24.com/view/1995108",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "백악관 새 대변인은 누구?…전·현직 참모에 트럼프 가족도 거론",
+          "link": "https://www.yna.co.kr/view/AKR20260814186000071?input=1195m",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "[그해 오늘] 군검사들이 나눈 '수상한 대화'…혼자서 다 만든 변호사",
+          "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=01111926645547648",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "“대법서 뒤집힐 가능성 낮다”는데…최태원 시간벌기 나선 이유",
+          "link": "https://www.joongang.co.kr/article/25453500",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "‘나솔사계’ 옥순·영자, 호감남 겹쳤다",
+          "link": "http://www.kjdaily.com/article.php?aid=1786719602684549227",
+          "press": "",
+          "date": "2026-08-14"
+        }
+      ],
+      "rank": 9
     },
     {
       "keyword": "cuaca besok",
@@ -626,79 +699,6 @@
         }
       ],
       "topNews": [],
-      "rank": 9
-    },
-    {
-      "keyword": "weather tomorrow",
-      "traffic": "2000+",
-      "blogTotal": 336,
-      "newsTotal": 8221,
-      "recentToday": 0,
-      "recentWeek": 1,
-      "topBlogs": [
-        {
-          "title": "CINA — 7.12 反(李)정부 투쟁",
-          "link": "http://blog.jinbo.net/CINA/1557",
-          "blogger": "CINA",
-          "date": "1990-01-01"
-        },
-        {
-          "title": "6월 5일(금) 투자자 매매동향 분석",
-          "link": "https://tikongs.tistory.com/1554",
-          "blogger": "콩쓰의 화끈한 생각",
-          "date": "2026-06-05"
-        },
-        {
-          "title": "패미콤 명작게임 OST, BGM - 기믹, Gimmick OST, ギミック! BGM",
-          "link": "https://miha-famicom.tistory.com/664",
-          "blogger": "MIHA-FAMICOM | 미하패미컴",
-          "date": "2017-10-24"
-        },
-        {
-          "title": "캐나다 일상영어] 동료와 골프 라운딩 대화 나누기",
-          "link": "https://blog.naver.com/djhahn/224287289246",
-          "blogger": "캐나다 윈저 생활 정보, 골프 레슨",
-          "date": "2026-05-16"
-        },
-        {
-          "title": "CINA — NK: 추운 겨울이 오고 있다",
-          "link": "http://blog.jinbo.net/CINA/3657",
-          "blogger": "CINA",
-          "date": "2014-12-05"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "Are Political Polls Accurate?",
-          "link": "https://www.nytimes.com/2026/08/14/briefing/are-political-polls-accurate.html?partner=naver",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "Today, In Short",
-          "link": "https://www.nytimes.com/2026/08/13/briefing/today-in-short.html?partner=naver",
-          "press": "",
-          "date": "2026-08-13"
-        },
-        {
-          "title": "Trump’s Tariffs Force Some Canadian Companies to Consider Moving South",
-          "link": "https://www.nytimes.com/2026/08/12/world/canada/canada-tariffs-manufacturing-trade-trump.html?partner=naver",
-          "press": "",
-          "date": "2026-08-12"
-        },
-        {
-          "title": "Total Eclipse",
-          "link": "https://www.nytimes.com/2026/08/11/world/total-eclipse-trump-secret-escape.html?partner=naver",
-          "press": "",
-          "date": "2026-08-11"
-        },
-        {
-          "title": "Extreme heat peaks as Seoul reaches 39 degrees Celsius",
-          "link": "https://www.arirang.com/news/view?id=299361",
-          "press": "",
-          "date": "2026-08-06"
-        }
-      ],
       "rank": 10
     }
   ]
