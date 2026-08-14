@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T19:28:19.743Z",
+  "updatedAt": "2026-08-14T20:04:09.005Z",
   "source": "live",
   "keywords": [
     {
@@ -78,9 +78,9 @@
     {
       "keyword": "쿠팡플레이",
       "traffic": "500+",
-      "blogTotal": 86002,
-      "newsTotal": 157732,
-      "recentToday": 79,
+      "blogTotal": 86003,
+      "newsTotal": 157733,
+      "recentToday": 78,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -116,6 +116,12 @@
       ],
       "topNews": [
         {
+          "title": "故 안판석 감독, 오늘(15일) 발인..김희애·김혜수·정려원 애도 속 영면",
+          "link": "https://www.starnewskorea.com/star/2026/08/15/2026081500012766495",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
           "title": "\"환성적이었다!\" '그리즈만 롤' 이강인, 첫 선발+미친 침투 패스→35분 ...",
           "link": "https://www.sportschosun.com/football/2026-08-15/202608150100088220005572",
           "press": "",
@@ -134,12 +140,6 @@
           "date": "2026-08-14"
         },
         {
-          "title": "[그래도 K리그] '이상 신호' 김기동 축구...선두 서울, 황선홍의 대전 넘...",
-          "link": "https://news.tf.co.kr/read/soccer/2354236.htm",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
           "title": "유럽축구 개막, 코리안리거 0명 위기 EPL서 라리가로 관심 이동?",
           "link": "https://www.dailian.co.kr/news/view/1678742/?sc=Naver",
           "press": "",
@@ -151,9 +151,9 @@
     {
       "keyword": "대한민국 광복절",
       "traffic": "10000+",
-      "blogTotal": 23129,
-      "newsTotal": 80502,
-      "recentToday": 49,
+      "blogTotal": 23133,
+      "newsTotal": 80505,
+      "recentToday": 45,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -175,19 +175,37 @@
           "date": "2026-08-05"
         },
         {
+          "title": "광복절 뜻과 역사 총정리! 8월 15일 의미와 태극기 게양 방법",
+          "link": "https://blog.naver.com/shil0727/224367935791",
+          "blogger": "시리 커피의 살아 가는 이야기",
+          "date": "2026-08-04"
+        },
+        {
           "title": "광복절 현수막에 태극기를 거꾸로? 김희철이 사이다 일침 이유",
           "link": "https://blog.naver.com/saevom22/224372393850",
           "blogger": "꾸리의 공부에세이",
           "date": "2026-08-08"
-        },
-        {
-          "title": "광복절 여행 가볼만한곳 천안 독립기념관 서울 박물관 추천",
-          "link": "https://blog.naver.com/jjinlove1720/224373817469",
-          "blogger": "놀면서 배우는 가족 여행",
-          "date": "2026-08-10"
         }
       ],
       "topNews": [
+        {
+          "title": "광복절 연휴 어디로 갈까…독립 의미 되새기는 장소·행사 ‘풍성’",
+          "link": "https://biz.heraldcorp.com/article/10842104?ref=naver",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "[데스크칼럼] 광복절 78년…헌법상 기업의 자유·창의는 존중 받고 있나",
+          "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=270619",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "李대통령 광복 81주년 경축사…대체불가 대한민국 미래 비전 담을 듯",
+          "link": "https://www.news1.kr/politics/president/6259654",
+          "press": "",
+          "date": "2026-08-14"
+        },
         {
           "title": "\"일본은 항상 이겨야 해, 광복절이라 더 중요\"…마줄스호 '무서운 막내...",
           "link": "https://www.xportsnews.com/article/2183817",
@@ -199,24 +217,6 @@
           "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000003269&cp=nv",
           "press": "",
           "date": "2026-08-14"
-        },
-        {
-          "title": "광복절엔 장병 챙기고, 경기장에선 한국 스포츠 밀고... 하나은행의 '스...",
-          "link": "https://www.stnsports.co.kr/news/articleView.html?idxno=320988",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "영탁, 광복절 앞두고 국립중앙박물관 방문…역사와 문화유산에 뜨거운...",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16163993",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "서산시, 동부시장서 ‘광복절 태극기 달기’ 운동 전개…",
-          "link": "http://www.breaknews.com/1229235",
-          "press": "",
-          "date": "2026-08-14"
         }
       ],
       "rank": 3
@@ -225,7 +225,7 @@
       "keyword": "네이버 웹툰",
       "traffic": "100+",
       "blogTotal": 101072,
-      "newsTotal": 165506,
+      "newsTotal": 165507,
       "recentToday": 44,
       "recentWeek": 100,
       "topBlogs": [
@@ -262,6 +262,12 @@
       ],
       "topNews": [
         {
+          "title": "대작 경쟁 속 생존법 찾는 중견 게임사…IP '방어' 신작 '승부'",
+          "link": "https://www.asiatime.co.kr/article/20260814500336",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
           "title": "[김정유의 웹툰파헤치기] '짬밥 미슐랭' 먹어볼래?…'취사병 전설이 되...",
           "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=01305446645547648",
           "press": "",
@@ -284,93 +290,14 @@
           "link": "https://www.econovill.com/news/articleView.html?idxno=748070",
           "press": "",
           "date": "2026-08-14"
-        },
-        {
-          "title": "네카오, 콘텐츠 사업 동반 부진…IP 수익화 모델 고심",
-          "link": "http://www.newstomato.com/ReadNews.aspx?no=1310365&inflow=N",
-          "press": "",
-          "date": "2026-08-14"
         }
       ],
       "rank": 4
     },
     {
-      "keyword": "인구감소지역",
-      "traffic": "100+",
-      "blogTotal": 24729,
-      "newsTotal": 715143,
-      "recentToday": 33,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "인구감소지역 어디일까요? 전국 지정 지역과 기준 한눈에 정리",
-          "link": "https://blog.naver.com/gusgml2352/224373872496",
-          "blogger": "부동산-한도발굴단",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "강릉·동해·속초·인제, '인구감소지역' 지정될까… 10월 정부 재지....",
-          "link": "https://blog.naver.com/bestman0323/224367718355",
-          "blogger": "맛있는부동산이야기",
-          "date": "2026-08-04"
-        },
-        {
-          "title": "인구감소지역 89곳·관심지역 18곳, 지원 대상은 어떻게 다를까",
-          "link": "https://blog.naver.com/hwre7774/224361457752",
-          "blogger": "워누공간의 블로그",
-          "date": "2026-07-29"
-        },
-        {
-          "title": "2026 반값여행 신청방법 총정리｜인구소멸지역 여행지원금 최대 20만....",
-          "link": "https://blog.naver.com/lje413/224355587489",
-          "blogger": "해피쩡",
-          "date": "2026-07-23"
-        },
-        {
-          "title": "대한민국 인구 감소율 최고 지역 TOP 10과 원인 분석",
-          "link": "https://blog.naver.com/cokehan/224301326914",
-          "blogger": "하고 싶은 건 지금 해라!지금이 내 인생 중 가장 젊다",
-          "date": "2026-05-31"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "최정훈 전남광주특별시의회 교육위원장, “학부모는 교육의 핵심 동반자...",
-          "link": "http://www.breaknews.com/1229214",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "\"결혼 안 해요\"…중국 혼인신고 7.5%↓, 인구 감소 우려 커져",
-          "link": "https://www.newsis.com/view/NISX20260814_0003748841",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "의정부시 김원기 시장, '8.13 의정부시 재정혁신' 선언하다",
-          "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=390623",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "경북도의회 교육위, 경북교육 미래 비전 공유 및 지원책 모색",
-          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3665423",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "농협자산관리, 보령 주산해서 '말복 삼계탕' 나눔",
-          "link": "http://www.ccnnews.co.kr/news/articleView.html?idxno=413502",
-          "press": "",
-          "date": "2026-08-14"
-        }
-      ],
-      "rank": 5
-    },
-    {
       "keyword": "t 멤버십",
       "traffic": "100+",
-      "blogTotal": 52100,
+      "blogTotal": 52101,
       "newsTotal": 45817,
       "recentToday": 25,
       "recentWeek": 100,
@@ -438,7 +365,7 @@
           "date": "2026-08-14"
         }
       ],
-      "rank": 6
+      "rank": 5
     },
     {
       "keyword": "류중일",
@@ -511,13 +438,13 @@
           "date": "2026-08-14"
         }
       ],
-      "rank": 7
+      "rank": 6
     },
     {
       "keyword": "마르세유 대 아틀레티코",
       "traffic": "10000+",
       "blogTotal": 6,
-      "newsTotal": 364,
+      "newsTotal": 365,
       "recentToday": 0,
       "recentWeek": 0,
       "topBlogs": [
@@ -554,6 +481,12 @@
       ],
       "topNews": [
         {
+          "title": "이강인 겨우 '9번' 공 만졌는데 스페인 홀렸다!…\"이 선수는 다르다\"→...",
+          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1002001",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
           "title": "\"환성적이었다!\" '그리즈만 롤' 이강인, 첫 선발+미친 침투 패스→35분 ...",
           "link": "https://www.sportschosun.com/football/2026-08-15/202608150100088220005572",
           "press": "",
@@ -576,14 +509,20 @@
           "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003257718&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
           "press": "",
           "date": "2026-08-10"
-        },
-        {
-          "title": "이강인 훈련 포지션은 '공격수!' 그리즈만 후계자 맞네, 이 무게를 견뎌...",
-          "link": "http://www.footballist.co.kr/news/articleView.html?idxno=213330",
-          "press": "",
-          "date": "2026-08-08"
         }
       ],
+      "rank": 7
+    },
+    {
+      "keyword": "인구감소지역",
+      "traffic": "100+",
+      "blogTotal": 0,
+      "newsTotal": 0,
+      "recentToday": 0,
+      "recentWeek": 0,
+      "topBlogs": [],
+      "topNews": [],
+      "error": "HTTP 429 https://openapi.naver.com/v1/search/news.json?query=%EC%9D%B8%EA%B5%AC%EA%B0%90%EC%86%8C%EC%A7%80%EC%97%AD&display=5&sort=date",
       "rank": 8
     },
     {
@@ -662,74 +601,13 @@
     {
       "keyword": "돈",
       "traffic": "2000+",
-      "blogTotal": 10088493,
-      "newsTotal": 7202808,
+      "blogTotal": 0,
+      "newsTotal": 0,
       "recentToday": 0,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "돈키호테 여름 쿨링템 추천 | 시브리즈 아이스 바디 타월 솔직후기 (....",
-          "link": "https://blog.naver.com/senman456/224332779194",
-          "blogger": "센만이의 뷰티탐구",
-          "date": "2026-07-01"
-        },
-        {
-          "title": "돈키호테 추천템 총정리 면세 할인쿠폰 사용법까지",
-          "link": "https://blog.naver.com/jysm0712/224364905803",
-          "blogger": "오늘의 우리집",
-          "date": "2026-08-01"
-        },
-        {
-          "title": "일본 돈키호테 화장품 솔직리뷰, 추천템vs비추천템 정리",
-          "link": "https://blog.naver.com/myj3306/224289907288",
-          "blogger": "왕굴로드:맛집여행",
-          "date": "2026-05-19"
-        },
-        {
-          "title": "후쿠오카 돈키호테 텐진 니시도리점(26년 6월 오픈) 후기 (할인쿠폰/....",
-          "link": "https://blog.naver.com/o_n_j/224364390220",
-          "blogger": "On-J Life Log",
-          "date": "2026-08-01"
-        },
-        {
-          "title": "케이뱅크 돈나무 키우기 영양제 빠르게 확보하자!",
-          "link": "https://blog.naver.com/dbs_jln/224361382867",
-          "blogger": "겝빈",
-          "date": "2026-07-29"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "[이승환 경감의 사기(詐欺) 심리학]  속는 사람들의 취약점",
-          "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=315424",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "美, 고강도 이란 경제제재 예고…\"전례없는 고립 조치 적용\"",
-          "link": "https://www.yna.co.kr/view/AKR20260815003700071?input=1195m",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "메타플래닛, 일본 첫 무담보 채권 ‘비트본드’ 발행…2억엔 조달해 비...",
-          "link": "https://www.wikitree.co.kr/articles/1152607",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "SK는 왜 ‘4중 상장’에 도전하나… 성공하면 달라지는 것들[홍길용의 ...",
-          "link": "https://biz.heraldcorp.com/article/10842125?ref=naver",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "BBC가 보도한 은행원 김씨 결혼자금 2천만원 말아먹은 사연",
-          "link": "https://www.munhwa.com/article/11609715?ref=naver",
-          "press": "",
-          "date": "2026-08-14"
-        }
-      ],
+      "recentWeek": 0,
+      "topBlogs": [],
+      "topNews": [],
+      "error": "HTTP 429 https://openapi.naver.com/v1/search/news.json?query=%EB%8F%88&display=5&sort=date",
       "rank": 10
     }
   ]
