@@ -1,86 +1,13 @@
 {
-  "updatedAt": "2026-08-14T22:19:53.672Z",
+  "updatedAt": "2026-08-14T22:48:47.816Z",
   "source": "live",
   "keywords": [
     {
-      "keyword": "박서진",
-      "traffic": "5000+",
-      "blogTotal": 40712,
-      "newsTotal": 67619,
-      "recentToday": 91,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "살림남 박서진 마음 흔든 4살 연하 누구? 개그우먼 황혜선",
-          "link": "https://blog.naver.com/lhswind2/224372780706",
-          "blogger": "우수아빠의 인생은",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "박서진, 황혜선과 핑크빛 기류? ‘살림남’ 1만6500원 절약 미션의 결....",
-          "link": "https://blog.naver.com/rlatjdeh9858/224373104690",
-          "blogger": "도성 트로트 생활정보 꿀팁",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "박서진 황혜선 핑크빛 기류? 살림남 속 달달한 케미와 시청자 반응 ....",
-          "link": "https://blog.naver.com/red597/224373031186",
-          "blogger": "실시간 트렌드 익스프레스",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "'성형 비용 1억' 박서진 솔직 고백, 어느 부위를 어떻게, 얼마나 했을....",
-          "link": "https://blog.naver.com/pso164/224364688533",
-          "blogger": "과학커뮤니케이터 박종현",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "박서진 프로필 고향 학력 재산 나이 키 사건사고 총정리",
-          "link": "https://blog.naver.com/talopian/224358558244",
-          "blogger": "울렁새댁의 셀럽뉴스",
-          "date": "2026-07-31"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "81년 전 광복, 그날이 오기까지…다큐·예능으로 보는 광복절",
-          "link": "https://www.yna.co.kr/view/AKR20260814148900005?input=1195m",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "[버디 or 보기] 한국 골프, 아시안게임 4관왕 신화 다시 쓴다",
-          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000003259&cp=nv",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "트로트 박지현 차세대 스타서 대세로",
-          "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3072149",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "박서진, 국가유공자 후손 식당에 '씨름부' 끌고 가 '돈쭐'내줬다 (살림남...",
-          "link": "https://mhnse.com/news/articleView.html?idxno=1490075",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "‘살림남’ 박서진, 광복절 맞아 8.15km 역사 러닝",
-          "link": "https://sports.khan.co.kr/article/202608142308003?pt=nv",
-          "press": "",
-          "date": "2026-08-14"
-        }
-      ],
-      "rank": 1
-    },
-    {
       "keyword": "윤석열",
       "traffic": "1000+",
-      "blogTotal": 748776,
-      "newsTotal": 3681448,
-      "recentToday": 89,
+      "blogTotal": 748774,
+      "newsTotal": 3681452,
+      "recentToday": 88,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -116,32 +43,105 @@
       ],
       "topNews": [
         {
+          "title": "광복절에 자유통일당 5만명·민주노총 1만명 집회…세종대로 통제",
+          "link": "https://www.dt.co.kr/article/12078370?ref=naver",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "[강제동원 재판] ② '판결문에 갇힌 정의'…최종승소에도 日기업 집행 ...",
+          "link": "https://www.yna.co.kr/view/AKR20260814182700004?input=1195m",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "[동그라미 만평] '윤석열 체포 방해'에 소환되는 '빠루 재판'",
+          "link": "https://www.goodmorningcc.com/news/articleView.html?idxno=450718",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "나라가 잘못돼야 '야당'이 사는 정치 [주간필담]",
+          "link": "https://www.sisaon.co.kr/news/articleView.html?idxno=203495",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
           "title": "광복절 서울 도심 '비상'…진보·보수 대규모 집회 교통혼잡 우려",
           "link": "https://www.ikbc.co.kr/article/view/kbc202608150004",
           "press": "",
           "date": "2026-08-14"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "keyword": "포스코",
+      "traffic": "500+",
+      "blogTotal": 367276,
+      "newsTotal": 1528814,
+      "recentToday": 86,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "\"포스코 연봉 8천도 C등급?\" 충격받은 2030, 실제 평균 연봉보니",
+          "link": "https://blog.naver.com/adsa0703/224366484116",
+          "blogger": "도리오의 경제이야기",
+          "date": "2026-08-03"
         },
         {
-          "title": "광복절 서울 도심서 진보·보수 대규모 집회…세종대로 통제",
-          "link": "https://www.slist.kr/news/articleView.html?idxno=758931",
+          "title": "W10. 포스코센터 아트홀 웨딩홀 투어 및 뷔페 연회장 시식 후기 (주차....",
+          "link": "https://blog.naver.com/gonzi_fp/224324202051",
+          "blogger": "지나간 기록",
+          "date": "2026-06-23"
+        },
+        {
+          "title": "\"손절 고민할 때\" 나온 포스코퓨처엠 LFP 3조원 수주 소식",
+          "link": "https://blog.naver.com/bomod/224370909050",
+          "blogger": "평범한 직장인의 투자일기",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "하안주공3·4단지 재건축, 포스코이앤씨 시공사 선정…‘더샵 광명....",
+          "link": "https://blog.naver.com/myshin7189/224370982737",
+          "blogger": "Back 2 MD",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "테라로사 포스코센터점 솔직후기(주차•와이파이•노트북하기 좋....",
+          "link": "https://blog.naver.com/am1_03/224365792201",
+          "blogger": "세빈의 빛나는 일상",
+          "date": "2026-08-02"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "韓·우즈베키스탄, 핵심광물 협력 확대… 포스코인터·LS그룹 등 참여",
+          "link": "https://www.g-enews.com/view.php?ud=2026081507392135780c8c1c064d_1",
           "press": "",
           "date": "2026-08-14"
         },
         {
-          "title": "[천지일보 이슈종합] 이재명 대통령 지지율·선관위 특검·종합특검·나...",
-          "link": "https://www.newscj.com/news/articleView.html?idxno=3425314",
+          "title": "외국인 'SK하이닉스·삼성전자' 던졌다…개미는 SK하닉 집중매수",
+          "link": "https://www.news2day.co.kr/article/20260815500003",
           "press": "",
           "date": "2026-08-14"
         },
         {
-          "title": "소녀상 곁에 선 일본 평화 활동가…“피해자의 아픔 되새겨야”",
-          "link": "https://www.hani.co.kr/arti/society/society_general/1273026.html",
+          "title": "[광복절과 재계 ①] 감옥 가고 독립자금 대고…기업가들의 또 다른 얼굴",
+          "link": "https://www.ekn.kr/web/view.php?key=20260814020292356",
           "press": "",
           "date": "2026-08-14"
         },
         {
-          "title": "[마켓人] 20년간 국내 ESG 확산 이끈 류영재 서스틴베스트 대표",
-          "link": "https://www.yna.co.kr/view/AKR20260812082400008?input=1195m",
+          "title": "美상무부, 포스코 선재 '반덤핑 마진 0%' 판정… 수출 청신호",
+          "link": "https://www.kpinews.kr/newsView/1065557225957796",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "[패트롤] 경기도-경기도의회-경기도교육청",
+          "link": "https://www.ekn.kr/web/view.php?key=20260814024153072",
           "press": "",
           "date": "2026-08-14"
         }
@@ -149,156 +149,10 @@
       "rank": 2
     },
     {
-      "keyword": "샌디스크",
-      "traffic": "200+",
-      "blogTotal": 30353,
-      "newsTotal": 23818,
-      "recentToday": 63,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "\"오늘 SK하이닉스 주가 급락하겠네\" 샌디스크 어닝 쇼크",
-          "link": "https://blog.naver.com/antsal/224369574937",
-          "blogger": "한입 재테크",
-          "date": "2026-08-06"
-        },
-        {
-          "title": "샌디스크 2분기 실적 좋았는데 주가 폭락하는 이유는?",
-          "link": "https://blog.naver.com/3f-hoon/224370353482",
-          "blogger": "부꿈",
-          "date": "2026-08-06"
-        },
-        {
-          "title": "내일 샌디스크 실적 발표에 달린 삼성전자와 SK하이닉스, 그리고 코....",
-          "link": "https://blog.naver.com/tjdfh1234/224369156795",
-          "blogger": "열정님의 블로그",
-          "date": "2026-08-05"
-        },
-        {
-          "title": "\"HBF 반도체 신상! \" SK하이닉스, 샌디스크 같이 합작!",
-          "link": "https://blog.naver.com/gjwlh/224367791301",
-          "blogger": "한대디의 미국주식 이야기",
-          "date": "2026-08-04"
-        },
-        {
-          "title": "샌디스크 실적 대박인데 주가 급락! 삼성전자·SK하이닉스까지 흔들....",
-          "link": "https://blog.naver.com/mintlight/224369808176",
-          "blogger": "경제 레시피",
-          "date": "2026-08-06"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "뉴욕증시, 소비 둔화 우려에 일제히 하락...AMAT↓ 레딧·드론주↑",
-          "link": "http://www.joseilbo.com/news/news_read.php?uid=573890&class=53&grp=",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "아마존 15.95%, 아팔루사 13F 최대 비중 보도",
-          "link": "https://www.tokenpost.kr/news/market/391228",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "샌디스크 '파격 환원책'…삼전닉스, 주주환원 부담 커졌다",
-          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092168165",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "[뉴욕증시 마감시황] 소비는 식는데 메모리는 뜨겁다…AI가 바꾼 반도체...",
-          "link": "https://www.moneystorm.kr/news/articleView.html?idxno=5732",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "[美증시] 소비지표 악화·유가 상승에 3대 지수 조정…기술주 약세장 주...",
-          "link": "https://www.mediapen.com/news/view/1116661",
-          "press": "",
-          "date": "2026-08-14"
-        }
-      ],
-      "rank": 3
-    },
-    {
-      "keyword": "lg이노텍",
-      "traffic": "1000+",
-      "blogTotal": 39126,
-      "newsTotal": 161686,
-      "recentToday": 54,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "LG이노텍 투자자는 꼭 알아야 할 \"호재 3가지\"",
-          "link": "https://blog.naver.com/bomod/224370139059",
-          "blogger": "평범한 직장인의 투자일기",
-          "date": "2026-08-06"
-        },
-        {
-          "title": "\"돈 댈 테니 물량 달라\" 빅테크가 LG이노텍에 줄 선 이유",
-          "link": "https://blog.naver.com/shoien629/224312880386",
-          "blogger": "미니멀 가계부 :)",
-          "date": "2026-06-11"
-        },
-        {
-          "title": "LG이노텍, 5년 내 영업이익 1조 달성 가능할까? 반도체 기판 시장의 ....",
-          "link": "https://blog.naver.com/9590jeong/224321564537",
-          "blogger": "경제&재테크.시그널360",
-          "date": "2026-06-20"
-        },
-        {
-          "title": "LG이노텍 주가 폭등 조심하라했더니, 반전은 따로 있었다",
-          "link": "https://blog.naver.com/zkfldb888/224372346297",
-          "blogger": "주식하는 남자 쿠니네",
-          "date": "2026-08-08"
-        },
-        {
-          "title": "LG이노텍, MSCI 편입 100% 확신까지 나온 이유",
-          "link": "https://blog.naver.com/dfasdfasfas/224366498067",
-          "blogger": "성숙된 어른이 되기위한 여정",
-          "date": "2026-08-03"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "‘LG 부품형제’ 이노텍·디스플레이, 6개월 만에 R&D 1.58조 썼다",
-          "link": "http://www.inews24.com/view/1995193",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "[주간 거래소 외국인] 삼성전자·SK하이닉스 쓸어담았다…반도체 대형주...",
-          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477646",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "실적·AI 기대에 '주주 친화'…젠슨 황 만난 LG 주가 재평가[종목현미경...",
-          "link": "https://www.news1.kr/finance/general-stock/6259690",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "엔비디아 두뇌-LG 몸체… 이족보행 합작 로봇 내년 나온다",
-          "link": "https://www.donga.com/news/Economy/article/all/20260814/134482310/2",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "엔비디아 두뇌에 LG 몸…휴머노이드 로봇 내년 1분기 공개",
-          "link": "https://www.joongang.co.kr/article/25453536",
-          "press": "",
-          "date": "2026-08-14"
-        }
-      ],
-      "rank": 4
-    },
-    {
       "keyword": "김민재",
       "traffic": "2000+",
       "blogTotal": 72655,
-      "newsTotal": 298316,
+      "newsTotal": 298318,
       "recentToday": 31,
       "recentWeek": 100,
       "topBlogs": [
@@ -327,13 +181,25 @@
           "date": "2026-08-09"
         },
         {
-          "title": "김민재 뮌헨 동료에게 한국식 치킨 대접한 진짜 이유와 현지 반응",
-          "link": "https://blog.naver.com/cocylove6/224370720246",
-          "blogger": "원포인트 업",
-          "date": "2026-08-07"
+          "title": "대한민국 축구 국가대표 김민재 선수(프로필,경력,수상 등)",
+          "link": "https://blog.naver.com/mistermy18/224310050264",
+          "blogger": "H2의 스포츠와 여행",
+          "date": "2026-06-09"
         }
       ],
       "topNews": [
+        {
+          "title": "이강인·김민재·황인범…유럽서 뛰는 한국 선수 어느새 31명",
+          "link": "https://www.news1.kr/sports/overseas-soccer/6259796",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "대반전! 김민재, '박지성 후계자' 올드 트래퍼드 입성 가능했다...맨유,...",
+          "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553460799",
+          "press": "",
+          "date": "2026-08-14"
+        },
         {
           "title": "[중수청 출범 과제上] 직급·수당 개선에도 검사들 시큰둥…인력 확보 ...",
           "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=128765",
@@ -351,98 +217,86 @@
           "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=692562",
           "press": "",
           "date": "2026-08-14"
-        },
-        {
-          "title": "'깜짝 대반전' 김민재 또 맨체스터 유나이티드서 러브콜! 獨 1티어 기자...",
-          "link": "https://www.mydaily.co.kr/page/view/2026081501553873049",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "깜짝 폭로! '韓 철벽' 김민재, 박지성 후계자→역대 21호 프리미어리거...",
-          "link": "https://www.sportschosun.com/football/2026-08-15/202608150100088240005573",
-          "press": "",
-          "date": "2026-08-14"
         }
       ],
-      "rank": 5
+      "rank": 3
     },
     {
-      "keyword": "김다현",
-      "traffic": "200+",
-      "blogTotal": 22225,
-      "newsTotal": 58698,
-      "recentToday": 17,
-      "recentWeek": 81,
+      "keyword": "weather",
+      "traffic": "1000+",
+      "blogTotal": 61227,
+      "newsTotal": 206205,
+      "recentToday": 18,
+      "recentWeek": 98,
       "topBlogs": [
         {
-          "title": "김다현 챌린지 영상 공개된 후 팬들 잠 다 잤다",
-          "link": "https://blog.naver.com/bentttt/224371636615",
-          "blogger": "트로트리포트",
-          "date": "2026-08-08"
-        },
-        {
-          "title": "2026 영동포도축제 일정 가수 김용빈 김다현 출연 및 체험 프로그램 ....",
-          "link": "https://blog.naver.com/mrj2100/224364872735",
-          "blogger": "소 울음 소리(판밖 이야기) 법 비가 내린다",
-          "date": "2026-08-01"
-        },
-        {
-          "title": "트로트 가수 김다현 최근 근황 팬카페 및 프로필 정보",
-          "link": "https://blog.naver.com/glay8648/224299367020",
-          "blogger": "식탁 위 작은 행복",
-          "date": "2026-05-29"
-        },
-        {
-          "title": "가수 김다현 키, 나이, 언니, 가족, 출연료, 최근 근황 총정리",
-          "link": "https://blog.naver.com/9_garden/224319230565",
-          "blogger": "이슈로 보는 세상",
-          "date": "2026-06-17"
-        },
-        {
-          "title": "'싱어송라이터가 된 판소리 신동' 김다현 학력 및 연예 경력과 살아....",
-          "link": "https://blog.naver.com/pso164/224369780518",
-          "blogger": "과학커뮤니케이터 박종현",
+          "title": "under the weather 뜻과 발음, 3분이면 끝나요",
+          "link": "https://blog.naver.com/elitejks/224369113831",
+          "blogger": "하루 3분 영어",
           "date": "2026-08-09"
+        },
+        {
+          "title": "\"나 오늘 컨디션이 영 별로야...\" 영어로 어떻게 말할까?(feat. under the ....",
+          "link": "https://blog.naver.com/logikoei2012/224355128728",
+          "blogger": "상식과 정보",
+          "date": "2026-07-23"
+        },
+        {
+          "title": "원어민 영어회화 이디엄 예시 모음! under the weather 뜻?",
+          "link": "https://blog.naver.com/hackersjapan/224299070963",
+          "blogger": "해커스일본어 공식 블로그",
+          "date": "2026-06-02"
+        },
+        {
+          "title": "몸이 좀 찌뿌듯할 때, 성인 영어회화 표현 under the weather",
+          "link": "https://blog.naver.com/richungcy/224225606607",
+          "blogger": "moon의 영어공부",
+          "date": "2026-03-22"
+        },
+        {
+          "title": "장마 영어로? rainy season과 weather alert 표현 배우기",
+          "link": "https://blog.naver.com/ljskt/224334141136",
+          "blogger": "그냥하는 캄스영어",
+          "date": "2026-07-03"
         }
       ],
       "topNews": [
         {
-          "title": "김용빈·전유진, 'KSI 국민 트로트스타' 1라운드 남녀 1위…박서진·김다...",
-          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1001941",
+          "title": "Hawaiian Electric Warns Any Power Outages May Last Days",
+          "link": "https://www.nytimes.com/2026/08/14/weather/hurricane-lala-hawaii-power-grid.html?partner=naver",
           "press": "",
           "date": "2026-08-14"
         },
         {
-          "title": "김다현, 싱어송라이터 우뚝…정규 4집 ‘이모티콘’ 드디어 발매",
-          "link": "https://www.sportsworldi.com/newsView/20260814516220",
+          "title": "Tropical Weather Hawaii",
+          "link": "https://n.news.naver.com/mnews/article/077/0007124219?sid=104",
           "press": "",
           "date": "2026-08-14"
         },
         {
-          "title": "김다현, '트로트리그' 8월의 아티스트' 눈앞…2개월 연속 '이달의 트로트...",
-          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1001924",
+          "title": "무더위 이어지는 광복절…남부지방 사흘간 최대 200㎜ 강한 비",
+          "link": "https://www.yna.co.kr/view/AKR20260815005300034?input=1195m",
           "press": "",
           "date": "2026-08-14"
         },
         {
-          "title": "[이슈 & 이슈] 팬을 향한 감사에서 대중을 향한 위로까지...김다현, 정규...",
-          "link": "http://www.ttlnews.com/news/articleView.html?idxno=3134361",
+          "title": "BRITAIN WILDFIRES",
+          "link": "https://n.news.naver.com/mnews/article/091/0010283051?sid=104",
           "press": "",
           "date": "2026-08-14"
         },
         {
-          "title": "김다현, 오늘 정규 4집 '이모티콘' 발매…자작곡 담았다",
-          "link": "https://www.newsis.com/view/NISX20260814_0003749486",
+          "title": "BRITAIN WILDFIRES",
+          "link": "https://n.news.naver.com/mnews/article/091/0010283050?sid=104",
           "press": "",
           "date": "2026-08-14"
         }
       ],
-      "rank": 6
+      "rank": 4
     },
     {
       "keyword": "박시은",
-      "traffic": "500+",
+      "traffic": "1000+",
       "blogTotal": 10950,
       "newsTotal": 52674,
       "recentToday": 6,
@@ -511,13 +365,159 @@
           "date": "2026-08-14"
         }
       ],
+      "rank": 5
+    },
+    {
+      "keyword": "렛츠런파크 서울",
+      "traffic": "200+",
+      "blogTotal": 8770,
+      "newsTotal": 33441,
+      "recentToday": 1,
+      "recentWeek": 13,
+      "topBlogs": [
+        {
+          "title": "과천 경마공원 놀거리 렛츠런파크 서울 포니랜드 경마장 나들이",
+          "link": "https://blog.naver.com/hongsue_/224366460526",
+          "blogger": "온 가족 세계여행",
+          "date": "2026-08-03"
+        },
+        {
+          "title": "[과천] 경마공원 (렛츠런파크 서울)",
+          "link": "https://blog.naver.com/gog9907/224326793523",
+          "blogger": "Remeber the moment.",
+          "date": "2026-06-25"
+        },
+        {
+          "title": "경마공원 렛츠런파크 서울 방문 후기 & 입장부터 경마 베팅 방법까....",
+          "link": "https://blog.naver.com/tmfrl3590/224364150457",
+          "blogger": "소소한 하루, 사소한 마음들을 보관하는 공간",
+          "date": "2026-07-31"
+        },
+        {
+          "title": "경기도 과천 놀거리 렛츠런파크 경마장 경마공원 일정 주차",
+          "link": "https://blog.naver.com/ssjmorning/224335189993",
+          "blogger": "치콤트립",
+          "date": "2026-07-03"
+        },
+        {
+          "title": "렛츠런파크 서울 방문 후기ㅣ주차, 입장료, 원데이패스,경마교실 총....",
+          "link": "https://blog.naver.com/o_oa0423/224312153943",
+          "blogger": "황소곱창",
+          "date": "2026-06-10"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "\"15일·17일 경마공원 입장료 무료\"…피서족 위한 야간경마까지",
+          "link": "https://www.news1.kr/industry/general-industry/6259503",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "한국마사회, 광복절 대체공휴일 맞아 특별 공휴경마 시행",
+          "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=206540",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "한국마사회, 독립유공자 후손 25명 초청 행사",
+          "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=857144",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "마이아 기수, 한국 경마 통산 100승 달성",
+          "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=857143",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "마사회노조·시민단체 \"8·13대책은 일방적 폭주·관치행정…전면 철회...",
+          "link": "https://www.news1.kr/local/gyeonggi/6259326",
+          "press": "",
+          "date": "2026-08-14"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "keyword": "погода",
+      "traffic": "500+",
+      "blogTotal": 249,
+      "newsTotal": 8,
+      "recentToday": 0,
+      "recentWeek": 0,
+      "topBlogs": [
+        {
+          "title": "6월 5일(금) 투자자 매매동향 분석",
+          "link": "https://tikongs.tistory.com/1554",
+          "blogger": "콩쓰의 화끈한 생각",
+          "date": "2026-06-05"
+        },
+        {
+          "title": "중급러시아어 [Amazing Russian] 4편 파트 1 계절[время года]",
+          "link": "https://lifechallenger.tistory.com/304",
+          "blogger": "휴먼노마드",
+          "date": "2018-12-31"
+        },
+        {
+          "title": "[알라딘서재]Не знаю, то ли...",
+          "link": "https://blog.aladin.co.kr/positioner/3049702",
+          "blogger": "https://blog.aladin.co.kr/",
+          "date": "2009-08-24"
+        },
+        {
+          "title": "러시아어 독학 70일차: 51일~69일 핵심 표현 총정리",
+          "link": "https://blog.naver.com/vivalatina/224166814774",
+          "blogger": "라틴어 연구소",
+          "date": "2026-03-11"
+        },
+        {
+          "title": "가물다, 가물대다, 가물치, 가뭄, 가뭇가뭇하다, 가미, 가미되다, 가....",
+          "link": "https://moen.tistory.com/0100",
+          "blogger": "Dictionary :: Dictionary",
+          "date": "2020-02-06"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "항일투쟁 동지 ‘트랴피친’의 죽음, 독립군 내홍으로 번지다",
+          "link": "https://h21.hani.co.kr/arti/culture/culture_general/58243.html",
+          "press": "",
+          "date": "2025-10-29"
+        },
+        {
+          "title": "[Global Language 러시아어] 317",
+          "link": "http://jedam15.koreafree.co.kr/news/view.html?section=1&category=80&item=&no=34677",
+          "press": "",
+          "date": "2017-11-02"
+        },
+        {
+          "title": "[Global Language 러시아어] 312",
+          "link": "http://weeklytrade.co.kr/news/view.html?section=1&category=80&item=&no=33536",
+          "press": "",
+          "date": "2017-09-21"
+        },
+        {
+          "title": "[Global Language 러시아어] 311",
+          "link": "http://weeklytrade.co.kr/news/view.html?section=1&category=80&item=&no=33378",
+          "press": "",
+          "date": "2017-09-18"
+        },
+        {
+          "title": "이 인형같은 동물은 진짜 인형이다(사진)",
+          "link": "http://www.huffingtonpost.kr/2016/02/14/story_n_9230354.html",
+          "press": "",
+          "date": "2016-02-14"
+        }
+      ],
       "rank": 7
     },
     {
       "keyword": "반도체",
       "traffic": "2000+",
-      "blogTotal": 1586205,
-      "newsTotal": 3728880,
+      "blogTotal": 1586251,
+      "newsTotal": 3728894,
       "recentToday": 0,
       "recentWeek": 100,
       "topBlogs": [
@@ -554,32 +554,32 @@
       ],
       "topNews": [
         {
-          "title": "소비 둔화 우려에 뉴욕증시 하락…다우 0.2%↓",
-          "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=361828",
+          "title": "\"약세 지속한 장기채 매력적 구간…숏 구축 실익 크지 않아\"",
+          "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4430316",
           "press": "",
           "date": "2026-08-14"
         },
         {
-          "title": "\"유럽에서도 1조달러 빅테크 나온다\"…혜성처럼 등장한 이 회사 정체 [테...",
-          "link": "https://view.asiae.co.kr/article/2026081315375059036",
+          "title": "김종국, \"올 현금 30년\"…주식 입문 고민에 '246·442전법'까지 배웠다",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16164200",
           "press": "",
           "date": "2026-08-14"
         },
         {
-          "title": "[미·중 갈등] \"양다리는 없다\"…美, 동맹·파트너국에 'AI 미·중 양자택...",
-          "link": "http://www.newsian.co.kr/news/articleView.html?idxno=93779",
+          "title": "엔비디아 두뇌 단 LG 휴머노이드 온다… 모건스탠리도 'LG 로봇주' 주목",
+          "link": "https://www.segye.com/newsView/20260814508322?OutUrl=naver",
           "press": "",
           "date": "2026-08-14"
         },
         {
-          "title": "[여의도 물어보살①] '피크아웃 벌써?' 삼전·닉스 급락에도…증권가는...",
-          "link": "https://www.dailian.co.kr/news/view/1678704/?sc=Naver",
+          "title": "소비둔화 우려에 주요지수 약세…샌디스크는 또 폭등 [뉴욕증시 브리핑...",
+          "link": "https://www.hankyung.com/article/2026081529647",
           "press": "",
           "date": "2026-08-14"
         },
         {
-          "title": "뉴욕증시, 소비 둔화 우려에 일제히 하락...AMAT↓ 레딧·드론주↑",
-          "link": "http://www.joseilbo.com/news/news_read.php?uid=573890&class=53&grp=",
+          "title": "[뉴욕증시] 경기 우려 '숨고르기', 반도체 '희비'…샌디스크 7%↑·AMAT 5...",
+          "link": "https://www.seoulfn.com/news/articleView.html?idxno=635765",
           "press": "",
           "date": "2026-08-14"
         }
@@ -589,8 +589,8 @@
     {
       "keyword": "배달",
       "traffic": "100+",
-      "blogTotal": 5123372,
-      "newsTotal": 1748400,
+      "blogTotal": 5123409,
+      "newsTotal": 1748402,
       "recentToday": 0,
       "recentWeek": 100,
       "topBlogs": [
@@ -627,6 +627,18 @@
       ],
       "topNews": [
         {
+          "title": "12만명 방문 ‘한강 드론쇼’, 외국인 매혹시킨 글로벌 콘텐츠 됐다",
+          "link": "https://biz.heraldcorp.com/article/10842058?ref=naver",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "청년에게 필요한 건 '집 같은 집'이다",
+          "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=704186",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
           "title": "\"옛 명성은 어디로\"…완도 신지 명사십리 해수욕장 방문객 '뚝'",
           "link": "https://www.pressian.com/pages/articles/2026081416355484138?utm_source=naver&utm_medium=search",
           "press": "",
@@ -641,18 +653,6 @@
         {
           "title": "마지막 여름 보양식…외식업계 '든든한 한 끼' 경쟁[트렌드 레시피]",
           "link": "http://www.fnnews.com/news/202608141558323611",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "[특파원시선] 화려한 中 성장의 어두운 그림자…2026 배달원 생존 보고...",
-          "link": "https://www.yna.co.kr/view/AKR20260814177600083?input=1195m",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "한밤중 집 안으로 들어온 배달기사…\"술 취해 자는 줄 알았다\"",
-          "link": "http://www.fnnews.com/news/202608142009494187",
           "press": "",
           "date": "2026-08-14"
         }
