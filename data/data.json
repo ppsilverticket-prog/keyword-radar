@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-14T20:55:22.075Z",
+  "updatedAt": "2026-08-14T21:22:10.240Z",
   "source": "live",
   "keywords": [
     {
       "keyword": "맨홀",
       "traffic": "1000+",
-      "blogTotal": 128933,
+      "blogTotal": 128935,
       "newsTotal": 76749,
-      "recentToday": 91,
+      "recentToday": 90,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -76,11 +76,84 @@
       "rank": 1
     },
     {
+      "keyword": "장동혁",
+      "traffic": "100+",
+      "blogTotal": 33962,
+      "newsTotal": 248481,
+      "recentToday": 71,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "장동혁 방미 비용 2억 논란, 역대 당대표 출장비와 비교해 보니",
+          "link": "https://blog.naver.com/red597/224366549038",
+          "blogger": "실시간 트렌드 익스프레스",
+          "date": "2026-08-03"
+        },
+        {
+          "title": "조갑제 대표 '한동훈 복당, 장동혁 제명해라' 촉구... 국민의힘은 극....",
+          "link": "https://blog.naver.com/pso164/224367516853",
+          "blogger": "과학커뮤니케이터 박종현",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "장동혁 국회의원 외손녀 부고 소식 아주대병원 장례식장 직접 정리",
+          "link": "https://blog.naver.com/arumari1/224337136919",
+          "blogger": "우리에게 하는 말이 현실이 됩니다",
+          "date": "2026-07-05"
+        },
+        {
+          "title": "장동혁 외손녀 사망 소식, 4개월 아기의 안타까운 비보와 현재 상황",
+          "link": "https://blog.naver.com/yeojeong0507/224335078156",
+          "blogger": "쩝쩝박사",
+          "date": "2026-07-03"
+        },
+        {
+          "title": "장동혁 가족상 외손녀 비보 소식과 한동훈 조문 논란 사망 이유",
+          "link": "https://blog.naver.com/pyw2429/224337655096",
+          "blogger": "경제왕 킹왕짱",
+          "date": "2026-07-06"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "장동혁, 당협위원장 교체 앞두고 ‘올공’ 총동원령…광복절에 3500명 집...",
+          "link": "https://www.dt.co.kr/article/12078361?ref=naver",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "\"전세사기 후 1년 반 '차박'\"…'폐버스 청년주택' 20대 경험담 재조명",
+          "link": "https://realty.chosun.com/site/data/html_dir/2026/08/14/2026081401638.html",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "광복절 서울 도심 수만명 집회·행진…연휴 곳곳 교통통제[사회in]",
+          "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=01725286645547648",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "개혁 세력 꿈틀, 국힘은 침묵…보수 재편 주도권 누가 쥐나",
+          "link": "https://news.tf.co.kr/read/ptoday/2354561.htm",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "국민추천위, 선관위 특검 후보 이태한·이혁 추천…이제 공은 李대통령...",
+          "link": "https://www.dailian.co.kr/news/view/1678730/?sc=Naver",
+          "press": "",
+          "date": "2026-08-14"
+        }
+      ],
+      "rank": 2
+    },
+    {
       "keyword": "쿠팡플레이",
       "traffic": "500+",
-      "blogTotal": 86006,
-      "newsTotal": 157734,
-      "recentToday": 75,
+      "blogTotal": 86011,
+      "newsTotal": 157736,
+      "recentToday": 69,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -116,6 +189,18 @@
       ],
       "topNews": [
         {
+          "title": "“차라리 불륜이면 좋았을 텐데”…김혜수, 또 인생 캐릭터 갱신",
+          "link": "https://www.newsen.com/news_view.php?uid=202608141752202610",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "성적 구멍에서 흥행 치트키로…‘지금 불륜이 문제가 아닙니다’로 역...",
+          "link": "https://www.newsen.com/news_view.php?uid=202608141755122610",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
           "title": "[오피셜] 韓 대형 호재! 마침내 PL '한국인 스타' 탄생하나...박승수, 사...",
           "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553460621",
           "press": "",
@@ -132,100 +217,161 @@
           "link": "https://www.sportschosun.com/football/2026-08-15/202608150100088220005572",
           "press": "",
           "date": "2026-08-14"
-        },
-        {
-          "title": "'이강인이 공격 핵심, 주전 굳힌다'…스페인 유력지, 2026-27시즌 베스트...",
-          "link": "https://www.mydaily.co.kr/page/view/2026081412305882726",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "[라인업] 이강인, 아틀레티코 이적 후 첫 선발! 마르세유와 친선전 투톱...",
-          "link": "https://www.goal.com/kr/뉴스/a/blta9c892992df884c0",
-          "press": "",
-          "date": "2026-08-14"
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "keyword": "네이버 웹툰",
-      "traffic": "100+",
-      "blogTotal": 101073,
-      "newsTotal": 165507,
-      "recentToday": 44,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "네이버 웹툰 쿠키 가격 저렴하게 구매하는 방법",
-          "link": "https://blog.naver.com/gkgkgksms159/224351376223",
-          "blogger": "IT 제품 전문 리뷰어",
-          "date": "2026-07-19"
-        },
-        {
-          "title": "[네이버웹툰] 쇼핑하기로 무료쿠키 100% 받는 법 & 오류/이벤트 없음 ....",
-          "link": "https://blog.naver.com/gatot23/224362523685",
-          "blogger": "기다리던 아이",
-          "date": "2026-07-30"
-        },
-        {
-          "title": "[웹툰 리뷰] 우리 길드 아이돌 미남미녀 그림체 좋은 청춘 게임 로맨....",
-          "link": "https://blog.naver.com/alalgid417/224368404214",
-          "blogger": "미박이는 못말려",
-          "date": "2026-08-05"
-        },
-        {
-          "title": "[네이버 웹툰] 웹툰 20년 넘게 본 20대여자 인생웹툰 추천 비추천",
-          "link": "https://blog.naver.com/xpxoo/224312366671",
-          "blogger": "김똘복의 먹로그&소소한 리뷰",
-          "date": "2026-06-11"
-        },
-        {
-          "title": "요즘 재미있는 네이버웹툰 5가지",
-          "link": "https://blog.naver.com/srlim700/224366063134",
-          "blogger": "하루를 살아요.",
-          "date": "2026-08-02"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "대작 경쟁 속 생존법 찾는 중견 게임사…IP '방어' 신작 '승부'",
-          "link": "https://www.asiatime.co.kr/article/20260814500336",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "[김정유의 웹툰파헤치기] '짬밥 미슐랭' 먹어볼래?…'취사병 전설이 되...",
-          "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=01305446645547648",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "[단독]네이버파이낸셜, 일본법인 설립...첫 해외 확장",
-          "link": "https://news.mtn.co.kr/news-detail/2026081417550141081",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "'지스타 2026' 출격 준비… 올해 관전 포인트는?",
-          "link": "https://www.econovill.com/news/articleView.html?idxno=748070",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "비밀과 뒤틀린 욕망이 충돌하는 고자극 스릴러[핫웹툰]",
-          "link": "https://www.sedaily.com/article/20079655?ref=naver",
-          "press": "",
-          "date": "2026-08-14"
         }
       ],
       "rank": 3
     },
     {
+      "keyword": "잠수함",
+      "traffic": "2000+",
+      "blogTotal": 114381,
+      "newsTotal": 307333,
+      "recentToday": 51,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "5살 아이 제주여행 추천｜함덕잠수함에서 인생 추억 만들기",
+          "link": "https://blog.naver.com/alliswellyura/224364590275",
+          "blogger": "놀이터개미",
+          "date": "2026-08-01"
+        },
+        {
+          "title": "[서울중구] 을지로잠수함, 생새우회 파는 제철모듬회 전문 을지로 ....",
+          "link": "https://blog.naver.com/daddun2/224350217956",
+          "blogger": "다뚠로그",
+          "date": "2026-07-18"
+        },
+        {
+          "title": "을지로 해산물 맛집 | 을지로 잠수함 생새우회+모둠 회 후기",
+          "link": "https://blog.naver.com/abccc__12/224340051177",
+          "blogger": "꾸찌랑 먹고 노는 블로그",
+          "date": "2026-07-08"
+        },
+        {
+          "title": "제주 가볼 만한 곳, 제주 서귀포 잠수함 후기",
+          "link": "https://blog.naver.com/ziuong/224339421253",
+          "blogger": "찰나의 moment",
+          "date": "2026-07-07"
+        },
+        {
+          "title": "[제주]  제주도 여행 1일차｜아이와 함께 함덕잠수함 체험 후 좀녀해....",
+          "link": "https://blog.naver.com/lsb5103/224319223758",
+          "blogger": "토깽이네 주말일기",
+          "date": "2026-06-17"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "[단독] “휘어지는 갈대처럼 일본군에 절하도록 강요받았다”",
+          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000003283&cp=nv",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "한미 안보합의 지원 약속한 베이커 美안보부보좌관 사임",
+          "link": "https://www.newsis.com/view/NISX20260815_0003750381",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "트럼프, 美투자 외국 조선소에 군함 2척 건조 허가… K조선 수혜 기대",
+          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000003255&cp=nv",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "푸틴, 남쿠릴열도 첫 방문…日에 \"영토 타협 없다\" 강력 메시지(종합)",
+          "link": "https://www.news1.kr/world/europe/6260050",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "‘야스쿠니 단골’ 다카이치, 내일은?…빨라지는 日 개헌 시계?",
+          "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8637798&ref=A",
+          "press": "",
+          "date": "2026-08-14"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "keyword": "추미애",
+      "traffic": "1000+",
+      "blogTotal": 68429,
+      "newsTotal": 490913,
+      "recentToday": 45,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "경기도지사 김동연 누구? 김동연 프로필부터 추미애 경기도 파산 논....",
+          "link": "https://blog.naver.com/unknown__log/224370890520",
+          "blogger": "세상의 모든 이야기.zip",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "경기도 부도 파산 이유 ! 추미애 도지사 재정난 파탄 선언 빚 원인 ....",
+          "link": "https://blog.naver.com/alodia22/224370791721",
+          "blogger": "알로디아의 사생활",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "추미애 재정 비상 선언부터 정치권 공방까지, 경기도 재정위기 총정....",
+          "link": "https://blog.naver.com/keheehee2/224369365177",
+          "blogger": "세상을 읽는 눈",
+          "date": "2026-08-05"
+        },
+        {
+          "title": "경기도 부도· 경기도 파산설의 진실? 추미애 지사 “재정 비상” 선....",
+          "link": "https://blog.naver.com/jelpy0706/224370766459",
+          "blogger": "옴니보어 리뷰어 레미뷰",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "경기도 진짜 재정 위기인가? 추미애 지사 '재정 비상' 선언, 원인부....",
+          "link": "https://blog.naver.com/nsok10004/224368763035",
+          "blogger": "정보창고 – 알아두면 쓸모있는 모든 것",
+          "date": "2026-08-05"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "이준석 \"경기도 빚, 이재명 이름 없이 설명 안 돼\"… 추미애 직격",
+          "link": "https://www.newscj.com/news/articleView.html?idxno=3425327",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "조상호 세종시장, 시도지사협의회서 ‘행정수도 특별법’ 연내 제정 지...",
+          "link": "http://www.breaknews.com/1229228",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "추미애, \"경기도 재정 위기\" 경고...'책임있는 대처' 강조",
+          "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608141858341990148",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "[경기북부청 소식] 경기도, 18일부터 4일간 '2026 을지훈련' 실시···비...",
+          "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2459606",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "용산공원 주택공급 검토…박경미 \"이미 환경적 가치 훼손, 오세훈 전향...",
+          "link": "https://www.natv.go.kr/natv/news/newsView.do?newsId=513965",
+          "press": "",
+          "date": "2026-08-14"
+        }
+      ],
+      "rank": 5
+    },
+    {
       "keyword": "조진웅",
-      "traffic": "100+",
+      "traffic": "200+",
       "blogTotal": 43362,
-      "newsTotal": 137218,
+      "newsTotal": 137219,
       "recentToday": 40,
       "recentWeek": 100,
       "topBlogs": [
@@ -262,6 +408,12 @@
       ],
       "topNews": [
         {
+          "title": "[1년전 오늘] 광복 80주년 경축식 개최…\"함께 찾은 빛, 대한민국 비추...",
+          "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1284147",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
           "title": "정해인→이제훈은 무슨 죄…하영 증조부 논란, 동료·작품까지 '불똥' 어...",
           "link": "https://www.tenasia.co.kr/article/2026081419194",
           "press": "",
@@ -284,94 +436,15 @@
           "link": "https://view.asiae.co.kr/article/2026081402500112505",
           "press": "",
           "date": "2026-08-14"
-        },
-        {
-          "title": "하영·조진웅·김수현, '배우 리스크'에 콘텐츠 업계 시름",
-          "link": "http://www.sportsq.co.kr/news/articleView.html?idxno=497533",
-          "press": "",
-          "date": "2026-08-14"
         }
       ],
-      "rank": 4
-    },
-    {
-      "keyword": "대한민국 광복절",
-      "traffic": "20000+",
-      "blogTotal": 23142,
-      "newsTotal": 80512,
-      "recentToday": 37,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "한국 전통굿즈 추천 I 광복절에 의미를 더하는 거북선 키캡키링",
-          "link": "https://blog.naver.com/93ntj/224375231126",
-          "blogger": "빛내는 사람들",
-          "date": "2026-08-11"
-        },
-        {
-          "title": "[2026 슬기로운 혁신제품 활용법 ⑩] 광복절 특집, 대한민국의 기술로....",
-          "link": "https://blog.naver.com/ppspr/224371246618",
-          "blogger": "조달청 블로그",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "2026년 광복절 몇 주년일까? 광복절 뜻과 올 8월에 즐기는 영화·뮤지....",
-          "link": "https://blog.naver.com/hippolight_dse/224354336893",
-          "blogger": "아름답고 따듯한 세상을 만드는 디에스이",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "광복절 뜻과 역사 총정리! 8월 15일 의미와 태극기 게양 방법",
-          "link": "https://blog.naver.com/shil0727/224367935791",
-          "blogger": "시리 커피의 살아 가는 이야기",
-          "date": "2026-08-04"
-        },
-        {
-          "title": "성심당 광복절빵 4개입 가격 맛 유통기한 내돈내산 대전역 구입 후....",
-          "link": "https://blog.naver.com/nrnrnrnrnr/224368147133",
-          "blogger": "하루의 꼼꼼한 리뷰 다이어리",
-          "date": "2026-08-05"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "찢어지고 너덜거리는 태극기… 광복절 앞둔 홍성군의 '구멍 난' 상징행...",
-          "link": "https://www.ngonews.kr/news/articleView.html?idxno=235583",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "독립운동 러닝에 가상여권까지...각양각색 광복절 캠페인",
-          "link": "https://www.ytn.co.kr/_ln/0102_202608150539485351",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "경부고속도로 한복판, 비싼 기업 광고 대신 ‘안중근 초상’ 걸려있는 ...",
-          "link": "https://www.kyeonggi.com/article/20260813580607",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "지금 바로 당일치기로 다녀올 수 있는 공짜 여행지 TOP 4",
-          "link": "https://www.chosun.com/economy/startup_story/2026/08/15/VIWLNXCLBJBPHCKJOHFN35UM2Q/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "독립 영웅, 2026년 오늘로 돌아오다",
-          "link": "https://www.seoul.co.kr/news/plan/photo-documentary/2026/08/14/20260814500271?wlog_tag3=naver",
-          "press": "",
-          "date": "2026-08-14"
-        }
-      ],
-      "rank": 5
+      "rank": 6
     },
     {
       "keyword": "인구감소지역",
       "traffic": "200+",
       "blogTotal": 24729,
-      "newsTotal": 715144,
+      "newsTotal": 715149,
       "recentToday": 33,
       "recentWeek": 100,
       "topBlogs": [
@@ -408,110 +481,110 @@
       ],
       "topNews": [
         {
-          "title": "이제 세계 석유 시장의 주도권은 중국공산당이 쥐고 있다 [PADO]",
-          "link": "https://www.mt.co.kr/world/2026/08/15/2026081416233714995",
+          "title": "서·논술형 수능 도입안에…‘사교육 열기’ 불붙나",
+          "link": "https://www.sedaily.com/article/20079505?ref=naver",
           "press": "",
           "date": "2026-08-14"
         },
         {
-          "title": "최정훈 전남광주특별시의회 교육위원장, “학부모는 교육의 핵심 동반자...",
-          "link": "http://www.breaknews.com/1229214",
+          "title": "‘청주 공항 이코노미’를 아시나요?",
+          "link": "https://www.chosun.com/economy/industry-company/2026/08/15/S5PMS4OW2FDLRIT6HXHZH4IXSI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
           "press": "",
           "date": "2026-08-14"
         },
         {
-          "title": "\"결혼 안 해요\"…중국 혼인신고 7.5%↓, 인구 감소 우려 커져",
-          "link": "https://www.newsis.com/view/NISX20260814_0003748841",
+          "title": "공시생 돌아온 노량진 고시촌…'컵밥 거리' 상인들은 왜 웃지 못하나",
+          "link": "https://www.sidae.com/article/2026081314273937429",
           "press": "",
           "date": "2026-08-14"
         },
         {
-          "title": "의정부시 김원기 시장, '8.13 의정부시 재정혁신' 선언하다",
-          "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=390623",
+          "title": "'카트 대신 클릭' 52조 식품시장…유통업계, 온라인 선점 대격돌",
+          "link": "https://www.ziksir.com/news/articleView.html?idxno=143070",
           "press": "",
           "date": "2026-08-14"
         },
         {
-          "title": "경북도의회 교육위, 경북교육 미래 비전 공유 및 지원책 모색",
-          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3665423",
-          "press": "",
-          "date": "2026-08-14"
-        }
-      ],
-      "rank": 6
-    },
-    {
-      "keyword": "t 멤버십",
-      "traffic": "100+",
-      "blogTotal": 52101,
-      "newsTotal": 45817,
-      "recentToday": 25,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "SK텔레콤 영화할인 2026 T멤버십 CGV 메가박스 할인 총정리",
-          "link": "https://blog.naver.com/seoinde31/224371465666",
-          "blogger": "생활비체크인",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "[할인정보] T멤버십 VIP PICK 혜택 총정리: CGV 영화 티켓 2장 7500원 예매....",
-          "link": "https://blog.naver.com/imput_outpu/224368117232",
-          "blogger": "❤️임앤푸의 신혼로그❤️",
-          "date": "2026-08-04"
-        },
-        {
-          "title": "캐리비안 베이 50% 할인! 2026년 8월 T멤버십 T day 행사 정리",
-          "link": "https://blog.naver.com/ktjhsr/224365600858",
-          "blogger": "또블리 블로그",
-          "date": "2026-08-02"
-        },
-        {
-          "title": "점점 혜택이사라지는SKT? 8월부터 바뀐 SKT 멤버십 VIP PICK T우주패스 ....",
-          "link": "https://blog.naver.com/jjongwoo92/224371363995",
-          "blogger": "꽃이 피는 과정",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "SKT 영화 할인 얼마나 될까? T멤버십 VIP 영화 무료 혜택 총정리",
-          "link": "https://blog.naver.com/oloro/224301646550",
-          "blogger": "느린하루",
-          "date": "2026-05-31"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "[똑똑한한끼] 세븐일레븐 윤남노 복담주 전통주 1위·교촌 문베어 호텔...",
-          "link": "https://www.ekn.kr/web/view.php?key=20260814026113017",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "[위클리 시그널] 이통3사, 무선사업 성장 '주춤'…장기고객 잡기 경쟁",
-          "link": "https://www.itdaily.kr/news/articleView.html?idxno=241023",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "이마트, 2분기 '어닝 쇼크'인 이유...본업 회복에도 자회사 악재에 발목",
-          "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=143074",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "도미노피자·SKT, T멤버십 고객 대상 파격 이벤트...'5일간 반값 혜택'",
-          "link": "https://www.ppss.kr/news/articleView.html?idxno=305501",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "도미노피자, SKT T멤버십 고객 대상 'SKT T day' 진행",
-          "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=206116",
+          "title": "홍성 법정리 절반 '인구과소' 위험·주의",
+          "link": "https://www.cctoday.co.kr/news/articleView.html?idxno=2234947",
           "press": "",
           "date": "2026-08-14"
         }
       ],
       "rank": 7
+    },
+    {
+      "keyword": "정성호",
+      "traffic": "2000+",
+      "blogTotal": 17145,
+      "newsTotal": 164070,
+      "recentToday": 13,
+      "recentWeek": 62,
+      "topBlogs": [
+        {
+          "title": "'마동석 아니고 법무부 장관' 정성호 반전 팔뚝, 서울대 역도부 출신....",
+          "link": "https://blog.naver.com/pso164/224326776271",
+          "blogger": "과학커뮤니케이터 박종현",
+          "date": "2026-06-28"
+        },
+        {
+          "title": "정성호 장관 프로필",
+          "link": "https://blog.naver.com/han0in/224306705733",
+          "blogger": "LIFEX",
+          "date": "2026-06-05"
+        },
+        {
+          "title": "정성호 장관 사의, 박지원 \"반려하라\", 지금 국회에서 벌어지는 일",
+          "link": "https://blog.naver.com/one0320/224357524565",
+          "blogger": "오늘도 꼼꼼한 생활정보",
+          "date": "2026-07-25"
+        },
+        {
+          "title": "레임덕 뜻 쉽게 이해하기! 정성호 사의 표명으로 알아보는 정치용어",
+          "link": "https://blog.naver.com/ukoko/224357711187",
+          "blogger": "일상의 회사원",
+          "date": "2026-07-25"
+        },
+        {
+          "title": "5남매 아빠 정성호, 다둥이 출산 충격 고백 \"아내 장애 얻을 뻔해, 의....",
+          "link": "https://blog.naver.com/lottotoday/224322423777",
+          "blogger": "연예계 생활용품 디지털 : 오늘의리뷰",
+          "date": "2026-06-21"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "검찰인권존중미래위원회, 황운하 의원 요청 '울산사건' 진상조사 대상 ...",
+          "link": "https://www.newstnt.com/news/articleView.html?idxno=714060",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "‘집단퇴정 논란’ 수원지검 지휘부… 정성호 법무장관, 견책 징계 청구",
+          "link": "https://www.chosun.com/national/court_law/2026/08/15/AUDOVG5EYZDXBNYHZOYK46CEWM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "검찰미래위, '李 사건' 3건 추가 조사키로…법조계 \"공소 취소용\"",
+          "link": "https://news.tvchosun.com/site/data/html_dir/2026/08/14/2026081490266.html",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "정성호 법무장관, ‘수원지검 집단퇴정’ 검사 2명 ‘견책’ 징계 청구",
+          "link": "https://www.segye.com/newsView/20260814521112?OutUrl=naver",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "'연어 술파티 위증' 이화영 재판 검사 집단 퇴정 사건‥\"수원지검 지휘...",
+          "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6844880_37004.html",
+          "press": "",
+          "date": "2026-08-14"
+        }
+      ],
+      "rank": 8
     },
     {
       "keyword": "류중일",
@@ -540,16 +613,16 @@
           "date": "2025-12-04"
         },
         {
-          "title": "류중일 사돈 몰카 사건, 결국 징역 구형… 사건 전말 총정리",
-          "link": "https://blog.naver.com/thinkbandi2/224228251912",
-          "blogger": "이슈 읽어주는 고양이",
-          "date": "2026-03-24"
+          "title": "류중일 사돈 징역 1년 구형... 며느리 불륜 잡으려다 범죄자 될 판?",
+          "link": "https://blog.naver.com/hiboom/224228496165",
+          "blogger": "희붐한 순간들",
+          "date": "2026-03-25"
         },
         {
-          "title": "류중일 전 감독 며느리 고3 제자와 불륜 저질렀다... 몰카 설치한 '류....",
-          "link": "https://blog.naver.com/shp5123/224230743239",
-          "blogger": "스포츠에 진심인 사람(스진사)",
-          "date": "2026-03-26"
+          "title": "\"교사 며느리가 남학생과 불륜\" 류중일 사돈 홈캠 설치 사건 1심 무....",
+          "link": "https://blog.naver.com/jjubika3/224255731539",
+          "blogger": "한국사회복지저널 블로그",
+          "date": "2026-04-17"
         }
       ],
       "topNews": [
@@ -584,13 +657,13 @@
           "date": "2026-08-14"
         }
       ],
-      "rank": 8
+      "rank": 9
     },
     {
       "keyword": "마르세유 대 아틀레티코",
       "traffic": "10000+",
       "blogTotal": 6,
-      "newsTotal": 365,
+      "newsTotal": 366,
       "recentToday": 0,
       "recentWeek": 0,
       "topBlogs": [
@@ -627,6 +700,12 @@
       ],
       "topNews": [
         {
+          "title": "\"환상적인 기술\" 이강인, 선발 데뷔전서 '쾅쾅' 두 차례 미친 패스 전달...",
+          "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553460727",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
           "title": "이강인 겨우 '9번' 공 만졌는데 스페인 홀렸다!…\"이 선수는 다르다\"→...",
           "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1002001",
           "press": "",
@@ -649,85 +728,6 @@
           "link": "https://www.sportschosun.com/football/2026-08-10/202608100100054270003407",
           "press": "",
           "date": "2026-08-10"
-        },
-        {
-          "title": "아틀레티코 마드리드 No. 7 이강인의 서울 데뷔전 34분",
-          "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003257718&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
-          "press": "",
-          "date": "2026-08-10"
-        }
-      ],
-      "rank": 9
-    },
-    {
-      "keyword": "south korea national liberation day",
-      "traffic": "1000+",
-      "blogTotal": 10,
-      "newsTotal": 2101,
-      "recentToday": 0,
-      "recentWeek": 0,
-      "topBlogs": [
-        {
-          "title": "0476_겸재집_謙齋集_번역1",
-          "link": "https://hangeullo.tistory.com/2577",
-          "blogger": "우리글로의 풀이諺解",
-          "date": "2026-08-08"
-        },
-        {
-          "title": "0439_삼연집_三淵集_번역3",
-          "link": "https://hangeullo.tistory.com/2538",
-          "blogger": "우리글로의 풀이諺解",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "0439_삼연집_三淵集_번역2",
-          "link": "https://hangeullo.tistory.com/2537",
-          "blogger": "우리글로의 풀이諺解",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "2018 South Korea Stock Market Holidays",
-          "link": "https://kds4you.tistory.com/66",
-          "blogger": "EgoPath",
-          "date": "2017-12-31"
-        },
-        {
-          "title": "Jung ang tap Park(Chungju)_중앙탑공원(충주)",
-          "link": "https://gbbrake.tistory.com/178",
-          "blogger": "Korea & Brake",
-          "date": "2019-02-24"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "Today in Korean history",
-          "link": "https://en.yna.co.kr/view/AEN20260814004100315?input=2106m",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "Lee says there is ‘no left or right’ in honoring sacrifice ahead of Li...",
-          "link": "https://www.koreajoongangdaily.com/korea/lee-says-there-is-no-left-or-right-in-honoring-sacrifice-ahead-of-liberation-day/12824349",
-          "press": "",
-          "date": "2026-08-13"
-        },
-        {
-          "title": "How diplomacy changed Korea’s fate — and its future",
-          "link": "https://www.koreaherald.com/article/10840716?ref=naver",
-          "press": "",
-          "date": "2026-08-13"
-        },
-        {
-          "title": "Liberation Day weekend offers wide range of opportunities for learning, r...",
-          "link": "https://www.koreajoongangdaily.com/korea/liberation-day-weekend-offers-wide-range-of-opportunities-for-learning-reflection/12823093",
-          "press": "",
-          "date": "2026-08-13"
-        },
-        {
-          "title": "Nationwide rain forecast for long weekend to bring relief to drought-hit ...",
-          "link": "https://en.yna.co.kr/view/AEN20260813007300315?input=2106m",
-          "press": "",
-          "date": "2026-08-13"
         }
       ],
       "rank": 10
