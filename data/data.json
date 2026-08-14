@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-14T23:18:56.129Z",
+  "updatedAt": "2026-08-14T23:46:46.673Z",
   "source": "live",
   "keywords": [
     {
       "keyword": "포스코",
       "traffic": "500+",
-      "blogTotal": 367277,
-      "newsTotal": 1528814,
-      "recentToday": 83,
+      "blogTotal": 367278,
+      "newsTotal": 1528815,
+      "recentToday": 82,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -43,6 +43,12 @@
       ],
       "topNews": [
         {
+          "title": "전국플랜트노조 전남동부경남서부지부, 2026년 임단협 조인식 개최… \"...",
+          "link": "http://www.netongs.com/news/articleView.html?idxno=334660",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
           "title": "韓·우즈베키스탄, 핵심광물 협력 확대… 포스코인터·LS그룹 등 참여",
           "link": "https://www.g-enews.com/view.php?ud=2026081507392135780c8c1c064d_1",
           "press": "",
@@ -65,12 +71,6 @@
           "link": "https://www.kpinews.kr/newsView/1065557225957796",
           "press": "",
           "date": "2026-08-14"
-        },
-        {
-          "title": "[패트롤] 경기도-경기도의회-경기도교육청",
-          "link": "https://www.ekn.kr/web/view.php?key=20260814024153072",
-          "press": "",
-          "date": "2026-08-14"
         }
       ],
       "rank": 1
@@ -78,7 +78,7 @@
     {
       "keyword": "schd",
       "traffic": "100+",
-      "blogTotal": 37121,
+      "blogTotal": 37123,
       "newsTotal": 4893,
       "recentToday": 52,
       "recentWeek": 100,
@@ -224,10 +224,10 @@
     {
       "keyword": "weather",
       "traffic": "2000+",
-      "blogTotal": 61227,
+      "blogTotal": 61228,
       "newsTotal": 206205,
       "recentToday": 18,
-      "recentWeek": 98,
+      "recentWeek": 99,
       "topBlogs": [
         {
           "title": "under the weather 뜻과 발음, 3분이면 끝나요",
@@ -293,79 +293,6 @@
         }
       ],
       "rank": 4
-    },
-    {
-      "keyword": "광주공항",
-      "traffic": "100+",
-      "blogTotal": 16547,
-      "newsTotal": 246707,
-      "recentToday": 10,
-      "recentWeek": 66,
-      "topBlogs": [
-        {
-          "title": "광주공항 주차장 요금 할인방법 국내선 3박 4일 주차비까지 총정리",
-          "link": "https://blog.naver.com/gorgeous0312/224367232064",
-          "blogger": "리리네 리빙 육아 에세이✨",
-          "date": "2026-08-04"
-        },
-        {
-          "title": "광주공항 주차장 요금 하이브리드 다자녀 할인 총정리",
-          "link": "https://blog.naver.com/dennis0525/224296019374",
-          "blogger": "칩칩이의 여행일기",
-          "date": "2026-05-25"
-        },
-        {
-          "title": "광주공항 국내선 도착 주차요금 및 할인",
-          "link": "https://blog.naver.com/gemstone4589/224304864369",
-          "blogger": "소심한 수다쟁이 젬스톤 : 소젬",
-          "date": "2026-06-11"
-        },
-        {
-          "title": "광주 공항버스, 인천공항·김포공항·광주공항 리무진 시간표 요금 ....",
-          "link": "https://blog.naver.com/iso17855/224354652475",
-          "blogger": "행복한 부자여행",
-          "date": "2026-07-22"
-        },
-        {
-          "title": "광주공항 이용 후기! 제주여행 출발 전 알아두면 좋은 정보",
-          "link": "https://blog.naver.com/fabrunch/224340854357",
-          "blogger": "해피한 여행에디터 해피팅",
-          "date": "2026-07-08"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "[전국 지역별 오늘의 날씨 및 주말-연휴날씨]오늘~모레 남부지방/제주도...",
-          "link": "http://www.economytalk.kr/news/articleView.html?idxno=423523",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "외국인 돌아오자 호텔·면세 동반 반등…호텔롯데 상반기 영업익 3배로",
-          "link": "https://www.newscj.com/news/articleView.html?idxno=3425339",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "한수원노조는 왜 송영길을 만났을까[초록發光]",
-          "link": "https://www.pressian.com/pages/articles/2026081414095511553?utm_source=naver&utm_medium=search",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "‘800조+@’ 호남권 반도체 투자 광주 넘어 전남권으로 확대되나[전남광...",
-          "link": "https://www.sedaily.com/article/20079610?ref=naver",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "[8.13 부동산 대책] 서울 주택공급, 결국 강남 그린벨트에 달렸다…물량...",
-          "link": "http://www.newsian.co.kr/news/articleView.html?idxno=93778",
-          "press": "",
-          "date": "2026-08-14"
-        }
-      ],
-      "rank": 5
     },
     {
       "keyword": "avgo",
@@ -438,13 +365,86 @@
           "date": "2026-08-13"
         }
       ],
+      "rank": 5
+    },
+    {
+      "keyword": "테슬라",
+      "traffic": "500+",
+      "blogTotal": 655625,
+      "newsTotal": 576784,
+      "recentToday": 0,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "테슬라 \"이거\" 받았다면 3분기 차량 인도 유력",
+          "link": "https://blog.naver.com/oksk2002kr/224371599667",
+          "blogger": "티보의 IT 자동차 리뷰 공작소",
+          "date": "2026-08-08"
+        },
+        {
+          "title": "테슬라 모델YL 어댑터 정리 끝판왕! 운전석 도어에 쏙 들어가는 전용....",
+          "link": "https://blog.naver.com/sbyjsbyj/224367391640",
+          "blogger": "SBYJ 육아기록",
+          "date": "2026-08-04"
+        },
+        {
+          "title": "테슬라 사이버트럭, 최강 자율주행 \"FSD\" 한 달 반 후기 [에이전트 헌....",
+          "link": "https://blog.naver.com/agent-x/224371165938",
+          "blogger": "────「 Agent X 」────",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "폭염 날씨에 테슬라모델Y RWD 전기차 장거리 전비",
+          "link": "https://blog.naver.com/marcia011/224365469897",
+          "blogger": "자동차 인플루언서 더블노블double_noble",
+          "date": "2026-08-02"
+        },
+        {
+          "title": "테슬라 모델 Y 구매기 #1｜계약부터 차량 배정까지(feat. 차량 배정 미....",
+          "link": "https://blog.naver.com/bling202/224367397044",
+          "blogger": "Like Life Live",
+          "date": "2026-08-04"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "“아, 괜히 팔았나?”…‘피크아웃’ 안개 걷히자 3배 레버리지로 U턴 ...",
+          "link": "https://biz.heraldcorp.com/article/10842219?ref=naver",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "서학개미, 반도체 레버리지 ETF '속슬' 재매수…이틀간 9천억원 베팅",
+          "link": "https://www.lecturernews.com/news/articleView.html?idxno=208595",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "테슬라, '비행 기능' 로드스터 공개설에 주가 3% 올라",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=693380",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "무섭게 팔더니 9천억 '폭풍 매수'…서학개미 태세 전환",
+          "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608150443&t=NN",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "서학개미 다시 '3배 베팅'…반도체 SOXL 이틀 만에 9300억원 쓸어담았다",
+          "link": "https://www.kizmom.com/news/articleView.html?idxno=112114",
+          "press": "",
+          "date": "2026-08-14"
+        }
+      ],
       "rank": 6
     },
     {
       "keyword": "날씨",
-      "traffic": "200000+",
-      "blogTotal": 26739556,
-      "newsTotal": 3839841,
+      "traffic": "500000+",
+      "blogTotal": 26739716,
+      "newsTotal": 3839844,
       "recentToday": 0,
       "recentWeek": 100,
       "topBlogs": [
@@ -481,6 +481,24 @@
       ],
       "topNews": [
         {
+          "title": "[날씨] 광복절 남부지방 강한 비…전남·경남 최대 200㎜, 무더위는 계속",
+          "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=363699",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "IPARK현대산업개발, 말복 맞아 양천구 어르신 배식 봉사",
+          "link": "http://www.sisacast.kr/news/articleView.html?idxno=98851",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "[오늘 전국 날씨예보] 기상청 날씨누리, \"15일 '광복절', 오늘 중부지방...",
+          "link": "https://www.lecturernews.com/news/articleView.html?idxno=208593",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
           "title": "광복절 태극기 이렇게 달아야 합니다…잘못 달기 쉬운 위치는",
           "link": "https://www.wikitree.co.kr/articles/1151497",
           "press": "",
@@ -489,24 +507,6 @@
         {
           "title": "[전국 지역별 오늘의 날씨 및 주말-연휴날씨]오늘~모레 남부지방/제주도...",
           "link": "http://www.economytalk.kr/news/articleView.html?idxno=423523",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "[날씨] 광복절 전국 흐리고 남부 중심 강한 비…낮 기온 27~33도",
-          "link": "http://www.fnnews.com/news/202608150801243959",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "08월 15일 토요일, 오늘의 날씨와 미세먼지 농도 [인포그래픽]",
-          "link": "http://www.sisunnews.co.kr/news/articleView.html?idxno=244374",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "[루키브코] \"여름방학 휴식 대신 코트 위로\"… 부천 바스키움 농구교실...",
-          "link": "http://www.rookie.co.kr/news/articleView.html?idxno=125995",
           "press": "",
           "date": "2026-08-14"
         }
