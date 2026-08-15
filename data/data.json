@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-15T23:17:25.838Z",
+  "updatedAt": "2026-08-15T23:43:54.072Z",
   "source": "live",
   "keywords": [
     {
       "keyword": "한화 이글스",
       "traffic": "20000+",
-      "blogTotal": 170234,
-      "newsTotal": 809329,
-      "recentToday": 66,
+      "blogTotal": 170238,
+      "newsTotal": 809330,
+      "recentToday": 61,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -43,6 +43,12 @@
       ],
       "topNews": [
         {
+          "title": "'26억 진짜 잘 썼다' 43세인데 132m 괴력포 실화? 최형우 비결 공개하다...",
+          "link": "https://www.mydaily.co.kr/page/view/2026081523153993500",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
           "title": "최지만 15G만에 KBO 첫 홈런 폭발…드래프트 1R 확정? 설익은 신인타자보...",
           "link": "https://www.mydaily.co.kr/page/view/2026081603484589347",
           "press": "",
@@ -65,21 +71,15 @@
           "link": "https://www.tenasia.co.kr/article/2026081412164",
           "press": "",
           "date": "2026-08-15"
-        },
-        {
-          "title": "만 43세에도 'S급 타자'인 이유, 최형우는 변화가 두렵지 않다…\"훈련 방...",
-          "link": "https://www.xportsnews.com/article/2184303",
-          "press": "",
-          "date": "2026-08-15"
         }
       ],
       "rank": 1
     },
     {
       "keyword": "박선원",
-      "traffic": "1000+",
-      "blogTotal": 4410,
-      "newsTotal": 24868,
+      "traffic": "200+",
+      "blogTotal": 4412,
+      "newsTotal": 24869,
       "recentToday": 49,
       "recentWeek": 100,
       "topBlogs": [
@@ -116,6 +116,12 @@
       ],
       "topNews": [
         {
+          "title": "김민석, 민주당 당대표 경선 독주…호남서 과반 득표",
+          "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=704289",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
           "title": "김민석, 호남 경선 압승으로 민주당 당 대표 경쟁에서 우위를 점하다",
           "link": "https://www.gokorea.kr/news/articleView.html?idxno=875214",
           "press": "",
@@ -138,83 +144,77 @@
           "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4101052",
           "press": "",
           "date": "2026-08-15"
-        },
-        {
-          "title": "與전대 서울·경기 마지막 승부… 金 굳히기냐, 鄭 뒤집기냐",
-          "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2294692",
-          "press": "",
-          "date": "2026-08-15"
         }
       ],
       "rank": 2
     },
     {
-      "keyword": "업비트",
-      "traffic": "500+",
-      "blogTotal": 124396,
-      "newsTotal": 246968,
-      "recentToday": 39,
+      "keyword": "동굴",
+      "traffic": "200+",
+      "blogTotal": 467871,
+      "newsTotal": 219080,
+      "recentToday": 46,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "댑오에스 코인 (DOS) 업비트 상장! Web3 AI 코인 전망은?",
-          "link": "https://blog.naver.com/vitamin2230/224374997172",
-          "blogger": "REONE P&I",
-          "date": "2026-08-11"
+          "title": "동해 동굴 천곡황금박쥐동굴",
+          "link": "https://blog.naver.com/wnsghdudwls/224370706917",
+          "blogger": "낮에 놀자 with 머니아빠",
+          "date": "2026-08-07"
         },
         {
-          "title": "업비트 신규 상장 캡(CAP) 코인, 어떤 프로젝트일까? 개인적인 분석",
-          "link": "https://blog.naver.com/chochunja77/224369980345",
-          "blogger": "월급만으로 부족한 곰민의 생존라이프",
-          "date": "2026-08-06"
+          "title": "울산 자수정 동굴나라, 한여름에도 시원한 이색 여행지!",
+          "link": "https://blog.naver.com/skadus705/224366596644",
+          "blogger": "여니의 하루",
+          "date": "2026-08-03"
         },
         {
-          "title": "업비트 리플(XRP) 출금 주소·데스티네이션 태그 | 태그 빠뜨리면 어....",
-          "link": "https://blog.naver.com/holic0428/224375540951",
-          "blogger": "뇌동매매 치료소",
-          "date": "2026-08-11"
+          "title": "충주 활옥동굴 카약 보트체험 입장료 운영시간 놀거리 추천",
+          "link": "https://blog.naver.com/wnswkd777/224368964914",
+          "blogger": "양비드의 전세계 배틀여행_ing",
+          "date": "2026-08-05"
         },
         {
-          "title": "업비트 예치금 받는법",
-          "link": "https://blog.naver.com/beenzino2/224367603933",
-          "blogger": "농협손해보험 전속설계사",
+          "title": "충주 활옥동굴｜예약, 주차, 카약, 아이와 관람코스 총정리",
+          "link": "https://blog.naver.com/paradise325/224368071582",
+          "blogger": "지금, 이순간, 이곳에서.",
           "date": "2026-08-04"
         },
         {
-          "title": "업비트 신규 상장 글로벌달러 USDG 거래 전에 확인할 가격 기준",
-          "link": "https://blog.naver.com/yhkakankvzont/224363831377",
-          "blogger": "하우스플래너",
-          "date": "2026-07-31"
+          "title": "경기도 드라이브코스 광명동굴 시원한 데이트",
+          "link": "https://blog.naver.com/rsrs0930/224359409732",
+          "blogger": "일편이여행로드맵",
+          "date": "2026-07-27"
         }
       ],
       "topNews": [
         {
-          "title": "김치프리미엄은 옛말?… 해외보다 싸진 국내 코인",
-          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092168036",
+          "title": "\"40도엔 바다도 뜨거워\"…낮 대신 밤·해변보다 동굴, 달라진 피서 공식",
+          "link": "https://www.news1.kr/local/kangwon/6259716",
           "press": "",
           "date": "2026-08-15"
         },
         {
-          "title": "아노마·오픈에덴·아이오즈네트워크·댑오에스 [이주의 상장코인]",
-          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092167736",
+          "title": "\"비행기 타기 전부터 승부\"…항공사들 '럭셔리 라운지' 전쟁",
+          "link": "https://www.dailian.co.kr/news/view/1678412/?sc=Naver",
           "press": "",
           "date": "2026-08-15"
         },
         {
-          "title": "[권가림의 금만세] 주식으로 떠난 투자자들에…업비트·빗썸 직격탄",
-          "link": "https://www.ajunews.com/view/20260814171955816",
+          "title": "발 들이자 순식간에 온도 17도 ‘뚝’…세계유산의 오싹한 경험",
+          "link": "https://www.joongang.co.kr/article/25453649",
           "press": "",
           "date": "2026-08-15"
         },
         {
-          "title": "6100만달러로 낮아진 리플 고래 유입, 2021년 이후 최저",
-          "link": "https://www.tokenpost.kr/news/cryptocurrency/391387",
+          "title": "미국 전략비축유 3억 배럴 붕괴 지하저장고 비상",
+          "link": "https://www.g-enews.com/view.php?ud=2026081605311294802bd56fbc3c_1",
           "press": "",
           "date": "2026-08-15"
         },
         {
-          "title": "두나무, 상반기 영업이익 1115억원…전년比 79.7% 급감",
-          "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=206605",
+          "title": "방출만 하는 미 SPR, 지하 저장 시설 붕괴 우려…유가 폭등 '안전판' 흔...",
+          "link": "http://www.fnnews.com/news/202608160344329912",
           "press": "",
           "date": "2026-08-15"
         }
@@ -222,77 +222,150 @@
       "rank": 3
     },
     {
-      "keyword": "순찰",
-      "traffic": "100+",
-      "blogTotal": 72009,
-      "newsTotal": 735202,
-      "recentToday": 25,
+      "keyword": "이정후",
+      "traffic": "2000+",
+      "blogTotal": 33241,
+      "newsTotal": 164211,
+      "recentToday": 43,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "생활의달인 강릉 찹쌀떡 맛집! 참순찰떡방 대왕 찹쌀떡 위치 정보",
-          "link": "https://blog.naver.com/issuero/224329771596",
-          "blogger": "리빙,여행 라이프스타일",
-          "date": "2026-06-28"
+          "title": "이정후 멀티홈런 폭발! 시즌 8호 홈런으로 샌프란시스코 승리 견인",
+          "link": "https://blog.naver.com/estauce/224367910690",
+          "blogger": "골프여행♥인플루언서",
+          "date": "2026-08-04"
         },
         {
-          "title": "반려견 순찰대 신청방법 총정리! 강아지 산책하며 봉사활동까지?",
-          "link": "https://blog.naver.com/eg2363/224341999281",
-          "blogger": "잇팁 부부의 소소한 일기◍•ڡ•◍",
-          "date": "2026-07-13"
+          "title": "이정후 텍사스전 멀티홈런 기록.",
+          "link": "https://blog.naver.com/han0in/224367805348",
+          "blogger": "LIFEX",
+          "date": "2026-08-04"
         },
         {
-          "title": "반려견 순찰대 무슨 일 할까? 지원 자격 선발 조건 혜택까지",
-          "link": "https://blog.naver.com/lael_v_v/224366680193",
-          "blogger": "Lael @라엘 블로그",
+          "title": "“3할 타율은 증명했다” 이정후 연봉 2200만 달러, 장타·수비가 남....",
+          "link": "https://blog.naver.com/yfg7459/224366712353",
+          "blogger": "갓플베",
           "date": "2026-08-03"
         },
         {
-          "title": "반려견 순찰대 지원 방법, 모집 지역 f. 우리 하루가 하는일",
-          "link": "https://blog.naver.com/bichon-haru/224298427392",
-          "blogger": "비숑프리제 하루와 나무",
-          "date": "2026-05-28"
+          "title": "메이저리그(MLB) 오타니 vs 이정후 연봉 비교, 2026년 실제 수령액에 숨....",
+          "link": "https://blog.naver.com/dlll1/224369182404",
+          "blogger": "인테리어 그리고 3D 그래픽'''",
+          "date": "2026-08-05"
         },
         {
-          "title": "\"암행순찰차 구분하는 방법이 있다고?\" 100% 알아보는 '이 방법' 정체",
-          "link": "https://blog.naver.com/sg90929/224287717820",
-          "blogger": "그남자 원동욱의 IT테크 에세이",
-          "date": "2026-05-17"
+          "title": "이정후 연봉 2200만 달러 정당성 분석, 자이언츠가 6명을 팔고 그만 ....",
+          "link": "https://blog.naver.com/plansh/224367722667",
+          "blogger": "인생꿀팁",
+          "date": "2026-08-04"
         }
       ],
       "topNews": [
         {
-          "title": "[속보] 동부전선 MDL 침범 북한군에 軍 경고사격… 올해 들어 처음",
-          "link": "https://www.seoul.co.kr/news/politics/diplomacy/2026/08/16/20260816500009?wlog_tag3=naver",
+          "title": "‘4번 타자’ 이정후, 콜로라도전 멀티히트 포함 3출루 맹활약",
+          "link": "https://www.dailian.co.kr/news/view/1678920/?sc=Naver",
           "press": "",
           "date": "2026-08-15"
         },
         {
-          "title": "북한군, 동부전선 MDL 침범…우리 군, 올해 첫 경고 사격 대응",
-          "link": "https://biz.heraldcorp.com/article/10842532?ref=naver",
+          "title": "샌프란시스코 '4번 타자' 이정후, 침묵을 깨다 … '멀티히트' 작렬",
+          "link": "https://www.newdaily.co.kr/site/data/html/2026/08/16/2026081600010.html",
           "press": "",
           "date": "2026-08-15"
         },
         {
-          "title": "북한군 동부전선 MDL 침범…軍, 올해 첫 경고사격",
-          "link": "https://www.kyeonggi.com/article/20260816580005",
+          "title": "‘한 회에 멀티히트’ 이정후, ‘2안타-3출루’→타율 0.293 ‘SF 7-1 대승...",
+          "link": "https://sports.donga.com/sports/article/all/20260816/134483689/1",
           "press": "",
           "date": "2026-08-15"
         },
         {
-          "title": "북한군 최초 MDL 침범에 우리 군 경고사격 첫 발동… 긴장 고조",
-          "link": "https://www.gokorea.kr/news/articleView.html?idxno=875208",
+          "title": "3경기 무안타 탈출한 이정후, 4번타자로 나서 3타수 1안타 1볼넷 3출루 ...",
+          "link": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=432554",
           "press": "",
           "date": "2026-08-15"
         },
         {
-          "title": "인천대교 추락사고 빈발… 근본 대책 마련 절실",
-          "link": "https://www.gokorea.kr/news/articleView.html?idxno=875204",
+          "title": "이정후, 4G 만에 ‘멀티히트’로 안타갈증 해소…콜로라도전 3타수 2안타...",
+          "link": "https://mhnse.com/news/articleView.html?idxno=1491559",
           "press": "",
           "date": "2026-08-15"
         }
       ],
       "rank": 4
+    },
+    {
+      "keyword": "재건축",
+      "traffic": "1000+",
+      "blogTotal": 763581,
+      "newsTotal": 1032302,
+      "recentToday": 26,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "부산 재건축 추진 현황 최신 지도! 2026년 7월 기준 100개 구역 어디까....",
+          "link": "https://blog.naver.com/dhkim0422/224370566827",
+          "blogger": "무릎에 사서 어깨에서 팔기",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "은마아파트 재건축 이주 일정과 세입자 보증금 청구법",
+          "link": "https://blog.naver.com/vitamin2230/224376011458",
+          "blogger": "REONE P&I",
+          "date": "2026-08-12"
+        },
+        {
+          "title": "[창원 재건축] 내2구역 본격 이주 개시! 일정·대출조건·프리미엄 총....",
+          "link": "https://blog.naver.com/zkfk015/224369642550",
+          "blogger": "머니프렌즈",
+          "date": "2026-08-06"
+        },
+        {
+          "title": "광명 하안주공 재건축 현황과 2026년 매매 동향, 입주권·현금청산 체....",
+          "link": "https://blog.naver.com/harusarin/224370532082",
+          "blogger": "소가 간다 뚜벅 뚜벅",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "\"재건축 분담금 재초환 뜻\" 초과 이익 환수제는 무엇일까?",
+          "link": "https://blog.naver.com/92happywoo/224368492658",
+          "blogger": "꿈꾸는에릭의 경제스터디",
+          "date": "2026-08-05"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "20일 국회 본회의…'패트 단축법'·부동산 입법 충돌 예고",
+          "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=704287",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "서울 이어 용산구도 '용산공원 주택 공급' 반대…\"한 번 훼손되면 되돌...",
+          "link": "https://www.pennmike.com/news/articleView.html?idxno=125768",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "'7.3만가구+α' 신규택지 윤곽…서울 그린벨트 해제 여부 최대 변수",
+          "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=363710",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "잔금대출 숨통 트였지만…실수요자별 대출 격차는 여전",
+          "link": "https://www.cstimes.com/news/articleView.html?idxno=716920",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "8·13 대책, 수도권 23만호…착공 앞당겨",
+          "link": "https://news.dealsitetv.com/articles/174801",
+          "press": "",
+          "date": "2026-08-15"
+        }
+      ],
+      "rank": 5
     },
     {
       "keyword": "로스앤젤레스 fc",
@@ -365,7 +438,7 @@
           "date": "2026-08-15"
         }
       ],
-      "rank": 5
+      "rank": 6
     },
     {
       "keyword": "스포츠조선",
@@ -436,79 +509,6 @@
           "link": "https://www.sportschosun.com/entertainment/2026-08-14/202608090100052230003262",
           "press": "",
           "date": "2026-08-14"
-        }
-      ],
-      "rank": 6
-    },
-    {
-      "keyword": "랄랄",
-      "traffic": "500+",
-      "blogTotal": 14048,
-      "newsTotal": 14053,
-      "recentToday": 9,
-      "recentWeek": 94,
-      "topBlogs": [
-        {
-          "title": "살 빠진 줄 알았는데.. 보정 없는 수영복 사진 공개한 랄랄 근황",
-          "link": "https://blog.naver.com/dys99189/224370570246",
-          "blogger": "지니 그녀의 공간",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "\"위고비,마운자로 중단 후 9kg 감량\" 랄랄 77kg→68kg, 다이어트 성공 비....",
-          "link": "https://blog.naver.com/xo_90/224372448041",
-          "blogger": "보배진 건강로그 ♩",
-          "date": "2026-08-08"
-        },
-        {
-          "title": "\"랄랄 눈밑지 수술 + 코 성형\" 후 여신 된 근황, 병원 어디?",
-          "link": "https://blog.naver.com/maryjane1440/224195886532",
-          "blogger": "멜희의 달콤일상♥",
-          "date": "2026-02-25"
-        },
-        {
-          "title": "랄랄, 임신 전 흡연 고백 후 다시 입 열었다…\"지금은 반성합니다\"",
-          "link": "https://blog.naver.com/sfreegir/224337522806",
-          "blogger": "오늘의 트렌드픽!!",
-          "date": "2026-07-06"
-        },
-        {
-          "title": "9kg 감량한 랄랄 다이어트 비결 3가지, 약물 없이 실천한 방법은?",
-          "link": "https://blog.naver.com/lee_golgol/224355467525",
-          "blogger": "골골이의 건강 이야기",
-          "date": "2026-07-23"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "랄랄, ♥11살 연상 남편과 요트 데이트…대형 태극기로 광복절 기념 [MH...",
-          "link": "https://mhnse.com/news/articleView.html?idxno=1491462",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "'11살 연상♥' 랄랄, '이동욱 닮은' 남편과 똥배 자랑하고 놀더니..결국...",
-          "link": "http://www.osen.co.kr/article/G1112857876",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "랄랄, 남편과 광복절 요트 데이트…9kg 감량했다더니 “2kg 찜” [IS하이...",
-          "link": "https://isplus.com/article/view/isp202608150039",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "\"9㎏ 감량 성공\"…랄랄, 남편과 광복절 요트 데이트",
-          "link": "https://www.newsis.com/view/NISX20260815_0003750661",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "랄랄, 11살 연상 남편과 요트서 진한 입맞춤…광복절엔 대형 태극기 '펄...",
-          "link": "https://www.mydaily.co.kr/page/view/2026081516222970927",
-          "press": "",
-          "date": "2026-08-15"
         }
       ],
       "rank": 7
@@ -661,7 +661,7 @@
     },
     {
       "keyword": "시바이누코인",
-      "traffic": "100+",
+      "traffic": "200+",
       "blogTotal": 13112,
       "newsTotal": 9346,
       "recentToday": 2,
