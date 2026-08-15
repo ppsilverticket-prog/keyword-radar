@@ -1,12 +1,158 @@
 {
-  "updatedAt": "2026-08-15T05:52:29.250Z",
+  "updatedAt": "2026-08-15T06:32:58.207Z",
   "source": "live",
   "keywords": [
     {
+      "keyword": "추석",
+      "traffic": "200+",
+      "blogTotal": 3952481,
+      "newsTotal": 2317405,
+      "recentToday": 100,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "2026 추석 민생지원금 언제 받나? 지역별 지급 소식 총정리",
+          "link": "https://blog.naver.com/dhel751/224370386248",
+          "blogger": "뽀또네집",
+          "date": "2026-08-06"
+        },
+        {
+          "title": "\"나만 몰랐네\" 이미 시작된 추석 민생지원금 받는 지역 총정리",
+          "link": "https://blog.naver.com/bomod/224373698879",
+          "blogger": "평범한 직장인의 투자일기",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "\"혹시 우리도 50만원?\" 2026년 추석 민생지원금 주는 31개 지역",
+          "link": "https://blog.naver.com/meaning87/224370742625",
+          "blogger": "은퇴연구소",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "2026 추석 기차표 예매 언제? KTX SRT 일정·예약방법 총정리",
+          "link": "https://blog.naver.com/fortune537/224371028442",
+          "blogger": "내가 보는 세상",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "추석 민생지원금 또 나온다? 지역별 지급 대상부터 신청 방법까지 ....",
+          "link": "https://blog.naver.com/dktlskdy107/224369126454",
+          "blogger": "'세계이슈'와 '맛집'에 진심인 붕로그",
+          "date": "2026-08-06"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "'오겜2' 출연한 뻔 했는데..스윙스, 살 쫙 빼고 연기 도전 '얼굴 뒤덮은...",
+          "link": "http://www.osen.co.kr/article/G1112857819",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "\"실화 기반 이야기, 조심스러웠지만 마법처럼 몰입했다\"",
+          "link": "https://www.sisajournal.com/news/articleView.html?idxno=383336",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "법무보호공단 서울지부, 무더위와 추석까지 법무보호대상자 위한 후원물...",
+          "link": "http://www.lawissue.co.kr/view.php?ud=2026081513513877459a8c8bf58f_12",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "장애인 고향길 돕고 해외 오지 진료까지…‘맞춤형 모빌리티’ 뜬다",
+          "link": "https://www.segye.com/newsView/20260814517623?OutUrl=naver",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "문경시민 6만4천662명 모두 추석 전 25만원 받는다…민생회복지원금 지...",
+          "link": "https://www.imaeil.com/page/view/2026081512522360301",
+          "press": "",
+          "date": "2026-08-15"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "keyword": "한남동",
+      "traffic": "200+",
+      "blogTotal": 606333,
+      "newsTotal": 429394,
+      "recentToday": 100,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "한남동 브런치 맛집 구구구, 느좋 데이트 소개팅 장소로 추천",
+          "link": "https://blog.naver.com/travelriring/224366789485",
+          "blogger": "리링",
+          "date": "2026-08-03"
+        },
+        {
+          "title": "이태원 한남동 핫플 [한남동감자탕] 주말 웨이팅 꿀팁 | 뼈찜 닭한마....",
+          "link": "https://blog.naver.com/joan0012/224367688391",
+          "blogger": "핸꾸로그໒꒱⋆꙳",
+          "date": "2026-08-04"
+        },
+        {
+          "title": "한남동 맛집 미쉐린 태국음식점 마나오 솔직후기, 추천메뉴",
+          "link": "https://blog.naver.com/sunsee365/224371101603",
+          "blogger": "가보고 먹어보고 다해보자",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "[한남동 감자탕]24시영업/뼈찜 추천/웨이팅 정보/맵기 정보",
+          "link": "https://blog.naver.com/phkl8836/224302416040",
+          "blogger": "Honey Candy HOME",
+          "date": "2026-06-01"
+        },
+        {
+          "title": "한남동 카페 마일스톤 한남점 플랫화이트 솔직 후기",
+          "link": "https://blog.naver.com/qyo9693/224341593078",
+          "blogger": "그린이의 한끼 기록",
+          "date": "2026-07-09"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "회장님도 '한강뷰'는 중요하네…이웃집 신축에 소송 건 재벌 회장",
+          "link": "http://weekly.chosun.com/news/articleView.html?idxno=54361",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "재벌 회장님들의 ‘한강조망권’ 다툼…법적 분쟁 비화",
+          "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000545290",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "한남동 고급주택 조망권 놓고 재벌가 법정공방…가처분 기각에 항고",
+          "link": "https://www.kwnews.co.kr/article/20260815500052",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "\"내 한강뷰가 사라졌다\"…한남동 재벌가 사이 벌어진 '집 높이' 싸움",
+          "link": "https://www.cwn.kr/news/articleView.html?idxno=53348",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "한남동 재벌 회장님들 '한강조망권' 다툼…법적 분쟁 비화",
+          "link": "https://www.newsis.com/view/NISX20260815_0003750581",
+          "press": "",
+          "date": "2026-08-15"
+        }
+      ],
+      "rank": 2
+    },
+    {
       "keyword": "민생지원금",
       "traffic": "20000+",
-      "blogTotal": 134629,
-      "newsTotal": 142556,
+      "blogTotal": 134651,
+      "newsTotal": 142557,
       "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
@@ -43,6 +189,12 @@
       ],
       "topNews": [
         {
+          "title": "전재수호 1호 추경 의미는…여소야대 시의회 설득 시험대",
+          "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260815.99099004138",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
           "title": "고양시 1828억 증액 3회 추경안 편성… '기금 융자'로 민생 방어",
           "link": "http://www.mygoyang.com/news/articleView.html?idxno=89903",
           "press": "",
@@ -65,21 +217,15 @@
           "link": "https://www.sidae.com/article/2026081511093914274",
           "press": "",
           "date": "2026-08-15"
-        },
-        {
-          "title": "[기자수첩] 시민과 함께 만드는 '힘찬 문경'",
-          "link": "https://www.idaegu.com/news/articleView.html?idxno=665032",
-          "press": "",
-          "date": "2026-08-15"
         }
       ],
-      "rank": 1
+      "rank": 3
     },
     {
       "keyword": "이인권",
       "traffic": "5000+",
-      "blogTotal": 2418,
-      "newsTotal": 3114,
+      "blogTotal": 2425,
+      "newsTotal": 3116,
       "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
@@ -96,25 +242,37 @@
           "date": "2026-08-15"
         },
         {
-          "title": "합숙맞선2 이인권 최정윤 최커 탄생! 현커 여부는? 인스타 소감 연애....",
-          "link": "https://blog.naver.com/shushu9988/224378347588",
-          "blogger": "재린슈슈의 리뷰노트",
-          "date": "2026-08-14"
-        },
-        {
           "title": "이인권 최정윤 진짜 사귄다, 합숙맞선2 유일 최종커플이 SNS로 밝힌 ....",
           "link": "https://blog.naver.com/alstjr4008/224379346583",
           "blogger": "핫로그",
           "date": "2026-08-15"
         },
         {
-          "title": "‘합숙 맞선’에서 실제 커플, 아나운서 이인권과 미스코리아 최정....",
-          "link": "https://blog.naver.com/jhjhyj777/224379354992",
-          "blogger": "Star, 보석처럼 빛나는",
+          "title": "합숙맞선2 이인권 최정윤 최커 탄생! 현커 여부는? 인스타 소감 연애....",
+          "link": "https://blog.naver.com/shushu9988/224378347588",
+          "blogger": "재린슈슈의 리뷰노트",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "\"합숙맞선2 이인권♥최정윤 현커였다\" SBS 아나운서 미스코리아 나이....",
+          "link": "https://blog.naver.com/hskim_2019/224379402868",
+          "blogger": "세상 모든 이슈",
           "date": "2026-08-15"
         }
       ],
       "topNews": [
+        {
+          "title": "“밖에서도 잘 만나요”…‘합숙 맞선2’ 이인권·최정윤, 실제 커플됐...",
+          "link": "https://www.mk.co.kr/article/12128745",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "\"잘 만나요\"…'합숙맞선2' 최정윤♥이인권, 연애 전선 이상 無",
+          "link": "http://www.tvdaily.co.kr/read.php3?aid=17867730991797977002",
+          "press": "",
+          "date": "2026-08-15"
+        },
         {
           "title": "이인권♥최정윤 “밖에서도 잘 만나고 있어”…‘합숙 맞선2’ 현커 인...",
           "link": "https://isplus.com/article/view/isp202608150025",
@@ -132,235 +290,77 @@
           "link": "https://www.news1.kr/entertain/broadcast-tv/6260208",
           "press": "",
           "date": "2026-08-15"
-        },
-        {
-          "title": "'합숙맞선2' 최정윤♥이인권, 현커 확정…\"잘 만나고 있다\" 공식 열애 인...",
-          "link": "https://www.xportsnews.com/article/2184097",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "'합숙 맞선2' 이인권 아나운서, 미스코리아 출신 최정윤과 열애 중",
-          "link": "https://news.jtbc.co.kr/article/NB12313519?influxDiv=NAVER",
-          "press": "",
-          "date": "2026-08-15"
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "keyword": "하이마트",
-      "traffic": "100+",
-      "blogTotal": 241717,
-      "newsTotal": 167891,
-      "recentToday": 100,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "(내돈내산)[닌텐도 스위치2 + 마리오카트월드]세트 하이마트 예약구....",
-          "link": "https://blog.naver.com/ssoda9/224366200414",
-          "blogger": "딱콩님의 블로그",
-          "date": "2026-08-03"
-        },
-        {
-          "title": "대구 중앙로 가볼만한곳 하이마트 음악감상실 • 입장료 8천원에 즐....",
-          "link": "https://blog.naver.com/hwi170807/224370557503",
-          "blogger": "다혜의 enfp 일상",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "하이마트 잠실점에서 발견한 3Dism GLASS™ 아이폰 3D 필름 후기",
-          "link": "https://blog.naver.com/pkj5456/224307025821",
-          "blogger": "Ring Habell",
-          "date": "2026-06-05"
-        },
-        {
-          "title": "신혼집 | 혼수가전 상담&견적 [롯데하이마트 용산아이파크몰점] 방....",
-          "link": "https://blog.naver.com/wlgh2798/224333841919",
-          "blogger": "쏠쏠한 블로그",
-          "date": "2026-07-02"
-        },
-        {
-          "title": "앱코 AF108PRO 경해축 후기 롯데마트 하이마트에서 직접 타건 후 구매....",
-          "link": "https://blog.naver.com/gmldms9598/224356540917",
-          "blogger": "hi! bang",
-          "date": "2026-07-24"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "롯데하이마트, 30만원대 모토로라 'moto g57 POWER' 출시",
-          "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2268002",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "\"30만원대 대용량 배터리폰 만나보세요\"…롯데하이마트, 모토로라 'moto ...",
-          "link": "https://www.thepublic.kr/news/articleView.html?idxno=314994",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "[위클리오늘] 한화·현대건설, 대단지 '포레나힐스테이트 진주' 분양 돌...",
-          "link": "http://www.weeklytoday.com/news/articleView.html?idxno=790505",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "[통신 풍향계] LGU+ '청년 지원 프로그램'·KT희망재단 'K-AI 콘텐츠 공모...",
-          "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=850479",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "[카드] 롯데하이마트, 모토로라 '세컨폰' 수요 겨냥",
-          "link": "http://www.newsprime.co.kr/news/article.html?no=743998",
-          "press": "",
-          "date": "2026-08-14"
-        }
-      ],
-      "rank": 3
-    },
-    {
-      "keyword": "서강대",
-      "traffic": "200+",
-      "blogTotal": 99759,
-      "newsTotal": 332186,
-      "recentToday": 49,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "2026 서강대 수시등급: 교과·종합 입결 및 수능최저",
-          "link": "https://blog.naver.com/coseesee11/224347785036",
-          "blogger": "합격통계소",
-          "date": "2026-07-15"
-        },
-        {
-          "title": "2026 서강대 입결 수시등급 및 전략 분석 (2026학년도 서강대 내신, 서....",
-          "link": "https://blog.naver.com/ssonch16/224295022269",
-          "blogger": "쏜교육컨설팅 (구.쏜자소서컨설팅) 010-8568-8616",
-          "date": "2026-05-24"
-        },
-        {
-          "title": "서강대 -“서연고 바로 아래인데 합격은 더 어렵다”… 2026 서강대 ....",
-          "link": "https://blog.naver.com/sensasion/224308350790",
-          "blogger": "글로리컨설팅[위례에듀,투자/법률컨설팅,인천글캠]",
-          "date": "2026-06-07"
-        },
-        {
-          "title": "“당장 사표 내면 굶는다”… 배우 될 생활비 모으려 사우디행 택한....",
-          "link": "https://blog.naver.com/starlit26/224365995031",
-          "blogger": "교육 비책",
-          "date": "2026-08-03"
-        },
-        {
-          "title": "2027 서강대·성균관대·한양대 수시 핵심 변경사항 | 서성한 편",
-          "link": "https://blog.naver.com/ansooa77/224315381762",
-          "blogger": "슬기로운 엄마생활",
-          "date": "2026-06-14"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "박근혜 前대통령도 털린듯…서강대 개인정보 유출에 학생들 ‘부글부글...",
-          "link": "https://biz.heraldcorp.com/article/10842365?ref=naver",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "[속보] 서강대 개인정보 유출 사태, 박근혜 전 대통령도 피해 추정",
-          "link": "https://www.munhwa.com/article/11609751?ref=naver",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "서강대 학생·졸업생 등 개인정보 18만건 유출…박근혜 전 대통령도 포...",
-          "link": "https://www.hidomin.com/news/articleView.html?idxno=717355",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "박근혜 前대통령도 포함된 듯…서강대 개인정보 18만건 유출",
-          "link": "https://biz.sbs.co.kr/article_hub/20000328970?division=NAVER",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "서강대 개인정보 18만건 털렸다…박근혜 전 대통령도 포함된 듯",
-          "link": "https://www.kbmaeil.com/article/20260815500104",
-          "press": "",
-          "date": "2026-08-15"
         }
       ],
       "rank": 4
     },
     {
-      "keyword": "백두산",
-      "traffic": "100+",
-      "blogTotal": 191606,
-      "newsTotal": 156906,
-      "recentToday": 35,
-      "recentWeek": 100,
+      "keyword": "플로레스 섬",
+      "traffic": "2000+",
+      "blogTotal": 993,
+      "newsTotal": 1233,
+      "recentToday": 29,
+      "recentWeek": 34,
       "topBlogs": [
         {
-          "title": "여름 백두산 북파 자유여행: 천지-장백폭포-소천지-녹연담 코스",
-          "link": "https://blog.naver.com/jenahj/224364370547",
-          "blogger": "고양이의 아담한 블로그세상♡",
-          "date": "2026-07-31"
+          "title": "인도네시아 플로레스섬 규모 7.7 강진…최소 20명 사망",
+          "link": "https://blog.naver.com/luluda0802/224379493002",
+          "blogger": "혜안의 생활노트",
+          "date": "2026-08-15"
         },
         {
-          "title": "백두산 여행 중국 백두산천지 북파 당일 VIP 버스여행",
-          "link": "https://blog.naver.com/hn_bong/224370271688",
-          "blogger": "여행하는 그림쟁이 나봉순",
-          "date": "2026-08-06"
+          "title": "인도네시아 ‘규모 7.7 강진’ 플로레스섬은 어디?…사망자 집계 혼....",
+          "link": "https://blog.naver.com/yunys4303/224379500641",
+          "blogger": "가브리엘’s 이슈리뷰",
+          "date": "2026-08-15"
         },
         {
-          "title": "백두산 여행, 천지·항공·가는법·먹거리 총정리",
-          "link": "https://blog.naver.com/seamewe/224341617811",
-          "blogger": "모두투어 공식온라인예약센터",
-          "date": "2026-07-09"
+          "title": "인도네시아 누사텡가라는 어디? 롬복·코모도·플로레스 섬 지역 한....",
+          "link": "https://blog.naver.com/hi_compar/224372825299",
+          "blogger": "클e 푸른 노트",
+          "date": "2026-08-10"
         },
         {
-          "title": "중국 백두산 여행｜장백폭포와 수동동굴까지 다녀온 잊지 못할 추....",
-          "link": "https://blog.naver.com/shlove01299/224337492240",
-          "blogger": "사랑스러운 그녀, 삶의 여백♡",
-          "date": "2026-07-06"
+          "title": "인도네시아 플로레스섬 강진 7.7 발생 속 쓰나미 괜찮을까",
+          "link": "https://blog.naver.com/feia1230/224379477332",
+          "blogger": "혀니패밀리",
+          "date": "2026-08-15"
         },
         {
-          "title": "백두산 서파 자유여행 후기 - 서파관광센터 짐보관부터 공안교육까....",
-          "link": "https://blog.naver.com/tashy5989/224367238051",
-          "blogger": "물곰씨의 여행법",
-          "date": "2026-08-04"
+          "title": "인도네시아 플로레스섬 입벌어지는 핑크빛 바다, 실물 대박 핑크비....",
+          "link": "https://blog.naver.com/jangbogocorn/224364925651",
+          "blogger": "봄봄의 일상 연구소•+",
+          "date": "2026-08-01"
         }
       ],
       "topNews": [
         {
-          "title": "충북교육청 서전고 학생들, 중국 독립운동 현장에서 역사 체험",
-          "link": "https://www.viva100.com/article/20260815500157",
+          "title": "인도네시아 7.7 강진에 최소 20명 사망⋯산사태로 구조도 난항",
+          "link": "https://www.etoday.co.kr/news/view/2614986",
           "press": "",
           "date": "2026-08-15"
         },
         {
-          "title": "“제가 아니면 누가 해요”…‘대한민국’ 위해 달려온 서경덕의 30년 [...",
-          "link": "https://www.kyeonggi.com/article/20260815580051",
+          "title": "인도네시아 플로레스섬 규모 7.7 강진…최소 20명 사망",
+          "link": "http://www.inews24.com/view/1995375",
           "press": "",
           "date": "2026-08-15"
         },
         {
-          "title": "법무부 지정 광주 고려인마을서 광복 81주년 봉오동 전투 재현행사",
-          "link": "http://www.lawissue.co.kr/view.php?ud=2026081513225547579a8c8bf58f_12",
+          "title": "인도네시아 규모 7.7 강진…최소 5명 사망 [현장영상]",
+          "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000545299",
           "press": "",
           "date": "2026-08-15"
         },
         {
-          "title": "진천 서전고 학생들, 광복절 맞아 이상설 선생 발자취 답사",
-          "link": "https://www.yna.co.kr/view/AKR20260815031300064?input=1195m",
+          "title": "항구 터미널 건물이 ‘와르르’…인니 7.7 강진에 인명피해 속출 [현장...",
+          "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8638001&ref=A",
           "press": "",
           "date": "2026-08-15"
         },
         {
-          "title": "서전고, 이상설 선생 발자취 따라 독립정신 되새겨",
-          "link": "https://www.ccreview.co.kr/news/articleView.html?idxno=355170",
+          "title": "인도네시아 규모 7.7 강진 피해 잇따라...최소 20명 사망",
+          "link": "https://www.newspim.com/news/view/20260815000133",
           "press": "",
           "date": "2026-08-15"
         }
@@ -368,169 +368,17 @@
       "rank": 5
     },
     {
-      "keyword": "삼성sdi",
-      "traffic": "1000+",
-      "blogTotal": 74322,
-      "newsTotal": 444635,
-      "recentToday": 33,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "삼성SDI, 진짜 무서운 건 지금부터 시작이다",
-          "link": "https://blog.naver.com/goran0/224372362378",
-          "blogger": "나의것이 모두의것",
-          "date": "2026-08-08"
-        },
-        {
-          "title": "삼성SDI 주가 급등, 미국 공급망 재편이 호재 된 이유",
-          "link": "https://blog.naver.com/pito302/224372851820",
-          "blogger": "하루의 경제 분석",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "삼성SDI 주가 전망, ESS·BBU가 전기차 빈자리 채울까?",
-          "link": "https://blog.naver.com/coingap/224373993193",
-          "blogger": "이코노미 인사이드 ECONOMY INSIDE",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "\"보조금 대박으로 착각 마라!\" 한국판 IRA, 삼성SDI 16조 투자 효과 뒤....",
-          "link": "https://blog.naver.com/dlwogurr/224368330373",
-          "blogger": "정싸부의 경제공부",
-          "date": "2026-08-05"
-        },
-        {
-          "title": "\"다들 모른 척하더니\" 삼성SDI 주가 이 지지선 지키면 결국 '이 가격' ....",
-          "link": "https://blog.naver.com/ayden2219/224374033395",
-          "blogger": "미래를 위한 경제 공부",
-          "date": "2026-08-10"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "제네시스, 'GV90' 출격 임박…주요 스펙 윤곽",
-          "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=857108",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "8월 14일 삼성SDI 주가 51만원대 마감 상승 전환",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16164330",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "K배터리 공장 가동률, 美 전기차 한파 대응에 희비 갈려",
-          "link": "https://zdnet.co.kr/view/?no=20260815040828",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "5일 내내 오른 증시…외인·기관은 '삼전닉스', 승부는 장바구니에서 갈...",
-          "link": "http://www.fnnews.com/news/202608151030334745",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "외국인 'SK하이닉스·삼성전자' 던졌다…개미는 SK하닉 집중매수",
-          "link": "https://www.news2day.co.kr/article/20260815500003",
-          "press": "",
-          "date": "2026-08-14"
-        }
-      ],
-      "rank": 6
-    },
-    {
-      "keyword": "페라리",
-      "traffic": "100+",
-      "blogTotal": 112437,
-      "newsTotal": 72098,
-      "recentToday": 32,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "\"스치기만 해도 파산 각..!\" 마주치면 피하라는 스포츠카, 2026 페라리....",
-          "link": "https://blog.naver.com/tkh456/224366750987",
-          "blogger": "범범 블로그",
-          "date": "2026-08-04"
-        },
-        {
-          "title": "두번째 페라리, 페라리296GTS 출고",
-          "link": "https://blog.naver.com/erinlove776/224364812486",
-          "blogger": "백마탄환자",
-          "date": "2026-08-01"
-        },
-        {
-          "title": "페라리 첫 전기차 루체 공개... 한국 출시 일정과 디자인 스펙 총정....",
-          "link": "https://blog.naver.com/mg12344/224297785153",
-          "blogger": "살랑살랑",
-          "date": "2026-05-27"
-        },
-        {
-          "title": "페라리 슈퍼카 HC25 등장, 제로백 2.9초 괴물 성능에 놀랐다",
-          "link": "https://blog.naver.com/realdc33/224289484817",
-          "blogger": "그것, IT를 읽다",
-          "date": "2026-05-18"
-        },
-        {
-          "title": "88대 전부 완판, 페라리 첫 전기차 루체 10억짜리 논란의 정체",
-          "link": "https://blog.naver.com/zoo0987/224341245062",
-          "blogger": "매일 아침, 카테크를 읽어주는 남자",
-          "date": "2026-07-09"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "8월 무더위를 피하는 가장 시원한 선택, 경기도 실내 여행지로 떠나자 ...",
-          "link": "https://www.kyeonggi.com/article/20260812580396",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "[GAM]車 단순 제조에서 고부가가치 변신 ② 테슬라 AI 생태계로 도약 시...",
-          "link": "https://www.newspim.com/news/view/20260814000694",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "[GAM]車 단순 제조에서 고부가가치 변신 ① 30% 마진의 명품차 페라리",
-          "link": "https://www.newspim.com/news/view/20260814000693",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "페라리는 왜 고객 한 명 위해 새 차를 만들까…'CZ26'에 담긴 원오프의...",
-          "link": "https://www.gpkorea.com/news/articleView.html?idxno=145692",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "페라리, SF90 기반 원오프 슈퍼카 ‘CZ26’ 공개..차별적 특징은?",
-          "link": "https://www.dailycar.co.kr/content/news.html?type=view&autoId=62277",
-          "press": "",
-          "date": "2026-08-14"
-        }
-      ],
-      "rank": 7
-    },
-    {
       "keyword": "마도식",
       "traffic": "200+",
-      "blogTotal": 80,
-      "newsTotal": 26,
-      "recentToday": 19,
-      "recentWeek": 19,
+      "blogTotal": 86,
+      "newsTotal": 29,
+      "recentToday": 25,
+      "recentWeek": 25,
       "topBlogs": [
         {
           "title": "마도식 배우 별세 사망 근황 감초 악역 단골 프로필",
           "link": "https://blog.naver.com/easy0517/224379392832",
           "blogger": "새로운 시작",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "마도식 별세 | 원로배우 마도식 프로필 나이 결혼 아내 자녀 우승보 ....",
-          "link": "https://blog.naver.com/ilovekangstar/224379369202",
-          "blogger": "뉴스스타⭐️",
           "date": "2026-08-15"
         },
         {
@@ -540,19 +388,43 @@
           "date": "2026-08-15"
         },
         {
+          "title": "마도식 별세 | 원로배우 마도식 프로필 나이 결혼 아내 자녀 우승보 ....",
+          "link": "https://blog.naver.com/ilovekangstar/224379369202",
+          "blogger": "뉴스스타⭐️",
+          "date": "2026-08-15"
+        },
+        {
           "title": "마도식 배우 별세, 그는 누구였나 (프로필)",
           "link": "https://blog.naver.com/rozz0697/224379354793",
           "blogger": "뉴투데이",
           "date": "2026-08-15"
         },
         {
-          "title": "[일본/대마도] 대마도 히타카츠 맛집 인정! 일본 가정식 ‘마도’에....",
-          "link": "https://blog.naver.com/ksa0793/224353221063",
-          "blogger": "또힝의 즐거운 생활",
-          "date": "2026-07-21"
+          "title": "돌아이 감초 배우 마도식 별세 향년 82세 프로필 출연작",
+          "link": "https://blog.naver.com/ljs1214mn/224379408618",
+          "blogger": "1Click1",
+          "date": "2026-08-15"
         }
       ],
       "topNews": [
+        {
+          "title": "'돌아이'·'대야망' 배우 마도식, 만성 폐렴으로 향년 82세 별세",
+          "link": "https://www.news1.kr/entertain/movie/6260240",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "원로배우 故 마도식, 14일 별세..향년 82세",
+          "link": "https://www.heraldmuse.com/article/10842373?ref=naver",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "'악역 전문' 원로배우 마도식 별세…영화 '돌아이' 등 출연",
+          "link": "http://www.stoo.com/article.php?aid=108349640991",
+          "press": "",
+          "date": "2026-08-15"
+        },
         {
           "title": "'악역 단골' 원로배우 마도식 별세…향년 82세",
           "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=02417366645547648",
@@ -564,22 +436,150 @@
           "link": "https://www.mk.co.kr/article/12128734",
           "press": "",
           "date": "2026-08-15"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "keyword": "옥순이",
+      "traffic": "500+",
+      "blogTotal": 14852,
+      "newsTotal": 42466,
+      "recentToday": 24,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "나는 솔로 돌싱 32기 광수 옥순/옥순이 샤넬 베니티백보다 이쁘다고....",
+          "link": "https://blog.naver.com/tkfkdwlqhouse/224367331022",
+          "blogger": "초코밀크쉐이크",
+          "date": "2026-08-04"
         },
         {
-          "title": "'감초 조연' 원로 배우 마도식, 14일 별세…향년 82세",
-          "link": "https://www.mt.co.kr/society/2026/08/15/2026081514252523552",
+          "title": "“결혼식 사진을 다시 보니 뭔가 달랐어요..” 28기 옥순이 뒤늦게 ....",
+          "link": "https://blog.naver.com/dnwls054/224375581228",
+          "blogger": "_ne_nal",
+          "date": "2026-08-11"
+        },
+        {
+          "title": "\"연애 2주 만에 초고속 고백\" 나는솔로 30기 영수♥옥순이 밝힌 진짜 ....",
+          "link": "https://blog.naver.com/dorlehdqkd/224346857398",
+          "blogger": "올라의 꼼지락ing",
+          "date": "2026-07-16"
+        },
+        {
+          "title": "“나같은 멋쟁이 환영” 나솔사계 7기 옥순이 첫눈에 찍은 남자, 의....",
+          "link": "https://blog.naver.com/wego08/224378108656",
+          "blogger": "올스타 이슈",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "\"다들 이 발언에서 뭉클했다고\" 32기 옥순 이 직접 밝힌 결혼생활, 반....",
+          "link": "https://blog.naver.com/bw7815ss/224374372732",
+          "blogger": "패피뇨",
+          "date": "2026-08-10"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "'42세 모솔' 7기 옥순, 첫 데이트 선택에도 요지부동?..첫 데이트 매칭 ...",
+          "link": "https://www.starnewskorea.com/broadcast-show/2026/08/15/2026081515133087887",
           "press": "",
           "date": "2026-08-15"
         },
         {
-          "title": "영화 ‘돌아이’ 감초 역할…원로 배우 마도식, 82세 일기로 별세",
-          "link": "https://www.mk.co.kr/article/12128732",
+          "title": "'나솔' 23기 옥순, 결혼 앞두더니 '럽스타' 사진 대거 방출했다…'현실...",
+          "link": "https://www.tenasia.co.kr/article/2026081531264",
           "press": "",
           "date": "2026-08-15"
         },
         {
-          "title": "원로배우 마도식 별세… 향년 82세",
-          "link": "https://www.hankookilbo.com/news/article/A2026081513450003644?did=NA",
+          "title": "'나솔' 29기 옥순, 현실감 없는 몸매→청량미 가득…바다 품은 여신 비주...",
+          "link": "https://www.tenasia.co.kr/article/2026081531244",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "재혼 계획한 '나솔' 32기 광수♥옥순, \"최종선택날 첫 뽀뽀, 호칭은 자기...",
+          "link": "http://www.atstar1.com/news/articleView.html?idxno=6037668",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "'나솔' 미스터 서, 잘생긴 얼굴로 데이트 신청…솔로녀들 눈치싸움",
+          "link": "http://www.atstar1.com/news/articleView.html?idxno=6037666",
+          "press": "",
+          "date": "2026-08-15"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "keyword": "야마모토 요시노부",
+      "traffic": "100+",
+      "blogTotal": 2896,
+      "newsTotal": 18950,
+      "recentToday": 3,
+      "recentWeek": 17,
+      "topBlogs": [
+        {
+          "title": "MLB 야구 선수 야마모토 요시노부(프로필,경력,스타일 등)",
+          "link": "https://blog.naver.com/mistermy18/224337186835",
+          "blogger": "H2의 스포츠와 여행",
+          "date": "2026-07-05"
+        },
+        {
+          "title": "하루 1억 버는 야마모토 요시노부 연봉, 그의 몸값 4500억이 전혀 아....",
+          "link": "https://blog.naver.com/majorbest/224353598133",
+          "blogger": "양키생제",
+          "date": "2026-07-21"
+        },
+        {
+          "title": "LA다저스 사사키 로키 VS 요시노부 야마모토 연봉 차이 이렇다고? ㄷ....",
+          "link": "https://blog.naver.com/certified07/224293520220",
+          "blogger": "스페셜리스트",
+          "date": "2026-05-24"
+        },
+        {
+          "title": "4555억의 사나이 야마모토 요시노부 완벽 분석! LA 다저스를 움직이는....",
+          "link": "https://blog.naver.com/rentdoctor/224062747953",
+          "blogger": "벌써1년렌트",
+          "date": "2025-11-03"
+        },
+        {
+          "title": "\"야마모토 요시노부 연봉은?\" 젊은 나이에 3억 달러 몸값의 비밀",
+          "link": "https://blog.naver.com/edwin9407/224062762824",
+          "blogger": "더블체커(DC)",
+          "date": "2025-11-03"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "979억 디아즈 SV 성공+야마모토 12승째! 다저스, 밀워키 3-1 제압…배지...",
+          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1002045",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "다저스 마무리 괴롭힌 배지환, 밀워키는 아쉬운 패배",
+          "link": "https://www.mk.co.kr/article/12128739",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "배지환, 다저스전 대주자로 나서 도루…오타니는 불펜 피칭 시작",
+          "link": "https://www.newsis.com/view/NISX20260815_0003750601",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "배지환, 다저스전 대주자로 시즌 1호 도루…밀워키는 '야마모토 호투' ...",
+          "link": "https://www.mediapen.com/news/view/1116737",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "배지환, 대주자 나와 시즌 첫 도루…다저스 디아스 또 흔들렸지만 밀워...",
+          "link": "https://www.mydaily.co.kr/page/view/2026081514205037400",
           "press": "",
           "date": "2026-08-15"
         }
@@ -587,81 +587,81 @@
       "rank": 8
     },
     {
-      "keyword": "플로레스 섬",
-      "traffic": "2000+",
-      "blogTotal": 979,
-      "newsTotal": 1218,
-      "recentToday": 15,
-      "recentWeek": 20,
+      "keyword": "발렌시아 cf",
+      "traffic": "200+",
+      "blogTotal": 2547,
+      "newsTotal": 6442,
+      "recentToday": 2,
+      "recentWeek": 5,
       "topBlogs": [
         {
-          "title": "인도네시아 누사텡가라는 어디? 롬복·코모도·플로레스 섬 지역 한....",
-          "link": "https://blog.naver.com/hi_compar/224372825299",
-          "blogger": "클e 푸른 노트",
-          "date": "2026-08-10"
+          "title": "발렌시아CF 축구아카데이 후기｜목동 축구교실 찾는다면 만족도 높....",
+          "link": "https://blog.naver.com/junenyoung/224269559874",
+          "blogger": "E.N.D Story :)",
+          "date": "2026-04-29"
         },
         {
-          "title": "인도네시아 플로레스섬 입벌어지는 핑크빛 바다, 실물 대박 핑크비....",
-          "link": "https://blog.naver.com/jangbogocorn/224364925651",
-          "blogger": "봄봄의 일상 연구소•+",
-          "date": "2026-08-01"
+          "title": "바스크 지방의 열정, 붉은색으로 물든 아틀레틱 빌바오의 산 마메스....",
+          "link": "https://winniestory.com/363",
+          "blogger": "위니의 여행이야기 :: 위니의 여행이야기",
+          "date": "2019-02-17"
         },
         {
-          "title": "인도네시아 플로레스섬 강진 7.7 발생 속 쓰나미 괜찮을까",
-          "link": "https://blog.naver.com/feia1230/224379477332",
-          "blogger": "혀니패밀리",
-          "date": "2026-08-15"
+          "title": "251226 스페인 발렌시아 / 11. 발렌시아 CF의 홈 구장, 에스타디오 데 메....",
+          "link": "https://blog.naver.com/granado92/224358240560",
+          "blogger": "다시 돌아오지 않는 젊음에 대한 완전한 탐닉",
+          "date": "2026-08-04"
         },
         {
-          "title": "인도네시아 속의 작은 유럽? 플로레스섬 라부안바조/월레스 선 서쪽....",
-          "link": "https://blog.naver.com/kgsw1340/224378290471",
-          "blogger": "매혹된 영혼",
-          "date": "2026-08-14"
+          "title": "스페인 축구 역사상 최고의 중앙 수비수 Top 15",
+          "link": "https://footballpediahistory.tistory.com/443",
+          "blogger": "풋볼피디아 FootballpediA - 축구 백과사전",
+          "date": "2026-05-24"
         },
         {
-          "title": "인도네시아 플로레스섬 강진 M7.7, 라부안바조·롬복 관광객도 대피....",
-          "link": "https://blog.naver.com/dalsunlm1/224379405955",
-          "blogger": "배당만이 살길",
-          "date": "2026-08-15"
+          "title": "축구 역사상 가장 위대한 레프트백 Top 30",
+          "link": "https://footballpediahistory.tistory.com/194",
+          "blogger": "풋볼피디아 FootballpediA - 축구 백과사전",
+          "date": "2026-08-04"
         }
       ],
       "topNews": [
         {
-          "title": "‘7.7 강진’ 인니 플로레스섬 최소 20명 사망…쓰나미 경보는 해제",
-          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000003304&cp=nv",
+          "title": "이강인 돌아온 라리가… 프로토 승부식 96회차 발매",
+          "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=856667",
           "press": "",
-          "date": "2026-08-15"
+          "date": "2026-08-13"
         },
         {
-          "title": "'7.7 강진' 인도네시아 플로레스섬에서 최소 20명 사망",
-          "link": "https://www.dailian.co.kr/news/view/1678868/?sc=Naver",
+          "title": "운명 참 얄궂다! 이강인 '절친', 라리가 떠나 PSG로 초대형 이적...엇갈...",
+          "link": "http://www.osen.co.kr/article/G1112854837",
           "press": "",
-          "date": "2026-08-15"
+          "date": "2026-08-10"
         },
         {
-          "title": "인니 플로레스섬, 7.7 규모 '강진'…인명 피해 확인 계속",
-          "link": "https://news.tf.co.kr/read/world/2354610.htm",
+          "title": "AT 마드리드 에이스 등번호 7번 단 이강인 “120% 최선 다할 것”",
+          "link": "https://www.seoul.co.kr/news/sport/soccer/soccer-global/2026/08/10/20260810034002?wlog_tag3=naver",
           "press": "",
-          "date": "2026-08-15"
+          "date": "2026-08-09"
         },
         {
-          "title": "인도네시아 플로레스섬에서 7.7 강진으로 20명 사망",
-          "link": "https://www.chosun.com/international/international_general/2026/08/15/632H3QPAQZCRLP36UYKW6VWLNM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+          "title": "[SD 상암 라이브] 30여분이면 충분했다! ‘레드 & 화이트맨’ 이강인이...",
+          "link": "https://sports.donga.com/sports/article/all/20260809/134444812/1",
           "press": "",
-          "date": "2026-08-15"
+          "date": "2026-08-09"
         },
         {
-          "title": "인도네시아 플로레스섬 규모 7.7 강진…최소 20명 사망",
-          "link": "http://www.fnnews.com/news/202608151444044472",
+          "title": "[영상] “이강인, 아틀레티코 마드리드에서 커리어와 주전 입지 다 잡을...",
+          "link": "https://weekly.donga.com/3/all/11/6338611/1",
           "press": "",
-          "date": "2026-08-15"
+          "date": "2026-08-07"
         }
       ],
       "rank": 9
     },
     {
-      "keyword": "sl vs ind",
-      "traffic": "200+",
+      "keyword": "ind vs sl",
+      "traffic": "1000+",
       "blogTotal": 8,
       "newsTotal": 1,
       "recentToday": 0,
