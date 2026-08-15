@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-08-15T16:20:26.992Z",
+  "updatedAt": "2026-08-15T16:49:33.958Z",
   "source": "live",
   "keywords": [
     {
       "keyword": "가출",
       "traffic": "2000+",
-      "blogTotal": 94389,
+      "blogTotal": 94388,
       "newsTotal": 170478,
       "recentToday": 52,
       "recentWeek": 100,
@@ -67,8 +67,8 @@
           "date": "2026-08-15"
         },
         {
-          "title": "“훈육이 범죄가 된 순간”…전기물주전자 들고 엄마에게 향한 10대",
-          "link": "https://www.seoul.co.kr/news/society/accident/2026/08/15/20260815500045?wlog_tag3=naver",
+          "title": "가출 말리는 엄마에게 끓는 물 부은 10대 딸...\"특수존속상해혐의 입건...",
+          "link": "https://www.ngonews.kr/news/articleView.html?idxno=235617",
           "press": "",
           "date": "2026-08-15"
         }
@@ -77,7 +77,7 @@
     },
     {
       "keyword": "송가인",
-      "traffic": "500+",
+      "traffic": "1000+",
       "blogTotal": 56974,
       "newsTotal": 137507,
       "recentToday": 47,
@@ -147,6 +147,79 @@
         }
       ],
       "rank": 2
+    },
+    {
+      "keyword": "상장",
+      "traffic": "200+",
+      "blogTotal": 1067216,
+      "newsTotal": 4528275,
+      "recentToday": 42,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "댑오에스 코인 (DOS) 업비트 상장! Web3 AI 코인 전망은?",
+          "link": "https://blog.naver.com/vitamin2230/224374997172",
+          "blogger": "REONE P&I",
+          "date": "2026-08-11"
+        },
+        {
+          "title": "상장폐지되면 내 주식은 어떻게 될까? 상폐 요건과 정리매매 절차",
+          "link": "https://blog.naver.com/ivvlove/224365762450",
+          "blogger": "나엠제이의 투자맥잡기",
+          "date": "2026-08-02"
+        },
+        {
+          "title": "\"주식 상장폐지 뜻 조건 거래정지\" 정리매매가 마지막 기회?",
+          "link": "https://blog.naver.com/92happywoo/224355787333",
+          "blogger": "꿈꾸는에릭의 경제스터디",
+          "date": "2026-07-23"
+        },
+        {
+          "title": "일론 머스크의 스페이스X 상장 주식 개인이 사는 방법 우회 투자법",
+          "link": "https://blog.naver.com/happyobok/224306847561",
+          "blogger": "매일 복 쌓이는 지식 라운지",
+          "date": "2026-06-05"
+        },
+        {
+          "title": "SK하이닉스가 미국 나스닥에 상장? 초보자를 위한 초간단 요약정리(F....",
+          "link": "https://blog.naver.com/2hmii/224326727739",
+          "blogger": "《양이 가든》",
+          "date": "2026-06-25"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "금 차익 28% 과세, 미국선 고정세율 아니다",
+          "link": "https://www.tokenpost.kr/news/policy/391485",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "하이퍼리퀴드, 클래리티법 표류에 CFTC 직접 협상으로 무기한선물 미국...",
+          "link": "https://www.wikitree.co.kr/articles/1152707",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "유니트리, 선물시장서 380억달러 평가받았다",
+          "link": "https://www.tokenpost.kr/news/breaking/391479",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "“60만전자 보인다”…삼성전자, 저점 뚫고 ‘강세 국면’ 진입하나",
+          "link": "https://www.dt.co.kr/article/12078406?ref=naver",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "에너지 ETF 6월 30억달러 순유출 전환",
+          "link": "https://www.tokenpost.kr/news/market/391477",
+          "press": "",
+          "date": "2026-08-15"
+        }
+      ],
+      "rank": 3
     },
     {
       "keyword": "나상도",
@@ -219,15 +292,15 @@
           "date": "2026-08-14"
         }
       ],
-      "rank": 3
+      "rank": 4
     },
     {
       "keyword": "조규성",
       "traffic": "100+",
-      "blogTotal": 15093,
+      "blogTotal": 15095,
       "newsTotal": 68344,
       "recentToday": 10,
-      "recentWeek": 31,
+      "recentWeek": 33,
       "topBlogs": [
         {
           "title": "[월드컵] 무릎 수술 극복한 조규성, 월드컵 핵심 카드로 떠오른 이유",
@@ -290,79 +363,6 @@
           "link": "http://www.footballist.co.kr/news/articleView.html?idxno=213585",
           "press": "",
           "date": "2026-08-13"
-        }
-      ],
-      "rank": 4
-    },
-    {
-      "keyword": "그래미 어워드",
-      "traffic": "200+",
-      "blogTotal": 10193,
-      "newsTotal": 42137,
-      "recentToday": 4,
-      "recentWeek": 20,
-      "topBlogs": [
-        {
-          "title": "시사상식 그래미 어워드 그래미 뜻이 이런 뜻이었다니! BTS 그래미 ....",
-          "link": "https://blog.naver.com/84hahahoho/224366313812",
-          "blogger": "고딸영어",
-          "date": "2026-08-03"
-        },
-        {
-          "title": "BTS, 그래미어워드 불참선언의 의의",
-          "link": "https://blog.naver.com/ansung9/224367365788",
-          "blogger": "텐버거 전설님의 블로그",
-          "date": "2026-08-04"
-        },
-        {
-          "title": "그래미 어워드, ‘아시안 팝’ 부문 신설! BTS와 K-POP의 잔칫상일까, ....",
-          "link": "https://blog.naver.com/herse80/224365831221",
-          "blogger": "세상 돌아가는 이야기",
-          "date": "2026-08-02"
-        },
-        {
-          "title": "BTS 그래미 어워드 보이콧 왜?",
-          "link": "https://blog.naver.com/voom365/224365403332",
-          "blogger": "voom365님의 블로그",
-          "date": "2026-08-02"
-        },
-        {
-          "title": "보이콧 뜻 BTS 그래미 어워드 보이콧 왜?",
-          "link": "https://blog.naver.com/bsjang0408/224362786054",
-          "blogger": "Brandon's Story English",
-          "date": "2026-07-30"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "“여성 폭행범 옹호?”…방탄소년단, 뜻밖의 논란으로 해외 팬 ‘발칵’",
-          "link": "https://www.sportsseoul.com/news/read/1628819?ref=naver",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "세계평화음악앙상블 19일 공연...K-창작 클래식의 세계화",
-          "link": "https://www.sportsworldi.com/newsView/20260815508590",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "[박준규의 이슈언박싱] \"아시아는 장르가 아니다\"…BTS가 거부하자 그래...",
-          "link": "https://www.pennmike.com/news/articleView.html?idxno=125758",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "'BTS 보이콧' 여파에…그래미, '아시안 팝' 부문 재검토",
-          "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00008&news_seq_no=5212647",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "BTS 보이콧에 백기?...그래미, 아시안 팝 부문 재검토 시사",
-          "link": "https://www.mt.co.kr/culture/2026/08/15/2026081509242959127",
-          "press": "",
-          "date": "2026-08-15"
         }
       ],
       "rank": 5
@@ -561,15 +561,15 @@
       "rank": 9
     },
     {
-      "keyword": "밀란 대 맨유",
-      "traffic": "20000+",
+      "keyword": "그래미 어워드",
+      "traffic": "200+",
       "blogTotal": 0,
       "newsTotal": 0,
       "recentToday": 0,
       "recentWeek": 0,
       "topBlogs": [],
       "topNews": [],
-      "error": "HTTP 429 https://openapi.naver.com/v1/search/news.json?query=%EB%B0%80%EB%9E%80+%EB%8C%80+%EB%A7%A8%EC%9C%A0&display=5&sort=date",
+      "error": "HTTP 429 https://openapi.naver.com/v1/search/news.json?query=%EA%B7%B8%EB%9E%98%EB%AF%B8+%EC%96%B4%EC%9B%8C%EB%93%9C&display=5&sort=date",
       "rank": 10
     }
   ]
