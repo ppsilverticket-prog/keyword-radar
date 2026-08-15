@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-15T17:17:45.035Z",
+  "updatedAt": "2026-08-15T17:44:46.043Z",
   "source": "live",
   "keywords": [
     {
       "keyword": "토트넘",
       "traffic": "1000+",
-      "blogTotal": 254391,
-      "newsTotal": 674445,
+      "blogTotal": 254390,
+      "newsTotal": 674446,
       "recentToday": 84,
       "recentWeek": 100,
       "topBlogs": [
@@ -43,6 +43,12 @@
       ],
       "topNews": [
         {
+          "title": "'손흥민 옛 동료' 로메로, AT마드리드 이적…이번에는 이강인과 함께",
+          "link": "http://www.thesportstimes.co.kr/news/articleView.html?idxno=374943",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
           "title": "\"손흥민과는 너무나도 다른 행보\" 충격 주장직 박탈! 토트넘 '옛 동료' ...",
           "link": "https://mhnse.com/news/articleView.html?idxno=1491468",
           "press": "",
@@ -65,12 +71,6 @@
           "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96425",
           "press": "",
           "date": "2026-08-15"
-        },
-        {
-          "title": "[오피셜] \"정말 부끄러운 일\" 손흥민 완장 물려받은 토트넘 '최악의 주장...",
-          "link": "https://mhnse.com/news/articleView.html?idxno=1491464",
-          "press": "",
-          "date": "2026-08-15"
         }
       ],
       "rank": 1
@@ -78,7 +78,7 @@
     {
       "keyword": "가출",
       "traffic": "2000+",
-      "blogTotal": 94388,
+      "blogTotal": 94390,
       "newsTotal": 170478,
       "recentToday": 52,
       "recentWeek": 100,
@@ -140,8 +140,8 @@
           "date": "2026-08-15"
         },
         {
-          "title": "“훈육이 범죄가 된 순간”…전기물주전자 들고 엄마에게 향한 10대",
-          "link": "https://www.seoul.co.kr/news/society/accident/2026/08/15/20260815500045?wlog_tag3=naver",
+          "title": "가출 말리는 엄마에게 끓는 물 부은 10대 딸...\"특수존속상해혐의 입건...",
+          "link": "https://www.ngonews.kr/news/articleView.html?idxno=235617",
           "press": "",
           "date": "2026-08-15"
         }
@@ -224,9 +224,9 @@
     {
       "keyword": "상장",
       "traffic": "200+",
-      "blogTotal": 1067226,
-      "newsTotal": 4528277,
-      "recentToday": 32,
+      "blogTotal": 1067233,
+      "newsTotal": 4528279,
+      "recentToday": 25,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -262,6 +262,18 @@
       ],
       "topNews": [
         {
+          "title": "131만명 된 토큰화 주식, 월간 이전대금 179% 늘었다",
+          "link": "https://www.tokenpost.kr/news/cryptocurrency/391489",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "엔비디아, 30조원어치 스페이스X 지분 보유…'순환거래' 우려",
+          "link": "https://www.yna.co.kr/view/AKR20260816001100091?input=1195m",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
           "title": "오픈AI, IPO 앞두고 잇단 개편…안전팀까지 해체",
           "link": "https://www.g-enews.com/view.php?ud=2026081523012717559a1f309431_1",
           "press": "",
@@ -278,18 +290,6 @@
           "link": "https://www.tokenpost.kr/news/policy/391485",
           "press": "",
           "date": "2026-08-15"
-        },
-        {
-          "title": "하이퍼리퀴드, 클래리티법 표류에 CFTC 직접 협상으로 무기한선물 미국...",
-          "link": "https://www.wikitree.co.kr/articles/1152707",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "유니트리, 선물시장서 380억달러 평가받았다",
-          "link": "https://www.tokenpost.kr/news/breaking/391479",
-          "press": "",
-          "date": "2026-08-15"
         }
       ],
       "rank": 4
@@ -297,7 +297,7 @@
     {
       "keyword": "황정음",
       "traffic": "1000+",
-      "blogTotal": 49742,
+      "blogTotal": 49746,
       "newsTotal": 145342,
       "recentToday": 20,
       "recentWeek": 100,
@@ -473,10 +473,10 @@
           "date": "2026-02-25"
         },
         {
-          "title": "황인범 FC포르투 데뷔전 우승! 포르투갈 슈퍼컵 평점 패스성공률100% ....",
-          "link": "https://blog.naver.com/dyy9191/224365546081",
-          "blogger": "이슈킹(ISSUEKING)",
-          "date": "2026-08-02"
+          "title": "월드컵 승부 예측 사이트 TOP 5, 무료로 우승 확률 확인하는 방법",
+          "link": "https://komorevi.tistory.com/440",
+          "blogger": "komorevi, 눈이 부시게",
+          "date": "2026-06-12"
         }
       ],
       "topNews": [
