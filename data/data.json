@@ -1,12 +1,231 @@
 {
-  "updatedAt": "2026-08-15T10:47:32.836Z",
+  "updatedAt": "2026-08-15T11:17:17.019Z",
   "source": "live",
   "keywords": [
     {
+      "keyword": "선수",
+      "traffic": "500+",
+      "blogTotal": 3275916,
+      "newsTotal": 12622320,
+      "recentToday": 100,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "대한민국 PBA 당구 선수 최성원(프로필,스타일,경력 등)",
+          "link": "https://blog.naver.com/mistermy18/224366150658",
+          "blogger": "H2의 스포츠와 여행",
+          "date": "2026-08-03"
+        },
+        {
+          "title": "'탁구 혼합복식 세계랭킹 1위' 신유빈 선수 학력 및 운동선수 경력과....",
+          "link": "https://blog.naver.com/pso164/224372779747",
+          "blogger": "과학커뮤니케이터 박종현",
+          "date": "2026-08-12"
+        },
+        {
+          "title": "소래초 야구부 출신 선수들은 어디로 갔을까?",
+          "link": "https://blog.naver.com/gnamja_olila/224365489272",
+          "blogger": "한끼방패|선수의 내일을 만든다",
+          "date": "2026-08-02"
+        },
+        {
+          "title": "체력 증진 위한 운동선수 영양제 보양식 조심해야 하는이유",
+          "link": "https://blog.naver.com/ds4098/224373098837",
+          "blogger": "8체질연구소",
+          "date": "2026-08-09"
+        },
+        {
+          "title": "원투 낚시 선수나 전문가들이 비거리를 목적으로 하는 초원투 세팅....",
+          "link": "https://blog.naver.com/dndydsos/224305785235",
+          "blogger": "두족류 학살자",
+          "date": "2026-06-04"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "[LCK] 첫판 지고 두 판 '쾅쾅'... 한화생명 '패승승', KT 넘어 롤드컵행",
+          "link": "https://www.stnsports.co.kr/news/articleView.html?idxno=321010",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "李대통령, 백인천 감독 별세 애도…“한국 야구 역사 새로 쓴 전설”",
+          "link": "https://www.kyeonggi.com/article/20260815580107",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "'불멸의 4할 타자' 백인천 감독 별세에 李 대통령 \"깊은 애도\"",
+          "link": "https://www.mt.co.kr/politics/2026/08/15/2026081520095352465",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "이천수, 홍명보 향해 \"협회 들어가고 싶어도 항상 아웃됐다\"",
+          "link": "https://www.newsis.com/view/NISX20260815_0003750536",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "“선발 교체는 시너지 고려…‘딜라이트’ 실력 의심 없어”",
+          "link": "https://www.kmib.co.kr/article/view.asp?arcid=0030253962&code=61162012&cp=nv",
+          "press": "",
+          "date": "2026-08-15"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "keyword": "경제",
+      "traffic": "5000+",
+      "blogTotal": 6978856,
+      "newsTotal": 35202888,
+      "recentToday": 100,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "경제공부 방법 & 경제노트 쓰는 방법 총정리 (유튜브 예박사)",
+          "link": "https://blog.naver.com/shurrshu/224343478039",
+          "blogger": "Moana's life",
+          "date": "2026-07-11"
+        },
+        {
+          "title": "경영학과 vs 경제학과 차이, 취업·입결까지 3분 정리!!",
+          "link": "https://blog.naver.com/coseesee11/224324424670",
+          "blogger": "합격통계소",
+          "date": "2026-06-23"
+        },
+        {
+          "title": "4차 민생지원금 문제점 총정리｜또 현금지원? 경제·재정·정치적으....",
+          "link": "https://blog.naver.com/mileangel78/224370788976",
+          "blogger": "경제, 부동산, 생활 정보를 전하는 재테크사관학교",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "GDP 뜻과 GDP갭 차이, 경제가 성장하면 왜 금리를 올릴까?",
+          "link": "https://blog.naver.com/hwre7774/224366471594",
+          "blogger": "워누공간의 블로그",
+          "date": "2026-08-03"
+        },
+        {
+          "title": "2025 경제총조사가 뭐길래? 우리나라 경제지도 그리기",
+          "link": "https://blog.naver.com/totoro3123/224303412873",
+          "blogger": "너부리의 주식경제노트",
+          "date": "2026-06-02"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "70학번 박근혜 전 대통령도 털렸다…서강대 개인정보 18만건 유출",
+          "link": "https://www.ajunews.com/view/20260815182148499",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "'132억 사기 이혼' 정가은, 뼈 때리는 조언…\"뭘 사준다고 넘어가면 NO\" ...",
+          "link": "https://www.mydaily.co.kr/page/view/2026081519423078033",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "네덜란드병",
+          "link": "https://www.danbinews.com/news/articleView.html?idxno=33528",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "민주노총, 광복 81주년 맞아안국동서\"전작권 환수\" 촉구",
+          "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003259477&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "美, 쿠바에 군사작전 대신 경제 압박 강화…정권 자금 차단 주력",
+          "link": "https://view.asiae.co.kr/article/2026081520150217658",
+          "press": "",
+          "date": "2026-08-15"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "keyword": "체포",
+      "traffic": "1000+",
+      "blogTotal": 310971,
+      "newsTotal": 1925982,
+      "recentToday": 100,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "신사동 유명 스타 의사 산부인과 원장 프로포폴 투약 혐의 체포",
+          "link": "https://blog.naver.com/crown1324/224374944924",
+          "blogger": "리뷰하는피티",
+          "date": "2026-08-11"
+        },
+        {
+          "title": "강남 신사동 휴진 중인 산부인과 어디? 프로포폴 투약 혐의 체포 의....",
+          "link": "https://blog.naver.com/jelita_o/224374269035",
+          "blogger": "리타 : 리뷰 타임",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "\"그렇게 잘 나가더니\"...유명 산부인과 원장 프로포폴 체포, 추락한 ....",
+          "link": "https://blog.naver.com/kimshap/224374167954",
+          "blogger": "100세 시대 건강을 위하여~",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "유명 산부인과 원장 프로포폴 체포, TV에도 나온 원장님의 두 얼굴에....",
+          "link": "https://blog.naver.com/unknown__log/224374847642",
+          "blogger": "세상의 모든 이야기.zip",
+          "date": "2026-08-11"
+        },
+        {
+          "title": "\"경찰 긴급체포 권한 바뀌나?\" 형사소송법 개정안 논란…48시간 체포....",
+          "link": "https://blog.naver.com/dktlskdy107/224355429659",
+          "blogger": "'세계이슈'와 '맛집'에 진심인 붕로그",
+          "date": "2026-07-23"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "美, 쿠바에 군사작전 대신 경제 압박 강화…정권 자금 차단 주력",
+          "link": "https://view.asiae.co.kr/article/2026081520150217658",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "딸이 동거남에게 맞아 사망?…체포된 50대 男, 2년 만에 무죄 받은 이유...",
+          "link": "https://biz.heraldcorp.com/article/10842447?ref=naver",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "40대 엄마 폭행한 10대 아들 체포…\"용돈 안 줘서\"",
+          "link": "https://www.mt.co.kr/society/2026/08/15/2026081520020290069",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "[단독] '친일 논란' 독립유공자 최소 31명‥8년째 취소는 1명",
+          "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6845025_37004.html",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "[불후의 명곡] 지선, 독립운동가 안경신 선생 삶에 울컥, “아이 내려놓...",
+          "link": "https://kstar.kbs.co.kr/list_view.html?idx=407790",
+          "press": "",
+          "date": "2026-08-15"
+        }
+      ],
+      "rank": 3
+    },
+    {
       "keyword": "전지",
-      "traffic": "100+",
-      "blogTotal": 597615,
-      "newsTotal": 1897312,
+      "traffic": "200+",
+      "blogTotal": 597614,
+      "newsTotal": 1897315,
       "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
@@ -43,6 +262,24 @@
       ],
       "topNews": [
         {
+          "title": "광복절 맞아 사직구장서 독립유공자 시구 행사",
+          "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=288055",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "‘전참시’ 조유리, 고교 선배 윤가이 집 방문 “왜 우리는 로맨스가 안...",
+          "link": "http://enews.imbc.com/News/RetrieveNewsInfo/514865",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "반도체 24조·태양광 14조...머스크의 거침없는 ‘쩐의 전쟁’ [김기혁의...",
+          "link": "https://www.sedaily.com/article/20079812?ref=naver",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
           "title": "션, 광복절 맞아 8시간 20분 동안 81.5㎞ 달렸다 “독립유공자에게 전한...",
           "link": "https://www.newsen.com/news_view.php?uid=202608151938282510",
           "press": "",
@@ -53,533 +290,296 @@
           "link": "https://www.artinsight.co.kr/news/view.php?no=82037",
           "press": "",
           "date": "2026-08-15"
-        },
-        {
-          "title": "\"살찔까 저지방만 고집했는데”…전지방 우유 하루 3번 먹어도 체중 안...",
-          "link": "https://kormedi.com/?p=2844733",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "'장기하♥' 윤가이, 알고보니 '사주 맹신론자'였다…\"물 기운 부족해\" (...",
-          "link": "https://www.tenasia.co.kr/article/2026081407684",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "소진, 걸스데이로 수입 짭짤했을텐데…♥남편과 저렴한 결혼반지+홈메이...",
-          "link": "https://www.tenasia.co.kr/article/2026081532304",
-          "press": "",
-          "date": "2026-08-15"
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "keyword": "백인천 별세",
-      "traffic": "200+",
-      "blogTotal": 343,
-      "newsTotal": 287,
-      "recentToday": 100,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "‘불멸의 4할 타자’ 백인천 별세…KBO 전설의 0.412 기록 재조명",
-          "link": "https://blog.naver.com/luluda0802/224379266240",
-          "blogger": "혜안의 생활노트",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "백인천 별세, 하루 전 별세 보도가 정정된 이유…장례는 KBO장",
-          "link": "https://blog.naver.com/candorf7/224379546993",
-          "blogger": "오늘 뭐 뜨지",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "한국 프로야구 유일 4할 타자 백인천 전 감독 별세",
-          "link": "https://blog.naver.com/goodmina30/224378199667",
-          "blogger": "일산댁의 이것저것",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "\"그때 그 백인천 맞나?\"...전설의 4할 타자, 백인천 별세 최근 근황",
-          "link": "https://blog.naver.com/abcde10/224378217597",
-          "blogger": "경제 0.1% 생존 공식",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "백인천 감독 별세 사망 근황 4할타자",
-          "link": "https://blog.naver.com/brmania77/224378264668",
-          "blogger": "디지털 노마드를 꿈꾸며",
-          "date": "2026-08-14"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "이재명 대통령 “한 시대 빛낸 故백인천 깊은 애도…한국 프로야구 역사...",
-          "link": "https://biz.heraldcorp.com/article/10842437?ref=naver",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "李대통령 “프로야구의 한 시대 빛낸 故백인천 깊은 애도”",
-          "link": "https://www.donga.com/news/Politics/article/all/20260815/134483433/1",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "李대통령, 고 백인천 감독 별세 애도 \"한국 프로야구 한 시대 빛내\"",
-          "link": "https://www.news1.kr/politics/president/6260336",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "[사진] 고 백인천 감독 추모하는 롯데 선수단",
-          "link": "http://www.osen.co.kr/article/G1112857923",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "44년간 아무도 못 깬 타율 0.412…'프로야구 전설' 백인천 전 감독 별세",
-          "link": "https://news.tvchosun.com/site/data/html_dir/2026/08/15/2026081590126.html",
-          "press": "",
-          "date": "2026-08-15"
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "keyword": "자산",
-      "traffic": "500+",
-      "blogTotal": 2368988,
-      "newsTotal": 7430073,
-      "recentToday": 100,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "가상자산 거래량 폭락 원인, 원화 스테이블코인 도입 시급한 이유",
-          "link": "https://blog.naver.com/vitamin2230/224370039341",
-          "blogger": "REONE P&I",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "\"걸어 다니는 대기업 맞네요\" BTS 멤버별 실제 자산 순위 핵심 수익원....",
-          "link": "https://blog.naver.com/certified07/224314842498",
-          "blogger": "스페셜리스트",
-          "date": "2026-06-17"
-        },
-        {
-          "title": "2027년 가상자산 과세 계산방법｜코인 수익 250만원 차감·세율 22%·신....",
-          "link": "https://blog.naver.com/kimkum6/224365764653",
-          "blogger": "좋은정보(8085)",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "[재테크 기록] 현실 점검 팩폭주의  나의 자산/부채 엑셀로 한눈에 ....",
-          "link": "https://blog.naver.com/yulzzang_/224347800308",
-          "blogger": "파이어족을꿈꾸는율쨩",
-          "date": "2026-07-15"
-        },
-        {
-          "title": "[시사/경제] 원달러 환율 급등락, 어떻게 대응할까? 환율 전망보다 ....",
-          "link": "https://blog.naver.com/ut0073/224372358125",
-          "blogger": "따뜻한 동행님의 블로그",
-          "date": "2026-08-08"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "비트코인 vs XRP, 올 연말 엇갈리는 승부처…기관 수급과 규제 입법이 가...",
-          "link": "https://www.g-enews.com/view.php?ud=202608151939352944e250e8e188_1",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "美·이란 ‘경제 치킨게임’…제재로 옥죄고 유가로 흔든다",
-          "link": "https://www.kbmaeil.com/article/20260815500143",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "“닥치고 공급” 정부 방침에…서울시 이어 용산구도 “아니올시다”",
-          "link": "https://www.mk.co.kr/article/12128785",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "[오!쎈 KeG] 고교·대학 연계부터 e스포츠 공원까지… 대전시가 꿈꾸는...",
-          "link": "http://www.osen.co.kr/article/G1112857901",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "'아마존 창업자' 베이조스, 英 리버풀 구단 지분 인수",
-          "link": "http://www.inews24.com/view/1995406",
-          "press": "",
-          "date": "2026-08-15"
-        }
-      ],
-      "rank": 3
-    },
-    {
-      "keyword": "삼성 갤럭시 s26",
-      "traffic": "100+",
-      "blogTotal": 39220,
-      "newsTotal": 13602,
-      "recentToday": 100,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "삼성전자 감사제 갤럭시S26 핸드폰 할인 구매처, 구매방법, 온누리상....",
-          "link": "https://blog.naver.com/lg23baseball/224329485847",
-          "blogger": "다 알려줄 지니",
-          "date": "2026-06-28"
-        },
-        {
-          "title": "갤럭시 S26 플러스 자급제 네이버 쇼핑 라이브 구입 후기 삼성전자 ....",
-          "link": "https://blog.naver.com/soha2026/224336520099",
-          "blogger": "소하의 취향 기록",
-          "date": "2026-07-04"
-        },
-        {
-          "title": "\"156만 원대 최종 체감가\" 삼성 공식 갤럭시 S26 플러스 512GB 자급제 SM-....",
-          "link": "https://blog.naver.com/neoangels/224354451624",
-          "blogger": "비바쵸니 브라보라이프",
-          "date": "2026-07-22"
-        },
-        {
-          "title": "갤럭시 s26 플러스 울트라 512기가 1테라 최저가 비교 자급제 삼성 온....",
-          "link": "https://blog.naver.com/hyezng/224330458677",
-          "blogger": "트립핀의 여행기록",
-          "date": "2026-06-29"
-        },
-        {
-          "title": "삼성 갤럭시 S26 울트라 구매 후기 | 아이폰에서 갤럭시로 갈아탄 이....",
-          "link": "https://blog.naver.com/kls66133/224329134946",
-          "blogger": "모빌리티 & 테크 아카이브",
-          "date": "2026-06-27"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "\"아이폰만 쓰는 줄 알았는데\"…젠슨 황이 꺼낸 '이 폰' 뭐길래 [갤럭시...",
-          "link": "https://www.hankyung.com/article/202608141499g",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "폴드8으로 영상·게임·전자책 봤더니... 숏폼보다 롱폼에 강했다",
-          "link": "https://www.hankookilbo.com/news/article/A2026081113450003449?did=NA",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "KB 페이(KB Pay) '리브메이트', 8월 15일 토요일 자 '오늘의 퀴즈' 정답은...",
-          "link": "http://www.bizwnews.com/news/articleView.html?idxno=143386",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "'AI 훈풍' 탄 삼성전자…반기보고서로 입증한 반도체 부활과 역대급 55조...",
-          "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=270614",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "삼성 One UI 9.0, 스위프트키 완전 삭제 가능해져 55MB 저장공간 확보된...",
-          "link": "https://www.wikitree.co.kr/articles/1152618",
-          "press": "",
-          "date": "2026-08-14"
         }
       ],
       "rank": 4
     },
     {
-      "keyword": "사랑이 온다",
-      "traffic": "500+",
-      "blogTotal": 4015,
-      "newsTotal": 154272,
-      "recentToday": 56,
-      "recentWeek": 100,
+      "keyword": "한화 대 삼성",
+      "traffic": "5000+",
+      "blogTotal": 1227,
+      "newsTotal": 99095,
+      "recentToday": 14,
+      "recentWeek": 24,
       "topBlogs": [
         {
-          "title": "'사랑이 온다' 안희연, 8년 만 워킹맘 변화 뒤에 숨겨진 충격 근황",
-          "link": "https://blog.naver.com/bora912/224370735063",
-          "blogger": "감의 인사이트",
+          "title": "이제 우승 못 하면 의미 없다... 삼성 미야지 정리하고 1억 원대 아시....",
+          "link": "https://blog.naver.com/pjh1752/224371462604",
+          "blogger": "스포팅리포트",
           "date": "2026-08-07"
         },
         {
-          "title": "사랑이온다 4회 줄거리 하석진 안희연과 8년만에 재회 아들 존재에 ....",
-          "link": "https://blog.naver.com/qhrfks1004/224365983487",
-          "blogger": "♥라니의 달콤한세상이야기♥",
-          "date": "2026-08-02"
+          "title": "[한화이글스#1] 한화생명볼파크 직관후기 | 120구역, 212구역, 109구역 ....",
+          "link": "https://blog.naver.com/dlswjd0650/224333437749",
+          "blogger": "INNIDAILY",
+          "date": "2026-07-01"
         },
         {
-          "title": "드라마 사랑이 온다 6화 예고편｜인물관계도·시청률·재방송·등장....",
-          "link": "https://blog.naver.com/with_bohum/224373090010",
-          "blogger": "정보콕",
-          "date": "2026-08-09"
+          "title": "왕옌청 1억대 연봉인데 KBO 다승 1위, 한화가 제대로 찾은 가성비 에....",
+          "link": "https://blog.naver.com/zoom3998/224371546723",
+          "blogger": "운동을 연구하는 남자",
+          "date": "2026-08-07"
         },
         {
-          "title": "사랑이 온다 4 회 줄거리 하석진·안희연 사랑 위해 이별 선택 10년 ....",
-          "link": "https://blog.naver.com/chs3595/224365979515",
-          "blogger": "올리비아 아름다운 일상",
-          "date": "2026-08-02"
+          "title": "한화 왕옌청 두산전 선발, 10승 넘어 11승 도전! 가을야구 희망 살릴....",
+          "link": "https://blog.naver.com/pkt1984/224374917999",
+          "blogger": "스포츠대백과사전",
+          "date": "2026-08-11"
         },
         {
-          "title": "사랑이 온다 기본정보 총정리! 인물관계도·출연진·몇부작 한눈에",
-          "link": "https://blog.naver.com/seaypark2/224366590533",
-          "blogger": "내돈내산 쇼핑일지",
-          "date": "2026-08-03"
+          "title": "아이폰 배터리를 걱정말자, 한화 iBATT 아이폰 거치대",
+          "link": "https://www.khaiyang.com/1008",
+          "blogger": "바람의 이야기, 카이",
+          "date": "2010-04-12"
         }
       ],
       "topNews": [
         {
-          "title": "'사랑이 온다' 하석진, 안희연이 숨긴 진실 마주하고 충격",
-          "link": "https://www.ize.co.kr/news/articleView.html?idxno=79898",
+          "title": "\"이 악물고 던지더라\" '구위+제구' 완벽, QS 단 1타자 남았는데...박진만...",
+          "link": "https://www.sportschosun.com/baseball/2026-08-15/202608150100090030005687",
           "press": "",
           "date": "2026-08-15"
         },
         {
-          "title": "‘사랑이 온다’ 하석진, 안희연 비밀에 한발 더…쌍둥이 말에 ‘충격’",
-          "link": "https://www.mediapen.com/news/view/1116729",
+          "title": "진짜 김서현 맞아? 160km→148km 충격 하락…그런데 공 6개로 퍼펙트 대...",
+          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1002008",
           "press": "",
-          "date": "2026-08-15"
+          "date": "2026-08-14"
         },
         {
-          "title": "'사랑이 온다' 안희연, 8년 숨긴 비밀 정체...총 몇부작?",
-          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3665727",
+          "title": "\"형우형, 승현형, 민호형…\" '농군패션'으로 41일 만에 웃은 최원태, 고...",
+          "link": "https://www.sportschosun.com/baseball/2026-08-15/202608140100087870005550",
           "press": "",
-          "date": "2026-08-15"
+          "date": "2026-08-14"
         },
         {
-          "title": "‘사랑이 온다’ 하석진X안희연, 반찬 하나 두고 티격태격",
-          "link": "https://sports.khan.co.kr/article/202608151714003?pt=nv",
+          "title": "전국 13곳서 2.2만 가구 '랜드마크' 쏟아진다",
+          "link": "https://www.hankyung.com/article/2026081423921",
           "press": "",
-          "date": "2026-08-15"
+          "date": "2026-08-14"
         },
         {
-          "title": "박유나, 연인 고윤 소개로 만난 배정남에 당혹…'사랑이 온다' 주도권 빼...",
-          "link": "https://www.sportsworldi.com/newsView/20260815510404",
+          "title": "[제약공시 책갈피] 8월 2주차 - JW중외제약·삼성바이오에피스 外",
+          "link": "https://www.medipana.com/news/articleView.html?idxno=416069",
           "press": "",
-          "date": "2026-08-15"
+          "date": "2026-08-14"
         }
       ],
       "rank": 5
     },
     {
-      "keyword": "로저 페더러",
-      "traffic": "200+",
-      "blogTotal": 5970,
-      "newsTotal": 34287,
-      "recentToday": 3,
-      "recentWeek": 29,
+      "keyword": "콜 오브 듀티",
+      "traffic": "100+",
+      "blogTotal": 42592,
+      "newsTotal": 17146,
+      "recentToday": 10,
+      "recentWeek": 45,
       "topBlogs": [
         {
-          "title": "하루 만에 700억 증발? 로저 페더러 억만장자 클럽 제외 원인과 스포....",
-          "link": "https://blog.naver.com/gentleman1899/224378485227",
-          "blogger": "스포츠.zip",
-          "date": "2026-08-14"
+          "title": "콜오브듀티 캠페인 추천 순위 BEST 시리즈 순서 정리",
+          "link": "https://blog.naver.com/jkdkslwbfjq/224338242548",
+          "blogger": "데데 인더스트리",
+          "date": "2026-07-06"
         },
         {
-          "title": "테니스 황제 로저 페더러 주식 폭락으로 억만장자 자리에서 내려오....",
-          "link": "https://blog.naver.com/yihy131/224378176922",
-          "blogger": "테동인의 TENNIS BLOG",
-          "date": "2026-08-14"
+          "title": "콜 오브 듀티: 모던 워페어 4 PS4및 Xbox One 버전 출시 계획무",
+          "link": "https://blog.naver.com/voodoo7/224368717631",
+          "blogger": "티파의 게임 라이프",
+          "date": "2026-08-05"
         },
         {
-          "title": "유니클로 x 로저 페더러 드라이엑스 폴로 피케 카라티 셔츠 사이즈 ....",
-          "link": "https://blog.naver.com/jaeh_studio/223867575112",
-          "blogger": "20kg 다이어트 성공 러너_제익훈 러닝 다이어트",
-          "date": "2025-05-16"
+          "title": "콜오브듀티 고스트 피규어 구매후기(자랑글)",
+          "link": "https://blog.naver.com/zoozoozo0/224370572593",
+          "blogger": "나으일기",
+          "date": "2026-08-07"
         },
         {
-          "title": "테니스 용품 하울, 테니스스커트, 미즈노 웨이브엑시드투어6, 로저....",
-          "link": "https://blog.naver.com/misskorea124/224179951376",
-          "blogger": "忙中閑",
-          "date": "2026-02-11"
+          "title": "콜 오브 듀티 블랙 옵스 삭제된 좀비 모드 발견｜16년 만에 나온 타....",
+          "link": "https://blog.naver.com/bluekai1/224362065295",
+          "blogger": "하비 아카이브",
+          "date": "2026-08-07"
         },
         {
-          "title": "로저 페더러 억만장자 탈락? 온(ON) 주가 20% 폭락에 737억원 증발…순....",
-          "link": "https://blog.naver.com/zenith_kh/224377826164",
-          "blogger": "오늘의 스포츠픽",
-          "date": "2026-08-13"
+          "title": "콜오브듀티 모던워페어4 사 캠페인 특징 베타 얼리액세스 일정",
+          "link": "https://blog.naver.com/webdeveloping/224368189578",
+          "blogger": "아 오늘 금요일인 줄 알았네",
+          "date": "2026-08-04"
         }
       ],
       "topNews": [
         {
-          "title": "\"하루 만에 700억 날려\"…'테니스 황제' 페더러, 억만장자서 밀려나",
-          "link": "https://www.newsis.com/view/NISX20260814_0003750319",
+          "title": "콜오브듀티 최초, 모던워페어4 베타에서 캠페인 체험 제공",
+          "link": "https://www.inven.co.kr/webzine/news/?news=319580",
           "press": "",
           "date": "2026-08-14"
         },
         {
-          "title": "주가 급락에 720억 날아간 ‘테니스 황제’…1년 만에 억만장자 탈락",
-          "link": "https://www.segye.com/newsView/20260814516409?OutUrl=naver",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "테니스 황제의 추락, 무려 737억 허공에…억만장자 타이틀 뺏겼다→스포...",
-          "link": "https://www.xportsnews.com/article/2183272",
-          "press": "",
-          "date": "2026-08-13"
-        },
-        {
-          "title": "[글로벌 특징주] 온홀딩, 2분기 실적 부진에 주가 사상 최대 낙폭",
-          "link": "https://www.newspim.com/news/view/20260812000891",
+          "title": "[오늘의 스팀] 하드코어 FPS 신작 ‘워독스’ 사전예약 시작",
+          "link": "https://www.gamemeca.com/mv.php?inflow=naver_s&gid=1779041",
           "press": "",
           "date": "2026-08-12"
         },
         {
-          "title": "테니스장 등장한 인도식 아이스크림…윔블던은 왜 인도에 공들일까 [나...",
-          "link": "https://biz.heraldcorp.com/article/10828330?ref=naver",
+          "title": "콜오브듀티: 모던워페어4, '트래픽' 임무 미리 보기 공개",
+          "link": "https://www.inven.co.kr/webzine/news/?news=319404",
           "press": "",
-          "date": "2026-08-09"
+          "date": "2026-08-12"
+        },
+        {
+          "title": "진화 거듭하는 스마일게이트 '크로스파이어'...국민 FPS 넘어 글로벌 핵...",
+          "link": "https://www.techm.kr/news/articleView.html?idxno=154206",
+          "press": "",
+          "date": "2026-08-11"
+        },
+        {
+          "title": "GTA6 D-100",
+          "link": "https://www.gametoc.co.kr/news/articleView.html?idxno=110570",
+          "press": "",
+          "date": "2026-08-11"
         }
       ],
       "rank": 6
     },
     {
-      "keyword": "스텔스기",
-      "traffic": "100+",
-      "blogTotal": 5021,
-      "newsTotal": 12618,
+      "keyword": "수원 대 수원fc",
+      "traffic": "2000+",
+      "blogTotal": 1169,
+      "newsTotal": 40823,
       "recentToday": 2,
-      "recentWeek": 6,
+      "recentWeek": 4,
       "topBlogs": [
         {
-          "title": "미국 F-35B 전투기 추락 : 최첨단 스텔스 전투기 사고가 주목받는 이....",
-          "link": "https://blog.naver.com/pg005/224364934889",
-          "blogger": "세종한국공인중개사",
+          "title": "⚽ 충북청주FC 첫 직관 후기! 수원삼성전 2대2, VAR 노골까지",
+          "link": "https://blog.naver.com/qwertyyiop15/224365324685",
+          "blogger": "뿌앙로그",
           "date": "2026-08-02"
         },
         {
-          "title": "레이더로 찾지 못하는 전투기? 스텔스기의 모든 것(1)",
-          "link": "https://blog.naver.com/huplanet/224331076043",
-          "blogger": "베이나이트 공작소",
-          "date": "2026-06-30"
+          "title": "수원 삼성 블루윙즈 여름 이적 시장 중간 정리 (스트라이커 영입, 주....",
+          "link": "https://blog.naver.com/taese0330/224356865211",
+          "blogger": "둘이서 남기는 지도",
+          "date": "2026-07-24"
         },
         {
-          "title": "물생활 초보의 페이토 스텔스 외부여과기 클래식 PK-LQ750 한 달 후기 ....",
-          "link": "https://blog.naver.com/audgns9207/224328276345",
-          "blogger": "하고 싶은 대로",
-          "date": "2026-06-26"
+          "title": "수원삼성 대 충북청주, 오심의 논란에 선 심판은? 논란 이유를 알아....",
+          "link": "https://blog.naver.com/barisunny/224365594972",
+          "blogger": "취향을 기록하는 공간",
+          "date": "2026-08-02"
         },
         {
-          "title": "K 스텔스 도료 FCT 통과란? 작동 원리 KF21 전투기 적용 및 전망",
-          "link": "https://blog.naver.com/lifejoy/224364545842",
-          "blogger": "돈이 보이는 정보 블로그",
-          "date": "2026-08-01"
+          "title": "2020 K리그1 9R 9라운드 순위",
+          "link": "https://redhairsnowwhite.tistory.com/161",
+          "blogger": "로켓단R",
+          "date": "2020-07-02"
         },
         {
-          "title": "중국 J-20 전투기 진짜 스텔스 성능 분석 공개 : 겉모습에 속지 마세....",
-          "link": "https://blog.naver.com/medic3939/224295232189",
-          "blogger": "실 생활에 유용한",
-          "date": "2026-05-25"
+          "title": "[이순신종합운동장] K리그2 14R 충남 아산FC vs 수원삼성 블루윙즈 직....",
+          "link": "https://blog.naver.com/wssh1206/224304705616",
+          "blogger": "마리오의 라이프아케이드",
+          "date": "2026-06-03"
         }
       ],
       "topNews": [
         {
-          "title": "수십조 무기 사면 자주국방 완성? '평화협정 체결'이 훨씬 남는 장사![프...",
-          "link": "https://www.pressian.com/pages/articles/2026081418024231192?utm_source=naver&utm_medium=search",
+          "title": "'적장으로 첫 빅버드 방문' 수원FC 박건하 감독 \"원정팀 라커룸으로 가...",
+          "link": "https://news.monsterzym.com/index.php?mid=sports_asia&type=main&document_srl=10455893",
           "press": "",
           "date": "2026-08-15"
         },
         {
-          "title": "中, 스텔스기 잡는 AI 탑재… 신형 호위함 미사일 50% 증강",
-          "link": "https://www.g-enews.com/view.php?ud=202608150720517497fbbec65dfb_1",
+          "title": "\"약속 어긴 것은 확실히 피드백\" 더비 앞두고 '기강' 먼저 잡은 수원 이...",
+          "link": "https://news.monsterzym.com/index.php?mid=sports_asia&type=main&document_srl=10455890",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "'김결 선발' 수원 vs '바비 복귀' 수원FC 시즌 마지막 수원 더비 선발 명...",
+          "link": "https://news.monsterzym.com/index.php?mid=sports_asia&type=main&document_srl=10455887",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "화재 속 차량서 운전자 구조한 광주 선수단, 연맹 표창 수여 “K리그 위...",
+          "link": "https://www.sportsworldi.com/newsView/20260814520292",
           "press": "",
           "date": "2026-08-14"
         },
         {
-          "title": "“美 스텔스기 식별률 90% 이상”…中, 열 추적 미사일용 AI 개발",
-          "link": "https://www.sedaily.com/article/20079692?ref=naver",
+          "title": "'수원더비' 마주하는 수원FC 기대주 정승배 \"승격으로 보답하겠다\" [케터...",
+          "link": "http://www.footballist.co.kr/news/articleView.html?idxno=213607",
           "press": "",
           "date": "2026-08-14"
-        },
-        {
-          "title": "中, Y-20B 수송기 공중급유 기능 공개… KADIZ 안보 변수 부상",
-          "link": "https://www.g-enews.com/view.php?ud=202608121734403036fbbec65dfb_1",
-          "press": "",
-          "date": "2026-08-12"
-        },
-        {
-          "title": "인도네시아, 튀르키예 스텔스기 칸 48대 전격 도입…14조 원 빅딜 체결",
-          "link": "https://www.g-enews.com/view.php?ud=202608120620133802e8b8a793f7_1",
-          "press": "",
-          "date": "2026-08-11"
         }
       ],
       "rank": 7
     },
     {
-      "keyword": "장기 기증",
-      "traffic": "1000+",
-      "blogTotal": 24573,
-      "newsTotal": 72716,
-      "recentToday": 2,
-      "recentWeek": 54,
+      "keyword": "장인화",
+      "traffic": "2000+",
+      "blogTotal": 1763,
+      "newsTotal": 33793,
+      "recentToday": 0,
+      "recentWeek": 2,
       "topBlogs": [
         {
-          "title": "시신기증과 장기기증 차이, 같은 기증이 아닙니다｜절차부터 장례....",
-          "link": "https://blog.naver.com/hq8421/224371381182",
-          "blogger": "엔딩스케치장례지도사교육원",
-          "date": "2026-08-07"
+          "title": "[수원, 우만동 : 장인화로 우만본점]맛난 숙성 고기를 맛볼 수 있는 ....",
+          "link": "https://blog.naver.com/hand_sohyeon/224292778955",
+          "blogger": "손소의 손소한 일상",
+          "date": "2026-05-21"
         },
         {
-          "title": "사랑의장기기증운동본부, 신분증과 다용도 스티커 부착으로 장기기....",
-          "link": "https://blog.naver.com/sinni88/224374867825",
-          "blogger": "너와 즐겁고 행복한 일상",
-          "date": "2026-08-11"
+          "title": "우만동맛집 장인화로 우만본점, 깔끔한 우만동고기집에서 즐긴 주....",
+          "link": "https://blog.naver.com/kimsmto/224372414582",
+          "blogger": "숨니모음집",
+          "date": "2026-08-08"
         },
         {
-          "title": "장기기증 희망등록 신청 방법 사후 각막 기증으로 선한 영향력 나누....",
-          "link": "https://blog.naver.com/eq480/224342952871",
-          "blogger": "11살 샌코엄마라나",
-          "date": "2026-07-10"
+          "title": "우만동 맛집 장인화로 우만본점 육즙 가득 두툼한 우만동 고깃집",
+          "link": "https://blog.naver.com/ilove4145/224319478925",
+          "blogger": "김페페 블로그",
+          "date": "2026-06-18"
         },
         {
-          "title": "장기기증 신청 방법 총정리｜온라인 신청 어디서? 조건·조회·취소....",
-          "link": "https://blog.naver.com/juyeon922/224298501829",
-          "blogger": "쥬니의 편안한 일상",
-          "date": "2026-05-28"
+          "title": "우만동고기집 참숯에 구운 삼겹살 고기맛집 간장껍데기 장인화로",
+          "link": "https://blog.naver.com/wl2728/224353771688",
+          "blogger": "야쓰미 일상기록",
+          "date": "2026-07-22"
         },
         {
-          "title": "본부에 신상 스티커가 나왔다고? 장기기증 의사표시 스티커2종을 지....",
-          "link": "https://blog.naver.com/donorlove/224371043023",
-          "blogger": "사랑의장기기증운동본부 공식블로그",
-          "date": "2026-08-07"
+          "title": "[수원 우만동 맛집] 육즙 가득한 숯불구이의 진수, ‘장인화로 우만....",
+          "link": "https://blog.naver.com/event2523/224319370728",
+          "blogger": "리뷰의 여왕",
+          "date": "2026-06-18"
         }
       ],
       "topNews": [
         {
-          "title": "\"걘 죽었으니까, 난 살아야지\"…중앙선 넘어 사망사고 낸 운전자, 망언...",
-          "link": "http://www.fnnews.com/news/202608150943134509",
+          "title": "박정원 두산 회장 상반기 보수 455억…재계 총수 '1위'",
+          "link": "https://www.sidae.com/article/2026081513341563641",
           "press": "",
           "date": "2026-08-15"
         },
         {
-          "title": "\"걘 죽었어도 난 살아야지\"…사망 사고 운전자 '스윔 클럽' 멤버 의혹[영...",
-          "link": "https://www.news1.kr/society/general-society/6259338",
+          "title": "회장보다 사장 더 받아…재계 보수표 뒤집은 성과급·주식",
+          "link": "http://sateconomy.co.kr/news/view/1065573259864650",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "박정원 두산그룹 회장, 상반기 455억 받아 재계 보수 1위",
+          "link": "https://www.g-enews.com/view.php?ud=20260814211832960224debea800_1",
           "press": "",
           "date": "2026-08-14"
         },
         {
-          "title": "[나눔 트렌드] 동대문구 직원 200여명 '사랑의 헌혈'… 매년 이어온 생명...",
-          "link": "https://www.ibabynews.com/news/articleView.html?idxno=153723",
+          "title": "장인화 포스코그룹 회장, 포스코홀딩스서 상반기 보수 10억3800만원 받아",
+          "link": "https://www.ddaily.co.kr/page/view/2026081418370774177",
           "press": "",
           "date": "2026-08-14"
         },
         {
-          "title": "평생 생명나눔 헌신 이태조 목사, 저소득 환자 위한 후원금 전달",
-          "link": "https://www.goodnews1.com/news/articleView.html?idxno=463089",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "병든 조직만으론 부족…사망 기증자 ‘정상조직’도 바이오뱅크에",
-          "link": "https://kormedi.com/?p=2846701",
+          "title": "상반기 재계 총수 '보수 1위' 두산 박정원 455억…LS 구자은 133억 2위",
+          "link": "https://www.news1.kr/industry/company/6259998",
           "press": "",
           "date": "2026-08-14"
         }
