@@ -1,12 +1,158 @@
 {
-  "updatedAt": "2026-08-15T09:49:38.091Z",
+  "updatedAt": "2026-08-15T10:19:07.131Z",
   "source": "live",
   "keywords": [
     {
+      "keyword": "자산",
+      "traffic": "500+",
+      "blogTotal": 2368931,
+      "newsTotal": 7430066,
+      "recentToday": 100,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "가상자산 거래량 폭락 원인, 원화 스테이블코인 도입 시급한 이유",
+          "link": "https://blog.naver.com/vitamin2230/224370039341",
+          "blogger": "REONE P&I",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "\"걸어 다니는 대기업 맞네요\" BTS 멤버별 실제 자산 순위 핵심 수익원....",
+          "link": "https://blog.naver.com/certified07/224314842498",
+          "blogger": "스페셜리스트",
+          "date": "2026-06-17"
+        },
+        {
+          "title": "2027년 가상자산 과세 계산방법｜코인 수익 250만원 차감·세율 22%·신....",
+          "link": "https://blog.naver.com/kimkum6/224365764653",
+          "blogger": "좋은정보(8085)",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "[재테크 기록] 현실 점검 팩폭주의  나의 자산/부채 엑셀로 한눈에 ....",
+          "link": "https://blog.naver.com/yulzzang_/224347800308",
+          "blogger": "파이어족을꿈꾸는율쨩",
+          "date": "2026-07-15"
+        },
+        {
+          "title": "[시사/경제] 원달러 환율 급등락, 어떻게 대응할까? 환율 전망보다 ....",
+          "link": "https://blog.naver.com/ut0073/224372358125",
+          "blogger": "따뜻한 동행님의 블로그",
+          "date": "2026-08-08"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "티오리 AI 모의해킹 솔루션 '진트', 'IDC 이노베이터' 선정",
+          "link": "https://zdnet.co.kr/view/?no=20260815191653",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "“빌려서라도 지금 투자해야”, 증시 훈풍에 늘어난 20대 ‘빚투’",
+          "link": "https://magazine.hankyung.com/job-joy/article/202608153396d",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "베이조스, EPL 리버풀 지분 샀다...페북 공동창업자도 참여",
+          "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608150635&t=NN",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "토큰화 주식 4억8669만달러, 계정 경쟁 번졌다",
+          "link": "https://www.tokenpost.kr/news/cryptocurrency/391403",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "강동대 RISE사업단, '인간 이해를 위한 뇌과학' 특강…\"일상 속 행복 찾...",
+          "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=390654",
+          "press": "",
+          "date": "2026-08-15"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "keyword": "삼성 갤럭시 s26",
+      "traffic": "100+",
+      "blogTotal": 39216,
+      "newsTotal": 13602,
+      "recentToday": 100,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "삼성전자 감사제 갤럭시S26 핸드폰 할인 구매처, 구매방법, 온누리상....",
+          "link": "https://blog.naver.com/lg23baseball/224329485847",
+          "blogger": "다 알려줄 지니",
+          "date": "2026-06-28"
+        },
+        {
+          "title": "갤럭시 S26 플러스 자급제 네이버 쇼핑 라이브 구입 후기 삼성전자 ....",
+          "link": "https://blog.naver.com/soha2026/224336520099",
+          "blogger": "소하의 취향 기록",
+          "date": "2026-07-04"
+        },
+        {
+          "title": "\"156만 원대 최종 체감가\" 삼성 공식 갤럭시 S26 플러스 512GB 자급제 SM-....",
+          "link": "https://blog.naver.com/neoangels/224354451624",
+          "blogger": "비바쵸니 브라보라이프",
+          "date": "2026-07-22"
+        },
+        {
+          "title": "갤럭시 s26 플러스 울트라 512기가 1테라 최저가 비교 자급제 삼성 온....",
+          "link": "https://blog.naver.com/hyezng/224330458677",
+          "blogger": "트립핀의 여행기록",
+          "date": "2026-06-29"
+        },
+        {
+          "title": "삼성 갤럭시 S26 울트라 구매 후기 | 아이폰에서 갤럭시로 갈아탄 이....",
+          "link": "https://blog.naver.com/kls66133/224329134946",
+          "blogger": "모빌리티 & 테크 아카이브",
+          "date": "2026-06-27"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "\"아이폰만 쓰는 줄 알았는데\"…젠슨 황이 꺼낸 '이 폰' 뭐길래 [갤럭시...",
+          "link": "https://www.hankyung.com/article/202608141499g",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "폴드8으로 영상·게임·전자책 봤더니... 숏폼보다 롱폼에 강했다",
+          "link": "https://www.hankookilbo.com/news/article/A2026081113450003449?did=NA",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "KB 페이(KB Pay) '리브메이트', 8월 15일 토요일 자 '오늘의 퀴즈' 정답은...",
+          "link": "http://www.bizwnews.com/news/articleView.html?idxno=143386",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "'AI 훈풍' 탄 삼성전자…반기보고서로 입증한 반도체 부활과 역대급 55조...",
+          "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=270614",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "삼성 One UI 9.0, 스위프트키 완전 삭제 가능해져 55MB 저장공간 확보된...",
+          "link": "https://www.wikitree.co.kr/articles/1152618",
+          "press": "",
+          "date": "2026-08-14"
+        }
+      ],
+      "rank": 2
+    },
+    {
       "keyword": "lg전자",
       "traffic": "2000+",
-      "blogTotal": 655445,
-      "newsTotal": 1579445,
+      "blogTotal": 655461,
+      "newsTotal": 1579446,
       "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
@@ -43,6 +189,12 @@
       ],
       "topNews": [
         {
+          "title": "미래에셋증권, 8월 둘째주 일진전기 등 16종목 매수 추천",
+          "link": "https://www.bigtanews.co.kr/article/view/big202608150007",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
           "title": "[탐사경] 유니트리 13조 IPO 대박…중국 로봇의 진짜 무기는 '가격'이다",
           "link": "https://www.moneystorm.kr/news/articleView.html?idxno=5735",
           "press": "",
@@ -65,21 +217,15 @@
           "link": "https://www.ekn.kr/web/view.php?key=20260814022532374",
           "press": "",
           "date": "2026-08-15"
-        },
-        {
-          "title": "구광모·젠슨황 '삼겹살 회동'이…LG·엔비디아 피지컬AI 동맹으로",
-          "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=02384566645547648",
-          "press": "",
-          "date": "2026-08-15"
         }
       ],
-      "rank": 1
+      "rank": 3
     },
     {
       "keyword": "학원",
-      "traffic": "200+",
-      "blogTotal": 13416957,
-      "newsTotal": 1706926,
+      "traffic": "500+",
+      "blogTotal": 13417058,
+      "newsTotal": 1706929,
       "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
@@ -116,6 +262,24 @@
       ],
       "topNews": [
         {
+          "title": "[Opinion] 화를 내지 못하는 이들을 위한 분노 스터디 [도서]",
+          "link": "https://www.artinsight.co.kr/news/view.php?no=82026",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "56세 이정은, DM까지 보내 춤 배운 이유 “치매 방지하려고”(십오야)",
+          "link": "https://www.newsen.com/news_view.php?uid=202608151557542510",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "\"그림으로 되새긴 광복의 의미\"…대전 학생 24명 수상의 영예",
+          "link": "https://www.goodmorningcc.com/news/articleView.html?idxno=450730",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
           "title": "동탄 학령인구 20% 넘었다…교육도시로 커지는 동탄, '아크메르 동탄' 눈...",
           "link": "https://www.cwn.kr/news/articleView.html?idxno=53368",
           "press": "",
@@ -126,86 +290,123 @@
           "link": "https://www.gnnews.co.kr/news/articleView.html?idxno=643309",
           "press": "",
           "date": "2026-08-15"
-        },
-        {
-          "title": "김필식 동강·해인학원 이사장 별세…향년 83세",
-          "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000057069",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "사부대중 애도 속 마지막 길…무공 대종사 영결식 엄수",
-          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4101043",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "김필식 동강·해인학원 이사장 별세…향년 83세",
-          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4101037",
-          "press": "",
-          "date": "2026-08-15"
         }
       ],
-      "rank": 2
+      "rank": 4
     },
     {
-      "keyword": "박경혜",
+      "keyword": "트와이스",
       "traffic": "100+",
-      "blogTotal": 4827,
-      "newsTotal": 11945,
-      "recentToday": 100,
+      "blogTotal": 188961,
+      "newsTotal": 539763,
+      "recentToday": 88,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "박경혜 2년째 작품 공백 이유? 양악수술까지 했던 그녀가 털어놓은 ....",
-          "link": "https://blog.naver.com/pkt1984/224379378546",
-          "blogger": "스포츠대백과사전",
-          "date": "2026-08-15"
+          "title": "트와이스 지효 결별설 ?! 우려속에서도 빛나는 지효의 룰라팔루자 ....",
+          "link": "https://blog.naver.com/vlskclrhd/224365431951",
+          "blogger": "모찌의 패션블로그",
+          "date": "2026-08-02"
         },
         {
-          "title": "나혼산 박경혜, 요즘 발레에 빠졌다는데 알고 보니 이유가 있었습니....",
-          "link": "https://blog.naver.com/chaerin300/224377914497",
-          "blogger": "화면 너머 이야기",
-          "date": "2026-08-13"
+          "title": "[트와이스 정연, JYP 떠나 배우로? 그녀가 선택한 3가지 이유와 진짜 ....",
+          "link": "https://blog.naver.com/zioziaaa/224374447388",
+          "blogger": "형곡동 영수학원054)455 9885",
+          "date": "2026-08-10"
         },
         {
-          "title": "\"할 수 없는 역할 있어\" 나혼자산다 박경혜 한계 인정했지만 포기 대....",
-          "link": "https://blog.naver.com/lhswind2/224379311294",
-          "blogger": "우수아빠의 인생은",
-          "date": "2026-08-15"
+          "title": "트와이스는 가방 취향도 이렇게 다르네요",
+          "link": "https://blog.naver.com/bhawnss96/224372134970",
+          "blogger": "HWAN룩",
+          "date": "2026-08-08"
         },
         {
-          "title": "박경혜, 영화 촬영 중 진짜 기절.. \"현장서 아무도 몰랐던 아찔한 고....",
-          "link": "https://blog.naver.com/chbnwj/224379224973",
-          "blogger": "딸기라떼",
-          "date": "2026-08-15"
+          "title": "[올리브영 콤부차 추천] 티젠 콤부차X트와이스 콜라보 매실•자두맛....",
+          "link": "https://blog.naver.com/dlwlswn1122/224376460554",
+          "blogger": "⠀⠀",
+          "date": "2026-08-12"
         },
         {
-          "title": "박경혜, 사투리 배우면 역할↑, “8개나 늘어난다” 현실 이유",
-          "link": "https://blog.naver.com/choyam2026/224379381263",
-          "blogger": "매거진 뚱",
-          "date": "2026-08-15"
+          "title": "\"트와이스 정연 맞아?\" 쿠싱증후군 딛고 이번 사진이 더 주목받는 이....",
+          "link": "https://blog.naver.com/ssongaegyo/224371257093",
+          "blogger": "줍줍일기",
+          "date": "2026-08-07"
         }
       ],
       "topNews": [
         {
-          "title": "대상 상품 쿨하게 양보한 김신영…박경혜 \"덕분에 세탁비 절약\"",
-          "link": "https://www.newsis.com/view/NISX20260815_0003750674",
+          "title": "KB증권, 8월 둘째주 한국콜마 등 28종목 매수 추천",
+          "link": "https://www.bigtanews.co.kr/article/view/big202608150006",
           "press": "",
           "date": "2026-08-15"
         },
         {
-          "title": "박경혜 6평 원룸에 고가 의류관리기…“김신영이 선물” (‘나혼산’)",
-          "link": "https://isplus.com/article/view/isp202608150035",
+          "title": "스트리밍 음원을 소장형 IP로…뮤직카우가 지효X센시아 협업곡을 실물 ...",
+          "link": "https://www.venturesquare.net/1106377/",
           "press": "",
           "date": "2026-08-15"
         },
         {
-          "title": "김신영, 박경혜에 '고가 의류관리기' 선뜻 선물... 훈훈한 내리사랑",
-          "link": "https://www.insight.co.kr/news/568422",
+          "title": "박진영은 “무조건 산다” 했는데…트와이스·스키즈 변수에 JYP 목표가...",
+          "link": "https://www.sedaily.com/article/20079835?ref=naver",
           "press": "",
           "date": "2026-08-15"
         },
+        {
+          "title": "안판석 감독 별세 / 하영 증조부 친일 논란 / 엑디즈 건일 탈퇴 등 [주간...",
+          "link": "https://www.dailian.co.kr/news/view/1678863/?sc=Naver",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "JYP엔터, 공연 대박 기대에도 목표가 하향…저연차 IP가 관건",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477701",
+          "press": "",
+          "date": "2026-08-15"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "keyword": "현봉식",
+      "traffic": "200+",
+      "blogTotal": 5512,
+      "newsTotal": 12381,
+      "recentToday": 73,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "미우새 봉식 누구? 현봉식 동갑 연예인들 알고보면 놀랄일",
+          "link": "https://blog.naver.com/everythingforyou/224372884842",
+          "blogger": "투데이 스타 이슈♡",
+          "date": "2026-08-09"
+        },
+        {
+          "title": "미우새 부산 배정남 뼈족발 식당 빙수 카페 족발집 빙수집 어디 위....",
+          "link": "https://blog.naver.com/richseoyuni/224373256101",
+          "blogger": "다해블",
+          "date": "2026-08-09"
+        },
+        {
+          "title": "미우새 부산 뼈족발 양념뼈족발 식당 고깃집 배정남 현봉식",
+          "link": "https://blog.naver.com/eueuy/224373378427",
+          "blogger": "이랑이랑 맛집찾기",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "미우새 부산 뼈족발 식당 어디? 숯불 족발구이 동래 족다귀 위치(현....",
+          "link": "https://blog.naver.com/nemo-c/224373386601",
+          "blogger": "네모의 이거뭐야?",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "나혼산 현봉식 티셔츠. 나혼자산다 화이트 프린트 상의 착장 패션. ....",
+          "link": "https://blog.naver.com/zingga9/224379030107",
+          "blogger": "Kim쪼꼬님의 블로그",
+          "date": "2026-08-15"
+        }
+      ],
+      "topNews": [
         {
           "title": "박경혜, 김신영에 전라도 사투리 과외 받았는데…\"오디션은 탈락\"",
           "link": "https://www.newsis.com/view/NISX20260815_0003750631",
@@ -217,86 +418,104 @@
           "link": "https://www.newsen.com/news_view.php?uid=202608151446076310",
           "press": "",
           "date": "2026-08-15"
+        },
+        {
+          "title": "여배우도 피하지 못한 전월세난…이사하려는데 “매물이 없어” (나혼산...",
+          "link": "https://sports.khan.co.kr/article/202608151114003?pt=nv",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "전현무, 29시간 만에 끝내는 카자흐스탄 무작정 여행",
+          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3665537",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "‘나혼산’ 전현무, 29시간 해외여행 장소? 카자흐스탄 알마티로 무작정...",
+          "link": "http://enews.imbc.com/News/RetrieveNewsInfo/514829",
+          "press": "",
+          "date": "2026-08-15"
         }
       ],
-      "rank": 3
+      "rank": 6
     },
     {
-      "keyword": "카자흐스탄",
-      "traffic": "100+",
-      "blogTotal": 70135,
-      "newsTotal": 333949,
-      "recentToday": 100,
+      "keyword": "환희",
+      "traffic": "200+",
+      "blogTotal": 113437,
+      "newsTotal": 159873,
+      "recentToday": 39,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "카자흐스탄 여행 날씨, 2박3일 수도 알마티 여행 코스 가볼만한곳",
-          "link": "https://blog.naver.com/crazystudy/224364398311",
-          "blogger": "세상을 넓히는 여행 노트",
-          "date": "2026-08-01"
+          "title": "서인영 전남친이 브라이언 절친?! 환희 크리스마스 대시? 가요계 비....",
+          "link": "https://blog.naver.com/amingzoo/224369282969",
+          "blogger": "주밍의 이슈 앤 라이프",
+          "date": "2026-08-05"
         },
         {
-          "title": "카자흐스탄 여행 망기스타우 패키지 인생 여행지 추천",
-          "link": "https://blog.naver.com/yimsswon/224365850307",
-          "blogger": "워니와 함께 호치민으로",
-          "date": "2026-08-02"
+          "title": "“크리스마스 같이 보내자고…” 서인영, 환희 과거 대시 폭로…직....",
+          "link": "https://blog.naver.com/wltntleo/224369404417",
+          "blogger": "지구의 VLOG",
+          "date": "2026-08-05"
         },
         {
-          "title": "카자흐스탄 알마티 여행 첫날  알마티 공항 ATM 출금부터 얀덱스고(Ya....",
-          "link": "https://blog.naver.com/ekdud0921/224370980958",
-          "blogger": "뻔뻔한 바깥생활",
-          "date": "2026-08-07"
+          "title": "가수 환희 엄마 프로필 직업 나이 가족사 아버지 총정리",
+          "link": "https://blog.naver.com/soobin2838/224292709726",
+          "blogger": "숲, forest",
+          "date": "2026-05-23"
         },
         {
-          "title": "카자흐스탄 빅 알마티 호수 가는법ㅣ택시 트레킹 후기, 빅알마티 투....",
-          "link": "https://blog.naver.com/5vmvm5/224364714741",
-          "blogger": "지구여행자 혜뤼",
-          "date": "2026-08-01"
+          "title": "살림하는 남자들 시즌2 살림남 환희 가족사와 아버지 등장하지 않은....",
+          "link": "https://blog.naver.com/k251206/224315930505",
+          "blogger": "신혼쀼의 내돈내산 후기 기록",
+          "date": "2026-06-15"
         },
         {
-          "title": "카자흐스탄 알마티 그린바자르 가실 분 필독! 과일 기념품 할인 꿀....",
-          "link": "https://blog.naver.com/jko3230/224361610835",
-          "blogger": "레드씨의 경상도 아웃도어 라이프",
-          "date": "2026-08-01"
+          "title": "\"불과 2년 전에\" 환희 엄마.. 아빠와 이혼한 이유 (살림하는남자들2 ....",
+          "link": "https://blog.naver.com/chummilmil99/224295273021",
+          "blogger": "Te Quiero",
+          "date": "2026-05-24"
         }
       ],
       "topNews": [
         {
-          "title": "경기도상의연합회, 카자흐스탄 방문…중앙아시아 경제협력 모색",
-          "link": "https://www.newsis.com/view/NISX20260815_0003750697",
+          "title": "106년 전 '봉오동 승리'를 잇다...고려인마을의 \"코레아 우라\"",
+          "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000057068",
           "press": "",
           "date": "2026-08-15"
         },
         {
-          "title": "[김경무의 오디세이]  '11개월 만의 우승' 시비옹테크…그는 어떻게 '부...",
-          "link": "https://www.tennis.co.kr/news/articleView.html?idxno=53469",
+          "title": "“누구세요?” 환희, 관리받고 달라진 근황…한껏 물오른 ‘잘생김’",
+          "link": "https://www.sportsseoul.com/news/read/1628822?ref=naver",
           "press": "",
           "date": "2026-08-15"
         },
         {
-          "title": "美, 한국 등 35개국에 \"中 AI 진영과 양다리 안돼\"",
-          "link": "http://www.inews24.com/view/1995386",
+          "title": "환희, 이장우 아내 친구와 소개팅? “욕먹고 하차해야”(‘살림남’)",
+          "link": "https://www.mk.co.kr/article/12128768",
           "press": "",
           "date": "2026-08-15"
         },
         {
-          "title": "미국 \"중국 AI 동참하면 공급망 제외\"…한국 등 35개국에 경고",
-          "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00008&news_seq_no=5212691",
+          "title": "‘살림남’ 환희, 이장우 아내 친구와 소개팅? “그럼 욕먹고 하차해야...",
+          "link": "https://www.mediapen.com/news/view/1116719",
           "press": "",
           "date": "2026-08-15"
         },
         {
-          "title": "美 \"中 주도 AI 참여말라\"… 韓 포함 35개국에 경고",
-          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092168265",
+          "title": "환희 결혼 위해 이장우 나섰다…“94년생 아내 친구 소개”",
+          "link": "https://www.sportsworldi.com/newsView/20260815510766",
           "press": "",
           "date": "2026-08-15"
         }
       ],
-      "rank": 4
+      "rank": 7
     },
     {
       "keyword": "타짜",
-      "traffic": "100+",
+      "traffic": "200+",
       "blogTotal": 52901,
       "newsTotal": 86462,
       "recentToday": 30,
@@ -365,296 +584,77 @@
           "date": "2026-08-14"
         }
       ],
-      "rank": 5
-    },
-    {
-      "keyword": "메르세데스-벤츠 e 클래스",
-      "traffic": "200+",
-      "blogTotal": 12405,
-      "newsTotal": 28399,
-      "recentToday": 13,
-      "recentWeek": 79,
-      "topBlogs": [
-        {
-          "title": "지금봐도 매력적인 올드카 메르세데스 벤츠 W124 E클래스",
-          "link": "https://blog.naver.com/marcia011/224285133937",
-          "blogger": "자동차 인플루언서 더블노블double_noble",
-          "date": "2026-05-14"
-        },
-        {
-          "title": "메르세데스-벤츠 E클래스 플러그인 하이브리드 E 350 e 4MATIC 준대형 ....",
-          "link": "https://blog.naver.com/uk2200/224296183816",
-          "blogger": "열이블로그",
-          "date": "2026-05-25"
-        },
-        {
-          "title": "2026 메르세데스-벤츠 E클래스 포토, 벤츠 8월 할인 프로모션 가격 견....",
-          "link": "https://blog.naver.com/729325/224371196326",
-          "blogger": "슬기로운 벤츠생활_벤츠 이종찬",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "메르세데스 벤츠 E 200 익스클루시브 그라파이트 그레이 / 블랙시트",
-          "link": "https://blog.naver.com/whdtjs1204/224281442825",
-          "blogger": "메르세데스 벤츠 공식딜러 박차장",
-          "date": "2026-05-11"
-        },
-        {
-          "title": "[메르세데스-벤츠] 서울에서 뮤지엄산까지, E 200 익스클루시브와 떠....",
-          "link": "https://blog.naver.com/ssamw/224345050298",
-          "blogger": "일러스트레이터 홍승원",
-          "date": "2026-07-13"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "“차값은 못 깎지만 보증은 늘린다”…벤츠, E-클래스 4년 보증의 속내",
-          "link": "https://wemakenews.co.kr/news/view.php?no=26054",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "구형 테슬라, 중고차 몸값 ‘역주행’...왜?",
-          "link": "https://economist.co.kr/article/view/ecn202608150011",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "부드럽게 넘고 단단하게 돈다…벤츠 간판 SUV 'GLE 450'[시승기]",
-          "link": "https://www.news1.kr/industry/auto-industry/6260069",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "벤츠코리아, 8월 E클래스 구매 고객 보증 1년 연장",
-          "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=08062246645547320",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "벤츠, 8월 E-클래스 보증 '4년·13만km'로 확대… 수입 세단 고객 잡는다",
-          "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=357450",
-          "press": "",
-          "date": "2026-08-14"
-        }
-      ],
-      "rank": 6
-    },
-    {
-      "keyword": "박현경",
-      "traffic": "2000+",
-      "blogTotal": 8015,
-      "newsTotal": 66872,
-      "recentToday": 6,
-      "recentWeek": 61,
-      "topBlogs": [
-        {
-          "title": "박현경 KLPGA 200번째 출전 제주삼다수 마스터스 파5가 빛난 이유",
-          "link": "https://blog.naver.com/alsrbaka520/224371068778",
-          "blogger": "사라의 골프여행",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "박현경 프로, 6억 9천만원 잭팟… 실격 악몽을 우승으로 갚았습니다?....",
-          "link": "https://blog.naver.com/pan6606/224337246274",
-          "blogger": "아윌리치 Y",
-          "date": "2026-07-05"
-        },
-        {
-          "title": "일본 우승 뒤 국내선 주춤, 박현경 제주에서 첫 승 만들 수 있을까?",
-          "link": "https://blog.naver.com/ehdwns3405/224368685829",
-          "blogger": "필드노트 LOG",
-          "date": "2026-08-05"
-        },
-        {
-          "title": "미녀골프선수 박현경 프로, 일본 우승했는데 KLPGA 첫 시즌 우승은?",
-          "link": "https://blog.naver.com/caleb0901/224334116932",
-          "blogger": "이과장의 스포츠",
-          "date": "2026-07-02"
-        },
-        {
-          "title": "박현경 실격사유는 거리측정기 사용??? KLPGA투어에서 사용이 되는데?....",
-          "link": "https://blog.naver.com/jung-bjtv/224313009010",
-          "blogger": "JBJ GOLF&STOCK [Enjoy Your Life™]",
-          "date": "2026-06-11"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "골프계 '키다리 아저씨' 권오섭 엘앤피코스메틱 회장의 '상생경영'… '메...",
-          "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=62938",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "예상밖의 컷탈락 박현경·장은수, 그리고 박성현 [KLPGA 메디힐]",
-          "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20021500",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "손제이‧이규은, 제33회 송암배 아마추어 골프선수권대회 남‧녀부 우승",
-          "link": "https://www.viva100.com/article/20260815500057",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "[mhn포토] 박현경, 출발",
-          "link": "https://mhnse.com/news/articleView.html?idxno=1490730",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "[mhn포토] 박현경, 순서 기다리며",
-          "link": "https://mhnse.com/news/articleView.html?idxno=1490718",
-          "press": "",
-          "date": "2026-08-14"
-        }
-      ],
-      "rank": 7
-    },
-    {
-      "keyword": "추가경정예산",
-      "traffic": "200+",
-      "blogTotal": 21695,
-      "newsTotal": 320916,
-      "recentToday": 4,
-      "recentWeek": 63,
-      "topBlogs": [
-        {
-          "title": "신안군, 1조 211억 원 규모 추경예산 확정",
-          "link": "https://blog.naver.com/dalsunlm1/224368116696",
-          "blogger": "배당만이 살길",
-          "date": "2026-08-04"
-        },
-        {
-          "title": "추미애 경기도지사-경기도 재정 비상 선언 | \"판교·동탄도 있는데 ....",
-          "link": "https://blog.naver.com/bonlien3324/224369904901",
-          "blogger": "경제뉴스.투자이야기-라임써니홈",
-          "date": "2026-08-06"
-        },
-        {
-          "title": "제주도 택배 추가배송비 지원사업 9억 추가투입, 간소해진 신청방법....",
-          "link": "https://blog.naver.com/jmb_log/224375637421",
-          "blogger": "리뷰하고 스키타고",
-          "date": "2026-08-12"
-        },
-        {
-          "title": "불공정한 국가 예산 세금 쳐내는 강남구와 세금 적은 신안군의 추경....",
-          "link": "https://blog.naver.com/digiloglife/224370225642",
-          "blogger": "디지로그라이프로 세상과 소통",
-          "date": "2026-08-06"
-        },
-        {
-          "title": "인구 4만 명인데 예산은 1조? 신안군 추경 1조 돌파, 가능한 이유가 ....",
-          "link": "https://blog.naver.com/daychip/224369833273",
-          "blogger": "D A Y C H I P",
-          "date": "2026-08-06"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "중동 연수에 4800만원..당진시의회 내부서도 \"부적절\"",
-          "link": "https://www.idjnews.kr/news/articleView.html?idxno=302122",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "임실군, 하반기에 군민에게 30만원 지급…제1회 추경 5999억 편성",
-          "link": "https://www.ajunews.com/view/20260815172728460",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "민주당 초대 전남광주통합특별시당위원장에 안도걸…64.61% 득표",
-          "link": "https://www.ppss.kr/news/articleView.html?idxno=305736",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "당진시의회, 2차 추경 경제회복지원금 524억 등 530억 삭감",
-          "link": "https://www.idjnews.kr/news/articleView.html?idxno=302123",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "충북도, 재정 건전성 회복 위한 세출 구조조정 가속화",
-          "link": "https://www.viva100.com/article/20260815500121",
-          "press": "",
-          "date": "2026-08-15"
-        }
-      ],
       "rank": 8
     },
     {
-      "keyword": "롯데손해보험",
+      "keyword": "로저 페더러",
       "traffic": "200+",
-      "blogTotal": 9806,
-      "newsTotal": 60229,
+      "blogTotal": 5970,
+      "newsTotal": 34287,
       "recentToday": 3,
-      "recentWeek": 33,
+      "recentWeek": 29,
       "topBlogs": [
         {
-          "title": "롯데손해보험 해지하는법 환급금 조회 고객센터 서류",
-          "link": "https://blog.naver.com/chocolateelf/224374080365",
-          "blogger": "집순이의 현명한 제품 선택기",
-          "date": "2026-08-10"
+          "title": "하루 만에 700억 증발? 로저 페더러 억만장자 클럽 제외 원인과 스포....",
+          "link": "https://blog.naver.com/gentleman1899/224378485227",
+          "blogger": "스포츠.zip",
+          "date": "2026-08-14"
         },
         {
-          "title": "롯데손해보험 매각설,'1조원 거래'도 쉽지 않을까?인수전 현주소 정....",
-          "link": "https://blog.naver.com/hyeon302/224370702312",
-          "blogger": "초록뉴스",
-          "date": "2026-08-09"
+          "title": "테니스 황제 로저 페더러 주식 폭락으로 억만장자 자리에서 내려오....",
+          "link": "https://blog.naver.com/yihy131/224378176922",
+          "blogger": "테동인의 TENNIS BLOG",
+          "date": "2026-08-14"
         },
         {
-          "title": "'일본통' 진옥동 신한금융 회장, 롯데손보 인수에 목 매는 이유는?",
-          "link": "https://blog.naver.com/newsw2022/224333349435",
-          "blogger": "뉴스W",
-          "date": "2026-07-01"
+          "title": "유니클로 x 로저 페더러 드라이엑스 폴로 피케 카라티 셔츠 사이즈 ....",
+          "link": "https://blog.naver.com/jaeh_studio/223867575112",
+          "blogger": "20kg 다이어트 성공 러너_제익훈 러닝 다이어트",
+          "date": "2025-05-16"
         },
         {
-          "title": "롯데손해보험 고객센터 상담 전화번호 다양한 보험 상품 안내 보험....",
-          "link": "https://blog.naver.com/kkiamania/224333712252",
-          "blogger": "재테크 주식 부동산 전문 블로그",
-          "date": "2026-07-02"
+          "title": "테니스 용품 하울, 테니스스커트, 미즈노 웨이브엑시드투어6, 로저....",
+          "link": "https://blog.naver.com/misskorea124/224179951376",
+          "blogger": "忙中閑",
+          "date": "2026-02-11"
         },
         {
-          "title": "롯데손해보험 실비청구 후기, 소액도 되는지 해봤다",
-          "link": "https://blog.naver.com/everydayshiny/224340393312",
-          "blogger": "미뇽고고",
-          "date": "2026-07-08"
+          "title": "로저 페더러 억만장자 탈락? 온(ON) 주가 20% 폭락에 737억원 증발…순....",
+          "link": "https://blog.naver.com/zenith_kh/224377826164",
+          "blogger": "오늘의 스포츠픽",
+          "date": "2026-08-13"
         }
       ],
       "topNews": [
         {
-          "title": "롯데손해보험, 2분기 흑자 전환…순이익 13억원·K-ICS 161.9%",
-          "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=86812",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "롯데손보, 2분기 순이익 13억원 흑자전환…기본자본비율 5.4%",
-          "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2268004",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "한국금융지주, KDB생명 매각 우협 대상자로 선정...보험업 진출 초읽기",
-          "link": "https://www.thepublic.kr/news/articleView.html?idxno=314946",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "다급해진 롯데손보… 매각 측, KB·신한 ‘체급 싸움’ 파고들까[이충희...",
-          "link": "https://www.sedaily.com/article/20079792?ref=naver",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "롯데손보, 2분기 ‘흑자전환’…기본자본 2598억원 증가",
-          "link": "http://www.segyebiz.com/newsView/20260815501597?OutUrl=naver",
+          "title": "\"하루 만에 700억 날려\"…'테니스 황제' 페더러, 억만장자서 밀려나",
+          "link": "https://www.newsis.com/view/NISX20260814_0003750319",
           "press": "",
           "date": "2026-08-14"
+        },
+        {
+          "title": "주가 급락에 720억 날아간 ‘테니스 황제’…1년 만에 억만장자 탈락",
+          "link": "https://www.segye.com/newsView/20260814516409?OutUrl=naver",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "테니스 황제의 추락, 무려 737억 허공에…억만장자 타이틀 뺏겼다→스포...",
+          "link": "https://www.xportsnews.com/article/2183272",
+          "press": "",
+          "date": "2026-08-13"
+        },
+        {
+          "title": "[글로벌 특징주] 온홀딩, 2분기 실적 부진에 주가 사상 최대 낙폭",
+          "link": "https://www.newspim.com/news/view/20260812000891",
+          "press": "",
+          "date": "2026-08-12"
+        },
+        {
+          "title": "테니스장 등장한 인도식 아이스크림…윔블던은 왜 인도에 공들일까 [나...",
+          "link": "https://biz.heraldcorp.com/article/10828330?ref=naver",
+          "press": "",
+          "date": "2026-08-09"
         }
       ],
       "rank": 9
