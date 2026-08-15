@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-15T19:44:06.691Z",
+  "updatedAt": "2026-08-15T20:18:34.016Z",
   "source": "live",
   "keywords": [
     {
       "keyword": "토트넘",
       "traffic": "1000+",
       "blogTotal": 254393,
-      "newsTotal": 674451,
+      "newsTotal": 674452,
       "recentToday": 84,
       "recentWeek": 100,
       "topBlogs": [
@@ -43,6 +43,12 @@
       ],
       "topNews": [
         {
+          "title": "토트넘 팬들 혈압주의...이강인과 뛰게 된 로메로 \"오래 전부터 아틀레...",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=692604",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
           "title": "[오피셜] ‘이적료 657억’ 손흥민→이강인과 한솥밥, 아틀레티코 ‘토...",
           "link": "https://sports.khan.co.kr/article/202608160340003?pt=nv",
           "press": "",
@@ -63,12 +69,6 @@
         {
           "title": "[오피셜]이강인 지원군 도착! 크리스티안 로메로, 토트넘 떠나 아틀레티...",
           "link": "https://www.sportschosun.com/football/2026-08-16/202608160100091770005802",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "[오피셜] 토트넘 방출 자원→잉글랜드 월드컵 멤버까지...손흥민과 뛴 스...",
-          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=692605",
           "press": "",
           "date": "2026-08-15"
         }
@@ -223,8 +223,8 @@
     },
     {
       "keyword": "황정음",
-      "traffic": "1000+",
-      "blogTotal": 49747,
+      "traffic": "2000+",
+      "blogTotal": 49748,
       "newsTotal": 145342,
       "recentToday": 20,
       "recentWeek": 100,
@@ -297,10 +297,10 @@
     {
       "keyword": "조규성",
       "traffic": "100+",
-      "blogTotal": 15094,
+      "blogTotal": 15095,
       "newsTotal": 68345,
       "recentToday": 10,
-      "recentWeek": 33,
+      "recentWeek": 34,
       "topBlogs": [
         {
           "title": "[월드컵] 무릎 수술 극복한 조규성, 월드컵 핵심 카드로 떠오른 이유",
@@ -368,81 +368,8 @@
       "rank": 5
     },
     {
-      "keyword": "상장",
-      "traffic": "200+",
-      "blogTotal": 1067248,
-      "newsTotal": 4528288,
-      "recentToday": 5,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "댑오에스 코인 (DOS) 업비트 상장! Web3 AI 코인 전망은?",
-          "link": "https://blog.naver.com/vitamin2230/224374997172",
-          "blogger": "REONE P&I",
-          "date": "2026-08-11"
-        },
-        {
-          "title": "상장폐지되면 내 주식은 어떻게 될까? 상폐 요건과 정리매매 절차",
-          "link": "https://blog.naver.com/ivvlove/224365762450",
-          "blogger": "나엠제이의 투자맥잡기",
-          "date": "2026-08-02"
-        },
-        {
-          "title": "\"주식 상장폐지 뜻 조건 거래정지\" 정리매매가 마지막 기회?",
-          "link": "https://blog.naver.com/92happywoo/224355787333",
-          "blogger": "꿈꾸는에릭의 경제스터디",
-          "date": "2026-07-23"
-        },
-        {
-          "title": "일론 머스크의 스페이스X 상장 주식 개인이 사는 방법 우회 투자법",
-          "link": "https://blog.naver.com/happyobok/224306847561",
-          "blogger": "매일 복 쌓이는 지식 라운지",
-          "date": "2026-06-05"
-        },
-        {
-          "title": "SK하이닉스가 미국 나스닥에 상장? 초보자를 위한 초간단 요약정리(F....",
-          "link": "https://blog.naver.com/2hmii/224326727739",
-          "blogger": "《양이 가든》",
-          "date": "2026-06-25"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "[N2 포커스] 스페이스X 빼도 세전익 1조원 육박…미래에셋증권, 글로벌...",
-          "link": "https://www.news2day.co.kr/article/20260812500284",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "비트코인 29% 급락에도 아부다비 국부펀드 IBIT 2294만주 그대로 지켰다",
-          "link": "https://www.wikitree.co.kr/articles/1152717",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "오픈AI CFO “기업 매출이 소비자 앞질렀다”…ARR 400억달러 두 분기 앞...",
-          "link": "https://www.wikitree.co.kr/articles/1152715",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "엔비디아, 30조 원어치 스페이스X 지분 보유...'순환 거래' 우려",
-          "link": "https://www.ytn.co.kr/_ln/0104_202608160341123361",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "로빈후드체인, 출범 한 달 만에 TVL 1조원 육박…유니스왑이 유동성 전...",
-          "link": "https://www.wikitree.co.kr/articles/1152713",
-          "press": "",
-          "date": "2026-08-15"
-        }
-      ],
-      "rank": 6
-    },
-    {
       "keyword": "이병태",
-      "traffic": "100+",
+      "traffic": "200+",
       "blogTotal": 5647,
       "newsTotal": 12291,
       "recentToday": 3,
@@ -511,7 +438,7 @@
           "date": "2026-08-15"
         }
       ],
-      "rank": 7
+      "rank": 6
     },
     {
       "keyword": "fotmob",
@@ -584,7 +511,153 @@
           "date": "2026-07-07"
         }
       ],
+      "rank": 7
+    },
+    {
+      "keyword": "증여",
+      "traffic": "200+",
+      "blogTotal": 265135,
+      "newsTotal": 303495,
+      "recentToday": 0,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "2026 증여세 세율표 및 누진공제 계산법 완벽 정리",
+          "link": "https://blog.naver.com/rice7752/224373965464",
+          "blogger": "질리언박사",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "2026년 증여세 계산기 활용법,  증여세 면제한도 세율 신고기한 총정....",
+          "link": "https://blog.naver.com/parangsae71/224370044446",
+          "blogger": "강팰",
+          "date": "2026-08-06"
+        },
+        {
+          "title": "증여는 미리, 나눠서, 똑똑하게: 증여세 절세 총정리 [기고 – 문재....",
+          "link": "https://blog.naver.com/ktcu_attic/224368983566",
+          "blogger": "한국교직원공제회 블로그",
+          "date": "2026-08-05"
+        },
+        {
+          "title": "자녀 주식계좌 증여, 세금 없어도 신고해야 하는 이유",
+          "link": "https://blog.naver.com/moominsweethome/224356955563",
+          "blogger": "하루의 적립",
+          "date": "2026-07-24"
+        },
+        {
+          "title": "신혼부부 결혼 증여 / 혼인·출산 증여재산공제 / 세금 0원 최대 3억 ....",
+          "link": "https://blog.naver.com/gaheepa/224337494155",
+          "blogger": "히가의 우당탕탕 일상로그",
+          "date": "2026-07-06"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "금 차익 28% 과세, 미국선 고정세율 아니다",
+          "link": "https://www.tokenpost.kr/news/policy/391485",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "지분 늘리고 빌 게이츠 만나고…HD현대, '정기선 리더십' 본격화",
+          "link": "https://news.tf.co.kr/read/economy/2354437.htm",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "\"아들만 15억 아파트 증여\"…상속 배제된 딸, 유류분 소송 가능할까",
+          "link": "https://www.newsis.com/view/NISX20260814_0003749658",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "“딸은 시집 가면 끝, 재산은 아들에게만”…15억짜리 아파트 되찾을 수...",
+          "link": "https://www.mk.co.kr/article/12128757",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "최태원 SK 회장, 재산분할 9440억 판결 재상고···분할 비율과 노소영...",
+          "link": "https://www.todaykorea.co.kr/news/articleView.html?idxno=404979",
+          "press": "",
+          "date": "2026-08-15"
+        }
+      ],
       "rank": 8
+    },
+    {
+      "keyword": "상장",
+      "traffic": "200+",
+      "blogTotal": 1067265,
+      "newsTotal": 4528294,
+      "recentToday": 0,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "댑오에스 코인 (DOS) 업비트 상장! Web3 AI 코인 전망은?",
+          "link": "https://blog.naver.com/vitamin2230/224374997172",
+          "blogger": "REONE P&I",
+          "date": "2026-08-11"
+        },
+        {
+          "title": "상장폐지되면 내 주식은 어떻게 될까? 상폐 요건과 정리매매 절차",
+          "link": "https://blog.naver.com/ivvlove/224365762450",
+          "blogger": "나엠제이의 투자맥잡기",
+          "date": "2026-08-02"
+        },
+        {
+          "title": "\"주식 상장폐지 뜻 조건 거래정지\" 정리매매가 마지막 기회?",
+          "link": "https://blog.naver.com/92happywoo/224355787333",
+          "blogger": "꿈꾸는에릭의 경제스터디",
+          "date": "2026-07-23"
+        },
+        {
+          "title": "일론 머스크의 스페이스X 상장 주식 개인이 사는 방법 우회 투자법",
+          "link": "https://blog.naver.com/happyobok/224306847561",
+          "blogger": "매일 복 쌓이는 지식 라운지",
+          "date": "2026-06-05"
+        },
+        {
+          "title": "SK하이닉스가 미국 나스닥에 상장? 초보자를 위한 초간단 요약정리(F....",
+          "link": "https://blog.naver.com/2hmii/224326727739",
+          "blogger": "《양이 가든》",
+          "date": "2026-06-25"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "3400만달러 비트코인 ETF, 아마존 지분 넘었다",
+          "link": "https://www.tokenpost.kr/news/cryptocurrency/391504",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "1억1100만달러 토큰화 주식, 디파이에 예치됐다",
+          "link": "https://www.tokenpost.kr/news/cryptocurrency/391502",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "[모닝 시세브리핑] 암호화폐 시장 혼조세… 비트코인 63,048달러, 이더리...",
+          "link": "https://www.tokenpost.kr/news/briefing/391503",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "은행보다 더 버는 증권사…미래에셋·한투, 5대 금융지주와 나란히",
+          "link": "https://www.nocutnews.co.kr/news/6563405?utm_source=naver&utm_medium=article&utm_campaign=20260816050050",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "보조금에서 증시로…中, 기술기업 자금줄 바꾼다[차이나는 중국]",
+          "link": "https://www.mt.co.kr/opinion/2026/08/16/2026081317163822025",
+          "press": "",
+          "date": "2026-08-15"
+        }
+      ],
+      "rank": 9
     },
     {
       "keyword": "มิลาน พบ แมนยู",
@@ -594,42 +667,6 @@
       "recentToday": 0,
       "recentWeek": 0,
       "topBlogs": [],
-      "topNews": [],
-      "rank": 9
-    },
-    {
-      "keyword": "milan đấu với man utd",
-      "traffic": "500+",
-      "blogTotal": 0,
-      "newsTotal": 0,
-      "recentToday": 0,
-      "recentWeek": 0,
-      "topBlogs": [
-        {
-          "title": "'이재명 시대' 코인 정책 대격변 예고! ICO·비트코인 ETF 허용? 카이아....",
-          "link": "https://blog.naver.com/kaiachain/223889785223",
-          "blogger": "kaiachain님의 블로그",
-          "date": "2025-06-05"
-        },
-        {
-          "title": "5월5일-5월9일 주간 키워드 검색량 리스트",
-          "link": "https://blog.naver.com/zeenty/223862958193",
-          "blogger": "지니의 아카이브",
-          "date": "2025-05-12"
-        },
-        {
-          "title": "12/5 실시간 뉴스를 알려드려요.",
-          "link": "https://blog.naver.com/sunjin7536/224098897921",
-          "blogger": "소비가 소득이 되는 시스템!",
-          "date": "2025-12-05"
-        },
-        {
-          "title": "4월14일-4월18일 주간 키워드 리스트",
-          "link": "https://blog.naver.com/zeenty/223840770549",
-          "blogger": "지니의 아카이브",
-          "date": "2025-04-20"
-        }
-      ],
       "topNews": [],
       "rank": 10
     }
