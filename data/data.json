@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-15T20:47:09.099Z",
+  "updatedAt": "2026-08-15T21:18:06.364Z",
   "source": "live",
   "keywords": [
     {
       "keyword": "토트넘",
       "traffic": "1000+",
-      "blogTotal": 254396,
-      "newsTotal": 674453,
-      "recentToday": 84,
+      "blogTotal": 254397,
+      "newsTotal": 674455,
+      "recentToday": 83,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -43,6 +43,18 @@
       ],
       "topNews": [
         {
+          "title": "'쏘니 후임' 진짜 최악이다! 아틀레티코 입단 후 '충격' 고백, \"오랫동안...",
+          "link": "https://www.mydaily.co.kr/page/view/2026081600533489716",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "슈퍼컴퓨터가 뽑은 EPL 우승팀은 아스널…토트넘은 7위 예상",
+          "link": "https://www.news1.kr/sports/overseas-soccer/6260258",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
           "title": "토트넘 초대박 소식! '역대 최악의 주장' 방출 이어 리버풀 윙어 영입 청...",
           "link": "https://www.mydaily.co.kr/page/view/2026081518420990247",
           "press": "",
@@ -59,18 +71,6 @@
           "link": "https://sports.khan.co.kr/article/202608160340003?pt=nv",
           "press": "",
           "date": "2026-08-15"
-        },
-        {
-          "title": "'SON 후임' 역대 최악의 주장 확정!…주장이 결별하는데 인사가 단 두 줄...",
-          "link": "https://www.mydaily.co.kr/page/view/2026081518291689429",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "\"영입 본격화\" 토트넘, 마침내 손흥민 후계자 찾았다...오렌지 군단 특...",
-          "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553461721",
-          "press": "",
-          "date": "2026-08-15"
         }
       ],
       "rank": 1
@@ -78,9 +78,9 @@
     {
       "keyword": "로또1237회당첨번호",
       "traffic": "200+",
-      "blogTotal": 231,
+      "blogTotal": 233,
       "newsTotal": 38,
-      "recentToday": 80,
+      "recentToday": 78,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -108,10 +108,10 @@
           "date": "2026-08-12"
         },
         {
-          "title": "로또 1237회 당첨번호 공개, 1등 23명 12억씩…반년 통계로 본 1238회 참....",
-          "link": "https://blog.naver.com/qkdqkr/224379838515",
-          "blogger": "생활백과",
-          "date": "2026-08-15"
+          "title": "로또 1237회 제외수 분석 / 종합 분석 자료",
+          "link": "https://blog.naver.com/kab3/224372484797",
+          "blogger": "로또의장비",
+          "date": "2026-08-09"
         }
       ],
       "topNews": [
@@ -150,9 +150,9 @@
     },
     {
       "keyword": "벨기에",
-      "traffic": "200+",
-      "blogTotal": 233595,
-      "newsTotal": 582012,
+      "traffic": "500+",
+      "blogTotal": 233596,
+      "newsTotal": 582014,
       "recentToday": 59,
       "recentWeek": 100,
       "topBlogs": [
@@ -189,6 +189,18 @@
       ],
       "topNews": [
         {
+          "title": "하수관 공사하다 나온 금괴가 148억원?...알바생 '횡재' 하겠네",
+          "link": "https://biz.sbs.co.kr/article_hub/20000328990?division=NAVER",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "[jupiler.review] '평점 7.6 이한범 풀타임' 브뤼헤, OH 루벤에 3-0 완승…...",
+          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96431",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
           "title": "[오피셜] 이강인 빈자리 채운다…PSG, '제2의 아자르' 미카 고츠 영입 \"...",
           "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=692607",
           "press": "",
@@ -205,18 +217,6 @@
           "link": "https://www.nc.press/news/articleView.html?idxno=623768",
           "press": "",
           "date": "2026-08-15"
-        },
-        {
-          "title": "'충격 대반전' 日 축구 초대형 악재! 전용기까지 띄웠는데...'혼혈 GK' PS...",
-          "link": "https://www.mydaily.co.kr/page/view/2026081600325315845",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "'HERE WE GO' 틀렸다, 일본 열도 좌절...이강인 후배 될 뻔한 스즈키, PSG...",
-          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=692603",
-          "press": "",
-          "date": "2026-08-15"
         }
       ],
       "rank": 3
@@ -224,7 +224,7 @@
     {
       "keyword": "송가인",
       "traffic": "1000+",
-      "blogTotal": 56974,
+      "blogTotal": 56975,
       "newsTotal": 137507,
       "recentToday": 47,
       "recentWeek": 100,
@@ -254,10 +254,10 @@
           "date": "2026-08-07"
         },
         {
-          "title": "송가인 153cm·44kg 극세다리, 아담한 키에도 무대 장악하는 존재감의 ....",
-          "link": "https://blog.naver.com/jkh025/224309269168",
-          "blogger": "꼬물맘의 사는 이야기 ♥️",
-          "date": "2026-06-08"
+          "title": "제철리 마을회관 2회 송가인, ‘한 많은 대동강’·‘사랑의 맘보’ ....",
+          "link": "https://blog.naver.com/newspdc/224365688610",
+          "blogger": "뉴스피디",
+          "date": "2026-08-02"
         }
       ],
       "topNews": [
@@ -296,7 +296,7 @@
     },
     {
       "keyword": "어선",
-      "traffic": "100+",
+      "traffic": "200+",
       "blogTotal": 77820,
       "newsTotal": 531282,
       "recentToday": 25,
@@ -371,7 +371,7 @@
       "keyword": "황정음",
       "traffic": "2000+",
       "blogTotal": 49749,
-      "newsTotal": 145342,
+      "newsTotal": 145343,
       "recentToday": 20,
       "recentWeek": 100,
       "topBlogs": [
@@ -408,6 +408,12 @@
       ],
       "topNews": [
         {
+          "title": "외모 포기했나..황정음, 새카맣게 그을리고 밀착 셀카 \"오또케\"[스타이...",
+          "link": "https://www.starnewskorea.com/star/2026/08/16/2026081606073761292",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
           "title": "얼굴은 통통, 피부는 까맣게…황정음 맞아? 몰라보게 달라진 근황 [★해...",
           "link": "https://www.xportsnews.com/article/2184260",
           "press": "",
@@ -430,19 +436,13 @@
           "link": "http://www.osen.co.kr/article/G1112858088",
           "press": "",
           "date": "2026-08-15"
-        },
-        {
-          "title": "“대체 무슨 일?” 황정음, 새까맣게 탄 민낯 충격…팬들도 ‘깜짝’",
-          "link": "https://www.sportsseoul.com/news/read/1628836?ref=naver",
-          "press": "",
-          "date": "2026-08-15"
         }
       ],
       "rank": 6
     },
     {
       "keyword": "부채 탕감",
-      "traffic": "100+",
+      "traffic": "200+",
       "blogTotal": 27783,
       "newsTotal": 34816,
       "recentToday": 3,
@@ -515,7 +515,7 @@
     },
     {
       "keyword": "이병태",
-      "traffic": "200+",
+      "traffic": "500+",
       "blogTotal": 5647,
       "newsTotal": 12291,
       "recentToday": 3,
@@ -589,8 +589,8 @@
     {
       "keyword": "증여",
       "traffic": "200+",
-      "blogTotal": 265145,
-      "newsTotal": 303495,
+      "blogTotal": 265156,
+      "newsTotal": 303496,
       "recentToday": 0,
       "recentWeek": 100,
       "topBlogs": [
@@ -627,6 +627,12 @@
       ],
       "topNews": [
         {
+          "title": "공부왕찐천재 홍진경 반도체 급락 속 ETF 분산 투자 해법 공개 (영상)",
+          "link": "https://www.insight.co.kr/news/568459",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
           "title": "금 차익 28% 과세, 미국선 고정세율 아니다",
           "link": "https://www.tokenpost.kr/news/policy/391485",
           "press": "",
@@ -649,21 +655,15 @@
           "link": "https://www.mk.co.kr/article/12128757",
           "press": "",
           "date": "2026-08-15"
-        },
-        {
-          "title": "최태원 SK 회장, 재산분할 9440억 판결 재상고···분할 비율과 노소영...",
-          "link": "https://www.todaykorea.co.kr/news/articleView.html?idxno=404979",
-          "press": "",
-          "date": "2026-08-15"
         }
       ],
       "rank": 9
     },
     {
       "keyword": "상장",
-      "traffic": "200+",
-      "blogTotal": 1067271,
-      "newsTotal": 4528297,
+      "traffic": "500+",
+      "blogTotal": 1067280,
+      "newsTotal": 4528317,
       "recentToday": 0,
       "recentWeek": 100,
       "topBlogs": [
@@ -700,32 +700,32 @@
       ],
       "topNews": [
         {
-          "title": "2970달러 리플 ETF, 몬트리올은행 공시에 반영",
-          "link": "https://www.tokenpost.kr/news/cryptocurrency/391509",
+          "title": "'규제강화 후 급락' 단일 레버리지 거래대금, 증가추세 왜?",
+          "link": "https://www.yna.co.kr/view/AKR20260814179100008?input=1195m",
           "press": "",
           "date": "2026-08-15"
         },
         {
-          "title": "“누굴 믿나”…청년 ‘미장 망명’ 부추긴 ISA 촌극 [박진우의 개미수...",
-          "link": "https://www.dt.co.kr/article/12078388?ref=naver",
+          "title": "동전주·시총미달 줄줄이 관리종목행…'100개 상폐' 현실화하나",
+          "link": "https://www.yna.co.kr/view/AKR20260815026900008?input=1195m",
           "press": "",
           "date": "2026-08-15"
         },
         {
-          "title": "스페이스X 지분 30조원 가진 '대주주'...알고보니 엔비디아",
-          "link": "https://biz.sbs.co.kr/article_hub/20000328988?division=NAVER",
+          "title": "(주간증시전망)회복 국면 코스피…7000선 ‘재도전’",
+          "link": "http://www.newstomato.com/ReadNews.aspx?no=1310344&inflow=N",
           "press": "",
           "date": "2026-08-15"
         },
         {
-          "title": "3400만달러 비트코인 ETF, 아마존 지분 넘었다",
-          "link": "https://www.tokenpost.kr/news/cryptocurrency/391504",
+          "title": "[권가림의 금만세] 주식으로 떠난 투자자들에…업비트·빗썸 직격탄",
+          "link": "https://www.ajunews.com/view/20260814171955816",
           "press": "",
           "date": "2026-08-15"
         },
         {
-          "title": "[모닝 시세브리핑] 암호화폐 시장 혼조세… 비트코인 63,048달러, 이더리...",
-          "link": "https://www.tokenpost.kr/news/briefing/391503",
+          "title": "급등락에도 결국 ‘반도체’…올해 ETF 수익률 상위권 싹쓸이",
+          "link": "https://www.kukinews.com/article/view/kuk202608140142",
           "press": "",
           "date": "2026-08-15"
         }
