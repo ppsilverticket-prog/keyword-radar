@@ -1,11 +1,84 @@
 {
-  "updatedAt": "2026-08-15T05:27:43.630Z",
+  "updatedAt": "2026-08-15T05:52:29.250Z",
   "source": "live",
   "keywords": [
     {
+      "keyword": "민생지원금",
+      "traffic": "20000+",
+      "blogTotal": 134629,
+      "newsTotal": 142556,
+      "recentToday": 100,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "2026 추석 민생지원금 언제 받나? 지역별 지급 소식 총정리",
+          "link": "https://blog.naver.com/dhel751/224370386248",
+          "blogger": "뽀또네집",
+          "date": "2026-08-06"
+        },
+        {
+          "title": "2026 4차 민생지원금 또 나온다? 전국민 지급 소문 공식 확인해보니",
+          "link": "https://blog.naver.com/ultravsodin1/224369690097",
+          "blogger": "천안에서 직접 먹어보고, 솔직하게 전달하는 사람",
+          "date": "2026-08-06"
+        },
+        {
+          "title": "4차 민생지원금 문제점 총정리｜또 현금지원? 경제·재정·정치적으....",
+          "link": "https://blog.naver.com/mileangel78/224370788976",
+          "blogger": "경제, 부동산, 생활 정보를 전하는 재테크사관학교",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "\"나만 몰랐네\" 이미 시작된 추석 민생지원금 받는 지역 총정리",
+          "link": "https://blog.naver.com/bomod/224373698879",
+          "blogger": "평범한 직장인의 투자일기",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "경남 의령군 민생지원금 50만원 지급/ 신청 방법 및 기간 총정리",
+          "link": "https://blog.naver.com/sys0691/224366981991",
+          "blogger": "헤세드blog",
+          "date": "2026-08-03"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "고양시 1828억 증액 3회 추경안 편성… '기금 융자'로 민생 방어",
+          "link": "http://www.mygoyang.com/news/articleView.html?idxno=89903",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "문경시민 6만4천662명 모두 추석 전 25만원 받는다…민생회복지원금 지...",
+          "link": "https://www.imaeil.com/page/view/2026081512522360301",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "\"당대당 싸움\" vs \"주차장이 더 효과적\"",
+          "link": "https://www.idjnews.kr/news/articleView.html?idxno=302127",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "김학홍 문경시장 \"시민과 소통하고 민생회복하는데 역점 둘 것\"",
+          "link": "https://www.sidae.com/article/2026081511093914274",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "[기자수첩] 시민과 함께 만드는 '힘찬 문경'",
+          "link": "https://www.idaegu.com/news/articleView.html?idxno=665032",
+          "press": "",
+          "date": "2026-08-15"
+        }
+      ],
+      "rank": 1
+    },
+    {
       "keyword": "이인권",
       "traffic": "5000+",
-      "blogTotal": 2412,
+      "blogTotal": 2418,
       "newsTotal": 3114,
       "recentToday": 100,
       "recentWeek": 100,
@@ -73,12 +146,12 @@
           "date": "2026-08-15"
         }
       ],
-      "rank": 1
+      "rank": 2
     },
     {
       "keyword": "하이마트",
       "traffic": "100+",
-      "blogTotal": 241707,
+      "blogTotal": 241717,
       "newsTotal": 167891,
       "recentToday": 100,
       "recentWeek": 100,
@@ -146,87 +219,14 @@
           "date": "2026-08-14"
         }
       ],
-      "rank": 2
-    },
-    {
-      "keyword": "하객",
-      "traffic": "2000+",
-      "blogTotal": 453615,
-      "newsTotal": 157516,
-      "recentToday": 100,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "50대 하객룩 이렇게만 입으세요! 원피스 투피스 정장 여름 남자",
-          "link": "https://blog.naver.com/chung-/224365008547",
-          "blogger": "Chung",
-          "date": "2026-08-01"
-        },
-        {
-          "title": "구로 지타워컨벤션 하객 후기｜뷔페, 주차, 셔틀, 웨딩홀 솔직 리뷰",
-          "link": "https://blog.naver.com/poo30722/224357944657",
-          "blogger": "도토리창고",
-          "date": "2026-07-26"
-        },
-        {
-          "title": "[웨딩홀] 더베일리하우스 삼성점 하객 후기 / 교통, 식사, 홀 분위기",
-          "link": "https://blog.naver.com/yssy100/224354444113",
-          "blogger": "이것저것요기죠기",
-          "date": "2026-07-22"
-        },
-        {
-          "title": "서울 신도림 더세인트 그랜드볼룸홀 결혼식 하객 솔직 후기(위치, ....",
-          "link": "https://blog.naver.com/withyj33/224330952436",
-          "blogger": "자이님의 이모저모",
-          "date": "2026-06-29"
-        },
-        {
-          "title": "신라호텔 웨딩 다이너스티홀 하객후기 I 양식 코스 식사 후기",
-          "link": "https://blog.naver.com/awesomeori/224345380417",
-          "blogger": "oriblog",
-          "date": "2026-07-13"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "결혼식 신부 하객 0명…이유 알고 축하 쏟아졌다",
-          "link": "https://www.mk.co.kr/article/12128723",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "대구웨딩박람회 8월 29~30일 개최…13개 웨딩홀 참석 확정",
-          "link": "http://www.hortitimes.com/news/articleView.html?idxno=34337",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "\"결혼식 하객 0명, 15평 빌라서 신혼 시작\"…신부 사연에 격려 봇물",
-          "link": "https://www.news1.kr/society/general-society/6259400",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "대구모먼트웨딩박람회, 오는 8월 22~23일 호텔 인터불고 엑스코서 개최",
-          "link": "https://www.woodkorea.co.kr/news/articleView.html?idxno=90807",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "구글 시트 캔버스, 제미나이 프롬프트 한마디로 학습표·좌석배치도까지...",
-          "link": "https://www.wikitree.co.kr/articles/1152573",
-          "press": "",
-          "date": "2026-08-14"
-        }
-      ],
       "rank": 3
     },
     {
       "keyword": "서강대",
       "traffic": "200+",
-      "blogTotal": 99755,
-      "newsTotal": 332180,
-      "recentToday": 44,
+      "blogTotal": 99759,
+      "newsTotal": 332186,
+      "recentToday": 49,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -242,12 +242,6 @@
           "date": "2026-05-24"
         },
         {
-          "title": "2027 서강대·성균관대·한양대 수시 핵심 변경사항 | 서성한 편",
-          "link": "https://blog.naver.com/ansooa77/224315381762",
-          "blogger": "슬기로운 엄마생활",
-          "date": "2026-06-14"
-        },
-        {
           "title": "서강대 -“서연고 바로 아래인데 합격은 더 어렵다”… 2026 서강대 ....",
           "link": "https://blog.naver.com/sensasion/224308350790",
           "blogger": "글로리컨설팅[위례에듀,투자/법률컨설팅,인천글캠]",
@@ -258,36 +252,42 @@
           "link": "https://blog.naver.com/starlit26/224365995031",
           "blogger": "교육 비책",
           "date": "2026-08-03"
+        },
+        {
+          "title": "2027 서강대·성균관대·한양대 수시 핵심 변경사항 | 서성한 편",
+          "link": "https://blog.naver.com/ansooa77/224315381762",
+          "blogger": "슬기로운 엄마생활",
+          "date": "2026-06-14"
         }
       ],
       "topNews": [
         {
-          "title": "서강대 개인정보 18만건 유출 … 학번·휴대전화·비밀번호 포함",
-          "link": "https://www.newdaily.co.kr/site/data/html/2026/08/15/2026081500028.html",
+          "title": "박근혜 前대통령도 털린듯…서강대 개인정보 유출에 학생들 ‘부글부글...",
+          "link": "https://biz.heraldcorp.com/article/10842365?ref=naver",
           "press": "",
           "date": "2026-08-15"
         },
         {
-          "title": "[속보]서강대 개인정보 18만건 털렸다…사흘 뒤에야 인지?",
-          "link": "https://www.munhwa.com/article/11609749?ref=naver",
+          "title": "[속보] 서강대 개인정보 유출 사태, 박근혜 전 대통령도 피해 추정",
+          "link": "https://www.munhwa.com/article/11609751?ref=naver",
           "press": "",
           "date": "2026-08-15"
         },
         {
-          "title": "서강대 개인정보 18만건 유출…박근혜 前대통령도 포함된듯(종합)",
-          "link": "https://www.yna.co.kr/view/AKR20260815029651004?input=1195m",
+          "title": "서강대 학생·졸업생 등 개인정보 18만건 유출…박근혜 전 대통령도 포...",
+          "link": "https://www.hidomin.com/news/articleView.html?idxno=717355",
           "press": "",
           "date": "2026-08-15"
         },
         {
-          "title": "서강대 개인정보 18만건 유출…신원미상 외부공격 추정",
-          "link": "https://www.ikbc.co.kr/article/view/kbc202608150022",
+          "title": "박근혜 前대통령도 포함된 듯…서강대 개인정보 18만건 유출",
+          "link": "https://biz.sbs.co.kr/article_hub/20000328970?division=NAVER",
           "press": "",
           "date": "2026-08-15"
         },
         {
-          "title": "서강대 학생·졸업생 등 개인정보 18만건 유출…\"신원 미상 외부 공격\"",
-          "link": "https://www.dailian.co.kr/news/view/1678856/?sc=Naver",
+          "title": "서강대 개인정보 18만건 털렸다…박근혜 전 대통령도 포함된 듯",
+          "link": "https://www.kbmaeil.com/article/20260815500104",
           "press": "",
           "date": "2026-08-15"
         }
@@ -327,10 +327,10 @@
           "date": "2026-07-06"
         },
         {
-          "title": "중국 백두산 여행 패키지 천지 코스 호텔 맛집 여행 경비 총정리",
-          "link": "https://blog.naver.com/easy_zero/224366654684",
-          "blogger": "로다의 친절한 지구여행가이드",
-          "date": "2026-08-03"
+          "title": "백두산 서파 자유여행 후기 - 서파관광센터 짐보관부터 공안교육까....",
+          "link": "https://blog.naver.com/tashy5989/224367238051",
+          "blogger": "물곰씨의 여행법",
+          "date": "2026-08-04"
         }
       ],
       "topNews": [
@@ -366,6 +366,79 @@
         }
       ],
       "rank": 5
+    },
+    {
+      "keyword": "삼성sdi",
+      "traffic": "1000+",
+      "blogTotal": 74322,
+      "newsTotal": 444635,
+      "recentToday": 33,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "삼성SDI, 진짜 무서운 건 지금부터 시작이다",
+          "link": "https://blog.naver.com/goran0/224372362378",
+          "blogger": "나의것이 모두의것",
+          "date": "2026-08-08"
+        },
+        {
+          "title": "삼성SDI 주가 급등, 미국 공급망 재편이 호재 된 이유",
+          "link": "https://blog.naver.com/pito302/224372851820",
+          "blogger": "하루의 경제 분석",
+          "date": "2026-08-09"
+        },
+        {
+          "title": "삼성SDI 주가 전망, ESS·BBU가 전기차 빈자리 채울까?",
+          "link": "https://blog.naver.com/coingap/224373993193",
+          "blogger": "이코노미 인사이드 ECONOMY INSIDE",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "\"보조금 대박으로 착각 마라!\" 한국판 IRA, 삼성SDI 16조 투자 효과 뒤....",
+          "link": "https://blog.naver.com/dlwogurr/224368330373",
+          "blogger": "정싸부의 경제공부",
+          "date": "2026-08-05"
+        },
+        {
+          "title": "\"다들 모른 척하더니\" 삼성SDI 주가 이 지지선 지키면 결국 '이 가격' ....",
+          "link": "https://blog.naver.com/ayden2219/224374033395",
+          "blogger": "미래를 위한 경제 공부",
+          "date": "2026-08-10"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "제네시스, 'GV90' 출격 임박…주요 스펙 윤곽",
+          "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=857108",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "8월 14일 삼성SDI 주가 51만원대 마감 상승 전환",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16164330",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "K배터리 공장 가동률, 美 전기차 한파 대응에 희비 갈려",
+          "link": "https://zdnet.co.kr/view/?no=20260815040828",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "5일 내내 오른 증시…외인·기관은 '삼전닉스', 승부는 장바구니에서 갈...",
+          "link": "http://www.fnnews.com/news/202608151030334745",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "외국인 'SK하이닉스·삼성전자' 던졌다…개미는 SK하닉 집중매수",
+          "link": "https://www.news2day.co.kr/article/20260815500003",
+          "press": "",
+          "date": "2026-08-14"
+        }
+      ],
+      "rank": 6
     },
     {
       "keyword": "페라리",
@@ -438,223 +511,150 @@
           "date": "2026-08-14"
         }
       ],
-      "rank": 6
-    },
-    {
-      "keyword": "삼성sdi",
-      "traffic": "1000+",
-      "blogTotal": 74320,
-      "newsTotal": 444634,
-      "recentToday": 30,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "삼성SDI, 진짜 무서운 건 지금부터 시작이다",
-          "link": "https://blog.naver.com/goran0/224372362378",
-          "blogger": "나의것이 모두의것",
-          "date": "2026-08-08"
-        },
-        {
-          "title": "삼성SDI 주가 전망, ESS·BBU가 전기차 빈자리 채울까?",
-          "link": "https://blog.naver.com/coingap/224373993193",
-          "blogger": "이코노미 인사이드 ECONOMY INSIDE",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "\"보조금 대박으로 착각 마라!\" 한국판 IRA, 삼성SDI 16조 투자 효과 뒤....",
-          "link": "https://blog.naver.com/dlwogurr/224368330373",
-          "blogger": "정싸부의 경제공부",
-          "date": "2026-08-05"
-        },
-        {
-          "title": "\"다들 모른 척하더니\" 삼성SDI 주가 이 지지선 지키면 결국 '이 가격' ....",
-          "link": "https://blog.naver.com/ayden2219/224374033395",
-          "blogger": "미래를 위한 경제 공부",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "삼성SDI주가 2026년 5월, 67만원대 견조한 흐름! 그 비결은 ESS 성장 기....",
-          "link": "https://blog.naver.com/prettydaezi/224300020982",
-          "blogger": "쪼꼬바",
-          "date": "2026-05-29"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "8월 14일 삼성SDI 주가 51만원대 마감 상승 전환",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16164330",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "K배터리 공장 가동률, 美 전기차 한파 대응에 희비 갈려",
-          "link": "https://zdnet.co.kr/view/?no=20260815040828",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "5일 내내 오른 증시…외인·기관은 '삼전닉스', 승부는 장바구니에서 갈...",
-          "link": "http://www.fnnews.com/news/202608151030334745",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "외국인 'SK하이닉스·삼성전자' 던졌다…개미는 SK하닉 집중매수",
-          "link": "https://www.news2day.co.kr/article/20260815500003",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "[주간 거래소 기관] 삼성전자·SK하이닉스 사고 한국전력·삼양식품 팔았...",
-          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477647",
-          "press": "",
-          "date": "2026-08-14"
-        }
-      ],
       "rank": 7
     },
     {
-      "keyword": "온유",
-      "traffic": "1000+",
-      "blogTotal": 136921,
-      "newsTotal": 83848,
-      "recentToday": 25,
-      "recentWeek": 100,
+      "keyword": "마도식",
+      "traffic": "200+",
+      "blogTotal": 80,
+      "newsTotal": 26,
+      "recentToday": 19,
+      "recentWeek": 19,
       "topBlogs": [
         {
-          "title": "[속초 맛집] 웨이팅 감수할수 있는 감성가득 키친온유 솔직 후기! 오....",
-          "link": "https://blog.naver.com/amk830201/224370413665",
-          "blogger": "안작가의 퇴근후 놀이터",
-          "date": "2026-08-06"
+          "title": "마도식 배우 별세 사망 근황 감초 악역 단골 프로필",
+          "link": "https://blog.naver.com/easy0517/224379392832",
+          "blogger": "새로운 시작",
+          "date": "2026-08-15"
         },
         {
-          "title": "종로5가 약국거리 보령약국·온유약국 가격 후기｜평일 대기시간·....",
-          "link": "https://blog.naver.com/skbldiary/224364867310",
-          "blogger": "Nothing matters that much",
-          "date": "2026-08-01"
+          "title": "마도식 별세 | 원로배우 마도식 프로필 나이 결혼 아내 자녀 우승보 ....",
+          "link": "https://blog.naver.com/ilovekangstar/224379369202",
+          "blogger": "뉴스스타⭐️",
+          "date": "2026-08-15"
         },
         {
-          "title": "웨딩뇽 11. 브라이덜온유 촬영 가봉 후기",
-          "link": "https://blog.naver.com/jelly_young/224314844423",
-          "blogger": "뇽뜨 뭐했게.zip",
-          "date": "2026-06-13"
+          "title": "영화 돌아이 마도식 별세, 향년 82세 역도 선수에서 영화배우로 걸어....",
+          "link": "https://blog.naver.com/qhrfks1004/224379381401",
+          "blogger": "♥라니의 달콤한세상이야기♥",
+          "date": "2026-08-15"
         },
         {
-          "title": "서울 중랑구 상봉역 감성카페 찻집온유 아직도 가오픈..?",
-          "link": "https://blog.naver.com/llleyj/224369968698",
-          "blogger": "말이야 염방구야!",
-          "date": "2026-08-06"
+          "title": "마도식 배우 별세, 그는 누구였나 (프로필)",
+          "link": "https://blog.naver.com/rozz0697/224379354793",
+          "blogger": "뉴투데이",
+          "date": "2026-08-15"
         },
         {
-          "title": "광주 평동 신상 카페 온유하우스",
-          "link": "https://blog.naver.com/harvestbin/224343492779",
-          "blogger": "Bin Archive, 빈의 기록저장소",
-          "date": "2026-07-11"
+          "title": "[일본/대마도] 대마도 히타카츠 맛집 인정! 일본 가정식 ‘마도’에....",
+          "link": "https://blog.naver.com/ksa0793/224353221063",
+          "blogger": "또힝의 즐거운 생활",
+          "date": "2026-07-21"
         }
       ],
       "topNews": [
         {
-          "title": "안판석 감독 별세 / 하영 증조부 친일 논란 / 엑디즈 건일 탈퇴 등 [주간...",
-          "link": "https://www.dailian.co.kr/news/view/1678863/?sc=Naver",
+          "title": "'악역 단골' 원로배우 마도식 별세…향년 82세",
+          "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=02417366645547648",
           "press": "",
           "date": "2026-08-15"
         },
         {
-          "title": "방탄소년단 지민, 보이그룹 개인 브랜드평판 1위 차지",
-          "link": "https://www.gpkorea.com/news/articleView.html?idxno=145697",
+          "title": "‘스크린 감초’ 원로 배우 마도식 별세…향년 82세",
+          "link": "https://www.mk.co.kr/article/12128734",
           "press": "",
           "date": "2026-08-15"
         },
         {
-          "title": "[365기도 ON] <227> 새 하늘과 새 땅 기다리며 앎을 삶으로 옮기게 하소...",
-          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000003249&cp=nv",
+          "title": "'감초 조연' 원로 배우 마도식, 14일 별세…향년 82세",
+          "link": "https://www.mt.co.kr/society/2026/08/15/2026081514252523552",
           "press": "",
-          "date": "2026-08-14"
+          "date": "2026-08-15"
         },
         {
-          "title": "\"용서받고 사랑하자\"",
-          "link": "http://www.pckworld.com/article.php?aid=11187195083",
+          "title": "영화 ‘돌아이’ 감초 역할…원로 배우 마도식, 82세 일기로 별세",
+          "link": "https://www.mk.co.kr/article/12128732",
           "press": "",
-          "date": "2026-08-14"
+          "date": "2026-08-15"
         },
         {
-          "title": "참기름·들기름 브랜드 온유가, ‘2026 한가위 명절선물전’ 참가",
-          "link": "http://www.segyebiz.com/newsView/20260814513869?OutUrl=naver",
+          "title": "원로배우 마도식 별세… 향년 82세",
+          "link": "https://www.hankookilbo.com/news/article/A2026081513450003644?did=NA",
           "press": "",
-          "date": "2026-08-14"
+          "date": "2026-08-15"
         }
       ],
       "rank": 8
     },
     {
-      "keyword": "티웨이항공",
-      "traffic": "500+",
-      "blogTotal": 74967,
-      "newsTotal": 124311,
-      "recentToday": 14,
-      "recentWeek": 100,
+      "keyword": "플로레스 섬",
+      "traffic": "2000+",
+      "blogTotal": 979,
+      "newsTotal": 1218,
+      "recentToday": 15,
+      "recentWeek": 20,
       "topBlogs": [
         {
-          "title": "티웨이항공 비즈니스석 후기 (B777-300)",
-          "link": "https://blog.naver.com/ouljida/224325828002",
-          "blogger": "ul blog",
-          "date": "2026-06-24"
+          "title": "인도네시아 누사텡가라는 어디? 롬복·코모도·플로레스 섬 지역 한....",
+          "link": "https://blog.naver.com/hi_compar/224372825299",
+          "blogger": "클e 푸른 노트",
+          "date": "2026-08-10"
         },
         {
-          "title": "인천 싱가포르 항공권 비행시간 티웨이항공 예약 쿠폰 좌석 후기",
-          "link": "https://blog.naver.com/eubib_/224323351898",
-          "blogger": "어짜피 떠나는 여행",
-          "date": "2026-06-22"
+          "title": "인도네시아 플로레스섬 입벌어지는 핑크빛 바다, 실물 대박 핑크비....",
+          "link": "https://blog.naver.com/jangbogocorn/224364925651",
+          "blogger": "봄봄의 일상 연구소•+",
+          "date": "2026-08-01"
         },
         {
-          "title": "[이탈리아] 로마 → 인천 티웨이항공 TW406 직항 좌석, 기내식 탑승 후....",
-          "link": "https://blog.naver.com/topgptn/224362959562",
-          "blogger": "☾✩⡱",
-          "date": "2026-07-31"
+          "title": "인도네시아 플로레스섬 강진 7.7 발생 속 쓰나미 괜찮을까",
+          "link": "https://blog.naver.com/feia1230/224379477332",
+          "blogger": "혀니패밀리",
+          "date": "2026-08-15"
         },
         {
-          "title": "인천 로마 티웨이항공 비즈니스 탑승 후기 TW405 B777-300ER, 기내식, 입....",
-          "link": "https://blog.naver.com/lg050601/224323075312",
-          "blogger": "Travel 익동",
-          "date": "2026-06-22"
+          "title": "인도네시아 속의 작은 유럽? 플로레스섬 라부안바조/월레스 선 서쪽....",
+          "link": "https://blog.naver.com/kgsw1340/224378290471",
+          "blogger": "매혹된 영혼",
+          "date": "2026-08-14"
         },
         {
-          "title": "티웨이항공 A330-300 이코노미석 좌석 후기｜보조배터리 규정·온라인....",
-          "link": "https://blog.naver.com/groundscape/224239134095",
-          "blogger": "유유's 하루하루",
-          "date": "2026-04-06"
+          "title": "인도네시아 플로레스섬 강진 M7.7, 라부안바조·롬복 관광객도 대피....",
+          "link": "https://blog.naver.com/dalsunlm1/224379405955",
+          "blogger": "배당만이 살길",
+          "date": "2026-08-15"
         }
       ],
       "topNews": [
         {
-          "title": "티웨이항공, ‘이달의 결제 할인’ 진행…최대 7만원 혜택",
-          "link": "https://wemakenews.co.kr/news/view.php?no=26044",
+          "title": "‘7.7 강진’ 인니 플로레스섬 최소 20명 사망…쓰나미 경보는 해제",
+          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000003304&cp=nv",
           "press": "",
           "date": "2026-08-15"
         },
         {
-          "title": "통합 대한항공·진에어 사이 낀 트리니티항공…SSC로 틈새 공략",
-          "link": "https://economist.co.kr/article/view/ecn202608120046",
+          "title": "'7.7 강진' 인도네시아 플로레스섬에서 최소 20명 사망",
+          "link": "https://www.dailian.co.kr/news/view/1678868/?sc=Naver",
           "press": "",
           "date": "2026-08-15"
         },
         {
-          "title": "‘주 3회’ 늘어난 프라하 노선…대한항공 증편? LCC 신규 진입?",
-          "link": "http://www.inews24.com/view/1993956",
+          "title": "인니 플로레스섬, 7.7 규모 '강진'…인명 피해 확인 계속",
+          "link": "https://news.tf.co.kr/read/world/2354610.htm",
           "press": "",
           "date": "2026-08-15"
         },
         {
-          "title": "\"광복절 연휴 만석\"…성수기 특수 잡는 항공업계, 하늘길 넓힌다",
-          "link": "https://www.ajunews.com/view/20260814132132187",
+          "title": "인도네시아 플로레스섬에서 7.7 강진으로 20명 사망",
+          "link": "https://www.chosun.com/international/international_general/2026/08/15/632H3QPAQZCRLP36UYKW6VWLNM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
           "press": "",
-          "date": "2026-08-14"
+          "date": "2026-08-15"
         },
         {
-          "title": "티웨이항공, 싱가포르 센토사 제휴…어트랙션 1곳 무료",
-          "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=07954006645547320",
+          "title": "인도네시아 플로레스섬 규모 7.7 강진…최소 20명 사망",
+          "link": "http://www.fnnews.com/news/202608151444044472",
           "press": "",
-          "date": "2026-08-14"
+          "date": "2026-08-15"
         }
       ],
       "rank": 9
