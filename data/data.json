@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-16T18:23:41.967Z",
+  "updatedAt": "2026-08-16T18:55:37.794Z",
   "source": "live",
   "keywords": [
     {
       "keyword": "삼전 닉스",
       "traffic": "2000+",
-      "blogTotal": 29742,
+      "blogTotal": 29743,
       "newsTotal": 16811,
-      "recentToday": 89,
+      "recentToday": 88,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -76,83 +76,10 @@
       "rank": 1
     },
     {
-      "keyword": "맷 데이먼",
-      "traffic": "500+",
-      "blogTotal": 25680,
-      "newsTotal": 21576,
-      "recentToday": 86,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "2026 영화 ‘오디세이’ 맷 데이먼의 러브스토리 :마이애미 바텐더와....",
-          "link": "https://blog.naver.com/brightsh27/224372166441",
-          "blogger": "In My Ordinary ෆ",
-          "date": "2026-08-08"
-        },
-        {
-          "title": "오디세이 맷 데이먼, 아내·두 딸과 세 여신 비주얼 한국 방문",
-          "link": "https://blog.naver.com/wgat5900/224368437366",
-          "blogger": "아반 마케팅",
-          "date": "2026-08-05"
-        },
-        {
-          "title": "오디세이 맷데이먼 리즈시절",
-          "link": "https://blog.naver.com/jangsooduk/224373504530",
-          "blogger": "세상이 궁금한 연예 조사원",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "루치아나바로소 맷데이먼 영화 함께.. 와이프 가족 사랑 이야기",
-          "link": "https://blog.naver.com/yazeyazasu/224372318260",
-          "blogger": "화장품, 그리고 사람 이야기",
-          "date": "2026-08-08"
-        },
-        {
-          "title": "맷데이먼 아내 루치아나 바로소 누구? 인스타 바텐더 직업 러브스토....",
-          "link": "https://blog.naver.com/tlswpgus987/224369592153",
-          "blogger": "국내 블로거",
-          "date": "2026-08-06"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "영화 '오디세이', 개봉 12일 만 400만 관객 돌파…극장별 특전-쿠키 유무...",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16164750",
-          "press": "",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "트로이 전쟁부터 이타카 귀향까지…알고 보면 더 쉬운 ‘오디세이’",
-          "link": "https://www.kbmaeil.com/article/20260816500177",
-          "press": "",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "'스파이더맨4' 700만·'오디세이' 400만… 여름 극장가 흥행 경쟁",
-          "link": "https://www.newscj.com/news/articleView.html?idxno=3425572",
-          "press": "",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "‘스파이더맨 4’ 올해 최단 700만 고지…‘오디세이’ 400만 추격",
-          "link": "https://biz.heraldcorp.com/article/10842765?ref=naver",
-          "press": "",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "‘오디세이’, 개봉 12일째 400만 돌파..크리스토퍼 놀란 시네마틱 블록...",
-          "link": "http://www.breaknews.com/1229312",
-          "press": "",
-          "date": "2026-08-16"
-        }
-      ],
-      "rank": 2
-    },
-    {
       "keyword": "프리미어리그",
       "traffic": "200+",
-      "blogTotal": 249617,
-      "newsTotal": 926652,
+      "blogTotal": 249618,
+      "newsTotal": 926653,
       "recentToday": 82,
       "recentWeek": 100,
       "topBlogs": [
@@ -175,19 +102,25 @@
           "date": "2026-07-05"
         },
         {
-          "title": "펩이 떠난 자리 2026/27시즌 프리미어리그 최고 연봉 감독은 과연 누....",
-          "link": "https://blog.naver.com/ssuggest/224374958792",
-          "blogger": "영군의 즐거운 세상",
-          "date": "2026-08-11"
-        },
-        {
           "title": "\"홀란은 일주일 일하면 11억 번다\" 2026년 최신 프리미어리그(PL) 초호....",
           "link": "https://blog.naver.com/certified07/224316113214",
           "blogger": "스페셜리스트",
           "date": "2026-06-15"
+        },
+        {
+          "title": "펩이 떠난 자리 2026/27시즌 프리미어리그 최고 연봉 감독은 과연 누....",
+          "link": "https://blog.naver.com/ssuggest/224374958792",
+          "blogger": "영군의 즐거운 세상",
+          "date": "2026-08-11"
         }
       ],
       "topNews": [
+        {
+          "title": "'튀르키예행 거절' 마르티넬리, 커뮤니티실드 명단 제외...나폴리가 영입...",
+          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96481",
+          "press": "",
+          "date": "2026-08-16"
+        },
         {
           "title": "맨유 '중원 사령관' 꿈꾸는 마이누, 완벽한 멘토 만났다...틸레만스 \"내...",
           "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=692646",
@@ -211,22 +144,16 @@
           "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=692642",
           "press": "",
           "date": "2026-08-16"
-        },
-        {
-          "title": "\"EPL서 韓 지고 日 뜬다\"... 英 가디언이 진단한 21년 만의 '코리안 0명'",
-          "link": "https://isplus.com/article/view/isp202608160047",
-          "press": "",
-          "date": "2026-08-16"
         }
       ],
-      "rank": 3
+      "rank": 2
     },
     {
       "keyword": "바르셀로나",
       "traffic": "200+",
       "blogTotal": 474082,
       "newsTotal": 607687,
-      "recentToday": 75,
+      "recentToday": 71,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -292,14 +219,14 @@
           "date": "2026-08-16"
         }
       ],
-      "rank": 4
+      "rank": 3
     },
     {
       "keyword": "기소",
       "traffic": "1000+",
-      "blogTotal": 431968,
-      "newsTotal": 3439398,
-      "recentToday": 61,
+      "blogTotal": 431972,
+      "newsTotal": 3439399,
+      "recentToday": 57,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -335,6 +262,12 @@
       ],
       "topNews": [
         {
+          "title": "<와글와글NET세상> 외래 동물들의 출몰 설왕설래",
+          "link": "https://www.ilyosisa.co.kr/news/article.html?no=257382",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
           "title": "“AI로 만든 소송자료, 변호인·의뢰인 간 비밀유지 적용 안돼”",
           "link": "https://www.chosun.com/economy/tech_it/2026/08/17/KLMERY5JAVCVZI3IXUE3WSS7SY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
           "press": "",
@@ -357,10 +290,77 @@
           "link": "https://www.joongang.co.kr/article/25453793",
           "press": "",
           "date": "2026-08-16"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "keyword": "무한도전",
+      "traffic": "200+",
+      "blogTotal": 241286,
+      "newsTotal": 425333,
+      "recentToday": 30,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "[2026 무한도전 Run in 경주] 변경된 예매 일정부터 멤버 라인업, 의상 ....",
+          "link": "https://blog.naver.com/sisihi2311/224360688965",
+          "blogger": "소소한 일상 기록♡",
+          "date": "2026-07-28"
         },
         {
-          "title": "[사설] 검찰 미래위, 대통령 사건만 조사… 공소취소가 ‘미래’인가",
-          "link": "https://www.hankookilbo.com/news/article/A2026081613510001121?did=NA",
+          "title": "2026년 서울 '무한도전 RUN' 레이스백 언박싱, 마라톤 10km 완주후기",
+          "link": "https://blog.naver.com/aleesola/224310549845",
+          "blogger": "솔찌로그",
+          "date": "2026-06-09"
+        },
+        {
+          "title": "2026 무한도전런 in 경주 확정 대회일정 참가신청 총정리",
+          "link": "https://blog.naver.com/gwyon/224349329635",
+          "blogger": "내 마음대로 하는 블로그",
+          "date": "2026-07-17"
+        },
+        {
+          "title": "무한도전 레전드 에피소드 추천 2탄｜다시 봐도 웃긴 명작 특집",
+          "link": "https://blog.naver.com/prince8881/224370964347",
+          "blogger": "수지님의 블로그",
+          "date": "2026-08-12"
+        },
+        {
+          "title": "2026 하반기 무한도전 RUN in 경주 일정 | 코스 | 꿀팁",
+          "link": "https://blog.naver.com/howto1ove/224352453828",
+          "blogger": "다이어트&러닝 라이프 | 77 CLOVER",
+          "date": "2026-07-20"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "'무한도전' 재결합 실제로 추진됐는데…김태호 PD \"10부작 준비, 아쉽게...",
+          "link": "https://www.tenasia.co.kr/article/2026081643124",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "“먼저 고백한 로맨틱남”…맹승지, ♥의사 남친=연하남이었다",
+          "link": "https://www.mk.co.kr/article/12129117",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "“박명수에 외모로 져” 김태호 PD·박명수·정준하·하하 ‘팀 무도’...",
+          "link": "https://sports.khan.co.kr/article/202608161726003?pt=nv",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "맹승지, 연하의 의사 남친과 커플 챌린지 공개 “먼저 고백, 사과는 남...",
+          "link": "https://sports.khan.co.kr/article/202608161645003?pt=nv",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "​‘층간 소음 논란’ 김빈우, ♥남편 아이들보다 먼저 떠났다 “생각 ...",
+          "link": "https://www.newsen.com/news_view.php?uid=202608161613092310",
           "press": "",
           "date": "2026-08-16"
         }
@@ -370,8 +370,8 @@
     {
       "keyword": "레알마드리드",
       "traffic": "200+",
-      "blogTotal": 117653,
-      "newsTotal": 364662,
+      "blogTotal": 117654,
+      "newsTotal": 364663,
       "recentToday": 26,
       "recentWeek": 100,
       "topBlogs": [
@@ -408,6 +408,12 @@
       ],
       "topNews": [
         {
+          "title": "'GOAT' 호날두, 충격 은퇴 시사...\"올해가 아마 마지막\" 전격 고백! 25년...",
+          "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553462634",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
           "title": "'전세계 충격' 크리스티아누 호날두 은퇴한다...\"이번 시즌이 마지막 될...",
           "link": "https://m.sports.naver.com/wfootball/article/216/0000142229",
           "press": "",
@@ -428,12 +434,6 @@
         {
           "title": "비니시우스 그 비싼 친구 뭐하러 사? 촐리스, 공식 데뷔전에서 2도움 대...",
           "link": "http://www.footballist.co.kr/news/articleView.html?idxno=213663",
-          "press": "",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "\"다른 해결책 찾아라\" 엔리케 감독, 바르콜라 이적 가능성 언급...리버풀...",
-          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96474",
           "press": "",
           "date": "2026-08-16"
         }
@@ -695,13 +695,13 @@
         },
         {
           "title": "GERMANY SOCCER",
-          "link": "https://n.news.naver.com/mnews/article/091/0010284154?sid=104",
+          "link": "https://n.news.naver.com/mnews/article/091/0010284152?sid=104",
           "press": "",
           "date": "2026-08-16"
         },
         {
           "title": "GERMANY SOCCER",
-          "link": "https://n.news.naver.com/mnews/article/091/0010284152?sid=104",
+          "link": "https://n.news.naver.com/mnews/article/091/0010284155?sid=104",
           "press": "",
           "date": "2026-08-16"
         }
