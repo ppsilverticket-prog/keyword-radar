@@ -1,12 +1,85 @@
 {
-  "updatedAt": "2026-08-16T09:26:40.092Z",
+  "updatedAt": "2026-08-16T09:51:21.792Z",
   "source": "live",
   "keywords": [
     {
+      "keyword": "lg 트윈스",
+      "traffic": "500+",
+      "blogTotal": 123738,
+      "newsTotal": 1123920,
+      "recentToday": 100,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "LG트윈스 태닝 헬로키티 2차 오프라인 팝업 후기｜잠실학생체육관 ....",
+          "link": "https://blog.naver.com/poisdesenteur/224371914800",
+          "blogger": "sage note ryanne",
+          "date": "2026-08-08"
+        },
+        {
+          "title": "문정빈 야구선수 프로필 LG 트윈스 신예 거포 나이 키 연봉 성적 총....",
+          "link": "https://blog.naver.com/echo90/224341821706",
+          "blogger": "동화같은 삶~!",
+          "date": "2026-07-09"
+        },
+        {
+          "title": "LG트윈스 키티 굿즈 후기｜캐릭터 레터링 볼캡·도트 짐쌕 실물",
+          "link": "https://blog.naver.com/lovely_pinkkko/224372502716",
+          "blogger": "러블리 핑꼬의 소소한하루",
+          "date": "2026-08-09"
+        },
+        {
+          "title": "엘지트윈스 굿즈 가방 2026 성인 연간회원직관백 후기",
+          "link": "https://blog.naver.com/sol5420/224287205469",
+          "blogger": "기록하는 일기장",
+          "date": "2026-05-16"
+        },
+        {
+          "title": "[LG 트윈스] ‘잠실의 코어 유망주’ 이영빈, 플레이 스타일과 성장 ....",
+          "link": "https://blog.naver.com/loc84/224344377843",
+          "blogger": "『랜선위의 고물상』",
+          "date": "2026-07-12"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "'마드리스 고별전, 에레디아 21일 복귀' SSG 외국인 타자 교체...해치는...",
+          "link": "http://www.maniareport.com/view.php?ud=2026081618405718956cf2d78c68_19",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "홍창기는 선발 복귀, 왜 문보경은 2G 연속 빠졌을까…염경엽 “밤 12시까...",
+          "link": "http://www.osen.co.kr/article/G1112858446",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "'좌타자만 8명+아빌라 출격' SSG 승부수…4년 만의 LG전 위닝 도전→이숭...",
+          "link": "https://www.xportsnews.com/article/2184398",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "\"특유의 강한 기·승부욕 가진 열혈남아\" 日프로야구 전설 장훈, 故 백인...",
+          "link": "http://www.fnnews.com/news/202608161840016088",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "‘이럴거면 왜 KBO 이적 막았나’ 디트로이트, 트로이 왓슨 DFA→시애틀...",
+          "link": "http://www.osen.co.kr/article/G1112858421",
+          "press": "",
+          "date": "2026-08-16"
+        }
+      ],
+      "rank": 1
+    },
+    {
       "keyword": "숲",
       "traffic": "1000+",
-      "blogTotal": 3282153,
-      "newsTotal": 1861147,
+      "blogTotal": 3282180,
+      "newsTotal": 1861150,
       "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
@@ -43,6 +116,24 @@
       ],
       "topNews": [
         {
+          "title": "서교림, '동갑내기 라이벌' 김민솔 저지하고 시즌 3승…\"4승은 내가 먼저...",
+          "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=01695766645547976",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "서울시 ‘종량제 다이어트’ 헛바퀴… 범인은 상가·오피스",
+          "link": "http://www.fnnews.com/news/202608161835370260",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "가뭄 속 내린 단비… 경남·제주는 호우주의보",
+          "link": "http://www.fnnews.com/news/202608161835495591",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
           "title": "다대포선셋영화축제 폐막… 서부산권 대표 축제 가능성 봤다",
           "link": "https://www.busan.com/view/busan/view.php?code=2026081618203792269",
           "press": "",
@@ -53,33 +144,15 @@
           "link": "http://www.maniareport.com/view.php?ud=2026081615525923016cf2d78c68_19",
           "press": "",
           "date": "2026-08-16"
-        },
-        {
-          "title": "공효진 \"'유부녀 킬러' 준비하며 킥복싱 배워...액션 연기는 제게 큰 도...",
-          "link": "https://www.tvreport.co.kr/breaking/article/1069106/",
-          "press": "",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "\"4승은 내가 먼저 하고 싶어\"..서교림, 김민솔 꺾고 시즌 3승·대상 1위 ...",
-          "link": "https://mhnse.com/news/articleView.html?idxno=1492148",
-          "press": "",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "“여행할 맛 나네” 뚜렷한 색깔을 가진 여행지 센다이",
-          "link": "https://www.mk.co.kr/article/12129013",
-          "press": "",
-          "date": "2026-08-16"
         }
       ],
-      "rank": 1
+      "rank": 2
     },
     {
       "keyword": "항공사",
-      "traffic": "100+",
-      "blogTotal": 335080,
-      "newsTotal": 768924,
+      "traffic": "200+",
+      "blogTotal": 335079,
+      "newsTotal": 768926,
       "recentToday": 86,
       "recentWeek": 100,
       "topBlogs": [
@@ -116,6 +189,18 @@
       ],
       "topNews": [
         {
+          "title": "류이서 \"퇴사 후에도 휴지 삼각으로 접어\"… 승무원 직업병 고백",
+          "link": "https://www.newscj.com/news/articleView.html?idxno=3425582",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "대한항공 \"통합되면 노선·시간대 확 는다\"",
+          "link": "http://www.fnnews.com/news/202608161825462958",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
           "title": "“대한항공·아시아나 통합 후 새 노선·시간대 운항 늘 것”",
           "link": "https://www.busan.com/view/busan/view.php?code=2026081618144637767",
           "press": "",
@@ -132,101 +217,162 @@
           "link": "https://www.news2day.co.kr/article/20260816500057",
           "press": "",
           "date": "2026-08-16"
-        },
-        {
-          "title": "여객기 91m 급강하했는데…조종사에게서 '대마초' 나왔다",
-          "link": "https://view.asiae.co.kr/article/2026081616531060988",
-          "press": "",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "통합 대한항공, 시간대·신규 노선 늘어난다",
-          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000003441&cp=nv",
-          "press": "",
-          "date": "2026-08-16"
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "keyword": "레드벨벳",
-      "traffic": "200+",
-      "blogTotal": 171128,
-      "newsTotal": 416897,
-      "recentToday": 67,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "웬디 골반뽕 엉뽕 ! 데뷔초 뼈말라 엉덩이 필러 시술 수술 레드벨벳 ....",
-          "link": "https://blog.naver.com/alodia22/224371846791",
-          "blogger": "알로디아의 사생활",
-          "date": "2026-08-08"
-        },
-        {
-          "title": "레드벨벳 서핑보이 해석 및 남주 인스타♂️",
-          "link": "https://blog.naver.com/jangsooduk/224371358230",
-          "blogger": "세상이 궁금한 연예 조사원",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "레드벨벳 조이 '뼈말라 슬렌더' 몸매 화제! 나혼산 혈당 다이어트 식....",
-          "link": "https://blog.naver.com/leeslgift/224371150219",
-          "blogger": "꾸안꾸의 건강 라이프",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "레드벨벳 뜻과 서핀 보이 곡정보, 왜 이번엔 벨벳 서머일까",
-          "link": "https://blog.naver.com/sarahkimjh123/224365261141",
-          "blogger": "유니언국제학교 사라쌤 이야기",
-          "date": "2026-08-02"
-        },
-        {
-          "title": "레드벨벳 슬기 인스타 레드 스커트 코디, 제품 정보",
-          "link": "https://blog.naver.com/ekd_dl/224368707429",
-          "blogger": "This is my fav",
-          "date": "2026-08-05"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "순백 드레스 입은 '무쌍 여신' 레드벨벳 슬기, 독보적 우아함 [N샷]",
-          "link": "https://www.news1.kr/entertain/celebrity-topic/6260607",
-          "press": "",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "아이린이 먹은 ‘술+두리안’…해외팬들 “매우 위험” 경고한 이유 [라...",
-          "link": "https://www.seoul.co.kr/news/life/2026/08/16/20260816500065?wlog_tag3=naver",
-          "press": "",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "슬기, 화이트 드레스 근황 공개…레드벨벳 컴백 준비 속 빛나는 비주얼",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16164828",
-          "press": "",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "슬기, 'Velvet Summer' 무대 앞 화려 비주얼로 근황 전했다",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16164824",
-          "press": "",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "“아이린, 술 마시며 이걸?”… 만취 영상 본 해외 팬들 ‘기겁’",
-          "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=01535046645547976",
-          "press": "",
-          "date": "2026-08-16"
         }
       ],
       "rank": 3
     },
     {
+      "keyword": "정규직",
+      "traffic": "200+",
+      "blogTotal": 206004,
+      "newsTotal": 646961,
+      "recentToday": 44,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "정규직전환지원금, 계약직이 6개월 일한 뒤 정규직이 되면 근로자도....",
+          "link": "https://blog.naver.com/hwre7774/224370979155",
+          "blogger": "워누공간의 블로그",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "현대자동차 촉탁이 뭐길래 계속 검색할까, 정규직·협력사와 다른 ....",
+          "link": "https://blog.naver.com/rlawodnjs2622/224372395368",
+          "blogger": "파계승 김토토",
+          "date": "2026-08-08"
+        },
+        {
+          "title": "도둑놈 추격전과 정규직 전환",
+          "link": "https://blog.naver.com/pebbledol/224366109902",
+          "blogger": "버드로그",
+          "date": "2026-08-03"
+        },
+        {
+          "title": "\"정규직 왜 뽑아?\" 2년마다 사직서 쓰는 계약직 현실",
+          "link": "https://blog.naver.com/coseesee11/224327388120",
+          "blogger": "합격통계소",
+          "date": "2026-06-25"
+        },
+        {
+          "title": "계약직 2년, 정규직으로 전환될까? ㅣ 꼭 알아야 할 기준",
+          "link": "https://blog.naver.com/win3225/224369509361",
+          "blogger": "노무법인윈(Win)공식블로그",
+          "date": "2026-08-07"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "같은 노동, 다른 대우…청와대로 행진한 이주노동자들 “차별 멈춰라”",
+          "link": "https://www.hani.co.kr/arti/society/labor/1273154.html",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "국민 돈 없고, 정부 세수는 반토막... '조용한 파산' 향하는 이란",
+          "link": "https://www.hankookilbo.com/news/article/A2026081611100002504?did=NA",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "\"평생 계약직 할 거냐\" 폭언…직장인 10명 중 8명 \"기간제 차별 존재\"",
+          "link": "http://www.yonhapnewstv.co.kr/news/AKR20260816170506tey",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "직장인 80% \"기간제 차별 존재\"…휴직 등 법적권리도 '제한'",
+          "link": "https://biz.sbs.co.kr/article_hub/20000329024?division=NAVER",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "MBK 손 닿은 오스템임플란트…1년 새 정규직 12% 줄었다",
+          "link": "https://www.busan.com/view/busan/view.php?code=2026081612431898739",
+          "press": "",
+          "date": "2026-08-16"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "keyword": "국제선",
+      "traffic": "200+",
+      "blogTotal": 107196,
+      "newsTotal": 339390,
+      "recentToday": 34,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "김해공항 국내선 식당 오픈시간 몇 시? 제주행 아침 비행기 타기 전 ....",
+          "link": "https://blog.naver.com/keingirl/224345883561",
+          "blogger": "딸램즈와 봄날",
+          "date": "2026-07-14"
+        },
+        {
+          "title": "김포공항 국내선 제2주차장 찐 주차후기 요금 위치",
+          "link": "https://blog.naver.com/changiisoop/224355141691",
+          "blogger": "햅희하게ᰔ",
+          "date": "2026-07-23"
+        },
+        {
+          "title": "김포공항 국내선 청사 내부 숨겨진 흡연실 위치",
+          "link": "https://blog.naver.com/writer340/224289907401",
+          "blogger": "Neuromancer",
+          "date": "2026-05-19"
+        },
+        {
+          "title": "김해공항 푸드코트 국제선 금액 자리 오픈시간 맛있는 메뉴 추천 아....",
+          "link": "https://blog.naver.com/vella87/224291763025",
+          "blogger": "so sweeeeeeet ::: 맛있는 날들",
+          "date": "2026-07-26"
+        },
+        {
+          "title": "부산 김해/ 김해공항 국제선 식당 추천/ 라면 맛집/ 라면바 후기",
+          "link": "https://blog.naver.com/limiart_/224352130212",
+          "blogger": "둘이서 한 입",
+          "date": "2026-07-20"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "\"유류할증료 오른다\"…여행업계 가격 경쟁",
+          "link": "https://www.hankyung.com/article/2026081641011",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "[항톡] 시속 900㎞ 여객기, 와이파이가 끊기지 않는 이유",
+          "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2459866",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "통합 대한항공 12월 출범⋯노선 재편ㆍ마일리지 통합이 관건",
+          "link": "https://www.etoday.co.kr/news/view/2615043",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "인천공항, 어떻게 '세계 1위' 날았나",
+          "link": "http://www.newswell.co.kr/news/articleView.html?idxno=21084",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "미분양 2909채 쌓이고 관광객 8만4000명 줄었다… 제주경제 '이중 한파'",
+          "link": "http://www.fnnews.com/news/202608160904071624",
+          "press": "",
+          "date": "2026-08-16"
+        }
+      ],
+      "rank": 5
+    },
+    {
       "keyword": "이상호",
-      "traffic": "100+",
-      "blogTotal": 29770,
+      "traffic": "200+",
+      "blogTotal": 29771,
       "newsTotal": 201511,
-      "recentToday": 26,
+      "recentToday": 27,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -280,235 +426,89 @@
           "date": "2026-08-16"
         },
         {
-          "title": "[오늘의 운세] (2026년 8월 17일 띠별 운세) 범띠, 봉사하라",
-          "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=86628",
-          "press": "",
-          "date": "2026-08-16"
-        },
-        {
           "title": "승리를 기원하는 뜨거운 함성…'T1 홈그라운드 서머 페스타' [덕지순례...",
           "link": "https://www.xportsnews.com/article/2184341",
           "press": "",
           "date": "2026-08-16"
-        }
-      ],
-      "rank": 4
-    },
-    {
-      "keyword": "크리스티아누 호날두",
-      "traffic": "5000+",
-      "blogTotal": 20699,
-      "newsTotal": 181518,
-      "recentToday": 19,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "크리스티아누 호날두와 조지나 로드리게스 결혼식에 대한 모든 것",
-          "link": "https://blog.naver.com/soccerbox82/224376686586",
-          "blogger": "축구 맛집 싸커박스",
-          "date": "2026-08-13"
         },
         {
-          "title": "하루에 5번 나눠서 잠을 잔다는 크리스티아누 호날두",
-          "link": "https://blog.naver.com/mistermy18/224317027995",
-          "blogger": "H2의 스포츠와 여행",
-          "date": "2026-06-16"
-        },
-        {
-          "title": "크리스티아누 호날두·조지나, 다음 주 결혼설…고향 마데이라서 10....",
-          "link": "https://blog.naver.com/gkgkmp11/224365809527",
-          "blogger": "오늘의 이슈캐치",
-          "date": "2026-08-02"
-        },
-        {
-          "title": "43억 원 차고 크리스티아누 호날두가 소유한 자동차 이야기",
-          "link": "https://blog.naver.com/boxriot1/224346444667",
-          "blogger": "라스카도르 (Rascador)",
-          "date": "2026-07-22"
-        },
-        {
-          "title": "<Who? special 크리스티아누 호날두> Who시리즈 신간 추천",
-          "link": "https://blog.naver.com/baby_junhak/224370850952",
-          "blogger": "MY 튼튼브로",
-          "date": "2026-08-07"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "“헤어져도 1조7022억원 재산 안 나눈다”…호날두·조지나가 택한 ‘재...",
-          "link": "https://www.mk.co.kr/article/12129115",
+          "title": "[오늘의 운세] (2026년 8월 17일 띠별 운세) 범띠, 봉사하라",
+          "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=86628",
           "press": "",
           "date": "2026-08-16"
-        },
-        {
-          "title": "[오피셜] 그야말로 '미친 인생 역전' 난민 캠프→ 월드컵 스타→ '1,313억...",
-          "link": "https://www.besteleven.com/news/articleView.html?idxno=311237",
-          "press": "",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "10년 만에 결혼한 호날두♥조지나, 이혼 시 '재산분할' 관련한 '비밀 계...",
-          "link": "https://www.insight.co.kr/news/568511",
-          "press": "",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "호날두 없이 사우디 데뷔전 3-0 완승… '여유만만' 포스테코글루 감독,...",
-          "link": "https://www.besteleven.com/news/articleView.html?idxno=311232",
-          "press": "",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "“호날두 이혼해도 ‘1.7조원’ 재산분할은 없다”…혼전계약서 유출 [...",
-          "link": "https://www.seoul.co.kr/news/international/2026/08/16/20260816500031?wlog_tag3=naver",
-          "press": "",
-          "date": "2026-08-16"
-        }
-      ],
-      "rank": 5
-    },
-    {
-      "keyword": "elle",
-      "traffic": "2000+",
-      "blogTotal": 55122,
-      "newsTotal": 32381,
-      "recentToday": 15,
-      "recentWeek": 93,
-      "topBlogs": [
-        {
-          "title": "'금발이 너무해' 프리퀄 엘(ELLE)에 대한 줄거리 및 모든 정보",
-          "link": "https://blog.naver.com/nadiatear0/224331753839",
-          "blogger": "☆*:.My Sweet Haven.:*☆",
-          "date": "2026-06-30"
-        },
-        {
-          "title": "[임장 카페 투어] 영도 '비엘르(B.elle)'에서 커피 한 잔하며 짚어보는 ....",
-          "link": "https://blog.naver.com/skatkdal3245/224348443745",
-          "blogger": "victory love family",
-          "date": "2026-07-16"
-        },
-        {
-          "title": "Elle Coves - Peace",
-          "link": "https://blog.naver.com/la_echo_/224367088536",
-          "blogger": "솔놀이",
-          "date": "2026-08-03"
-        },
-        {
-          "title": "엘(Elle) 시즌1 미국 하이틴 로맨스 코믹 드라마 예고편 & 스틸 사진(....",
-          "link": "https://blog.naver.com/felice_min/224329516567",
-          "blogger": "라나월드 블로그",
-          "date": "2026-06-28"
-        },
-        {
-          "title": "금발이 너무해 프리퀼 드라마 엘(Elle) 배우 방영일정 OTT",
-          "link": "https://blog.naver.com/cello4488/224289151016",
-          "blogger": "핑크 하이틴 블랙 뮤비",
-          "date": "2026-05-21"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "92명→37명, 큐마켓→B2B SaaS…애즈위메이크가 꺼낸 정상화 카드",
-          "link": "https://www.venturesquare.net/1106403/",
-          "press": "",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "해외 진단 매출 69% 차지…쓰리빌리언이 영업손실률을 31%포인트 낮췄다",
-          "link": "https://www.venturesquare.net/1106382/",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "스트리밍 음원을 소장형 IP로…뮤직카우가 지효X센시아 협업곡을 실물 ...",
-          "link": "https://www.venturesquare.net/1106377/",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "에스파 카리나 화보, 독보적 여신 미모..“강하다는 말 좋아“",
-          "link": "http://www.breaknews.com/1229267",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "BTS 진, 프레드 앰버서더 화보 비하인드…세계 실시간 트렌드 장악",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16164181",
-          "press": "",
-          "date": "2026-08-14"
         }
       ],
       "rank": 6
     },
     {
-      "keyword": "남보라",
-      "traffic": "2000+",
-      "blogTotal": 16658,
-      "newsTotal": 55021,
-      "recentToday": 13,
-      "recentWeek": 57,
+      "keyword": "빅터 레이예스",
+      "traffic": "100+",
+      "blogTotal": 641,
+      "newsTotal": 11190,
+      "recentToday": 10,
+      "recentWeek": 38,
       "topBlogs": [
         {
-          "title": "“13남매 장녀가 엄마 됐다” 남보라 누구와 결혼했나…득남 후 현....",
-          "link": "https://blog.naver.com/gunn257/224373124793",
-          "blogger": "연예부기자",
-          "date": "2026-08-09"
+          "title": "NC 임지민 안면 강타 부상｜레이예스 178.7km 타구 사고와 현재 상태",
+          "link": "https://blog.naver.com/ssbfkorea/224380034243",
+          "blogger": "스피드쌍절봉",
+          "date": "2026-08-16"
         },
         {
-          "title": "남보라 아기 벌써 이렇게 컸어? 13남매 장녀에서 콩알이 엄마로",
-          "link": "https://blog.naver.com/yacho1225/224367708285",
-          "blogger": "오늘의 시선",
-          "date": "2026-08-04"
+          "title": "\"이 선수를 왜 바꿔?\" 롯데 레이예스 재계약 논란, 올해 성적이 답을 ....",
+          "link": "https://blog.naver.com/doong_onni/224374213041",
+          "blogger": "둥언니",
+          "date": "2026-08-10"
         },
         {
-          "title": "초호화 산후조리원 사용하는 남보라 응급 제왕절개, 양수 부족이 정....",
-          "link": "https://blog.naver.com/manggoo4921/224330576843",
-          "blogger": "건강하게 희망하게",
-          "date": "2026-06-29"
+          "title": "\"큰일 날 뻔했다\" 롯데 레이예스가 보여주는 꾸준함과 놀라운 대기....",
+          "link": "https://blog.naver.com/jjccm0316/224341014312",
+          "blogger": "스포러브",
+          "date": "2026-07-09"
         },
         {
-          "title": "남보라 아들 사진에 댓글 2만 개? \"안 태어났으면 어쩔 뻔\" 이 열 글....",
-          "link": "https://blog.naver.com/sjw04093/224366900537",
-          "blogger": "오늘님의 블로그",
-          "date": "2026-08-03"
+          "title": "타격왕 보인다! 롯데 레이예스, 1리 차 선두…시즌 막판까지 지킬까!....",
+          "link": "https://blog.naver.com/puri119/224375336728",
+          "blogger": "☆.양군의 일상생활.☆",
+          "date": "2026-08-11"
         },
         {
-          "title": "남보라, 응급 제왕절개 출산 양수가 없었다? 눈물 쏟은 진짜 이유",
-          "link": "https://blog.naver.com/dydghks3250/224318399438",
-          "blogger": "❤️ ✅kGn뉴스 ✅❤️",
-          "date": "2026-06-17"
+          "title": "롯데의 안타 제조기, 빅터 레이예스 집중 탐구 | KBO의 역사를 새로 ....",
+          "link": "https://blog.naver.com/jarajaja/224229835074",
+          "blogger": "별구름네 다락방",
+          "date": "2026-03-26"
         }
       ],
       "topNews": [
         {
-          "title": "“벌써 완성형 이목구비” 남보라, 똑 닮은 아들 품에 안고 훈훈한 근황...",
-          "link": "https://sports.khan.co.kr/article/202608161653013?pt=nv",
+          "title": "롯데 뒷문 불안·수비 난조…NC와 '낙동강 더비' 1승 1패",
+          "link": "https://www.busan.com/view/busan/view.php?code=2026081615522016485",
           "press": "",
           "date": "2026-08-16"
         },
         {
-          "title": "'아들맘' 남보라, 육아맘의 반전 일상 공개했다…육아 근황 보니",
-          "link": "https://www.tenasia.co.kr/article/2026081639554",
+          "title": "얼굴에 타구 맞은 NC 임지민…\"이번주 초 수술\"",
+          "link": "http://www.yonhapnewstv.co.kr/news/MYH20260816090409d3V",
           "press": "",
           "date": "2026-08-16"
         },
         {
-          "title": "남보라, 붕어빵 아들 공개 \"남자애라 목 잘 가눠, 발차기 뻥뻥\" [MHN:피드...",
-          "link": "https://mhnse.com/news/articleView.html?idxno=1491830",
+          "title": "레이예스-구자욱 2파전이라고? KIA 요술 방망이 운다, 극적 역전 레이스...",
+          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1002099",
           "press": "",
-          "date": "2026-08-16"
+          "date": "2026-08-15"
         },
         {
-          "title": "‘손흥민 닮은꼴♥’ 남보라, 붕어빵 아들 자랑 “남자애라 목 잘 가누...",
-          "link": "https://www.newsen.com/news_view.php?uid=202608161115580310",
+          "title": "'FA 때 얼마를 줘야하나?' 타율 0.357 구자욱, 우승+대박 꿈 무르익는다...",
+          "link": "https://www.xportsnews.com/article/2184315",
           "press": "",
-          "date": "2026-08-16"
+          "date": "2026-08-15"
         },
         {
-          "title": "남보라가 남보라를 낳았네..붕어빵 아들과 행복한 육아 일상",
-          "link": "https://www.sportschosun.com/entertainment/2026-08-16/202608160100092400005865",
+          "title": "구자욱 120억 계약 끝이 보이는데…타격 1위 역전 드라마, 도대체 이 선...",
+          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1002092",
           "press": "",
-          "date": "2026-08-16"
+          "date": "2026-08-15"
         }
       ],
       "rank": 7
@@ -587,8 +587,81 @@
       "rank": 8
     },
     {
+      "keyword": "qqqi",
+      "traffic": "200+",
+      "blogTotal": 2201,
+      "newsTotal": 27,
+      "recentToday": 5,
+      "recentWeek": 70,
+      "topBlogs": [
+        {
+          "title": "QQQI 주가 배당금 분배금 지급일 2026년 1억원 투자했다면?",
+          "link": "https://blog.naver.com/jjw12181/224363388009",
+          "blogger": "은행원 쫄보 파이어 이야기",
+          "date": "2026-07-31"
+        },
+        {
+          "title": "QQQI ETF 추천 배당금 미국 월배당 ETF 장단점 총정리",
+          "link": "https://blog.naver.com/rkd921026/224350503194",
+          "blogger": "깡냥의 재테크 이야기",
+          "date": "2026-07-26"
+        },
+        {
+          "title": "\"1억 넣고 월 106만원\" QQQI ETF 나스닥100 월배당 커버드콜 정리.",
+          "link": "https://blog.naver.com/gjwlh/224338141421",
+          "blogger": "한대디의 미국주식 이야기",
+          "date": "2026-07-06"
+        },
+        {
+          "title": "장기투자에 번번이 실패하는 이유? 현금흐름 만드는 미국 월배당 ETF....",
+          "link": "https://blog.naver.com/kode143/224378602231",
+          "blogger": "답소의 스타&셀럽 연예가 소식 블로그",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "나스닥 추종 월배당 ETF QQQI 하락 중, 계속 사도 될까?",
+          "link": "https://blog.naver.com/hyojungg1019/224362935718",
+          "blogger": "시간내서 하는 블로그",
+          "date": "2026-07-30"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "[미국 ETF 히든 챔피언] ㉘ 골드만 '입질'에 조명 받는 '부머 캔디 ETF'",
+          "link": "https://www.newspim.com/news/view/20260813001178",
+          "press": "",
+          "date": "2026-08-13"
+        },
+        {
+          "title": "롤러코스터 증시엔 커버드콜ETF…뭘 사야하나 [주末머니]",
+          "link": "https://view.asiae.co.kr/article/2026080615205238094",
+          "press": "",
+          "date": "2026-08-08"
+        },
+        {
+          "title": "반도체 지키고 바이오·조선 담아라",
+          "link": "https://www.mk.co.kr/article/12113290",
+          "press": "",
+          "date": "2026-08-04"
+        },
+        {
+          "title": "공포에 매수, 1600% 찍었다…월급 100만원→38억 부자 된 女",
+          "link": "https://www.joongang.co.kr/article/25439137",
+          "press": "",
+          "date": "2026-06-23"
+        },
+        {
+          "title": "“SK하닉보다 삼전 좋게 본다”…1년만에 9억 번 감자농부 픽",
+          "link": "https://www.joongang.co.kr/article/25437823",
+          "press": "",
+          "date": "2026-06-18"
+        }
+      ],
+      "rank": 9
+    },
+    {
       "keyword": "fc 서울 대 대전",
-      "traffic": "5000+",
+      "traffic": "500+",
       "blogTotal": 75,
       "newsTotal": 6000,
       "recentToday": 2,
@@ -655,79 +728,6 @@
           "link": "https://www.mydaily.co.kr/page/view/2026081521360179609",
           "press": "",
           "date": "2026-08-15"
-        }
-      ],
-      "rank": 9
-    },
-    {
-      "keyword": "파리 생제르맹 fc",
-      "traffic": "2000+",
-      "blogTotal": 4246,
-      "newsTotal": 36824,
-      "recentToday": 2,
-      "recentWeek": 10,
-      "topBlogs": [
-        {
-          "title": "'파리 생제르맹 FC 소속' 선수 이강인 생애 및 축구 경력 정리",
-          "link": "https://blog.naver.com/pso164/224331588264",
-          "blogger": "과학커뮤니케이터 박종현",
-          "date": "2026-06-30"
-        },
-        {
-          "title": "프랑스 축구의 왕이 된 PSG 이야기   파리 생제르맹 FC 역사 총정리",
-          "link": "https://blog.naver.com/kimguni714/224292107409",
-          "blogger": "스마일 정보왕",
-          "date": "2026-05-21"
-        },
-        {
-          "title": "2026년 8월 13일 파리 생제르맹 FC vs 애스턴 빌라 FC 유로파 슈퍼컵 기....",
-          "link": "https://blog.naver.com/councilml/224376168982",
-          "blogger": "councilml님의 블로그",
-          "date": "2026-08-12"
-        },
-        {
-          "title": "2026 UEFA 챔피언스리그 결승전 파리생제르맹FC(psg) vs 아스널FC [유럽축....",
-          "link": "https://blog.naver.com/qhadldhaus98/224303121710",
-          "blogger": "♬ 골프치고 여행가고 축구보는 보미",
-          "date": "2026-06-01"
-        },
-        {
-          "title": "파리생제르맹 FC 키즈 유니폼 구매부터 마킹까지 후기｜동대문 싸카....",
-          "link": "https://blog.naver.com/khimp/224283717261",
-          "blogger": "모찌픽의 취향기록",
-          "date": "2026-05-13"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "월드컵 결승골 주인공 토레스, PSG 유니폼 입는다...이적료 5천만 유로",
-          "link": "http://www.maniareport.com/view.php?ud=2026081610340491646cf2d78c68_19",
-          "press": "",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "'월드컵 영웅' 토레스, PSG로 간다…이강인 옛 동료에서 파리의 새로운...",
-          "link": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=432565",
-          "press": "",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "‘손흥민 후임 주장’ 로메로, 아틀레티코行…이강인 입단 동기 됐다",
-          "link": "https://www.donga.com/news/Sports/article/all/20260816/134484405/1",
-          "press": "",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "스페인에 월드컵 우승 안긴 토레스, 이강인 떠난 PSG로 이적",
-          "link": "https://www.newsis.com/view/NISX20260816_0003750913",
-          "press": "",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "‘월드컵 결승전 결승골’ 토레스, 820억원에 PSG행",
-          "link": "https://www.segye.com/newsView/20260816505640?OutUrl=naver",
-          "press": "",
-          "date": "2026-08-16"
         }
       ],
       "rank": 10
