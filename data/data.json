@@ -1,12 +1,85 @@
 {
-  "updatedAt": "2026-08-16T05:24:52.517Z",
+  "updatedAt": "2026-08-16T05:52:57.435Z",
   "source": "live",
   "keywords": [
     {
+      "keyword": "재정",
+      "traffic": "200+",
+      "blogTotal": 685693,
+      "newsTotal": 7072084,
+      "recentToday": 100,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "경기도 부도·파산설 진짜일까? 재정자립도 44.4%, 이재명·김동연 도....",
+          "link": "https://blog.naver.com/mileangel78/224370760870",
+          "blogger": "경제, 부동산, 생활 정보를 전하는 재테크사관학교",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "경기도 부도 파산 이유 ! 추미애 도지사 재정난 파탄 선언 빚 원인 ....",
+          "link": "https://blog.naver.com/alodia22/224370791721",
+          "blogger": "알로디아의 사생활",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "경기도 부도 파산 진짜일까요? 추미애 재정 비상 선언 재정난 (기본....",
+          "link": "https://blog.naver.com/babydreamer5/224370697656",
+          "blogger": "영어뉴스와 미드영어",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "\"경기도 재정 비상 선언\" 무슨 일일까?",
+          "link": "https://blog.naver.com/adsa0703/224369833549",
+          "blogger": "도리오의 경제이야기",
+          "date": "2026-08-06"
+        },
+        {
+          "title": "경기도 재정 비상상황 선언, 재정난·재정위기 실체는? (+재정 파탄·....",
+          "link": "https://blog.naver.com/youyoui21/224370276750",
+          "blogger": "유아이 방구석 아카이브",
+          "date": "2026-08-06"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "전세 안심신탁? 안전한 집만 가입하고, 위험한 집은 더 위험해진다.",
+          "link": "https://slownews.kr/164985",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "\"닥치고 공급\" 입법 총공세..野 부동산 대책은",
+          "link": "http://www.fnnews.com/news/202608141226430926",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "하동군, 공무원 복무·초과근무 특별점검 착수",
+          "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260816.99099004182",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "[박순종의 정의] \"독립운동을 하면 삼대가 망한다\"",
+          "link": "https://www.pennmike.com/news/articleView.html?idxno=125781",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "추미애 경기도지사, 제81주년 광복절 경축사 “공정·혁신·포용으로 더...",
+          "link": "https://hbnpress.com/news/view/1065602165375315",
+          "press": "",
+          "date": "2026-08-16"
+        }
+      ],
+      "rank": 1
+    },
+    {
       "keyword": "교수",
-      "traffic": "500+",
-      "blogTotal": 2791886,
-      "newsTotal": 10614026,
+      "traffic": "1000+",
+      "blogTotal": 2791896,
+      "newsTotal": 10614033,
       "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
@@ -43,44 +116,44 @@
       ],
       "topNews": [
         {
-          "title": "'징계취소 소송' 패소했다면…법원 \"'징계무효 소송'도 같은 결론\"",
-          "link": "http://www.yonhapnewstv.co.kr/news/AKR20260816141540MZu",
+          "title": "배우 송혜교, 서경덕 교수와 ‘독립운동가 박자혜’ 영상 홍보",
+          "link": "https://www.busan.com/view/busan/view.php?code=2026081613035176193",
           "press": "",
           "date": "2026-08-16"
         },
         {
-          "title": "“저는 절대 안 먹습니다”…심장외과 의사가 식탁에서 바로 치운 ‘이...",
-          "link": "https://www.sedaily.com/article/20079923?ref=naver",
+          "title": "[단독] 아동 유기 매년 800건…반복신고 점검에도 사건 되풀이",
+          "link": "https://www.segye.com/newsView/20260816509066?OutUrl=naver",
           "press": "",
           "date": "2026-08-16"
         },
         {
-          "title": "국토부 '중고차 소비자 보호대책', \"소비자 보호냐, 영세 매매업자 옥죄...",
-          "link": "https://www.imaeil.com/page/view/2026081510310427769",
+          "title": "“반도체 잡음, 없애는 대신 써먹는다” 뇌 닮은 인공 뉴런 개발",
+          "link": "https://www.chosun.com/economy/science/2026/08/16/TU4KSPZYQ5GDHGW7FANYV27W2U/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
           "press": "",
           "date": "2026-08-16"
         },
         {
-          "title": "10만가구 공급 카드 꺼낸 정부...\"서울 핵심지는 비었다\"",
-          "link": "http://www.beyondpost.co.kr/view.php?ud=20260816140834920205868f676_30",
+          "title": "“증오비 짓겠다” 뜻 못 이룬 채…베트남전 빈타인 학살 증언자 타계",
+          "link": "https://www.hani.co.kr/arti/society/society_general/1273107.html",
           "press": "",
           "date": "2026-08-16"
         },
         {
-          "title": "군, 동부전선 MDL 침범 북한군에 경고사격…올해 첫 사례",
-          "link": "http://www.yonhapnewstv.co.kr/news/MYH20260816141158wiG",
+          "title": "유인촌, 동생 故 유경촌 주교 1주기에 자전거 성지 순례…\"올해 더 슬퍼...",
+          "link": "https://www.newsis.com/view/NISX20260816_0003750986",
           "press": "",
           "date": "2026-08-16"
         }
       ],
-      "rank": 1
+      "rank": 2
     },
     {
       "keyword": "지드래곤",
-      "traffic": "500+",
-      "blogTotal": 104123,
+      "traffic": "1000+",
+      "blogTotal": 104125,
       "newsTotal": 257508,
-      "recentToday": 20,
+      "recentToday": 22,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -146,20 +219,26 @@
           "date": "2026-08-15"
         }
       ],
-      "rank": 2
+      "rank": 3
     },
     {
       "keyword": "경고 사격",
       "traffic": "1000+",
-      "blogTotal": 1876,
+      "blogTotal": 1878,
       "newsTotal": 21610,
-      "recentToday": 16,
-      "recentWeek": 16,
+      "recentToday": 18,
+      "recentWeek": 18,
       "topBlogs": [
         {
           "title": "“북한군 여러 명 군사분계선 넘었다…우리 군 올해 첫 경고사격, ....",
           "link": "https://blog.naver.com/gkgkmp11/224380153808",
           "blogger": "오늘의 이슈캐치",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "북한군 동부전선 MDL 침범, 올해 첫 경고사격…무슨 일이 있었나",
+          "link": "https://blog.naver.com/fortune537/224380268891",
+          "blogger": "내가 보는 세상",
           "date": "2026-08-16"
         },
         {
@@ -179,12 +258,6 @@
           "link": "https://blog.naver.com/hms3913/224380060647",
           "blogger": "데일리 인포 브리핑 아카이브",
           "date": "2026-08-16"
-        },
-        {
-          "title": "세계 공산주의 운동 — 러시아 혁명의 역사",
-          "link": "http://blog.jinbo.net/communism/13",
-          "blogger": "세계 공산주의 운동 — 국제공산주의동맹-쿠바위기-좌익반대파를 건설하라",
-          "date": "2008-03-11"
         }
       ],
       "topNews": [
@@ -219,85 +292,12 @@
           "date": "2026-08-16"
         }
       ],
-      "rank": 3
-    },
-    {
-      "keyword": "광화문광장",
-      "traffic": "500+",
-      "blogTotal": 93472,
-      "newsTotal": 501210,
-      "recentToday": 8,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "광화문광장 바닥분수 서울 물놀이 광화문 놀거리 볼거리 추천",
-          "link": "https://blog.naver.com/gftravel/224373125331",
-          "blogger": "여행을 일상으로, 여행을 쓰다",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "2026 서울썸머비치 광화문광장 워터파크 물놀이 수영장 무료",
-          "link": "https://blog.naver.com/sunsun1890/224354560807",
-          "blogger": "해피니스의 맛있는 갬성 여행",
-          "date": "2026-07-22"
-        },
-        {
-          "title": "2026 서울썸머비치 광화문광장 여름축제 물놀이 무료 물놀이터 수영....",
-          "link": "https://blog.naver.com/sandychoo/224366776858",
-          "blogger": "샌디추",
-          "date": "2026-08-03"
-        },
-        {
-          "title": "서울 아이와 가볼만한곳 가족여행 추천 광화문광장 물놀이장 여름 ....",
-          "link": "https://blog.naver.com/ojirap1004/224371329155",
-          "blogger": "여행인플 방방콕콕! 15년째 태국",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "서울 광화문광장 놀거리 물놀이 여름 상상놀이터 아이랑 물놀이장",
-          "link": "https://blog.naver.com/zinizio/224363694814",
-          "blogger": "지니지오",
-          "date": "2026-07-31"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "가습기살균제 피해자단체, 서울시와 광화문광장서 빈소설치 대치",
-          "link": "https://www.yna.co.kr/view/AKR20260816026200004?input=1195m",
-          "press": "",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "[날씨] 내일까지 남부 '극한호우' 쏟아져…산사태 주의",
-          "link": "http://www.yonhapnewstv.co.kr/news/MYH202608161401034Vr",
-          "press": "",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "내란 이후 얼마나 됐다고... 한국 정치는 왜 이 모양인가 [커피로 맛보는...",
-          "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003257481&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
-          "press": "",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "'반짝 연휴' 지친 심신 달랠 도심 속 즐길거리",
-          "link": "https://www.sidae.com/article/2026081409174444430",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "교황 방한 1년 앞으로...전 세계 청년 서울로",
-          "link": "https://www.ytn.co.kr/_ln/0106_202608160429572466",
-          "press": "",
-          "date": "2026-08-15"
-        }
-      ],
       "rank": 4
     },
     {
       "keyword": "김민경",
       "traffic": "1000+",
-      "blogTotal": 36426,
+      "blogTotal": 36425,
       "newsTotal": 123014,
       "recentToday": 7,
       "recentWeek": 100,
@@ -371,7 +371,7 @@
       "keyword": "이선민",
       "traffic": "100+",
       "blogTotal": 6001,
-      "newsTotal": 21017,
+      "newsTotal": 21018,
       "recentToday": 7,
       "recentWeek": 100,
       "topBlogs": [
@@ -408,6 +408,12 @@
       ],
       "topNews": [
         {
+          "title": "중독 당사자·가족 위해…범키가 부른 ‘회복의 노래’",
+          "link": "https://www.busan.com/view/busan/view.php?code=2026081516064570762",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
           "title": "​‘숭구리당당’ 김정렬, 이경규 보다 재산 多…김구라 “빵 우유만 먹...",
           "link": "https://www.newsen.com/news_view.php?uid=202608161122452310",
           "press": "",
@@ -430,22 +436,16 @@
           "link": "https://www.sportschosun.com/entertainment/2026-08-16/202608160100091720005800",
           "press": "",
           "date": "2026-08-15"
-        },
-        {
-          "title": "\"집안 최초 대머리 될 수도\"…이선민, 25살에 시작된 탈모에 모발이식 ...",
-          "link": "http://www.stoo.com/article.php?aid=108341460663",
-          "press": "",
-          "date": "2026-08-14"
         }
       ],
       "rank": 6
     },
     {
       "keyword": "염정아",
-      "traffic": "200+",
-      "blogTotal": 26543,
+      "traffic": "500+",
+      "blogTotal": 26544,
       "newsTotal": 88796,
-      "recentToday": 5,
+      "recentToday": 6,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -517,9 +517,9 @@
       "keyword": "대령",
       "traffic": "200+",
       "blogTotal": 67108,
-      "newsTotal": 179842,
-      "recentToday": 4,
-      "recentWeek": 93,
+      "newsTotal": 179843,
+      "recentToday": 5,
+      "recentWeek": 94,
       "topBlogs": [
         {
           "title": "독도함 배선영 대령 프로필",
@@ -554,6 +554,12 @@
       ],
       "topNews": [
         {
+          "title": "토론도 못 합니까, 이진숙...문제적 인간, 생긴 대로 떠들다, 소정묘 주...",
+          "link": "https://www.ikbc.co.kr/article/view/kbc202608160021",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
           "title": "[기고]인구절벽이 사관학교 통합의 이유가 절대 될 수 없는 이유…“핵...",
           "link": "https://www.munhwa.com/article/11609812?ref=naver",
           "press": "",
@@ -574,12 +580,6 @@
         {
           "title": "[윤재석의 시선] 통영상륙작전의 영웅 김성은(金聖恩) 장군",
           "link": "http://kor.theasian.asia/archives/405812",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "(이번주 법조 일정) 8월 17일~8월 21일",
-          "link": "https://www.lawtimes.co.kr/news/articleView.html?idxno=224927",
           "press": "",
           "date": "2026-08-15"
         }
@@ -674,6 +674,12 @@
           "date": "2026-08-04"
         },
         {
+          "title": "[마이리얼트립 이벤트] LA 단독 프리미엄 직관 풀패키지 무료 이벤트....",
+          "link": "https://blog.naver.com/sodosiwa/224307538120",
+          "blogger": "소도시와",
+          "date": "2026-06-06"
+        },
+        {
           "title": "샌디에이고 FC 대 엘에이 FC – 손흥민이 새로 쓴 캘리포니아 클래시 ....",
           "link": "https://cocoastudy.tistory.com/607",
           "blogger": "EIGHTBOX",
@@ -684,12 +690,6 @@
           "link": "https://blog.naver.com/zdcxs1/223991549310",
           "blogger": "길빵군의 이모저모",
           "date": "2025-09-02"
-        },
-        {
-          "title": "[마이리얼트립 이벤트] LA 단독 프리미엄 직관 풀패키지 무료 이벤트....",
-          "link": "https://blog.naver.com/sodosiwa/224307538120",
-          "blogger": "소도시와",
-          "date": "2026-06-06"
         },
         {
           "title": "손흥민 홈 경기 데뷔전 시간 확정! LAFC 대 샌디에이고 FC 전력은?",
