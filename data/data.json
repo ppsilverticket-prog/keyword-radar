@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-16T17:16:54.603Z",
+  "updatedAt": "2026-08-16T17:43:57.434Z",
   "source": "live",
   "keywords": [
     {
       "keyword": "삼전 닉스",
       "traffic": "2000+",
-      "blogTotal": 29739,
+      "blogTotal": 29741,
       "newsTotal": 16811,
-      "recentToday": 92,
+      "recentToday": 90,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -175,16 +175,16 @@
           "date": "2026-07-05"
         },
         {
-          "title": "\"홀란은 일주일 일하면 11억 번다\" 2026년 최신 프리미어리그(PL) 초호....",
-          "link": "https://blog.naver.com/certified07/224316113214",
-          "blogger": "스페셜리스트",
-          "date": "2026-06-15"
-        },
-        {
           "title": "펩이 떠난 자리 2026/27시즌 프리미어리그 최고 연봉 감독은 과연 누....",
           "link": "https://blog.naver.com/ssuggest/224374958792",
           "blogger": "영군의 즐거운 세상",
           "date": "2026-08-11"
+        },
+        {
+          "title": "\"홀란은 일주일 일하면 11억 번다\" 2026년 최신 프리미어리그(PL) 초호....",
+          "link": "https://blog.naver.com/certified07/224316113214",
+          "blogger": "스페셜리스트",
+          "date": "2026-06-15"
         }
       ],
       "topNews": [
@@ -224,9 +224,9 @@
     {
       "keyword": "바르셀로나",
       "traffic": "200+",
-      "blogTotal": 474079,
-      "newsTotal": 607686,
-      "recentToday": 79,
+      "blogTotal": 474081,
+      "newsTotal": 607687,
+      "recentToday": 77,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -262,6 +262,12 @@
       ],
       "topNews": [
         {
+          "title": "맨시티 복귀한 로드리, 커뮤니티실드는 명단 제외...바르셀로나 '1140억...",
+          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96479",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
           "title": "홍명보 후임 자처 '한국 감독 하고 싶습니다' 포옛만 아니었다...카사스...",
           "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1002216",
           "press": "",
@@ -284,12 +290,6 @@
           "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=692636",
           "press": "",
           "date": "2026-08-16"
-        },
-        {
-          "title": "이강인 아틀레티코 갔어도 PSG는 자신만만...엔리케, 페란 영입에 대만...",
-          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=692635",
-          "press": "",
-          "date": "2026-08-16"
         }
       ],
       "rank": 4
@@ -297,9 +297,9 @@
     {
       "keyword": "기소",
       "traffic": "500+",
-      "blogTotal": 431957,
+      "blogTotal": 431960,
       "newsTotal": 3439398,
-      "recentToday": 73,
+      "recentToday": 70,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -370,7 +370,7 @@
     {
       "keyword": "아스날",
       "traffic": "1000+",
-      "blogTotal": 105980,
+      "blogTotal": 105981,
       "newsTotal": 89228,
       "recentToday": 32,
       "recentWeek": 100,
@@ -443,7 +443,7 @@
     {
       "keyword": "무한도전",
       "traffic": "200+",
-      "blogTotal": 241283,
+      "blogTotal": 241285,
       "newsTotal": 425333,
       "recentToday": 30,
       "recentWeek": 100,
@@ -461,12 +461,6 @@
           "date": "2026-06-09"
         },
         {
-          "title": "2026 하반기 무한도전 RUN in 경주 일정 | 코스 | 꿀팁",
-          "link": "https://blog.naver.com/howto1ove/224352453828",
-          "blogger": "다이어트&러닝 라이프 | 77 CLOVER",
-          "date": "2026-07-20"
-        },
-        {
           "title": "2026 무한도전런 in 경주 확정 대회일정 참가신청 총정리",
           "link": "https://blog.naver.com/gwyon/224349329635",
           "blogger": "내 마음대로 하는 블로그",
@@ -477,6 +471,12 @@
           "link": "https://blog.naver.com/prince8881/224370964347",
           "blogger": "수지님의 블로그",
           "date": "2026-08-12"
+        },
+        {
+          "title": "2026 하반기 무한도전 RUN in 경주 일정 | 코스 | 꿀팁",
+          "link": "https://blog.naver.com/howto1ove/224352453828",
+          "blogger": "다이어트&러닝 라이프 | 77 CLOVER",
+          "date": "2026-07-20"
         }
       ],
       "topNews": [
@@ -516,7 +516,7 @@
     {
       "keyword": "레알마드리드",
       "traffic": "200+",
-      "blogTotal": 117654,
+      "blogTotal": 117653,
       "newsTotal": 364662,
       "recentToday": 26,
       "recentWeek": 100,
@@ -719,13 +719,13 @@
         },
         {
           "title": "GERMANY SOCCER",
-          "link": "https://n.news.naver.com/mnews/article/091/0010284154?sid=104",
+          "link": "https://n.news.naver.com/mnews/article/091/0010284155?sid=104",
           "press": "",
           "date": "2026-08-16"
         },
         {
           "title": "GERMANY SOCCER",
-          "link": "https://n.news.naver.com/mnews/article/091/0010284155?sid=104",
+          "link": "https://n.news.naver.com/mnews/article/091/0010284154?sid=104",
           "press": "",
           "date": "2026-08-16"
         }
