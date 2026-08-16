@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-16T15:18:18.903Z",
+  "updatedAt": "2026-08-16T15:45:25.085Z",
   "source": "live",
   "keywords": [
     {
       "keyword": "런닝맨",
       "traffic": "200+",
-      "blogTotal": 161171,
-      "newsTotal": 286449,
-      "recentToday": 100,
+      "blogTotal": 161170,
+      "newsTotal": 286451,
+      "recentToday": 99,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -43,6 +43,18 @@
       ],
       "topNews": [
         {
+          "title": "'GD 열애설 종료' 이주연, ♥사랑 찾는 근황…\"좋은 남자 만나고파\" (런...",
+          "link": "https://www.xportsnews.com/article/2184461",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "효민, 마카오 팬미팅 앞두고 반짝 드레스 근황",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16164956",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
           "title": "김종국, 축구협회장 출마설에 \"김민재도 '하셔야죠?' 묻더라\"",
           "link": "https://www.newsis.com/view/NISX20260816_0003751145",
           "press": "",
@@ -59,27 +71,234 @@
           "link": "https://ent.sbs.co.kr/news/article.do?article_id=E10010320688&plink=ORI&cooper=NAVER",
           "press": "",
           "date": "2026-08-16"
-        },
-        {
-          "title": "'런닝맨' 김종국, \"김민재도 협회장 하라고···한국축구 발전 위해 내...",
-          "link": "https://ent.sbs.co.kr/news/article.do?article_id=E10010320687&plink=ORI&cooper=NAVER",
-          "press": "",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "우영, 터키 차 한 잔과 함께한 여유…'Lee Mujin Service' 솔로 무대 예고",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16164915",
-          "press": "",
-          "date": "2026-08-16"
         }
       ],
       "rank": 1
     },
     {
+      "keyword": "삼전 닉스",
+      "traffic": "2000+",
+      "blogTotal": 29735,
+      "newsTotal": 16811,
+      "recentToday": 97,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "\"삼전닉스 개미들 환호하는중\" 244조 벌고 역대급 배당을 약속한 이....",
+          "link": "https://blog.naver.com/yunpyo99/224369930053",
+          "blogger": "아빠와 함께하는 경제",
+          "date": "2026-08-06"
+        },
+        {
+          "title": "서울대 버리고 삼전닉스 간다고? 2026 대입 수험생들이 반도체 계약....",
+          "link": "https://blog.naver.com/0apple0apple/224330498434",
+          "blogger": "서코지의 돈이 되는 경제",
+          "date": "2026-06-29"
+        },
+        {
+          "title": "외국인 수급과 반도체의 사달이 결정된다! 삼전닉스 금리·CPI 운명....",
+          "link": "https://blog.naver.com/dlwogurr/224376184788",
+          "blogger": "정싸부의 경제공부",
+          "date": "2026-08-12"
+        },
+        {
+          "title": "삼성전자·SK하이닉스 주가 급락, 반도체 호재 이슈에도 삼전닉스가 ....",
+          "link": "https://blog.naver.com/thinkingbug/224367176715",
+          "blogger": "생각벌레(Thinkingbug)",
+          "date": "2026-08-03"
+        },
+        {
+          "title": "개미들은 주식 투자로 돈 잃었는데... 소유가 10년 묵힌 '삼전닉스' 1....",
+          "link": "https://blog.naver.com/sol_sy1004/224375303059",
+          "blogger": "리타이어블의 ETF 투자 이야기",
+          "date": "2026-08-11"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "“강세장 시작? 설마” 삼전닉스 ‘7조 폭탄’ 던진 개미들 “이제 내려...",
+          "link": "https://www.seoul.co.kr/news/economy/securities/2026/08/16/20260816500020?wlog_tag3=naver",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "외국인의 ‘픽’으로 돌아온 S7…삼전닉스에 5.6조원 ‘뭉칫돈’ [투자...",
+          "link": "https://biz.heraldcorp.com/article/10842191?ref=naver",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "\"화요일 국장 비상\"?…삼성·SK하이닉스, 美 반도체주·ADR 보니",
+          "link": "https://www.ajunews.com/view/20260816202509934",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "'삼전닉스' 살아나자 코스피 7천 터치…다음주 안착 시험대",
+          "link": "https://www.econovill.com/news/articleView.html?idxno=748130",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "삼전닉스 주가 반등에 ‘빚투’도 늘어",
+          "link": "https://www.segye.com/newsView/20260816510841?OutUrl=naver",
+          "press": "",
+          "date": "2026-08-16"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "keyword": "맷 데이먼",
+      "traffic": "500+",
+      "blogTotal": 25670,
+      "newsTotal": 21576,
+      "recentToday": 96,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "2026 영화 ‘오디세이’ 맷 데이먼의 러브스토리 :마이애미 바텐더와....",
+          "link": "https://blog.naver.com/brightsh27/224372166441",
+          "blogger": "In My Ordinary ෆ",
+          "date": "2026-08-08"
+        },
+        {
+          "title": "오디세이 맷 데이먼, 아내·두 딸과 세 여신 비주얼 한국 방문",
+          "link": "https://blog.naver.com/wgat5900/224368437366",
+          "blogger": "아반 마케팅",
+          "date": "2026-08-05"
+        },
+        {
+          "title": "오디세이 맷데이먼 리즈시절",
+          "link": "https://blog.naver.com/jangsooduk/224373504530",
+          "blogger": "세상이 궁금한 연예 조사원",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "루치아나바로소 맷데이먼 영화 함께.. 와이프 가족 사랑 이야기",
+          "link": "https://blog.naver.com/yazeyazasu/224372318260",
+          "blogger": "화장품, 그리고 사람 이야기",
+          "date": "2026-08-08"
+        },
+        {
+          "title": "맷데이먼 아내 루치아나 바로소 누구? 인스타 바텐더 직업 러브스토....",
+          "link": "https://blog.naver.com/tlswpgus987/224369592153",
+          "blogger": "국내 블로거",
+          "date": "2026-08-06"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "영화 '오디세이', 개봉 12일 만 400만 관객 돌파…극장별 특전-쿠키 유무...",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16164750",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "트로이 전쟁부터 이타카 귀향까지…알고 보면 더 쉬운 ‘오디세이’",
+          "link": "https://www.kbmaeil.com/article/20260816500177",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "'스파이더맨4' 700만·'오디세이' 400만… 여름 극장가 흥행 경쟁",
+          "link": "https://www.newscj.com/news/articleView.html?idxno=3425572",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "‘스파이더맨 4’ 올해 최단 700만 고지…‘오디세이’ 400만 추격",
+          "link": "https://biz.heraldcorp.com/article/10842765?ref=naver",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "‘오디세이’, 개봉 12일째 400만 돌파..크리스토퍼 놀란 시네마틱 블록...",
+          "link": "http://www.breaknews.com/1229312",
+          "press": "",
+          "date": "2026-08-16"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "keyword": "바르셀로나",
+      "traffic": "200+",
+      "blogTotal": 474084,
+      "newsTotal": 607685,
+      "recentToday": 91,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "바르셀로나 카탈루냐 음악당 맛집｜토스카 가성비 최고 타파스 런....",
+          "link": "https://blog.naver.com/redthblub/224369579905",
+          "blogger": "으뉴의 취향 ୨♡୧",
+          "date": "2026-08-06"
+        },
+        {
+          "title": "[스페인/바르셀로나] FC바르셀로나 직관 후기⚽️/FC바르셀로나 1열 ....",
+          "link": "https://blog.naver.com/stomach_ache/224215301684",
+          "blogger": "많이 먹어서 배가 아픈가욥¿",
+          "date": "2026-03-14"
+        },
+        {
+          "title": "스페인 바르셀로나 라리가 26/27  바르샤 티켓 예매 및 할인 쿠폰",
+          "link": "https://blog.naver.com/kimglass2/224352769949",
+          "blogger": "세계로 떠나는 자매여행, 율트립",
+          "date": "2026-07-21"
+        },
+        {
+          "title": "바르셀로나 이베리코 맛집 서울나들이(NADRI), 현지인도 줄서는 한식....",
+          "link": "https://blog.naver.com/js11toy/224368078652",
+          "blogger": "쑤수의 해외살이 다이어리",
+          "date": "2026-08-04"
+        },
+        {
+          "title": "[스페인/포르투갈] 5일차_바르셀로나에서 세비야로 이동! 메트로폴 ....",
+          "link": "https://blog.naver.com/wltn94k/224332394959",
+          "blogger": "심신삐약의 맛따라 멋따라",
+          "date": "2026-07-01"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "바르셀로나 결단! '월드컵 골든볼' 영입 위해 세 번째 제안 건넸다…\"성...",
+          "link": "https://www.mydaily.co.kr/page/view/2026081614583098632",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "'유럽 1티어 기자 보도' 바르셀로나, 로드리 영입 협상 마무리...이적료...",
+          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96467",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "'래시포드가 달라졌다' 맨유 복귀전부터 합격점! \"활동량 개선, 팀을 위...",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=692636",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "이강인 아틀레티코 갔어도 PSG는 자신만만...엔리케, 페란 영입에 대만...",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=692635",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "등번호 7번 단 이강인, 레알·바르샤 양강구도 균열 낼까",
+          "link": "https://www.segye.com/newsView/20260816510892?OutUrl=naver",
+          "press": "",
+          "date": "2026-08-16"
+        }
+      ],
+      "rank": 4
+    },
+    {
       "keyword": "채령",
       "traffic": "500+",
-      "blogTotal": 13202,
-      "newsTotal": 29998,
+      "blogTotal": 13203,
+      "newsTotal": 29999,
       "recentToday": 90,
       "recentWeek": 100,
       "topBlogs": [
@@ -116,6 +335,12 @@
       ],
       "topNews": [
         {
+          "title": "유나, 야경 속 블랙 올블랙 룩…연기·솔로 행보 잇는 근황",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16164957",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
           "title": "이채연·채령 자매 母, 암 투병 고백…눈물 의미 재조명",
           "link": "http://www.tvdaily.co.kr/read.php3?aid=17868837101798028010",
           "press": "",
@@ -138,15 +363,82 @@
           "link": "https://www.mydaily.co.kr/page/view/2026081617490245166",
           "press": "",
           "date": "2026-08-16"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "keyword": "프리미어리그",
+      "traffic": "200+",
+      "blogTotal": 249618,
+      "newsTotal": 926635,
+      "recentToday": 88,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "2차 세계대전 이후 처음, 프리미어리그 감독 교체 행렬: 새 감독 9명",
+          "link": "https://blog.naver.com/soccerbox82/224370472119",
+          "blogger": "축구 맛집 싸커박스",
+          "date": "2026-08-09"
         },
         {
-          "title": "있지 채령, 안고 오열한 사람은 어머니였다…‘암투병’ 고백에 응원 쇄...",
-          "link": "https://www.sportsseoul.com/news/read/1628895?ref=naver",
+          "title": "EPL 프리미어리그 역대 누적 득점 순위 TOP 10! 전설적인 골잡이들은 ....",
+          "link": "https://blog.naver.com/yoonhome88/224334677336",
+          "blogger": "윤홈",
+          "date": "2026-07-02"
+        },
+        {
+          "title": "프리미어리그 개막 일정 및 리버풀 토트넘 아스날 직관 티켓 예매 ....",
+          "link": "https://blog.naver.com/ondarchive/224337427846",
+          "blogger": "온다카이브 Onda.archive",
+          "date": "2026-07-05"
+        },
+        {
+          "title": "\"홀란은 일주일 일하면 11억 번다\" 2026년 최신 프리미어리그(PL) 초호....",
+          "link": "https://blog.naver.com/certified07/224316113214",
+          "blogger": "스페셜리스트",
+          "date": "2026-06-15"
+        },
+        {
+          "title": "펩이 떠난 자리 2026/27시즌 프리미어리그 최고 연봉 감독은 과연 누....",
+          "link": "https://blog.naver.com/ssuggest/224374958792",
+          "blogger": "영군의 즐거운 세상",
+          "date": "2026-08-11"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "\"다른 해결책 찾아라\" 엔리케 감독, 바르콜라 이적 가능성 언급...리버풀...",
+          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96474",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "'오현규+살라 역대급 조합 볼 수 있었는데!' 베식타스 회장 충격 폭로…...",
+          "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553462595",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "'PL 챔피언' 아스널, 펩 없는 맨시티에 2-0 리드...칼라피오리-하베르츠...",
+          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96480",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "바르셀로나 결단! '월드컵 골든볼' 영입 위해 세 번째 제안 건넸다…\"성...",
+          "link": "https://www.mydaily.co.kr/page/view/2026081614583098632",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "'우승했다고 끝난 게 아니다' 아스날, 진짜 지옥은 이제부터...BBC \"또 에...",
+          "link": "http://www.osen.co.kr/article/G1112858530",
           "press": "",
           "date": "2026-08-16"
         }
       ],
-      "rank": 2
+      "rank": 6
     },
     {
       "keyword": "epl",
@@ -219,7 +511,7 @@
           "date": "2026-08-16"
         }
       ],
-      "rank": 3
+      "rank": 7
     },
     {
       "keyword": "아스날",
@@ -292,7 +584,7 @@
           "date": "2026-08-15"
         }
       ],
-      "rank": 4
+      "rank": 8
     },
     {
       "keyword": "무한도전",
@@ -365,80 +657,7 @@
           "date": "2026-08-16"
         }
       ],
-      "rank": 5
-    },
-    {
-      "keyword": "김형묵",
-      "traffic": "200+",
-      "blogTotal": 2716,
-      "newsTotal": 13104,
-      "recentToday": 18,
-      "recentWeek": 19,
-      "topBlogs": [
-        {
-          "title": "미우새 김승수 김형묵 영양 수라상 한의원 건강검진",
-          "link": "https://blog.naver.com/eueuy/224380285783",
-          "blogger": "이랑이랑 맛집찾기",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "김형묵 프로필 키 결혼 여부,  근황과 뮤지컬 배우 인생",
-          "link": "https://blog.naver.com/amado7383/224285460663",
-          "blogger": "드림폴의 방송톡",
-          "date": "2026-05-21"
-        },
-        {
-          "title": "미운 우리 새끼 김형묵 김승수 위한 특급 건강 관리 나선 이유와 놀....",
-          "link": "https://blog.naver.com/quant-rule/224380042940",
-          "blogger": "당신과 함께 바라봅니다.",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "소이현 김형묵 부부 관계 회복, 사랑을 처방해 드립니다 4자 대면 결....",
-          "link": "https://blog.naver.com/namaksin12/224315799244",
-          "blogger": "책 읽는 아이들",
-          "date": "2026-06-15"
-        },
-        {
-          "title": "미우새·52세 결혼 미혼 배우 김형묵 프로필·데뷔·고향·대학·가족....",
-          "link": "https://blog.naver.com/lilycole2006/224379875457",
-          "blogger": "Lilycole Entertainment",
-          "date": "2026-08-16"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "“자기야 출발할까?” 임원희 ‘♥이희진’에 고추 반지 플러팅+상황극...",
-          "link": "https://www.mk.co.kr/article/12129169",
-          "press": "",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "“여태까지 중 가장 심각” 신동엽, 시력 잃을 뻔했던 김승수 대상 포진...",
-          "link": "https://www.mk.co.kr/article/12129167",
-          "press": "",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "김승수 “얼굴 대상포진→실명 위험까지” 투병 고백 (‘미우새’)[셀럽...",
-          "link": "http://www.celuvmedia.com/article.php?aid=1786889812525865010",
-          "press": "",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "'미우새' 김승수, 얼굴 뒤덮은 대상포진 \"죽는 줄 알았다…시력 잃을 뻔...",
-          "link": "http://www.stoo.com/article.php?aid=108359577680",
-          "press": "",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "김승수 \"대상포진으로 반신마비·실명 위기, 의사도 후유증 남을 거라 ...",
-          "link": "https://www.sportschosun.com/entertainment/2026-08-16/202608160100094650006032",
-          "press": "",
-          "date": "2026-08-16"
-        }
-      ],
-      "rank": 6
+      "rank": 9
     },
     {
       "keyword": "arsenal đấu với man city",
@@ -480,101 +699,6 @@
         }
       ],
       "topNews": [],
-      "rank": 7
-    },
-    {
-      "keyword": "арсенал – манчестер сити",
-      "traffic": "200+",
-      "blogTotal": 0,
-      "newsTotal": 0,
-      "recentToday": 0,
-      "recentWeek": 0,
-      "topBlogs": [],
-      "topNews": [],
-      "rank": 8
-    },
-    {
-      "keyword": "อาร์เซนอล พบ แมนซิตี",
-      "traffic": "500+",
-      "blogTotal": 0,
-      "newsTotal": 0,
-      "recentToday": 0,
-      "recentWeek": 0,
-      "topBlogs": [],
-      "topNews": [],
-      "rank": 9
-    },
-    {
-      "keyword": "2026",
-      "traffic": "500+",
-      "blogTotal": 7497174,
-      "newsTotal": 4393985,
-      "recentToday": 0,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "2026 추석 민생지원금 언제 받나? 지역별 지급 소식 총정리",
-          "link": "https://blog.naver.com/dhel751/224370386248",
-          "blogger": "뽀또네집",
-          "date": "2026-08-06"
-        },
-        {
-          "title": "경기도 결혼지원금 2026 신청대상과 50만원 복지포인트 조건",
-          "link": "https://blog.naver.com/happymaking/224360728970",
-          "blogger": "생활지식창고",
-          "date": "2026-08-04"
-        },
-        {
-          "title": "2026 4차 민생지원금 지급 지역과 신청기간, 대상 17곳 총정리",
-          "link": "https://blog.naver.com/ant2001e/224370937366",
-          "blogger": "음악의 에너지",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "2026년 세제개편안에 따른 일시적 2주택자와 상생임대주택 특례",
-          "link": "https://blog.naver.com/bride11m_/224370127249",
-          "blogger": "부동산 마스터 플래닝",
-          "date": "2026-08-06"
-        },
-        {
-          "title": "2026년 8월 신한카드 무이자할부 총정리, 슬림할부 최대 24개월까지",
-          "link": "https://blog.naver.com/samlove00/224370948997",
-          "blogger": "슬기로운 카드생활",
-          "date": "2026-08-07"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "Britain Soccer Community Shield",
-          "link": "https://n.news.naver.com/mnews/article/077/0007126049?sid=104",
-          "press": "",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "Britain Soccer Community Shield",
-          "link": "https://n.news.naver.com/mnews/article/077/0007126046?sid=104",
-          "press": "",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "BRITAIN SOCCER",
-          "link": "https://n.news.naver.com/mnews/article/091/0010284134?sid=104",
-          "press": "",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "'오디세이', 상영 12일차 '호프' 추월…2026년 박스오피스 4위",
-          "link": "https://www.econovill.com/news/articleView.html?idxno=748137",
-          "press": "",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "Brazil Election",
-          "link": "https://n.news.naver.com/mnews/article/077/0007126047?sid=104",
-          "press": "",
-          "date": "2026-08-16"
-        }
-      ],
       "rank": 10
     }
   ]
