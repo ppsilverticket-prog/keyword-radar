@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-16T20:46:47.272Z",
+  "updatedAt": "2026-08-16T21:16:54.651Z",
   "source": "live",
   "keywords": [
     {
       "keyword": "김주하",
       "traffic": "200+",
-      "blogTotal": 12791,
+      "blogTotal": 12792,
       "newsTotal": 48592,
-      "recentToday": 92,
+      "recentToday": 91,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -76,10 +76,83 @@
       "rank": 1
     },
     {
+      "keyword": "이주",
+      "traffic": "100+",
+      "blogTotal": 427763,
+      "newsTotal": 950733,
+      "recentToday": 82,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "재건축 이주비 대출 막혀서 이주 포기하기 전에 꼭 알아야 할 정부 ....",
+          "link": "https://blog.naver.com/wotmd1932/224374777568",
+          "blogger": "슬기로운 생활정보",
+          "date": "2026-08-12"
+        },
+        {
+          "title": "은마아파트 재건축 이주 일정과 세입자 보증금 청구법",
+          "link": "https://blog.naver.com/vitamin2230/224376011458",
+          "blogger": "REONE P&I",
+          "date": "2026-08-12"
+        },
+        {
+          "title": "[정보] LH 청년 전세 임대 | 재계약 이첩신청 + 이주까지 상세 정보 기....",
+          "link": "https://blog.naver.com/h_jeong9581/224346419797",
+          "blogger": "고각",
+          "date": "2026-07-14"
+        },
+        {
+          "title": "정부의 정비사업 이주비 대출 규제 완화 검토, 배경부터 주요 내용....",
+          "link": "https://blog.naver.com/kjheeae/224373830149",
+          "blogger": "JH부동산 자산관리",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "전체 학생은 주는데 이 학생들은 는다? '다문화'에서 '이주배경'으로....",
+          "link": "https://blog.naver.com/flw3148/224344304063",
+          "blogger": "꾸쓰의 교육 전문 블로그",
+          "date": "2026-07-17"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "“가자서 매일 30~40명 암살해야” 이스라엘 극우 장관 극언",
+          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000003597&cp=nv",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "EBS '세계테마기행', 카자흐스탄 크즐오르다서 만난 홍범도…미국 리버...",
+          "link": "https://www.lecturernews.com/news/articleView.html?idxno=208742",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "은행원 급여 전년比 13%↑…삼성전자보다 많아 [한강로 경제브리핑]",
+          "link": "https://www.segye.com/newsView/20260816512560?OutUrl=naver",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "가락몰 '40년 임대계약' 논란…권익위 \"수의방식 적법\" 대 서농공 \"경쟁...",
+          "link": "http://www.newstomato.com/ReadNews.aspx?no=1310299&inflow=N",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "\"세금 못 내면, 집 팔고 지방 가라? 현대판 고려장\"…노년의 분노 [세금...",
+          "link": "http://www.fnnews.com/news/202608132140581566",
+          "press": "",
+          "date": "2026-08-16"
+        }
+      ],
+      "rank": 2
+    },
+    {
       "keyword": "폴란드",
-      "traffic": "200+",
-      "blogTotal": 230844,
-      "newsTotal": 584746,
+      "traffic": "500+",
+      "blogTotal": 230845,
+      "newsTotal": 584750,
       "recentToday": 62,
       "recentWeek": 100,
       "topBlogs": [
@@ -116,43 +189,43 @@
       ],
       "topNews": [
         {
+          "title": "맨체스터 유나이티드 베테랑 CB 소신 발언…\"래시포드가 팀에 남기를 바...",
+          "link": "https://www.mydaily.co.kr/page/view/2026081700331656665",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "‘공기 단축’ 모듈러 주택, 정부 발주 계기로 시장 키운다",
+          "link": "https://www.segye.com/newsView/20260816510730?OutUrl=naver",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "“AI에 밀리면 끝”… ‘사스포칼립스’ 공포에 체질 바꾸는 소프트웨어...",
+          "link": "https://biz.chosun.com/it-science/ict/2026/08/17/4PS4YUHWD5DHFAULYQRO2DRTME/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "[인터뷰] 기업가치 17조원 유럽 최대 우주정보 기업 ICEYE… 페카 라우릴...",
+          "link": "https://biz.chosun.com/it-science/ict/2026/08/17/RYK2HSS76RFD7GOAYKMEHAPHWY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
           "title": "폴란드 순례객 버스 헝가리서 전복…12명 사망·10명 중상",
           "link": "https://www.newsis.com/view/NISX20260817_0003751162",
           "press": "",
           "date": "2026-08-16"
-        },
-        {
-          "title": "'이럴 수가' 밀란전 대패 후폭풍...맨유 수비진 세대교체론 부상 \"선발로...",
-          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=692647",
-          "press": "",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "폴란드 AI 인프라, 빅테크 수십억 달러 몰려 차세대 허브 부상",
-          "link": "https://www.g-enews.com/view.php?ud=202608161740162547fbbec65dfb_1",
-          "press": "",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "\"이적시장 활발해 모르지만...\" 매과이어, 래시포드 잔류 원한다 \"여전히...",
-          "link": "http://www.osen.co.kr/article/G1112858704",
-          "press": "",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "'경기력이 재앙 같아' 대혹평받은 루크 쇼→맨유, 새 레프트백 영입설 ...",
-          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=692643",
-          "press": "",
-          "date": "2026-08-16"
         }
       ],
-      "rank": 2
+      "rank": 3
     },
     {
       "keyword": "psg",
       "traffic": "100+",
-      "blogTotal": 57477,
-      "newsTotal": 178861,
+      "blogTotal": 57478,
+      "newsTotal": 178862,
       "recentToday": 55,
       "recentWeek": 100,
       "topBlogs": [
@@ -189,6 +262,12 @@
       ],
       "topNews": [
         {
+          "title": "日 국대 골키퍼, PSG 아닌 EPL행 \"HERE WE GO\"… 애스턴 빌라행 임박한 스...",
+          "link": "https://www.besteleven.com/news/articleView.html?idxno=311255",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
           "title": "박주호 칼 같은 답변 \"이강인 같은 선수? 지금은 없다\"…韓 축구 팩트 말...",
           "link": "https://www.xportsnews.com/article/2184459",
           "press": "",
@@ -211,22 +290,16 @@
           "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96474",
           "press": "",
           "date": "2026-08-16"
-        },
-        {
-          "title": "'PSG 이적 무산' 스즈키, 570억에 A.빌라 이적 합의...HERE WE GO 확인!",
-          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96475",
-          "press": "",
-          "date": "2026-08-16"
         }
       ],
-      "rank": 3
+      "rank": 4
     },
     {
       "keyword": "김민석",
       "traffic": "2000+",
-      "blogTotal": 74680,
-      "newsTotal": 373256,
-      "recentToday": 43,
+      "blogTotal": 74685,
+      "newsTotal": 373267,
+      "recentToday": 38,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -262,37 +335,110 @@
       ],
       "topNews": [
         {
-          "title": "민주당 대표 17일 오후 7시 내외 윤곽…김민석, 정청래에 8.4%P 우위",
-          "link": "https://www.sidae.com/article/2026081417452147280",
+          "title": "김민석, 호남 이어 수도권도 1위…오늘 당대표 선출",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008707865&plink=ORI&cooper=NAVER",
           "press": "",
           "date": "2026-08-16"
         },
         {
-          "title": "李대통령이 띄운 ‘4년 중·연임 개헌’…野 “연임 포기부터”",
-          "link": "https://www.dt.co.kr/article/12078447?ref=naver",
+          "title": "靑, 與 전대 결과 촉각…'김민석? 정청래?' 당청 관계 재정립 주목",
+          "link": "https://www.news1.kr/politics/president/6260655",
           "press": "",
           "date": "2026-08-16"
         },
         {
-          "title": "누가 돼야 유리할까?...국민의힘 지도부도 '촉각'",
-          "link": "https://www.ytn.co.kr/_ln/0101_202608170508288859",
+          "title": "與, 전대 끝나도 여전한 감정의 골…내년 재보선 두고 갈등 재점화 우려...",
+          "link": "https://www.news1.kr/politics/assembly/6259975",
           "press": "",
           "date": "2026-08-16"
         },
         {
-          "title": "\"윤리감찰\"·\"고발\"...전당대회 뒤가 더 걱정",
-          "link": "https://www.ytn.co.kr/_ln/0101_202608170505070222",
+          "title": "민주당 난타전 전당대회 배경엔…온라인 커뮤니티에 갇힌 정치가 있다",
+          "link": "https://weekly.khan.co.kr/article/202608170600011",
           "press": "",
           "date": "2026-08-16"
         },
         {
-          "title": "누가 되든 '협력' 강조...앞으로의 당정 관계는?",
-          "link": "https://www.ytn.co.kr/_ln/0101_202608170505569465",
+          "title": "與 최고위원 당선권 경쟁 ‘친청 3·친명 2’ 구도… “김용 지지” 임...",
+          "link": "https://www.segye.com/newsView/20260816514095?OutUrl=naver",
           "press": "",
           "date": "2026-08-16"
         }
       ],
-      "rank": 4
+      "rank": 5
+    },
+    {
+      "keyword": "박현호",
+      "traffic": "100+",
+      "blogTotal": 3537,
+      "newsTotal": 17379,
+      "recentToday": 32,
+      "recentWeek": 51,
+      "topBlogs": [
+        {
+          "title": "살림남 박현호 은가은, 축의금 30만 원 갈등 시어머니가 며느리 편든....",
+          "link": "https://blog.naver.com/lhswind2/224365656897",
+          "blogger": "우수아빠의 인생은",
+          "date": "2026-08-02"
+        },
+        {
+          "title": "강남세브란스 박현호 교수님 후기 - 외래부터 수술까지 경험담",
+          "link": "https://blog.naver.com/lowkeybase/224319868969",
+          "blogger": "작은 실험들을 기록하는 1인 개발자",
+          "date": "2026-06-18"
+        },
+        {
+          "title": "가수 은가은 박현호 나이 차이 직업 집안 화제",
+          "link": "https://blog.naver.com/everythingforyou/224352484768",
+          "blogger": "투데이 스타 이슈♡",
+          "date": "2026-07-20"
+        },
+        {
+          "title": "박서진, 은가은 박현호 결혼식에 불참한 충격적인 이유?(살림남2)",
+          "link": "https://blog.naver.com/kjd110802/224365592735",
+          "blogger": "행복안내자 공간",
+          "date": "2026-08-02"
+        },
+        {
+          "title": "은가은 박현호 재벌설 집안보다 충격적인 은박부부 과거 몸매(살림....",
+          "link": "https://blog.naver.com/treewg/224365203038",
+          "blogger": "나무처럼",
+          "date": "2026-08-01"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "은가은, 첫 정규 '전국 팔도' 전곡 창작…본업 컴백",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16164905",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "박현호, 신곡 ‘한잔하러 갑시다’ 들고 팬들 곁으로 돌아온다.",
+          "link": "https://sports.khan.co.kr/article/202608162107003?pt=nv",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "은가은, 남편 신곡 '한잔하러 갑시다' 응원…트로트 부부의 음원 행보",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16164862",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "이재욱, 무대서 강승연에 '깜짝 프러포즈'… \"따님을 제게 주십시오\" ('...",
+          "link": "https://www.tvreport.co.kr/broadcast/article/1069108/",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "박현호, 자작곡 '한잔하러 갑시다' 오늘(16일) 발매",
+          "link": "http://enews.imbc.com/News/RetrieveNewsInfo/514915",
+          "press": "",
+          "date": "2026-08-16"
+        }
+      ],
+      "rank": 6
     },
     {
       "keyword": "조지나 로드리게스",
@@ -365,87 +511,87 @@
           "date": "2026-08-16"
         }
       ],
-      "rank": 5
+      "rank": 7
     },
     {
-      "keyword": "레알마드리드",
-      "traffic": "200+",
-      "blogTotal": 117656,
-      "newsTotal": 364666,
-      "recentToday": 26,
-      "recentWeek": 100,
+      "keyword": "다이아몬드백스 대 브레이브스",
+      "traffic": "100+",
+      "blogTotal": 2,
+      "newsTotal": 547,
+      "recentToday": 0,
+      "recentWeek": 0,
       "topBlogs": [
         {
-          "title": "[실물대박] 레알 마드리드 26/27 어웨이 긴팔(KC3970) 구매 후기! 벨링엄....",
-          "link": "https://blog.naver.com/jjmall1/224365565138",
-          "blogger": "꿈꾸는 아메바",
-          "date": "2026-08-03"
+          "title": "08 MLB 각 팀 에이스들의 활약상 - NL 서부",
+          "link": "https://20117200.tistory.com/30",
+          "blogger": "매니아들의 놀이터",
+          "date": "2008-05-19"
         },
         {
-          "title": "레알마드리드 26/27 어웨이 저지, 왜 매치데이보다 브록코어룩으로 ....",
-          "link": "https://blog.naver.com/01190681357/224359496150",
-          "blogger": "축구전문가 싸카맨",
-          "date": "2026-08-03"
+          "title": "류현진 MLB 이번주 MVP선정(화)2019-05-14 - ▒ SCOOP ▒ 실시간 정보",
+          "link": "https://scoop-8282.tistory.com/847",
+          "blogger": "▒ SCOOP ▒ 실시간 정보",
+          "date": "2019-05-14"
         },
         {
-          "title": "26/27 시즌 라리가 레알 마드리드 유니폼 바람막이",
-          "link": "https://blog.naver.com/ggaarraamm/224370553553",
-          "blogger": "on & na",
-          "date": "2026-08-07"
+          "title": "역대 한국인 MLB 메이저리거 선수들 모음 및 성적",
+          "link": "https://cky0214.tistory.com/562",
+          "blogger": "40대 감성",
+          "date": "2024-04-09"
         },
         {
-          "title": "FC온라인 피파온라인4 레알마드리드 스쿼드 급여 310",
-          "link": "https://blog.naver.com/yong9260/224370613085",
-          "blogger": "용혁순",
-          "date": "2026-08-07"
+          "title": "[추억의 스페셜] 박찬호의 X파일",
+          "link": "https://bksports.tistory.com/280",
+          "blogger": "뉴저널리스트 투데이",
+          "date": "2009-09-05"
         },
         {
-          "title": "레알 마드리드 근황(feat 비니시우스 재계약의 후폭풍).txt",
-          "link": "https://blog.naver.com/kung11/224371412271",
-          "blogger": "Injury Time 축구 이야기",
-          "date": "2026-08-07"
+          "title": "[MLB] 박찬호, 시범경기 2승 & 휴스턴 소식",
+          "link": "https://hyunby1986.tistory.com/293",
+          "blogger": "턴오버1위",
+          "date": "2009-03-31"
         }
       ],
       "topNews": [
         {
-          "title": "“아마도 올해가 내 축구 인생의 마지막 해가 될 것” 은퇴 시기 언급한...",
-          "link": "https://www.mk.co.kr/article/12129174",
+          "title": "김하성, 9회말 대타로 나서 73일 만의 귀한 시즌 4호 타점 신고",
+          "link": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=432562",
           "press": "",
           "date": "2026-08-16"
         },
         {
-          "title": "'HERE WE GO' 로드리 이적설 끝났다! 바르셀로나, 맨시티와 합의 완료…...",
-          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=692648",
+          "title": "'4번 타자 깜짝 변신' 이정후, 한 이닝 2안타...볼넷 포함 3출루",
+          "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=01377606645547976",
           "press": "",
           "date": "2026-08-16"
         },
         {
-          "title": "'월드컵 골든볼 수상자 영입 포기' 레알 마드리드 결단! 아스널 PL 우승...",
-          "link": "https://www.mydaily.co.kr/page/view/2026081623382162791",
+          "title": "샌프란시스코 이정후, 한 이닝에 멀티 히트...4경기 만에 안타 치며 타율...",
+          "link": "https://www.chosun.com/sports/world-baseball/2026/08/16/AOV5O6ZC4BFHJOTTOLCHSFHV4I/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
           "press": "",
           "date": "2026-08-16"
         },
         {
-          "title": "'GOAT' 호날두, 충격 은퇴 시사...\"올해가 아마 마지막\" 전격 고백! 25년...",
-          "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553462634",
+          "title": "김하성, 나흘 만에 그라운드 복귀…유격수 대수비로 깜짝 투입",
+          "link": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=432545",
           "press": "",
-          "date": "2026-08-16"
+          "date": "2026-08-15"
         },
         {
-          "title": "'전세계 충격' 크리스티아누 호날두 은퇴한다...\"이번 시즌이 마지막 될...",
-          "link": "https://m.sports.naver.com/wfootball/article/216/0000142229",
+          "title": "'무안타에 수비 실수까지' 배지환 어떻게 잡은 선발 출전인데, 1사구-1삼...",
+          "link": "https://www.sportschosun.com/baseball/2026-08-12/202608120100069420004310",
           "press": "",
-          "date": "2026-08-16"
+          "date": "2026-08-12"
         }
       ],
-      "rank": 6
+      "rank": 8
     },
     {
       "keyword": "거제",
       "traffic": "200+",
-      "blogTotal": 1375882,
-      "newsTotal": 662062,
-      "recentToday": 2,
+      "blogTotal": 1375890,
+      "newsTotal": 662075,
+      "recentToday": 0,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -473,118 +619,45 @@
           "date": "2026-08-02"
         },
         {
-          "title": "거제도 외도 장승포 외도 유람선 이용하기",
-          "link": "https://blog.naver.com/cherdk/224367299812",
-          "blogger": "memorism",
-          "date": "2026-08-04"
+          "title": "[거제 숙소 추천 | 거제여행] 한화리조트 거제 벨버디어 스위트 (오....",
+          "link": "https://blog.naver.com/cykanao/224363543493",
+          "blogger": "나오의 잡동사니",
+          "date": "2026-07-31"
         }
       ],
       "topNews": [
         {
-          "title": "[속보] 거제시 \"터미널·도로 침수...시내·시외버스 운행 불가\"",
-          "link": "https://www.ytn.co.kr/_ln/0115_202608170529249151",
+          "title": "거제·통영 시간당 100㎜ 이상 물폭탄…일부 지역 대피령",
+          "link": "https://www.newsis.com/view/NISX20260817_0003751168",
           "press": "",
           "date": "2026-08-16"
         },
         {
-          "title": "거제·통영 저수율 70%대로...경남 저수율 소폭 상승",
-          "link": "https://www.ytn.co.kr/_ln/0115_202608170528551789",
+          "title": "경남 곳곳 재난성 긴급문자, 한 시간 80mm 이상 강한 호우",
+          "link": "https://www.ytn.co.kr/_ln/0108_202608170611060695",
           "press": "",
           "date": "2026-08-16"
         },
         {
-          "title": "시간당 100㎜ 물폭탄… 초비상 거제, 주민 긴급대피령",
-          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000003593&cp=nv",
+          "title": "국가소방동원령 해제…가뭄 걱정은 덜었지만",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008707864&plink=ORI&cooper=NAVER",
           "press": "",
           "date": "2026-08-16"
         },
         {
-          "title": "[속보] \"거제시 일운면 시간당 50mm 강한 비\"…기상청 \"침수 우려, 안전...",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16165024",
+          "title": "[속보] 행안부 장관 \"거제 고립 주민 구조하는 데 최선\"",
+          "link": "https://www.ytn.co.kr/_ln/0115_202608170609448060",
           "press": "",
           "date": "2026-08-16"
         },
         {
-          "title": "거제 시간당 100㎜ 폭우에 일부 하천 범람…긴급대피 요청",
-          "link": "https://www.nocutnews.co.kr/news/6563644?utm_source=naver&utm_medium=article&utm_campaign=20260817050502",
+          "title": "경남 남해안 집중 호우...사흘 동안 해안 따라 폭우",
+          "link": "https://www.ytn.co.kr/_ln/0108_202608170608496660",
           "press": "",
           "date": "2026-08-16"
         }
       ],
-      "rank": 7
-    },
-    {
-      "keyword": "엘링 홀란",
-      "traffic": "500+",
-      "blogTotal": 2752,
-      "newsTotal": 23948,
-      "recentToday": 1,
-      "recentWeek": 17,
-      "topBlogs": [
-        {
-          "title": "엘링 홀란드 여자친구, 아내, 와이프 누구? 알고보니 첫사랑",
-          "link": "https://blog.naver.com/lovelyy3y/224339335745",
-          "blogger": "아기엄마의 뷰티 이야기",
-          "date": "2026-07-07"
-        },
-        {
-          "title": "엘링 홀란 나이,연봉,가족,부인,등번호,프로필,얼굴 변화",
-          "link": "https://blog.naver.com/khazneh88/224340792045",
-          "blogger": "뤼치머니 뮤직너블",
-          "date": "2026-07-08"
-        },
-        {
-          "title": "엘링 홀란 여자친구 이사벨은 누구? '돈 보고 만난다'는 말이 성립하....",
-          "link": "https://blog.naver.com/nayajh0792/224349628127",
-          "blogger": "도란도란 세상사는 이야기",
-          "date": "2026-07-17"
-        },
-        {
-          "title": "엘링 홀란과 나란히 등장한 그녀...전 세계가 주목한 노르웨이 공주....",
-          "link": "https://blog.naver.com/pjh1752/224341873577",
-          "blogger": "스포팅리포트",
-          "date": "2026-07-09"
-        },
-        {
-          "title": "책 안 읽는 초등 남아 만화책 추천 엘링 홀란 (feat. 홀란드 프로필)",
-          "link": "https://blog.naver.com/je3355je/224341621197",
-          "blogger": "식도락 여행일기",
-          "date": "2026-07-09"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "\"손흥민이 대표적인 예\" 이제 선수 따라 팬도 함께 움직인다...BBC \"팬들...",
-          "link": "http://www.osen.co.kr/article/G1112858582",
-          "press": "",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "'칼라피오리+하베르츠+외데고르 연속골' 아스널, 맨시티 완파하고 커뮤...",
-          "link": "http://www.footballist.co.kr/news/articleView.html?idxno=213662",
-          "press": "",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "'EPL 챔피언' 아스널 웃었다, 과르디올라 떠난 맨시티 첫 경기부터 '초전...",
-          "link": "https://www.sportschosun.com/football/2026-08-17/202608170100094930006048",
-          "press": "",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "'23초 칼라피오리 입장골→하베르츠·외데고르 추가골'…아스널, 맨시티...",
-          "link": "https://www.mydaily.co.kr/page/view/2026081614452988778",
-          "press": "",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "[금주 OTT 신작] '대등왜', '리센느의 맨시티 어택!', '가요대전 써머' 등...",
-          "link": "https://www.newspim.com/news/view/20260814000835",
-          "press": "",
-          "date": "2026-08-15"
-        }
-      ],
-      "rank": 8
+      "rank": 9
     },
     {
       "keyword": "리버풀 코모",
@@ -655,55 +728,6 @@
           "link": "https://www.sportschosun.com/football/2026-08-10/202608100100052830003300",
           "press": "",
           "date": "2026-08-09"
-        }
-      ],
-      "rank": 9
-    },
-    {
-      "keyword": "liverpool vs como",
-      "traffic": "200+",
-      "blogTotal": 1,
-      "newsTotal": 1,
-      "recentToday": 0,
-      "recentWeek": 1,
-      "topBlogs": [
-        {
-          "title": "외래어 표기 용례 :: Power to surprise.",
-          "link": "https://ppua.tistory.com/32",
-          "blogger": "Power to surprise. :: Power to surprise.",
-          "date": "2013-12-12"
-        },
-        {
-          "title": "해외뉴스 이슈 태그 - Christmas, City, New, Navidad, Gaza, Mundial, Holiday, Cordob....",
-          "link": "https://issuelink.tistory.com/2692",
-          "blogger": "모두의 관심사 :: 모두의 관심사",
-          "date": "2023-12-23"
-        },
-        {
-          "title": "해외뉴스 이슈 태그 - Biden, Netflix, League, Covid, New, Copa, Super, Apple, Chauv....",
-          "link": "https://issuelink.tistory.com/2116",
-          "blogger": "모두의 관심사 :: 모두의 관심사",
-          "date": "2021-04-22"
-        },
-        {
-          "title": "잉글랜드 VS 칠레 (친선전) 프리뷰 및 콜업",
-          "link": "https://blog.naver.com/dm0511/60203649146",
-          "blogger": "¿Como estas?",
-          "date": "2013-11-15"
-        },
-        {
-          "title": "3월 4일 입스위치vs헐시티, 바르셀로나vsAT마드리드, 코모1907vs인터밀....",
-          "link": "https://choborini.tistory.com/3672",
-          "blogger": "스포츠분석초보린이",
-          "date": "2026-03-03"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "Bob Dylan está en el foco de Hollywood. Y también de su ‘hater’ núm...",
-          "link": "https://www.nytimes.com/es/2025/01/12/espanol/cultura/bob-dylan-hater-nemesis.html?partner=naver",
-          "press": "",
-          "date": "2025-01-12"
         }
       ],
       "rank": 10
