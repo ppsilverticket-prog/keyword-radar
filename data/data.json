@@ -1,13 +1,159 @@
 {
-  "updatedAt": "2026-08-16T08:56:22.897Z",
+  "updatedAt": "2026-08-16T09:26:40.092Z",
   "source": "live",
   "keywords": [
     {
+      "keyword": "숲",
+      "traffic": "1000+",
+      "blogTotal": 3282153,
+      "newsTotal": 1861147,
+      "recentToday": 100,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "산청 송정숲 유원지 계곡 물놀이 노지캠핑 답사 후기",
+          "link": "https://blog.naver.com/bet2ch/224367392862",
+          "blogger": "민캠핑",
+          "date": "2026-08-04"
+        },
+        {
+          "title": "전남광주 아이랑 가볼만한곳, 첨단 광주시민의숲 무료 물놀이장 후....",
+          "link": "https://blog.naver.com/puppy7643/224368138409",
+          "blogger": "흔한 ESTJ의 일상",
+          "date": "2026-08-04"
+        },
+        {
+          "title": "[충남 아산] 관광농원 숲 SOUP(취사가능 수영장)",
+          "link": "https://blog.naver.com/sdm48606/224373119164",
+          "blogger": "행복모먼트",
+          "date": "2026-08-09"
+        },
+        {
+          "title": "8월 마르쉐 농부시장 서울숲 복숭아 초당옥수수 자두파운드",
+          "link": "https://blog.naver.com/orange_horizon/224373091549",
+          "blogger": "다온다담",
+          "date": "2026-08-09"
+        },
+        {
+          "title": "내돈내산 [완주군 동상면] 3년째 재방문 수영장&평상 이용 후기! ‘....",
+          "link": "https://blog.naver.com/aeeunkim/224367553337",
+          "blogger": "ღ 소소하지만 소중한 기록 ღ",
+          "date": "2026-08-04"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "다대포선셋영화축제 폐막… 서부산권 대표 축제 가능성 봤다",
+          "link": "https://www.busan.com/view/busan/view.php?code=2026081618203792269",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "'3타 차 뒤집고 64타 몰아쳤다' 서교림 역전 우승 시즌 3승...김민솔과 ...",
+          "link": "http://www.maniareport.com/view.php?ud=2026081615525923016cf2d78c68_19",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "공효진 \"'유부녀 킬러' 준비하며 킥복싱 배워...액션 연기는 제게 큰 도...",
+          "link": "https://www.tvreport.co.kr/breaking/article/1069106/",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "\"4승은 내가 먼저 하고 싶어\"..서교림, 김민솔 꺾고 시즌 3승·대상 1위 ...",
+          "link": "https://mhnse.com/news/articleView.html?idxno=1492148",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "“여행할 맛 나네” 뚜렷한 색깔을 가진 여행지 센다이",
+          "link": "https://www.mk.co.kr/article/12129013",
+          "press": "",
+          "date": "2026-08-16"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "keyword": "항공사",
+      "traffic": "100+",
+      "blogTotal": 335080,
+      "newsTotal": 768924,
+      "recentToday": 86,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "10월 이후 시드니 가시는 분들 주목! 시드니 항공권 스케줄 변경! 항....",
+          "link": "https://blog.naver.com/leeeeeee_life/224366547972",
+          "blogger": "서코지의 데일리 호주트립",
+          "date": "2026-08-03"
+        },
+        {
+          "title": "후쿠오카공항 셀프체크인 셀프백드랍 하는 방법 가능한 항공사",
+          "link": "https://blog.naver.com/nekohoho/224374365343",
+          "blogger": "하노이는 언제나 맑음",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "항공정비기능사 필기 실기 시험 난이도 후기 및 취업 연봉",
+          "link": "https://blog.naver.com/eolife_wood/224346755290",
+          "blogger": "에듀 큐레이터 라이트앤뉴",
+          "date": "2026-07-14"
+        },
+        {
+          "title": "해외여행 교통약자 서비스 총정리! 항공사 휠체어 신청부터 인천공....",
+          "link": "https://blog.naver.com/eb234/224351912259",
+          "blogger": "뇌출혈엄마의 육아·건강 회복 노트",
+          "date": "2026-07-20"
+        },
+        {
+          "title": "[호주워홀] 시드니행 젯스타 항공 후기 인천-시드니",
+          "link": "https://blog.naver.com/br2akal2g/224308360272",
+          "blogger": "ദ്ദി ˉ͈̀꒳ˉ͈́ )✧",
+          "date": "2026-06-07"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "“대한항공·아시아나 통합 후 새 노선·시간대 운항 늘 것”",
+          "link": "https://www.busan.com/view/busan/view.php?code=2026081618144637767",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "통합 대한항공, 시간대·신규노선 늘어난다",
+          "link": "https://www.hankyung.com/article/2026081641721",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "대한항공·아시아나 통합 시너지 본격화…노선 재편·환승 경쟁력 강화",
+          "link": "https://www.news2day.co.kr/article/20260816500057",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "여객기 91m 급강하했는데…조종사에게서 '대마초' 나왔다",
+          "link": "https://view.asiae.co.kr/article/2026081616531060988",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "통합 대한항공, 시간대·신규 노선 늘어난다",
+          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000003441&cp=nv",
+          "press": "",
+          "date": "2026-08-16"
+        }
+      ],
+      "rank": 2
+    },
+    {
       "keyword": "레드벨벳",
       "traffic": "200+",
-      "blogTotal": 171121,
-      "newsTotal": 416896,
-      "recentToday": 60,
+      "blogTotal": 171128,
+      "newsTotal": 416897,
+      "recentToday": 67,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -43,6 +189,12 @@
       ],
       "topNews": [
         {
+          "title": "순백 드레스 입은 '무쌍 여신' 레드벨벳 슬기, 독보적 우아함 [N샷]",
+          "link": "https://www.news1.kr/entertain/celebrity-topic/6260607",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
           "title": "아이린이 먹은 ‘술+두리안’…해외팬들 “매우 위험” 경고한 이유 [라...",
           "link": "https://www.seoul.co.kr/news/life/2026/08/16/20260816500065?wlog_tag3=naver",
           "press": "",
@@ -55,166 +207,14 @@
           "date": "2026-08-16"
         },
         {
-          "title": "“아이린, 술 마시며 이걸?”… 만취 영상 본 해외 팬들 ‘기겁’",
-          "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=01535046645547976",
-          "press": "",
-          "date": "2026-08-16"
-        },
-        {
           "title": "슬기, 'Velvet Summer' 무대 앞 화려 비주얼로 근황 전했다",
           "link": "https://www.topstarnews.net/news/articleView.html?idxno=16164824",
           "press": "",
           "date": "2026-08-16"
         },
         {
-          "title": "[뮤즈★]아이린 만취 애교 화제..알고보니 위험했던 상황? “두리안과 ...",
-          "link": "https://www.heraldmuse.com/article/10842733?ref=naver",
-          "press": "",
-          "date": "2026-08-16"
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "keyword": "매일경제",
-      "traffic": "1000+",
-      "blogTotal": 295032,
-      "newsTotal": 1468214,
-      "recentToday": 35,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "매일경제tv 배지현아나운서 프로필 나이 인스타주소 성형 열애설 근....",
-          "link": "https://blog.naver.com/lyhsee2/224353433388",
-          "blogger": "빌트인가구 공장업체 붙박이 신발현관 TV거실장 설치",
-          "date": "2026-07-21"
-        },
-        {
-          "title": "매일경제신문 구독 및 해지 가이드와 주요 혜택 활용법",
-          "link": "https://blog.naver.com/myblackchery/224353056029",
-          "blogger": "여행,일상 및 생활 꿀팁",
-          "date": "2026-07-21"
-        },
-        {
-          "title": "매일경제 신문 구독 취소 방법, 고객센터 전화번호",
-          "link": "https://blog.naver.com/akdnsxlds/224330238879",
-          "blogger": "돈되는 재테크 노트",
-          "date": "2026-07-09"
-        },
-        {
-          "title": "국립중앙도서관 프레스리더로 신문 무료로 보는 방법!매일경제 무....",
-          "link": "https://blog.naver.com/ssobii/224337934219",
-          "blogger": "소비노트",
-          "date": "2026-07-06"
-        },
-        {
-          "title": "[대외활동] 매일경제신문사에서 콘텐츠 제작 능력을 키워보자! ,매....",
-          "link": "https://blog.naver.com/smc5881/224376926597",
-          "blogger": "고졸백수탈출기",
-          "date": "2026-08-13"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "[알립니다] 매경·환경재단 AI리더십과정 9월 개강",
-          "link": "https://www.mk.co.kr/article/12129087",
-          "press": "",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "남양주 택지 발표前 '지분쪼개기' 몰렸다",
-          "link": "https://www.mk.co.kr/article/12129067",
-          "press": "",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "5㎡ 지분으로 팔려 나간 남양주 … 넉달새 땅값 3배 이상 '껑충'",
-          "link": "https://www.mk.co.kr/article/12129054",
-          "press": "",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "[단독] 남양주 택지 발표前 ‘지분쪼개기’ 몰렸다…정부, 이상거래 조...",
-          "link": "https://www.mk.co.kr/article/12129052",
-          "press": "",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "시야는 좁아져도 꿈은 더 넓게 … 韓 최초 '두 亞게임' 뛴다",
-          "link": "https://www.mk.co.kr/article/12129047",
-          "press": "",
-          "date": "2026-08-16"
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "keyword": "이희진",
-      "traffic": "1000+",
-      "blogTotal": 10624,
-      "newsTotal": 55638,
-      "recentToday": 22,
-      "recentWeek": 38,
-      "topBlogs": [
-        {
-          "title": "이희진 눈물겨운 나쁜 남자 잔혹사 딛고 임원희와 핑크빛 기류 폭발....",
-          "link": "https://blog.naver.com/selly435/224329387423",
-          "blogger": "별빛 셀럽톡",
-          "date": "2026-06-28"
-        },
-        {
-          "title": "\"바람은 기본, 내 돈까지…\" 베복 이희진, 역술가도 놀란 충격적 연....",
-          "link": "https://blog.naver.com/sunsong96/224300491541",
-          "blogger": "dailynote",
-          "date": "2026-05-29"
-        },
-        {
-          "title": "이희진 전남친 명품 도둑질에 감금까지?! 임원희 새 남자 될까(미운....",
-          "link": "https://blog.naver.com/treewg/224329986005",
-          "blogger": "나무처럼",
-          "date": "2026-06-28"
-        },
-        {
-          "title": "미우새 임원희x이희진, 9살 연상 돌싱의 핑크빛 분위기와 뜻밖의 케....",
-          "link": "https://blog.naver.com/ki080801/224331339572",
-          "blogger": "Cherry View",
-          "date": "2026-06-30"
-        },
-        {
-          "title": "몸무게 47kg인데 4분의1이 지방이라는 베이비복스 이희진 뼈말라 근....",
-          "link": "https://blog.naver.com/qufqlc08/224325544788",
-          "blogger": "소유 beauty",
-          "date": "2026-06-24"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "임원희, '♥이희진'과 핑크빛 기류...\"단둘이 강릉 갈래요?\" ('미우새')",
-          "link": "https://mhnse.com/news/articleView.html?idxno=1492037",
-          "press": "",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "\"오늘 밤 강릉 갈래요?\"…55세 돌싱 임원희, 8살 연하 이희진에 직진 '플...",
-          "link": "https://www.mydaily.co.kr/page/view/2026081616493991115",
-          "press": "",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "'핑크빛' 임원희·이희진, 둘만의 데이트 '설렘 폭발…강릉여행 제안까...",
-          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1002151",
-          "press": "",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "'미우새' 임원희, 이희진에 깜짝 강릉 여행 제안? 핑크빛 기류",
-          "link": "https://www.news1.kr/entertain/broadcast-tv/6260554",
-          "press": "",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "임원희, 베이비복스 이희진과 두 번째 데이트..플러팅 시작?(‘미우새’...",
-          "link": "https://www.heraldmuse.com/article/10842699?ref=naver",
+          "title": "“아이린, 술 마시며 이걸?”… 만취 영상 본 해외 팬들 ‘기겁’",
+          "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=01535046645547976",
           "press": "",
           "date": "2026-08-16"
         }
@@ -222,10 +222,83 @@
       "rank": 3
     },
     {
+      "keyword": "이상호",
+      "traffic": "100+",
+      "blogTotal": 29770,
+      "newsTotal": 201511,
+      "recentToday": 26,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "이상호♥김자연, 장인장모 허락 \"너무 동안이네\" 10살 차 극복 비결",
+          "link": "https://blog.naver.com/bora912/224373755757",
+          "blogger": "감의 인사이트",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "개그맨 이상호 와이프 김자연 프로필 나이 아침마당",
+          "link": "https://blog.naver.com/toygrim/224373549208",
+          "blogger": "정보",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "아침마당 이상호 김자연  헬스장에서 시작된 러브스토리부터 프로....",
+          "link": "https://blog.naver.com/fndltmquf1028/224373635362",
+          "blogger": "루이스별",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "\"너무 동안이어서\" 이상호♥김자연, 장인장모 허락 10살 차이 걱정 ....",
+          "link": "https://blog.naver.com/choyam2026/224373742035",
+          "blogger": "매거진 뚱",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "쌍둥이형 이상호,김자연 부부: 10살 나이차 편견 넘어 든든한 단짝이....",
+          "link": "https://blog.naver.com/hms3913/224373374639",
+          "blogger": "데일리 인포 브리핑 아카이브",
+          "date": "2026-08-10"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "이상호-김자연 결혼 3년 만에 임신 소식…\"둘에서 셋으로\"",
+          "link": "https://www.nocutnews.co.kr/news/6563616?utm_source=naver&utm_medium=article&utm_campaign=20260816055456",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "피프티피프티, e스포츠 팬들 사로잡았다…'T1 홈그라운드 서머 페스타'...",
+          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1002166",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "\"새로운 시작\" 이상호♥김자연, 결혼 3년 만에 임신 발표",
+          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3666089",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "[오늘의 운세] (2026년 8월 17일 띠별 운세) 범띠, 봉사하라",
+          "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=86628",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "승리를 기원하는 뜨거운 함성…'T1 홈그라운드 서머 페스타' [덕지순례...",
+          "link": "https://www.xportsnews.com/article/2184341",
+          "press": "",
+          "date": "2026-08-16"
+        }
+      ],
+      "rank": 4
+    },
+    {
       "keyword": "크리스티아누 호날두",
-      "traffic": "2000+",
+      "traffic": "5000+",
       "blogTotal": 20699,
-      "newsTotal": 181517,
+      "newsTotal": 181518,
       "recentToday": 19,
       "recentWeek": 100,
       "topBlogs": [
@@ -262,6 +335,12 @@
       ],
       "topNews": [
         {
+          "title": "“헤어져도 1조7022억원 재산 안 나눈다”…호날두·조지나가 택한 ‘재...",
+          "link": "https://www.mk.co.kr/article/12129115",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
           "title": "[오피셜] 그야말로 '미친 인생 역전' 난민 캠프→ 월드컵 스타→ '1,313억...",
           "link": "https://www.besteleven.com/news/articleView.html?idxno=311237",
           "press": "",
@@ -284,88 +363,82 @@
           "link": "https://www.seoul.co.kr/news/international/2026/08/16/20260816500031?wlog_tag3=naver",
           "press": "",
           "date": "2026-08-16"
-        },
-        {
-          "title": "‘충격!’ 이강인 ‘우승컵 5→0개’ 역대급 이적 사가 써놓고 3시즌 만...",
-          "link": "https://sports.khan.co.kr/article/202608160707003?pt=nv",
-          "press": "",
-          "date": "2026-08-15"
         }
       ],
-      "rank": 4
+      "rank": 5
     },
     {
-      "keyword": "죠스",
-      "traffic": "200+",
-      "blogTotal": 75626,
-      "newsTotal": 14351,
-      "recentToday": 17,
-      "recentWeek": 77,
+      "keyword": "elle",
+      "traffic": "2000+",
+      "blogTotal": 55122,
+      "newsTotal": 32381,
+      "recentToday": 15,
+      "recentWeek": 93,
       "topBlogs": [
         {
-          "title": "gs편의점 간식 추천 죠스떡볶이 쌀떡 밀키트 내돈내산 솔직후기 가....",
-          "link": "https://blog.naver.com/tomato1155/224367003184",
-          "blogger": "진짜를 보다,",
+          "title": "'금발이 너무해' 프리퀄 엘(ELLE)에 대한 줄거리 및 모든 정보",
+          "link": "https://blog.naver.com/nadiatear0/224331753839",
+          "blogger": "☆*:.My Sweet Haven.:*☆",
+          "date": "2026-06-30"
+        },
+        {
+          "title": "[임장 카페 투어] 영도 '비엘르(B.elle)'에서 커피 한 잔하며 짚어보는 ....",
+          "link": "https://blog.naver.com/skatkdal3245/224348443745",
+          "blogger": "victory love family",
+          "date": "2026-07-16"
+        },
+        {
+          "title": "Elle Coves - Peace",
+          "link": "https://blog.naver.com/la_echo_/224367088536",
+          "blogger": "솔놀이",
           "date": "2026-08-03"
         },
         {
-          "title": "죠스 국물 밀떡볶이 후기 | 집에서도 즐기는 죠스떡볶이 밀키트",
-          "link": "https://blog.naver.com/mr1000food/224329300889",
-          "blogger": "먹찌미 키친",
+          "title": "엘(Elle) 시즌1 미국 하이틴 로맨스 코믹 드라마 예고편 & 스틸 사진(....",
+          "link": "https://blog.naver.com/felice_min/224329516567",
+          "blogger": "라나월드 블로그",
           "date": "2026-06-28"
         },
         {
-          "title": "제거죠스 배수구 냄새 제거제 후기!",
-          "link": "https://blog.naver.com/gkstmgml563/224365813268",
-          "blogger": "리빙 All님의 블로그",
-          "date": "2026-08-02"
-        },
-        {
-          "title": "죠스떡볶이 밀키트 맛있는 밀 떡볶이 추천",
-          "link": "https://blog.naver.com/dli77/224305978055",
-          "blogger": "'Carpe diem'",
-          "date": "2026-06-04"
-        },
-        {
-          "title": "일산 웨스턴돔 혼밥, 죠스떡볶이 내돈내산 솔직후기(혼밥러 주목!)",
-          "link": "https://blog.naver.com/somdong1121/224318468196",
-          "blogger": "솜동마을",
-          "date": "2026-06-17"
+          "title": "금발이 너무해 프리퀼 드라마 엘(Elle) 배우 방영일정 OTT",
+          "link": "https://blog.naver.com/cello4488/224289151016",
+          "blogger": "핑크 하이틴 블랙 뮤비",
+          "date": "2026-05-21"
         }
       ],
       "topNews": [
         {
-          "title": "[일요 시네마] 죠스-\"스티븐 스필버그가 바다를 공포로 바꿔버린 순간\"",
-          "link": "http://www.queen.co.kr/news/articleView.html?idxno=461580",
+          "title": "92명→37명, 큐마켓→B2B SaaS…애즈위메이크가 꺼낸 정상화 카드",
+          "link": "https://www.venturesquare.net/1106403/",
           "press": "",
           "date": "2026-08-16"
         },
         {
-          "title": "[EBS 일요 시네마] 특급 공포영화 ‘죠스’",
-          "link": "https://www.kbmaeil.com/article/20260815500054",
+          "title": "해외 진단 매출 69% 차지…쓰리빌리언이 영업손실률을 31%포인트 낮췄다",
+          "link": "https://www.venturesquare.net/1106382/",
           "press": "",
           "date": "2026-08-15"
         },
         {
-          "title": "EBS 일요시네마 '죠스' \"백상아리와의 한판 승부! 스티븐 스필버그 감독...",
-          "link": "https://www.lecturernews.com/news/articleView.html?idxno=208571",
+          "title": "스트리밍 음원을 소장형 IP로…뮤직카우가 지효X센시아 협업곡을 실물 ...",
+          "link": "https://www.venturesquare.net/1106377/",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "에스파 카리나 화보, 독보적 여신 미모..“강하다는 말 좋아“",
+          "link": "http://www.breaknews.com/1229267",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "BTS 진, 프레드 앰버서더 화보 비하인드…세계 실시간 트렌드 장악",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16164181",
           "press": "",
           "date": "2026-08-14"
-        },
-        {
-          "title": "'오크 스트리트의 마지막 날', 북미 호평 터졌다…\"극장에서 즐기기 완...",
-          "link": "https://www.slist.kr/news/articleView.html?idxno=758681",
-          "press": "",
-          "date": "2026-08-13"
-        },
-        {
-          "title": "어릴 땐 몰랐는데... 수영장에서 마주한 낯선 공포",
-          "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003257867&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
-          "press": "",
-          "date": "2026-08-12"
         }
       ],
-      "rank": 5
+      "rank": 6
     },
     {
       "keyword": "남보라",
@@ -438,150 +511,77 @@
           "date": "2026-08-16"
         }
       ],
-      "rank": 6
-    },
-    {
-      "keyword": "elle",
-      "traffic": "1000+",
-      "blogTotal": 55120,
-      "newsTotal": 32380,
-      "recentToday": 13,
-      "recentWeek": 91,
-      "topBlogs": [
-        {
-          "title": "'금발이 너무해' 프리퀄 엘(ELLE)에 대한 줄거리 및 모든 정보",
-          "link": "https://blog.naver.com/nadiatear0/224331753839",
-          "blogger": "☆*:.My Sweet Haven.:*☆",
-          "date": "2026-06-30"
-        },
-        {
-          "title": "[임장 카페 투어] 영도 '비엘르(B.elle)'에서 커피 한 잔하며 짚어보는 ....",
-          "link": "https://blog.naver.com/skatkdal3245/224348443745",
-          "blogger": "victory love family",
-          "date": "2026-07-16"
-        },
-        {
-          "title": "엘(Elle) 시즌1 미국 하이틴 로맨스 코믹 드라마 예고편 & 스틸 사진(....",
-          "link": "https://blog.naver.com/felice_min/224329516567",
-          "blogger": "라나월드 블로그",
-          "date": "2026-06-28"
-        },
-        {
-          "title": "Elle Coves - Peace",
-          "link": "https://blog.naver.com/la_echo_/224367088536",
-          "blogger": "솔놀이",
-          "date": "2026-08-03"
-        },
-        {
-          "title": "금발이 너무해 프리퀼 드라마 엘(Elle) 배우 방영일정 OTT",
-          "link": "https://blog.naver.com/cello4488/224289151016",
-          "blogger": "핑크 하이틴 블랙 뮤비",
-          "date": "2026-05-21"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "해외 진단 매출 69% 차지…쓰리빌리언이 영업손실률을 31%포인트 낮췄다",
-          "link": "https://www.venturesquare.net/1106382/",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "스트리밍 음원을 소장형 IP로…뮤직카우가 지효X센시아 협업곡을 실물 ...",
-          "link": "https://www.venturesquare.net/1106377/",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "에스파 카리나 화보, 독보적 여신 미모..“강하다는 말 좋아“",
-          "link": "http://www.breaknews.com/1229267",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "BTS 진, 프레드 앰버서더 화보 비하인드…세계 실시간 트렌드 장악",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16164181",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "당근 광고비와 전환을 한 화면에서 비교한다…에어브릿지가 비용 연동 ...",
-          "link": "https://www.venturesquare.net/1106306/",
-          "press": "",
-          "date": "2026-08-14"
-        }
-      ],
       "rank": 7
     },
     {
-      "keyword": "파리 생제르맹 fc",
-      "traffic": "1000+",
-      "blogTotal": 4248,
-      "newsTotal": 36824,
-      "recentToday": 4,
-      "recentWeek": 12,
+      "keyword": "치지직",
+      "traffic": "10000+",
+      "blogTotal": 16154,
+      "newsTotal": 24882,
+      "recentToday": 6,
+      "recentWeek": 83,
       "topBlogs": [
         {
-          "title": "'파리 생제르맹 FC 소속' 선수 이강인 생애 및 축구 경력 정리",
-          "link": "https://blog.naver.com/pso164/224331588264",
-          "blogger": "과학커뮤니케이터 박종현",
-          "date": "2026-06-30"
+          "title": "치지직 해지 방법｜정기구독 취소·고객센터 문의까지 정리",
+          "link": "https://blog.naver.com/with_bohum/224370393388",
+          "blogger": "정보콕",
+          "date": "2026-08-06"
         },
         {
-          "title": "프랑스 축구의 왕이 된 PSG 이야기   파리 생제르맹 FC 역사 총정리",
-          "link": "https://blog.naver.com/kimguni714/224292107409",
-          "blogger": "스마일 정보왕",
-          "date": "2026-05-21"
+          "title": "치지직 고화질 버퍼링 해결법! 1080p 설정부터 채팅 끄기 꿀팁까지 총....",
+          "link": "https://blog.naver.com/em486love/224321968708",
+          "blogger": "로미의 보석상자",
+          "date": "2026-06-20"
         },
         {
-          "title": "2026년 8월 13일 파리 생제르맹 FC vs 애스턴 빌라 FC 유로파 슈퍼컵 기....",
-          "link": "https://blog.naver.com/councilml/224376168982",
-          "blogger": "councilml님의 블로그",
-          "date": "2026-08-12"
+          "title": "치지직 고화질 보는법",
+          "link": "https://blog.naver.com/felix_203/224326964166",
+          "blogger": "정쿡 개발자",
+          "date": "2026-06-25"
         },
         {
-          "title": "2026 UEFA 챔피언스리그 결승전 파리생제르맹FC(psg) vs 아스널FC [유럽축....",
-          "link": "https://blog.naver.com/qhadldhaus98/224303121710",
-          "blogger": "♬ 골프치고 여행가고 축구보는 보미",
-          "date": "2026-06-01"
+          "title": "네이버 치지직 고객센터 바로가기 결제 해지와 환불 처리 방법",
+          "link": "https://blog.naver.com/namaksin14/224343567009",
+          "blogger": "매튜_하나님의 선물",
+          "date": "2026-07-11"
         },
         {
-          "title": "파리생제르맹 FC 키즈 유니폼 구매부터 마킹까지 후기｜동대문 싸카....",
-          "link": "https://blog.naver.com/khimp/224283717261",
-          "blogger": "모찌픽의 취향기록",
-          "date": "2026-05-13"
+          "title": "치지직 월드컵 중계 화질 높이는법, 채팅창까지 깔끔하게 끄기",
+          "link": "https://blog.naver.com/hi_it/224324519811",
+          "blogger": "하이아이티",
+          "date": "2026-06-23"
         }
       ],
       "topNews": [
         {
-          "title": "월드컵 결승골 주인공 토레스, PSG 유니폼 입는다...이적료 5천만 유로",
-          "link": "http://www.maniareport.com/view.php?ud=2026081610340491646cf2d78c68_19",
+          "title": "미래의 페이커들 경주에 총집합 '제18회 대통령배 KeG' 전국 결선 개막",
+          "link": "https://gamefocus.co.kr/detail.php?number=178277",
           "press": "",
           "date": "2026-08-16"
         },
         {
-          "title": "'월드컵 영웅' 토레스, PSG로 간다…이강인 옛 동료에서 파리의 새로운...",
-          "link": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=432565",
+          "title": "이번엔 T1 홈그라운드서 젠지와 대결···LCK 선두 싸움 승기 어디로?",
+          "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=423071",
           "press": "",
           "date": "2026-08-16"
         },
         {
-          "title": "‘손흥민 후임 주장’ 로메로, 아틀레티코行…이강인 입단 동기 됐다",
-          "link": "https://www.donga.com/news/Sports/article/all/20260816/134484405/1",
+          "title": "‘기인’ 김기인 “홈스탠드 2연패 부끄러워…T1에 설욕하겠다” [쿠키...",
+          "link": "https://www.kukinews.com/article/view/kuk202608140034",
           "press": "",
-          "date": "2026-08-16"
+          "date": "2026-08-15"
         },
         {
-          "title": "스페인에 월드컵 우승 안긴 토레스, 이강인 떠난 PSG로 이적",
-          "link": "https://www.newsis.com/view/NISX20260816_0003750913",
+          "title": "e스포츠 주도권 노리는 치지직·숲… “대형 중계권 vs 팬덤 생태계” ...",
+          "link": "https://www.sedaily.com/article/20079497?ref=naver",
           "press": "",
-          "date": "2026-08-16"
+          "date": "2026-08-15"
         },
         {
-          "title": "‘월드컵 결승전 결승골’ 토레스, 820억원에 PSG행",
-          "link": "https://www.segye.com/newsView/20260816505640?OutUrl=naver",
+          "title": "[PMWC] 농심, 하루 84점 쓸어담고 2위…韓 첫 월드컵 우승 '정조준'",
+          "link": "https://www.apnews.kr/news/articleView.html?idxno=3050499",
           "press": "",
-          "date": "2026-08-16"
+          "date": "2026-08-15"
         }
       ],
       "rank": 8
@@ -660,74 +660,74 @@
       "rank": 9
     },
     {
-      "keyword": "땅집고",
-      "traffic": "1000+",
-      "blogTotal": 22491,
-      "newsTotal": 21022,
-      "recentToday": 0,
-      "recentWeek": 81,
+      "keyword": "파리 생제르맹 fc",
+      "traffic": "2000+",
+      "blogTotal": 4246,
+      "newsTotal": 36824,
+      "recentToday": 2,
+      "recentWeek": 10,
       "topBlogs": [
         {
-          "title": "감정가 6.5억 '경기 화성 봉담아이파크' 낙찰가는?…땅집고옥션 낙찰....",
-          "link": "https://blog.naver.com/realty_go/224370204609",
-          "blogger": "부동산의 중심, 땅집고",
-          "date": "2026-08-06"
+          "title": "'파리 생제르맹 FC 소속' 선수 이강인 생애 및 축구 경력 정리",
+          "link": "https://blog.naver.com/pso164/224331588264",
+          "blogger": "과학커뮤니케이터 박종현",
+          "date": "2026-06-30"
         },
         {
-          "title": "'땅집고' 앱 하나로 집값 예측부터 세금 계산까지? 2026년형 올인원 ....",
-          "link": "https://blog.naver.com/iwglobal7/224275781974",
-          "blogger": "세상을 사는 지혜♡",
-          "date": "2026-05-05"
+          "title": "프랑스 축구의 왕이 된 PSG 이야기   파리 생제르맹 FC 역사 총정리",
+          "link": "https://blog.naver.com/kimguni714/224292107409",
+          "blogger": "스마일 정보왕",
+          "date": "2026-05-21"
         },
         {
-          "title": "부동산 경매 정보 무료로 확인하는 방법, 땅집고옥션 AI 경매 분석 ....",
-          "link": "https://blog.naver.com/dbswldud23/224343191545",
-          "blogger": "시시콜콜 이야기들",
-          "date": "2026-07-11"
+          "title": "2026년 8월 13일 파리 생제르맹 FC vs 애스턴 빌라 FC 유로파 슈퍼컵 기....",
+          "link": "https://blog.naver.com/councilml/224376168982",
+          "blogger": "councilml님의 블로그",
+          "date": "2026-08-12"
         },
         {
-          "title": "[알라딘서재][4월 29일] 왜 진보와 보수는 편을 가르는가? <바른 마음>",
-          "link": "https://blog.aladin.co.kr/thisweek/6993563",
-          "blogger": "https://blog.aladin.co.kr/",
-          "date": "2014-04-29"
+          "title": "2026 UEFA 챔피언스리그 결승전 파리생제르맹FC(psg) vs 아스널FC [유럽축....",
+          "link": "https://blog.naver.com/qhadldhaus98/224303121710",
+          "blogger": "♬ 골프치고 여행가고 축구보는 보미",
+          "date": "2026-06-01"
         },
         {
-          "title": "[알라딘서재]전쟁과 경쟁은 왜 생기는가",
-          "link": "https://blog.aladin.co.kr/hbooks/5909979",
-          "blogger": "https://blog.aladin.co.kr/",
-          "date": "2012-10-16"
+          "title": "파리생제르맹 FC 키즈 유니폼 구매부터 마킹까지 후기｜동대문 싸카....",
+          "link": "https://blog.naver.com/khimp/224283717261",
+          "blogger": "모찌픽의 취향기록",
+          "date": "2026-05-13"
         }
       ],
       "topNews": [
         {
-          "title": "'인천 동구 송림동 송림풍림아이원' 모의 경매 결과 발표, \"오차 단 99만...",
-          "link": "https://realty.chosun.com/site/data/html_dir/2026/08/14/2026081401876.html",
+          "title": "월드컵 결승골 주인공 토레스, PSG 유니폼 입는다...이적료 5천만 유로",
+          "link": "http://www.maniareport.com/view.php?ud=2026081610340491646cf2d78c68_19",
           "press": "",
-          "date": "2026-08-14"
+          "date": "2026-08-16"
         },
         {
-          "title": "돈벼락 맞는 고려대, '그린벨트' 덕소농장 신도시로 개발",
-          "link": "https://realty.chosun.com/site/data/html_dir/2026/08/13/2026081301567.html",
+          "title": "'월드컵 영웅' 토레스, PSG로 간다…이강인 옛 동료에서 파리의 새로운...",
+          "link": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=432565",
           "press": "",
-          "date": "2026-08-13"
+          "date": "2026-08-16"
         },
         {
-          "title": "강남發 아파트 호가 10억 폭락…경기권 '이 동네'도 흔들흔들",
-          "link": "https://realty.chosun.com/site/data/html_dir/2026/08/12/2026081202173.html",
+          "title": "‘손흥민 후임 주장’ 로메로, 아틀레티코行…이강인 입단 동기 됐다",
+          "link": "https://www.donga.com/news/Sports/article/all/20260816/134484405/1",
           "press": "",
-          "date": "2026-08-12"
+          "date": "2026-08-16"
         },
         {
-          "title": "국내 건축상 3개 받은 성수동 ‘에코넷센터’ 통임대 매물로 나와",
-          "link": "https://www.chosun.com/economy/2026/08/12/7HVRKZT77ZBSLJAGVPX4SNJKWI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+          "title": "스페인에 월드컵 우승 안긴 토레스, 이강인 떠난 PSG로 이적",
+          "link": "https://www.newsis.com/view/NISX20260816_0003750913",
           "press": "",
-          "date": "2026-08-11"
+          "date": "2026-08-16"
         },
         {
-          "title": "“실버타운 소유·운영 분리… 75세 이상 실수요층 공략해야”",
-          "link": "https://www.chosun.com/economy/2026/08/12/SCEG6NMFYVFKRPAVPDSSCFNBIY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+          "title": "‘월드컵 결승전 결승골’ 토레스, 820억원에 PSG행",
+          "link": "https://www.segye.com/newsView/20260816505640?OutUrl=naver",
           "press": "",
-          "date": "2026-08-11"
+          "date": "2026-08-16"
         }
       ],
       "rank": 10
