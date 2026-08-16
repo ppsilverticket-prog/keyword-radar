@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-16T07:55:00.811Z",
+  "updatedAt": "2026-08-16T08:25:07.317Z",
   "source": "live",
   "keywords": [
     {
       "keyword": "경유",
-      "traffic": "200+",
-      "blogTotal": 715233,
-      "newsTotal": 770434,
+      "traffic": "500+",
+      "blogTotal": 715239,
+      "newsTotal": 770437,
       "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
@@ -43,6 +43,24 @@
       ],
       "topNews": [
         {
+          "title": "\"경유 가격 휘발유보다 높여야\"… 환경비용 감축 제안",
+          "link": "https://www.newscj.com/news/articleView.html?idxno=3425565",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "대한항공·아시아나 통합 시너지 본격화…노선 재편·환승 경쟁력 강화",
+          "link": "https://www.news2day.co.kr/article/20260816500057",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "中 북극항로 정기 운항…‘리스크 불구 전략적 투자’",
+          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000003452&cp=nv",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
           "title": "이현재 하남시장 \"높은 문화의 힘으로 하남의 미래 열겠다\"",
           "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2459886",
           "press": "",
@@ -53,34 +71,16 @@
           "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5212803",
           "press": "",
           "date": "2026-08-16"
-        },
-        {
-          "title": "12월 개통되는 양산선, 동해선 환승할인 받는다",
-          "link": "https://www.busan.com/view/busan/view.php?code=2026081611302432174",
-          "press": "",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "GTX-D 황산역·위례신사선 연장…이현재 하남시장, 국토위원장 면담",
-          "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1329681",
-          "press": "",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "서유럽은 잊어라! 동유럽의 끝에서 만난 진짜 유럽, '불가리아'",
-          "link": "http://www.ttlnews.com/news/articleView.html?idxno=3134362",
-          "press": "",
-          "date": "2026-08-16"
         }
       ],
       "rank": 1
     },
     {
       "keyword": "매일경제",
-      "traffic": "500+",
-      "blogTotal": 295029,
-      "newsTotal": 1468208,
-      "recentToday": 31,
+      "traffic": "1000+",
+      "blogTotal": 295030,
+      "newsTotal": 1468209,
+      "recentToday": 33,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -116,6 +116,12 @@
       ],
       "topNews": [
         {
+          "title": "[매일경제TV] 올가을 주목할 반도체 클린룸 관련주",
+          "link": "https://www.mk.co.kr/article/12129007",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
           "title": "[단독] 李정부 발전5사 통합에 20조 회사채 ‘복병’…5곳 “법률검토 ...",
           "link": "https://www.mk.co.kr/article/12128982",
           "press": "",
@@ -138,12 +144,6 @@
           "link": "https://www.viva100.com/article/20260815500224",
           "press": "",
           "date": "2026-08-15"
-        },
-        {
-          "title": "[서정희 칼럼] 2단계 맞는 이재명 정부 ...경제금융 정책 '레짐 체인지'...",
-          "link": "https://www.ajunews.com/view/20260812151840213",
-          "press": "",
-          "date": "2026-08-15"
         }
       ],
       "rank": 2
@@ -151,10 +151,10 @@
     {
       "keyword": "테슬라 로드스터",
       "traffic": "100+",
-      "blogTotal": 1726,
+      "blogTotal": 1728,
       "newsTotal": 2633,
-      "recentToday": 17,
-      "recentWeek": 36,
+      "recentToday": 19,
+      "recentWeek": 38,
       "topBlogs": [
         {
           "title": "테슬라 로드스터, 1초 만에 100km 찍는 괴물 스포츠카",
@@ -222,12 +222,85 @@
       "rank": 3
     },
     {
+      "keyword": "크리스티아누 호날두",
+      "traffic": "2000+",
+      "blogTotal": 20698,
+      "newsTotal": 181517,
+      "recentToday": 18,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "크리스티아누 호날두와 조지나 로드리게스 결혼식에 대한 모든 것",
+          "link": "https://blog.naver.com/soccerbox82/224376686586",
+          "blogger": "축구 맛집 싸커박스",
+          "date": "2026-08-13"
+        },
+        {
+          "title": "하루에 5번 나눠서 잠을 잔다는 크리스티아누 호날두",
+          "link": "https://blog.naver.com/mistermy18/224317027995",
+          "blogger": "H2의 스포츠와 여행",
+          "date": "2026-06-16"
+        },
+        {
+          "title": "크리스티아누 호날두·조지나, 다음 주 결혼설…고향 마데이라서 10....",
+          "link": "https://blog.naver.com/gkgkmp11/224365809527",
+          "blogger": "오늘의 이슈캐치",
+          "date": "2026-08-02"
+        },
+        {
+          "title": "43억 원 차고 크리스티아누 호날두가 소유한 자동차 이야기",
+          "link": "https://blog.naver.com/boxriot1/224346444667",
+          "blogger": "라스카도르 (Rascador)",
+          "date": "2026-07-22"
+        },
+        {
+          "title": "<Who? special 크리스티아누 호날두> Who시리즈 신간 추천",
+          "link": "https://blog.naver.com/baby_junhak/224370850952",
+          "blogger": "MY 튼튼브로",
+          "date": "2026-08-07"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "[오피셜] 그야말로 '미친 인생 역전' 난민 캠프→ 월드컵 스타→ '1,313억...",
+          "link": "https://www.besteleven.com/news/articleView.html?idxno=311237",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "10년 만에 결혼한 호날두♥조지나, 이혼 시 '재산분할' 관련한 '비밀 계...",
+          "link": "https://www.insight.co.kr/news/568511",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "호날두 없이 사우디 데뷔전 3-0 완승… '여유만만' 포스테코글루 감독,...",
+          "link": "https://www.besteleven.com/news/articleView.html?idxno=311232",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "“호날두 이혼해도 ‘1.7조원’ 재산분할은 없다”…혼전계약서 유출 [...",
+          "link": "https://www.seoul.co.kr/news/international/2026/08/16/20260816500031?wlog_tag3=naver",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "‘충격!’ 이강인 ‘우승컵 5→0개’ 역대급 이적 사가 써놓고 3시즌 만...",
+          "link": "https://sports.khan.co.kr/article/202608160707003?pt=nv",
+          "press": "",
+          "date": "2026-08-15"
+        }
+      ],
+      "rank": 4
+    },
+    {
       "keyword": "이희진",
       "traffic": "1000+",
-      "blogTotal": 10618,
-      "newsTotal": 55636,
-      "recentToday": 16,
-      "recentWeek": 32,
+      "blogTotal": 10620,
+      "newsTotal": 55638,
+      "recentToday": 18,
+      "recentWeek": 34,
       "topBlogs": [
         {
           "title": "이희진 눈물겨운 나쁜 남자 잔혹사 딛고 임원희와 핑크빛 기류 폭발....",
@@ -262,6 +335,18 @@
       ],
       "topNews": [
         {
+          "title": "임원희, '♥이희진'과 핑크빛 기류...\"단둘이 강릉 갈래요?\" ('미우새')",
+          "link": "https://mhnse.com/news/articleView.html?idxno=1492037",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "\"오늘 밤 강릉 갈래요?\"…55세 돌싱 임원희, 8살 연하 이희진에 직진 '플...",
+          "link": "https://www.mydaily.co.kr/page/view/2026081616493991115",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
           "title": "'핑크빛' 임원희·이희진, 둘만의 데이트 '설렘 폭발…강릉여행 제안까...",
           "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1002151",
           "press": "",
@@ -278,29 +363,17 @@
           "link": "https://www.heraldmuse.com/article/10842699?ref=naver",
           "press": "",
           "date": "2026-08-16"
-        },
-        {
-          "title": "임원희, 걸그룹 멤버에 강릉 여행 제안…\"이곳에 여자 데려온 건 처음\"...",
-          "link": "https://www.xportsnews.com/article/2184360",
-          "press": "",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "‘미운우리새끼’ 임원희x이희진, 데이트 현장(미우새)",
-          "link": "https://www.bntnews.co.kr/article/view/bnt202608160034",
-          "press": "",
-          "date": "2026-08-16"
         }
       ],
-      "rank": 4
+      "rank": 5
     },
     {
       "keyword": "죠스",
       "traffic": "200+",
-      "blogTotal": 75625,
+      "blogTotal": 75626,
       "newsTotal": 14351,
-      "recentToday": 16,
-      "recentWeek": 76,
+      "recentToday": 17,
+      "recentWeek": 77,
       "topBlogs": [
         {
           "title": "gs편의점 간식 추천 죠스떡볶이 쌀떡 밀키트 내돈내산 솔직후기 가....",
@@ -365,15 +438,88 @@
           "date": "2026-08-12"
         }
       ],
-      "rank": 5
+      "rank": 6
+    },
+    {
+      "keyword": "남보라",
+      "traffic": "2000+",
+      "blogTotal": 16657,
+      "newsTotal": 55021,
+      "recentToday": 12,
+      "recentWeek": 56,
+      "topBlogs": [
+        {
+          "title": "“13남매 장녀가 엄마 됐다” 남보라 누구와 결혼했나…득남 후 현....",
+          "link": "https://blog.naver.com/gunn257/224373124793",
+          "blogger": "연예부기자",
+          "date": "2026-08-09"
+        },
+        {
+          "title": "남보라 아기 벌써 이렇게 컸어? 13남매 장녀에서 콩알이 엄마로",
+          "link": "https://blog.naver.com/yacho1225/224367708285",
+          "blogger": "오늘의 시선",
+          "date": "2026-08-04"
+        },
+        {
+          "title": "초호화 산후조리원 사용하는 남보라 응급 제왕절개, 양수 부족이 정....",
+          "link": "https://blog.naver.com/manggoo4921/224330576843",
+          "blogger": "건강하게 희망하게",
+          "date": "2026-06-29"
+        },
+        {
+          "title": "남보라 아들 사진에 댓글 2만 개? \"안 태어났으면 어쩔 뻔\" 이 열 글....",
+          "link": "https://blog.naver.com/sjw04093/224366900537",
+          "blogger": "오늘님의 블로그",
+          "date": "2026-08-03"
+        },
+        {
+          "title": "남보라, 응급 제왕절개 출산 양수가 없었다? 눈물 쏟은 진짜 이유",
+          "link": "https://blog.naver.com/dydghks3250/224318399438",
+          "blogger": "❤️ ✅kGn뉴스 ✅❤️",
+          "date": "2026-06-17"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "“벌써 완성형 이목구비” 남보라, 똑 닮은 아들 품에 안고 훈훈한 근황...",
+          "link": "https://sports.khan.co.kr/article/202608161653013?pt=nv",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "남보라, 붕어빵 아들 공개 \"남자애라 목 잘 가눠, 발차기 뻥뻥\" [MHN:피드...",
+          "link": "https://mhnse.com/news/articleView.html?idxno=1491830",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "'아들맘' 남보라, 육아맘의 반전 일상 공개했다…육아 근황 보니",
+          "link": "https://www.tenasia.co.kr/article/2026081639554",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "‘손흥민 닮은꼴♥’ 남보라, 붕어빵 아들 자랑 “남자애라 목 잘 가누...",
+          "link": "https://www.newsen.com/news_view.php?uid=202608161115580310",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "남보라가 남보라를 낳았네..붕어빵 아들과 행복한 육아 일상",
+          "link": "https://www.sportschosun.com/entertainment/2026-08-16/202608160100092400005865",
+          "press": "",
+          "date": "2026-08-16"
+        }
+      ],
+      "rank": 7
     },
     {
       "keyword": "elle",
-      "traffic": "500+",
-      "blogTotal": 55118,
+      "traffic": "1000+",
+      "blogTotal": 55119,
       "newsTotal": 32380,
-      "recentToday": 11,
-      "recentWeek": 89,
+      "recentToday": 12,
+      "recentWeek": 90,
       "topBlogs": [
         {
           "title": "'금발이 너무해' 프리퀄 엘(ELLE)에 대한 줄거리 및 모든 정보",
@@ -438,7 +584,7 @@
           "date": "2026-08-14"
         }
       ],
-      "rank": 6
+      "rank": 8
     },
     {
       "keyword": "파리 생제르맹 fc",
@@ -511,80 +657,7 @@
           "date": "2026-08-16"
         }
       ],
-      "rank": 7
-    },
-    {
-      "keyword": "대함미사일",
-      "traffic": "500+",
-      "blogTotal": 2798,
-      "newsTotal": 17509,
-      "recentToday": 1,
-      "recentWeek": 6,
-      "topBlogs": [
-        {
-          "title": "엘라즘(LRASM) 스텔스 대함미사일 위력과 단점, 한국이 극초음속 무기....",
-          "link": "https://blog.naver.com/ove9_cock/224349102102",
-          "blogger": "ove9_cock님의블로그",
-          "date": "2026-07-17"
-        },
-        {
-          "title": "한국이 중국 구축함의 대함탄도미사일에 경악한 진짜 이유",
-          "link": "https://blog.naver.com/absolutecfo/224370215891",
-          "blogger": "돋보기랩",
-          "date": "2026-08-06"
-        },
-        {
-          "title": "미사일 종류 - 현무 미사일, 순항미사일과 탄도미사일 차이점 :: 키....",
-          "link": "https://kiss7.tistory.com/3487",
-          "blogger": "키스세븐 :: 키스세븐지식",
-          "date": "2024-05-06"
-        },
-        {
-          "title": "나무호 공격, 이란 대함미사일 가능성 높아 — 정부 합동조사 결과",
-          "link": "https://blog.naver.com/kkhssn111/224298212148",
-          "blogger": "KIMS STORY",
-          "date": "2026-05-27"
-        },
-        {
-          "title": "\"드론인 줄 알았는데 미사일?\" HMM 나무호 피격, 범인은 이란제 대함....",
-          "link": "https://blog.naver.com/capang1731/224298170342",
-          "blogger": "정보 마스터",
-          "date": "2026-05-27"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "드론으로 미군 박살낸 우크라이나, 러 탄도미사일에는 속수무책",
-          "link": "https://www.imaeil.com/page/view/2026081615261274096",
-          "press": "",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "이란전 장기화에 태평양 항모까지 차출···미 서태평양 전력 공백 우려",
-          "link": "https://www.khan.co.kr/article/202608161514001",
-          "press": "",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "패트리엇 바닥난 우크라…러 탄도미사일 막을 방공망 뚫렸다",
-          "link": "https://www.donga.com/news/Inter/article/all/20260816/134484619/1",
-          "press": "",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "러 탄도 미사일 한 발도 못 막아…젤렌스키, 속수무책 호소하며 동맹국...",
-          "link": "https://nownews.seoul.co.kr/news/newsView.php?id=20260816601005&wlog_tag3=naver",
-          "press": "",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "패트리엇 바닥 난 우크라…“러 탄도미사일 공격에 속수무책”",
-          "link": "https://www.dt.co.kr/article/12078422?ref=naver",
-          "press": "",
-          "date": "2026-08-16"
-        }
-      ],
-      "rank": 8
+      "rank": 9
     },
     {
       "keyword": "땅집고",
@@ -645,89 +718,16 @@
           "date": "2026-08-12"
         },
         {
-          "title": "국내 건축상 3개 받은 성수동 ‘에코넷센터’ 통임대 매물로 나와",
-          "link": "https://www.chosun.com/economy/2026/08/12/7HVRKZT77ZBSLJAGVPX4SNJKWI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-          "press": "",
-          "date": "2026-08-11"
-        },
-        {
           "title": "“실버타운 소유·운영 분리… 75세 이상 실수요층 공략해야”",
           "link": "https://www.chosun.com/economy/2026/08/12/SCEG6NMFYVFKRPAVPDSSCFNBIY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
           "press": "",
           "date": "2026-08-11"
-        }
-      ],
-      "rank": 9
-    },
-    {
-      "keyword": "더스틴 니퍼트",
-      "traffic": "500+",
-      "blogTotal": 1523,
-      "newsTotal": 35621,
-      "recentToday": 0,
-      "recentWeek": 0,
-      "topBlogs": [
-        {
-          "title": "니퍼트 오열, 100승 레전드가 사라질 잠실야구장에 남긴 진짜 진심",
-          "link": "https://blog.naver.com/pbjkrkr/224343984961",
-          "blogger": "라이프전략가 박병진",
-          "date": "2026-07-12"
         },
         {
-          "title": "니퍼트 미모의 와이프 아내 누구? 귀화 연봉 최강야구 프로필 인스....",
-          "link": "https://blog.naver.com/diacpqpqp/223505277283",
-          "blogger": "K 에디트",
-          "date": "2024-07-08"
-        },
-        {
-          "title": "“실패해도 도전하고 싶다” 곽빈 MLB 포스팅 꿈 밝혔다…니퍼트가 ....",
-          "link": "https://blog.naver.com/yyjj2814/224372271094",
-          "blogger": "열정의 그라운드",
-          "date": "2026-08-08"
-        },
-        {
-          "title": "[넷플릭스]피지컬 100 시즌1 출연 참가자 직업 인스타 정보",
-          "link": "https://lovelysk.tistory.com/112",
-          "blogger": "가볍게 보는 넓은 이야기",
-          "date": "2023-01-30"
-        },
-        {
-          "title": "\"22승 평균자책점 2.95\" 두산 베어스 니퍼트, 누구도 부정할 수 없었던....",
-          "link": "https://blog.naver.com/cgnara/224358582076",
-          "blogger": "Sports MAG:ZINE",
-          "date": "2026-07-26"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "하지원, 비행기로 '20시간' 날아갔는데…폭우에 시구 취소→\"너무 슬프...",
-          "link": "https://mhnse.com/news/articleView.html?idxno=1486677",
+          "title": "국내 건축상 3개 받은 성수동 ‘에코넷센터’ 통임대 매물로 나와",
+          "link": "https://www.chosun.com/economy/2026/08/12/7HVRKZT77ZBSLJAGVPX4SNJKWI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
           "press": "",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "'102승' 니퍼트도 못 했는데, 오스틴은 할 수 있을까…구단에 메시지 던...",
-          "link": "https://www.mydaily.co.kr/page/view/2026081520451548824",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "'26학번' 하지원 \"kt 최원준에 고마워\"…데드볼 시구 비화",
-          "link": "https://www.news1.kr/entertain/broadcast-tv/6258551",
-          "press": "",
-          "date": "2026-08-13"
-        },
-        {
-          "title": "27세 에이스는 10K, 20세 2루수는 결승 스리런…영건들이 견인한 4연승,...",
-          "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553451527",
-          "press": "",
-          "date": "2026-08-12"
-        },
-        {
-          "title": "'MLB 전설' 김병현이 평가한 한국인 유망주 3인",
-          "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=855462",
-          "press": "",
-          "date": "2026-08-09"
+          "date": "2026-08-11"
         }
       ],
       "rank": 10
