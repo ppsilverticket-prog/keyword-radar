@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-17T16:55:11.305Z",
+  "updatedAt": "2026-08-17T17:23:36.488Z",
   "source": "live",
   "keywords": [
     {
       "keyword": "선박",
       "traffic": "200+",
-      "blogTotal": 274694,
+      "blogTotal": 274695,
       "newsTotal": 1899778,
-      "recentToday": 95,
+      "recentToday": 93,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -76,11 +76,84 @@
       "rank": 1
     },
     {
+      "keyword": "나이스",
+      "traffic": "100+",
+      "blogTotal": 414428,
+      "newsTotal": 228569,
+      "recentToday": 88,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "나이스고스트클럽 죠죠 팝업 민첩하지 않은 자의 후기",
+          "link": "https://blog.naver.com/aria-yoon/224373621448",
+          "blogger": "오늘 나의 하루는",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "K-고딩이 직접 알려주는 2026 생기부 글자수·바이트 수 총정리｜나이....",
+          "link": "https://blog.naver.com/torilysr/224373947616",
+          "blogger": "릴리얼리즘 ♡",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "인천공항 근처 영종도 카페 나이스카페인클럽, 나이스커피와 토피....",
+          "link": "https://blog.naver.com/slainteworld/224339422996",
+          "blogger": "필요한 것들과 좋아하는 것들",
+          "date": "2026-07-08"
+        },
+        {
+          "title": "나이스 학부모서비스 교외체험학습 신청서·보고서 작성 방법",
+          "link": "https://blog.naver.com/oh_daeri/224347333487",
+          "blogger": "워킹맘의 찐육아 이야기",
+          "date": "2026-07-15"
+        },
+        {
+          "title": "채소와 곡물로 건강한 한끼를, 비건맛집추천 베이스이즈나이스 후....",
+          "link": "https://blog.naver.com/sereniss3/224373452489",
+          "blogger": "소비가 취미",
+          "date": "2026-08-10"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "NMIXX, 11월 인천 인스파이어 아레나에서 월드투어 피날레",
+          "link": "http://enews.imbc.com/News/RetrieveNewsInfo/515012",
+          "press": "",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "BNK투자증권, IB 재편·리테일 강화…'강한 중형사' 정조준 [전업계 추격...",
+          "link": "https://www.fntimes.com/html/view.php?ud=202608142135363747dd55077bc2_18",
+          "press": "",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "두산퓨얼셀 ‘최대 수주’ 이면에 도사린 ‘최대 적자’",
+          "link": "https://www.fntimes.com/html/view.php?ud=202608142207587442dd55077bc2_18",
+          "press": "",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "\"지역 여건 천차만별인데\" 수능 서·논술형 도입 우려 확산",
+          "link": "https://www.inews365.com/news/article.html?no=931987",
+          "press": "",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "JIMFF, 영화·음악·창작자 만나는 프로그램 풍성",
+          "link": "https://www.inews365.com/news/article.html?no=931897",
+          "press": "",
+          "date": "2026-08-17"
+        }
+      ],
+      "rank": 2
+    },
+    {
       "keyword": "황현민",
       "traffic": "200+",
-      "blogTotal": 986,
+      "blogTotal": 992,
       "newsTotal": 1544,
-      "recentToday": 92,
+      "recentToday": 86,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -142,79 +215,6 @@
         {
           "title": "\"둘이 짜고 한 연기\"…황현민, 배정남·마르코 '17년 전 폭행 시비' 뜬금...",
           "link": "https://www.xportsnews.com/article/2184545",
-          "press": "",
-          "date": "2026-08-17"
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "keyword": "나이스",
-      "traffic": "100+",
-      "blogTotal": 414427,
-      "newsTotal": 228569,
-      "recentToday": 89,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "나이스고스트클럽 죠죠 팝업 민첩하지 않은 자의 후기",
-          "link": "https://blog.naver.com/aria-yoon/224373621448",
-          "blogger": "오늘 나의 하루는",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "K-고딩이 직접 알려주는 2026 생기부 글자수·바이트 수 총정리｜나이....",
-          "link": "https://blog.naver.com/torilysr/224373947616",
-          "blogger": "릴리얼리즘 ♡",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "인천공항 근처 영종도 카페 나이스카페인클럽, 나이스커피와 토피....",
-          "link": "https://blog.naver.com/slainteworld/224339422996",
-          "blogger": "필요한 것들과 좋아하는 것들",
-          "date": "2026-07-08"
-        },
-        {
-          "title": "나이스 학부모서비스 교외체험학습 신청서·보고서 작성 방법",
-          "link": "https://blog.naver.com/oh_daeri/224347333487",
-          "blogger": "워킹맘의 찐육아 이야기",
-          "date": "2026-07-15"
-        },
-        {
-          "title": "채소와 곡물로 건강한 한끼를, 비건맛집추천 베이스이즈나이스 후....",
-          "link": "https://blog.naver.com/sereniss3/224373452489",
-          "blogger": "소비가 취미",
-          "date": "2026-08-10"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "NMIXX, 11월 인천 인스파이어 아레나에서 월드투어 피날레",
-          "link": "http://enews.imbc.com/News/RetrieveNewsInfo/515012",
-          "press": "",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "두산퓨얼셀 ‘최대 수주’ 이면에 도사린 ‘최대 적자’",
-          "link": "https://www.fntimes.com/html/view.php?ud=202608142207587442dd55077bc2_18",
-          "press": "",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "BNK투자증권, IB 재편·리테일 강화…'강한 중형사' 정조준 [전업계 추격...",
-          "link": "https://www.fntimes.com/html/view.php?ud=202608142135363747dd55077bc2_18",
-          "press": "",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "\"지역 여건 천차만별인데\" 수능 서·논술형 도입 우려 확산",
-          "link": "https://www.inews365.com/news/article.html?no=931987",
-          "press": "",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "JIMFF, 영화·음악·창작자 만나는 프로그램 풍성",
-          "link": "https://www.inews365.com/news/article.html?no=931897",
           "press": "",
           "date": "2026-08-17"
         }
@@ -309,8 +309,8 @@
           "date": "2026-08-05"
         },
         {
-          "title": "어벤져스: 둠스데이 로다주, 캡틴아메리카 출연 톰 홀랜드는 안 나....",
-          "link": "https://blog.naver.com/above_cloud/224373333656",
+          "title": "'톰홀랜드 많이 컸네' 어벤져스 둠스데이 온다, 엔드게임 명장면 결....",
+          "link": "https://blog.naver.com/above_cloud/224373005058",
           "blogger": "과몰입 공간",
           "date": "2026-08-09"
         },
@@ -366,79 +366,6 @@
         }
       ],
       "rank": 5
-    },
-    {
-      "keyword": "새마을금고",
-      "traffic": "100+",
-      "blogTotal": 176353,
-      "newsTotal": 288605,
-      "recentToday": 43,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "첫째 10% 혜택! 새마을금고 걸음마적금 후기 아기통장 만들기 (아동....",
-          "link": "https://blog.naver.com/ikk00702/224375190478",
-          "blogger": "꼼꼼이아빠 꼼대디 로그 : 육아, 영화, 일상",
-          "date": "2026-08-11"
-        },
-        {
-          "title": "원광새마을금고 정기예금 특판 연 4.22%｜12개월 예금 8월 10일부터 가....",
-          "link": "https://blog.naver.com/leejh7243/224371940169",
-          "blogger": "밝음맘의 먹고 모으는 일상",
-          "date": "2026-08-08"
-        },
-        {
-          "title": "[새마을금고 채용공고] 2026년 하반기 일반직 6급 신입 서류, 필기, 면....",
-          "link": "https://blog.naver.com/hackers_lawschool/224368619250",
-          "blogger": "해커스로스쿨·노무사·변호사",
-          "date": "2026-08-05"
-        },
-        {
-          "title": "\"특판만 잡으면 연 4%대\" 새마을금고정기예금금리 지금 얼마나 주나 ....",
-          "link": "https://blog.naver.com/misskim616/224360143919",
-          "blogger": "미스킴의 한땀경제",
-          "date": "2026-07-28"
-        },
-        {
-          "title": "새마을금고 특판예금 4.21% 등장! MG더뱅킹 비대면 가입 가능",
-          "link": "https://blog.naver.com/a120509/224314602796",
-          "blogger": "다이어트와 통장을 함께 관리하는 일상",
-          "date": "2026-06-13"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "속초자봉센터 으뜸봉사자·단체 시상",
-          "link": "https://www.kado.net/news/articleView.html?idxno=2067029",
-          "press": "",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "중수청 이어 법원·특공대까지…세종, 사법·치안시설 품는다",
-          "link": "https://www.joongang.co.kr/article/25453952",
-          "press": "",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "새마을금고, '으쌰라으쌰'로 전국 응원....조정석과 함께한 새 광고",
-          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3666621",
-          "press": "",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "\"6개월새 28조 증발\" 초유의 상황…불장에 '직격탄' 맞은 곳",
-          "link": "https://www.hankyung.com/article/2026081753301",
-          "press": "",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "흔들리는 상호금융…상반기 28조 증발",
-          "link": "https://www.hankyung.com/article/2026081753601",
-          "press": "",
-          "date": "2026-08-17"
-        }
-      ],
-      "rank": 6
     },
     {
       "keyword": "창원시장",
@@ -507,6 +434,79 @@
         {
           "title": "광복 81주년 맞은 경남교계…\"하나님이 주신 자유, 감사하며 지켜야\"",
           "link": "https://www.nocutnews.co.kr/news/6563836?utm_source=naver&utm_medium=article&utm_campaign=20260817084110",
+          "press": "",
+          "date": "2026-08-17"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "keyword": "브루스 윌리스",
+      "traffic": "200+",
+      "blogTotal": 14023,
+      "newsTotal": 14271,
+      "recentToday": 26,
+      "recentWeek": 48,
+      "topBlogs": [
+        {
+          "title": "\"전 아내와 현 아내가 같은 날 그의 사진을 올렸다\"…브루스 윌리스 ....",
+          "link": "https://blog.naver.com/lakepark1221/224324637130",
+          "blogger": "튼튼해지는 이야기, 건테일",
+          "date": "2026-06-24"
+        },
+        {
+          "title": "90년대 슈퍼스타 브루스 윌리스 충격 근황, 전두측두엽 치매? (셀럽....",
+          "link": "https://blog.naver.com/8winner/224231668419",
+          "blogger": "레슬리 매거진",
+          "date": "2026-03-27"
+        },
+        {
+          "title": "브루스 윌리스 치매 근황, 두 아내가 동시에 올린 사진 한 장의 의미",
+          "link": "https://blog.naver.com/alwls1989/224323075844",
+          "blogger": "여울맘의블로그",
+          "date": "2026-06-22"
+        },
+        {
+          "title": "브루스 윌리스 치매 투병, 은퇴 후 알려진 근황",
+          "link": "https://blog.naver.com/jimxoxo/224228446263",
+          "blogger": "지미의 샬라샬라",
+          "date": "2026-03-25"
+        },
+        {
+          "title": "브루스 윌리스 근황 충격…‘다이하드 영웅’ 지금 상태, 가족이 전....",
+          "link": "https://blog.naver.com/jalanika1/224228408194",
+          "blogger": "하늘아이 매거진",
+          "date": "2026-03-24"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "‘치매 투병’ 브루스 윌리스, 데미무어와 막내딸 결혼식 참석",
+          "link": "https://www.joongang.co.kr/article/25454011",
+          "press": "",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "'치매 투병' 브루스 윌리스, 전처 데미 무어와 딸 결혼식 참석",
+          "link": "https://www.hankyung.com/article/2026081755027",
+          "press": "",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "'치매' 브루스 윌리스, 딸 못알아봐도 결혼식 앞자리..데미 무어가 공개...",
+          "link": "https://www.starnewskorea.com/star/2026/08/17/2026081714422282537",
+          "press": "",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "불참설 싹 날렸다…'치매 투병' 브루스 윌리스, 막내딸 결혼식서 환한 ...",
+          "link": "https://www.tvreport.co.kr/entertainment/article/1069267/",
+          "press": "",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "'5명 딸부자' 브루스 윌리스, '치매'에도 데미 무어와 막내딸 결혼식 참...",
+          "link": "https://www.starnewskorea.com/star/2026/08/17/2026081713045423659",
           "press": "",
           "date": "2026-08-17"
         }
@@ -589,10 +589,10 @@
     {
       "keyword": "차두리",
       "traffic": "500+",
-      "blogTotal": 12263,
+      "blogTotal": 12264,
       "newsTotal": 77883,
       "recentToday": 3,
-      "recentWeek": 16,
+      "recentWeek": 17,
       "topBlogs": [
         {
           "title": "차두리 신혜성 근황, 자녀 유무는?",
