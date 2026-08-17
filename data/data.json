@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-08-17T18:34:41.511Z",
+  "updatedAt": "2026-08-17T19:25:20.183Z",
   "source": "live",
   "keywords": [
     {
       "keyword": "국경",
-      "traffic": "200+",
-      "blogTotal": 254145,
+      "traffic": "500+",
+      "blogTotal": 254147,
       "newsTotal": 919734,
       "recentToday": 95,
       "recentWeek": 100,
@@ -76,84 +76,11 @@
       "rank": 1
     },
     {
-      "keyword": "이진",
-      "traffic": "500+",
-      "blogTotal": 88879,
-      "newsTotal": 87077,
-      "recentToday": 81,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "[이천 카페] 이진상회 / 대형 베이커리 카페",
-          "link": "https://blog.naver.com/luckyo2/224374384913",
-          "blogger": "동그리네 마누리",
-          "date": "2026-08-11"
-        },
-        {
-          "title": "[이천] 이진상회, 대형 베이커리 카페 추천 | 이천 가볼만한 곳",
-          "link": "https://blog.naver.com/lobyd123/224366131014",
-          "blogger": "소소한 하루의 기록들✨",
-          "date": "2026-08-03"
-        },
-        {
-          "title": "이천 당일치기 갈만한 곳, 도자기 갤러리 정원, 베이커리카페 이진....",
-          "link": "https://blog.naver.com/funnycake5/224376440177",
-          "blogger": "funnycake",
-          "date": "2026-08-12"
-        },
-        {
-          "title": "이천 대형 카페 디저트 베이커리 카페 아기의자 주차 추천, 이천 이....",
-          "link": "https://blog.naver.com/yjheo309/224365534127",
-          "blogger": "기록하는 융로그",
-          "date": "2026-08-03"
-        },
-        {
-          "title": "전 배구선수 이진 프로필 총정리 IBK기업은행에서 활약한 이진, 코트....",
-          "link": "https://blog.naver.com/kimjam78/224346528457",
-          "blogger": "맛을 아는 여행가",
-          "date": "2026-07-14"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "美대법, 트럼프 '카롤 성추행' 소송 재심 청구 기각…500만불 패소 확정",
-          "link": "https://www.news1.kr/world/usa-canada/6261143",
-          "press": "",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "‘김민석호 민주당’ 출범…“유능한 민생 중심 정당으로”",
-          "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8638699&ref=A",
-          "press": "",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "천안 '밤에도 아이 아프면 어디로?'…달빛어린이병원 2곳이 진료공백 메...",
-          "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1094098",
-          "press": "",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "'뉴욕댁' 이진, 반려견 함께 돌아왔다..韓 정착→핑클·송혜교와 '행복...",
-          "link": "https://www.starnewskorea.com/star/2026/08/17/2026081712091394776",
-          "press": "",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "‘30년 우정’ 송혜교, 핑클 이진과 단란한 한때…반려견도 함께",
-          "link": "https://www.heraldmuse.com/article/10843049?ref=naver",
-          "press": "",
-          "date": "2026-08-17"
-        }
-      ],
-      "rank": 2
-    },
-    {
       "keyword": "황현민",
-      "traffic": "500+",
-      "blogTotal": 999,
+      "traffic": "200+",
+      "blogTotal": 1008,
       "newsTotal": 1544,
-      "recentToday": 79,
+      "recentToday": 70,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -219,25 +146,19 @@
           "date": "2026-08-17"
         }
       ],
-      "rank": 3
+      "rank": 2
     },
     {
       "keyword": "어벤져스 둠스데이",
       "traffic": "500+",
-      "blogTotal": 2609,
+      "blogTotal": 2610,
       "newsTotal": 1014,
       "recentToday": 54,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "어벤져스 둠스데이 개봉일 출연진 로다주 닥터 둠 복귀 총정리",
-          "link": "https://blog.naver.com/yeojeong0507/224367543490",
-          "blogger": "쩝쩝박사",
-          "date": "2026-08-05"
-        },
-        {
-          "title": "'톰홀랜드 많이 컸네' 어벤져스 둠스데이 온다, 엔드게임 명장면 결....",
-          "link": "https://blog.naver.com/above_cloud/224373005058",
+          "title": "어벤져스: 둠스데이 로다주, 캡틴아메리카 출연 톰 홀랜드는 안 나....",
+          "link": "https://blog.naver.com/above_cloud/224373333656",
           "blogger": "과몰입 공간",
           "date": "2026-08-09"
         },
@@ -245,6 +166,12 @@
           "title": "블랙 위도우는 어벤져스로 돌아올 수 있을까",
           "link": "https://blog.naver.com/dkfnfn08/224369151727",
           "blogger": "난필의 창고",
+          "date": "2026-08-05"
+        },
+        {
+          "title": "어벤져스 둠스데이 개봉일 출연진 로다주 닥터 둠 복귀 총정리",
+          "link": "https://blog.naver.com/yeojeong0507/224367543490",
+          "blogger": "쩝쩝박사",
           "date": "2026-08-05"
         },
         {
@@ -292,7 +219,7 @@
           "date": "2026-08-16"
         }
       ],
-      "rank": 4
+      "rank": 3
     },
     {
       "keyword": "넥슨",
@@ -321,16 +248,16 @@
           "date": "2026-08-12"
         },
         {
-          "title": "오버워치 스팀 넥슨 연동 방법 총정리, 디몬 신규 영웅 성능은?",
-          "link": "https://blog.naver.com/hyjueng/224376183700",
-          "blogger": "꿈속에서도 게임을!!",
-          "date": "2026-08-12"
-        },
-        {
           "title": "오버워치 넥슨 서비스 시작 기존 계정 연동 및 이용 방법",
           "link": "https://blog.naver.com/du4321/224370856924",
           "blogger": "디지털 노마드를 꿈꾸며",
           "date": "2026-08-08"
+        },
+        {
+          "title": "오버워치 스팀 넥슨 연동 방법 총정리, 디몬 신규 영웅 성능은?",
+          "link": "https://blog.naver.com/hyjueng/224376183700",
+          "blogger": "꿈속에서도 게임을!!",
+          "date": "2026-08-12"
         }
       ],
       "topNews": [
@@ -365,11 +292,11 @@
           "date": "2026-08-17"
         }
       ],
-      "rank": 5
+      "rank": 4
     },
     {
       "keyword": "창원시장",
-      "traffic": "200+",
+      "traffic": "500+",
       "blogTotal": 85697,
       "newsTotal": 159740,
       "recentToday": 30,
@@ -388,10 +315,10 @@
           "date": "2026-08-06"
         },
         {
-          "title": "창원 마산 어시장 장어구이 거리 바다뷰 노포 맛집 추천 / 신포장어",
-          "link": "https://blog.naver.com/gus1613/224370152909",
-          "blogger": "먹로그",
-          "date": "2026-08-06"
+          "title": "[창원] 가성비와 맛 모두 만족한 한 끼! 반송시장 칼국수 거리 + 뚱땡....",
+          "link": "https://blog.naver.com/jjoee0126/224366670007",
+          "blogger": "주댕이의 블로그",
+          "date": "2026-08-03"
         },
         {
           "title": "창원국수맛집 상남시장맛집추천 상남원조촌국수",
@@ -400,10 +327,10 @@
           "date": "2026-07-21"
         },
         {
-          "title": "[창원] 가성비와 맛 모두 만족한 한 끼! 반송시장 칼국수 거리 + 뚱땡....",
-          "link": "https://blog.naver.com/jjoee0126/224366670007",
-          "blogger": "주댕이의 블로그",
-          "date": "2026-08-03"
+          "title": "창원 마산 어시장 장어구이 거리 바다뷰 노포 맛집 추천 / 신포장어",
+          "link": "https://blog.naver.com/gus1613/224370152909",
+          "blogger": "먹로그",
+          "date": "2026-08-06"
         }
       ],
       "topNews": [
@@ -426,19 +353,19 @@
           "date": "2026-08-17"
         },
         {
-          "title": "광복 81주년 맞은 경남교계…\"하나님이 주신 자유, 감사하며 지켜야\"",
-          "link": "https://www.nocutnews.co.kr/news/6563836?utm_source=naver&utm_medium=article&utm_campaign=20260817084110",
-          "press": "",
-          "date": "2026-08-17"
-        },
-        {
           "title": "창원시, 마산 해안 저지대 방재시설 점검..., 대조기·집중호우 대비",
           "link": "https://www.newsgn.com/news/articleView.html?idxno=568227",
           "press": "",
           "date": "2026-08-17"
+        },
+        {
+          "title": "광복 81주년 맞은 경남교계…\"하나님이 주신 자유, 감사하며 지켜야\"",
+          "link": "https://www.nocutnews.co.kr/news/6563836?utm_source=naver&utm_medium=article&utm_campaign=20260817084110",
+          "press": "",
+          "date": "2026-08-17"
         }
       ],
-      "rank": 6
+      "rank": 5
     },
     {
       "keyword": "브루스 윌리스",
@@ -511,15 +438,15 @@
           "date": "2026-08-17"
         }
       ],
-      "rank": 7
+      "rank": 6
     },
     {
       "keyword": "fc온라인",
       "traffic": "500+",
-      "blogTotal": 13966,
+      "blogTotal": 13967,
       "newsTotal": 82823,
       "recentToday": 6,
-      "recentWeek": 99,
+      "recentWeek": 100,
       "topBlogs": [
         {
           "title": "피파 FC 온라인 3000조 DP 단일 스쿼드 팀컬러 추천 │ 급여 310",
@@ -528,16 +455,16 @@
           "date": "2026-08-06"
         },
         {
-          "title": "피파온라인3 말기 연상시키는 fc온라인 bp 개편 소식",
-          "link": "https://blog.naver.com/bareunswim/224377329220",
-          "blogger": "바른쉼. Rest Better. Live Better",
-          "date": "2026-08-13"
-        },
-        {
           "title": "피파온라인4 FC온라인 쿠폰 입력 방법 라커룸 토크 변경점",
           "link": "https://blog.naver.com/yong9260/224376653945",
           "blogger": "용혁순",
           "date": "2026-08-12"
+        },
+        {
+          "title": "피파온라인3 말기 연상시키는 fc온라인 bp 개편 소식",
+          "link": "https://blog.naver.com/bareunswim/224377329220",
+          "blogger": "바른쉼. Rest Better. Live Better",
+          "date": "2026-08-13"
         },
         {
           "title": "갤럭시 스토어 FC 온라인 M, FC 모바일 입점! FC 모바일 쿠폰부터 할인 ....",
@@ -584,80 +511,80 @@
           "date": "2026-08-17"
         }
       ],
-      "rank": 8
+      "rank": 7
     },
     {
-      "keyword": "뇌",
-      "traffic": "200+",
-      "blogTotal": 1986265,
-      "newsTotal": 1387592,
-      "recentToday": 2,
-      "recentWeek": 100,
+      "keyword": "판문점 도끼",
+      "traffic": "100+",
+      "blogTotal": 912,
+      "newsTotal": 4696,
+      "recentToday": 5,
+      "recentWeek": 12,
       "topBlogs": [
         {
-          "title": "뇌출혈전조증상 두통 (+벼락두통, 골든타임) - 망치로 맞은 듯한 극....",
-          "link": "https://blog.naver.com/architect14213/224370347108",
-          "blogger": "한눈에 보는 건강 정보 & 이슈 노트",
-          "date": "2026-08-06"
-        },
-        {
-          "title": "외상성 뇌출혈 진단비 받을 수 있을까? 질병코드와 보험금 지급 기....",
-          "link": "https://blog.naver.com/sealom2/224371474708",
-          "blogger": "최군의 보험스토리",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "뇌 두통·어지럼증과 MRI MRA 검사 차이! 그리고 비용·실비 적용 미치 ....",
-          "link": "https://blog.naver.com/dq_no1/224365115386",
-          "blogger": "보험설계사 DQ맘",
+          "title": "미친개는몽둥이가약, 판문점 도끼만행사건 50주년에 다시 보는 이유",
+          "link": "https://blog.naver.com/foreverat/224365472139",
+          "blogger": "유니파파",
           "date": "2026-08-02"
         },
         {
-          "title": "백질변성(leukoaraiosis) 뜻 뇌혈관질환 진단 보험금 어려운 이유",
-          "link": "https://blog.naver.com/gsclaim_official/224359307609",
-          "blogger": "✅보험사 본사 결재자 출신 14년 경력 손해사정사",
-          "date": "2026-07-29"
+          "title": "판문점 도끼 만행 사건 : 도끼 한 자루가 한반도를 뒤흔들다",
+          "link": "https://blog.naver.com/eksqkdls88/224247716656",
+          "blogger": "단바인의 사건수첩",
+          "date": "2026-04-10"
         },
         {
-          "title": "치매 위험 높이는 최악의 음식 4가지와 약국 뇌 영양제 추천",
-          "link": "https://blog.naver.com/pharmcol20/224366840241",
-          "blogger": "365구의매일약국",
-          "date": "2026-08-05"
+          "title": "판문점 도끼  만행 회상",
+          "link": "https://blog.naver.com/jaww2805/224371962627",
+          "blogger": "달구지의 마실 다니기",
+          "date": "2026-08-08"
+        },
+        {
+          "title": "판문점 견학",
+          "link": "https://lhw3156s.tistory.com/7736861",
+          "blogger": "하계의 블로그",
+          "date": "2011-09-06"
+        },
+        {
+          "title": "문대통령친서와,김정은 대남공개사과",
+          "link": "https://nongbau7.tistory.com/15959824",
+          "blogger": "농바우(농바위)",
+          "date": "2020-09-25"
         }
       ],
       "topNews": [
         {
-          "title": "로봇 재활, 뇌졸중 환자 신경가소성 회복의 게임체인저",
-          "link": "https://www.g-enews.com/view.php?ud=2026081722582378862bd56fbc3c_1",
+          "title": "[역사속 오늘·8.18] 판문점 '도끼만행사건'(1976)·김대중 대통령 서거...",
+          "link": "http://kor.theasian.asia/archives/412717",
           "press": "",
           "date": "2026-08-17"
         },
         {
-          "title": "백인천 감독, 0.412 대기록 남기고 영면...KBO장으로 엄수",
-          "link": "http://www.thesportstimes.co.kr/news/articleView.html?idxno=374981",
+          "title": "우리가 기억해야 할 역사/ 8·18 판문점 도끼만행사건 50주년",
+          "link": "https://monthly.chosun.com/news/articleView.html?idxno=71074",
           "press": "",
           "date": "2026-08-17"
         },
         {
-          "title": "출생 줄었는데 장애아 늘어… “숨기기보다 조기 진단·지원” 확산",
-          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000003818&cp=nv",
+          "title": "‘도끼만행 50년’ 美장교 유족·전우... “활기찬 한국은 살아있는 기...",
+          "link": "https://www.chosun.com/national/people/2026/08/17/LUXLW3RQIZAOFOJAVL2X36UOQA/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
           "press": "",
           "date": "2026-08-17"
         },
         {
-          "title": "‘치매 투병’ 브루스 윌리스, 데미무어와 막내딸 결혼식 참석",
-          "link": "https://www.joongang.co.kr/article/25454011",
+          "title": "김정형의 100년의 기록 100년의 교훈",
+          "link": "http://www.newsmaker.or.kr/news/articleView.html?idxno=180813",
           "press": "",
-          "date": "2026-08-17"
+          "date": "2026-08-16"
         },
         {
-          "title": "월간 <불교문화> 8월호 \"사후세계, 죽음 이후를 묻다\"",
-          "link": "http://www.bulkyo21.com/news/articleView.html?idxno=64771",
+          "title": "[만물상] 웨스트포인트와 6·25",
+          "link": "https://www.chosun.com/opinion/manmulsang/2026/08/16/BQTGMQXLBJDEVJV2TBH6TBJEOE/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
           "press": "",
-          "date": "2026-08-17"
+          "date": "2026-08-16"
         }
       ],
-      "rank": 9
+      "rank": 8
     },
     {
       "keyword": "어쌔신 크리드 오디세이",
@@ -728,6 +655,79 @@
           "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=4023578",
           "press": "",
           "date": "2026-08-04"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "keyword": "뇌",
+      "traffic": "500+",
+      "blogTotal": 1986303,
+      "newsTotal": 1387592,
+      "recentToday": 0,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "뇌출혈전조증상 두통 (+벼락두통, 골든타임) - 망치로 맞은 듯한 극....",
+          "link": "https://blog.naver.com/architect14213/224370347108",
+          "blogger": "한눈에 보는 건강 정보 & 이슈 노트",
+          "date": "2026-08-06"
+        },
+        {
+          "title": "외상성 뇌출혈 진단비 받을 수 있을까? 질병코드와 보험금 지급 기....",
+          "link": "https://blog.naver.com/sealom2/224371474708",
+          "blogger": "최군의 보험스토리",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "뇌 두통·어지럼증과 MRI MRA 검사 차이! 그리고 비용·실비 적용 미치 ....",
+          "link": "https://blog.naver.com/dq_no1/224365115386",
+          "blogger": "보험설계사 DQ맘",
+          "date": "2026-08-02"
+        },
+        {
+          "title": "백질변성(leukoaraiosis) 뜻 뇌혈관질환 진단 보험금 어려운 이유",
+          "link": "https://blog.naver.com/gsclaim_official/224359307609",
+          "blogger": "✅보험사 본사 결재자 출신 14년 경력 손해사정사",
+          "date": "2026-07-29"
+        },
+        {
+          "title": "치매 위험 높이는 최악의 음식 4가지와 약국 뇌 영양제 추천",
+          "link": "https://blog.naver.com/pharmcol20/224366840241",
+          "blogger": "365구의매일약국",
+          "date": "2026-08-05"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "로봇 재활, 뇌졸중 환자 신경가소성 회복의 게임체인저",
+          "link": "https://www.g-enews.com/view.php?ud=2026081722582378862bd56fbc3c_1",
+          "press": "",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "백인천 감독, 0.412 대기록 남기고 영면...KBO장으로 엄수",
+          "link": "http://www.thesportstimes.co.kr/news/articleView.html?idxno=374981",
+          "press": "",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "출생 줄었는데 장애아 늘어… “숨기기보다 조기 진단·지원” 확산",
+          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000003818&cp=nv",
+          "press": "",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "‘치매 투병’ 브루스 윌리스, 데미무어와 막내딸 결혼식 참석",
+          "link": "https://www.joongang.co.kr/article/25454011",
+          "press": "",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "월간 <불교문화> 8월호 \"사후세계, 죽음 이후를 묻다\"",
+          "link": "http://www.bulkyo21.com/news/articleView.html?idxno=64771",
+          "press": "",
+          "date": "2026-08-17"
         }
       ],
       "rank": 10
