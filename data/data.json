@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-17T20:22:53.085Z",
+  "updatedAt": "2026-08-17T20:53:19.652Z",
   "source": "live",
   "keywords": [
     {
       "keyword": "국경",
-      "traffic": "500+",
-      "blogTotal": 254150,
-      "newsTotal": 919737,
-      "recentToday": 91,
+      "traffic": "1000+",
+      "blogTotal": 254153,
+      "newsTotal": 919738,
+      "recentToday": 88,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -43,6 +43,12 @@
       ],
       "topNews": [
         {
+          "title": "'불법 월경' 비상…모로코서 300여명 또 체포",
+          "link": "https://news.tvchosun.com/site/data/html_dir/2026/08/18/2026081890003.html",
+          "press": "",
+          "date": "2026-08-17"
+        },
+        {
           "title": "“유전자 교정 규제, 글로벌 기준에 맞춰야” 국제종자연맹",
           "link": "https://www.mk.co.kr/article/12129605",
           "press": "",
@@ -65,15 +71,82 @@
           "link": "http://coinreaders.com/253163",
           "press": "",
           "date": "2026-08-17"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "keyword": "정년",
+      "traffic": "500+",
+      "blogTotal": 201168,
+      "newsTotal": 418190,
+      "recentToday": 84,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "\"정년 65세 연장 확정되면 '이 년생'은 만세 부릅니다\" 가장 큰 혜택 ....",
+          "link": "https://blog.naver.com/certified07/224363089692",
+          "blogger": "스페셜리스트",
+          "date": "2026-08-06"
         },
         {
-          "title": "알파벳 쓸어담는 월가 구루들[박신영의 개장전 요것만]",
-          "link": "https://www.hankyung.com/article/202608185658i",
+          "title": "공무원 정년연장 법안 입법시기 언제일까? 통과 시기와 핵심 변수",
+          "link": "https://blog.naver.com/info202607/224377601707",
+          "blogger": "정보마켓님의 블로그",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "정년연장 65세 확정됐나? 1969년생부터 달라지는 것",
+          "link": "https://blog.naver.com/dhsia0618/224369632815",
+          "blogger": "디지털노마드 l 경제ㆍ재테크ㆍ마케팅",
+          "date": "2026-08-06"
+        },
+        {
+          "title": "정년연장 65세 88.3%가 찬성…국민연금 공백과 청년채용 논란인 이유",
+          "link": "https://blog.naver.com/press02/224373993313",
+          "blogger": "재미진 저널리스트의 금융탐구생활",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "65세 정년연장, 2029년 시행될까?69년생부터 적용? 현재 논의 상황과 ....",
+          "link": "https://blog.naver.com/yjh_0616/224333198503",
+          "blogger": "행복만땅가득",
+          "date": "2026-07-07"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "특수교육 현장 외면하는 인천교육청[생생확대경]",
+          "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=01984406645548632",
+          "press": "",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "\"AI 개발, 1등이 전부는 아니다…韓 강점은 반도체·제조업\"[일문일답]",
+          "link": "https://www.news1.kr/it-science/security-hacking/6259046",
+          "press": "",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "\"쿠팡 과징금 취소해야…美기업 때리는 통쾌함보다 국익이 중요\"",
+          "link": "https://www.news1.kr/industry/distribution/6258386",
+          "press": "",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "\"국가대표 독파모 AI 증류 '불법' 소지…美와 선제 협상해야\"",
+          "link": "https://www.news1.kr/it-science/internet-platform/6258377",
+          "press": "",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "\"노사관계는 어떻게 전개될 것인가?\"(186편)",
+          "link": "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1169772&ref=naverpc",
           "press": "",
           "date": "2026-08-17"
         }
       ],
-      "rank": 1
+      "rank": 2
     },
     {
       "keyword": "대치동",
@@ -146,12 +219,12 @@
           "date": "2026-08-17"
         }
       ],
-      "rank": 2
+      "rank": 3
     },
     {
       "keyword": "최애의 사원",
       "traffic": "1000+",
-      "blogTotal": 1959,
+      "blogTotal": 1961,
       "newsTotal": 1709,
       "recentToday": 70,
       "recentWeek": 100,
@@ -219,13 +292,13 @@
           "date": "2026-08-17"
         }
       ],
-      "rank": 3
+      "rank": 4
     },
     {
       "keyword": "넥슨",
       "traffic": "2000+",
       "blogTotal": 151844,
-      "newsTotal": 573935,
+      "newsTotal": 573937,
       "recentToday": 51,
       "recentWeek": 100,
       "topBlogs": [
@@ -262,37 +335,110 @@
       ],
       "topNews": [
         {
+          "title": "[겜플]갈림길에 선 지스타",
+          "link": "https://www.mt.co.kr/tech/2026/08/18/2026081714015933051",
+          "press": "",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "[데스크칼럼] 넥슨·넷마블 안보이는데…이번 '지스타' 꼭 가야 한다",
+          "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5052036",
+          "press": "",
+          "date": "2026-08-17"
+        },
+        {
           "title": "“25년 추억, 클릭 한번에 삭제”…‘크아’ 섭종이 남긴 씁쓸함 [팩플...",
           "link": "https://www.joongang.co.kr/article/25454016",
           "press": "",
           "date": "2026-08-17"
         },
         {
-          "title": "[글로벌 비즈 브리핑] 메타, 청소년 유해 재판 개시...최고 '돈줄' 위기...",
+          "title": "[글로벌 비즈 브리핑] 메타, 청소년 유해 재판 개시…최고 '돈줄' 위기 ...",
           "link": "https://biz.sbs.co.kr/article_hub/20000329087?division=NAVER",
           "press": "",
           "date": "2026-08-17"
         },
         {
-          "title": "배당률 19%?...넥슨 파격 특별배당에 日 증시 들썩",
+          "title": "배당률 19%?…넥슨 파격 특별배당에 日 증시 들썩",
           "link": "https://biz.sbs.co.kr/article_hub/20000329086?division=NAVER",
-          "press": "",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "크래프톤, 게임업계 ‘3N 아성’ 깨고 매출-영업이익 1위로",
-          "link": "https://www.donga.com/news/Economy/article/all/20260817/134490844/2",
-          "press": "",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "넥슨·엔씨로 갈라진 ‘블아ʼ…다음달 도쿄게임쇼 격돌",
-          "link": "https://www.fntimes.com/html/view.php?ud=202608142219221488dd55077bc2_18",
           "press": "",
           "date": "2026-08-17"
         }
       ],
-      "rank": 4
+      "rank": 5
+    },
+    {
+      "keyword": "당대표",
+      "traffic": "5000+",
+      "blogTotal": 158883,
+      "newsTotal": 9123007,
+      "recentToday": 28,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "2026 더불어민주당 당대표 온라인투표 선거 ARS 참여 방법 전당대회 ....",
+          "link": "https://blog.naver.com/allowan25820/224371090532",
+          "blogger": "설치도우미",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "더불어민주당 전당대회, 당대표, 최고위원 경선일정",
+          "link": "https://blog.naver.com/gwjun/224367562942",
+          "blogger": "사람과 정책",
+          "date": "2026-08-04"
+        },
+        {
+          "title": "2026 더불어민주당 당대표 온라인투표 선거 ARS 참여 방법 8월17일 일....",
+          "link": "https://blog.naver.com/ritai6421/224371091857",
+          "blogger": "ritai6421님의블로그",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "더불어민주당 당대표 경선 일정 및 지역별 순회투표 확인 방법",
+          "link": "https://blog.naver.com/iiigrida/224372436533",
+          "blogger": "데일리 셰어",
+          "date": "2026-08-08"
+        },
+        {
+          "title": "더불어민주당 당대표 전당대회 선거 일정 투표",
+          "link": "https://blog.naver.com/dydghks3250/224366383857",
+          "blogger": "❤️ ✅kGn뉴스 ✅❤️",
+          "date": "2026-08-03"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "본격 활동 나선 복지위 '약국 외부자본 방지법' 기대감 '↑'",
+          "link": "https://www.kpanews.co.kr/news/articleView.html?idxno=540718",
+          "press": "",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "김민석, 취임 직후 당직 인선…비서실장 김태선·수석대변인 박성준",
+          "link": "https://www.dt.co.kr/article/12078619?ref=naver",
+          "press": "",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "김민석 당선 가른 첫 선호투표…당원 평가는 엇갈렸다",
+          "link": "https://www.kukinews.com/article/view/kuk202608170039",
+          "press": "",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "김민석 취임 일성 “민주당 바꾸겠다”…민생·외연 확장·유능한 정치...",
+          "link": "https://www.dt.co.kr/article/12078618?ref=naver",
+          "press": "",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "한국휴텍스제약·동구바이오제약 '잇단 패소'",
+          "link": "https://www.dailymedi.com/news/news_view.php?wr_id=939500",
+          "press": "",
+          "date": "2026-08-17"
+        }
+      ],
+      "rank": 6
     },
     {
       "keyword": "브루스 윌리스",
@@ -303,16 +449,16 @@
       "recentWeek": 48,
       "topBlogs": [
         {
-          "title": "\"전 아내와 현 아내가 같은 날 그의 사진을 올렸다\"…브루스 윌리스 ....",
-          "link": "https://blog.naver.com/lakepark1221/224324637130",
-          "blogger": "튼튼해지는 이야기, 건테일",
-          "date": "2026-06-24"
-        },
-        {
           "title": "90년대 슈퍼스타 브루스 윌리스 충격 근황, 전두측두엽 치매? (셀럽....",
           "link": "https://blog.naver.com/8winner/224231668419",
           "blogger": "레슬리 매거진",
           "date": "2026-03-27"
+        },
+        {
+          "title": "\"전 아내와 현 아내가 같은 날 그의 사진을 올렸다\"…브루스 윌리스 ....",
+          "link": "https://blog.naver.com/lakepark1221/224324637130",
+          "blogger": "튼튼해지는 이야기, 건테일",
+          "date": "2026-06-24"
         },
         {
           "title": "브루스 윌리스 치매 근황, 두 아내가 동시에 올린 사진 한 장의 의미",
@@ -321,10 +467,10 @@
           "date": "2026-06-22"
         },
         {
-          "title": "브루스 윌리스 치매 투병, 은퇴 후 알려진 근황",
-          "link": "https://blog.naver.com/jimxoxo/224228446263",
-          "blogger": "지미의 샬라샬라",
-          "date": "2026-03-25"
+          "title": "\"영웅은 사라지지 않는다\" 치매 투병 브루스 윌리스가 보여준 기적",
+          "link": "https://blog.naver.com/medic3939/224380156424",
+          "blogger": "실 생활에 유용한",
+          "date": "2026-08-16"
         },
         {
           "title": "브루스 윌리스 근황 충격…‘다이하드 영웅’ 지금 상태, 가족이 전....",
@@ -365,14 +511,14 @@
           "date": "2026-08-17"
         }
       ],
-      "rank": 5
+      "rank": 7
     },
     {
       "keyword": "퇴직",
       "traffic": "500+",
-      "blogTotal": 570618,
-      "newsTotal": 1481720,
-      "recentToday": 9,
+      "blogTotal": 570621,
+      "newsTotal": 1481721,
+      "recentToday": 6,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -408,6 +554,12 @@
       ],
       "topNews": [
         {
+          "title": "특수교육 현장 외면하는 인천교육청[생생확대경]",
+          "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=01984406645548632",
+          "press": "",
+          "date": "2026-08-17"
+        },
+        {
           "title": "“캐디, 너 해고” 했다간…한국선 ‘트럼프 골프장’ 어려운 까닭 [성...",
           "link": "https://www.joongang.co.kr/article/25454030",
           "press": "",
@@ -426,19 +578,13 @@
           "date": "2026-08-17"
         },
         {
-          "title": "판 바뀐 퇴직연금⋯신규 자금 95% 직접 굴린다 [550조 연금전쟁 上-①]",
-          "link": "https://www.etoday.co.kr/news/view/2615168",
-          "press": "",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "[인터뷰] 이병도 충남교육감 \"'도민 교육주권 시대' 실현에 전력\"",
-          "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260817010005243",
+          "title": "“가족 만들지 말아야”…이런 마음으로 출근하는 소청과 전공의",
+          "link": "https://www.joongang.co.kr/article/25454019",
           "press": "",
           "date": "2026-08-17"
         }
       ],
-      "rank": 6
+      "rank": 8
     },
     {
       "keyword": "fc온라인",
@@ -511,7 +657,7 @@
           "date": "2026-08-17"
         }
       ],
-      "rank": 7
+      "rank": 9
     },
     {
       "keyword": "판문점 도끼",
@@ -546,10 +692,10 @@
           "date": "2011-09-06"
         },
         {
-          "title": "문대통령친서와,김정은 대남공개사과",
-          "link": "https://nongbau7.tistory.com/15959824",
-          "blogger": "농바우(농바위)",
-          "date": "2020-09-25"
+          "title": "경춘선 숲길, 대한민국 최고의 미루나무 맛집",
+          "link": "https://blog.naver.com/sinopark/224329385340",
+          "blogger": "유적지의 나무들",
+          "date": "2026-06-28"
         }
       ],
       "topNews": [
@@ -582,152 +728,6 @@
           "link": "https://www.chosun.com/opinion/manmulsang/2026/08/16/BQTGMQXLBJDEVJV2TBH6TBJEOE/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
           "press": "",
           "date": "2026-08-16"
-        }
-      ],
-      "rank": 8
-    },
-    {
-      "keyword": "어쌔신 크리드 오디세이",
-      "traffic": "100+",
-      "blogTotal": 4589,
-      "newsTotal": 1070,
-      "recentToday": 1,
-      "recentWeek": 3,
-      "topBlogs": [
-        {
-          "title": "어쌔신 크리드 오디세이 영화 개봉 후 유저 참여도 급증",
-          "link": "https://blog.naver.com/voodoo7/224366291950",
-          "blogger": "티파의 게임 라이프",
-          "date": "2026-08-03"
-        },
-        {
-          "title": "2026년 다시 해본 어쌔신 크리드 오디세이, 지금도 할 만할까?",
-          "link": "https://blog.naver.com/jechi00/224342087067",
-          "blogger": "제로로의 GAME 이야기",
-          "date": "2026-07-10"
-        },
-        {
-          "title": "어쌔신 크리드 오디세이 역주행, 놀란 영화 이후 이용자 90% 증가",
-          "link": "https://blog.naver.com/finepix401/224381586167",
-          "blogger": "Do la ta do",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "[게임리뷰] 유비 최고작 '어쌔신크리드 : 오디세이' , 고대 그리스를 ....",
-          "link": "https://blog.naver.com/touma4092/224236332498",
-          "blogger": "즐거운나루생활",
-          "date": "2026-04-01"
-        },
-        {
-          "title": "어쌔신크리드 오디세이 순서 정리",
-          "link": "https://blog.naver.com/dbs_jln/223589983773",
-          "blogger": "겝빈",
-          "date": "2024-09-20"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "[게임 너머#3] '오디세이아', 그리고 '어쌔신 크리드'",
-          "link": "https://www.inven.co.kr/webzine/news/?news=319605",
-          "press": "",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "영화 '오디세이'를 본 당신을 위한 추천 게임 4선",
-          "link": "https://www.gameple.co.kr/news/articleView.html?idxno=216256",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "[Steam Pick] 이번 주 스팀에 쏟아진 신작, 지금 주목할 게임은?",
-          "link": "https://www.inven.co.kr/webzine/news/?news=319298",
-          "press": "",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "엑스박스 25주년 기념, 역대 기기 137종 게임패스 리스트 공개",
-          "link": "https://game.donga.com/123679/",
-          "press": "",
-          "date": "2026-08-05"
-        },
-        {
-          "title": "[리뷰 #270] 어쌔신 크리드 블랙 플래그 리싱크드, 카리브해의 해적 에드...",
-          "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=4023578",
-          "press": "",
-          "date": "2026-08-04"
-        }
-      ],
-      "rank": 9
-    },
-    {
-      "keyword": "뇌",
-      "traffic": "500+",
-      "blogTotal": 1986314,
-      "newsTotal": 1387598,
-      "recentToday": 0,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "뇌출혈전조증상 두통 (+벼락두통, 골든타임) - 망치로 맞은 듯한 극....",
-          "link": "https://blog.naver.com/architect14213/224370347108",
-          "blogger": "한눈에 보는 건강 정보 & 이슈 노트",
-          "date": "2026-08-06"
-        },
-        {
-          "title": "외상성 뇌출혈 진단비 받을 수 있을까? 질병코드와 보험금 지급 기....",
-          "link": "https://blog.naver.com/sealom2/224371474708",
-          "blogger": "최군의 보험스토리",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "뇌 두통·어지럼증과 MRI MRA 검사 차이! 그리고 비용·실비 적용 미치 ....",
-          "link": "https://blog.naver.com/dq_no1/224365115386",
-          "blogger": "보험설계사 DQ맘",
-          "date": "2026-08-02"
-        },
-        {
-          "title": "백질변성(leukoaraiosis) 뜻 뇌혈관질환 진단 보험금 어려운 이유",
-          "link": "https://blog.naver.com/gsclaim_official/224359307609",
-          "blogger": "✅보험사 본사 결재자 출신 14년 경력 손해사정사",
-          "date": "2026-07-29"
-        },
-        {
-          "title": "치매 위험 높이는 최악의 음식 4가지와 약국 뇌 영양제 추천",
-          "link": "https://blog.naver.com/pharmcol20/224366840241",
-          "blogger": "365구의매일약국",
-          "date": "2026-08-05"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "동거녀 때려 숨지게 한 혐의로 법정 선 50대, 2년 만에 무죄 왜?",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008708877&plink=ORI&cooper=NAVER",
-          "press": "",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "아내 떠난지 넉달만 비보..故이병철, '뇌출혈로 별세' 오늘(18일) 4주기",
-          "link": "https://www.starnewskorea.com/star/2026/08/18/2026081800450034868",
-          "press": "",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "뇌 아닌 ‘횡격막’으로 생각한 호메로스… 새 질문 던지는 ‘고전의 힘...",
-          "link": "https://www.seoul.co.kr/news/life/publication-literature/2026/08/18/20260818014001?wlog_tag3=naver",
-          "press": "",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "햇빛에 한쪽 눈 자주 감는 아이, 시력 위협하는 ‘사시’ 조심",
-          "link": "https://www.seoul.co.kr/news/life/health-news/2026/08/18/20260818018001?wlog_tag3=naver",
-          "press": "",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "故 이병철, 아내 떠나보내고 4개월 뒤 비보…뇌출혈 투병 끝, 4주기",
-          "link": "https://www.xportsnews.com/article/2184588",
-          "press": "",
-          "date": "2026-08-17"
         }
       ],
       "rank": 10
