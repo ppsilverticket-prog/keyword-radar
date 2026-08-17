@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T17:23:36.488Z",
+  "updatedAt": "2026-08-17T17:54:45.343Z",
   "source": "live",
   "keywords": [
     {
@@ -78,9 +78,9 @@
     {
       "keyword": "나이스",
       "traffic": "100+",
-      "blogTotal": 414428,
+      "blogTotal": 414425,
       "newsTotal": 228569,
-      "recentToday": 88,
+      "recentToday": 87,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -151,9 +151,9 @@
     {
       "keyword": "황현민",
       "traffic": "200+",
-      "blogTotal": 992,
+      "blogTotal": 997,
       "newsTotal": 1544,
-      "recentToday": 86,
+      "recentToday": 81,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -224,7 +224,7 @@
     {
       "keyword": "이진",
       "traffic": "500+",
-      "blogTotal": 88879,
+      "blogTotal": 88880,
       "newsTotal": 87077,
       "recentToday": 81,
       "recentWeek": 100,
@@ -368,6 +368,79 @@
       "rank": 5
     },
     {
+      "keyword": "넥슨",
+      "traffic": "2000+",
+      "blogTotal": 151845,
+      "newsTotal": 573932,
+      "recentToday": 51,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "오버워치 넥슨 연동 방법｜계정 연동 보상, 링크 정리",
+          "link": "https://blog.naver.com/kjg3635/224376052449",
+          "blogger": "생생한 이야기들",
+          "date": "2026-08-12"
+        },
+        {
+          "title": "오버워치 넥슨 연동! 8월 12일부터 달라지는 점은?",
+          "link": "https://blog.naver.com/yolofnc/224374982248",
+          "blogger": "욜로PC방 공식 블로그",
+          "date": "2026-08-11"
+        },
+        {
+          "title": "오버워치 넥슨 8월 12일 오전 3시 오픈, 스팀·배틀코인 달라지는 점",
+          "link": "https://blog.naver.com/ldkboaz/224375711052",
+          "blogger": "코댕의 세상",
+          "date": "2026-08-12"
+        },
+        {
+          "title": "오버워치 스팀 넥슨 연동 방법 총정리, 디몬 신규 영웅 성능은?",
+          "link": "https://blog.naver.com/hyjueng/224376183700",
+          "blogger": "꿈속에서도 게임을!!",
+          "date": "2026-08-12"
+        },
+        {
+          "title": "오버워치 넥슨 서비스 시작 기존 계정 연동 및 이용 방법",
+          "link": "https://blog.naver.com/du4321/224370856924",
+          "blogger": "디지털 노마드를 꿈꾸며",
+          "date": "2026-08-08"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "크래프톤, 게임업계 ‘3N 아성’ 깨고 매출-영업이익 1위로",
+          "link": "https://www.donga.com/news/Economy/article/all/20260817/134490844/2",
+          "press": "",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "넥슨·엔씨로 갈라진 ‘블아ʼ…다음달 도쿄게임쇼 격돌",
+          "link": "https://www.fntimes.com/html/view.php?ud=202608142219221488dd55077bc2_18",
+          "press": "",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "'제18회 대통령배 KeG' 전국 결선 성료…부산광역시 15년 만에 종합 우승",
+          "link": "https://www.xportsnews.com/article/2184528",
+          "press": "",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "'BIC 2026', 오프라인 관람객 4만 명 돌파하며 성료…'가비지 컨트리' 그...",
+          "link": "https://www.xportsnews.com/article/2184523",
+          "press": "",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "황제를 넘어서다…BFX 김선재, 3대1로 KT 김정민 제압 (FSL 서머) [종합]",
+          "link": "https://www.xportsnews.com/article/2184560",
+          "press": "",
+          "date": "2026-08-17"
+        }
+      ],
+      "rank": 6
+    },
+    {
       "keyword": "창원시장",
       "traffic": "200+",
       "blogTotal": 85697,
@@ -426,19 +499,19 @@
           "date": "2026-08-17"
         },
         {
-          "title": "창원시, 마산 해안 저지대 방재시설 점검..., 대조기·집중호우 대비",
-          "link": "https://www.newsgn.com/news/articleView.html?idxno=568227",
-          "press": "",
-          "date": "2026-08-17"
-        },
-        {
           "title": "광복 81주년 맞은 경남교계…\"하나님이 주신 자유, 감사하며 지켜야\"",
           "link": "https://www.nocutnews.co.kr/news/6563836?utm_source=naver&utm_medium=article&utm_campaign=20260817084110",
           "press": "",
           "date": "2026-08-17"
+        },
+        {
+          "title": "창원시, 마산 해안 저지대 방재시설 점검..., 대조기·집중호우 대비",
+          "link": "https://www.newsgn.com/news/articleView.html?idxno=568227",
+          "press": "",
+          "date": "2026-08-17"
         }
       ],
-      "rank": 6
+      "rank": 7
     },
     {
       "keyword": "브루스 윌리스",
@@ -511,150 +584,77 @@
           "date": "2026-08-17"
         }
       ],
-      "rank": 7
-    },
-    {
-      "keyword": "손담비",
-      "traffic": "500+",
-      "blogTotal": 41968,
-      "newsTotal": 110152,
-      "recentToday": 22,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "\"67kg→46kg 감량\".. 손담비가 아침 공복에 꼭 했다는 운동, 산후 11자 ....",
-          "link": "https://blog.naver.com/digimon520/224359193869",
-          "blogger": "오늘의 시장 한눈에",
-          "date": "2026-07-29"
-        },
-        {
-          "title": "미니멀인 줄 알았는데 착장만 1500만원 넘는 손담비 올드머니룩 (샤....",
-          "link": "https://blog.naver.com/wldms0147258/224377456558",
-          "blogger": "지름이의 일상",
-          "date": "2026-08-13"
-        },
-        {
-          "title": "손담비가 들자 더 예뻐 보이는 샤넬 신상백, 가격은?",
-          "link": "https://blog.naver.com/gozimozi/224374513552",
-          "blogger": "고지모지 : 옷 기록",
-          "date": "2026-08-11"
-        },
-        {
-          "title": "손담비 일본 휴가룩, 신발 논란보다 눈길 간 여름 스타일링",
-          "link": "https://blog.naver.com/mblaq95/224360525101",
-          "blogger": "찌애의 소소한 뷰티로그",
-          "date": "2026-07-28"
-        },
-        {
-          "title": "21kg 감량후 살 안쪄서 고민이라는 손담비 근황",
-          "link": "https://blog.naver.com/qufqlc08/224330527645",
-          "blogger": "소유 beauty",
-          "date": "2026-06-29"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "손담비♥이규혁 딸, 벌써 이렇게 컸어?…”키 엄청 컸음” [IS하이컷]",
-          "link": "https://isplus.com/article/view/isp202608170101",
-          "press": "",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "황현민, 배정남 '광복절 태극기' 행보에 17년전 클럽 난투극 소환 \"건달...",
-          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1002333",
-          "press": "",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "“같은 사건 맞아?” 배정남·마르코 17년 전 난투극, 황현민 말은 달랐...",
-          "link": "https://www.mk.co.kr/article/12129596",
-          "press": "",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "\"죽여달라며 건달 데려와\"…황현민 주장에 '배정남·마르코 난투극'설 ...",
-          "link": "http://www.stoo.com/article.php?aid=108363379752",
-          "press": "",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "손담비, 극도로 핼쑥해진 근황..컨디션 난조에도 모성애는 커졌다 “딸...",
-          "link": "http://www.osen.co.kr/article/G1112858933",
-          "press": "",
-          "date": "2026-08-17"
-        }
-      ],
       "rank": 8
     },
     {
-      "keyword": "차두리",
+      "keyword": "인벤",
       "traffic": "500+",
-      "blogTotal": 12264,
-      "newsTotal": 77883,
+      "blogTotal": 33185,
+      "newsTotal": 119144,
       "recentToday": 3,
-      "recentWeek": 17,
+      "recentWeek": 26,
       "topBlogs": [
         {
-          "title": "차두리 신혜성 근황, 자녀 유무는?",
-          "link": "https://blog.naver.com/everythingforyou/224368264264",
-          "blogger": "투데이 스타 이슈♡",
-          "date": "2026-08-04"
+          "title": "메이플인벤 모바일에서 게시판은 이 순서로 본다",
+          "link": "https://blog.naver.com/naakey/224375558602",
+          "blogger": "게임 칼럼니스트 나키",
+          "date": "2026-08-12"
         },
         {
-          "title": "'4강 선수가 지도자로' 화성FC 차두리 감독 근황, 팀의 K리그1 승격 노....",
-          "link": "https://blog.naver.com/pso164/224367597755",
-          "blogger": "과학커뮤니케이터 박종현",
-          "date": "2026-08-08"
+          "title": "아이온2 인벤 권성 시작 전 꼭 봐야 할 챕터1 성장 기준",
+          "link": "https://blog.naver.com/kangcheolk/224335403084",
+          "blogger": "Art story",
+          "date": "2026-07-03"
         },
         {
-          "title": "차두리 감독의 마음가짐과 리더십",
-          "link": "https://blog.naver.com/jiyoung479/224339099228",
-          "blogger": "청도100배즐기기",
-          "date": "2026-07-09"
+          "title": "메이플 인벤 활용 방법 정보 검색부터 커뮤니티까지",
+          "link": "https://blog.naver.com/kjg3635/224343067495",
+          "blogger": "생생한 이야기들",
+          "date": "2026-07-11"
         },
         {
-          "title": "【브랜드>KELME】 차두리 모자 브랜드가 뭐지? 켈미?",
-          "link": "https://blog.naver.com/openingdream/224339003279",
-          "blogger": "【드론플레이™Blog】 팩트체크 드론정보와 잡학사전",
-          "date": "2026-07-07"
+          "title": "아이온2 인벤 권성 공략: 챕터1 장비부터 스티그마 세팅까지 완벽 정....",
+          "link": "https://blog.naver.com/yeojeong0507/224335535088",
+          "blogger": "쩝쩝박사",
+          "date": "2026-07-04"
         },
         {
-          "title": "차두리 아직도 레전드인 이유? 몸싸움·주력·플레이 스타일까지 다....",
-          "link": "https://blog.naver.com/kkal28/224346331163",
-          "blogger": "그린워커",
-          "date": "2026-08-11"
+          "title": "아이온2 인벤 사이트 게시판 검성 마도성 모바일 서버 공략",
+          "link": "https://blog.naver.com/shitet7/224335946432",
+          "blogger": "웨이백",
+          "date": "2026-07-04"
         }
       ],
       "topNews": [
         {
-          "title": "[BE.현장] \"마치 '차두리 11명'을 풀어놓은 것 같다\"… 버려진 원석들로...",
-          "link": "https://www.besteleven.com/news/articleView.html?idxno=311278",
+          "title": "\"핵쟁이들 잘가~\" 〈오버워치〉 넥슨 서버, 명의 제한 효과에 호평",
+          "link": "https://www.globale.co.kr/news/articleView.html?idxno=39897",
           "press": "",
-          "date": "2026-08-17"
+          "date": "2026-08-14"
         },
         {
-          "title": "\"승리에만 집착하지 않으려 한다\" 133일 만 홈 승리, 더 먼 곳을 바라보...",
-          "link": "http://www.footballist.co.kr/news/articleView.html?idxno=213666",
+          "title": "[스팀체크] 또 '갓겜' 러스티 레이크 신작, 출시와 함께 97% 압긍 찍었다",
+          "link": "https://www.inven.co.kr/webzine/news/?news=319574",
           "press": "",
-          "date": "2026-08-17"
+          "date": "2026-08-14"
         },
         {
-          "title": "1-6위 승점 차 '5'... 2026 K리그2 승격 경쟁, 누가 수월하댔나[초점]",
-          "link": "https://sports.hankooki.com/news/articleView.html?idxno=6938056",
+          "title": "[인터뷰] 2차 CBT 마친 '실버 팰리스' \"한국에서도 오프라인 이벤트 참가...",
+          "link": "https://www.inven.co.kr/webzine/news/?news=319509",
           "press": "",
-          "date": "2026-08-16"
+          "date": "2026-08-14"
         },
         {
-          "title": "[BE.현장] \"화성 돌풍? 절대 운 아니다\"… '9골 8도움' 플라나의 자신감...",
-          "link": "https://www.besteleven.com/news/articleView.html?idxno=311238",
+          "title": "[LCK] '태윤', \"'에이밍'과 정통 원딜 맞대결, 바라던 바\"",
+          "link": "https://www.inven.co.kr/webzine/news/?news=319526",
           "press": "",
-          "date": "2026-08-16"
+          "date": "2026-08-13"
         },
         {
-          "title": "“뛰어야 할거 아냐!”, “정신차려 부산!” 졸전 끝 5G 무승 추락에 서...",
-          "link": "https://www.sportsseoul.com/news/read/1628857?ref=naver",
+          "title": "[스팀체크] 中 게임 기세 무섭네, 하루 만에 스팀 매출 1위 팬블제+할인...",
+          "link": "https://www.inven.co.kr/webzine/news/?news=319521",
           "press": "",
-          "date": "2026-08-16"
+          "date": "2026-08-13"
         }
       ],
       "rank": 9
