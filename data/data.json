@@ -1,86 +1,13 @@
 {
-  "updatedAt": "2026-08-17T21:49:59.500Z",
+  "updatedAt": "2026-08-17T22:21:07.610Z",
   "source": "live",
   "keywords": [
     {
-      "keyword": "정년",
-      "traffic": "2000+",
-      "blogTotal": 201168,
-      "newsTotal": 418193,
-      "recentToday": 84,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "\"정년 65세 연장 확정되면 '이 년생'은 만세 부릅니다\" 가장 큰 혜택 ....",
-          "link": "https://blog.naver.com/certified07/224363089692",
-          "blogger": "스페셜리스트",
-          "date": "2026-08-06"
-        },
-        {
-          "title": "공무원 정년연장 법안 입법시기 언제일까? 통과 시기와 핵심 변수",
-          "link": "https://blog.naver.com/info202607/224377601707",
-          "blogger": "정보마켓님의 블로그",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "정년연장 65세 확정됐나? 1969년생부터 달라지는 것",
-          "link": "https://blog.naver.com/dhsia0618/224369632815",
-          "blogger": "디지털노마드 l 경제ㆍ재테크ㆍ마케팅",
-          "date": "2026-08-06"
-        },
-        {
-          "title": "정년연장 65세 88.3%가 찬성…국민연금 공백과 청년채용 논란인 이유",
-          "link": "https://blog.naver.com/press02/224373993313",
-          "blogger": "재미진 저널리스트의 금융탐구생활",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "65세 정년연장, 2029년 시행될까?69년생부터 적용? 현재 논의 상황과 ....",
-          "link": "https://blog.naver.com/yjh_0616/224333198503",
-          "blogger": "행복만땅가득",
-          "date": "2026-07-07"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "후반기 국회 노동법안 이끌 의원 곧 '윤곽'",
-          "link": "https://www.labortoday.co.kr/news/articleView.html?idxno=236268",
-          "press": "",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "[초점] '영업이익 N% 성과급' 확산…산업계 임금체계 재편되나",
-          "link": "http://www.newsian.co.kr/news/articleView.html?idxno=93825",
-          "press": "",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "[화요글밭] 폭염이 가져 온「초보 농사꾼」의 위기",
-          "link": "https://www.cctoday.co.kr/news/articleView.html?idxno=2234975",
-          "press": "",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "특수교육 현장 외면하는 인천교육청[생생확대경]",
-          "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=01984406645548632",
-          "press": "",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "\"AI 개발, 1등이 전부는 아니다…韓 강점은 반도체·제조업\"[일문일답]",
-          "link": "https://www.news1.kr/it-science/security-hacking/6259046",
-          "press": "",
-          "date": "2026-08-17"
-        }
-      ],
-      "rank": 1
-    },
-    {
       "keyword": "최태원",
       "traffic": "2000+",
-      "blogTotal": 40772,
-      "newsTotal": 356907,
-      "recentToday": 73,
+      "blogTotal": 40776,
+      "newsTotal": 356910,
+      "recentToday": 69,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -116,6 +43,24 @@
       ],
       "topNews": [
         {
+          "title": "최태원 재상고에 노소영 맞불?…1조 현금마련 첩첩산중",
+          "link": "https://news.tvchosun.com/site/data/html_dir/2026/08/18/2026081890017.html",
+          "press": "",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "[천지일보 이슈종합] 김민석 與 대표로·거제 813㎜ 물폭탄·종합특검 줄...",
+          "link": "https://www.newscj.com/news/articleView.html?idxno=3425853",
+          "press": "",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "[더벨][빌 게이츠-K원전 동맹] SK, 나트륨 SMR 사업개발 파트너 '부상'…...",
+          "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608141442327120107673",
+          "press": "",
+          "date": "2026-08-17"
+        },
+        {
           "title": "'막판 쟁점'에 몰린 대미투자…김정관 \"이달말 해결 목표\"",
           "link": "https://biz.sbs.co.kr/article_hub/20000329103?division=NAVER",
           "press": "",
@@ -126,34 +71,16 @@
           "link": "http://www.fnnews.com/news/202608171505207920",
           "press": "",
           "date": "2026-08-17"
-        },
-        {
-          "title": "‘빌 게이츠 방한’ 그 후…두산·SK·HD현대, 美 SMR 선점 본격화",
-          "link": "https://www.etoday.co.kr/news/view/2614991",
-          "press": "",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "[이슈+]\"韓 잡아라\"…글로벌 빅테크 CEO, 국내 총수들과 '직거래' 이유는...",
-          "link": "https://www.businessplus.kr/news/articleView.html?idxno=115544",
-          "press": "",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "SK-HD현대-두산, 빌게이츠 SMR 밸류체인 삼각편대 완성",
-          "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608171307187820204",
-          "press": "",
-          "date": "2026-08-17"
         }
       ],
-      "rank": 2
+      "rank": 1
     },
     {
       "keyword": "재건축",
-      "traffic": "1000+",
-      "blogTotal": 764160,
-      "newsTotal": 1032537,
-      "recentToday": 57,
+      "traffic": "2000+",
+      "blogTotal": 764180,
+      "newsTotal": 1032538,
+      "recentToday": 36,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -189,6 +116,12 @@
       ],
       "topNews": [
         {
+          "title": "\"여보, 집주인이 들어온대\" 불똥...전셋값 1.5억 쑥, 어디로 가죠",
+          "link": "https://www.mt.co.kr/estate/2026/08/18/2026081714580568525",
+          "press": "",
+          "date": "2026-08-17"
+        },
+        {
           "title": "2만 가구 하안주공 재건축 시동…광명 넘어 서울 서남권 ‘들썩’",
           "link": "https://www.sedaily.com/article/20080148?ref=naver",
           "press": "",
@@ -211,10 +144,77 @@
           "link": "https://it.chosun.com/news/articleView.html?idxno=2023092168211",
           "press": "",
           "date": "2026-08-17"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "keyword": "민생지원금",
+      "traffic": "50000+",
+      "blogTotal": 135643,
+      "newsTotal": 142592,
+      "recentToday": 29,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "4차 민생지원금 문제점 총정리｜또 현금지원? 경제·재정·정치적으....",
+          "link": "https://blog.naver.com/mileangel78/224370788976",
+          "blogger": "경제, 부동산, 생활 정보를 전하는 재테크사관학교",
+          "date": "2026-08-07"
         },
         {
-          "title": "건축업계 “8,13대책, 단계적으로 설계ㆍCM 발주 숨통 트일 것”",
-          "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608141315090480105",
+          "title": "2026 추석 민생지원금 언제 받나? 지역별 지급 소식 총정리",
+          "link": "https://blog.naver.com/dhel751/224370386248",
+          "blogger": "뽀또네집",
+          "date": "2026-08-06"
+        },
+        {
+          "title": "\"전 국민 지급 아니라더니 대반전\" 4차 민생지원금 예산 배정받고 돈....",
+          "link": "https://blog.naver.com/certified07/224372358654",
+          "blogger": "스페셜리스트",
+          "date": "2026-08-09"
+        },
+        {
+          "title": "2026 4차 민생지원금 또 나온다? 전국민 지급 소문 공식 확인해보니",
+          "link": "https://blog.naver.com/ultravsodin1/224369690097",
+          "blogger": "천안에서 직접 먹어보고, 솔직하게 전달하는 사람",
+          "date": "2026-08-06"
+        },
+        {
+          "title": "추석 민생지원금 50만원, 전국민이 받는 게 아니다…받을 수 있는 지....",
+          "link": "https://blog.naver.com/hwre7774/224373844126",
+          "blogger": "워누공간의 블로그",
+          "date": "2026-08-10"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "[민선9기 특집]비전에서 실행으로, “군민이 체감하는 성과 만들 것”",
+          "link": "https://www.kwnews.co.kr/article/20260814500322",
+          "press": "",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "‘20조원 곳간’ 채우고 기관 11곳 품고…전남광주시 성장 로드맵 가동",
+          "link": "http://www.kwangju.co.kr/article.php?aid=1786965000802378277",
+          "press": "",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "“1인당 100만 원 민생지원금 박차…정관선·기장선 속도감 있게 추진”",
+          "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260818.22006004629",
+          "press": "",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "신청률 98.6% 기록한 포항시 고유가 피해지원금, 이달 말로 사용 기한 종...",
+          "link": "https://www.ksmnews.co.kr/news/view.php?idx=617966",
+          "press": "",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "\"성장동력 확보로 탄탄하고 활기찬 영동 완성\"",
+          "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2294888",
           "press": "",
           "date": "2026-08-17"
         }
@@ -224,9 +224,9 @@
     {
       "keyword": "고속도로",
       "traffic": "2000+",
-      "blogTotal": 1029544,
-      "newsTotal": 1988828,
-      "recentToday": 42,
+      "blogTotal": 1029555,
+      "newsTotal": 1988839,
+      "recentToday": 29,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -262,32 +262,32 @@
       ],
       "topNews": [
         {
-          "title": "[전국 톡톡] 동해안 피서객 25% 감소‥ 연장 운영까지",
-          "link": "https://imnews.imbc.com/replay/2026/nwtoday/article/6845367_37012.html",
+          "title": "GS25, 시니어 창업체험 프로그램→CU, 폐주유소 재생형 점포",
+          "link": "https://www.slist.kr/news/articleView.html?idxno=759326",
           "press": "",
           "date": "2026-08-17"
         },
         {
-          "title": "아산시 인근 고속도로서 경차 전복...50대 운전자 숨져",
-          "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=704349",
+          "title": "\"폐업 말고 이런 활용법도\"…CU, 폐주유소 살린 'Re:fuel' 1호점 열었다",
+          "link": "https://www.newscj.com/news/articleView.html?idxno=3425863",
           "press": "",
           "date": "2026-08-17"
         },
         {
-          "title": "수도권제1순환고속도로서 차량 추돌·화재‥2대 전소",
-          "link": "https://imnews.imbc.com/news/2026/society/article/6845363_36918.html",
+          "title": "'좋아요' 받으려 고속도로 역주행… 아일랜드서 10대 5명 사망",
+          "link": "https://www.hankookilbo.com/news/article/A2026081806330003867?did=NA",
           "press": "",
           "date": "2026-08-17"
         },
         {
-          "title": "[CEO리포트] 한국도로공사 유정훈 사장, 현장 소통 강화하며 ‘AI·모빌...",
-          "link": "https://www.news2day.co.kr/article/20260811500225",
+          "title": "아산현충사IC서 경차 경계석 들이받고 전복…50대 숨져",
+          "link": "https://www.newsis.com/view/NISX20260818_0003751753",
           "press": "",
           "date": "2026-08-17"
         },
         {
-          "title": "'만취차량' 교통섬 돌진‥달리던 견인차에 불",
-          "link": "https://imnews.imbc.com/replay/2026/nwtoday/article/6845362_37012.html",
+          "title": "[법조브리핑] 종합특검 금주 20여명 ‘무더기 기소’ 전망 外",
+          "link": "https://www.segye.com/newsView/20260817517377?OutUrl=naver",
           "press": "",
           "date": "2026-08-17"
         }
@@ -295,72 +295,72 @@
       "rank": 4
     },
     {
-      "keyword": "야생생물",
+      "keyword": "나솔",
       "traffic": "500+",
-      "blogTotal": 16662,
-      "newsTotal": 131903,
-      "recentToday": 8,
-      "recentWeek": 45,
+      "blogTotal": 91426,
+      "newsTotal": 30622,
+      "recentToday": 23,
+      "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "멸종위기 야생생물 거래를 막기 위해 알아둘 점",
-          "link": "https://blog.naver.com/cjql1031/224371297012",
-          "blogger": "뇌비게이터",
+          "title": "나솔사계 미스터서 나이 직업 인스타 이상형",
+          "link": "https://blog.naver.com/eueuy/224370787955",
+          "blogger": "이랑이랑 맛집찾기",
           "date": "2026-08-07"
         },
         {
-          "title": "전세계적으로 약 30만 개에 달하는 국립공원 야생생물보호지역과 같....",
-          "link": "https://blog.naver.com/viewjw/224371616078",
-          "blogger": "Everyday Discoveries",
-          "date": "2026-08-08"
+          "title": "나솔사계 첫인상 인기녀 국화, 첫등장부터 너무 이쁨",
+          "link": "https://blog.naver.com/thdms09876/224374664060",
+          "blogger": "ღ'ᴗ'ღ",
+          "date": "2026-08-11"
         },
         {
-          "title": "기후동행퀴즈 8월2일 정답 - 야생생물은 왜 모두의 공동자산일까",
-          "link": "https://blog.naver.com/fine1177/224365257896",
-          "blogger": "가가무비의 영화픽",
-          "date": "2026-08-02"
+          "title": "얼굴 직업 인성 최고! 나솔사계 남자 미스터서 미스터조 미스터차 ....",
+          "link": "https://blog.naver.com/treewg/224378158698",
+          "blogger": "나무처럼",
+          "date": "2026-08-14"
         },
         {
-          "title": "전남 구례 여행 지리산 반달가슴곰 공존센터 탐방프로그램 우리의 ....",
-          "link": "https://blog.naver.com/canonminhee/224370943058",
-          "blogger": "♥남매쌍둥이맘 츄지쵸지♥",
+          "title": "나솔사계 남자출연자 나이 이름 소개 정우성 닮은꼴 8등신 솔로남 ....",
+          "link": "https://blog.naver.com/qhrfks1004/224370805796",
+          "blogger": "♥라니의 달콤한세상이야기♥",
           "date": "2026-08-07"
         },
         {
-          "title": "2026 함평자연생태공원 멸종위기 야생생물 그림그리기 대회 신청 가....",
-          "link": "https://blog.naver.com/tjrudska82/224364379757",
-          "blogger": "하루의 노트 | 직접 경험한 솔직한 리뷰 기록장",
-          "date": "2026-08-01"
+          "title": "7기 옥순 파격적인 모습에 놀랐지만 이게 원래 모습? 이번에는 가능....",
+          "link": "https://blog.naver.com/3116i/224367172386",
+          "blogger": "가득나눔",
+          "date": "2026-08-03"
         }
       ],
       "topNews": [
         {
-          "title": "건강 되찾은 황조롱이 3마리, 어린이 배웅 속 자연으로",
-          "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1064717",
+          "title": "'나솔' 28기 영자, 이혼 고백 후의 여유",
+          "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=87035",
           "press": "",
           "date": "2026-08-17"
         },
         {
-          "title": "국립생태원, 첫 '5대강 사진 공모전' 개최…섬진강 생태 담는다",
-          "link": "https://www.etnews.com/20260817000156",
+          "title": "오디세이·리센느·사랑이온다·오싹한연애·아파트, 1위 [한눈에 보는 ...",
+          "link": "https://www.news1.kr/entertain/celebrity-topic/6260845",
           "press": "",
           "date": "2026-08-17"
         },
         {
-          "title": "아파트에 ‘초대 받지 않은’ 손님",
-          "link": "https://www.kyeongin.com/article/1769131",
+          "title": "'나는 솔로' 29기 영수, 옥순과 결별 후 '말자쇼' 출연 \"솔로된 지 4개월...",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16165618",
           "press": "",
           "date": "2026-08-17"
         },
         {
-          "title": "한려해상국립공원동부사무소 '둔한진총산호' 신규 서식지 발견",
-          "link": "http://www.gndomin.com/news/articleView.html?idxno=485615",
+          "title": "'나솔' 29기 영수, 옥순과 결별 4개월 만에 '말자쇼'서 즉석 소개팅 성사...",
+          "link": "https://www.starnewskorea.com/broadcast-show/2026/08/18/2026081723272240757",
           "press": "",
           "date": "2026-08-17"
         },
         {
-          "title": "1박 2일간 펼쳐지는 아차산 생물종 탐사…'바이오블리츠 서울' 개최",
-          "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260817010005404",
+          "title": "'나솔' 30기 옥순, 웨딩드레스 입더니 구토했다…'♥영수'의 다정한 케어...",
+          "link": "https://www.tenasia.co.kr/article/2026081755394",
           "press": "",
           "date": "2026-08-17"
         }
@@ -368,12 +368,158 @@
       "rank": 5
     },
     {
-      "keyword": "후티 예멘",
+      "keyword": "상호금융",
       "traffic": "200+",
-      "blogTotal": 4343,
-      "newsTotal": 37141,
+      "blogTotal": 25331,
+      "newsTotal": 662659,
+      "recentToday": 18,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "출자금 뜻 새마을금고 비과세 혜택과 예금자보호 단점 정리",
+          "link": "https://blog.naver.com/happymaking/224319002543",
+          "blogger": "생활지식창고",
+          "date": "2026-06-24"
+        },
+        {
+          "title": "적금 추천, 시중은행·저축은행·상호금융 어디가 유리할까",
+          "link": "https://blog.naver.com/goldfinger614/224370797665",
+          "blogger": "골드핑거의 절세·재테크 연구소",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "연 6% 적금·연 4% 예금 등장! 지금 가입해야 할까? 상호금융권 수신 ....",
+          "link": "https://blog.naver.com/slh1216/224310240628",
+          "blogger": "온쇼마녀",
+          "date": "2026-06-09"
+        },
+        {
+          "title": "상호금융 PF 대출 규제 강화, 신협·농협·수협·산림조합 건전성 기....",
+          "link": "https://blog.naver.com/isokrates/224319476719",
+          "blogger": "(주)승지디앤엠",
+          "date": "2026-06-18"
+        },
+        {
+          "title": "2금융권도 \"돈줄\" 죈다... 새마을금고 주담대 중단과 상호금융 대출 ....",
+          "link": "https://blog.naver.com/twykim/224248122206",
+          "blogger": "건축 이야기",
+          "date": "2026-04-10"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "\"백화점에서 자산관리 받고 은행서 발렛 서비스\"…롯데百·SC제일, VIP 생...",
+          "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=85276",
+          "press": "",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "[특별인터뷰] “농촌 곳곳 적시는 단비처럼…농정·농민 든든히 뒷받침...",
+          "link": "https://www.nongmin.com/article/20260814500610",
+          "press": "",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "농민 피땀으로 성장…농협, 농산물 유통 주축·‘민족금융’ 우뚝",
+          "link": "https://www.nongmin.com/article/20260814500602",
+          "press": "",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "[Who Is ?] 최성안 삼성중공업 대표이사 부회장",
+          "link": "https://www.businesspost.co.kr/BP?command=article_view&num=444295",
+          "press": "",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "[기자수첩] 영화 오디세이에서 발견한 생명보험 정신",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1720631",
+          "press": "",
+          "date": "2026-08-17"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "keyword": "김상식",
+      "traffic": "200+",
+      "blogTotal": 4456,
+      "newsTotal": 48786,
+      "recentToday": 3,
+      "recentWeek": 15,
+      "topBlogs": [
+        {
+          "title": "송파 피자맛집 김상식피자 이재모피자 느낌 기대하고 먹어본 솔직....",
+          "link": "https://blog.naver.com/minji_b21/224366364030",
+          "blogger": "Ray’s Archive",
+          "date": "2026-08-03"
+        },
+        {
+          "title": "현대컵 베트남 3-0 완승, 한국인 감독 김상식의 새 시대",
+          "link": "https://blog.naver.com/2hs89/224368468671",
+          "blogger": "스포츠덕의 이것저것 생활",
+          "date": "2026-08-05"
+        },
+        {
+          "title": "거여,마천 • 김상식피자",
+          "link": "https://blog.naver.com/vertoeni/224326733607",
+          "blogger": "•.•.",
+          "date": "2026-06-25"
+        },
+        {
+          "title": "2026 아세안 현대 컵 베트남 캄보디아 김상식 호 22경기 연속 무패 도....",
+          "link": "https://blog.naver.com/kindangry91/224367932395",
+          "blogger": "카앵의 풋볼 카페",
+          "date": "2026-08-04"
+        },
+        {
+          "title": "김상식호 베트남 축구, 말레이시아 원정서 2-0 완승… 결승 진출 ‘....",
+          "link": "https://blog.naver.com/dldlsgh9398/224381654810",
+          "blogger": "베트남 현지 랜드 라라투어",
+          "date": "2026-08-18"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "'김상식 매직' 미쳤다! 베트남, 빗속에서 태극기 펄럭→'15억 동' 승리 포...",
+          "link": "http://www.osen.co.kr/article/G1112858915",
+          "press": "",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "'김상식호' 베트남, 동남아 월드컵 2연패 '성큼'",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008708595&plink=ORI&cooper=NAVER",
+          "press": "",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "안 풀려도 너무 안 풀리는 삼성, 1옵션 외국선수 윌리엄스 합류 불발··...",
+          "link": "https://m.sports.naver.com/basketball/article/065/0000300844",
+          "press": "",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "‘쌀딩크 박항서까지 넘었다!’ 김상식 매직, 베트남 23G 연속 무패 대기...",
+          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1002286",
+          "press": "",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "\"김상식 감독, 박항서 감독도 넘어섰다\" 베트남 축구, 또 새 역사 탄생!...",
+          "link": "http://www.osen.co.kr/article/G1112858847",
+          "press": "",
+          "date": "2026-08-17"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "keyword": "후티 예멘",
+      "traffic": "500+",
+      "blogTotal": 4344,
+      "newsTotal": 37143,
       "recentToday": 2,
-      "recentWeek": 39,
+      "recentWeek": 40,
       "topBlogs": [
         {
           "title": "후티 반군, 예멘·사우디 동시 공격!",
@@ -408,8 +554,20 @@
       ],
       "topNews": [
         {
+          "title": "홍해마저 막혀‥수에즈 거쳐 아프리카 돌아 수송",
+          "link": "https://imnews.imbc.com/replay/2026/nwtoday/article/6845377_37012.html",
+          "press": "",
+          "date": "2026-08-17"
+        },
+        {
           "title": "트럼프 “MOU 연장 없다”…후티는 홍해서 군함 공격",
           "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8638854&ref=A",
+          "press": "",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "[뉴욕증시] 중동發 유가·국채금리에 '발목'···메모리주 '나홀로 랠리...",
+          "link": "https://www.seoulfn.com/news/articleView.html?idxno=635803",
           "press": "",
           "date": "2026-08-17"
         },
@@ -424,21 +582,9 @@
           "link": "https://biz.sbs.co.kr/article_hub/20000329092?division=NAVER",
           "press": "",
           "date": "2026-08-17"
-        },
-        {
-          "title": "아시아 정유사, 홍해 사우디 원유 인수에 난색",
-          "link": "https://www.g-enews.com/view.php?ud=2026081721301893349a1f309431_1",
-          "press": "",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "조건 꼬리물기에 불신만 남았다… 60일 핵협상 사실상 무산",
-          "link": "https://www.mt.co.kr/world/2026/08/18/2026081719390285810",
-          "press": "",
-          "date": "2026-08-17"
         }
       ],
-      "rank": 6
+      "rank": 8
     },
     {
       "keyword": "강기윤",
@@ -511,7 +657,7 @@
           "date": "2026-08-17"
         }
       ],
-      "rank": 7
+      "rank": 9
     },
     {
       "keyword": "พยากรณ์อากาศ",
@@ -553,91 +699,6 @@
         }
       ],
       "topNews": [],
-      "rank": 8
-    },
-    {
-      "keyword": "데이터 센터",
-      "traffic": "500+",
-      "blogTotal": 0,
-      "newsTotal": 0,
-      "recentToday": 0,
-      "recentWeek": 0,
-      "topBlogs": [],
-      "topNews": [],
-      "error": "HTTP 429 https://openapi.naver.com/v1/search/blog.json?query=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EC%84%BC%ED%84%B0&display=5&sort=sim",
-      "rank": 9
-    },
-    {
-      "keyword": "당대표",
-      "traffic": "5000+",
-      "blogTotal": 158925,
-      "newsTotal": 9123059,
-      "recentToday": 0,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "2026 더불어민주당 당대표 온라인투표 선거 ARS 참여 방법 전당대회 ....",
-          "link": "https://blog.naver.com/allowan25820/224371090532",
-          "blogger": "설치도우미",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "더불어민주당 전당대회, 당대표, 최고위원 경선일정",
-          "link": "https://blog.naver.com/gwjun/224367562942",
-          "blogger": "사람과 정책",
-          "date": "2026-08-04"
-        },
-        {
-          "title": "2026 더불어민주당 당대표 온라인투표 선거 ARS 참여 방법 8월17일 일....",
-          "link": "https://blog.naver.com/ritai6421/224371091857",
-          "blogger": "ritai6421님의블로그",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "더불어민주당 당대표 경선 일정 및 지역별 순회투표 확인 방법",
-          "link": "https://blog.naver.com/iiigrida/224372436533",
-          "blogger": "데일리 셰어",
-          "date": "2026-08-08"
-        },
-        {
-          "title": "더불어민주당 당대표 전당대회 선거 일정 투표",
-          "link": "https://blog.naver.com/dydghks3250/224366383857",
-          "blogger": "❤️ ✅kGn뉴스 ✅❤️",
-          "date": "2026-08-03"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "“바쁘다 바빠” 김민석 대표, 하루종일 강행군 [오늘의 여의도]",
-          "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=02368166645548632",
-          "press": "",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "김민석, 민주당 새 대표 선출 54.08% 득표",
-          "link": "https://www.mhj21.com/news/articleView.html?idxno=253587",
-          "press": "",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "[오늘의 주요일정] 정치·정부 (18일, 화)",
-          "link": "http://www.queen.co.kr/news/articleView.html?idxno=461810",
-          "press": "",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "이 대통령, 김민석·정청래·송영길 19일 청와대 초청 만찬",
-          "link": "https://www.mhj21.com/news/articleView.html?idxno=253586",
-          "press": "",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "당원들은 \"제명 수준 징계\"‥지도부는 \"검토 안 해\"",
-          "link": "https://imnews.imbc.com/replay/2026/nwtoday/article/6845370_37012.html",
-          "press": "",
-          "date": "2026-08-17"
-        }
-      ],
       "rank": 10
     }
   ]
