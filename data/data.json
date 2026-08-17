@@ -1,85 +1,12 @@
 {
-  "updatedAt": "2026-08-17T16:23:34.352Z",
+  "updatedAt": "2026-08-17T16:55:11.305Z",
   "source": "live",
   "keywords": [
-    {
-      "keyword": "황현민",
-      "traffic": "100+",
-      "blogTotal": 982,
-      "newsTotal": 1544,
-      "recentToday": 96,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "\"17년만에 재점화ㅠㅠ 배정남, 마르코에 맞고 조폭까지 데려왔다? 황....",
-          "link": "https://blog.naver.com/bomnaedabang/224381453702",
-          "blogger": "봄내다방",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "\"17년 전 일이 왜 지금?\" 황현민, 배정남 마르코 난투극! 황현민이 꺼....",
-          "link": "https://blog.naver.com/bolsali/224381434291",
-          "blogger": "볼살 아카이브",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "황현민이 다시 꺼낸 17년 전 사건…배정남·마르코 설명과 달랐다",
-          "link": "https://blog.naver.com/hongyd3433/224381414032",
-          "blogger": "라이프 인사이트",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "마르코 폭행 후 조폭까지 동원?\" 황현민이 밝힌 배정남 사건의 전말",
-          "link": "https://blog.naver.com/agsw1023/224381341842",
-          "blogger": "햇님달님의 세상연구소",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "“폭행 후 조폭 데려와” 황현민 폭로…배정남·마르코 17년 전 사건....",
-          "link": "https://blog.naver.com/zini5530/224381424944",
-          "blogger": "야옹이화장대",
-          "date": "2026-08-17"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "황현민, 배정남 '광복절 태극기' 행보에 17년전 클럽 난투극 소환 \"건달...",
-          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1002333",
-          "press": "",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "“같은 사건 맞아?” 배정남·마르코 17년 전 난투극, 황현민 말은 달랐...",
-          "link": "https://www.mk.co.kr/article/12129596",
-          "press": "",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "\"죽여달라며 건달 데려와\"…황현민 주장에 '배정남·마르코 난투극'설 ...",
-          "link": "http://www.stoo.com/article.php?aid=108363379752",
-          "press": "",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "\"2천만원 합의금 줘\" 잼 출신 황현민, 뜬금 배정남·마르코 난투극 파묘...",
-          "link": "https://www.starnewskorea.com/star/2026/08/17/2026081717562187777",
-          "press": "",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "\"둘이 짜고 한 연기\"…황현민, 배정남·마르코 '17년 전 폭행 시비' 뜬금...",
-          "link": "https://www.xportsnews.com/article/2184545",
-          "press": "",
-          "date": "2026-08-17"
-        }
-      ],
-      "rank": 1
-    },
     {
       "keyword": "선박",
       "traffic": "200+",
       "blogTotal": 274694,
-      "newsTotal": 1899776,
+      "newsTotal": 1899778,
       "recentToday": 95,
       "recentWeek": 100,
       "topBlogs": [
@@ -116,6 +43,18 @@
       ],
       "topNews": [
         {
+          "title": "알파벳 쓸어담는 월가 구루들[박신영의 개장전 요것만]",
+          "link": "https://www.hankyung.com/article/202608185658i",
+          "press": "",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "다시 전운 감도는 호르무즈…트럼프, 이란 넘어 오만에도 경고",
+          "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=01325126645548632",
+          "press": "",
+          "date": "2026-08-17"
+        },
+        {
           "title": "영국해사무역기구 \"소말리아 인근서 화물선 1척 무장 괴한에 피랍\"",
           "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008708783&plink=ORI&cooper=NAVER",
           "press": "",
@@ -132,16 +71,77 @@
           "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000003806&cp=nv",
           "press": "",
           "date": "2026-08-17"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "keyword": "황현민",
+      "traffic": "200+",
+      "blogTotal": 986,
+      "newsTotal": 1544,
+      "recentToday": 92,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "\"17년만에 재점화ㅠㅠ 배정남, 마르코에 맞고 조폭까지 데려왔다? 황....",
+          "link": "https://blog.naver.com/bomnaedabang/224381453702",
+          "blogger": "봄내다방",
+          "date": "2026-08-17"
         },
         {
-          "title": "이란 \"외교 실패 땐 호르무즈 완전 공세\"…美와 협상 교착",
-          "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=85270",
+          "title": "\"17년 전 일이 왜 지금?\" 황현민, 배정남 마르코 난투극! 황현민이 꺼....",
+          "link": "https://blog.naver.com/bolsali/224381434291",
+          "blogger": "볼살 아카이브",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "“폭행 후 조폭 데려와” 황현민 폭로…배정남·마르코 17년 전 사건....",
+          "link": "https://blog.naver.com/zini5530/224381424944",
+          "blogger": "야옹이화장대",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "황현민이 다시 꺼낸 17년 전 사건…배정남·마르코 설명과 달랐다",
+          "link": "https://blog.naver.com/hongyd3433/224381414032",
+          "blogger": "라이프 인사이트",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "마르코 폭행 후 조폭까지 동원?\" 황현민이 밝힌 배정남 사건의 전말",
+          "link": "https://blog.naver.com/agsw1023/224381341842",
+          "blogger": "햇님달님의 세상연구소",
+          "date": "2026-08-17"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "황현민, 배정남 '광복절 태극기' 행보에 17년전 클럽 난투극 소환 \"건달...",
+          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1002333",
           "press": "",
           "date": "2026-08-17"
         },
         {
-          "title": "이란 \"완전 공세 전환\"…트럼프 \"항복의 백기 들어라\"",
-          "link": "https://view.asiae.co.kr/article/2026081800321789240",
+          "title": "“같은 사건 맞아?” 배정남·마르코 17년 전 난투극, 황현민 말은 달랐...",
+          "link": "https://www.mk.co.kr/article/12129596",
+          "press": "",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "\"죽여달라며 건달 데려와\"…황현민 주장에 '배정남·마르코 난투극'설 ...",
+          "link": "http://www.stoo.com/article.php?aid=108363379752",
+          "press": "",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "\"2천만원 합의금 줘\" 잼 출신 황현민, 뜬금 배정남·마르코 난투극 파묘...",
+          "link": "https://www.starnewskorea.com/star/2026/08/17/2026081717562187777",
+          "press": "",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "\"둘이 짜고 한 연기\"…황현민, 배정남·마르코 '17년 전 폭행 시비' 뜬금...",
+          "link": "https://www.xportsnews.com/article/2184545",
           "press": "",
           "date": "2026-08-17"
         }
@@ -151,9 +151,9 @@
     {
       "keyword": "나이스",
       "traffic": "100+",
-      "blogTotal": 414425,
+      "blogTotal": 414427,
       "newsTotal": 228569,
-      "recentToday": 91,
+      "recentToday": 89,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -195,14 +195,14 @@
           "date": "2026-08-17"
         },
         {
-          "title": "BNK투자증권, IB 재편·리테일 강화…'강한 중형사' 정조준 [전업계 추격...",
-          "link": "https://www.fntimes.com/html/view.php?ud=202608142135363747dd55077bc2_18",
+          "title": "두산퓨얼셀 ‘최대 수주’ 이면에 도사린 ‘최대 적자’",
+          "link": "https://www.fntimes.com/html/view.php?ud=202608142207587442dd55077bc2_18",
           "press": "",
           "date": "2026-08-17"
         },
         {
-          "title": "두산퓨얼셀 ‘최대 수주’ 이면에 도사린 ‘최대 적자’",
-          "link": "https://www.fntimes.com/html/view.php?ud=202608142207587442dd55077bc2_18",
+          "title": "BNK투자증권, IB 재편·리테일 강화…'강한 중형사' 정조준 [전업계 추격...",
+          "link": "https://www.fntimes.com/html/view.php?ud=202608142135363747dd55077bc2_18",
           "press": "",
           "date": "2026-08-17"
         },
@@ -224,7 +224,7 @@
     {
       "keyword": "이진",
       "traffic": "500+",
-      "blogTotal": 88877,
+      "blogTotal": 88879,
       "newsTotal": 87077,
       "recentToday": 81,
       "recentWeek": 100,
@@ -234,12 +234,6 @@
           "link": "https://blog.naver.com/luckyo2/224374384913",
           "blogger": "동그리네 마누리",
           "date": "2026-08-11"
-        },
-        {
-          "title": "이천 대형 카페 디저트 베이커리 카페 아기의자 주차 추천, 이천 이....",
-          "link": "https://blog.naver.com/yjheo309/224365534127",
-          "blogger": "기록하는 융로그",
-          "date": "2026-08-03"
         },
         {
           "title": "[이천] 이진상회, 대형 베이커리 카페 추천 | 이천 가볼만한 곳",
@@ -252,6 +246,12 @@
           "link": "https://blog.naver.com/funnycake5/224376440177",
           "blogger": "funnycake",
           "date": "2026-08-12"
+        },
+        {
+          "title": "이천 대형 카페 디저트 베이커리 카페 아기의자 주차 추천, 이천 이....",
+          "link": "https://blog.naver.com/yjheo309/224365534127",
+          "blogger": "기록하는 융로그",
+          "date": "2026-08-03"
         },
         {
           "title": "전 배구선수 이진 프로필 총정리 IBK기업은행에서 활약한 이진, 코트....",
@@ -295,74 +295,74 @@
       "rank": 4
     },
     {
-      "keyword": "면허",
-      "traffic": "200+",
-      "blogTotal": 1139604,
-      "newsTotal": 951886,
-      "recentToday": 72,
+      "keyword": "어벤져스 둠스데이",
+      "traffic": "500+",
+      "blogTotal": 2609,
+      "newsTotal": 1014,
+      "recentToday": 54,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "2종소형면허 시험 접수 방법 공제 비용 및 굴절 코스 후기",
-          "link": "https://blog.naver.com/eolife_wood/224369491431",
-          "blogger": "에듀 큐레이터 라이트앤뉴",
-          "date": "2026-08-06"
+          "title": "어벤져스 둠스데이 개봉일 출연진 로다주 닥터 둠 복귀 총정리",
+          "link": "https://blog.naver.com/yeojeong0507/224367543490",
+          "blogger": "쩝쩝박사",
+          "date": "2026-08-05"
         },
         {
-          "title": "운전면허 갱신 7년 무사고 2종보통에서 1종보통 신규 갱신 후기｜국....",
-          "link": "https://blog.naver.com/gxoy_/224353118082",
-          "blogger": "하니의 하루",
-          "date": "2026-07-21"
-        },
-        {
-          "title": "[운전면허 기능] 수원현대자동차운전전문학원 장내기능 합격 후기....",
-          "link": "https://blog.naver.com/contrast0112/224372467553",
-          "blogger": "유진's Dataset",
+          "title": "어벤져스: 둠스데이 로다주, 캡틴아메리카 출연 톰 홀랜드는 안 나....",
+          "link": "https://blog.naver.com/above_cloud/224373333656",
+          "blogger": "과몰입 공간",
           "date": "2026-08-09"
         },
         {
-          "title": "당일 수령 가능할까? 국제면허증 발급",
-          "link": "https://blog.naver.com/mkspring2/224367769963",
-          "blogger": "내 경험을 가치로 만들어라",
-          "date": "2026-08-04"
+          "title": "블랙 위도우는 어벤져스로 돌아올 수 있을까",
+          "link": "https://blog.naver.com/dkfnfn08/224369151727",
+          "blogger": "난필의 창고",
+          "date": "2026-08-05"
         },
         {
-          "title": "간호사 면허신고 방법 & 보수교육 이수·면제·유예 총정리",
-          "link": "https://blog.naver.com/pjuja0709/224349167750",
-          "blogger": "25수쌤의 담쓰경",
-          "date": "2026-07-17"
+          "title": "어벤져스 둠스데이 둠의 심판 예고편 정보 둠의 목표는 배틀월드",
+          "link": "https://blog.naver.com/ban1329/224379490705",
+          "blogger": "청우",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "어벤져스: 둠스데이 개봉일 총정리｜줄거리부터 출연진까지",
+          "link": "https://blog.naver.com/88_layla/224377636347",
+          "blogger": "사소한 모든 것들",
+          "date": "2026-08-13"
         }
       ],
       "topNews": [
         {
-          "title": "미 재무부, 지니어스법 스테이블코인 규정 초안 공개…무면허 발행 2027...",
-          "link": "https://www.wikitree.co.kr/articles/1152940",
+          "title": "영화관 3사, 관객 돌아오자 외형 회복…하반기 흥행 바통 이어갈까",
+          "link": "https://www.bloter.net/news/articleView.html?idxno=671070",
           "press": "",
           "date": "2026-08-17"
         },
         {
-          "title": "무인점포 10곳 턴 10대…\"사이버도박 빚 갚으려\"",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008708754&plink=ORI&cooper=NAVER",
+          "title": "\"내가 바로 둠이다\"…'어벤져스: 둠스데이' 2차 예고편 공개",
+          "link": "https://www.econovill.com/news/articleView.html?idxno=748149",
           "press": "",
           "date": "2026-08-17"
         },
         {
-          "title": "무료 차량부터 책 선물까지, 곳곳서 온기 충전 중",
-          "link": "http://www.gjdream.com/news/articleView.html?idxno=671852",
+          "title": "톰 홀랜드·크리스토퍼 놀란도 중국행…할리우드, 미중 갈등완화로 中 ...",
+          "link": "https://biz.heraldcorp.com/article/10842871?ref=naver",
           "press": "",
           "date": "2026-08-17"
         },
         {
-          "title": "500조 퇴직연금, 누가 감독할 것인가",
-          "link": "http://www.gjdream.com/news/articleView.html?idxno=671871",
+          "title": "“내가 바로 둠이다”…‘어벤져스: 둠스데이’ 예고편 공개, 거대한 전...",
+          "link": "https://sports.donga.com/ent/article/all/20260817/134487331/1",
           "press": "",
-          "date": "2026-08-17"
+          "date": "2026-08-16"
         },
         {
-          "title": "'D-5' 종합특검, 관저 이전 의혹 '정점' 김건희 판단 주목",
-          "link": "https://news.tf.co.kr/read/life/2354825.htm",
+          "title": "요즘 영화, 이 부부가 다 해먹네",
+          "link": "https://www.joongang.co.kr/article/25453768",
           "press": "",
-          "date": "2026-08-17"
+          "date": "2026-08-16"
         }
       ],
       "rank": 5
@@ -370,9 +370,9 @@
     {
       "keyword": "새마을금고",
       "traffic": "100+",
-      "blogTotal": 176352,
+      "blogTotal": 176353,
       "newsTotal": 288605,
-      "recentToday": 44,
+      "recentToday": 43,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -443,7 +443,7 @@
     {
       "keyword": "창원시장",
       "traffic": "200+",
-      "blogTotal": 85696,
+      "blogTotal": 85697,
       "newsTotal": 159740,
       "recentToday": 31,
       "recentWeek": 100,
@@ -499,14 +499,14 @@
           "date": "2026-08-17"
         },
         {
-          "title": "광복 81주년 맞은 경남교계…\"하나님이 주신 자유, 감사하며 지켜야\"",
-          "link": "https://www.nocutnews.co.kr/news/6563836?utm_source=naver&utm_medium=article&utm_campaign=20260817084110",
+          "title": "창원시, 마산 해안 저지대 방재시설 점검..., 대조기·집중호우 대비",
+          "link": "https://www.newsgn.com/news/articleView.html?idxno=568227",
           "press": "",
           "date": "2026-08-17"
         },
         {
-          "title": "창원시, 마산 해안 저지대 방재시설 점검..., 대조기·집중호우 대비",
-          "link": "https://www.newsgn.com/news/articleView.html?idxno=568227",
+          "title": "광복 81주년 맞은 경남교계…\"하나님이 주신 자유, 감사하며 지켜야\"",
+          "link": "https://www.nocutnews.co.kr/news/6563836?utm_source=naver&utm_medium=article&utm_campaign=20260817084110",
           "press": "",
           "date": "2026-08-17"
         }
@@ -587,79 +587,6 @@
       "rank": 8
     },
     {
-      "keyword": "kick",
-      "traffic": "100+",
-      "blogTotal": 40010,
-      "newsTotal": 77943,
-      "recentToday": 10,
-      "recentWeek": 94,
-      "topBlogs": [
-        {
-          "title": "Kicks 뜻 완벽 정리 — 발차기부터 '운동화 슬랭'까지 한 번에",
-          "link": "https://blog.naver.com/fpemf01/224368740750",
-          "blogger": "잡잡",
-          "date": "2026-08-05"
-        },
-        {
-          "title": "킥오프 뜻 Kick off 월드컵부터 일상까지 완벽정리",
-          "link": "https://blog.naver.com/freepms1/224320105998",
-          "blogger": "트렌디 잉글리시 벨라",
-          "date": "2026-06-18"
-        },
-        {
-          "title": "킥오프 뜻, 미팅·회의에서 자주 쓰는 비즈니스영어 Kick off 의미는?",
-          "link": "https://blog.naver.com/ink2777/224314922702",
-          "blogger": "잇찌와 업글인간",
-          "date": "2026-06-13"
-        },
-        {
-          "title": "킥오프 뜻은 시작? 축구와 비즈니스에서 쓰는 kick off 의미",
-          "link": "https://blog.naver.com/sunzooland/224322101222",
-          "blogger": "La Vie En Rose",
-          "date": "2026-06-20"
-        },
-        {
-          "title": "[유행 영어 검증] 킥 KICK 한국인 & 미국인 용법 차이",
-          "link": "https://blog.naver.com/mettabudda/224357228516",
-          "blogger": "슬기 Sophia",
-          "date": "2026-07-25"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "Before the shooting, gang violence and hip-hop beef signaled trouble.",
-          "link": "https://www.nytimes.com/live/2026/08/17/arts/tupac-murder-trial-duane-davis/the-lead-up-to-the-shooting-that-killed-tupac-shakur-was-chaotic?partner=naver",
-          "press": "",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "NCT 127 ‘KCON LA 2026’ 찢다! 3년 연속 헤드라이너",
-          "link": "https://sports.khan.co.kr/article/202608171717003?pt=nv",
-          "press": "",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "NCT 127 ‘KCON LA’ 찢었다‥3년 연속 헤드라이너 위엄",
-          "link": "https://www.newsen.com/news_view.php?uid=202608171627051910",
-          "press": "",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "NCT 127, 3년 연속 케이콘 LA 헤드라이너…신곡 '피냐타' 무대 최초 공개",
-          "link": "https://www.nocutnews.co.kr/news/6563762?utm_source=naver&utm_medium=article&utm_campaign=20260817041307",
-          "press": "",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "‘KCON LA 2026’ 14만2000명 찾았다…K팝 넘어 K라이프스타일로",
-          "link": "https://www.sportsworldi.com/newsView/20260817510401",
-          "press": "",
-          "date": "2026-08-17"
-        }
-      ],
-      "rank": 9
-    },
-    {
       "keyword": "차두리",
       "traffic": "500+",
       "blogTotal": 12263,
@@ -728,6 +655,79 @@
           "link": "https://www.sportsseoul.com/news/read/1628857?ref=naver",
           "press": "",
           "date": "2026-08-16"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "keyword": "어쌔신 크리드 오디세이",
+      "traffic": "100+",
+      "blogTotal": 4589,
+      "newsTotal": 1070,
+      "recentToday": 1,
+      "recentWeek": 3,
+      "topBlogs": [
+        {
+          "title": "어쌔신 크리드 오디세이 영화 개봉 후 유저 참여도 급증",
+          "link": "https://blog.naver.com/voodoo7/224366291950",
+          "blogger": "티파의 게임 라이프",
+          "date": "2026-08-03"
+        },
+        {
+          "title": "2026년 다시 해본 어쌔신 크리드 오디세이, 지금도 할 만할까?",
+          "link": "https://blog.naver.com/jechi00/224342087067",
+          "blogger": "제로로의 GAME 이야기",
+          "date": "2026-07-10"
+        },
+        {
+          "title": "[게임리뷰] 유비 최고작 '어쌔신크리드 : 오디세이' , 고대 그리스를 ....",
+          "link": "https://blog.naver.com/touma4092/224236332498",
+          "blogger": "즐거운나루생활",
+          "date": "2026-04-01"
+        },
+        {
+          "title": "어쌔신크리드 오디세이 순서 정리",
+          "link": "https://blog.naver.com/dbs_jln/223589983773",
+          "blogger": "겝빈",
+          "date": "2024-09-20"
+        },
+        {
+          "title": "'어쌔신 크리드: 블랙 플래그 리싱크드' 플레이 리뷰",
+          "link": "https://blog.naver.com/q6175/224373676800",
+          "blogger": "건뚱",
+          "date": "2026-08-10"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "[게임 너머#3] '오디세이아', 그리고 '어쌔신 크리드'",
+          "link": "https://www.inven.co.kr/webzine/news/?news=319605",
+          "press": "",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "영화 '오디세이'를 본 당신을 위한 추천 게임 4선",
+          "link": "https://www.gameple.co.kr/news/articleView.html?idxno=216256",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "[Steam Pick] 이번 주 스팀에 쏟아진 신작, 지금 주목할 게임은?",
+          "link": "https://www.inven.co.kr/webzine/news/?news=319298",
+          "press": "",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "엑스박스 25주년 기념, 역대 기기 137종 게임패스 리스트 공개",
+          "link": "https://game.donga.com/123679/",
+          "press": "",
+          "date": "2026-08-05"
+        },
+        {
+          "title": "[리뷰 #270] 어쌔신 크리드 블랙 플래그 리싱크드, 카리브해의 해적 에드...",
+          "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=4023578",
+          "press": "",
+          "date": "2026-08-04"
         }
       ],
       "rank": 10
