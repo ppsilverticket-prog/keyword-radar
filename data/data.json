@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-17T19:51:08.783Z",
+  "updatedAt": "2026-08-17T20:22:53.085Z",
   "source": "live",
   "keywords": [
     {
       "keyword": "국경",
       "traffic": "500+",
-      "blogTotal": 254147,
-      "newsTotal": 919735,
-      "recentToday": 94,
+      "blogTotal": 254150,
+      "newsTotal": 919737,
+      "recentToday": 91,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -43,6 +43,18 @@
       ],
       "topNews": [
         {
+          "title": "“유전자 교정 규제, 글로벌 기준에 맞춰야” 국제종자연맹",
+          "link": "https://www.mk.co.kr/article/12129605",
+          "press": "",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "AI가 바꾼 '위성 영상 전쟁'…진짜도 가짜도 무기가 된다 [궤도 밖 시큐...",
+          "link": "http://weekly.chosun.com/news/articleView.html?idxno=54335",
+          "press": "",
+          "date": "2026-08-17"
+        },
+        {
           "title": "시그니처뱅크 전 회장, 블록체인 해외송금 서비스 출시",
           "link": "https://www.tokenpost.kr/news/breaking/392200",
           "press": "",
@@ -59,25 +71,86 @@
           "link": "https://www.hankyung.com/article/202608185658i",
           "press": "",
           "date": "2026-08-17"
-        },
-        {
-          "title": "덜레스공항서 아프가니스탄산 목화 440파운드 압수",
-          "link": "http://www.koreatimes.com/article/1625932",
-          "press": "",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "스페인 세우타 이민자 시위…국경 개방 허위 정보 여파 우려",
-          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3666672",
-          "press": "",
-          "date": "2026-08-17"
         }
       ],
       "rank": 1
     },
     {
+      "keyword": "대치동",
+      "traffic": "100+",
+      "blogTotal": 645642,
+      "newsTotal": 330419,
+      "recentToday": 78,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "다비치안경 도곡역점 후기｜대치동 안경원 추천 | 정찰제 가격에 믿....",
+          "link": "https://blog.naver.com/ls2tpdms/224355992757",
+          "blogger": "행복이랑 오늘도",
+          "date": "2026-07-24"
+        },
+        {
+          "title": "대치동 브런치맛집 | 카페 타임 더한섬하우스 서울",
+          "link": "https://blog.naver.com/aprilishere/224295658982",
+          "blogger": "ehsay essay",
+          "date": "2026-05-25"
+        },
+        {
+          "title": "\"의대반 가려면 '여기'부터 뚫으세요\" 대치동 초등 수학학원 3대장 ....",
+          "link": "https://blog.naver.com/certified07/224333534372",
+          "blogger": "스페셜리스트",
+          "date": "2026-07-03"
+        },
+        {
+          "title": "대치동 은마아파트 사업시행인가 확정! 49층 랜드마크로 변신하는 20....",
+          "link": "https://blog.naver.com/ijn1092/224334249210",
+          "blogger": "블랙라벨 부동산 라운지",
+          "date": "2026-07-02"
+        },
+        {
+          "title": "<초등> 대치동 수학학원 비교 CMS 대치 vs 탑티어수학 vs 깊은생각 +2026....",
+          "link": "https://blog.naver.com/greensnow1/224320029399",
+          "blogger": "greensnow님의블로그",
+          "date": "2026-06-18"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "7년 경단녀가 대치동 집 샀다, 라이딩 지쳐 대박 친 워킹맘",
+          "link": "https://www.joongang.co.kr/article/25454025",
+          "press": "",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "안소희, 복도 끝 자연광 속 여유로운 외출…연극 이후 차분한 근황",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16165548",
+          "press": "",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "SOOP, 'Google Play ASL 시즌22' 개막…결승전 아이스링크서 개최",
+          "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=88048",
+          "press": "",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "수능 서·논술형 도입·전 과목 절대평가 전환, 공론화 착수",
+          "link": "https://www.busan.com/view/busan/view.php?code=2026081718223688022",
+          "press": "",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "“대치동 집 세주고 지방에 개업한 사업가들 비상” 실거주 기조에 서울...",
+          "link": "https://biz.heraldcorp.com/article/10842680?ref=naver",
+          "press": "",
+          "date": "2026-08-17"
+        }
+      ],
+      "rank": 2
+    },
+    {
       "keyword": "최애의 사원",
-      "traffic": "500+",
+      "traffic": "1000+",
       "blogTotal": 1959,
       "newsTotal": 1709,
       "recentToday": 70,
@@ -146,86 +219,13 @@
           "date": "2026-08-17"
         }
       ],
-      "rank": 2
-    },
-    {
-      "keyword": "어벤져스 둠스데이",
-      "traffic": "500+",
-      "blogTotal": 2610,
-      "newsTotal": 1014,
-      "recentToday": 54,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "어벤져스: 둠스데이 로다주, 캡틴아메리카 출연 톰 홀랜드는 안 나....",
-          "link": "https://blog.naver.com/above_cloud/224373333656",
-          "blogger": "과몰입 공간",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "블랙 위도우는 어벤져스로 돌아올 수 있을까",
-          "link": "https://blog.naver.com/dkfnfn08/224369151727",
-          "blogger": "난필의 창고",
-          "date": "2026-08-05"
-        },
-        {
-          "title": "어벤져스 둠스데이 개봉일 출연진 로다주 닥터 둠 복귀 총정리",
-          "link": "https://blog.naver.com/yeojeong0507/224367543490",
-          "blogger": "쩝쩝박사",
-          "date": "2026-08-05"
-        },
-        {
-          "title": "어벤져스 둠스데이 둠의 심판 예고편 정보 둠의 목표는 배틀월드",
-          "link": "https://blog.naver.com/ban1329/224379490705",
-          "blogger": "청우",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "어벤져스: 둠스데이 개봉일 총정리｜줄거리부터 출연진까지",
-          "link": "https://blog.naver.com/88_layla/224377636347",
-          "blogger": "사소한 모든 것들",
-          "date": "2026-08-13"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "영화관 3사, 관객 돌아오자 외형 회복…하반기 흥행 바통 이어갈까",
-          "link": "https://www.bloter.net/news/articleView.html?idxno=671070",
-          "press": "",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "\"내가 바로 둠이다\"…'어벤져스: 둠스데이' 2차 예고편 공개",
-          "link": "https://www.econovill.com/news/articleView.html?idxno=748149",
-          "press": "",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "톰 홀랜드·크리스토퍼 놀란도 중국행…할리우드, 미중 갈등완화로 中 ...",
-          "link": "https://biz.heraldcorp.com/article/10842871?ref=naver",
-          "press": "",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "“내가 바로 둠이다”…‘어벤져스: 둠스데이’ 예고편 공개, 거대한 전...",
-          "link": "https://sports.donga.com/ent/article/all/20260817/134487331/1",
-          "press": "",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "요즘 영화, 이 부부가 다 해먹네",
-          "link": "https://www.joongang.co.kr/article/25453768",
-          "press": "",
-          "date": "2026-08-16"
-        }
-      ],
       "rank": 3
     },
     {
       "keyword": "넥슨",
       "traffic": "2000+",
-      "blogTotal": 151845,
-      "newsTotal": 573932,
+      "blogTotal": 151844,
+      "newsTotal": 573935,
       "recentToday": 51,
       "recentWeek": 100,
       "topBlogs": [
@@ -262,6 +262,24 @@
       ],
       "topNews": [
         {
+          "title": "“25년 추억, 클릭 한번에 삭제”…‘크아’ 섭종이 남긴 씁쓸함 [팩플...",
+          "link": "https://www.joongang.co.kr/article/25454016",
+          "press": "",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "[글로벌 비즈 브리핑] 메타, 청소년 유해 재판 개시...최고 '돈줄' 위기...",
+          "link": "https://biz.sbs.co.kr/article_hub/20000329087?division=NAVER",
+          "press": "",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "배당률 19%?...넥슨 파격 특별배당에 日 증시 들썩",
+          "link": "https://biz.sbs.co.kr/article_hub/20000329086?division=NAVER",
+          "press": "",
+          "date": "2026-08-17"
+        },
+        {
           "title": "크래프톤, 게임업계 ‘3N 아성’ 깨고 매출-영업이익 1위로",
           "link": "https://www.donga.com/news/Economy/article/all/20260817/134490844/2",
           "press": "",
@@ -272,31 +290,13 @@
           "link": "https://www.fntimes.com/html/view.php?ud=202608142219221488dd55077bc2_18",
           "press": "",
           "date": "2026-08-17"
-        },
-        {
-          "title": "'제18회 대통령배 KeG' 전국 결선 성료…부산광역시 15년 만에 종합 우승",
-          "link": "https://www.xportsnews.com/article/2184528",
-          "press": "",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "'BIC 2026', 오프라인 관람객 4만 명 돌파하며 성료…'가비지 컨트리' 그...",
-          "link": "https://www.xportsnews.com/article/2184523",
-          "press": "",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "황제를 넘어서다…BFX 김선재, 3대1로 KT 김정민 제압 (FSL 서머) [종합]",
-          "link": "https://www.xportsnews.com/article/2184560",
-          "press": "",
-          "date": "2026-08-17"
         }
       ],
       "rank": 4
     },
     {
       "keyword": "브루스 윌리스",
-      "traffic": "200+",
+      "traffic": "500+",
       "blogTotal": 14023,
       "newsTotal": 14271,
       "recentToday": 26,
@@ -369,10 +369,10 @@
     },
     {
       "keyword": "퇴직",
-      "traffic": "200+",
-      "blogTotal": 570611,
-      "newsTotal": 1481712,
-      "recentToday": 16,
+      "traffic": "500+",
+      "blogTotal": 570618,
+      "newsTotal": 1481720,
+      "recentToday": 9,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -408,32 +408,32 @@
       ],
       "topNews": [
         {
-          "title": "폐업 아픔 겪은 50대, AI 배워 ‘프랜차이즈 팀장’으로 컴백",
-          "link": "https://www.donga.com/news/Society/article/all/20260818/134490931/2",
+          "title": "“캐디, 너 해고” 했다간…한국선 ‘트럼프 골프장’ 어려운 까닭 [성...",
+          "link": "https://www.joongang.co.kr/article/25454030",
           "press": "",
           "date": "2026-08-17"
         },
         {
-          "title": "부실 사립대, 정부가 직접 퇴출시킨다… 구조조정 본격화",
-          "link": "https://www.donga.com/news/Society/article/all/20260818/134492011/2",
+          "title": "AI 호황을 공유하는 길, 퇴직연금 기금화와 청년연금",
+          "link": "https://www.hani.co.kr/arti/economy/economy_general/1273320.html",
           "press": "",
           "date": "2026-08-17"
         },
         {
-          "title": "시진핑, 4연임 결정 1년앞 ‘장쩌민 100주년’ 띄우기",
-          "link": "https://www.donga.com/news/Inter/article/all/20260818/134491722/2",
+          "title": "장윤기 사건 '굴욕'에 형소법 개정까지…짐 싸는 경찰 수사관들",
+          "link": "https://www.nocutnews.co.kr/news/6563837?utm_source=naver&utm_medium=article&utm_campaign=20260818050017",
           "press": "",
           "date": "2026-08-17"
         },
         {
-          "title": "건국 250년 美 은퇴의 꿈, 왜 밤마다 잠 못 드는 악몽을",
-          "link": "https://www.g-enews.com/view.php?ud=202608171655085714fbbec65dfb_1",
+          "title": "판 바뀐 퇴직연금⋯신규 자금 95% 직접 굴린다 [550조 연금전쟁 上-①]",
+          "link": "https://www.etoday.co.kr/news/view/2615168",
           "press": "",
           "date": "2026-08-17"
         },
         {
-          "title": "[민주영의 마켓 나우] 퇴직연금, 기업비용이 아니라 기업가치다",
-          "link": "https://www.joongang.co.kr/article/25453977",
+          "title": "[인터뷰] 이병도 충남교육감 \"'도민 교육주권 시대' 실현에 전력\"",
+          "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260817010005243",
           "press": "",
           "date": "2026-08-17"
         }
@@ -662,8 +662,8 @@
     {
       "keyword": "뇌",
       "traffic": "500+",
-      "blogTotal": 1986304,
-      "newsTotal": 1387593,
+      "blogTotal": 1986314,
+      "newsTotal": 1387598,
       "recentToday": 0,
       "recentWeek": 100,
       "topBlogs": [
@@ -700,32 +700,32 @@
       ],
       "topNews": [
         {
-          "title": "\"포크로 얼굴 긁는 고통\"...김승수 \"실명 위기 겪었다\" 고백, 무슨 일 [헬...",
-          "link": "http://www.fnnews.com/news/202608170955137835",
+          "title": "동거녀 때려 숨지게 한 혐의로 법정 선 50대, 2년 만에 무죄 왜?",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008708877&plink=ORI&cooper=NAVER",
           "press": "",
           "date": "2026-08-17"
         },
         {
-          "title": "로봇 재활, 뇌졸중 환자 신경가소성 회복의 게임체인저",
-          "link": "https://www.g-enews.com/view.php?ud=2026081722582378862bd56fbc3c_1",
+          "title": "아내 떠난지 넉달만 비보..故이병철, '뇌출혈로 별세' 오늘(18일) 4주기",
+          "link": "https://www.starnewskorea.com/star/2026/08/18/2026081800450034868",
           "press": "",
           "date": "2026-08-17"
         },
         {
-          "title": "백인천 감독, 0.412 대기록 남기고 영면...KBO장으로 엄수",
-          "link": "http://www.thesportstimes.co.kr/news/articleView.html?idxno=374981",
+          "title": "뇌 아닌 ‘횡격막’으로 생각한 호메로스… 새 질문 던지는 ‘고전의 힘...",
+          "link": "https://www.seoul.co.kr/news/life/publication-literature/2026/08/18/20260818014001?wlog_tag3=naver",
           "press": "",
           "date": "2026-08-17"
         },
         {
-          "title": "출생 줄었는데 장애아 늘어… “숨기기보다 조기 진단·지원” 확산",
-          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000003818&cp=nv",
+          "title": "햇빛에 한쪽 눈 자주 감는 아이, 시력 위협하는 ‘사시’ 조심",
+          "link": "https://www.seoul.co.kr/news/life/health-news/2026/08/18/20260818018001?wlog_tag3=naver",
           "press": "",
           "date": "2026-08-17"
         },
         {
-          "title": "‘치매 투병’ 브루스 윌리스, 데미무어와 막내딸 결혼식 참석",
-          "link": "https://www.joongang.co.kr/article/25454011",
+          "title": "故 이병철, 아내 떠나보내고 4개월 뒤 비보…뇌출혈 투병 끝, 4주기",
+          "link": "https://www.xportsnews.com/article/2184588",
           "press": "",
           "date": "2026-08-17"
         }
