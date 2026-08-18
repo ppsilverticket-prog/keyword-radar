@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-18T20:19:50.165Z",
+  "updatedAt": "2026-08-18T20:48:57.269Z",
   "source": "live",
   "keywords": [
     {
       "keyword": "매미",
       "traffic": "1000+",
-      "blogTotal": 196196,
-      "newsTotal": 69721,
+      "blogTotal": 196197,
+      "newsTotal": 69723,
       "recentToday": 76,
       "recentWeek": 100,
       "topBlogs": [
@@ -43,6 +43,18 @@
       ],
       "topNews": [
         {
+          "title": "밴드 쏜애플, 단독 콘서트 ‘나의 세기’ 서울 공연 성황리에 마무리",
+          "link": "https://sports.khan.co.kr/article/202608190534003?pt=nv",
+          "press": "",
+          "date": "2026-08-18"
+        },
+        {
+          "title": "'간암 투병' 심권호, 근황 공개...\"며칠 전, 마지막 시술\", \"담당 의사도...",
+          "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553467165",
+          "press": "",
+          "date": "2026-08-18"
+        },
+        {
           "title": "공 맞고도 웃던 열두 살 악바리, '금녀의 철옹성'에 금을 냈다[Story]",
           "link": "https://www.hankookilbo.com/news/article/A2026081009080001478?did=NA",
           "press": "",
@@ -59,18 +71,6 @@
           "link": "http://www.ikoreanspirit.com/news/articleView.html?idxno=86865",
           "press": "",
           "date": "2026-08-18"
-        },
-        {
-          "title": "\"중국인 몰려와 매미 유충 싹쓸이\"…한강공원 '과태료 10만원'",
-          "link": "https://view.asiae.co.kr/article/2026081821202524022",
-          "press": "",
-          "date": "2026-08-18"
-        },
-        {
-          "title": "“중국인들이 매미 대량 채집”…1년 뒤 한강에 걸린 현수막",
-          "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=05497286645548632",
-          "press": "",
-          "date": "2026-08-18"
         }
       ],
       "rank": 1
@@ -78,8 +78,8 @@
     {
       "keyword": "반도체 메모리",
       "traffic": "100+",
-      "blogTotal": 116439,
-      "newsTotal": 552954,
+      "blogTotal": 116437,
+      "newsTotal": 552965,
       "recentToday": 72,
       "recentWeek": 100,
       "topBlogs": [
@@ -116,32 +116,32 @@
       ],
       "topNews": [
         {
-          "title": "美日 국채금리 뛰고 유가 상승…코스피 7200 찍고 6800선 ‘후퇴’",
-          "link": "https://www.seoul.co.kr/news/economy/2026/08/19/20260819031004?wlog_tag3=naver",
+          "title": "\"脫중국 쐐기 박는다\"… 구글, 2027년까지 '픽셀폰·스마트워치' 中 생산...",
+          "link": "https://www.g-enews.com/view.php?ud=2026081817355567460c8c1c064d_1",
           "press": "",
           "date": "2026-08-18"
         },
         {
-          "title": "코스피 반등장 8兆 베팅한 외국인… ‘삼전닉스’ 집중 매수",
-          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000004204&cp=nv",
+          "title": "미국 반도체 지수 5% 급락…장기금리 상승에 SK하닉 ADR 9%↓",
+          "link": "https://www.news1.kr/world/international-economy/6262462",
           "press": "",
           "date": "2026-08-18"
         },
         {
-          "title": "SK하이닉스 PER 8.1배…마이크론 절반도 안돼",
-          "link": "https://www.g-enews.com/view.php?ud=2026081823521350209a1f309431_1",
+          "title": "\"GPU 이어 '인듐인화물' 대란\"… AI 데이터센터 초고속 광통신 필수재 '...",
+          "link": "https://www.g-enews.com/view.php?ud=2026081817313694650c8c1c064d_1",
           "press": "",
           "date": "2026-08-18"
         },
         {
-          "title": "[연봉도 K자 양극화] 반도체·방산 약진, 물가 못 따라가는 車·가전",
-          "link": "https://www.ajunews.com/view/20260818145424450",
+          "title": "장기금리 고공행진에 반도체 털썩…나스닥 1.3%↓[월스트리트in]",
+          "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=01954886645548960",
           "press": "",
           "date": "2026-08-18"
         },
         {
-          "title": "김정관, 러트닉 만나 ‘1호 투자’ 조율… 정부 “메모리 반도체 아니다...",
-          "link": "https://www.seoul.co.kr/news/economy/2026/08/19/20260819004001?wlog_tag3=naver",
+          "title": "뉴욕증시, 글로벌 국채금리 급등에 부담… S&P 500, 3거래일 연속 내림세",
+          "link": "https://www.newspim.com/news/view/20260819000020",
           "press": "",
           "date": "2026-08-18"
         }
@@ -222,79 +222,6 @@
       "rank": 3
     },
     {
-      "keyword": "사우델",
-      "traffic": "200+",
-      "blogTotal": 260,
-      "newsTotal": 106,
-      "recentToday": 19,
-      "recentWeek": 68,
-      "topBlogs": [
-        {
-          "title": "18호 태풍 사우델 뜻 및 이름 유래와 예상 경로 실시간 총정리",
-          "link": "https://blog.naver.com/notsilly/224382009996",
-          "blogger": "코코넛 블로그",
-          "date": "2026-08-18"
-        },
-        {
-          "title": "제18호 태풍 사우델 발생할까? 열대요란 92W 94W 발달 가능성 주목",
-          "link": "https://blog.naver.com/sumi3837/224381496876",
-          "blogger": "빛나의 행복한이야기♥",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "현재 태풍·앞으로 태풍 전망 총정리｜17호 낭카 소멸, 18호 사우델은....",
-          "link": "https://blog.naver.com/wnsgurqw/224380368110",
-          "blogger": "trading_bot",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "18호 태풍 사우델 다음은 19호 태풍 나라｜8월 말 태풍, 이제 ‘나라....",
-          "link": "https://blog.naver.com/seehuglove/224380913258",
-          "blogger": "하객대행 = 하객포유",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "[ 참고] 이번주 후반 제 18호 태풍 \" 사우델 \" 발생 , 예상 경로 및 기....",
-          "link": "https://blog.naver.com/j13month/224380132529",
-          "blogger": "바람의내음: 여행 기상특보 & 역사 문화 여행 리포트",
-          "date": "2026-08-16"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "[태풍경로]17호 '낭카' 소멸 18호 '사우델' 촉각…한반도 날씨 변수 되나",
-          "link": "https://www.namdonews.com/news/articleView.html?idxno=920322",
-          "press": "",
-          "date": "2026-08-18"
-        },
-        {
-          "title": "2026년 18호 태풍 사우델, 19호 태풍 나라,20호 태풍 개나리 등 한반도 첫...",
-          "link": "http://www.economytalk.kr/news/articleView.html?idxno=423547",
-          "press": "",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "올해 태풍 예년보다 60% 더 많을 전망, 슈퍼 엘니뇨 영향에 내년은 더 늘...",
-          "link": "https://www.businesspost.co.kr/BP?command=article_view&num=444793",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "2026년 한반도 첫 태풍은?...18호 태풍 사우델, 19호 태풍 나라,20호 태풍...",
-          "link": "http://www.economytalk.kr/news/articleView.html?idxno=423515",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "2026년 제17호 태풍 낭카 현재 위치 및 예상경로[8월 14일]",
-          "link": "http://www.economytalk.kr/news/articleView.html?idxno=423499",
-          "press": "",
-          "date": "2026-08-13"
-        }
-      ],
-      "rank": 4
-    },
-    {
       "keyword": "광화문광장",
       "traffic": "500+",
       "blogTotal": 93490,
@@ -365,15 +292,15 @@
           "date": "2026-08-18"
         }
       ],
-      "rank": 5
+      "rank": 4
     },
     {
       "keyword": "아빠 10년",
       "traffic": "500+",
-      "blogTotal": 22490,
+      "blogTotal": 22491,
       "newsTotal": 83005,
       "recentToday": 10,
-      "recentWeek": 83,
+      "recentWeek": 84,
       "topBlogs": [
         {
           "title": "\"10년 보유했는데 세금 1억 7천만원 더?\" 2029년 양도세가 무서운 이유",
@@ -438,7 +365,7 @@
           "date": "2026-08-18"
         }
       ],
-      "rank": 6
+      "rank": 5
     },
     {
       "keyword": "서장훈의 이웃집 백만장 자",
@@ -480,13 +407,13 @@
         }
       ],
       "topNews": [],
-      "rank": 7
+      "rank": 6
     },
     {
       "keyword": "강유정",
       "traffic": "100+",
       "blogTotal": 11278,
-      "newsTotal": 72196,
+      "newsTotal": 72197,
       "recentToday": 6,
       "recentWeek": 20,
       "topBlogs": [
@@ -523,8 +450,20 @@
       ],
       "topNews": [
         {
+          "title": "[시대리포트]\"김민석, 떨어져 나간 중도 흡수해 이 대통령 지지율 높여...",
+          "link": "https://www.sidae.com/article/2026081809110468240",
+          "press": "",
+          "date": "2026-08-18"
+        },
+        {
           "title": "\"경쟁 벌인 상대도 책임 동반자\"…李대통령, 김민석·정청래·송영길과...",
           "link": "https://www.news1.kr/politics/president/6262248",
+          "press": "",
+          "date": "2026-08-18"
+        },
+        {
+          "title": "李, 선관위 특검에 특수·형사 검사 출신 이태한 임명",
+          "link": "https://www.seoul.co.kr/news/society/law/2026/08/19/20260819006004?wlog_tag3=naver",
           "press": "",
           "date": "2026-08-18"
         },
@@ -539,18 +478,79 @@
           "link": "https://view.asiae.co.kr/article/2026081821383462960",
           "press": "",
           "date": "2026-08-18"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "keyword": "사우 델",
+      "traffic": "200+",
+      "blogTotal": 18,
+      "newsTotal": 64,
+      "recentToday": 0,
+      "recentWeek": 0,
+      "topBlogs": [
+        {
+          "title": "유통전문판매업체 목록 : 14001-15000",
+          "link": "https://richcat.tistory.com/13334",
+          "blogger": "리치캣의 현재 그리고 미래",
+          "date": "2022-10-19"
         },
         {
-          "title": "李, 선관위 특검에 특수·형사 검사 출신 이태한 임명",
-          "link": "https://www.seoul.co.kr/news/society/law/2026/08/19/20260819006004?wlog_tag3=naver",
-          "press": "",
-          "date": "2026-08-18"
+          "title": "유통전문판매업체 목록 : 7001-8000",
+          "link": "https://richcat.tistory.com/13327",
+          "blogger": "리치캣의 현재 그리고 미래",
+          "date": "2022-10-19"
         },
         {
-          "title": "“장관들에 유임 의향 물었다”…靑 중폭 개각 밑작업",
-          "link": "https://www.joongang.co.kr/article/25454333",
+          "title": "마이삭, 하이선 : 한눈에 태풍 비교, 이동 경로, 최대풍속, 강수량",
+          "link": "https://leessaem84.tistory.com/61",
+          "blogger": "대치동 재우쌤",
+          "date": "2020-09-02"
+        },
+        {
+          "title": "트립어드바이저 추천 식당 : 미국",
+          "link": "https://richcat.tistory.com/4904",
+          "blogger": "리치캣의 현재 그리고 미래",
+          "date": "2021-01-21"
+        },
+        {
+          "title": "[알라딘서재]중고 판매 리스트",
+          "link": "https://blog.aladin.co.kr/fragile/3314844",
+          "blogger": "https://blog.aladin.co.kr/",
+          "date": "2010-01-04"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "칠레 - '도전하는 인생'을 즐기며 살자(下) /",
+          "link": "http://topclass.chosun.com/news/articleView.html?idxno=35309",
           "press": "",
-          "date": "2026-08-18"
+          "date": "2025-09-25"
+        },
+        {
+          "title": "“사우나 수준” 60도 선박창고서 작업… “일정 시간 휴식 강제를”",
+          "link": "https://www.donga.com/news/Society/article/all/20250807/132148518/2",
+          "press": "",
+          "date": "2025-08-07"
+        },
+        {
+          "title": "미 재무부, 멕시코 카르텔 고위 인사 두 명 제재",
+          "link": "https://www.jemin.com/news/articleView.html?idxno=804826",
+          "press": "",
+          "date": "2025-05-21"
+        },
+        {
+          "title": "인텔 가우디 3, 델 AI 플랫폼에 탑재.. AI 혁신 위한 가용성 확대",
+          "link": "http://www.fnnews.com/news/202505211809120457",
+          "press": "",
+          "date": "2025-05-21"
+        },
+        {
+          "title": "[ICT 종합] 엔비디아 및 IPX 소식 외",
+          "link": "http://www.gamevu.co.kr/news/articleView.html?idxno=40874",
+          "press": "",
+          "date": "2025-05-21"
         }
       ],
       "rank": 8
