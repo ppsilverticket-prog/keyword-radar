@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-18T18:33:59.983Z",
+  "updatedAt": "2026-08-18T19:24:58.537Z",
   "source": "live",
   "keywords": [
     {
       "keyword": "매미",
       "traffic": "1000+",
-      "blogTotal": 196187,
+      "blogTotal": 196192,
       "newsTotal": 69720,
-      "recentToday": 83,
+      "recentToday": 80,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -78,8 +78,8 @@
     {
       "keyword": "로드리",
       "traffic": "100+",
-      "blogTotal": 5725,
-      "newsTotal": 16435,
+      "blogTotal": 5728,
+      "newsTotal": 16436,
       "recentToday": 49,
       "recentWeek": 100,
       "topBlogs": [
@@ -116,6 +116,12 @@
       ],
       "topNews": [
         {
+          "title": "[오피셜] 바르셀로나 역대급 중원 갖춘다! '발롱도르+골든볼' 위너 로드...",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=692762",
+          "press": "",
+          "date": "2026-08-18"
+        },
+        {
           "title": "[오피셜] ‘이적료 1250억!’ 올 여름 ‘최고의 이적’ 로드리, FC 바르셀...",
           "link": "https://sports.khan.co.kr/article/202608190245003?pt=nv",
           "press": "",
@@ -138,93 +144,14 @@
           "link": "https://www.besteleven.com/news/articleView.html?idxno=311299",
           "press": "",
           "date": "2026-08-18"
-        },
-        {
-          "title": "'이럴 수가' 무리뉴 픽 아니었나? 발롱도르 위너 바르사 선택한 이유 밝...",
-          "link": "https://www.mydaily.co.kr/page/view/2026081813424852231",
-          "press": "",
-          "date": "2026-08-18"
         }
       ],
       "rank": 2
     },
     {
-      "keyword": "사우델",
-      "traffic": "100+",
-      "blogTotal": 259,
-      "newsTotal": 106,
-      "recentToday": 19,
-      "recentWeek": 67,
-      "topBlogs": [
-        {
-          "title": "18호 태풍 사우델 뜻 및 이름 유래와 예상 경로 실시간 총정리",
-          "link": "https://blog.naver.com/notsilly/224382009996",
-          "blogger": "코코넛 블로그",
-          "date": "2026-08-18"
-        },
-        {
-          "title": "제18호 태풍 사우델 발생할까? 열대요란 92W 94W 발달 가능성 주목",
-          "link": "https://blog.naver.com/sumi3837/224381496876",
-          "blogger": "빛나의 행복한이야기♥",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "현재 태풍·앞으로 태풍 전망 총정리｜17호 낭카 소멸, 18호 사우델은....",
-          "link": "https://blog.naver.com/wnsgurqw/224380368110",
-          "blogger": "trading_bot",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "18호 태풍 사우델 다음은 19호 태풍 나라｜8월 말 태풍, 이제 ‘나라....",
-          "link": "https://blog.naver.com/seehuglove/224380913258",
-          "blogger": "하객대행 = 하객포유",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "[ 참고] 이번주 후반 제 18호 태풍 \" 사우델 \" 발생 , 예상 경로 및 기....",
-          "link": "https://blog.naver.com/j13month/224380132529",
-          "blogger": "바람의내음: 여행 기상특보 & 역사 문화 여행 리포트",
-          "date": "2026-08-16"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "[태풍경로]17호 '낭카' 소멸 18호 '사우델' 촉각…한반도 날씨 변수 되나",
-          "link": "https://www.namdonews.com/news/articleView.html?idxno=920322",
-          "press": "",
-          "date": "2026-08-18"
-        },
-        {
-          "title": "2026년 18호 태풍 사우델, 19호 태풍 나라,20호 태풍 개나리 등 한반도 첫...",
-          "link": "http://www.economytalk.kr/news/articleView.html?idxno=423547",
-          "press": "",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "올해 태풍 예년보다 60% 더 많을 전망, 슈퍼 엘니뇨 영향에 내년은 더 늘...",
-          "link": "https://www.businesspost.co.kr/BP?command=article_view&num=444793",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "2026년 한반도 첫 태풍은?...18호 태풍 사우델, 19호 태풍 나라,20호 태풍...",
-          "link": "http://www.economytalk.kr/news/articleView.html?idxno=423515",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "2026년 제17호 태풍 낭카 현재 위치 및 예상경로[8월 14일]",
-          "link": "http://www.economytalk.kr/news/articleView.html?idxno=423499",
-          "press": "",
-          "date": "2026-08-13"
-        }
-      ],
-      "rank": 3
-    },
-    {
       "keyword": "광화문광장",
       "traffic": "200+",
-      "blogTotal": 93487,
+      "blogTotal": 93490,
       "newsTotal": 501430,
       "recentToday": 18,
       "recentWeek": 100,
@@ -254,10 +181,10 @@
           "date": "2026-08-07"
         },
         {
-          "title": "서울 광화문 광장 서울 썸머비치 물놀이 & 수영장 샌드비치 예약하....",
-          "link": "https://blog.naver.com/bigway22/224364819655",
-          "blogger": "모리의 여행! Mori.",
-          "date": "2026-08-01"
+          "title": "2026 서울썸머비치 수영장 예약 준비물 광화문 광장 놀거리",
+          "link": "https://blog.naver.com/hy7276/224359871689",
+          "blogger": "일상 속 쉼표찍기",
+          "date": "2026-07-27"
         }
       ],
       "topNews": [
@@ -292,15 +219,15 @@
           "date": "2026-08-18"
         }
       ],
-      "rank": 4
+      "rank": 3
     },
     {
       "keyword": "아빠 10년",
       "traffic": "200+",
-      "blogTotal": 22489,
-      "newsTotal": 83002,
+      "blogTotal": 22490,
+      "newsTotal": 83003,
       "recentToday": 10,
-      "recentWeek": 82,
+      "recentWeek": 83,
       "topBlogs": [
         {
           "title": "\"10년 보유했는데 세금 1억 7천만원 더?\" 2029년 양도세가 무서운 이유",
@@ -335,6 +262,12 @@
       ],
       "topNews": [
         {
+          "title": "\"딸 교육 위해 월급 600만원 보냈는데\"…아내 캐나다서 외도, 되레 이혼...",
+          "link": "https://www.news1.kr/society/general-society/6261712",
+          "press": "",
+          "date": "2026-08-18"
+        },
+        {
           "title": "\"10년째 기러기 월 600만원 보냈는데\"…캐나다서 바람난 아내의 황당한...",
           "link": "https://www.newsis.com/view/NISX20260818_0003752310",
           "press": "",
@@ -357,15 +290,9 @@
           "link": "https://mhnse.com/news/articleView.html?idxno=1493326",
           "press": "",
           "date": "2026-08-18"
-        },
-        {
-          "title": "'월 600만 원·10년 간' 보낸 기러기 아빠…아내는 캐나다서 상간남과 '...",
-          "link": "https://www.mydaily.co.kr/page/view/2026081818071687368",
-          "press": "",
-          "date": "2026-08-18"
         }
       ],
-      "rank": 5
+      "rank": 4
     },
     {
       "keyword": "신진서",
@@ -438,7 +365,7 @@
           "date": "2026-08-18"
         }
       ],
-      "rank": 6
+      "rank": 5
     },
     {
       "keyword": "서장훈의 이웃집 백만장 자",
@@ -480,6 +407,79 @@
         }
       ],
       "topNews": [],
+      "rank": 6
+    },
+    {
+      "keyword": "사우 델",
+      "traffic": "200+",
+      "blogTotal": 18,
+      "newsTotal": 64,
+      "recentToday": 0,
+      "recentWeek": 0,
+      "topBlogs": [
+        {
+          "title": "유통전문판매업체 목록 : 14001-15000",
+          "link": "https://richcat.tistory.com/13334",
+          "blogger": "리치캣의 현재 그리고 미래",
+          "date": "2022-10-19"
+        },
+        {
+          "title": "마이삭, 하이선 : 한눈에 태풍 비교, 이동 경로, 최대풍속, 강수량",
+          "link": "https://leessaem84.tistory.com/61",
+          "blogger": "대치동 재우쌤",
+          "date": "2020-09-02"
+        },
+        {
+          "title": "유통전문판매업체 목록 : 7001-8000",
+          "link": "https://richcat.tistory.com/13327",
+          "blogger": "리치캣의 현재 그리고 미래",
+          "date": "2022-10-19"
+        },
+        {
+          "title": "트립어드바이저 추천 식당 : 미국",
+          "link": "https://richcat.tistory.com/4904",
+          "blogger": "리치캣의 현재 그리고 미래",
+          "date": "2021-01-21"
+        },
+        {
+          "title": "죽기전에 꼭 먹어야 할 음식재료 1001가지",
+          "link": "https://fasignal.tistory.com/83",
+          "blogger": "fasignal",
+          "date": "2022-03-09"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "칠레 - '도전하는 인생'을 즐기며 살자(下) /",
+          "link": "http://topclass.chosun.com/news/articleView.html?idxno=35309",
+          "press": "",
+          "date": "2025-09-25"
+        },
+        {
+          "title": "“사우나 수준” 60도 선박창고서 작업… “일정 시간 휴식 강제를”",
+          "link": "https://www.donga.com/news/Society/article/all/20250807/132148518/2",
+          "press": "",
+          "date": "2025-08-07"
+        },
+        {
+          "title": "미 재무부, 멕시코 카르텔 고위 인사 두 명 제재",
+          "link": "https://www.jemin.com/news/articleView.html?idxno=804826",
+          "press": "",
+          "date": "2025-05-21"
+        },
+        {
+          "title": "인텔 가우디 3, 델 AI 플랫폼에 탑재.. AI 혁신 위한 가용성 확대",
+          "link": "http://www.fnnews.com/news/202505211809120457",
+          "press": "",
+          "date": "2025-05-21"
+        },
+        {
+          "title": "[ICT 종합] 엔비디아 및 IPX 소식 외",
+          "link": "http://www.gamevu.co.kr/news/articleView.html?idxno=40874",
+          "press": "",
+          "date": "2025-05-21"
+        }
+      ],
       "rank": 7
     },
     {
@@ -495,12 +495,6 @@
           "link": "https://hangeullo.tistory.com/2613",
           "blogger": "우리글로의 풀이諺解",
           "date": "2026-08-09"
-        },
-        {
-          "title": "0439_삼연집_三淵集_번역2",
-          "link": "https://hangeullo.tistory.com/2537",
-          "blogger": "우리글로의 풀이諺解",
-          "date": "2026-08-07"
         },
         {
           "title": "대한민국 국가대표 명단 / 브라질 월드컵 대한민국 경기일정 / 대한....",
@@ -519,6 +513,12 @@
           "link": "https://hangeullo.tistory.com/2577",
           "blogger": "우리글로의 풀이諺解",
           "date": "2026-08-08"
+        },
+        {
+          "title": "0439_삼연집_三淵集_번역2",
+          "link": "https://hangeullo.tistory.com/2537",
+          "blogger": "우리글로의 풀이諺解",
+          "date": "2026-08-07"
         }
       ],
       "topNews": [
@@ -576,6 +576,12 @@
           "date": "2025-01-09"
         },
         {
+          "title": "[현지정보] 캐나다 중앙은행 정책금리 인상, 2018년 및 2019년 성장률 ....",
+          "link": "https://rich-inside.tistory.com/446",
+          "blogger": "리치인사이드",
+          "date": "2018-01-19"
+        },
+        {
           "title": "[영어공부] 영어회화를 위한 필수 단어 (2000) - 훗티",
           "link": "https://hoood.tistory.com/806",
           "blogger": "훗티 - 훗티",
@@ -586,12 +592,6 @@
           "link": "https://sawol-today.tistory.com/942",
           "blogger": "연습장",
           "date": "2023-01-01"
-        },
-        {
-          "title": "선진국으로의 대량 이민 물결 시작이 의미하는 것(23-5-28)/에코노미....",
-          "link": "https://ykl1215.tistory.com/531246",
-          "blogger": "yknet",
-          "date": "2023-06-01"
         }
       ],
       "topNews": [
