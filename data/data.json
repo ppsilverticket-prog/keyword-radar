@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-18T19:48:54.002Z",
+  "updatedAt": "2026-08-18T20:19:50.165Z",
   "source": "live",
   "keywords": [
     {
       "keyword": "매미",
       "traffic": "1000+",
-      "blogTotal": 196195,
+      "blogTotal": 196196,
       "newsTotal": 69721,
-      "recentToday": 77,
+      "recentToday": 76,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -76,10 +76,83 @@
       "rank": 1
     },
     {
+      "keyword": "반도체 메모리",
+      "traffic": "100+",
+      "blogTotal": 116439,
+      "newsTotal": 552954,
+      "recentToday": 72,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "HBM 뜻은? 메모리 반도체 종류와 DRAM·NAND 차이점 정리",
+          "link": "https://blog.naver.com/addlk1234/224310922651",
+          "blogger": "정보나눔소",
+          "date": "2026-06-16"
+        },
+        {
+          "title": "\"SK하이닉스 주가 100만 원도 못 지킨다\" 메모리 반도체 가격 지금이 ....",
+          "link": "https://blog.naver.com/antsal/224373374496",
+          "blogger": "한입 재테크",
+          "date": "2026-08-11"
+        },
+        {
+          "title": "반도체주 급락 원인 긴급진단ㅣ메모리 반도체 약세 SK하이닉스 주주....",
+          "link": "https://blog.naver.com/jdawgup/224370700190",
+          "blogger": "connector for fun !",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "DRAM ETF란 무엇일까? AI 시대 메모리 반도체에 투자하는 가장 쉬운 방....",
+          "link": "https://blog.naver.com/skmfood/224367714258",
+          "blogger": "이율지후아빠",
+          "date": "2026-08-04"
+        },
+        {
+          "title": "삼성전자 메모리 반도체 성과급 6억 세금 떼면 얼마일까? \"삼성전자 ....",
+          "link": "https://blog.naver.com/yoursunnysky/224328238379",
+          "blogger": "차니와 가족",
+          "date": "2026-06-26"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "美日 국채금리 뛰고 유가 상승…코스피 7200 찍고 6800선 ‘후퇴’",
+          "link": "https://www.seoul.co.kr/news/economy/2026/08/19/20260819031004?wlog_tag3=naver",
+          "press": "",
+          "date": "2026-08-18"
+        },
+        {
+          "title": "코스피 반등장 8兆 베팅한 외국인… ‘삼전닉스’ 집중 매수",
+          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000004204&cp=nv",
+          "press": "",
+          "date": "2026-08-18"
+        },
+        {
+          "title": "SK하이닉스 PER 8.1배…마이크론 절반도 안돼",
+          "link": "https://www.g-enews.com/view.php?ud=2026081823521350209a1f309431_1",
+          "press": "",
+          "date": "2026-08-18"
+        },
+        {
+          "title": "[연봉도 K자 양극화] 반도체·방산 약진, 물가 못 따라가는 車·가전",
+          "link": "https://www.ajunews.com/view/20260818145424450",
+          "press": "",
+          "date": "2026-08-18"
+        },
+        {
+          "title": "김정관, 러트닉 만나 ‘1호 투자’ 조율… 정부 “메모리 반도체 아니다...",
+          "link": "https://www.seoul.co.kr/news/economy/2026/08/19/20260819004001?wlog_tag3=naver",
+          "press": "",
+          "date": "2026-08-18"
+        }
+      ],
+      "rank": 2
+    },
+    {
       "keyword": "로드리",
       "traffic": "100+",
       "blogTotal": 5729,
-      "newsTotal": 16436,
+      "newsTotal": 16438,
       "recentToday": 49,
       "recentWeek": 100,
       "topBlogs": [
@@ -116,6 +189,18 @@
       ],
       "topNews": [
         {
+          "title": "\"영원히 맨시티 잊지 않겠다\" 13회 트로피 안겨주고 아름다운 이별 로드...",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=692763",
+          "press": "",
+          "date": "2026-08-18"
+        },
+        {
+          "title": "[오피셜] 발롱도르에 월드컵 골든볼까지…바르셀로나, 레알 제치고 '스...",
+          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96574",
+          "press": "",
+          "date": "2026-08-18"
+        },
+        {
           "title": "[오피셜] 바르셀로나 역대급 중원 갖춘다! '발롱도르+골든볼' 위너 로드...",
           "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=692762",
           "press": "",
@@ -132,25 +217,86 @@
           "link": "https://www.sportschosun.com/football/2026-08-19/202608190100108910006915",
           "press": "",
           "date": "2026-08-18"
-        },
-        {
-          "title": "페르민, 16번→7번 변경... 로드리 이적설에 불붙나",
-          "link": "https://www.ggilbo.com/news/articleView.html?idxno=1175766",
-          "press": "",
-          "date": "2026-08-18"
-        },
-        {
-          "title": "\"레알에 좋지 않은 소식\" '교수님'의 우려… 크로스, 로드리 바르사행에...",
-          "link": "https://www.besteleven.com/news/articleView.html?idxno=311299",
-          "press": "",
-          "date": "2026-08-18"
         }
       ],
-      "rank": 2
+      "rank": 3
+    },
+    {
+      "keyword": "사우델",
+      "traffic": "200+",
+      "blogTotal": 260,
+      "newsTotal": 106,
+      "recentToday": 19,
+      "recentWeek": 68,
+      "topBlogs": [
+        {
+          "title": "18호 태풍 사우델 뜻 및 이름 유래와 예상 경로 실시간 총정리",
+          "link": "https://blog.naver.com/notsilly/224382009996",
+          "blogger": "코코넛 블로그",
+          "date": "2026-08-18"
+        },
+        {
+          "title": "제18호 태풍 사우델 발생할까? 열대요란 92W 94W 발달 가능성 주목",
+          "link": "https://blog.naver.com/sumi3837/224381496876",
+          "blogger": "빛나의 행복한이야기♥",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "현재 태풍·앞으로 태풍 전망 총정리｜17호 낭카 소멸, 18호 사우델은....",
+          "link": "https://blog.naver.com/wnsgurqw/224380368110",
+          "blogger": "trading_bot",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "18호 태풍 사우델 다음은 19호 태풍 나라｜8월 말 태풍, 이제 ‘나라....",
+          "link": "https://blog.naver.com/seehuglove/224380913258",
+          "blogger": "하객대행 = 하객포유",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "[ 참고] 이번주 후반 제 18호 태풍 \" 사우델 \" 발생 , 예상 경로 및 기....",
+          "link": "https://blog.naver.com/j13month/224380132529",
+          "blogger": "바람의내음: 여행 기상특보 & 역사 문화 여행 리포트",
+          "date": "2026-08-16"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "[태풍경로]17호 '낭카' 소멸 18호 '사우델' 촉각…한반도 날씨 변수 되나",
+          "link": "https://www.namdonews.com/news/articleView.html?idxno=920322",
+          "press": "",
+          "date": "2026-08-18"
+        },
+        {
+          "title": "2026년 18호 태풍 사우델, 19호 태풍 나라,20호 태풍 개나리 등 한반도 첫...",
+          "link": "http://www.economytalk.kr/news/articleView.html?idxno=423547",
+          "press": "",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "올해 태풍 예년보다 60% 더 많을 전망, 슈퍼 엘니뇨 영향에 내년은 더 늘...",
+          "link": "https://www.businesspost.co.kr/BP?command=article_view&num=444793",
+          "press": "",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "2026년 한반도 첫 태풍은?...18호 태풍 사우델, 19호 태풍 나라,20호 태풍...",
+          "link": "http://www.economytalk.kr/news/articleView.html?idxno=423515",
+          "press": "",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "2026년 제17호 태풍 낭카 현재 위치 및 예상경로[8월 14일]",
+          "link": "http://www.economytalk.kr/news/articleView.html?idxno=423499",
+          "press": "",
+          "date": "2026-08-13"
+        }
+      ],
+      "rank": 4
     },
     {
       "keyword": "광화문광장",
-      "traffic": "200+",
+      "traffic": "500+",
       "blogTotal": 93490,
       "newsTotal": 501431,
       "recentToday": 18,
@@ -219,13 +365,13 @@
           "date": "2026-08-18"
         }
       ],
-      "rank": 3
+      "rank": 5
     },
     {
       "keyword": "아빠 10년",
-      "traffic": "200+",
+      "traffic": "500+",
       "blogTotal": 22490,
-      "newsTotal": 83004,
+      "newsTotal": 83005,
       "recentToday": 10,
       "recentWeek": 83,
       "topBlogs": [
@@ -262,6 +408,12 @@
       ],
       "topNews": [
         {
+          "title": "“하버드 붙는다고 꼭 가야하냐” ‘2대가 하버드’ 그 아빠는 왜",
+          "link": "https://www.joongang.co.kr/article/25454341",
+          "press": "",
+          "date": "2026-08-18"
+        },
+        {
           "title": "돌 반지 사라졌지만, 엄마 드레스는 더 화려해진 요즘 돌잔치 [결준에서...",
           "link": "https://www.hankookilbo.com/news/article/A2026081810120002880?did=NA",
           "press": "",
@@ -284,161 +436,124 @@
           "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=556971",
           "press": "",
           "date": "2026-08-18"
-        },
-        {
-          "title": "전혜원, 출소했지만…가족에 외면→눈물 (‘욕망의 덫’)[종합]",
-          "link": "http://www.celuvmedia.com/article.php?aid=1787053935525965006",
-          "press": "",
-          "date": "2026-08-18"
-        }
-      ],
-      "rank": 4
-    },
-    {
-      "keyword": "신진서",
-      "traffic": "200+",
-      "blogTotal": 7241,
-      "newsTotal": 26628,
-      "recentToday": 9,
-      "recentWeek": 52,
-      "topBlogs": [
-        {
-          "title": "신진서 바둑 결과, 카타고 1국 245수 불계패…2점 접바둑 총정리",
-          "link": "https://blog.naver.com/yuria119/224349508227",
-          "blogger": "소소한 재테크, 든든한 내일",
-          "date": "2026-07-17"
-        },
-        {
-          "title": "Ai 바둑.. 신진서 카타고 3국 결과와 상금은? 2점 접바둑이란?",
-          "link": "https://blog.naver.com/caleb0901/224353605901",
-          "blogger": "이과장의 스포츠",
-          "date": "2026-07-21"
-        },
-        {
-          "title": "신진서 9단 카타고에 4집 반승 1승 1패,일정,대국료,부상",
-          "link": "https://blog.naver.com/khazneh88/224351901256",
-          "blogger": "뤼치머니 뮤직너블",
-          "date": "2026-07-20"
-        },
-        {
-          "title": "신진서 카타고 중계 바둑 대국 날짜 시간 결과 한국경제tv 실시간 유....",
-          "link": "https://blog.naver.com/dydghks3250/224349319417",
-          "blogger": "❤️ ✅kGn뉴스 ✅❤️",
-          "date": "2026-07-17"
-        },
-        {
-          "title": "신진서 누구? 바둑 9단 카타고(KataGo)와 운명의 대결 과연 승자는? 대....",
-          "link": "https://blog.naver.com/qhrfks1004/224349317167",
-          "blogger": "♥라니의 달콤한세상이야기♥",
-          "date": "2026-07-17"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "[제49기 SG배 한국일보 명인전] 고수의 눈",
-          "link": "https://www.hankookilbo.com/news/article/A2026081800100000149?did=NA",
-          "press": "",
-          "date": "2026-08-18"
-        },
-        {
-          "title": "신진서, 몽백합배 우승 향해 일보 전진",
-          "link": "https://www.ppss.kr/news/articleView.html?idxno=306072",
-          "press": "",
-          "date": "2026-08-18"
-        },
-        {
-          "title": "신진서 9단, 몽백합배 세계바둑 8강 진출…중국 1위 딩하오와 붙는다",
-          "link": "https://www.sedaily.com/article/20080636?ref=naver",
-          "press": "",
-          "date": "2026-08-18"
-        },
-        {
-          "title": "신진서, 몽백합배 세계바둑 8강 진출…중국 1위 딩하오 만난다",
-          "link": "https://www.news1.kr/sports/general-sport/6262399",
-          "press": "",
-          "date": "2026-08-18"
-        },
-        {
-          "title": "신진서, 몽백합배 첫 8강 진출-중국 1위 딩하오와 격돌",
-          "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=87133",
-          "press": "",
-          "date": "2026-08-18"
-        }
-      ],
-      "rank": 5
-    },
-    {
-      "keyword": "사우 델",
-      "traffic": "200+",
-      "blogTotal": 18,
-      "newsTotal": 64,
-      "recentToday": 0,
-      "recentWeek": 0,
-      "topBlogs": [
-        {
-          "title": "유통전문판매업체 목록 : 14001-15000",
-          "link": "https://richcat.tistory.com/13334",
-          "blogger": "리치캣의 현재 그리고 미래",
-          "date": "2022-10-19"
-        },
-        {
-          "title": "마이삭, 하이선 : 한눈에 태풍 비교, 이동 경로, 최대풍속, 강수량",
-          "link": "https://leessaem84.tistory.com/61",
-          "blogger": "대치동 재우쌤",
-          "date": "2020-09-02"
-        },
-        {
-          "title": "유통전문판매업체 목록 : 7001-8000",
-          "link": "https://richcat.tistory.com/13327",
-          "blogger": "리치캣의 현재 그리고 미래",
-          "date": "2022-10-19"
-        },
-        {
-          "title": "트립어드바이저 추천 식당 : 미국",
-          "link": "https://richcat.tistory.com/4904",
-          "blogger": "리치캣의 현재 그리고 미래",
-          "date": "2021-01-21"
-        },
-        {
-          "title": "죽기전에 꼭 먹어야 할 음식재료 1001가지",
-          "link": "https://fasignal.tistory.com/83",
-          "blogger": "fasignal",
-          "date": "2022-03-09"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "칠레 - '도전하는 인생'을 즐기며 살자(下) /",
-          "link": "http://topclass.chosun.com/news/articleView.html?idxno=35309",
-          "press": "",
-          "date": "2025-09-25"
-        },
-        {
-          "title": "“사우나 수준” 60도 선박창고서 작업… “일정 시간 휴식 강제를”",
-          "link": "https://www.donga.com/news/Society/article/all/20250807/132148518/2",
-          "press": "",
-          "date": "2025-08-07"
-        },
-        {
-          "title": "미 재무부, 멕시코 카르텔 고위 인사 두 명 제재",
-          "link": "https://www.jemin.com/news/articleView.html?idxno=804826",
-          "press": "",
-          "date": "2025-05-21"
-        },
-        {
-          "title": "인텔 가우디 3, 델 AI 플랫폼에 탑재.. AI 혁신 위한 가용성 확대",
-          "link": "http://www.fnnews.com/news/202505211809120457",
-          "press": "",
-          "date": "2025-05-21"
-        },
-        {
-          "title": "[ICT 종합] 엔비디아 및 IPX 소식 외",
-          "link": "http://www.gamevu.co.kr/news/articleView.html?idxno=40874",
-          "press": "",
-          "date": "2025-05-21"
         }
       ],
       "rank": 6
+    },
+    {
+      "keyword": "서장훈의 이웃집 백만장 자",
+      "traffic": "5000+",
+      "blogTotal": 3320,
+      "newsTotal": 0,
+      "recentToday": 9,
+      "recentWeek": 55,
+      "topBlogs": [
+        {
+          "title": "이웃집 백만장자 반찬가게 어디? 도시곳간 반찬 택배 주문 총정리",
+          "link": "https://blog.naver.com/nemo-c/224351010490",
+          "blogger": "네모의 이거뭐야?",
+          "date": "2026-07-19"
+        },
+        {
+          "title": "이웃집 백만장자 목재회사 김진원 대표 원목가구 우드슬랩 전 제트....",
+          "link": "https://blog.naver.com/wisdoma21/224361375623",
+          "blogger": "wisdoma21님의 블로그",
+          "date": "2026-07-29"
+        },
+        {
+          "title": "이웃집 백만장자 나무꾼 김진원 원목 가구 우드슬랩 홈페이지 가구....",
+          "link": "https://blog.naver.com/violet0970/224361649663",
+          "blogger": "올케이뉴스",
+          "date": "2026-07-29"
+        },
+        {
+          "title": "[서장훈의 이웃집 백만장자] 평창동 저택부터 1000억 매출까지, 연쇄 ....",
+          "link": "https://blog.naver.com/ebsstory/224331520352",
+          "blogger": "EBS",
+          "date": "2026-06-30"
+        },
+        {
+          "title": "머리카락 팔아 연명하던 소녀, 하루 매출 2,000만 원 '약선명인' 되다 ....",
+          "link": "https://blog.naver.com/sio2ham/224368683648",
+          "blogger": "서기가 쓰는 기록장",
+          "date": "2026-08-05"
+        }
+      ],
+      "topNews": [],
+      "rank": 7
+    },
+    {
+      "keyword": "강유정",
+      "traffic": "100+",
+      "blogTotal": 11278,
+      "newsTotal": 72196,
+      "recentToday": 6,
+      "recentWeek": 20,
+      "topBlogs": [
+        {
+          "title": "'평론가에서 이재명 정부 대변인으로' 강유정 생애 및 정치 경력 정....",
+          "link": "https://blog.naver.com/pso164/224328749505",
+          "blogger": "과학커뮤니케이터 박종현",
+          "date": "2026-07-03"
+        },
+        {
+          "title": "화성 IBK기업은행 알토스 배구 선수 강유정(프로필,스타일,커리어 등....",
+          "link": "https://blog.naver.com/mistermy18/224346682967",
+          "blogger": "H2의 스포츠와 여행",
+          "date": "2026-07-14"
+        },
+        {
+          "title": "강유정 치어리더가 데뷔하자마자 프로 무대를 누비고 있다고? \"2007....",
+          "link": "https://blog.naver.com/soonsoo5145/224320704909",
+          "blogger": "연예앞통령",
+          "date": "2026-06-19"
+        },
+        {
+          "title": "여자배구 신인 강유정의 마구 서브에 배구팬들 깜짝 놀라",
+          "link": "https://blog.naver.com/caleb0901/224195869457",
+          "blogger": "이과장의 스포츠",
+          "date": "2026-02-25"
+        },
+        {
+          "title": "\"코트 위의 비타민이라더니…\" 07년생 라이징 여신 강유정 치어리더!....",
+          "link": "https://blog.naver.com/happypeople10/224321554474",
+          "blogger": "Dr Don",
+          "date": "2026-06-20"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "\"경쟁 벌인 상대도 책임 동반자\"…李대통령, 김민석·정청래·송영길과...",
+          "link": "https://www.news1.kr/politics/president/6262248",
+          "press": "",
+          "date": "2026-08-18"
+        },
+        {
+          "title": "정성호, 李 만류에도 결국 사표… “국회서 형소법 문제점 수정”",
+          "link": "https://www.seoul.co.kr/news/politics/2026/08/19/20260819008004?wlog_tag3=naver",
+          "press": "",
+          "date": "2026-08-18"
+        },
+        {
+          "title": "결국 사직서 낸 정성호 법무, 李정부 '순차 개각' 힘 실리나",
+          "link": "https://view.asiae.co.kr/article/2026081821383462960",
+          "press": "",
+          "date": "2026-08-18"
+        },
+        {
+          "title": "李, 선관위 특검에 특수·형사 검사 출신 이태한 임명",
+          "link": "https://www.seoul.co.kr/news/society/law/2026/08/19/20260819006004?wlog_tag3=naver",
+          "press": "",
+          "date": "2026-08-18"
+        },
+        {
+          "title": "“장관들에 유임 의향 물었다”…靑 중폭 개각 밑작업",
+          "link": "https://www.joongang.co.kr/article/25454333",
+          "press": "",
+          "date": "2026-08-18"
+        }
+      ],
+      "rank": 8
     },
     {
       "keyword": "world cup schedule",
@@ -455,6 +570,12 @@
           "date": "2026-08-09"
         },
         {
+          "title": "0476_겸재집_謙齋集_번역1",
+          "link": "https://hangeullo.tistory.com/2577",
+          "blogger": "우리글로의 풀이諺解",
+          "date": "2026-08-08"
+        },
+        {
           "title": "대한민국 국가대표 명단 / 브라질 월드컵 대한민국 경기일정 / 대한....",
           "link": "https://sposworld.tistory.com/1078",
           "blogger": "스포츠 월드",
@@ -465,12 +586,6 @@
           "link": "https://hangeullo.tistory.com/2524",
           "blogger": "우리글로의 풀이諺解",
           "date": "2026-08-06"
-        },
-        {
-          "title": "0476_겸재집_謙齋集_번역1",
-          "link": "https://hangeullo.tistory.com/2577",
-          "blogger": "우리글로의 풀이諺解",
-          "date": "2026-08-08"
         },
         {
           "title": "0439_삼연집_三淵集_번역2",
@@ -511,7 +626,7 @@
           "date": "2026-07-30"
         }
       ],
-      "rank": 7
+      "rank": 9
     },
     {
       "keyword": "mortgage rates today",
@@ -582,91 +697,6 @@
           "link": "https://www.koreatimes.co.kr/path/A2026072010290000051",
           "press": "",
           "date": "2026-07-20"
-        }
-      ],
-      "rank": 8
-    },
-    {
-      "keyword": "서장훈의 이웃집 백만장 자",
-      "traffic": "5000+",
-      "blogTotal": 0,
-      "newsTotal": 0,
-      "recentToday": 0,
-      "recentWeek": 0,
-      "topBlogs": [],
-      "topNews": [],
-      "error": "HTTP 429 https://openapi.naver.com/v1/search/news.json?query=%EC%84%9C%EC%9E%A5%ED%9B%88%EC%9D%98+%EC%9D%B4%EC%9B%83%EC%A7%91+%EB%B0%B1%EB%A7%8C%EC%9E%A5+%EC%9E%90&display=5&sort=date",
-      "rank": 9
-    },
-    {
-      "keyword": "mathilde favier",
-      "traffic": "200+",
-      "blogTotal": 11,
-      "newsTotal": 5,
-      "recentToday": 0,
-      "recentWeek": 5,
-      "topBlogs": [
-        {
-          "title": "블랙핑크 지수의 ‘파리 엄마’ 별세, 마틸드 파비에는 누구?",
-          "link": "https://blog.naver.com/one0320/224382734869",
-          "blogger": "오늘도 꼼꼼한 생활정보",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "블랙핑크 지수 또 눈물…‘파리 엄마’ 마틸드 파비에 교통사고 사....",
-          "link": "https://blog.naver.com/a_shizuru/224382782882",
-          "blogger": "바닐라 에디트.",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "지수 “파리 엄마” 마틸드 파비에, 디올 데일리백 가방 패션",
-          "link": "https://blog.naver.com/dasoms2s2/224382795306",
-          "blogger": "다곰세상",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "블랙핑크 지수 교통사고 추모, 디올 마틸드 파비에와 남긴 특별한 ....",
-          "link": "https://blog.naver.com/thanatosv2/224382807919",
-          "blogger": "일상 연구소",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "블랙핑크 지수, 갑작스러운 비보에 애도 전한 사연",
-          "link": "https://blog.naver.com/happyna80/224382807587",
-          "blogger": "언제나 해피한 나라규 나~~^0^",
-          "date": "2026-08-19"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "'파리 엄마'였는데…블핑 지수, 교통사고 사망 디올 관계자 추모",
-          "link": "https://www.mydaily.co.kr/page/view/2026081823263702514",
-          "press": "",
-          "date": "2026-08-18"
-        },
-        {
-          "title": "블핑 지수, '파리 엄마' 디올 관계자 교통사고 사망에 비통..\"작별 힘들...",
-          "link": "https://www.sportschosun.com/entertainment/2026-08-18/202608180100107910006850",
-          "press": "",
-          "date": "2026-08-18"
-        },
-        {
-          "title": "블랙핑크 지수, 갑작스러운 비보에 애도 표했다…'파리 엄마'로 불린 디...",
-          "link": "https://www.xportsnews.com/article/2185126",
-          "press": "",
-          "date": "2026-08-18"
-        },
-        {
-          "title": "Pucci Returns to Capri",
-          "link": "https://www.nytimes.com/2022/05/02/style/pucci-camille-miceli-capri.html?partner=naver",
-          "press": "",
-          "date": "2022-05-02"
-        },
-        {
-          "title": "디올 셀러브리티 매니저가 사는 집",
-          "link": "https://www.vogue.co.kr/2021/10/04/%eb%94%94%ec%98%ac-%ec%85%80%eb%9f%ac%eb%b8%8c%eb%a6%ac%ed%8b%b0-%eb%a7%a4%eb%8b%88%ec%a0%80%ea%b0%80-%ec%82%ac%eb%8a%94-%ec%a7%91/?utm_source=naver&utm_medium=partnership",
-          "press": "",
-          "date": "2021-10-05"
         }
       ],
       "rank": 10
