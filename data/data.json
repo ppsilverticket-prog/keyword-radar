@@ -1,12 +1,85 @@
 {
-  "updatedAt": "2026-08-18T21:20:46.544Z",
+  "updatedAt": "2026-08-18T21:51:56.084Z",
   "source": "live",
   "keywords": [
     {
+      "keyword": "기안84",
+      "traffic": "500+",
+      "blogTotal": 64731,
+      "newsTotal": 104361,
+      "recentToday": 76,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "양주 장흥 참숯가마 / 생생정보·기안84 찜질방, 진짜 숯찜질부터 계....",
+          "link": "https://blog.naver.com/jjjj8802/224379639142",
+          "blogger": "우유와 크림이 마미",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "나혼자산다 기안84 제주도 본가집 알콩이 달콩이 반려견 유치원 반....",
+          "link": "https://blog.naver.com/eueuy/224293879177",
+          "blogger": "이랑이랑 맛집찾기",
+          "date": "2026-05-22"
+        },
+        {
+          "title": "1억 5천만 원 붙은 기안84 그림… 판매 글 삭제되자 더 난리 났습니다",
+          "link": "https://blog.naver.com/whwlsgml21/224336218241",
+          "blogger": "부자 엄마의 현실 돈 이야기",
+          "date": "2026-07-04"
+        },
+        {
+          "title": "기안84 프로필 고향 학력 재산 나이 사건사고 총정리",
+          "link": "https://blog.naver.com/talopian/224363232336",
+          "blogger": "울렁새댁의 셀럽뉴스",
+          "date": "2026-07-31"
+        },
+        {
+          "title": "한혜진도 포기한 표정이었습니다 기안84는 오늘도 평범하지 않았습....",
+          "link": "https://blog.naver.com/1000_tv/224345690339",
+          "blogger": "1000가지 TV",
+          "date": "2026-07-14"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "기안84, 풀빌라 데이트 즐겼다…\"비주얼 좋았는데 자괴감 들어\" ('기이안...",
+          "link": "https://www.tenasia.co.kr/article/2026081872984",
+          "press": "",
+          "date": "2026-08-18"
+        },
+        {
+          "title": "‘김충재♥’ 정은채, 웃는 모습이 이렇게 예뻤나..뉴욕 물들인 우아미",
+          "link": "https://www.heraldmuse.com/article/10844432?ref=naver",
+          "press": "",
+          "date": "2026-08-18"
+        },
+        {
+          "title": "기안84·장도연, 나란히 '공개 연애' 시작…상대는 사람이 아닌 'AI'",
+          "link": "https://www.mydaily.co.kr/page/view/2026081813121186369",
+          "press": "",
+          "date": "2026-08-18"
+        },
+        {
+          "title": "‘AI 연프’까지 가지가지…그렇지만 묘하게 궁금한 ‘기이안 연애’ (...",
+          "link": "https://sports.donga.com/ent/article/all/20260818/134499586/1",
+          "press": "",
+          "date": "2026-08-18"
+        },
+        {
+          "title": "AI와 사랑에 빠질 수 있을까? SBS '기이안 연애'가 시작한 연애 실험",
+          "link": "https://www.mediatoday.co.kr/news/articleView.html?idxno=336546",
+          "press": "",
+          "date": "2026-08-18"
+        }
+      ],
+      "rank": 1
+    },
+    {
       "keyword": "바둑",
-      "traffic": "100+",
-      "blogTotal": 156019,
-      "newsTotal": 255852,
+      "traffic": "200+",
+      "blogTotal": 156020,
+      "newsTotal": 255854,
       "recentToday": 74,
       "recentWeek": 100,
       "topBlogs": [
@@ -43,6 +116,18 @@
       ],
       "topNews": [
         {
+          "title": "MC몽, '김민종 도박' 주장 뒤집는 차가원 녹취 공개",
+          "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=87138",
+          "press": "",
+          "date": "2026-08-18"
+        },
+        {
+          "title": "'보이지 않는 안보 위협' 중국산 전기차, 국방부 정문 프리패스… 국정...",
+          "link": "https://monthly.chosun.com/news/articleView.html?idxno=71081",
+          "press": "",
+          "date": "2026-08-18"
+        },
+        {
           "title": "신진서 9단, 리웨이칭 9단에 흑 불계승 거두며 몽백합배 세계바둑 8강 진...",
           "link": "http://www.thesportstimes.co.kr/news/articleView.html?idxno=375004",
           "press": "",
@@ -59,162 +144,77 @@
           "link": "https://www.hani.co.kr/arti/society/media/1273495.html",
           "press": "",
           "date": "2026-08-18"
-        },
-        {
-          "title": "[신수정의 성공법칙] 평범한 일을 비범하게 하는 사람",
-          "link": "https://www.nongmin.com/article/20260814500536",
-          "press": "",
-          "date": "2026-08-18"
-        },
-        {
-          "title": "신진서, 몽백합배 첫 8강…한국 자존심 지켰다",
-          "link": "https://www.hankyung.com/article/202608188185i",
-          "press": "",
-          "date": "2026-08-18"
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "keyword": "반도체 메모리",
-      "traffic": "200+",
-      "blogTotal": 116446,
-      "newsTotal": 552981,
-      "recentToday": 64,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "HBM 뜻은? 메모리 반도체 종류와 DRAM·NAND 차이점 정리",
-          "link": "https://blog.naver.com/addlk1234/224310922651",
-          "blogger": "정보나눔소",
-          "date": "2026-06-16"
-        },
-        {
-          "title": "\"SK하이닉스 주가 100만 원도 못 지킨다\" 메모리 반도체 가격 지금이 ....",
-          "link": "https://blog.naver.com/antsal/224373374496",
-          "blogger": "한입 재테크",
-          "date": "2026-08-11"
-        },
-        {
-          "title": "반도체주 급락 원인 긴급진단ㅣ메모리 반도체 약세 SK하이닉스 주주....",
-          "link": "https://blog.naver.com/jdawgup/224370700190",
-          "blogger": "connector for fun !",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "DRAM ETF란 무엇일까? AI 시대 메모리 반도체에 투자하는 가장 쉬운 방....",
-          "link": "https://blog.naver.com/skmfood/224367714258",
-          "blogger": "이율지후아빠",
-          "date": "2026-08-04"
-        },
-        {
-          "title": "삼성전자 메모리 반도체 성과급 6억 세금 떼면 얼마일까? \"삼성전자 ....",
-          "link": "https://blog.naver.com/yoursunnysky/224328238379",
-          "blogger": "차니와 가족",
-          "date": "2026-06-26"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "채권금리 급등 기술주 '휘청'…나스닥 1.33% 하락",
-          "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=85412",
-          "press": "",
-          "date": "2026-08-18"
-        },
-        {
-          "title": "“하닉 ADR -9.2%…오늘 삼전·닉스 불안하네” 뉴욕증시, 중동 긴장·미...",
-          "link": "https://www.munhwa.com/article/11610260?ref=naver",
-          "press": "",
-          "date": "2026-08-18"
-        },
-        {
-          "title": "버넥트·데이터메티카, 해양 특화 AI 스마트 글라스 개발…선박 안전·항...",
-          "link": "http://www.thevaluenews.co.kr/news/view.php?idx=200865",
-          "press": "",
-          "date": "2026-08-18"
-        },
-        {
-          "title": "AI주 급락 뉴욕증시 3거래일 연속 하락…나스닥 1.3%↓",
-          "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=85410",
-          "press": "",
-          "date": "2026-08-18"
-        },
-        {
-          "title": "메모리 떠났던 인텔, ‘포스트 HBM’ 기술 노린다… 삼성·SK에 변수될까",
-          "link": "https://biz.chosun.com/it-science/ict/2026/08/19/LCIHLRY3ZZF4NG5XPOMALM3NVE/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-          "press": "",
-          "date": "2026-08-18"
         }
       ],
       "rank": 2
     },
     {
-      "keyword": "로드리",
-      "traffic": "100+",
-      "blogTotal": 5731,
-      "newsTotal": 16438,
-      "recentToday": 49,
+      "keyword": "파업",
+      "traffic": "1000+",
+      "blogTotal": 215445,
+      "newsTotal": 1114620,
+      "recentToday": 56,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "\"몸값 셀프 할인할게\" 로드리가 맨시티 버리고 레알 가려는 충격적 ....",
-          "link": "https://blog.naver.com/edwin9407/224368484724",
-          "blogger": "더블체커(DC)",
-          "date": "2026-08-05"
+          "title": "현대차 노조 내일부터 부분파업 재개, 생산 차질 있을까",
+          "link": "https://blog.naver.com/soggomdi/224375315671",
+          "blogger": "안 보면 손해☆정보 보물단지",
+          "date": "2026-08-11"
         },
         {
-          "title": "2026 여름이적시장 로드리 바르셀로나 이적설, 맨시티가 쉽게 보낼 ....",
-          "link": "https://blog.naver.com/workcw12/224378307981",
-          "blogger": "수비수 일상",
-          "date": "2026-08-14"
+          "title": "현대차 노조 파업 언제까지? 나흘간 최대 6시간 부분파업, 현대차의 ....",
+          "link": "https://blog.naver.com/poslee777/224375709826",
+          "blogger": "류짱 경제이야기",
+          "date": "2026-08-12"
         },
         {
-          "title": "발롱도르, 월드컵 우승 후 라리가 귀환, 4년간 1,900억 바르셀로나 로....",
-          "link": "https://blog.naver.com/foot-play/224382310887",
-          "blogger": "축구풋살 풋플레이",
-          "date": "2026-08-18"
+          "title": "현대차 노조 파업 급여는 어떻게 될까? 무노동 무임금·수당·회사 ....",
+          "link": "https://blog.naver.com/kunke886/224375629770",
+          "blogger": "SERENDIPITY",
+          "date": "2026-08-11"
         },
         {
-          "title": "로드리가 바르셀로나로 간다고? 레알에서 바르샤 이적 링크 뜬 이유",
-          "link": "https://blog.naver.com/jaeh_studio/224374224429",
-          "blogger": "20kg 다이어트 성공 러너_제익훈 러닝 다이어트",
-          "date": "2026-08-10"
+          "title": "현대차 파업 4만2천대 차질, 8월 12일부터 또 멈춘다…기아는 교섭 택....",
+          "link": "https://blog.naver.com/rlawodnjs2622/224376372778",
+          "blogger": "파계승 김토토",
+          "date": "2026-08-12"
         },
         {
-          "title": "월드컵 골든볼 로드리는 왜 바르셀로나 선수들에게 라커룸 분위기....",
-          "link": "https://blog.naver.com/yyjj2814/224371063194",
-          "blogger": "열정의 그라운드",
-          "date": "2026-08-07"
+          "title": "현대차 노조 파업, 대체 무슨 일인가요? | 2026년 임금협상 과연..",
+          "link": "https://blog.naver.com/lemonez/224375560105",
+          "blogger": "부의 씨앗",
+          "date": "2026-08-12"
         }
       ],
       "topNews": [
         {
-          "title": "\"영원히 맨시티 잊지 않겠다\" 13회 트로피 안겨주고 아름다운 이별 로드...",
-          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=692763",
+          "title": "포스코, 창사 첫 파업 가능성…중노위 조정 중지",
+          "link": "https://biz.sbs.co.kr/article_hub/20000329356?division=NAVER",
           "press": "",
           "date": "2026-08-18"
         },
         {
-          "title": "[오피셜] 발롱도르에 월드컵 골든볼까지…바르셀로나, 레알 제치고 '스...",
-          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96574",
+          "title": "민주노총 \"경총 제언, 노동법 대원칙 파괴\"",
+          "link": "https://www.labortoday.co.kr/news/articleView.html?idxno=236296",
           "press": "",
           "date": "2026-08-18"
         },
         {
-          "title": "[오피셜] 바르셀로나 역대급 중원 갖춘다! '발롱도르+골든볼' 위너 로드...",
-          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=692762",
+          "title": "[쟁의 대상 하위법령 규정 추진] ILO 기본협약 비준까지 했는데 \"국제사...",
+          "link": "https://www.labortoday.co.kr/news/articleView.html?idxno=236292",
           "press": "",
           "date": "2026-08-18"
         },
         {
-          "title": "[오피셜] ‘이적료 1250억!’ 올 여름 ‘최고의 이적’ 로드리, FC 바르셀...",
-          "link": "https://sports.khan.co.kr/article/202608190245003?pt=nv",
+          "title": "\"지방이전, 최대 패착\" 금융노조 청와대에 서한",
+          "link": "https://www.labortoday.co.kr/news/articleView.html?idxno=236294",
           "press": "",
           "date": "2026-08-18"
         },
         {
-          "title": "[오피셜]이강인-AT 마드리드 우승 도전 시작부터 비상...'세계 최고 MF' ...",
-          "link": "https://www.sportschosun.com/football/2026-08-19/202608190100108910006915",
+          "title": "현대차 노사, 41일 만에 교섭 재개에도 합의점 못 찾아",
+          "link": "https://www.labortoday.co.kr/news/articleView.html?idxno=236288",
           "press": "",
           "date": "2026-08-18"
         }
@@ -224,7 +224,7 @@
     {
       "keyword": "천궁",
       "traffic": "1000+",
-      "blogTotal": 45527,
+      "blogTotal": 45528,
       "newsTotal": 37169,
       "recentToday": 27,
       "recentWeek": 100,
@@ -295,145 +295,145 @@
       "rank": 4
     },
     {
-      "keyword": "사우델",
-      "traffic": "500+",
-      "blogTotal": 260,
-      "newsTotal": 106,
+      "keyword": "의대생",
+      "traffic": "100+",
+      "blogTotal": 36372,
+      "newsTotal": 149150,
       "recentToday": 19,
-      "recentWeek": 68,
+      "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "제18호 태풍 사우델 발생할까? 열대요란 92W 94W 발달 가능성 주목",
-          "link": "https://blog.naver.com/sumi3837/224381496876",
-          "blogger": "빛나의 행복한이야기♥",
-          "date": "2026-08-17"
+          "title": "[공부법] 문과 출신 의대생의 일반생물학 / 일반물리학 올 A+ 맞는 유....",
+          "link": "https://blog.naver.com/ha1690/224307910652",
+          "blogger": "하마의 생활공간",
+          "date": "2026-06-06"
         },
         {
-          "title": "18호 태풍 사우델 뜻 및 이름 유래와 예상 경로 실시간 총정리",
-          "link": "https://blog.naver.com/notsilly/224382009996",
-          "blogger": "코코넛 블로그",
-          "date": "2026-08-18"
+          "title": "의대생 11명 실수로 더 뽑은 순천향대학교…“2028학년도 정원서 감....",
+          "link": "https://blog.naver.com/dalsunlm1/224359632331",
+          "blogger": "배당만이 살길",
+          "date": "2026-07-27"
         },
         {
-          "title": "현재 태풍·앞으로 태풍 전망 총정리｜17호 낭카 소멸, 18호 사우델은....",
-          "link": "https://blog.naver.com/wnsgurqw/224380368110",
-          "blogger": "trading_bot",
-          "date": "2026-08-16"
+          "title": "빚 100억 서울대 의대생의 유튜브 성공기 반전 공식",
+          "link": "https://blog.naver.com/seaypark1/224347413495",
+          "blogger": "맛있는 일기장",
+          "date": "2026-07-15"
         },
         {
-          "title": "18호 태풍 사우델 다음은 19호 태풍 나라｜8월 말 태풍, 이제 ‘나라....",
-          "link": "https://blog.naver.com/seehuglove/224380913258",
-          "blogger": "하객대행 = 하객포유",
-          "date": "2026-08-17"
+          "title": "전남대 화순캠퍼스 기숙사 식중독 의심 … \"의대생 10여 명 집단 설....",
+          "link": "https://blog.naver.com/yoonshare1004/224300823261",
+          "blogger": "n잡러의 이슈&헬스 로그",
+          "date": "2026-05-30"
         },
         {
-          "title": "[ 참고] 이번주 후반 제 18호 태풍 \" 사우델 \" 발생 , 예상 경로 및 기....",
-          "link": "https://blog.naver.com/j13month/224380132529",
-          "blogger": "바람의내음: 여행 기상특보 & 역사 문화 여행 리포트",
-          "date": "2026-08-16"
+          "title": "정시 서울대 의대생이 말하는 수능 국어 공부법",
+          "link": "https://blog.naver.com/jklovelike/224353871777",
+          "blogger": "매일매일 나는 나의 길을 간다",
+          "date": "2026-07-22"
         }
       ],
       "topNews": [
         {
-          "title": "[태풍경로]17호 '낭카' 소멸 18호 '사우델' 촉각…한반도 날씨 변수 되나",
-          "link": "https://www.namdonews.com/news/articleView.html?idxno=920322",
+          "title": "\"월소득 86만원\" 학교예술강사 옥죄는 '월 59시간'",
+          "link": "https://www.labortoday.co.kr/news/articleView.html?idxno=236287",
           "press": "",
           "date": "2026-08-18"
         },
         {
-          "title": "2026년 18호 태풍 사우델, 19호 태풍 나라,20호 태풍 개나리 등 한반도 첫...",
-          "link": "http://www.economytalk.kr/news/articleView.html?idxno=423547",
+          "title": "故이태석 신부 제자, 남수단 첫 신경과 전문의에",
+          "link": "https://www.donga.com/news/Health/article/all/20260819/134499964/2",
           "press": "",
-          "date": "2026-08-17"
+          "date": "2026-08-18"
         },
         {
-          "title": "올해 태풍 예년보다 60% 더 많을 전망, 슈퍼 엘니뇨 영향에 내년은 더 늘...",
-          "link": "https://www.businesspost.co.kr/BP?command=article_view&num=444793",
+          "title": "강원대 지역의사제 대비 '정주형 의사' 키운다",
+          "link": "https://www.kado.net/news/articleView.html?idxno=2067342",
           "press": "",
-          "date": "2026-08-15"
+          "date": "2026-08-18"
         },
         {
-          "title": "2026년 한반도 첫 태풍은?...18호 태풍 사우델, 19호 태풍 나라,20호 태풍...",
-          "link": "http://www.economytalk.kr/news/articleView.html?idxno=423515",
+          "title": "'의령 봉사왕' 공도연 할머니 3년 만에 영면",
+          "link": "http://www.gnmaeil.com/news/articleView.html?idxno=592922",
           "press": "",
-          "date": "2026-08-14"
+          "date": "2026-08-18"
         },
         {
-          "title": "2026년 제17호 태풍 낭카 현재 위치 및 예상경로[8월 14일]",
-          "link": "http://www.economytalk.kr/news/articleView.html?idxno=423499",
+          "title": "\"내 시신 의대에 기증하라\"…'의령 봉사왕' 할머니, 3년 만에 영면",
+          "link": "https://www.mt.co.kr/society/2026/08/18/2026081820564993341",
           "press": "",
-          "date": "2026-08-13"
+          "date": "2026-08-18"
         }
       ],
       "rank": 5
     },
     {
-      "keyword": "광화문광장",
-      "traffic": "500+",
-      "blogTotal": 93490,
-      "newsTotal": 501431,
-      "recentToday": 18,
-      "recentWeek": 100,
+      "keyword": "김하성",
+      "traffic": "2000+",
+      "blogTotal": 21444,
+      "newsTotal": 151406,
+      "recentToday": 16,
+      "recentWeek": 85,
       "topBlogs": [
         {
-          "title": "광화문광장 바닥분수 서울 물놀이 광화문 놀거리 볼거리 추천",
-          "link": "https://blog.naver.com/gftravel/224373125331",
-          "blogger": "여행을 일상으로, 여행을 쓰다",
-          "date": "2026-08-09"
+          "title": "“방출은 피했지만 주전은 아니다” 김하성 복귀, 타율 0.068이 남긴 ....",
+          "link": "https://blog.naver.com/yfg7459/224369367950",
+          "blogger": "갓플베",
+          "date": "2026-08-05"
         },
         {
-          "title": "2026 서울썸머비치 광화문광장 워터파크 물놀이 수영장 무료",
-          "link": "https://blog.naver.com/sunsun1890/224354560807",
-          "blogger": "해피니스의 맛있는 갬성 여행",
-          "date": "2026-07-22"
+          "title": "연봉 300억 김하성이 '3억짜리' 벤틀리 컨티넨탈GT를 선택한 진짜 이....",
+          "link": "https://blog.naver.com/mookhuk1918/224373976960",
+          "blogger": "무크의 리뷰일상",
+          "date": "2026-08-10"
         },
         {
-          "title": "서울 물놀이 광화문광장 놀거리 서울썸머비치 샌드아지트 아이랑 ....",
-          "link": "https://blog.naver.com/zinizio/224349970965",
-          "blogger": "지니지오",
-          "date": "2026-07-18"
+          "title": "\"타율 0.068인데 누가써?\" 키움 김하성 복귀설 나오는 이유",
+          "link": "https://blog.naver.com/dbekfl14/224355126067",
+          "blogger": "야구유원지",
+          "date": "2026-07-23"
         },
         {
-          "title": "서울 아이와 가볼만한곳 가족여행 추천 광화문광장 물놀이장 여름 ....",
-          "link": "https://blog.naver.com/ojirap1004/224371329155",
-          "blogger": "여행인플 방방콕콕! 15년째 태국",
-          "date": "2026-08-07"
+          "title": "\"내가 필요 없나요\" 방출 위기 넘긴 김하성, 신인에 밀린 286억 사나....",
+          "link": "https://blog.naver.com/momdugout/224369793367",
+          "blogger": "momdugout님의 블로그",
+          "date": "2026-08-06"
         },
         {
-          "title": "서울 광화문 광장 서울 썸머비치 물놀이 & 수영장 샌드비치 예약하....",
-          "link": "https://blog.naver.com/bigway22/224364819655",
-          "blogger": "모리의 여행! Mori.",
-          "date": "2026-08-01"
+          "title": "애틀란타 김하성 방출은 피했다 시즌 종료 후 FA 대박은 물거품 되나",
+          "link": "https://blog.naver.com/yihy131/224368542258",
+          "blogger": "테동인의 TENNIS BLOG",
+          "date": "2026-08-05"
         }
       ],
       "topNews": [
         {
-          "title": "광장으로 소풍 나온 건축 작품들",
-          "link": "https://www.donga.com/news/Society/article/all/20260818/134499242/2",
+          "title": "김하성, 85타석 5안타 ‘역대 최악’",
+          "link": "https://www.bntnews.co.kr/article/view/bnt202608190010",
           "press": "",
           "date": "2026-08-18"
         },
         {
-          "title": "[내일 날씨] 남부지방 비·전국 곳곳 소나기…무더위는 계속",
-          "link": "https://www.ajunews.com/view/20260818194955235",
+          "title": "김혜성 확대엔트리 적용해도 다저스 복귀 못한다? 위기감 고조…보너스...",
+          "link": "https://www.mydaily.co.kr/page/view/2026081814294100753",
           "press": "",
           "date": "2026-08-18"
         },
         {
-          "title": "가습기살균제 참사, 故 서영철 대표 추모와 투쟁 : 메디컬투데이TV",
-          "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=608782",
+          "title": "\"이 선수 대신 김하성 선택한 사람 해고돼야\" 애틀랜타 속 쓰리네…쫓겨...",
+          "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553464403",
           "press": "",
           "date": "2026-08-18"
         },
         {
-          "title": "더인벤션랩, 40억 규모 광고미디어 펀드 결성… 첫 투자는 오즈엑스",
-          "link": "https://platum.kr/archives/292716",
+          "title": "“김하성 어떻게 그런 일이 일어날 수 있지?\" 美충격과 굴욕…최소 85타...",
+          "link": "https://www.mydaily.co.kr/page/view/2026081816031183910",
           "press": "",
           "date": "2026-08-18"
         },
         {
-          "title": "18일 쌀의 날 맞아…K-쌀 가공식품 한류 타고 수출 쑥",
-          "link": "https://www.nocutnews.co.kr/news/6564406?utm_source=naver&utm_medium=article&utm_campaign=20260818055720",
+          "title": "8월 18일 모닝뉴스 헤드라인",
+          "link": "https://www.radiokorea.com/news/article.php?uid=501804",
           "press": "",
           "date": "2026-08-18"
         }
@@ -442,7 +442,7 @@
     },
     {
       "keyword": "박성현",
-      "traffic": "200+",
+      "traffic": "500+",
       "blogTotal": 26745,
       "newsTotal": 144151,
       "recentToday": 15,
@@ -515,7 +515,7 @@
     },
     {
       "keyword": "나는 solo 24기",
-      "traffic": "200+",
+      "traffic": "500+",
       "blogTotal": 4461,
       "newsTotal": 3856,
       "recentToday": 11,
@@ -587,72 +587,72 @@
       "rank": 8
     },
     {
-      "keyword": "강유정",
-      "traffic": "200+",
-      "blogTotal": 11279,
-      "newsTotal": 72197,
-      "recentToday": 6,
-      "recentWeek": 21,
+      "keyword": "제주특별자치도교육청",
+      "traffic": "100+",
+      "blogTotal": 2932,
+      "newsTotal": 33702,
+      "recentToday": 0,
+      "recentWeek": 6,
       "topBlogs": [
         {
-          "title": "'평론가에서 이재명 정부 대변인으로' 강유정 생애 및 정치 경력 정....",
-          "link": "https://blog.naver.com/pso164/224328749505",
-          "blogger": "과학커뮤니케이터 박종현",
-          "date": "2026-07-03"
+          "title": "[강연,설명회] 2026 제주특별자치도교육청-EBS 입시전략 설명회 개최 -....",
+          "link": "https://blog.naver.com/hmcho99127/224368974980",
+          "blogger": "베테랑 회계사의 실무이야기",
+          "date": "2026-08-05"
         },
         {
-          "title": "화성 IBK기업은행 알토스 배구 선수 강유정(프로필,스타일,커리어 등....",
-          "link": "https://blog.naver.com/mistermy18/224346682967",
-          "blogger": "H2의 스포츠와 여행",
-          "date": "2026-07-14"
+          "title": "정신건강 관련기관 현황(정신병원, 복지센터 등)",
+          "link": "https://worldofinfo.tistory.com/2012",
+          "blogger": "세상의 모든 유익한 정보",
+          "date": "2023-05-23"
         },
         {
-          "title": "강유정 치어리더가 데뷔하자마자 프로 무대를 누비고 있다고? \"2007....",
-          "link": "https://blog.naver.com/soonsoo5145/224320704909",
-          "blogger": "연예앞통령",
-          "date": "2026-06-19"
+          "title": "국민은행 스위프트 코드",
+          "link": "https://albawang.tistory.com/2020",
+          "blogger": "세상의 모든 이야기",
+          "date": "2020-01-13"
         },
         {
-          "title": "여자배구 신인 강유정의 마구 서브에 배구팬들 깜짝 놀라",
-          "link": "https://blog.naver.com/caleb0901/224195869457",
-          "blogger": "이과장의 스포츠",
-          "date": "2026-02-25"
+          "title": "지역화폐 81탄 - 제주특별자치도(탐나는전)",
+          "link": "https://chanchan-father.tistory.com/783",
+          "blogger": "찬찬이 아빠 블로그",
+          "date": "2021-02-05"
         },
         {
-          "title": "\"코트 위의 비타민이라더니…\" 07년생 라이징 여신 강유정 치어리더!....",
-          "link": "https://blog.naver.com/happypeople10/224321554474",
-          "blogger": "Dr Don",
-          "date": "2026-06-20"
+          "title": "국민은행 지점코드, 스위프트 코드( swift code )",
+          "link": "https://albaeconomy.tistory.com/80",
+          "blogger": "재테크 IT 게임 전자제품 생활정보 알아보기",
+          "date": "2020-01-10"
         }
       ],
       "topNews": [
         {
-          "title": "[시대리포트]\"김민석, 떨어져 나간 중도 흡수해 이 대통령 지지율 높여...",
-          "link": "https://www.sidae.com/article/2026081809110468240",
+          "title": "수능 원서 24일부터… 서울 체류 제주 졸업생도 현지 접수",
+          "link": "http://www.fnnews.com/news/202608181744046123",
           "press": "",
           "date": "2026-08-18"
         },
         {
-          "title": "\"경쟁 벌인 상대도 책임 동반자\"…李대통령, 김민석·정청래·송영길과...",
-          "link": "https://www.news1.kr/politics/president/6262248",
+          "title": "\"직업계고에 대한 이해의 계기되길 기대\"",
+          "link": "http://www.samdailbo.com/news/articleView.html?idxno=269111",
           "press": "",
           "date": "2026-08-18"
         },
         {
-          "title": "李, 선관위 특검에 특수·형사 검사 출신 이태한 임명",
-          "link": "https://www.seoul.co.kr/news/society/law/2026/08/19/20260819006004?wlog_tag3=naver",
+          "title": "12년 만에 제주도에서 열리는 전국체육대회, 2만9044명 참가",
+          "link": "https://www.sportsseoul.com/news/read/1629243?ref=naver",
           "press": "",
           "date": "2026-08-18"
         },
         {
-          "title": "정성호, 李 만류에도 결국 사표… “국회서 형소법 문제점 수정”",
-          "link": "https://www.seoul.co.kr/news/politics/2026/08/19/20260819008004?wlog_tag3=naver",
+          "title": "제107회 전국체육대회, 2만 9044명 참가... 20일부터 온라인 생중계",
+          "link": "https://www.starnewskorea.com/sports/2026/08/18/2026081815464642187",
           "press": "",
           "date": "2026-08-18"
         },
         {
-          "title": "결국 사직서 낸 정성호 법무, 李정부 '순차 개각' 힘 실리나",
-          "link": "https://view.asiae.co.kr/article/2026081821383462960",
+          "title": "2027학년도 수능 원서접수 24일 시작…서귀포·서울서도 접수",
+          "link": "https://www.jejusori.net/news/articleView.html?idxno=505648",
           "press": "",
           "date": "2026-08-18"
         }
@@ -660,76 +660,15 @@
       "rank": 9
     },
     {
-      "keyword": "world cup schedule",
-      "traffic": "100+",
-      "blogTotal": 76,
-      "newsTotal": 1559,
+      "keyword": "리브 골프",
+      "traffic": "20000+",
+      "blogTotal": 0,
+      "newsTotal": 0,
       "recentToday": 0,
       "recentWeek": 0,
-      "topBlogs": [
-        {
-          "title": "0507_귀록집_歸鹿集_번역3",
-          "link": "https://hangeullo.tistory.com/2613",
-          "blogger": "우리글로의 풀이諺解",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "0476_겸재집_謙齋集_번역1",
-          "link": "https://hangeullo.tistory.com/2577",
-          "blogger": "우리글로의 풀이諺解",
-          "date": "2026-08-08"
-        },
-        {
-          "title": "대한민국 국가대표 명단 / 브라질 월드컵 대한민국 경기일정 / 대한....",
-          "link": "https://sposworld.tistory.com/1078",
-          "blogger": "스포츠 월드",
-          "date": "2014-05-16"
-        },
-        {
-          "title": "0426_후재집_厚齋集_번역1",
-          "link": "https://hangeullo.tistory.com/2524",
-          "blogger": "우리글로의 풀이諺解",
-          "date": "2026-08-06"
-        },
-        {
-          "title": "0439_삼연집_三淵集_번역2",
-          "link": "https://hangeullo.tistory.com/2537",
-          "blogger": "우리글로의 풀이諺解",
-          "date": "2026-08-07"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "Labor Market Shifts Into Reverse as Employers Balk at Hiring",
-          "link": "https://www.nytimes.com/2026/08/07/business/economy/heres-the-latest.html?partner=naver",
-          "press": "",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "방탄소년단(BTS) 진 화보, 대체불가 비주얼+한층 깊어진 매력 ‘시선집...",
-          "link": "http://www.breaknews.com/1227490",
-          "press": "",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "“방탄소년단 투어, 월드컵급 파급력”..외신도 주목한 ‘BTS노믹스’",
-          "link": "http://www.breaknews.com/1226542",
-          "press": "",
-          "date": "2026-08-04"
-        },
-        {
-          "title": "Bayern, Atlético and Man City set for blockbuster friendlies in Korea",
-          "link": "https://www.koreajoongangdaily.com/sports/bayern-atletico-and-man-city-set-for-blockbuster-friendlies-in-korea/12805334",
-          "press": "",
-          "date": "2026-08-03"
-        },
-        {
-          "title": "Seattle’s Police Chief Resigns Under Pressure After Festival Shooting",
-          "link": "https://www.nytimes.com/2026/07/30/us/seattle-police-chief-resigns.html?partner=naver",
-          "press": "",
-          "date": "2026-07-30"
-        }
-      ],
+      "topBlogs": [],
+      "topNews": [],
+      "error": "HTTP 429 https://openapi.naver.com/v1/search/news.json?query=%EB%A6%AC%EB%B8%8C+%EA%B3%A8%ED%94%84&display=5&sort=date",
       "rank": 10
     }
   ]
