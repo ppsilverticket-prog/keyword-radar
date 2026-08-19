@@ -1,11 +1,84 @@
 {
-  "updatedAt": "2026-08-19T17:23:45.161Z",
+  "updatedAt": "2026-08-19T17:49:49.723Z",
   "source": "live",
   "keywords": [
     {
+      "keyword": "정규직",
+      "traffic": "100+",
+      "blogTotal": 206200,
+      "newsTotal": 647179,
+      "recentToday": 97,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "정규직전환지원금, 계약직이 6개월 일한 뒤 정규직이 되면 근로자도....",
+          "link": "https://blog.naver.com/hwre7774/224370979155",
+          "blogger": "워누공간의 블로그",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "현대자동차 촉탁이 뭐길래 계속 검색할까, 정규직·협력사와 다른 ....",
+          "link": "https://blog.naver.com/rlawodnjs2622/224372395368",
+          "blogger": "파계승 김토토",
+          "date": "2026-08-08"
+        },
+        {
+          "title": "정규직 전환 탈락 후 퇴사, 계약만료 인정은 이것부터 봐요",
+          "link": "https://blog.naver.com/gandarek/224371418116",
+          "blogger": "블루파파의 꿀정보 블로그",
+          "date": "2026-08-09"
+        },
+        {
+          "title": "2027년 최저임금 월급 2,236,300원…알바·정규직 차이점 정리",
+          "link": "https://blog.naver.com/yscoo37/224361835727",
+          "blogger": "알짜배기창업",
+          "date": "2026-07-29"
+        },
+        {
+          "title": "2026년 제주 정규직 전환 지원금 신청방법, 월 최대 60만원 지원",
+          "link": "https://blog.naver.com/aasd777/224324599351",
+          "blogger": "Gyurim Pick Diary",
+          "date": "2026-06-23"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "“산 정상서 구름 찍으면 1200만원”…3500명 몰린 ‘꿈의 알바’",
+          "link": "https://www.joongang.co.kr/article/25454652",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "‘불꽃야구2’ 불꽃 파이터즈, 대학야구 최강자 부산과학기술대학교 치...",
+          "link": "https://sports.khan.co.kr/article/202608192329003?pt=nv",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "한 달 일하고 1200만원…구름만 찍는 '꿀알바' 정체",
+          "link": "https://www.hankyung.com/article/2026081907117",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "산에서 한 달 버티면 1200만원 준다…3500명 몰린 ‘꿈의 일자리’",
+          "link": "https://biz.heraldcorp.com/article/10845935?ref=naver",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "월 1200만원 주는데 “대학 갓 졸업한 23세가 뽑혔다”…3500명 몰린 中 ...",
+          "link": "https://www.sedaily.com/article/20081100?ref=naver",
+          "press": "",
+          "date": "2026-08-19"
+        }
+      ],
+      "rank": 1
+    },
+    {
       "keyword": "토토",
       "traffic": "100+",
-      "blogTotal": 196260,
+      "blogTotal": 196262,
       "newsTotal": 189227,
       "recentToday": 82,
       "recentWeek": 100,
@@ -23,16 +96,16 @@
           "date": "2026-08-05"
         },
         {
-          "title": "송도 고마워토토 분리수업 후기, 흙놀이와 쿠킹을 한 번에 즐긴 하....",
-          "link": "https://blog.naver.com/alliswellyura/224352821883",
-          "blogger": "놀이터개미",
-          "date": "2026-07-21"
-        },
-        {
           "title": "[제주 토토아틀리에] 애월 쿠킹클래스 토토아틀리에 가격, 예약 꿀....",
           "link": "https://blog.naver.com/bella2820/224375154566",
           "blogger": "뜌's 성장 Story",
           "date": "2026-08-11"
+        },
+        {
+          "title": "송도 고마워토토 분리수업 후기, 흙놀이와 쿠킹을 한 번에 즐긴 하....",
+          "link": "https://blog.naver.com/alliswellyura/224352821883",
+          "blogger": "놀이터개미",
+          "date": "2026-07-21"
         },
         {
           "title": "[키즈LP토토] 아기 음악 장난감_육아꿀템_내돈내산 후기",
@@ -73,7 +146,7 @@
           "date": "2026-08-19"
         }
       ],
-      "rank": 1
+      "rank": 2
     },
     {
       "keyword": "오싹한 연애",
@@ -146,7 +219,7 @@
           "date": "2026-08-19"
         }
       ],
-      "rank": 2
+      "rank": 3
     },
     {
       "keyword": "김윤덕",
@@ -219,88 +292,88 @@
           "date": "2026-08-19"
         }
       ],
-      "rank": 3
+      "rank": 4
     },
     {
-      "keyword": "트럼프",
-      "traffic": "200+",
-      "blogTotal": 984210,
-      "newsTotal": 2630365,
-      "recentToday": 28,
+      "keyword": "비트코인",
+      "traffic": "100+",
+      "blogTotal": 937546,
+      "newsTotal": 775673,
+      "recentToday": 32,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "돈 내면 트럼프 SNS 먼저 본다? 월가가 0.001초에 1억4천만원 쓰는 이유",
-          "link": "https://blog.naver.com/happymaking/224368531143",
-          "blogger": "생활지식창고",
-          "date": "2026-08-05"
+          "title": "비트코인 현물 ETF 국내 승인 지연 진실",
+          "link": "https://blog.naver.com/vitamin2230/224370078008",
+          "blogger": "REONE P&I",
+          "date": "2026-08-07"
         },
         {
-          "title": "트럼프 원정출산 금지, 미국에서 낳으면 시민권 못 받을까?",
-          "link": "https://blog.naver.com/alltimes1004/224371901859",
-          "blogger": "놀면서 배우는 아기",
-          "date": "2026-08-08"
+          "title": "바이낸스 가입방법 총정리, 2027년 비트코인 세금 전에 꼭 알아둘 것",
+          "link": "https://blog.naver.com/luckyguni7/224374041080",
+          "blogger": "서초동 참된부자",
+          "date": "2026-08-10"
         },
         {
-          "title": "트럼프 타코 뜻과 유래, TACO 트레이딩으로 주식 매수하면 무조건 수....",
-          "link": "https://blog.naver.com/healthtalkmentaltalk/224366395545",
-          "blogger": "FREEDOM",
-          "date": "2026-08-03"
-        },
-        {
-          "title": "손현보 목사, 트럼프 대통령 만남/ 백악관 방문한 이유",
-          "link": "https://blog.naver.com/sys0691/224376692112",
-          "blogger": "헤세드blog",
+          "title": "코인원 가입 이벤트 비트코인 무료? 총정리, 8월 신규 회원 비트코인....",
+          "link": "https://blog.naver.com/economicfree11/224376193903",
+          "blogger": "삶의 key가 되는 IT 이야기",
           "date": "2026-08-12"
         },
         {
-          "title": "트럼프 유가 정책과 중간선거 전 체크할 3가지 핵심 지표",
-          "link": "https://blog.naver.com/jenny6559/224369308576",
-          "blogger": "카플의 매주 차 타고 떠나는 여행",
-          "date": "2026-08-05"
+          "title": "비트코인 6만 달러 복귀에 숨겨진 찌라시, 150만 달러 폭등론과 캐시....",
+          "link": "https://blog.naver.com/zkfldb888/224378424629",
+          "blogger": "주식하는 남자 쿠니네",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "비트코인 연도별 시세 가격변화 차트",
+          "link": "https://blog.naver.com/akdnsxlds/224313677403",
+          "blogger": "돈되는 재테크 노트",
+          "date": "2026-06-15"
         }
       ],
       "topNews": [
         {
-          "title": "유럽증시, 국채 금리 급등세 진정에도 인플레 우려에 눌리며 대부분 소...",
-          "link": "https://www.newspim.com/news/view/20260820000015",
+          "title": "미 재무부, 장기 국채 매입 한도 두 배로 확대",
+          "link": "https://www.tokenpost.kr/news/breaking/393618",
           "press": "",
           "date": "2026-08-19"
         },
         {
-          "title": "북 김여정 \"북미 지도자 소통 알지 못해...한미훈련 축소 흥미 못느껴\"",
-          "link": "https://www.ytn.co.kr/_ln/0101_202608200214582846",
+          "title": "BTC 1216개, 코인베이스 기관 계정 유입 관측",
+          "link": "https://www.tokenpost.kr/news/breaking/393616",
           "press": "",
           "date": "2026-08-19"
         },
         {
-          "title": "트럼프 \"北김정은과 연내 만날 것…그는 57개 핵무기 보유\"(종합)",
-          "link": "https://www.newsis.com/view/NISX20260820_0003755059",
+          "title": "비트코인 1409개, 코인베이스서 외부 지갑 이동 관측",
+          "link": "https://www.tokenpost.kr/news/breaking/393614",
           "press": "",
           "date": "2026-08-19"
         },
         {
-          "title": "“모범 동맹 한국, 새 희생양 됐다”… 亞 동맹 균열 우려",
-          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000004569&cp=nv",
+          "title": "H 15.7% 하락, 파생상품 거래도 줄었다",
+          "link": "https://www.tokenpost.kr/news/cryptocurrency/393608",
           "press": "",
           "date": "2026-08-19"
         },
         {
-          "title": "미 통화감독청, 11월 스테이블코인 규정 마무리 속도",
-          "link": "https://www.tokenpost.kr/news/breaking/393607",
+          "title": "800억달러 MSTR 숏 논쟁, 채노스가 다시 꺼냈다",
+          "link": "https://www.tokenpost.kr/news/cryptocurrency/393606",
           "press": "",
           "date": "2026-08-19"
         }
       ],
-      "rank": 4
+      "rank": 5
     },
     {
       "keyword": "어우홍",
       "traffic": "100+",
-      "blogTotal": 123,
+      "blogTotal": 124,
       "newsTotal": 965,
       "recentToday": 26,
-      "recentWeek": 31,
+      "recentWeek": 32,
       "topBlogs": [
         {
           "title": "어우홍 감독 별세 향년 95세",
@@ -361,79 +434,6 @@
         {
           "title": "일본 꺾고 세계야구 우승…어우홍 감독 별세",
           "link": "https://www.joongang.co.kr/article/25454608",
-          "press": "",
-          "date": "2026-08-19"
-        }
-      ],
-      "rank": 5
-    },
-    {
-      "keyword": "디워2",
-      "traffic": "100+",
-      "blogTotal": 1149,
-      "newsTotal": 5622,
-      "recentToday": 23,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "심형래 감독 \"올해 안에 디워2 발표\"…이번엔 진짜일까",
-          "link": "https://blog.naver.com/yym1014/224378506675",
-          "blogger": "생활정보",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "심형래 디워2 총정리｜디워 넷플릭스 19년 만에 역주행·글로벌 6위·....",
-          "link": "https://blog.naver.com/severance1997/224383635575",
-          "blogger": "장원영의 실시간 핫이슈",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "심형래 감독 영화 디워2 제작 추진 넷플릭스 역주행 잭 블랙 출연 희....",
-          "link": "https://blog.naver.com/duswns202/224379283023",
-          "blogger": "색시주뇨비의 영화블로그",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "디워 넷플릭스 글로벌 순위, 19년 만의 역주행과 디워2",
-          "link": "https://blog.naver.com/namaksin14/224378167831",
-          "blogger": "매튜_하나님의 선물",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "심형래 디워 다시 부활했다? OTT 역주행·디워2 제작 소식+나무위키",
-          "link": "https://blog.naver.com/fromfarm7/224381149040",
-          "blogger": "방구석 이슈톡톡",
-          "date": "2026-08-17"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "심형래 \"'디 워2' 제작 완료…BTS 아리랑은 되고, 나는 욕먹어\"",
-          "link": "https://www.newsis.com/view/NISX20260819_0003754994",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "19년 만에 해외서 터진 ‘디워’…심형래 “‘디워2’ 제작 끝났다”",
-          "link": "https://www.joongang.co.kr/article/25454568",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "심형래, '디 워2'는 호불호 안 갈릴까?…\"제작 완료, 글로벌 제작사와 개...",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16167922",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "19년 만에 나오는 '디워2', 게임도 함께 출시된다",
-          "link": "https://www.gametoc.co.kr/news/articleView.html?idxno=110765",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "[Ent+] 심형래 \"디워2 제작 완료, 게임도 나온다\"",
-          "link": "https://www.inven.co.kr/webzine/news/?news=319688",
           "press": "",
           "date": "2026-08-19"
         }
@@ -515,7 +515,7 @@
     },
     {
       "keyword": "비트코인 시세",
-      "traffic": "200+",
+      "traffic": "100+",
       "blogTotal": 52937,
       "newsTotal": 164223,
       "recentToday": 10,
@@ -572,14 +572,14 @@
           "date": "2026-08-19"
         },
         {
-          "title": "비트코인 6만8000달러 돌파, 일중 4.91% 상승",
-          "link": "https://www.tokenpost.kr/news/breaking/393522",
+          "title": "비트코인 6만8000USDT 하회, 3.66% 내려",
+          "link": "https://www.tokenpost.kr/news/breaking/393523",
           "press": "",
           "date": "2026-08-19"
         },
         {
-          "title": "비트코인 6만8000USDT 하회, 3.66% 내려",
-          "link": "https://www.tokenpost.kr/news/breaking/393523",
+          "title": "비트코인 6만8000달러 돌파, 일중 4.91% 상승",
+          "link": "https://www.tokenpost.kr/news/breaking/393522",
           "press": "",
           "date": "2026-08-19"
         }
@@ -662,8 +662,8 @@
     {
       "keyword": "연애",
       "traffic": "2000+",
-      "blogTotal": 1646585,
-      "newsTotal": 1588420,
+      "blogTotal": 1646592,
+      "newsTotal": 1588421,
       "recentToday": 0,
       "recentWeek": 100,
       "topBlogs": [
@@ -700,6 +700,12 @@
       ],
       "topNews": [
         {
+          "title": "트렌드지(TRENDZ), ‘아듀솔로’ OST 참여···전곡 가창+작사까지 넓어...",
+          "link": "https://sports.khan.co.kr/article/202608200243003?pt=nv",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
           "title": "[오늘의 띠별 운세] 2026년 8월 20일 목요일",
           "link": "https://www.ppss.kr/news/articleView.html?idxno=306293",
           "press": "",
@@ -712,20 +718,14 @@
           "date": "2026-08-19"
         },
         {
-          "title": "[오늘의 운세] 띠별 운세, 뱀띠 8월 20일 하루 운세 대공개",
-          "link": "https://www.joongangenews.com/news/articleView.html?idxno=541179",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "[오늘의 운세] 띠별 운세, 양띠의 8월 20일 하루 흐름 공개",
-          "link": "https://www.joongangenews.com/news/articleView.html?idxno=541189",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
           "title": "[오늘의 운세] 띠별 운세, 호랑이띠의 8월 20일 운세가 전하는 메시지 공...",
           "link": "https://www.joongangenews.com/news/articleView.html?idxno=541188",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "[오늘의 운세] 띠별 운세, 원숭이띠의 8월 20일 운세 공개",
+          "link": "https://www.joongangenews.com/news/articleView.html?idxno=541181",
           "press": "",
           "date": "2026-08-19"
         }
