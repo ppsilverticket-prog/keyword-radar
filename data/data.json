@@ -1,12 +1,231 @@
 {
-  "updatedAt": "2026-08-19T04:33:44.714Z",
+  "updatedAt": "2026-08-19T05:26:41.526Z",
   "source": "live",
   "keywords": [
     {
+      "keyword": "공동 명의",
+      "traffic": "1000+",
+      "blogTotal": 80580,
+      "newsTotal": 206639,
+      "recentToday": 100,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "부부 공동명의 1주택 다주택자 취급 논란, 2028년 종부세 뭐가 달라지....",
+          "link": "https://blog.naver.com/alltimes1004/224372940909",
+          "blogger": "놀면서 배우는 아기",
+          "date": "2026-08-09"
+        },
+        {
+          "title": "부부 공동명의 1주택 다주택자 될까? 2028년 종부세 달라지는 기준",
+          "link": "https://blog.naver.com/fds6051/224374755760",
+          "blogger": "옥냥의 육아 한스푼",
+          "date": "2026-08-11"
+        },
+        {
+          "title": "부부 공동명의는 다주택? 보유세 더 내라고 합니다",
+          "link": "https://blog.naver.com/ishiseido77/224373222378",
+          "blogger": "블룸앤아이유의 미니멀한 재테크",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "부부공동명의, 집 한 채뿐인데 다주택자로 분류돼 주담대 규제를 받....",
+          "link": "https://blog.naver.com/hwre7774/224374814257",
+          "blogger": "워누공간의 블로그",
+          "date": "2026-08-11"
+        },
+        {
+          "title": "부부공동명의 장단점 총정리｜종부세·양도세·취득세·증여세, 2026....",
+          "link": "https://blog.naver.com/mileangel78/224373549697",
+          "blogger": "경제, 부동산, 생활 정보를 전하는 재테크사관학교",
+          "date": "2026-08-10"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "공공기관 2차 지방이전 폭풍전야… 금융권 단체행동 본격화",
+          "link": "https://www.newscj.com/news/articleView.html?idxno=3426290",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "세무법인 리치, 무료 보유세 계산 서비스 출시",
+          "link": "https://www.mk.co.kr/article/12131089",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "투자금인가 대여금인가… 정원주 회장의 넷온 6억 자금 거래, 피고소 악...",
+          "link": "https://www.upkoreanews.kr/news/articleView.html?idxno=99830",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "'케스파컵' 최대 반전 DN 수퍼스 '2026 LoL KeSPA CUP' 최종 우승",
+          "link": "https://gamefocus.co.kr/detail.php?number=178334",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "가덕도신공항, 중견건설사들 빠져나간다…대우건설 사업 차질 우려↑",
+          "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=270983",
+          "press": "",
+          "date": "2026-08-19"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "keyword": "하이닉스 주가",
+      "traffic": "2000+",
+      "blogTotal": 92494,
+      "newsTotal": 59574,
+      "recentToday": 100,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "“창피합니다 회장님” 솔리다임 상장에 털려나간 SK하이닉스 주가",
+          "link": "https://blog.naver.com/bomod/224378156537",
+          "blogger": "평범한 직장인의 투자일기",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "SK하이닉스 주가 최태원 회장 평단가 135만 원 오면 마지막 기회라는....",
+          "link": "https://blog.naver.com/antsal/224375809934",
+          "blogger": "한입 재테크",
+          "date": "2026-08-12"
+        },
+        {
+          "title": "SK하이닉스 260만원 간다는 모건스탠리 주가 전망은",
+          "link": "https://blog.naver.com/leeahn01/224375756293",
+          "blogger": "이안의 경제노트",
+          "date": "2026-08-12"
+        },
+        {
+          "title": "\"SK하이닉스 주식 괜히 샀다\" 주가 악영향 미칠 소식 나왔다는데",
+          "link": "https://blog.naver.com/ymi5025/224369562152",
+          "blogger": "대중과 멀어지는 삶",
+          "date": "2026-08-06"
+        },
+        {
+          "title": "이게 요즘 하이닉스 주가 상황 한장짜리 요약본이라는데",
+          "link": "https://blog.naver.com/meaning87/224375338675",
+          "blogger": "은퇴연구소",
+          "date": "2026-08-11"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "외인ㆍ기관 4.5조 매도에 코스피 6500선 아래로⋯삼전닉스 7~8%↓",
+          "link": "https://www.etoday.co.kr/news/view/2615943",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "美 금리 충격에 외국인 '팔자'…코스피 5%대↓",
+          "link": "http://www.yonhapnewstv.co.kr/news/MYH20260819123808CbI",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "[전혜은 시선] 코스피 '널뛰기'에 불안한 개미들…투자자금은 미국으로",
+          "link": "http://www.weeklytoday.com/news/articleView.html?idxno=790803",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "“어제 하닉 170층 구조대 왔는데” 하루만에 -8% 급락, 파랗게 질렸다...",
+          "link": "https://www.seoul.co.kr/news/economy/securities/2026/08/19/20260819500102?wlog_tag3=naver",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "“AI 메모리 없어서 못 판다더니 왜?”…美 ‘지금 사야 할 10대 주식’...",
+          "link": "https://www.mk.co.kr/article/12130977",
+          "press": "",
+          "date": "2026-08-19"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "keyword": "환율",
+      "traffic": "2000+",
+      "blogTotal": 816841,
+      "newsTotal": 2407902,
+      "recentToday": 100,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "엔화환율 100엔 800원대, 지금 환전해도 될까?",
+          "link": "https://blog.naver.com/hwre7774/224378280846",
+          "blogger": "워누공간의 블로그",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "일본 엔화 환율 전망과 환전 방법 총정리 — 지금 엔화 사도 될까",
+          "link": "https://blog.naver.com/kwakdongnam/224377514070",
+          "blogger": "만점경제",
+          "date": "2026-08-13"
+        },
+        {
+          "title": "엔화 환율 100엔 888원 일본환율 미국환율 왜 같이 내렸나",
+          "link": "https://blog.naver.com/babydreamer5/224375272146",
+          "blogger": "영어뉴스와 미드영어",
+          "date": "2026-08-11"
+        },
+        {
+          "title": "엔화 환율 800원대, 일본여행 환전 지금 해도 될까?",
+          "link": "https://blog.naver.com/fortune537/224377583822",
+          "blogger": "내가 보는 세상",
+          "date": "2026-08-13"
+        },
+        {
+          "title": "베트남 동 환율 계산법, 머니박스 환전 꿀팁 정리",
+          "link": "https://blog.naver.com/mrmold/224372852003",
+          "blogger": "디셈버의 gazette",
+          "date": "2026-08-09"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "\"돈 벌어 이자 내기도 벅차다?…순이익 반토막 난 CJ, 뼈아픈 'CJ제일제...",
+          "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=272004",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "환율 1300원대로 떨어져…미국 금리인상 가능성 하락 때문 [머니뭐니]",
+          "link": "https://biz.heraldcorp.com/article/10845438?ref=naver",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "오늘 금시세(금값) 다시 폭락... 전문가들이 한목소리로 지목한 금가격...",
+          "link": "https://www.wikitree.co.kr/articles/1153397",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "\"6개월 만에 1년치 벌었다\" 동원수산, 영업익 81억·순익 75억 달성",
+          "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=726438",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "46조 법인세 납부전 원화 강세 베팅…외인 주식 2조 팔아도 1,400원 붕괴",
+          "link": "https://biz.sbs.co.kr/article_hub/20000329485?division=NAVER",
+          "press": "",
+          "date": "2026-08-19"
+        }
+      ],
+      "rank": 3
+    },
+    {
       "keyword": "이혼",
-      "traffic": "500+",
-      "blogTotal": 1835348,
-      "newsTotal": 1161503,
+      "traffic": "1000+",
+      "blogTotal": 1835468,
+      "newsTotal": 1161520,
       "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
@@ -43,251 +262,32 @@
       ],
       "topNews": [
         {
-          "title": "‘홀로 육아’ 쿨 김성수, “딸은 내 인생 최대 업적” 클한 부성애 (같...",
-          "link": "https://isplus.com/article/view/isp202608190089",
+          "title": "최태원 회장이 잃은 것…9440억보다 무거운 'SK 총수의 서사'[신지훈의 ...",
+          "link": "https://www.newsway.co.kr/news/view?ud=2026081913543875058",
           "press": "",
           "date": "2026-08-19"
         },
         {
-          "title": "돌돌싱 이지현 “막내딸 요즘 아파” 미용실 취직 후 바빠서 미안한 엄...",
-          "link": "https://www.newsen.com/news_view.php?uid=202608191248346110",
+          "title": "김혜수, 파국 카운트다운 ‘멘붕’…드라마는 3주 연속 1위 ‘대폭주’",
+          "link": "https://www.sportsseoul.com/news/read/1629448?ref=naver",
           "press": "",
           "date": "2026-08-19"
         },
         {
-          "title": "검찰, ‘아내 목검 폭행’ 남편에 항소심도 징역 5년 구형",
-          "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8640428&ref=A",
+          "title": "임상아. '올리비아 핫세' 닮은 딸과 한국 근황...\"김치찜 먹고 지하철 엠...",
+          "link": "http://www.osen.co.kr/article/G1112859786",
           "press": "",
           "date": "2026-08-19"
         },
         {
-          "title": "'반려견 방치 의혹' 황정음, 이탈리아에서 밝은 미소 \"노랑노랑\" [MHN:피...",
-          "link": "https://mhnse.com/news/articleView.html?idxno=1493721",
+          "title": "\"내가 밥해주는 식모인가\"... 맞벌이 저녁밥 갈등에 결국 이혼 고민하는...",
+          "link": "https://www.insight.co.kr/news/568956",
           "press": "",
           "date": "2026-08-19"
         },
         {
-          "title": "이혼 후 양육비 갈등…정혜원 폭로 배명호 반박 (양측 입장 전문)",
-          "link": "https://www.mk.co.kr/article/12131026",
-          "press": "",
-          "date": "2026-08-19"
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "keyword": "달러 환율",
-      "traffic": "200+",
-      "blogTotal": 266798,
-      "newsTotal": 1523462,
-      "recentToday": 100,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "외환보유액이란? 환율이 급등하면 한국은행이 달러를 시장에 풀 수 ....",
-          "link": "https://blog.naver.com/hwre7774/224372018196",
-          "blogger": "워누공간의 블로그",
-          "date": "2026-08-08"
-        },
-        {
-          "title": "원달러 환율 실시간조회 및 달러 환율 계산기 사용 방법 3가지",
-          "link": "https://blog.naver.com/gogoaza08/224372959610",
-          "blogger": "똑똑정보",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "\"원달러환율 다시 반등할까?\" 1,420원 부근, 2026년 8월 환율 상승 이유....",
-          "link": "https://blog.naver.com/h3h2003/224378187442",
-          "blogger": "존브레드 우상향 블로그",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "LAFC의 손흥민 연봉을 원달러환율로 계산하니 158억...",
-          "link": "https://blog.naver.com/caleb0901/224375447243",
-          "blogger": "이과장의 스포츠",
-          "date": "2026-08-11"
-        },
-        {
-          "title": "엔화 환율 내년에도 약세일까? 달러당 170엔 가능성과 환전 전략",
-          "link": "https://blog.naver.com/nuri_mc/224350865637",
-          "blogger": "온라인 마케팅 대행사",
-          "date": "2026-07-19"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "달러·원 환율, 10개월만 1300원대 진입...美 국채 금리 급등했는데 왜",
-          "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=143236",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "원·달러 환율 장중 1300원대 하락…10개월 반만에 처음",
-          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000004309&cp=nv",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "미국 금리 동결 우세·수출 네고에…환율 10개월 반 만에 1,300원대",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008711698&plink=ORI&cooper=NAVER",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "고공행진하던 환율, 10개월 반 만에 1300원대로",
-          "link": "https://www.sisajournal.com/news/articleView.html?idxno=384015",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "원-엔화 환율, 7원 이상 하락하면서 877원 대까지 밀려…달러-엔화 환율...",
-          "link": "https://kidd.co.kr/news/247064",
-          "press": "",
-          "date": "2026-08-19"
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "keyword": "투싼 신형",
-      "traffic": "5000+",
-      "blogTotal": 15262,
-      "newsTotal": 28931,
-      "recentToday": 100,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "\"사전계약 각인데?\" 코드명 NX5, 신형 투싼 풀체인지 디자인 예상도",
-          "link": "https://blog.naver.com/tkh456/224373217245",
-          "blogger": "범범 블로그",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "스포티지 계약 잠깐! 신형 투싼 풀체인지 NX5 이르면 9월 출시? 가격·....",
-          "link": "https://blog.naver.com/ascc1/224378566571",
-          "blogger": "혁이들 아빠",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "\"스포티지에 1만대 밀렸다\" 투싼 풀체인지 반격 준비",
-          "link": "https://blog.naver.com/gotpdud09/224370688105",
-          "blogger": "덕스의 IT덕질",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "\"브레이크에 불나고 타이어까지 터졌다\" 신형 투싼 풀체인지 테스트....",
-          "link": "https://blog.naver.com/ap_ferry911/224368615852",
-          "blogger": "호호 GARAGE",
-          "date": "2026-08-05"
-        },
-        {
-          "title": "“또 얼마를 올리려고” 신형 투싼 풀체인지 예상도 보자마자 나온 ....",
-          "link": "https://blog.naver.com/whitepolarbear/224373863520",
-          "blogger": "하얀 북극곰의 일상",
-          "date": "2026-08-10"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "6년 만에 확 바뀐 투싼…현대차, 5세대 디자인 첫 공개",
-          "link": "https://www.sportschosun.com/life/2026-08-19/202608190100111560007081",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "현대차, ​5세대 '디 올 뉴 투싼' 디자인 공개…6년만의 완전변경",
-          "link": "http://www.newscape.co.kr/news/articleView.html?idxno=124006",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "60mm 키운 투싼, 달라진 건 '체급'만이 아니다… 현대차가 6년 만에 다시...",
-          "link": "https://www.s-journal.co.kr/news/articleView.html?idxno=43107",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "현대차 올해 파업에 6만대, 2.6조원 생산 차질 추산…오늘부터 또 추가...",
-          "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=265820",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "현대차 '디 올 뉴 투싼', 형님 싼타페보다 어깨 넓다",
-          "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=206747",
-          "press": "",
-          "date": "2026-08-19"
-        }
-      ],
-      "rank": 3
-    },
-    {
-      "keyword": "아랍에미리트",
-      "traffic": "500+",
-      "blogTotal": 49984,
-      "newsTotal": 536924,
-      "recentToday": 22,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "한-아랍에미리트(UAE) 포괄적경제동반자협정(CEPA/FTA) UAE FTA정리",
-          "link": "https://blog.naver.com/adp_jht/224365515059",
-          "blogger": "IT & Stock information",
-          "date": "2026-08-03"
-        },
-        {
-          "title": "인천공항1터미널 스위스 여행으로  심야 출국장 이용후기. 아랍 에....",
-          "link": "https://blog.naver.com/s782474/224335336787",
-          "blogger": "달달한 초록의 일상",
-          "date": "2026-07-03"
-        },
-        {
-          "title": "인천-두바이-프라하 아랍에미리트 A380 후기 기내식/시설/충전/와이....",
-          "link": "https://blog.naver.com/guguo3i6/224321262669",
-          "blogger": "어쩌다 들린 장소",
-          "date": "2026-06-19"
-        },
-        {
-          "title": "[미국 이란 전쟁] 아랍 에미리트가 대한민국 선호하는 이유",
-          "link": "https://blog.naver.com/dongyun120601/224372749434",
-          "blogger": "동그라미 역사님의 블로그",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "아랍에미리트 여행 1편, 사막 속 밥 알 샴스 리조트",
-          "link": "https://blog.naver.com/davincihos/224318945365",
-          "blogger": "대전 회복기재활의료기관 다빈치병원",
-          "date": "2026-06-17"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "ACC, 서·남아시아 유물 수집 나선다…9월 4일까지 공개 구입",
-          "link": "https://www.ikbc.co.kr/article/view/kbc202608190032",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "사우디, UAE에 대한 송금 감독 강화…양국 긴장 고조",
-          "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260819010006109",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "한국타이어, 카타르 프로축구 최상위 리그 공식 타이어 파트너 참여",
-          "link": "https://www.businessplus.kr/news/articleView.html?idxno=115634",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "불타는 중동…원유 운송방식 달라졌다",
-          "link": "https://www.naeil.com/news/read/599255?ref=naver",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "트럼프 \"이란과 대화 없다\"… 걸프·시리아 곳곳 긴장",
-          "link": "https://www.newscj.com/news/articleView.html?idxno=3426288",
+          "title": "아이들은 자정까지 학원 뺑뺑이…아내 휴대폰엔 \"자기야, 오늘도 그 시...",
+          "link": "https://www.mt.co.kr/society/2026/08/19/2026081914020644955",
           "press": "",
           "date": "2026-08-19"
         }
@@ -295,11 +295,157 @@
       "rank": 4
     },
     {
+      "keyword": "레이디 제인",
+      "traffic": "200+",
+      "blogTotal": 7825,
+      "newsTotal": 43124,
+      "recentToday": 64,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "레이디제인 임현태 나이 차이 몇살? 금수저 집안 화제",
+          "link": "https://blog.naver.com/everythingforyou/224381958778",
+          "blogger": "투데이 스타 이슈♡",
+          "date": "2026-08-18"
+        },
+        {
+          "title": "레이디제인 임현태 부부 영유아 검사 결과에 충격! 동상이몽2",
+          "link": "https://blog.naver.com/honestpsc17/224383123250",
+          "blogger": "꼴뚝",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "시어머니 눈에도 예뻤다... 레이디제인의 300만원대 디올 목걸이",
+          "link": "https://blog.naver.com/tjthdus94/224382398203",
+          "blogger": "백수잡채 패션블로그",
+          "date": "2026-08-18"
+        },
+        {
+          "title": "레이디제인 출산 후 20kg 감량 비결｜먹는 양 줄이고 필라테스까지",
+          "link": "https://blog.naver.com/gustj228/224379662570",
+          "blogger": "잠깐 보고 갈래?",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "쌍둥이 출산 1년 레이디제인, 몰라보게 달라진 근황…과거 고백 떠....",
+          "link": "https://blog.naver.com/aqaqaq222/224344694897",
+          "blogger": "다나님의 블로그",
+          "date": "2026-07-13"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "레이디제인·임현태, 어쩌나…쌍둥이 딸 \"하위 2%\" '발달 지연' 판정→전...",
+          "link": "https://www.tvreport.co.kr/entertainment/article/1069759/",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "레이디제인♥임현태, 판검사 기대했는데…쌍둥이 딸 ‘운동 발달 하위 ...",
+          "link": "https://sports.khan.co.kr/article/202608191305003?pt=nv",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "'동상이몽2' 이현이, \"남편 학교 갔다\" 발언에 송진우 감방 오해",
+          "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=546362",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "레이디제인, 13개월 딸 '발달지연 경계' 진단",
+          "link": "https://www.newsis.com/view/NISX20260819_0003753925",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "레이디제인♥임현태, \"쌍둥이 하버드 보낼 것\" 큰소리쳤지만",
+          "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=87187",
+          "press": "",
+          "date": "2026-08-19"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "keyword": "무덤",
+      "traffic": "500+",
+      "blogTotal": 240508,
+      "newsTotal": 245129,
+      "recentToday": 49,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "원신 궁전과 무덤 하얀 왕관의 꿈, 궁전의 야수, 하얀 자작나무 무덤....",
+          "link": "https://blog.naver.com/12512512/224378905275",
+          "blogger": "피스타임 블로그",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "무덤이 열린 뒤부터 시작된 이야기, 투탕카멘의 저주",
+          "link": "https://blog.naver.com/curiousarchive/224365152047",
+          "blogger": "기이한 기록보관소",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "[남프랑스여행] 생폴드방스 (2) 마르크샤갈무덤 샤갈이사랑한도시",
+          "link": "https://blog.naver.com/cleanrred/224373388784",
+          "blogger": "케세라님의 블로그",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "죽임꿈, 무덤꿈, 관꿈, 시신꿈, 살인꿈, 사형수꿈",
+          "link": "https://blog.naver.com/girimsaju/224316505289",
+          "blogger": "기림(基臨)철학원 / 작명원",
+          "date": "2026-06-15"
+        },
+        {
+          "title": "코모도왕도마뱀이 사람 무덤을 파헤치는 이유",
+          "link": "https://blog.naver.com/wilddog33/224349439618",
+          "blogger": "☀️해피❤️러비☀️Feliznury",
+          "date": "2026-07-17"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "트럼프, 캐나다 50% 관세 돌연 중단…송유관 사업 부활 가능성↑",
+          "link": "https://www.nocutnews.co.kr/news/6564833?utm_source=naver&utm_medium=article&utm_campaign=20260819022431",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "미·캐나다 관세 협상 막판 진전... 트럼프, 50% 관세 사흘 유예",
+          "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003260243&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "“50% 관세 때리겠다더니 돌연?”…트럼프, 캐나다에 ‘사흘 유예’ 왜",
+          "link": "https://www.mk.co.kr/article/12131069",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "모탈 셸 2·싱킹 시티 2·루미나리에 엔비디아 DLSS 적용",
+          "link": "https://www.gamemeca.com/mv.php?inflow=naver_s&gid=1779269",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "트럼프 \"캐나다 50% 관세 일시 중단\"⋯양측 무역합의 근접",
+          "link": "https://www.etoday.co.kr/news/view/2615954",
+          "press": "",
+          "date": "2026-08-19"
+        }
+      ],
+      "rank": 6
+    },
+    {
       "keyword": "1달러",
-      "traffic": "100+",
-      "blogTotal": 51946,
-      "newsTotal": 152502,
-      "recentToday": 19,
+      "traffic": "200+",
+      "blogTotal": 51949,
+      "newsTotal": 152507,
+      "recentToday": 23,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -335,116 +481,116 @@
       ],
       "topNews": [
         {
-          "title": "원-엔화 환율, 7원 이상 하락하면서 877원 대까지 밀려…달러-엔화 환율...",
-          "link": "https://kidd.co.kr/news/247064",
+          "title": "업비트 거래소에서 금일 가장 주목 받는 가상화폐는…",
+          "link": "https://www.khgames.co.kr/news/articleView.html?idxno=307471",
           "press": "",
           "date": "2026-08-19"
         },
         {
-          "title": "XRP 1달러선 흔들리는데…분석가 \"비트코인·이더리움 앞설 것\"",
-          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=693981",
+          "title": "비트코인닷컴 지갑, USDU 보유·송금 지원",
+          "link": "https://www.tokenpost.kr/news/cryptocurrency/393104",
           "press": "",
           "date": "2026-08-19"
         },
         {
-          "title": "XRP 1달러 부근서 매집 정황…와이코프 축적 국면 신호",
-          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=693975",
+          "title": "XRP 가격 약세에도 온체인 활발…활성 주소 24% 급증",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694000",
           "press": "",
           "date": "2026-08-19"
         },
         {
-          "title": "[올댓차이나] 위안화 기준치 1달러=6.7854위안…0.075% 절상",
-          "link": "https://www.newsis.com/view/NISX20260819_0003754136",
+          "title": "\"XRP 다 팔았나\" 질문에 답한 리플 전 CTO…현재 보유량은?",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=693994",
           "press": "",
           "date": "2026-08-19"
         },
         {
-          "title": "고래들 대형 거래 280% 폭증...XRP(리플), 1달러 탈환 앞 초긴장",
-          "link": "http://coinreaders.com/253459",
+          "title": "비트코인·이더리움·XRP, 반등 문턱 섰다…돌파해야 할 가격은",
+          "link": "http://coinreaders.com/253476",
           "press": "",
           "date": "2026-08-19"
         }
       ],
-      "rank": 5
+      "rank": 7
     },
     {
-      "keyword": "피겨스케이팅",
+      "keyword": "오타니 쇼헤이",
       "traffic": "500+",
-      "blogTotal": 43243,
-      "newsTotal": 218125,
-      "recentToday": 17,
+      "blogTotal": 20720,
+      "newsTotal": 94393,
+      "recentToday": 13,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "이해인 세계선수권 13위 충격, 日언론도 조명한 김연아 비교 논란 (....",
-          "link": "https://blog.naver.com/greencamperpeterpan/224236178813",
-          "blogger": "즐기는캠퍼:매너있게 즐기자!",
-          "date": "2026-04-01"
+          "title": "오타니 쇼헤이 300홈런 달성! MLB 아시아 최초 대기록과 경기 스펙 총....",
+          "link": "https://blog.naver.com/gytjd4624/224341187640",
+          "blogger": "짱핏터의 맛동산 ✅️",
+          "date": "2026-07-09"
         },
         {
-          "title": "\"피겨스케이팅 선수 출신 최초 치어리더 누구\".. 서예은 치어리더 나....",
-          "link": "https://blog.naver.com/pan6606/224338440848",
-          "blogger": "아윌리치 Y",
-          "date": "2026-07-06"
+          "title": "시게노고로 VS 오타니쇼헤이 일생 비교",
+          "link": "https://blog.naver.com/rayharp/224294047097",
+          "blogger": "쭌이덕 블로그",
+          "date": "2026-05-23"
         },
         {
-          "title": "금지 기술이었던 피겨 백플립, 왜 지금 허용됐을까?",
-          "link": "https://blog.naver.com/molinedj/224178700112",
-          "blogger": "대전가발 브로스 : 프라이빗한 남여맞춤가발샵",
-          "date": "2026-02-10"
+          "title": "스팀 야구게임 프로야구스피리츠 2026 리뷰, 오타니 쇼헤이 플레이 ....",
+          "link": "https://blog.naver.com/12512512/224359806779",
+          "blogger": "피스타임 블로그",
+          "date": "2026-07-28"
         },
         {
-          "title": "차준환 피겨 스케이팅 은퇴? tvN 시트콤 궁전랜드로 17년 만에 배우 ....",
-          "link": "https://blog.naver.com/ldmswl3655/224308937599",
-          "blogger": "혜윰 정리",
-          "date": "2026-06-08"
+          "title": "[2026 메이저리그] 오타니 쇼헤이 타율, 홈런, 투수 성적 완벽 분석! ....",
+          "link": "https://blog.naver.com/zooeat/224253426796",
+          "blogger": "소지팜의 장애뛰어넘기",
+          "date": "2026-04-15"
         },
         {
-          "title": "2026년 밀라노 동계올림픽 주목해야할 종목 - 피겨스케이팅 국가대표....",
-          "link": "https://blog.naver.com/seaoflover/224109507268",
-          "blogger": "YUN★의 뷰티골프",
-          "date": "2025-12-14"
+          "title": "오타니 쇼헤이, 깜짝 둘째 출산 소식",
+          "link": "https://blog.naver.com/mitsharu/224322087830",
+          "blogger": "재팬네모로그",
+          "date": "2026-06-20"
         }
       ],
       "topNews": [
         {
-          "title": "이강인은 박보검, 이정후는 지디…★들의 '스포테이너' 한솥밥 행보 왜...",
-          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1002490",
+          "title": "‘또 쳤어? 그럼 나도’ PCA-오타니, 나란히 홈런포 ‘NL MVP 경쟁 활활’",
+          "link": "https://sports.donga.com/sports/article/all/20260819/134503078/1",
           "press": "",
-          "date": "2026-08-18"
+          "date": "2026-08-19"
         },
         {
-          "title": "日피겨 여신 다리에 선명한 멍자국... 열도가 깜짝! \"맹훈련, 너무 아프...",
-          "link": "https://www.starnewskorea.com/sports/2026/08/19/2026081822162772667",
+          "title": "25년 만의 대기록 쓴 '괴물' 오타니, 6년 연속 30홈런에 불펜 피칭 35구까...",
+          "link": "https://www.nocutnews.co.kr/news/6564793?utm_source=naver&utm_medium=article&utm_campaign=20260819014330",
           "press": "",
-          "date": "2026-08-18"
+          "date": "2026-08-19"
         },
         {
-          "title": "희망을 품고, 끝까지 헌신하며",
-          "link": "https://www.harpersbazaar.co.kr/article/1905852",
+          "title": "'오타니 또 터졌다' 6년 연속 30홈런 대기록+라우어 승리+스캇 세이브…...",
+          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1002602",
           "press": "",
-          "date": "2026-08-18"
+          "date": "2026-08-19"
         },
         {
-          "title": "김해 피겨 '팀 쥬얼스', 아시안 무대 '금빛 연기'",
-          "link": "http://www.gnmaeil.com/news/articleView.html?idxno=592997",
+          "title": "LA 다저스 오타니, 메이저리그 6년 연속 30홈런 달성",
+          "link": "https://www.chosun.com/sports/world-baseball/2026/08/19/NGCP7KTJ3VEHVD2554R6GLHSRY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
           "press": "",
-          "date": "2026-08-18"
+          "date": "2026-08-19"
         },
         {
-          "title": "차준환, ‘나 혼자만 레벨업 on ICE’ 성료…스케이팅→연기 활약",
-          "link": "https://sports.donga.com/ent/article/all/20260818/134499094/1",
+          "title": "오타니, 6년 연속 30홈런 달성…다저스, 콜로라도에 7-6 승리",
+          "link": "http://www.stoo.com/article.php?aid=108396493789",
           "press": "",
-          "date": "2026-08-18"
+          "date": "2026-08-19"
         }
       ],
-      "rank": 6
+      "rank": 8
     },
     {
       "keyword": "hj중공업",
-      "traffic": "100+",
+      "traffic": "200+",
       "blogTotal": 7356,
-      "newsTotal": 27206,
+      "newsTotal": 27208,
       "recentToday": 5,
       "recentWeek": 52,
       "topBlogs": [
@@ -481,6 +627,18 @@
       ],
       "topNews": [
         {
+          "title": "공사비 5조 넘게 올린 건설사들…치솟는 원가에 수익성 '비상'",
+          "link": "http://www.inews24.com/view/1996228",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "가덕도신공항, 중견건설사들 빠져나간다…대우건설 사업 차질 우려↑",
+          "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=270983",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
           "title": "BC카드·한경 제48회 KLPGA 챔피언십 공식 포토콜",
           "link": "https://www.polinews.co.kr/news/articleView.html?idxno=740614",
           "press": "",
@@ -497,42 +655,18 @@
           "link": "https://news.mtn.co.kr/news-detail/2026081909085617200",
           "press": "",
           "date": "2026-08-19"
-        },
-        {
-          "title": "8월 18일 주식시장 주요공시",
-          "link": "https://www.catchnews.kr/news/articleView.html?idxno=127443",
-          "press": "",
-          "date": "2026-08-18"
-        },
-        {
-          "title": "[코스피·코스닥,SK바이오팜 HJ중공업 코오롱글로벌  아이에이 POSCO홀딩...",
-          "link": "https://www.public25.com/news/articleView.html?idxno=52922",
-          "press": "",
-          "date": "2026-08-18"
         }
       ],
-      "rank": 7
+      "rank": 9
     },
     {
-      "keyword": "그랜드 테프트 오토 vi",
-      "traffic": "500+",
-      "blogTotal": 85,
-      "newsTotal": 135,
+      "keyword": "그랜드 테 프트 오토 vi",
+      "traffic": "2000+",
+      "blogTotal": 0,
+      "newsTotal": 0,
       "recentToday": 0,
-      "recentWeek": 1,
+      "recentWeek": 0,
       "topBlogs": [
-        {
-          "title": "넷플릭스와 유튜브에서 동시 출격하는 Grand Theft Auto VI(GTA6) 더 길게 ....",
-          "link": "https://blog.naver.com/kbk518/224370783459",
-          "blogger": "오덕포텐의 매니아블로그!",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "\"11월 19일 출시 연기 없다!\" GTA 6 출시일 공식 재확인 및 넷플릭스 영....",
-          "link": "https://blog.naver.com/khg4057/224373222222",
-          "blogger": "IT 컴초모 블로그",
-          "date": "2026-08-09"
-        },
         {
           "title": "Grand Theft Auto VI: 더 길게 살펴보기",
           "link": "https://blog.naver.com/armalite/224370845074",
@@ -540,196 +674,31 @@
           "date": "2026-08-07"
         },
         {
-          "title": "그랜드 테프트 오토 VI 총정리! 출시 정보와 기대 포인트 한눈에",
-          "link": "https://blog.naver.com/du4321/224335533535",
-          "blogger": "디지털 노마드를 꿈꾸며",
-          "date": "2026-07-04"
+          "title": "외래어 표기 용례 :: Power to surprise.",
+          "link": "https://ppua.tistory.com/32",
+          "blogger": "Power to surprise. :: Power to surprise.",
+          "date": "2013-12-12"
         },
         {
-          "title": "GTA6 사전예약 시작, 출시일 정보 가격 얼마 PC 버전은?",
-          "link": "https://blog.naver.com/hyjueng/224322357516",
-          "blogger": "꿈속에서도 게임을!!",
-          "date": "2026-06-21"
+          "title": "이 모드 목록 덕분에 PC에서 GTA San Andreas 리마스터가 가능합니다.",
+          "link": "https://pixelpicture.tistory.com/1706",
+          "blogger": "https://pixelpicture.tistory.com/",
+          "date": "2021-03-22"
+        },
+        {
+          "title": "Grand Theft Auto VI, 2025년 가을 출시 확정 : 지연 소문 종식?!",
+          "link": "https://blog.naver.com/zettawave/223653162778",
+          "blogger": "zettawave님의 블로그",
+          "date": "2024-11-09"
+        },
+        {
+          "title": "Grand Theft Auto VI: Gameplay First Look | PS5 (Concept)",
+          "link": "https://blog.naver.com/mesinzer/224328175957",
+          "blogger": "보물찾기~처럼, 신나는 하루!",
+          "date": "2026-06-26"
         }
       ],
-      "topNews": [
-        {
-          "title": "'GTA6'는 왜 넷플릭스를 택했나…6시간 선공개에 담긴 계산",
-          "link": "https://www.ddaily.co.kr/page/view/2026081214260313205",
-          "press": "",
-          "date": "2026-08-12"
-        },
-        {
-          "title": "테이크 투, GTA VI 사전주문 '역대급'…목표가↑-웰스파고",
-          "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=05015126645546008",
-          "press": "",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "예고편만 하루 9300만뷰…'GTA 6' 새 영상 28일 넷플 공개",
-          "link": "https://www.newsis.com/view/NISX20260809_0003741736",
-          "press": "",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "[미국 특징주] 테이크투, 연간 예약 전망 유지 \"'GTA VI 예정대로 11월 출...",
-          "link": "https://www.newspim.com/news/view/20260808000006",
-          "press": "",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "EA, 1분기 예약 매출 시장 예상 밑돌아…'배틀필드6' 흥행 둔화 영향",
-          "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=03916326645544040",
-          "press": "",
-          "date": "2026-08-04"
-        }
-      ],
-      "rank": 8
-    },
-    {
-      "keyword": "f-35a",
-      "traffic": "200+",
-      "blogTotal": 4956,
-      "newsTotal": 26439,
-      "recentToday": 0,
-      "recentWeek": 3,
-      "topBlogs": [
-        {
-          "title": "[방산 스펙 비교] \"K9 자주포 1발 쏘는 데 얼마일까?\" 무기체계별 상상....",
-          "link": "https://blog.naver.com/economy1221/224354367901",
-          "blogger": "방산맨이 알려주는 우리나라 방산 이야기",
-          "date": "2026-07-22"
-        },
-        {
-          "title": "Dynamide Tistory :: 디나미데 티스토리",
-          "link": "https://dynamide.tistory.com/25498",
-          "blogger": "물병자리 시대의 여명 :: 디나미데 티스토리",
-          "date": "2022-02-10"
-        },
-        {
-          "title": "한미 공군 '쌍매훈련' 실시! F-35A·KF-16·미 공군 F-16까지 참가한 연합....",
-          "link": "https://blog.naver.com/moonjjyymoon/224347885364",
-          "blogger": "호호아줌마의 우당탕 일상 일기",
-          "date": "2026-07-16"
-        },
-        {
-          "title": "아카데미 록히드 마틴 4D F-35A 라이트닝 II 빠른 조립 리뷰",
-          "link": "https://blog.naver.com/injaeinwoo/224245320710",
-          "blogger": "서울달타냥",
-          "date": "2026-04-26"
-        },
-        {
-          "title": "요즘 쌀 포장 디자인",
-          "link": "https://whatahacking.tistory.com/81",
-          "blogger": "빅데이터",
-          "date": "2022-01-27"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "폴란드 공군, F-35 64대·KAI FA-50 48대 체제 구축…나토 최강 맹주 부상",
-          "link": "https://www.g-enews.com/view.php?ud=202608190703256027e8b8a793f7_1",
-          "press": "",
-          "date": "2026-08-18"
-        },
-        {
-          "title": "[영상] 폴란드 지상·해상·공중 최대 군사 퍼레이드…'K2 흑표' 질주",
-          "link": "https://www.yna.co.kr/view/AKR20260817039200704?input=1195m",
-          "press": "",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "현대로템 K2·크라프 질주 속 '진짜 주인공'은?… 폴란드, 독자개발 장갑...",
-          "link": "https://www.g-enews.com/view.php?ud=202608160843488570e8b8a793f7_1",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "수십조 무기 사면 자주국방 완성? '평화협정 체결'이 훨씬 남는 장사![프...",
-          "link": "https://www.pressian.com/pages/articles/2026081418024231192?utm_source=naver&utm_medium=search",
-          "press": "",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "북·중·러 핵 다 막아야하는 美…괌에 ‘저위력 전구핵’ 전진배치할까",
-          "link": "https://www.joongang.co.kr/article/25453582",
-          "press": "",
-          "date": "2026-08-14"
-        }
-      ],
-      "rank": 9
-    },
-    {
-      "keyword": "말린스 대 필리스",
-      "traffic": "100+",
-      "blogTotal": 5,
-      "newsTotal": 494,
-      "recentToday": 0,
-      "recentWeek": 0,
-      "topBlogs": [
-        {
-          "title": "2025년 4월 14일(월) [미국시간], MLB 주요 경기 결과와 리그 상황",
-          "link": "https://arthealing.tistory.com/1155",
-          "blogger": "침선생의 九思實事求",
-          "date": "2025-04-16"
-        },
-        {
-          "title": "⚾ 2026년 8월 19일 필라델피아 vs 마이애미 경기분석｜MLB 승부예측, ....",
-          "link": "https://blog.naver.com/guidesyj/224381845644",
-          "blogger": "골든트리",
-          "date": "2026-08-18"
-        },
-        {
-          "title": "\"12번 지고서야 멈췄다\" 마이애미 말린스, 13번째 경기에서 달라진 한....",
-          "link": "https://blog.naver.com/cgnara/224360597350",
-          "blogger": "Sports MAG:ZINE",
-          "date": "2026-07-28"
-        },
-        {
-          "title": "2023 MLB 정규시즌 구단 별 관중 동원 순위",
-          "link": "https://dailybb.tistory.com/910",
-          "blogger": "뉴도리의 daily BB",
-          "date": "2023-10-11"
-        },
-        {
-          "title": "[책/리뷰] 민훈기의 메이저리그, 메이저리거 ★★★☆☆",
-          "link": "https://a4b4.tistory.com/819",
-          "blogger": "★ 솔직리뷰 ~ 여행 맛집 전시 공연",
-          "date": "2010-01-25"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "36-37호포 쾅쾅! '꿈의 구장'이 미쳤다, 슈와버 쳤다 하면 2개씩...24일 만...",
-          "link": "https://www.sportschosun.com/baseball/2026-08-14/202608140100085470005381",
-          "press": "",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "마이애미 알칸타라, MLB 첫 규정이닝 돌파 163⅔이닝 기록",
-          "link": "https://www.joongangenews.com/news/articleView.html?idxno=539106",
-          "press": "",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "삼진만 28번 당하고 23일만에 34-35호포 쾅쾅! 슈와버, 알바레즈와 ML 홈...",
-          "link": "https://www.sportschosun.com/baseball/2026-08-10/202608100100057250003569",
-          "press": "",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "'이럴수가' 무사 1,2루에서 삼진이라니, 이정후 결국 10위까지 밀렸다",
-          "link": "https://www.sportschosun.com/baseball/2026-08-10/202608100100053480003361",
-          "press": "",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "이정후 전 동료는 역시 '천재 타자', 필리스 데뷔전서 벌써 멀티히트 완...",
-          "link": "https://www.sportschosun.com/baseball/2026-08-05/202608050100027050001655",
-          "press": "",
-          "date": "2026-08-04"
-        }
-      ],
+      "topNews": [],
       "rank": 10
     }
   ]
