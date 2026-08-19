@@ -1,12 +1,231 @@
 {
-  "updatedAt": "2026-08-19T13:41:23.351Z",
+  "updatedAt": "2026-08-19T14:30:09.033Z",
   "source": "live",
   "keywords": [
     {
+      "keyword": "채소",
+      "traffic": "2000+",
+      "blogTotal": 1904722,
+      "newsTotal": 915794,
+      "recentToday": 100,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "장 보기 전 냉장고 털이 — 남은 채소 반찬 12가지",
+          "link": "https://blog.naver.com/marykayqueen/224371063145",
+          "blogger": "한끼공작소",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "\"먹으면 당뇨 잡는다..\" 천연 인슐린 풍부한 채소 4가지",
+          "link": "https://blog.naver.com/jongha3846/224369732328",
+          "blogger": "건돌이",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "류수영 매운 돼지갈비찜 레시피, 마당 햇채소 더해 완성한 가족 저....",
+          "link": "https://blog.naver.com/bgksk0301/224332418229",
+          "blogger": "천천히 굽는 사람",
+          "date": "2026-07-01"
+        },
+        {
+          "title": "[실용원예 완벽 마스터 시리즈 C-5편]시리즈를 마무리하며 — 새싹채....",
+          "link": "https://blog.naver.com/rjansorl/224348599323",
+          "blogger": "모든것은 오직 마음이 만든다.",
+          "date": "2026-07-16"
+        },
+        {
+          "title": "다이소 마늘다지기 후기! 3천원짜리 채소 다지기 솔직 리뷰",
+          "link": "https://blog.naver.com/gpfks4413/224310335945",
+          "blogger": "아늑히 퍼지는 소소한 일상 blog",
+          "date": "2026-06-12"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "李대통령, 金·鄭·宋과 한자리…\"모두가 주역, 더 강한 원팀으로\"",
+          "link": "https://view.asiae.co.kr/article/2026081923100658437",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "깜찍한 혼혈에 먹방까지...기욤 딸 레아, 제2의 '슈돌' 추사랑 되나 [스...",
+          "link": "https://www.starnewskorea.com/broadcast-show/2026/08/19/2026081922314996999",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "“우유보다 많다고?”…자주 먹는 ‘이 반찬’, 의외로 칼슘 덩어리",
+          "link": "https://kormedi.com/?p=2847644",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "폭염·가뭄에 엽채류 가격 '껑충'…햇품 나온 과일류는 '내림세'",
+          "link": "http://www.youngnong.co.kr/news/articleView.html?idxno=61655",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "국립종자원, 씨마늘 불법 유통 집중 단속…수입량 72톤서 670.5톤으로 급...",
+          "link": "http://www.youngnong.co.kr/news/articleView.html?idxno=61672",
+          "press": "",
+          "date": "2026-08-19"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "keyword": "석유",
+      "traffic": "500+",
+      "blogTotal": 346350,
+      "newsTotal": 2128351,
+      "recentToday": 100,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "2026년 울산 석유화학 지원금, 재직자 50만원 근로자 안심페이 지원대....",
+          "link": "https://blog.naver.com/ckdgur28/224306204569",
+          "blogger": "유빵이의 정보노트",
+          "date": "2026-06-04"
+        },
+        {
+          "title": "한국석유공사 7급 정규직 보건관리자 채용",
+          "link": "https://blog.naver.com/chaewon0317/224378471589",
+          "blogger": "보건관리자의 길",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "여수시 석유화학단지 근로자라면 필독! 1인 최대 50만 원 '안심패키....",
+          "link": "https://blog.naver.com/love_is_choi/224348800471",
+          "blogger": "설련화의 스마트한 자립을 위한 돈 되는 이야기",
+          "date": "2026-07-16"
+        },
+        {
+          "title": "역래깅 뜻, 금호석유 영업이익 131% 상회 뒤에 숨은 다음 분기",
+          "link": "https://blog.naver.com/csj4032/224374411780",
+          "blogger": "Le mieux est l’ennemi du bien",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "블랙 청바지 석유 화학 냄새 빼는 방법",
+          "link": "https://blog.naver.com/knk7731/224372954500",
+          "blogger": "럭셔리레드님의 미니홈피",
+          "date": "2026-08-09"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "석유공사, 기술인력 30% 사업부서 재배치",
+          "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8641045&ref=A",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "울산시, 3차 공공기관 유치 공격적 대응 전환",
+          "link": "https://www.ulsanpress.net/news/articleView.html?idxno=581340",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "울산 여성 일자리페스타 준비 만전",
+          "link": "https://www.ulsanpress.net/news/articleView.html?idxno=581331",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "예멘 정부 \"후티, 바브엘만데브 연안 장악 노려\" 경고",
+          "link": "http://www.yonhapnewstv.co.kr/news/AKR20260819213727owP",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "공공기관 이전 먹구름…울산시 ‘유치 사활’",
+          "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8640899&ref=A",
+          "press": "",
+          "date": "2026-08-19"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "keyword": "캐시워크 정답",
+      "traffic": "100+",
+      "blogTotal": 226456,
+      "newsTotal": 90661,
+      "recentToday": 100,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "캐시워크 돈버는퀴즈 정답모음! 8월 11일 실시간 퀴즈 정답 모음집",
+          "link": "https://blog.naver.com/skc348/224375201058",
+          "blogger": "영어에 대한 모든 것!",
+          "date": "2026-08-11"
+        },
+        {
+          "title": "2026년 8월 15일 캐시워크 돈버는퀴즈 정답 총정리",
+          "link": "https://blog.naver.com/hongyd3433/224379486270",
+          "blogger": "라이프 인사이트",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "2026년 8월 11일 캐시워크 돈버는퀴즈 정답 총정리 오늘 문제 한눈에",
+          "link": "https://blog.naver.com/thisnthatcenter/224375353525",
+          "blogger": "이것저것센터",
+          "date": "2026-08-11"
+        },
+        {
+          "title": "2026년 7월31일 오후 7시 기준 캐시워크 돈버는 퀴즈 정답 및 해설 총....",
+          "link": "https://blog.naver.com/zz00zz13/224364154628",
+          "blogger": "MR.PRINGLES",
+          "date": "2026-07-31"
+        },
+        {
+          "title": "우리은행 여름간식 퀴즈 정답 캐시워크 돈버는퀴즈 참여 방법 총정....",
+          "link": "https://blog.naver.com/hoguring/224375033759",
+          "blogger": "hoguring님의 블로그",
+          "date": "2026-08-12"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "한미양행 건강식품…캐시워크 돈버는퀴즈 정답 공개",
+          "link": "https://www.gametoc.co.kr/news/articleView.html?idxno=110766",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "한미양행 루테인 캐시워크 퀴즈 정답",
+          "link": "http://www.kjdaily.com/article.php?aid=1787140980684775227",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "[캐시워크 종합] 8월 19일 수요일 오후 9시 현재 출제되고 있는 모든 문...",
+          "link": "http://www.bizwnews.com/news/articleView.html?idxno=143750",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "19일 픽스 녹음기 캐시워크 돈버는퀴즈 정답 공개",
+          "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=857867",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "19일 픽스 휴지통 캐시워크 돈버는퀴즈 정답 공개",
+          "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=857866",
+          "press": "",
+          "date": "2026-08-19"
+        }
+      ],
+      "rank": 3
+    },
+    {
       "keyword": "삼성 라이온즈",
-      "traffic": "1000+",
-      "blogTotal": 146374,
-      "newsTotal": 808142,
+      "traffic": "2000+",
+      "blogTotal": 146388,
+      "newsTotal": 808156,
       "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
@@ -43,190 +262,117 @@
       ],
       "topNews": [
         {
-          "title": "[IS 냉탕] 선발 보장 의미 있나, 2이닝 6실점 붕괴…시즌 10패 ERA 7.86",
-          "link": "https://isplus.com/article/view/isp202608190173",
+          "title": "LG, '선두' KT 잡고 48일 만에 연승…2위 삼성은 바짝 추격",
+          "link": "https://www.m-i.kr/news/articleView.html?idxno=1403907",
           "press": "",
           "date": "2026-08-19"
         },
         {
-          "title": "삼성, ‘7타점’ 전병우 폭발… 선두 KT 턱밑 추격",
-          "link": "https://www.chosun.com/sports/baseball/2026/08/19/DPDELKHNVFAMNFXEZF7V2P65EM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+          "title": "'김도영 치고-이의리 막고' 승리 공식 찾은 타이거즈 4연승 질주…'2~5위...",
+          "link": "http://www.spochoo.com/news/articleView.html?idxno=128980",
           "press": "",
           "date": "2026-08-19"
         },
         {
-          "title": "전병우·강민호·구자욱·디아즈 홈런 잔치…삼성, SSG에 18-4 대승",
-          "link": "http://www.stoo.com/article.php?aid=108410994738",
+          "title": "KIA 4연승·LG 48일 만에 연승…2위 삼성, 1위 KT와 승차 '0'(종합)",
+          "link": "https://www.newsis.com/view/NISX20260819_0003755035",
           "press": "",
           "date": "2026-08-19"
         },
         {
-          "title": "[프로야구] 삼성 강민호, SSG 상대로 17시즌 연속 두 자릿 수 홈런 달성...",
-          "link": "https://www.newspim.com/news/view/20260819001272",
+          "title": "2위 삼성, 선두 kt 0.002 차 추격…3위 LG, 48일 만에 2연승(종합)",
+          "link": "https://www.yna.co.kr/view/AKR20260819179000007?input=1195m",
           "press": "",
           "date": "2026-08-19"
         },
         {
-          "title": "‘홈런-홈런-홈런-홈런’ 라이온즈, 어제 얼마나 이기고 싶었던 거야…...",
-          "link": "https://www.sportsseoul.com/news/read/1629573?ref=naver",
+          "title": "'6회까지 매 이닝 득점' 삼성, SSG 18-4로 대파",
+          "link": "https://www.stnsports.co.kr/news/articleView.html?idxno=321193",
           "press": "",
           "date": "2026-08-19"
         }
       ],
-      "rank": 1
+      "rank": 4
     },
     {
-      "keyword": "로봇",
-      "traffic": "1000+",
-      "blogTotal": 1467164,
-      "newsTotal": 2368630,
-      "recentToday": 100,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "삼성전자 로봇 투자와 글로벌 로봇 핵심 수혜주 & 재무 지표 총정리",
-          "link": "https://blog.naver.com/ant2001e/224369970596",
-          "blogger": "음악의 에너지",
-          "date": "2026-08-06"
-        },
-        {
-          "title": "삼성 로봇청소기 냄새 제거 후기, 사소시각 로봇청소기 세제 추천",
-          "link": "https://blog.naver.com/ikmwer/224329416072",
-          "blogger": "맛집 여행 일상 기록 : )",
-          "date": "2026-06-28"
-        },
-        {
-          "title": "서울로봇인공지능과학관 3층 상설전시관 후기 | 한양대 축구로봇·....",
-          "link": "https://blog.naver.com/wonderer100/224379655252",
-          "blogger": "호기심 많은 방랑자",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "드리미 X50 마스터 솔직 후기 | 직배수 셀프 설치, 로봇청소기 추천",
-          "link": "https://blog.naver.com/kimjieun0509/224354839926",
-          "blogger": "진",
-          "date": "2026-07-22"
-        },
-        {
-          "title": "JONR T5 PRO GEN2 로봇청소기 후기, 워킹맘이 처음 써본 가성비 올인원 ....",
-          "link": "https://blog.naver.com/whity89/224376003024",
-          "blogger": "여울, 우리의 오늘",
-          "date": "2026-08-12"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "LG유플러스·연세대, AI-RAN과 5G망 간 끊김 없는 연결 검증",
-          "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=88168",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "서울 중구의회, 을지연습 상황실 방문",
-          "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160290958610762",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "개발 3개월 만에 이 정도?…2m 점프하고 시속 45km 달리는 中 로봇",
-          "link": "https://www.etnews.com/20260819000226",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "‘공중제비 로봇’ 주가 5배 넘게…유니트리 뭐길래 [브랜드 줌]",
-          "link": "https://nownews.seoul.co.kr/news/newsView.php?id=20260819601013&wlog_tag3=naver",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "한컴라이프케어, 프랑스 샤크로보틱스 소방로봇 2종 국내 독점 공급",
-          "link": "http://fpn119.co.kr/255440",
-          "press": "",
-          "date": "2026-08-19"
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "keyword": "의료",
+      "keyword": "기아타이거즈",
       "traffic": "200+",
-      "blogTotal": 2649994,
-      "newsTotal": 9146504,
-      "recentToday": 100,
+      "blogTotal": 74642,
+      "newsTotal": 56615,
+      "recentToday": 56,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "거주지 의료이용 제한, 소생활권 소진료권 병원 이용 달라질까?",
-          "link": "https://blog.naver.com/alltimes1004/224377884986",
-          "blogger": "놀면서 배우는 아기",
-          "date": "2026-08-13"
-        },
-        {
-          "title": "하나로의료재단 강남센터 직장인 건강검진 후기",
-          "link": "https://blog.naver.com/sohye0n/224369216423",
-          "blogger": "15.028s",
-          "date": "2026-08-05"
-        },
-        {
-          "title": "보건의료정보관리사 시험 응시자격 실기 오답노트 팁 후기",
-          "link": "https://blog.naver.com/eolife_wood/224370409296",
-          "blogger": "에듀 큐레이터 라이트앤뉴",
-          "date": "2026-08-06"
-        },
-        {
-          "title": "동네 밖 병원 이용 금지? 소생활권 의료제한 및 인두제 논란 정책 정....",
-          "link": "https://blog.naver.com/bdz0517/224378514231",
-          "blogger": "불나비",
+          "title": "기아타이거즈 광복절 유니폼 후기 26시즌 어센틱 광복절 유니폼 168cm....",
+          "link": "https://blog.naver.com/eghals123/224377083269",
+          "blogger": "빙글빙글 돌아가는 일상",
           "date": "2026-08-14"
         },
         {
-          "title": "중증질환 산정특례란? 의료비 부담을 덜어주는 건강보험 제도",
-          "link": "https://blog.naver.com/parisie/224370527324",
-          "blogger": "나그네 쉼터",
-          "date": "2026-08-07"
+          "title": "기아타이거즈 광복절 유니폼 출시ㅣ2026 어센틱 가격·판매처·마킹·....",
+          "link": "https://blog.naver.com/vvvvll0/224373993599",
+          "blogger": "Of Taste & Time",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "[기아타이거즈] 이의리 선발투수에서 마무리 투수 전격 변신? 최고....",
+          "link": "https://blog.naver.com/sponge0320/224375622741",
+          "blogger": "스포츠와 일상 기록",
+          "date": "2026-08-11"
+        },
+        {
+          "title": "순천역 카페 조곡동 카페온이 라떼 맛집 기아 타이거즈 키링까지",
+          "link": "https://blog.naver.com/swj2636/224378873581",
+          "blogger": "쪼이로그",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "2026 기아 타이거즈 광복절 어센틱 유니폼 출시 안내: 판매 일정, 가....",
+          "link": "https://blog.naver.com/econic/224374303884",
+          "blogger": "찬란한 그대",
+          "date": "2026-08-10"
         }
       ],
       "topNews": [
         {
-          "title": "화장품 업계, 무더위에도 나눔 이어간다",
-          "link": "https://www.meconomynews.com/news/articleView.html?idxno=200692",
+          "title": "4연승 기아, 가을야구 가자!",
+          "link": "https://www.news1.kr/photos/8063385",
           "press": "",
           "date": "2026-08-19"
         },
         {
-          "title": "서민금융진흥원, 위기가구 정보제공 확대…복지지원 연계 강화",
-          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3668991",
+          "title": "4연승 기아, 가을야구 가자!",
+          "link": "https://www.news1.kr/photos/8063386",
           "press": "",
           "date": "2026-08-19"
         },
         {
-          "title": "남양주시, 독거노인 등 폭염 취약계층 건강 집중 관리",
-          "link": "http://www.bizwnews.com/news/articleView.html?idxno=143752",
+          "title": "4연승 기아, 웃음짓는 김도영",
+          "link": "https://www.news1.kr/photos/8063384",
           "press": "",
           "date": "2026-08-19"
         },
         {
-          "title": "제천시, '이웃이 이웃을 돌보는 통합돌봄 사업' 추진",
-          "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2435087",
+          "title": "4연승 기아, 가을야구 가자!",
+          "link": "https://www.news1.kr/photos/8063387",
           "press": "",
           "date": "2026-08-19"
         },
         {
-          "title": "KB국민인증서 이용 고객 1800만 돌파…일상 속 '디지털 인증 플랫폼'으로",
-          "link": "https://www.thepublic.kr/news/articleView.html?idxno=315489",
+          "title": "김도영 3점 홈런 쾅!",
+          "link": "https://www.news1.kr/photos/8063379",
           "press": "",
           "date": "2026-08-19"
         }
       ],
-      "rank": 3
+      "rank": 5
     },
     {
       "keyword": "정준원",
       "traffic": "500+",
-      "blogTotal": 7084,
+      "blogTotal": 7085,
       "newsTotal": 22921,
-      "recentToday": 34,
+      "recentToday": 35,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -262,7 +408,7 @@
       ],
       "topNews": [
         {
-          "title": "‘유부녀 킬러’ 짜릿한 액션부터 뭉클한 가족애까지 선보이며 ‘킬링...",
+          "title": "‘유부녀 킬러’ 킬링 콘텐츠 등극",
           "link": "https://sports.khan.co.kr/article/202608192211003?pt=nv",
           "press": "",
           "date": "2026-08-19"
@@ -292,221 +438,75 @@
           "date": "2026-08-19"
         }
       ],
-      "rank": 4
-    },
-    {
-      "keyword": "빅뱅 콘서트",
-      "traffic": "100+",
-      "blogTotal": 5165,
-      "newsTotal": 56354,
-      "recentToday": 23,
-      "recentWeek": 68,
-      "topBlogs": [
-        {
-          "title": "빅뱅 콘서트 고양종합운동장 수도권, 지방권 셔틀버스 예약(퀸즈스....",
-          "link": "https://blog.naver.com/dpfls080/224375490328",
-          "blogger": "시오시작",
-          "date": "2026-08-11"
-        },
-        {
-          "title": "빅뱅 콘서트/전시 MD 리스트 총 정리 구매처(욕 포함해서 씀ㅎ)",
-          "link": "https://blog.naver.com/wndi7172/224376413684",
-          "blogger": "Live days, Fan night✨️",
-          "date": "2026-08-12"
-        },
-        {
-          "title": "눈물을 머금은 빅뱅 콘서트 NOL티켓 취소하는 방법, 직접방문취소 후....",
-          "link": "https://blog.naver.com/ehznnh/224371225896",
-          "blogger": "일상 아지트",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "2026 빅뱅 콘서트 굿즈 가격 무신사 오프라인 팝업스토어 사전 판매 ....",
-          "link": "https://blog.naver.com/raongun/224374745771",
-          "blogger": "라온",
-          "date": "2026-08-11"
-        },
-        {
-          "title": "빅뱅 콘서트 2026 한강, 8월 19일 무료? 빅뱅이 직접 공연하는 건 아닙....",
-          "link": "https://blog.naver.com/ongoal/224374256920",
-          "blogger": "겨릿소와 같이",
-          "date": "2026-08-10"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "빅뱅 GD “'거짓말' 때 행사 다니며 죽을 고비 많이 넘겨”",
-          "link": "https://news.jtbc.co.kr/article/NB12314143?influxDiv=NAVER",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "빅뱅 20살 한강 생파, 이보다 화려할 수가 [MTN 현장+]",
-          "link": "https://news.mtn.co.kr/news-detail/2026081920521291598",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "빅뱅 고양콘 ‘판타스틱 숙박비’… 객실 예약수요 30배",
-          "link": "https://www.kyeongin.com/article/1769274",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "'왕의 귀한' 빅뱅 콘서트 티켓 가격은?...월드투어 시작 속 21만 명 접속...",
-          "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160293853185769",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "“너희들 사랑해”…태양, 빅뱅 20주년 당일 VIP에 남긴 여섯 글자 [IS하...",
-          "link": "https://isplus.com/article/view/isp202608190117",
-          "press": "",
-          "date": "2026-08-19"
-        }
-      ],
-      "rank": 5
-    },
-    {
-      "keyword": "시라카와",
-      "traffic": "100+",
-      "blogTotal": 8942,
-      "newsTotal": 12294,
-      "recentToday": 19,
-      "recentWeek": 93,
-      "topBlogs": [
-        {
-          "title": "압구정 시라카와 덴푸라, 만족스런 덴푸라 오마카세",
-          "link": "https://blog.naver.com/hammygo/224295668448",
-          "blogger": "해미의 즐기면서 사는 인생",
-          "date": "2026-05-25"
-        },
-        {
-          "title": "압구정 시라카와 조용한 술집 이자카야",
-          "link": "https://blog.naver.com/xndjakfls/224305404822",
-          "blogger": "오늘도 최맨배:)",
-          "date": "2026-06-04"
-        },
-        {
-          "title": "[일본 장기여행/도쿄] 3일차ㅣ느좋 동네 기요스미 시라카와 탐방 (맛....",
-          "link": "https://blog.naver.com/yoonsismsk/224306361620",
-          "blogger": "낭만적 여름",
-          "date": "2026-06-05"
-        },
-        {
-          "title": "[KIA 타이거즈] KIA 선발진 연쇄 무너지나? '3선발' 시라카와가 무조건 ....",
-          "link": "https://blog.naver.com/leodao03/224379688012",
-          "blogger": "스포츠히어 SportHere",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "기아 시라카와 게이쇼 아시아쿼터 영입 완료, 고생했어 데일!!",
-          "link": "https://blog.naver.com/ironicman8/224299257260",
-          "blogger": "솔직한 엔터노트",
-          "date": "2026-05-28"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "김도영 쐐기 스리런·이의리 3경기 연속 세이브…KIA 4연승 질주",
-          "link": "https://www.yna.co.kr/view/AKR20260819177400007?input=1195m",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "'김도영 37호포' KIA, 한화 6-3으로 꺾고 4연승 질주",
-          "link": "https://www.newsis.com/view/NISX20260819_0003755023",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "삼성, ‘7타점’ 전병우 폭발… 선두 KT 턱밑 추격",
-          "link": "https://www.chosun.com/sports/baseball/2026/08/19/DPDELKHNVFAMNFXEZF7V2P65EM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "'이럴수가' 김도영을 안 걸러?→9회 스리런포 쾅!→이의리 공 3개로 끝냈...",
-          "link": "https://www.starnewskorea.com/sports/2026/08/19/2026081920470670340",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "'김도영 쐐기 스리런포' KIA, 한화 잡고 4연승 질주",
-          "link": "http://www.stoo.com/article.php?aid=108410822890",
-          "press": "",
-          "date": "2026-08-19"
-        }
-      ],
       "rank": 6
     },
     {
-      "keyword": "잔홍",
-      "traffic": "100+",
-      "blogTotal": 87,
-      "newsTotal": 22,
-      "recentToday": 18,
-      "recentWeek": 37,
+      "keyword": "남승민",
+      "traffic": "500+",
+      "blogTotal": 3794,
+      "newsTotal": 16906,
+      "recentToday": 23,
+      "recentWeek": 32,
       "topBlogs": [
         {
-          "title": "이환 1.3 업데이트 잔홍 픽업 일정 및 육성 재료, 캐릭터 티어표, 쿠....",
-          "link": "https://blog.naver.com/didcjddns/224373417136",
-          "blogger": "청양의 하는둥 마는둥",
-          "date": "2026-08-10"
+          "title": "\"가수 남승민\" 프로필 나이 고향 노래",
+          "link": "https://blog.naver.com/rwg008/224352811961",
+          "blogger": "낭만뉴스",
+          "date": "2026-07-21"
         },
         {
-          "title": "이환 1.3 특별 방송 정리 리딤코드 쿠폰, 잔홍 링코 신규 업데이트 총....",
-          "link": "https://blog.naver.com/hyjueng/224372522424",
-          "blogger": "꿈속에서도 게임을!!",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "이환 잔홍 아크 콘솔 파티 조합 각성 돌파 세팅 공략",
-          "link": "https://blog.naver.com/12512512/224383400318",
-          "blogger": "피스타임 블로그",
+          "title": "남승민 집 금고 발견, 김용빈 감동 안긴 찐우정",
+          "link": "https://blog.naver.com/ledeye01/224383353932",
+          "blogger": "로아의 정신줄 가출기",
           "date": "2026-08-19"
         },
         {
-          "title": "이환 잔홍 티어 아크 파티 조합 공략, 환석 싸게 충전하는 법",
-          "link": "https://blog.naver.com/kwonjae27/224383695933",
-          "blogger": "게임 잘 알려주는 껑이네",
+          "title": "\"코수술 아니고 비염 수술\" 남승민 코 성형 의혹에 억울 | 남승민 누....",
+          "link": "https://blog.naver.com/ilovekangstar/224343592856",
+          "blogger": "뉴스스타⭐️",
+          "date": "2026-07-11"
+        },
+        {
+          "title": "남승민 집 금고 발견, 김용빈 감동 열어보자 나온 뜻밖의 물건",
+          "link": "https://blog.naver.com/choyam2026/224383382477",
+          "blogger": "매거진 뚱",
           "date": "2026-08-19"
         },
         {
-          "title": "이환 1.3 공방 쿠폰 리딤코드 및 잔홍 링코 종결 육성 재료",
-          "link": "https://blog.naver.com/luckytune81/224372790930",
-          "blogger": "디펑스의 게임 아지토",
-          "date": "2026-08-09"
+          "title": "남승민 집 금고 발견, 김용빈 감동 금고 속 뜻밖의 한 물건",
+          "link": "https://blog.naver.com/choyam20261/224383382831",
+          "blogger": "뚱이리스트",
+          "date": "2026-08-19"
         }
       ],
       "topNews": [
         {
-          "title": "[게임뉴스] 엠게임 및 플레이위드코리아 소식 외",
-          "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=60113",
+          "title": "김용빈, 남승민 집 금고 보고 화들짝 (편스토랑)",
+          "link": "https://sports.khan.co.kr/article/202608191752003?pt=nv",
           "press": "",
           "date": "2026-08-19"
         },
         {
-          "title": "[게임 업데이트] 몬길: 스타 다이브-레이븐2-신의 탑-왕좌의 게임-블루...",
-          "link": "https://www.viva100.com/article/20260819501339",
+          "title": "'편스토랑' 김용빈, 남승민 집 금고 발견…뜻밖의 물건에 '울컥' 감동",
+          "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=546439",
           "press": "",
           "date": "2026-08-19"
         },
         {
-          "title": "수영복 입고 여름휴가 떠난다… ‘이환’, 신규 캐릭터 ‘잔홍’ 포함 ...",
-          "link": "https://game.donga.com/123871/",
+          "title": "자취방 금고 열었더니 '깜짝'…김용빈, 뜻밖의 물건에 울컥했다 ('편스...",
+          "link": "https://www.tenasia.co.kr/article/2026081995844",
           "press": "",
           "date": "2026-08-19"
         },
         {
-          "title": "퍼펙트월드 '이환' 1.3 버전 대규모 업데이트 '안개 너머의 별빛' 공개",
-          "link": "https://gamefocus.co.kr/detail.php?number=178336",
+          "title": "김용빈, 남승민 자취방 샅샅이 뒤졌다…금고 속 물건에 ‘깜짝’(편스토...",
+          "link": "https://sports.donga.com/ent/article/all/20260819/134503723/1",
           "press": "",
           "date": "2026-08-19"
         },
         {
-          "title": "'이환', '안개 너머의 별빛' 업데이트…신규 S급 캐릭터 잔홍 합류",
-          "link": "https://www.xportsnews.com/article/2185278",
+          "title": "김용빈 손 닿자 \"절대 안 돼\"...남승민, 자취방서 감추던 비밀 들통 ('편...",
+          "link": "https://www.nc.press/news/articleView.html?idxno=624125",
           "press": "",
           "date": "2026-08-19"
         }
@@ -514,220 +514,189 @@
       "rank": 7
     },
     {
-      "keyword": "핵어뢰",
+      "keyword": "콘사",
       "traffic": "200+",
-      "blogTotal": 317,
-      "newsTotal": 1370,
-      "recentToday": 1,
-      "recentWeek": 3,
+      "blogTotal": 15277,
+      "newsTotal": 3065,
+      "recentToday": 10,
+      "recentWeek": 72,
       "topBlogs": [
         {
-          "title": "[멍멍! 초성퀴즈] 101~200 정답",
-          "link": "https://kgab6.tistory.com/206",
-          "blogger": "L양의 환상놀이터",
-          "date": "2020-04-07"
+          "title": "\"아스날, 리버풀 맞붙었다\" 아스톤 빌라 CB 에즈리 콘사 영입 경쟁 | ....",
+          "link": "https://blog.naver.com/football_goat/224370664195",
+          "blogger": "스포츠를 생각하는 축보트",
+          "date": "2026-08-07"
         },
         {
-          "title": "세이엔터(가세연) - 23.09.17",
-          "link": "https://goodgogo.tistory.com/7377",
-          "blogger": "끄적끄적",
-          "date": "2023-09-17"
+          "title": "콘사로 볼실 만들기, 와인딩+스팀하고 뜨면 게이지가 달라질까? (feat....",
+          "link": "https://blog.naver.com/sweetyarn/224333103683",
+          "blogger": "SweetYarn의 뜨개일상✨️",
+          "date": "2026-07-01"
         },
         {
-          "title": "북한, ‘정전 70주년’ 열병식 녹화방송…김정은 연설은 안해",
-          "link": "https://007nis.tistory.com/15888402",
-          "blogger": "https://007nis.tistory.com/",
-          "date": "2023-07-28"
+          "title": "코바늘 가방뜨기 : 남는 콘사로 간단한 가방 만들기, 코바늘 뜨개기....",
+          "link": "https://blog.naver.com/hireii/224346465245",
+          "blogger": "심심해서하는 블로그",
+          "date": "2026-07-14"
         },
         {
-          "title": "📮 간추린 아침뉴스📮2022년 10월 05일 수요일",
-          "link": "https://smile-happy-family.tistory.com/677",
-          "blogger": "Smile Happy Family (스마일 해피 패밀리)",
-          "date": "2022-10-05"
+          "title": "뜨개라이프 - 뜨개투어: 동대문 종합시장 콘사전문 성일사 (콘사는 ....",
+          "link": "https://blog.naver.com/divetodesign/224340025668",
+          "blogger": "꿈, 번잡한 그 일상속으로",
+          "date": "2026-07-08"
         },
         {
-          "title": "변혁과 진보: 핵탄생산 20년, 동방의 핵대국이 등장하다",
-          "link": "http://changesk.blogspot.com/2016/06/20.html",
-          "blogger": "변혁과 진보",
-          "date": "1990-01-01"
+          "title": "코바늘 가디건 완성 후기 | 김뜨개 하루만에 뜨는 코바늘 가디건, 인....",
+          "link": "https://blog.naver.com/mskmak/224344326101",
+          "blogger": "슉슉한 하루",
+          "date": "2026-07-12"
         }
       ],
       "topNews": [
         {
-          "title": "[쇼츠] 핵어뢰 '포세이돈' 6발 탑재…러 잠수함 '하바롭스크' 시험운항",
-          "link": "https://www.yna.co.kr/view/AKR20260818088200704?input=1195m",
+          "title": "\"아스널, 타이틀 방어에 매우 진지\"...살리바 공백 英 국가대표로 메운...",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=692832",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "'2026-27시즌 EPL 최고의 선수 TOP 50' … 토트넘 3명, 아스널은 '11명' 포...",
+          "link": "https://www.newdaily.co.kr/site/data/html/2026/08/18/2026081800191.html",
           "press": "",
           "date": "2026-08-18"
         },
         {
-          "title": "[영상] 항속거리 1만㎞ '핵어뢰' 탑재…러 신형 핵잠수함 첫 시험 운항",
-          "link": "https://www.yna.co.kr/view/AKR20260818081800704?input=1195m",
+          "title": "'우승했다고 끝난 게 아니다' 아스날, 진짜 지옥은 이제부터...BBC \"또 에...",
+          "link": "http://www.osen.co.kr/article/G1112858530",
           "press": "",
-          "date": "2026-08-18"
+          "date": "2026-08-16"
         },
         {
-          "title": "[뉴스 동서남북] 북한 최종 목표는 '핵 투발 수단의 다변화'",
-          "link": "https://www.voakorea.com/a/nkor-across-nation-080726/8183895.html",
+          "title": "PSG 관심 받던 스즈키, 이제 '또 다른 PL팀'이 노린다...\"유로파 우승팀...",
+          "link": "http://www.osen.co.kr/article/G1112858394",
           "press": "",
-          "date": "2026-08-07"
+          "date": "2026-08-16"
         },
         {
-          "title": "역대급 '연합합동지속지원훈련' 점검, '한·미 해양양륙군수지원훈련'은...",
-          "link": "http://www.fnnews.com/news/202607221101336029",
+          "title": "'아스널, 하늘이 돕는다' 프랑스 국대 센터백 살리바 2개월 빨리 복귀 가...",
+          "link": "https://www.sportschosun.com/football/2026-08-16/202608160100093700005959",
           "press": "",
-          "date": "2026-07-22"
-        },
-        {
-          "title": "냉전 끝났지만 핵위험은 여전…북해 바다 밑 핵잠수함의 경고",
-          "link": "https://www.segye.com/newsView/20260716510134?OutUrl=naver",
-          "press": "",
-          "date": "2026-07-16"
+          "date": "2026-08-16"
         }
       ],
       "rank": 8
     },
     {
-      "keyword": "코인니스 - 빠르고 정확한 코인 투자 뉴스, 커뮤니티",
+      "keyword": "việt nam đấu với malaysia",
       "traffic": "200+",
-      "blogTotal": 5,
-      "newsTotal": 6,
+      "blogTotal": 0,
+      "newsTotal": 0,
       "recentToday": 0,
       "recentWeek": 0,
       "topBlogs": [
         {
-          "title": "알아두면 좋은 코인 암호화폐/블록체인 뉴스 사이트 11",
-          "link": "https://quedo.tistory.com/375",
-          "blogger": "마인드와칭",
-          "date": "2020-07-05"
+          "title": "미군이 되고픈 중국군이 만든 영화 ^&^ : 오퍼레이션 레드 씨",
+          "link": "https://richcat.tistory.com/1664",
+          "blogger": "리치캣의 현재 그리고 미래",
+          "date": "2019-02-11"
         },
         {
-          "title": "뉴스 :: 대한민국 영어공장 (내신/수능 워크북)",
-          "link": "https://wayne.tistory.com/1525",
-          "blogger": "대한민국 영어공장 (내신/수능 워크북) :: 대한민국 영어공장 (내신/수능 워크북)",
-          "date": "2019-12-19"
+          "title": "구글 트렌드에서 '한국'을 검색하면?",
+          "link": "https://blog.naver.com/opecwkd/222895248168",
+          "blogger": "우리부부의 투자 아카이브",
+          "date": "2022-10-08"
         },
         {
-          "title": "[가상자산] 아이큐(IQ) 쉽고 빠르게 알아보기",
-          "link": "https://ktc7514.tistory.com/741",
-          "blogger": "세상이야기, 사는이야기",
-          "date": "2023-10-02"
+          "title": "lừng lững, sừng sững, cao vút - Ma mới bắt nạt ma cũ. :: Dictionary",
+          "link": "https://moen.tistory.com/8275",
+          "blogger": "Dictionary :: Dictionary",
+          "date": "2020-03-20"
         },
         {
-          "title": "지역별 미디어 센터 무료 영화보기 저렴한촬영 장비 대여 — 진한서....",
-          "link": "https://rainbo.tistory.com/15884683",
-          "blogger": "진한서랍 — 진한서랍",
-          "date": "2025-01-27"
+          "title": "'영국, 일본, 한국 등지에 닭고기 수출되도록 노력'",
+          "link": "https://blog.naver.com/factcheckvietnam/223174566322",
+          "blogger": "베트남읽어보기 공식블로그 [Fact Check VN]",
+          "date": "2023-08-04"
         },
         {
-          "title": "️ 2026년 07월 13일 13시 기준 실시간 검색어 TOP10 정리 :: ★범우주적 ....",
-          "link": "https://pesc.tistory.com/659",
-          "blogger": "★범우주적 마인드★ :: ★범우주적 마인드★",
-          "date": "2026-07-13"
+          "title": "Top 1 đơn vị dịch thuật Đồng Nai có dịch vụ tốt nhất",
+          "link": "https://blog.naver.com/tranvankhuong/222129848311",
+          "blogger": "tranvankhuong님의블로그",
+          "date": "2020-10-29"
         }
       ],
-      "topNews": [
-        {
-          "title": "[토큰포스트 브리핑] 美 9월 근원 PCE 전월比 0.3%↑ ...예상치 부합 外",
-          "link": "https://www.tokenpost.kr/article-203503",
-          "press": "",
-          "date": "2024-10-31"
-        },
-        {
-          "title": "[토큰포스트 브리핑] 블랙록, 이번 주 비트코인 2억 달러 매수 外",
-          "link": "https://www.tokenpost.kr/article-195050",
-          "press": "",
-          "date": "2024-09-01"
-        },
-        {
-          "title": "[토큰포스트 브리핑] 미 SEC 위원장, 이더리움 증권 여부 즉답 회피 外",
-          "link": "https://www.tokenpost.kr/article-176944",
-          "press": "",
-          "date": "2024-05-07"
-        },
-        {
-          "title": "[토큰포스트 브리핑] 연준 1월 말 금리 동결 가능성 언급 후 BTC 4만3000달...",
-          "link": "https://www.tokenpost.kr/article-160708",
-          "press": "",
-          "date": "2024-01-16"
-        },
-        {
-          "title": "[토큰포스트 주말 브리핑] 국제자금세탁장지기구 \"대다수 회원국 트래블...",
-          "link": "https://www.tokenpost.kr/article-124074",
-          "press": "",
-          "date": "2023-02-26"
-        }
-      ],
+      "topNews": [],
       "rank": 9
     },
     {
-      "keyword": "pakistan vs england",
-      "traffic": "100+",
-      "blogTotal": 1,
-      "newsTotal": 174,
+      "keyword": "베트남 대 말레이시아",
+      "traffic": "500+",
+      "blogTotal": 94,
+      "newsTotal": 15546,
       "recentToday": 0,
       "recentWeek": 0,
       "topBlogs": [
         {
-          "title": "12/14 Links Pt2: There are wolves in my house; For Israel, the Existential Question Return....",
-          "link": "https://elderofziyon.blogspot.com/2023/12/1214-links-pt2-there-are-wolves-in-my.html",
-          "blogger": "Elder Of Ziyon - Israel News",
-          "date": "2023-12-14"
+          "title": "벌써 8개월째 다니고 있는 삼각지역 <오리진스킨&바디>",
+          "link": "https://joohee1008.tistory.com/1413",
+          "blogger": "forget-me-not",
+          "date": "2015-10-20"
         },
         {
-          "title": "여자축구피파랭킹순위 - 2012년 , 여자축구피파(FIFA Ranking)순위",
-          "link": "https://donidang.tistory.com/1073",
-          "blogger": "donidang.tistory.com",
-          "date": "2012-07-29"
+          "title": "SK그룹 정기인사",
+          "link": "https://ourthink.tistory.com/56",
+          "blogger": "-",
+          "date": "2020-01-21"
         },
         {
-          "title": "외래어 표기 용례 :: Power to surprise.",
-          "link": "https://ppua.tistory.com/32",
-          "blogger": "Power to surprise. :: Power to surprise.",
-          "date": "2013-12-12"
+          "title": "FIFA 피파 랭킹 6월 순위 벤투호 대한민국 28위 1단계 상승",
+          "link": "https://pk0025.tistory.com/2663",
+          "blogger": "온종일 스토리",
+          "date": "2022-06-23"
         },
         {
-          "title": "02/24 Links: Israel and mediators agree on outline for hostage deal, pending Hamas okay; H....",
-          "link": "https://elderofziyon.blogspot.com/2024/02/0224-links-israel-and-mediators-agree.html",
-          "blogger": "Elder Of Ziyon - Israel News",
-          "date": "2024-02-24"
+          "title": "베트남 국민 1인당 빚 750USD",
+          "link": "https://vietnews.tistory.com/13428125",
+          "blogger": "베트남 창업 컨설팅, 투자진출 가이드",
+          "date": "2012-09-07"
         },
         {
-          "title": "02/03 Links: Israel’s Obligations Under the Genocide Convention; 10 myths about UNRWA yo....",
-          "link": "https://elderofziyon.blogspot.com/2024/02/0203-links-israels-obligations-under.html",
-          "blogger": "Elder Of Ziyon - Israel News",
-          "date": "2024-02-03"
+          "title": "베트남 하노이 분짜 맛집 맥주거리 36거리 분짜꿰쩨 Bún Chả Que Tre",
+          "link": "https://ceoparkjh.tistory.com/938",
+          "blogger": "끝장토익 토익과외",
+          "date": "2023-12-26"
         }
       ],
       "topNews": [
         {
-          "title": "Empowering Iran’s Hard-liners",
-          "link": "https://www.nytimes.com/2026/03/18/world/iran-leadership-larijani-israel-beirut.html?partner=naver",
+          "title": "전북 수출 7개월째 전년 대비 증가세 ‘호황’",
+          "link": "https://www.kukinews.com/article/view/kuk202608190225",
           "press": "",
-          "date": "2026-03-18"
+          "date": "2026-08-19"
         },
         {
-          "title": "세계적인 복지 모델 노르웨이 독립 120주년..사회·경제 문제점 진단",
-          "link": "http://www.breaknews.com/1156628",
+          "title": "\"기술 연결로 새로운 시장\" 제2회 상생포럼, 양자·반도체·로봇 딥테크...",
+          "link": "https://it.donga.com/109379/",
           "press": "",
-          "date": "2025-10-27"
+          "date": "2026-08-19"
         },
         {
-          "title": "Thursday Briefing",
-          "link": "https://www.nytimes.com/2025/05/22/briefing/trump-south-africa-gaza.html?partner=naver",
+          "title": "美 관세에 동남아 장갑 생산 회복…금호석화 NB라텍스 반등하나",
+          "link": "https://www.newsway.co.kr/news/view?ud=2026081913363031320",
           "press": "",
-          "date": "2025-05-22"
+          "date": "2026-08-19"
         },
         {
-          "title": "Thursday Briefing: Trump Lectures South Africa’s Leader",
-          "link": "https://www.nytimes.com/2025/05/21/briefing/south-africa-gaza-russia-brazil-spy-network.html?partner=naver",
+          "title": "동남아로 보폭 넓히는 한국 자동차… 7억 인구 '정조준'",
+          "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=726423",
           "press": "",
-          "date": "2025-05-21"
+          "date": "2026-08-19"
         },
         {
-          "title": "Trump vs. Science",
-          "link": "https://www.nytimes.com/2025/04/25/briefing/trump-vs-science.html?partner=naver",
+          "title": "한달새 35% 급등 '한화에어로', 美 자주포는 시작일 뿐...유럽 넘어 '동...",
+          "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=143227",
           "press": "",
-          "date": "2025-04-25"
+          "date": "2026-08-19"
         }
       ],
       "rank": 10
