@@ -1,161 +1,21 @@
 {
-  "updatedAt": "2026-08-19T05:56:18.056Z",
+  "updatedAt": "2026-08-19T06:42:36.936Z",
   "source": "live",
   "keywords": [
     {
-      "keyword": "공동 명의",
-      "traffic": "1000+",
-      "blogTotal": 80584,
-      "newsTotal": 206643,
-      "recentToday": 100,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "부부 공동명의 1주택 다주택자 취급 논란, 2028년 종부세 뭐가 달라지....",
-          "link": "https://blog.naver.com/alltimes1004/224372940909",
-          "blogger": "놀면서 배우는 아기",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "부부 공동명의 1주택 다주택자 될까? 2028년 종부세 달라지는 기준",
-          "link": "https://blog.naver.com/fds6051/224374755760",
-          "blogger": "옥냥의 육아 한스푼",
-          "date": "2026-08-11"
-        },
-        {
-          "title": "부부 공동명의는 다주택? 보유세 더 내라고 합니다",
-          "link": "https://blog.naver.com/ishiseido77/224373222378",
-          "blogger": "블룸앤아이유의 미니멀한 재테크",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "부부공동명의, 집 한 채뿐인데 다주택자로 분류돼 주담대 규제를 받....",
-          "link": "https://blog.naver.com/hwre7774/224374814257",
-          "blogger": "워누공간의 블로그",
-          "date": "2026-08-11"
-        },
-        {
-          "title": "부부공동명의 장단점 총정리｜종부세·양도세·취득세·증여세, 2026....",
-          "link": "https://blog.naver.com/mileangel78/224373549697",
-          "blogger": "경제, 부동산, 생활 정보를 전하는 재테크사관학교",
-          "date": "2026-08-10"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "공기업 돈 떼먹은 이영복... 수백억대 차명 부동산 소유 의혹",
-          "link": "https://newstapa.org/article/h67Fq",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "종부세 '공동명의=2주택' 논란…정부 \"사실과 달라\"",
-          "link": "https://dealsite.co.kr/articles/167473",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "필리핀, AI·반도체 공급망 전초기지로 부상…Pax Silica 경제안보구역 ...",
-          "link": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=100&CONTENTS_NO=1&bbsGbn=322&bbsSn=322&pNttSn=243452",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "장애인 주차표지 차량번호 바꿨다가…'공문서 위조' 혐의로 처벌받나요...",
-          "link": "https://lawtalknews.co.kr/article/P2ZLGKPYREGO",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "공공기관 2차 지방이전 폭풍전야… 금융권 단체행동 본격화",
-          "link": "https://www.newscj.com/news/articleView.html?idxno=3426290",
-          "press": "",
-          "date": "2026-08-19"
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "keyword": "하이닉스 주가",
-      "traffic": "2000+",
-      "blogTotal": 92502,
-      "newsTotal": 59575,
-      "recentToday": 100,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "“창피합니다 회장님” 솔리다임 상장에 털려나간 SK하이닉스 주가",
-          "link": "https://blog.naver.com/bomod/224378156537",
-          "blogger": "평범한 직장인의 투자일기",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "SK하이닉스 주가 최태원 회장 평단가 135만 원 오면 마지막 기회라는....",
-          "link": "https://blog.naver.com/antsal/224375809934",
-          "blogger": "한입 재테크",
-          "date": "2026-08-12"
-        },
-        {
-          "title": "SK하이닉스 260만원 간다는 모건스탠리 주가 전망은",
-          "link": "https://blog.naver.com/leeahn01/224375756293",
-          "blogger": "이안의 경제노트",
-          "date": "2026-08-12"
-        },
-        {
-          "title": "\"SK하이닉스 주식 괜히 샀다\" 주가 악영향 미칠 소식 나왔다는데",
-          "link": "https://blog.naver.com/ymi5025/224369562152",
-          "blogger": "대중과 멀어지는 삶",
-          "date": "2026-08-06"
-        },
-        {
-          "title": "이게 요즘 하이닉스 주가 상황 한장짜리 요약본이라는데",
-          "link": "https://blog.naver.com/meaning87/224375338675",
-          "blogger": "은퇴연구소",
-          "date": "2026-08-11"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "SK하이닉스 9%대 급락…150만원선까지 밀리며 반도체 투심 흔들",
-          "link": "https://www.job-post.co.kr/news/articleView.html?idxno=224400",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "외인ㆍ기관 4.5조 매도에 코스피 6500선 아래로⋯삼전닉스 7~8%↓",
-          "link": "https://www.etoday.co.kr/news/view/2615943",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "美 금리 충격에 외국인 '팔자'…코스피 5%대↓",
-          "link": "http://www.yonhapnewstv.co.kr/news/MYH20260819123808CbI",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "[전혜은 시선] 코스피 '널뛰기'에 불안한 개미들…투자자금은 미국으로",
-          "link": "http://www.weeklytoday.com/news/articleView.html?idxno=790803",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "“어제 하닉 170층 구조대 왔는데” 하루만에 -8% 급락, 파랗게 질렸다...",
-          "link": "https://www.seoul.co.kr/news/economy/securities/2026/08/19/20260819500102?wlog_tag3=naver",
-          "press": "",
-          "date": "2026-08-19"
-        }
-      ],
-      "rank": 2
-    },
-    {
       "keyword": "민방위",
-      "traffic": "200+",
-      "blogTotal": 42192,
-      "newsTotal": 132882,
-      "recentToday": 76,
+      "traffic": "500+",
+      "blogTotal": 42207,
+      "newsTotal": 132896,
+      "recentToday": 90,
       "recentWeek": 100,
       "topBlogs": [
+        {
+          "title": "2026년 민방위 교육, 내 연차에 맞는 방법, 복장까지 총정리",
+          "link": "https://blog.naver.com/lifedecoder6130/224309463321",
+          "blogger": "생활의 지혜를 해독하다.",
+          "date": "2026-06-08"
+        },
         {
           "title": "8월 20일 오후 2시 전국 동시 민방위 훈련 실시!",
           "link": "https://blog.naver.com/hongane2013/224376201813",
@@ -163,70 +23,64 @@
           "date": "2026-08-12"
         },
         {
-          "title": "8월 20일 '민방위 훈련 전국 동시 실시'｜오후 2시부터 20분간",
-          "link": "https://blog.naver.com/hi_kosti/224374287521",
-          "blogger": "무역안보관리원",
-          "date": "2026-08-10"
+          "title": "2026년 8월 공습대비 민방위 훈련 안내",
+          "link": "https://blog.naver.com/gwanak_gu/224377458309",
+          "blogger": "관악구 공식블로그",
+          "date": "2026-08-13"
         },
         {
-          "title": "[서울시] 2026년 8월 20일 민방위 훈련 안내",
-          "link": "https://blog.naver.com/toktokseoul/224374188831",
-          "blogger": "서울신용보증재단 공식블로그 :: 톡톡 서울",
-          "date": "2026-08-10"
+          "title": "민방위훈련, 전국 동시 실시!",
+          "link": "https://blog.naver.com/usbukgu/224369782937",
+          "blogger": "울산 북구청",
+          "date": "2026-08-06"
         },
         {
-          "title": "8월 20일 오후 2시 전국 민방위 훈련 실시! 공습경보가 울리면 이렇게....",
-          "link": "https://blog.naver.com/daegu_namgu/224373930000",
-          "blogger": "대구 남구청 공식 블로그",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "8월 공습대비 민방위 훈련 실시 대피 요령 미리 확인하세요!",
-          "link": "https://blog.naver.com/cbe_news/224373715616",
-          "blogger": "충청북도교육청 공식 블로그",
-          "date": "2026-08-10"
+          "title": "직장인 민방위 훈련 통지서 이수증 공가 처리 기준 및 유급 휴가 법....",
+          "link": "https://blog.naver.com/siderunner/224351375472",
+          "blogger": "사이드러너의 트랙 분기점",
+          "date": "2026-07-19"
         }
       ],
       "topNews": [
         {
-          "title": "전남광주소방, \"사이렌 울리면 양보를\"…20일 도심 27곳서 훈련",
-          "link": "https://daily.hankooki.com/news/articleView.html?idxno=1397088",
+          "title": "내일 오후 2시 사이렌 소리 놀라지 마세요…20분간 전국 민방위 훈련",
+          "link": "http://www.fnnews.com/news/202608191529206243",
           "press": "",
           "date": "2026-08-19"
         },
         {
-          "title": "오산시, '2026 을지연습' 시청 테러·폭발 대응훈련 실시",
-          "link": "https://www.m-i.kr/news/articleView.html?idxno=1403689",
+          "title": "수원시 '2026년 집중안전점검 추진 실적' 경기도 1위",
+          "link": "https://www.newspim.com/news/view/20260819000919",
           "press": "",
           "date": "2026-08-19"
         },
         {
-          "title": "당진소방서, 20일 소방차 길 터주기 훈련",
-          "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2434978",
+          "title": "내일 오후 2시 전국 민방위 훈련... 시간·훈련 방법은?",
+          "link": "https://www.ggilbo.com/news/articleView.html?idxno=1176241",
           "press": "",
           "date": "2026-08-19"
         },
         {
-          "title": "당진시, 2026년 을지연습으로 국가 비상대비태세 확립",
-          "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2434976",
+          "title": "밀양시, 2026년 을지연습 실제훈련 실시",
+          "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=315980",
           "press": "",
           "date": "2026-08-19"
         },
         {
-          "title": "창원해경, 21일까지 을지연습…비상 대응능력 점검",
-          "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5052781",
+          "title": "김철우 보성군수 \"안보 위기 속...비상 대비 태세 확립하겠다\"",
+          "link": "https://daily.hankooki.com/news/articleView.html?idxno=1397170",
           "press": "",
           "date": "2026-08-19"
         }
       ],
-      "rank": 3
+      "rank": 1
     },
     {
       "keyword": "레이디 제인",
       "traffic": "500+",
-      "blogTotal": 7833,
-      "newsTotal": 43125,
-      "recentToday": 72,
+      "blogTotal": 7838,
+      "newsTotal": 43126,
+      "recentToday": 77,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -262,6 +116,12 @@
       ],
       "topNews": [
         {
+          "title": "임현태, 주식투자 비법 공개…\"500만원으로 5000만원 불렸다\"",
+          "link": "https://www.newsis.com/view/NISX20260819_0003754391",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
           "title": "'동상이몽2', 이현이 삼전 주식 5만원대 보유 비결은 '망각'",
           "link": "https://www.joongangenews.com/news/articleView.html?idxno=541030",
           "press": "",
@@ -284,10 +144,150 @@
           "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=546362",
           "press": "",
           "date": "2026-08-19"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "keyword": "이의리",
+      "traffic": "1000+",
+      "blogTotal": 6202,
+      "newsTotal": 27646,
+      "recentToday": 72,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "\"꼭 선발해야겠니?\"왼손 파이어볼러 이의리, 이러다 기아에 세이브....",
+          "link": "https://blog.naver.com/pjh1752/224380598970",
+          "blogger": "스포팅리포트",
+          "date": "2026-08-16"
         },
         {
-          "title": "레이디제인, 13개월 딸 '발달지연 경계' 진단",
-          "link": "https://www.newsis.com/view/NISX20260819_0003753925",
+          "title": "\"선발 때 그 이의리가 맞나\" KIA 이의리, 불펜 가자 158km까지 폭발… ....",
+          "link": "https://blog.naver.com/yyjj2814/224380243275",
+          "blogger": "열정의 그라운드",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "선발 이의리 버리고 불펜 이의리 됐는데... 같은 투수 맞나? 개인 최....",
+          "link": "https://blog.naver.com/yssun3/224380214740",
+          "blogger": "플레이로그",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "“의리 하나는 끝내주죠?” 158km 개인 최고 구속 이의리, KIA 꽃감독....",
+          "link": "https://blog.naver.com/tel0/224380297396",
+          "blogger": "스말골",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "[기아타이거즈 리뷰] 이의리 깜짝 마무리 등판해 데뷔 첫 세이브, 올....",
+          "link": "https://blog.naver.com/dhkang2184/224375601946",
+          "blogger": "KIA타이거즈 & FC서울 팬 블로그",
+          "date": "2026-08-11"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "최근 10경기 6홈런...물오른 김도영의 방망이, 36호포로 홈런왕 질주",
+          "link": "http://www.maniareport.com/view.php?ud=2026081822514428566cf2d78c68_19",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "“나도 짜릿했다” 호랑이 포수 김태군마저 감탄해버린 그 순간…매일 ...",
+          "link": "https://sports.khan.co.kr/article/202608191455003?pt=nv",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "8월 ‘4G 4승-ERA 2.08’ 합작, 그래 이게 ‘올러-네일’이지…KIA ‘3위...",
+          "link": "https://www.sportsseoul.com/news/read/1629456?ref=naver",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "강백호 '3구 삼진' 돌려세운 이의리 완벽투…오늘도 '마무의리' 성공, 그...",
+          "link": "https://news.jtbc.co.kr/article/NB12314030?influxDiv=NAVER",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "158km 좌완 파이어볼러 이의리, 선발인가 마무리인가... KIA의 행복한 고...",
+          "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003260249&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+          "press": "",
+          "date": "2026-08-19"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "keyword": "국립 대학",
+      "traffic": "1000+",
+      "blogTotal": 80351,
+      "newsTotal": 245743,
+      "recentToday": 24,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "지방국립대 무상등록금 추진한다고? 이유와 반대측 우려 정리",
+          "link": "https://blog.naver.com/saevom22/224371606159",
+          "blogger": "꾸리의 공부에세이",
+          "date": "2026-08-08"
+        },
+        {
+          "title": "'지방 국립대 보낼 걸 그랬나' 등록금 0원이라는데",
+          "link": "https://blog.naver.com/ishiseido77/224370445260",
+          "blogger": "블룸앤아이유의 미니멀한 재테크",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "지방 국립대 등록금 0원…지방대 살리려다 지방 사립대부터 죽이나",
+          "link": "https://blog.naver.com/keheehee2/224376679825",
+          "blogger": "세상을 읽는 눈",
+          "date": "2026-08-12"
+        },
+        {
+          "title": "2026 입결로 보는 2027 국립창원대학교 수시 지원전략",
+          "link": "https://blog.naver.com/demianxyz/224369945811",
+          "blogger": "엄마가 쓰는 교육일기",
+          "date": "2026-08-06"
+        },
+        {
+          "title": "지방 국립대 등록금 무상 계획. 예상 국립대 30곳.",
+          "link": "https://blog.naver.com/han0in/224370316016",
+          "blogger": "LIFEX",
+          "date": "2026-08-06"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "국립의전원 부지 검토 요구받은 전북도…남원 설립 대응 본격화",
+          "link": "https://www.jjan.kr/article/20260819500317",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "대구 작가 4인, 조지아 트빌리시 현대미술관 '국제현대미술전' 참여",
+          "link": "https://www.imaeil.com/page/view/2026081915350472985",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "전남 국립의대 '새로운 국면' 접어들 조짐",
+          "link": "https://www.newswhoplus.com/news/articleView.html?idxno=67384",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "국립대병원 21년 만에 복지부로···인력·예산 늘려 ‘지역 필수의료...",
+          "link": "https://www.khan.co.kr/article/202608191531001",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "국립순천대, 반려된 의과대학 신설 추진계획서 재제출",
+          "link": "https://www.newsis.com/view/NISX20260819_0003754500",
           "press": "",
           "date": "2026-08-19"
         }
@@ -295,9 +295,82 @@
       "rank": 4
     },
     {
+      "keyword": "조태용",
+      "traffic": "200+",
+      "blogTotal": 2665,
+      "newsTotal": 49252,
+      "recentToday": 18,
+      "recentWeek": 21,
+      "topBlogs": [
+        {
+          "title": "[긴급속보] 조태용 2심 징역 2년6개월로 늘었다, 홍장원 진술 신빙성 ....",
+          "link": "https://blog.naver.com/solee1440/224383267583",
+          "blogger": "까다로운 S",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "조태용 전 국정원장 2심 징역 2년6개월, 무엇이 달라졌나",
+          "link": "https://blog.naver.com/rentdoctor/224383169732",
+          "blogger": "벌써1년렌트",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "조태용 전 국정원장 2심 징역 2년 6개월까지…왜 형량이 1년이나 늘....",
+          "link": "https://blog.naver.com/jalanika2/224383173974",
+          "blogger": "엔스픽 매거진",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "조태용 전 국정원장 프로필 분석 및 정리",
+          "link": "https://blog.naver.com/fdsalsn/224285102163",
+          "blogger": "좋은 정보 나눔소",
+          "date": "2026-05-14"
+        },
+        {
+          "title": "“1년 더 늘었다”…조태용 전 국정원장 2심 징역 2년 6개월 선고, 왜....",
+          "link": "https://blog.naver.com/unknownlife-/224383158866",
+          "blogger": "언노운라이프",
+          "date": "2026-08-19"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "[뉴스 다이브] 홍장원 등판…직접 듣는 ‘특검 수사’",
+          "link": "https://www.hani.co.kr/arti/politics/politics_general/1273591.html",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "'국회 위증' 조태용 전 국정원장, 2심 징역 2년 6개월",
+          "link": "https://imnews.imbc.com/replay/2026/nw1400/article/6845798_36974.html",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "조태용 전 국정원장, '정치 관여' 2심 재판서 징역 2년 6개월",
+          "link": "https://www.goodmorningcc.com/news/articleView.html?idxno=450886",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "'정치 관여' 조태용 전 국정원장 2심 징역 2년 6개월…1심 무죄 대부분 ...",
+          "link": "https://www.hankookilbo.com/news/article/A2026081913160004010?did=NA",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "조태용 전 국정원장, 2심서 징역 2년 6개월...형량 1년 늘어",
+          "link": "https://www.ytn.co.kr/_ln/0103_202608191452449003",
+          "press": "",
+          "date": "2026-08-19"
+        }
+      ],
+      "rank": 5
+    },
+    {
       "keyword": "dior",
       "traffic": "100+",
-      "blogTotal": 76163,
+      "blogTotal": 76162,
       "newsTotal": 21872,
       "recentToday": 17,
       "recentWeek": 100,
@@ -321,16 +394,16 @@
           "date": "2026-06-11"
         },
         {
-          "title": "디올 어딕트 립스틱 [Dior 8] 선물 받은 솔직후기",
-          "link": "https://blog.naver.com/qwe70500/224356631015",
-          "blogger": "응또의 맛집소개",
-          "date": "2026-07-24"
-        },
-        {
           "title": "[발색] 디올 디올쇼5꿀뢰르 151 마시멜로 / Dior Dior show 5 Couleurs 151Marshm....",
           "link": "https://blog.naver.com/gundol1233/224280717238",
           "blogger": "-",
           "date": "2026-06-01"
+        },
+        {
+          "title": "DIOR 디올 각인 립글로우 카카오톡선물하기 추천템",
+          "link": "https://blog.naver.com/allisakang/224328483240",
+          "blogger": "allisa님의 블로그",
+          "date": "2026-06-27"
         }
       ],
       "topNews": [
@@ -365,14 +438,14 @@
           "date": "2026-08-19"
         }
       ],
-      "rank": 5
+      "rank": 6
     },
     {
       "keyword": "오타니 쇼헤이",
       "traffic": "500+",
-      "blogTotal": 20720,
-      "newsTotal": 94396,
-      "recentToday": 13,
+      "blogTotal": 20724,
+      "newsTotal": 94400,
+      "recentToday": 17,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -408,37 +481,37 @@
       ],
       "topNews": [
         {
+          "title": "오타니, 6년 연속 30홈런 폭발…다저스 콜로라도에 7-6 신승",
+          "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=87242",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "오타니, 2점 아치 그리며 6년 연속 30홈런 달성",
+          "link": "https://www.kyeonggi.com/article/20260819580296",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "136m 투런포로 6년 연속 30호…다저스, 콜로라도에 7-6 신승",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16167506",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "오타니, 6년 연속 30홈런 달성…다저스, 콜로라도전 진땀승",
+          "link": "https://www.yna.co.kr/view/AKR20260819119900007?input=1195m",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
           "title": "오타니, 6년 연속 30홈런 ‘기염’",
           "link": "https://www.sedaily.com/article/20080882?ref=naver",
           "press": "",
           "date": "2026-08-19"
-        },
-        {
-          "title": "오타니도 못한 ‘데뷔 시즌 30홈런’ 눈앞…무라카미, 시즌 29호 대형포...",
-          "link": "https://mhnse.com/news/articleView.html?idxno=1493884",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "오타니 6년 연속 30홈런 기록, 팀 승리도 견인",
-          "link": "https://www.stnsports.co.kr/news/articleView.html?idxno=321169",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "‘또 쳤어? 그럼 나도’ PCA-오타니, 나란히 홈런포 ‘NL MVP 경쟁 활활’",
-          "link": "https://sports.donga.com/sports/article/all/20260819/134503078/1",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "25년 만의 대기록 쓴 '괴물' 오타니, 6년 연속 30홈런에 불펜 피칭 35구까...",
-          "link": "https://www.nocutnews.co.kr/news/6564793?utm_source=naver&utm_medium=article&utm_campaign=20260819014330",
-          "press": "",
-          "date": "2026-08-19"
         }
       ],
-      "rank": 6
+      "rank": 7
     },
     {
       "keyword": "삼청교육대",
@@ -511,11 +584,11 @@
           "date": "2026-08-16"
         }
       ],
-      "rank": 7
+      "rank": 8
     },
     {
       "keyword": "f 35a",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "blogTotal": 84,
       "newsTotal": 90,
       "recentToday": 0,
@@ -540,16 +613,16 @@
           "date": "2023-03-31"
         },
         {
-          "title": "북한, 북-미 실무협상 재개 앞두고 '북극성' 발사",
-          "link": "https://argumentinkor.tistory.com/2924",
-          "blogger": "세상논란거리",
-          "date": "2019-10-02"
-        },
-        {
           "title": "F-35A 스텔스기 28대, '엘리펀트 워크'…최고 수준 대응, 공군 F-35A 스....",
           "link": "https://bumin2100.tistory.com/1317",
           "blogger": "조은날,",
           "date": "2022-04-24"
+        },
+        {
+          "title": "독일, F-35 대신 F/A-18E/F 도입",
+          "link": "https://worldhanryu.tistory.com/129",
+          "blogger": "이상튜브",
+          "date": "2022-01-19"
         }
       ],
       "topNews": [
@@ -584,11 +657,11 @@
           "date": "2025-12-25"
         }
       ],
-      "rank": 8
+      "rank": 9
     },
     {
       "keyword": "그랜드 테 프트 오토 vi",
-      "traffic": "2000+",
+      "traffic": "5000+",
       "blogTotal": 0,
       "newsTotal": 0,
       "recentToday": 0,
@@ -626,18 +699,6 @@
         }
       ],
       "topNews": [],
-      "rank": 9
-    },
-    {
-      "keyword": "환율",
-      "traffic": "2000+",
-      "blogTotal": 0,
-      "newsTotal": 0,
-      "recentToday": 0,
-      "recentWeek": 0,
-      "topBlogs": [],
-      "topNews": [],
-      "error": "HTTP 429 https://openapi.naver.com/v1/search/blog.json?query=%ED%99%98%EC%9C%A8&display=5&sort=sim",
       "rank": 10
     }
   ]
