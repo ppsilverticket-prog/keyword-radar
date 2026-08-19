@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-19T18:31:06.858Z",
+  "updatedAt": "2026-08-19T19:22:07.164Z",
   "source": "live",
   "keywords": [
     {
       "keyword": "정규직",
-      "traffic": "100+",
+      "traffic": "200+",
       "blogTotal": 206201,
       "newsTotal": 647179,
-      "recentToday": 96,
+      "recentToday": 95,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -77,9 +77,9 @@
     },
     {
       "keyword": "라리가",
-      "traffic": "100+",
+      "traffic": "200+",
       "blogTotal": 62239,
-      "newsTotal": 103727,
+      "newsTotal": 103730,
       "recentToday": 85,
       "recentWeek": 100,
       "topBlogs": [
@@ -116,6 +116,24 @@
       ],
       "topNews": [
         {
+          "title": "'개막전 선발 데뷔 무산' 이강인 벤치 대기... 아틀레티코, 말라가전 라...",
+          "link": "https://www.starnewskorea.com/sports/2026/08/20/2026082003544591021",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "'우리 아이가 달라졌어요'...'유스 출신 문제아' 맨체스터 유나이티드 ...",
+          "link": "https://www.mydaily.co.kr/page/view/2026082000152960490",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "아틀레티코 마드리드 라인업! 이강인, 라리가 개막전 '벤치 출발'… 알...",
+          "link": "https://www.besteleven.com/news/articleView.html?idxno=311345",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
           "title": "이강인 ‘벤치 출발!’ 리그 개막전, 선발 출전 대신 교체 투입 유력, A...",
           "link": "https://sports.khan.co.kr/article/202608200316003?pt=nv",
           "press": "",
@@ -126,24 +144,6 @@
           "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96633",
           "press": "",
           "date": "2026-08-19"
-        },
-        {
-          "title": "이강인 '초대형 낭보'...'파트너 공격수' 아틀레티코 잔류 확정! 시메오...",
-          "link": "https://www.mydaily.co.kr/page/view/2026082000180804662",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "그리즈만에게 ‘에이스 7번’ 물려받은 이강인, 라리가 개막전부터 선발...",
-          "link": "http://www.osen.co.kr/article/G1112859970",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "'전설' 루니의 믿음, \"래시포드? 마음만 다잡으면 내 기록 깰 수 있는 선...",
-          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96627",
-          "press": "",
-          "date": "2026-08-19"
         }
       ],
       "rank": 2
@@ -151,11 +151,17 @@
     {
       "keyword": "토토",
       "traffic": "100+",
-      "blogTotal": 196261,
+      "blogTotal": 196263,
       "newsTotal": 189227,
       "recentToday": 82,
       "recentWeek": 100,
       "topBlogs": [
+        {
+          "title": "송도 고마워토토 분리수업 후기, 흙놀이와 쿠킹을 한 번에 즐긴 하....",
+          "link": "https://blog.naver.com/alliswellyura/224352821883",
+          "blogger": "놀이터개미",
+          "date": "2026-07-21"
+        },
         {
           "title": "이천 도자예술마을 ㅣ 솔솔푸른솔, 그루도자기, 우치, 토토공방, 갤....",
           "link": "https://blog.naver.com/0ilesam/224368762725",
@@ -167,12 +173,6 @@
           "link": "https://blog.naver.com/bella2820/224375154566",
           "blogger": "뜌's 성장 Story",
           "date": "2026-08-11"
-        },
-        {
-          "title": "송도 고마워토토 분리수업 후기, 흙놀이와 쿠킹을 한 번에 즐긴 하....",
-          "link": "https://blog.naver.com/alliswellyura/224352821883",
-          "blogger": "놀이터개미",
-          "date": "2026-07-21"
         },
         {
           "title": "키즈 LP토토 영유아부터 사용하기 좋은 육아템 추천!",
@@ -224,22 +224,22 @@
     {
       "keyword": "오싹한 연애",
       "traffic": "500+",
-      "blogTotal": 9024,
+      "blogTotal": 9025,
       "newsTotal": 9465,
       "recentToday": 73,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "tvN '오싹한 연애' 몇부작? 등장인물관계도부터 줄거리 2막 관전포인....",
-          "link": "https://blog.naver.com/kjw9648/224372207518",
-          "blogger": "나를중심으로기록하는공간",
-          "date": "2026-08-08"
-        },
-        {
           "title": "오싹한연애 8화 박은빈 양세종 진짜 약혼 8회 + 9화 (TVN토일드라마)",
           "link": "https://blog.naver.com/euene1111/224373353908",
           "blogger": "보는 사람",
           "date": "2026-08-09"
+        },
+        {
+          "title": "tvN '오싹한 연애' 몇부작? 등장인물관계도부터 줄거리 2막 관전포인....",
+          "link": "https://blog.naver.com/kjw9648/224372207518",
+          "blogger": "나를중심으로기록하는공간",
+          "date": "2026-08-08"
         },
         {
           "title": "드라마 '오싹한 연애' 주요촬영지 정리. 특히 시에나",
@@ -293,79 +293,6 @@
         }
       ],
       "rank": 4
-    },
-    {
-      "keyword": "김윤덕",
-      "traffic": "500+",
-      "blogTotal": 8533,
-      "newsTotal": 62252,
-      "recentToday": 44,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "'국회의원에서 국토교통부장관까지' 김윤덕 생애 및 정치 경력 정리",
-          "link": "https://blog.naver.com/pso164/224331540225",
-          "blogger": "과학커뮤니케이터 박종현",
-          "date": "2026-07-02"
-        },
-        {
-          "title": "김윤덕 국토교통부 장관 국회 의원 프로필 고향 학교 선거 이력 수....",
-          "link": "https://blog.naver.com/pyourang/224377324243",
-          "blogger": "주식 투자 유료 증권사 리포트",
-          "date": "2026-08-13"
-        },
-        {
-          "title": "용산공원 없애겠다는 김윤덕 정체",
-          "link": "https://blog.naver.com/dusdkcydl/224379208793",
-          "blogger": "내일도 맑음 :)",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "“부동산정책이 시장 이기나” 묻자 김윤덕 장관 “예”...2020년 김....",
-          "link": "https://blog.naver.com/koolap/224375605486",
-          "blogger": "뉴스 한상",
-          "date": "2026-08-11"
-        },
-        {
-          "title": "김윤덕 “주택이 빵이라면 밤새 찍겠다”…추가 부동산 공급 대책 ....",
-          "link": "https://blog.naver.com/xenos27/224375597334",
-          "blogger": "xenos27님의 블로그",
-          "date": "2026-08-12"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "김윤덕 국토부장관 \"용산공원 전체 개발 아니다...훼손 부지 검토\"",
-          "link": "https://www.ytn.co.kr/_ln/0101_202608200315067717",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "황운하 의원, 서울 도심 공공부지 활용 청년·무주택자용 공공주택 공급...",
-          "link": "https://www.newstnt.com/news/articleView.html?idxno=714510",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "[한국은 지금] 국토장관 \"용산공원 전체에 주택짓지 않아\"…‘용산공원...",
-          "link": "https://www.voakorea.com/a/korea-now-081926/8188123.html",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "오세훈·유의동 ‘용산 방어선’… 與 “국토부가 그냥 밀고 갈수 있다...",
-          "link": "https://www.chosun.com/politics/politics_general/2026/08/20/C2UESHMFSRGE5AZ3BUSFHFBRZM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "오늘 김윤덕-오세훈 회동...'용산 공급' 조율 불투명",
-          "link": "https://www.ytn.co.kr/_ln/0101_202608200040515676",
-          "press": "",
-          "date": "2026-08-19"
-        }
-      ],
-      "rank": 5
     },
     {
       "keyword": "어우홍",
@@ -438,14 +365,14 @@
           "date": "2026-08-19"
         }
       ],
-      "rank": 6
+      "rank": 5
     },
     {
       "keyword": "비트코인",
       "traffic": "100+",
-      "blogTotal": 937553,
-      "newsTotal": 775680,
-      "recentToday": 25,
+      "blogTotal": 937555,
+      "newsTotal": 775686,
+      "recentToday": 17,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -453,6 +380,12 @@
           "link": "https://blog.naver.com/vitamin2230/224370078008",
           "blogger": "REONE P&I",
           "date": "2026-08-07"
+        },
+        {
+          "title": "반토막 난 비트코인, 사람들은 왜 떠났을까?",
+          "link": "https://blog.naver.com/bizzo21/224379383150",
+          "blogger": "우팸의 머니스토리",
+          "date": "2026-08-15"
         },
         {
           "title": "바이낸스 가입방법 총정리, 2027년 비트코인 세금 전에 꼭 알아둘 것",
@@ -471,42 +404,109 @@
           "link": "https://blog.naver.com/zkfldb888/224378424629",
           "blogger": "주식하는 남자 쿠니네",
           "date": "2026-08-14"
-        },
-        {
-          "title": "비트코인 연도별 시세 가격변화 차트",
-          "link": "https://blog.naver.com/akdnsxlds/224313677403",
-          "blogger": "돈되는 재테크 노트",
-          "date": "2026-06-15"
         }
       ],
       "topNews": [
         {
-          "title": "140만달러 피해 마야 프로토콜 네트워크 중단",
-          "link": "https://www.tokenpost.kr/news/breaking/393639",
+          "title": "즈바오, 현금 없이 비트코인 2380개로 2184억원 조달…이사회 4석 새 주...",
+          "link": "https://www.wikitree.co.kr/articles/1153509",
           "press": "",
           "date": "2026-08-19"
         },
         {
-          "title": "워시, 연준 정책회의 축소 추진 보도",
-          "link": "https://www.tokenpost.kr/news/breaking/393637",
+          "title": "마야 프로토콜, 170만달러 익스플로잇 뒤 운영 중단",
+          "link": "https://www.tokenpost.kr/news/breaking/393647",
           "press": "",
           "date": "2026-08-19"
         },
         {
-          "title": "2억6077만달러 유입, 블랙록 ETF가 주도했다",
-          "link": "https://www.tokenpost.kr/news/cryptocurrency/393635",
+          "title": "19억달러 청산, 비트코인 급등에 숏 정리",
+          "link": "https://www.tokenpost.kr/news/breaking/393645",
           "press": "",
           "date": "2026-08-19"
         },
         {
-          "title": "블랙록, 비트코인 50% 급락에도 “포지셔닝 교정일 뿐”이라며 투자 논...",
-          "link": "https://www.wikitree.co.kr/articles/1153504",
+          "title": "1억4360만달러 IBIT 유입, DEFI 청산 절차",
+          "link": "https://www.tokenpost.kr/news/cryptocurrency/393644",
           "press": "",
           "date": "2026-08-19"
         },
         {
-          "title": "수요 적자 5000 BTC 근접, 비트코인 현물은 엇갈렸다",
-          "link": "https://www.tokenpost.kr/news/cryptocurrency/393633",
+          "title": "비트코인 7만달러 근접, 숏 청산 사상 최대 보도",
+          "link": "https://www.tokenpost.kr/news/breaking/393642",
+          "press": "",
+          "date": "2026-08-19"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "keyword": "배우 김정은",
+      "traffic": "100+",
+      "blogTotal": 3493,
+      "newsTotal": 56145,
+      "recentToday": 12,
+      "recentWeek": 89,
+      "topBlogs": [
+        {
+          "title": "파리의 연인 김정은 이동건, 22년만에 밝혀진 명대사와 노래의 비밀(....",
+          "link": "https://blog.naver.com/treewg/224351250754",
+          "blogger": "나무처럼",
+          "date": "2026-07-19"
+        },
+        {
+          "title": "배우 김정은 프로필 남편 나이 자녀, 미스코리아 집안 재벌설의 진....",
+          "link": "https://blog.naver.com/diacpqpqp/224351099446",
+          "blogger": "K 에디트",
+          "date": "2026-07-19"
+        },
+        {
+          "title": "남편 직업 재력 화제, 배우 김정은 집안 만만치 않아",
+          "link": "https://blog.naver.com/everythingforyou/224350806974",
+          "blogger": "투데이 스타 이슈♡",
+          "date": "2026-07-19"
+        },
+        {
+          "title": "김정은 배우 프로필/결혼/자녀/배우자/남편/집안",
+          "link": "https://blog.naver.com/0miyoung/224351090501",
+          "blogger": "noble story❤",
+          "date": "2026-07-19"
+        },
+        {
+          "title": "\"부자되세요\" 외쳤던 배우 김정은...나이·남편·집안 알고 보니 진짜....",
+          "link": "https://blog.naver.com/pan6606/224329796197",
+          "blogger": "아윌리치 Y",
+          "date": "2026-06-28"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "빛 잃은 소녀여, 희망은 아직 있다",
+          "link": "https://www.chosun.com/culture-life/performance-arts/2026/08/20/KXBX4PENDZB53LAXFXHULKCTZQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "김정은 \"남편, 나 만난 지 한 달 만에 프러포즈\"",
+          "link": "https://www.newsis.com/view/NISX20260819_0003754230",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "서울시醫의료봉사단·선한의료포럼, 필리핀서 의료봉사 진행",
+          "link": "http://www.doctorstimes.com/news/articleView.html?idxno=239592",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "'신랑수업2' 김정은 일본 온천 여행",
+          "link": "https://www.cbci.co.kr/news/articleView.html?idxno=599238",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "독립영화인들 홀린 제13회 목포국도1호선독립영화제 '하선'",
+          "link": "https://www.womennews.co.kr/news/articleView.html?idxno=281188",
           "press": "",
           "date": "2026-08-19"
         }
@@ -514,83 +514,10 @@
       "rank": 7
     },
     {
-      "keyword": "서승재",
-      "traffic": "100+",
-      "blogTotal": 3988,
-      "newsTotal": 13228,
-      "recentToday": 15,
-      "recentWeek": 43,
-      "topBlogs": [
-        {
-          "title": "[천안 근교 계곡] 진천 연곡가든 2번째 방문! 진천선수촌 맛집에서 ....",
-          "link": "https://blog.naver.com/heejaezip/224370411819",
-          "blogger": "heejaezip",
-          "date": "2026-08-06"
-        },
-        {
-          "title": "[배드민턴/2026 일본오픈] \"복수혈전 돌입!\" 세계 1위 서승재·김원호 ....",
-          "link": "https://blog.naver.com/jarajaja/224350139498",
-          "blogger": "별구름네 다락방",
-          "date": "2026-07-18"
-        },
-        {
-          "title": "배드민턴 일본오픈 남자복식 서승재 김원호 결승 결과ㅣBWF 인도네....",
-          "link": "https://blog.naver.com/seoyoon5312/224351256101",
-          "blogger": "민친자 (배드민턴에 미친자)",
-          "date": "2026-07-19"
-        },
-        {
-          "title": "\"서승재 김원호 올 시즌 슈퍼1000 3회 우승\" , 중국오픈이 4번째 될까?",
-          "link": "https://blog.naver.com/allpet11/224356938707",
-          "blogger": "allpet11님의 블로그",
-          "date": "2026-07-24"
-        },
-        {
-          "title": "대한민국 배드민턴 선수 서승재(프로필,스타일,경력 등)",
-          "link": "https://blog.naver.com/mistermy18/224351091140",
-          "blogger": "H2의 스포츠와 여행",
-          "date": "2026-07-19"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "'38분 만의 완파' 서승재-김원호 세계선수권 산뜻한 출발...4개 대회 부진...",
-          "link": "http://www.maniareport.com/view.php?ud=2026081911031461776cf2d78c68_19",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "아시안게임 '최강' 안세영 뜬다…배드민턴, 24년 만의 최고 성적 겨냥",
-          "link": "http://www.gndomin.com/news/articleView.html?idxno=485905",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "'복식은 세계최강인데' 초라한 男 단식, 1R서 전원 탈락... 배드민턴 세...",
-          "link": "https://www.starnewskorea.com/sports/2026/08/19/2026081914022162928",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "배드민턴 남자복식 서승재·김원호, 세계선수권 1회전 통과",
-          "link": "https://imnews.imbc.com/news/2026/sports/article/6845791_36946.html",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "서승재-김원호, 세계선수권 32강서 일본 조 꺾고 쾌조의 시작",
-          "link": "https://www.joongangenews.com/news/articleView.html?idxno=541096",
-          "press": "",
-          "date": "2026-08-19"
-        }
-      ],
-      "rank": 8
-    },
-    {
       "keyword": "비트코인 시세",
       "traffic": "100+",
       "blogTotal": 52938,
-      "newsTotal": 164225,
+      "newsTotal": 164226,
       "recentToday": 10,
       "recentWeek": 100,
       "topBlogs": [
@@ -627,6 +554,12 @@
       ],
       "topNews": [
         {
+          "title": "즈바오, 현금 없이 비트코인 2380개로 2184억원 조달…이사회 4석 새 주...",
+          "link": "https://www.wikitree.co.kr/articles/1153509",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
           "title": "블랙록, 비트코인 50% 급락에도 “포지셔닝 교정일 뿐”이라며 투자 논...",
           "link": "https://www.wikitree.co.kr/articles/1153504",
           "press": "",
@@ -649,83 +582,150 @@
           "link": "https://www.khgames.co.kr/news/articleView.html?idxno=307482",
           "press": "",
           "date": "2026-08-19"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "keyword": "브레이브스 대 트윈스",
+      "traffic": "2000+",
+      "blogTotal": 0,
+      "newsTotal": 450,
+      "recentToday": 0,
+      "recentWeek": 0,
+      "topBlogs": [
+        {
+          "title": "[KBO] LG 트윈스 카를로스 카라스코 프로필 | 112승 MLB 다승왕 구종 및 ....",
+          "link": "https://blog.naver.com/leeju0319/224367426231",
+          "blogger": "일상 리뷰 블로그",
+          "date": "2026-08-04"
         },
         {
-          "title": "스트레티지 13.87% 상승, AI 인프라주는 하락",
-          "link": "https://www.tokenpost.kr/news/market/393550",
+          "title": "오늘의 스포츠 연예 소식 야구 축구 농구 배구 골프 2018년 7월 23일",
+          "link": "https://blogkoreas.tistory.com/2088",
+          "blogger": "Total 컨설턴트",
+          "date": "2018-07-23"
+        },
+        {
+          "title": "오승환 1이닝 3k 퍼팩트 삼진 쇼, 6경기 연속 무실점, 2경기 연속 무안....",
+          "link": "https://campingbox.tistory.com/896",
+          "blogger": "가라미의 세상 이야기",
+          "date": "2016-05-18"
+        },
+        {
+          "title": "2025년 4월 14일(월) [미국시간], MLB 주요 경기 결과와 리그 상황",
+          "link": "https://arthealing.tistory.com/1155",
+          "blogger": "침선생의 九思實事求",
+          "date": "2025-04-16"
+        },
+        {
+          "title": "키움 히어로즈는 왜 메이저리거가 많을까? 역대 빅리거 6명 총정리",
+          "link": "https://blog.naver.com/hjhhjh1357/224376429970",
+          "blogger": "야구소식",
+          "date": "2026-08-12"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "'MLB 150년 사상 최악' 대굴욕 쓴 김하성, 전력에서 완전 배제됐나…'타...",
+          "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553470511",
           "press": "",
           "date": "2026-08-19"
+        },
+        {
+          "title": "MLB 이정후는 휴식, 송성문·김하성은 연이틀 나란히 결장",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008711595&plink=ORI&cooper=NAVER",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "경쟁자 잇단 부진, 그래도 김하성 차례는 없다…MIN전 벤치 관전, ATL 1:4...",
+          "link": "https://www.sportschosun.com/baseball/2026-08-19/202608190100110400007010",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "'타율 0.066' 김하성, 지독하게도 외면받은 반등의 기회…ATL, MIN에 패배",
+          "link": "https://www.sportschosun.com/baseball/2026-08-18/202608180100102540006510",
+          "press": "",
+          "date": "2026-08-18"
+        },
+        {
+          "title": "'203cm 장신+사이드암급 낮은 팔각도' LG 새 외인 정체는?…염경엽 감독...",
+          "link": "https://www.xportsnews.com/article/2184536",
+          "press": "",
+          "date": "2026-08-17"
         }
       ],
       "rank": 9
     },
     {
-      "keyword": "연애",
-      "traffic": "2000+",
-      "blogTotal": 1646611,
-      "newsTotal": 1588422,
+      "keyword": "세제",
+      "traffic": "100+",
+      "blogTotal": 1084167,
+      "newsTotal": 1165559,
       "recentToday": 0,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "\"진짜 자퇴하나..\" 불량연애2 교칙위반 방송 후 불거진 퇴학설의 진....",
-          "link": "https://blog.naver.com/pyw2429/224377147591",
-          "blogger": "경제왕 킹왕짱",
-          "date": "2026-08-13"
+          "title": "아기세제 추천, 네이처러브메레 아기세탁세제 계속 쓰는 이유",
+          "link": "https://blog.naver.com/lwr0509/224371167222",
+          "blogger": "간호사엄마의 건강수첩",
+          "date": "2026-08-07"
         },
         {
-          "title": "내남은 연애 2화(2회) 리뷰 착각속에 엇갈리는 마음들(출연자8명 병....",
-          "link": "https://blog.naver.com/qhrfks1004/224374785854",
-          "blogger": "♥라니의 달콤한세상이야기♥",
-          "date": "2026-08-11"
+          "title": "실거주 예외 인정 기준과 부동산 세제 개편 핵심 쟁점",
+          "link": "https://blog.naver.com/vitamin2230/224372788549",
+          "blogger": "REONE P&I",
+          "date": "2026-08-09"
         },
         {
-          "title": "연애전쟁 7회, 정치부터 종교까지 모든게 다른 커플 등장",
-          "link": "https://blog.naver.com/thdms09876/224368689095",
-          "blogger": "ღ'ᴗ'ღ",
-          "date": "2026-08-05"
+          "title": "2026 세제개편안 1주택자 라도 \"이런 집 전세 주면\" 종부세 대상!",
+          "link": "https://blog.naver.com/yong28099/224370999963",
+          "blogger": "썸데이 인포",
+          "date": "2026-08-07"
         },
         {
-          "title": "연애전쟁 7회 극과 극 커플 등장! 이효리가 말한 3번 참는 연애의 결....",
-          "link": "https://blog.naver.com/zioziaaa/224368788475",
-          "blogger": "형곡동 영수학원054)455 9885",
-          "date": "2026-08-05"
+          "title": "섬유유연제 없이 향기로운 선데이서즈 캡슐세제 수건빨래, 수영복 ....",
+          "link": "https://blog.naver.com/fks6931/224351821014",
+          "blogger": "사진일기✿",
+          "date": "2026-07-20"
         },
         {
-          "title": "INTJ 남자 연애 스타일 및 궁합 | 본인이 직접 쓴 INTJ 특징",
-          "link": "https://blog.naver.com/darame0422/224300461559",
-          "blogger": "인생은 가챠 아닐까",
-          "date": "2026-05-29"
+          "title": "[쇼핑] 신생아 첫 빨래! 마더케이 신생아 세제 풀세트 사용 후기",
+          "link": "https://blog.naver.com/ganglog26/224372457596",
+          "blogger": "Better than Yesterday",
+          "date": "2026-08-08"
         }
       ],
       "topNews": [
         {
-          "title": "* 8월 20일 오늘의 운세 *",
-          "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=314893",
+          "title": "\"월셋방 70만원, 이마저도 매물 뚝\"...서러운 대학생, 고시원 우르르",
+          "link": "https://www.mt.co.kr/society/2026/08/20/2026081920004343867",
           "press": "",
           "date": "2026-08-19"
         },
         {
-          "title": "트렌드지(TRENDZ), ‘아듀솔로’ OST 참여···전곡 가창+작사까지 넓어...",
-          "link": "https://sports.khan.co.kr/article/202608200243003?pt=nv",
+          "title": "[기자수첩] 병원도 주차장처럼 '가업상속 공제 제외'…지역의료는 심사...",
+          "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=270995",
           "press": "",
           "date": "2026-08-19"
         },
         {
-          "title": "[오늘의 띠별 운세] 2026년 8월 20일 목요일",
-          "link": "https://www.ppss.kr/news/articleView.html?idxno=306293",
+          "title": "요즘 ‘캡슐세제’ 쓰는 사람들 많은데…“1회 세탁비 최대 6배 차이났...",
+          "link": "https://www.sedaily.com/article/20081095?ref=naver",
           "press": "",
           "date": "2026-08-19"
         },
         {
-          "title": "장동건♥고소영 \"둘만 있으면 어색해 동반 광고 찍어\"...16년 차 부부의...",
-          "link": "https://www.insight.co.kr/news/568832",
+          "title": "시중 판매 캡슐형 세탁 세제, 성능 및 가격 천차만별",
+          "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260819.99099005269",
           "press": "",
           "date": "2026-08-19"
         },
         {
-          "title": "[오늘의 운세] 띠별 운세, 호랑이띠의 8월 20일 운세가 전하는 메시지 공...",
-          "link": "https://www.joongangenews.com/news/articleView.html?idxno=541188",
+          "title": "국민의힘 서명옥·신동욱 의원 등 6인, '부동산 세제개편안 진단 토론회...",
+          "link": "https://weeklytrade.co.kr/news/view.html?section=1&category=160&item=&no=101100",
           "press": "",
           "date": "2026-08-19"
         }
