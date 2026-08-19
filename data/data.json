@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-19T05:26:41.526Z",
+  "updatedAt": "2026-08-19T05:56:18.056Z",
   "source": "live",
   "keywords": [
     {
       "keyword": "공동 명의",
       "traffic": "1000+",
-      "blogTotal": 80580,
-      "newsTotal": 206639,
+      "blogTotal": 80584,
+      "newsTotal": 206643,
       "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
@@ -43,32 +43,32 @@
       ],
       "topNews": [
         {
+          "title": "공기업 돈 떼먹은 이영복... 수백억대 차명 부동산 소유 의혹",
+          "link": "https://newstapa.org/article/h67Fq",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "종부세 '공동명의=2주택' 논란…정부 \"사실과 달라\"",
+          "link": "https://dealsite.co.kr/articles/167473",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "필리핀, AI·반도체 공급망 전초기지로 부상…Pax Silica 경제안보구역 ...",
+          "link": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=100&CONTENTS_NO=1&bbsGbn=322&bbsSn=322&pNttSn=243452",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "장애인 주차표지 차량번호 바꿨다가…'공문서 위조' 혐의로 처벌받나요...",
+          "link": "https://lawtalknews.co.kr/article/P2ZLGKPYREGO",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
           "title": "공공기관 2차 지방이전 폭풍전야… 금융권 단체행동 본격화",
           "link": "https://www.newscj.com/news/articleView.html?idxno=3426290",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "세무법인 리치, 무료 보유세 계산 서비스 출시",
-          "link": "https://www.mk.co.kr/article/12131089",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "투자금인가 대여금인가… 정원주 회장의 넷온 6억 자금 거래, 피고소 악...",
-          "link": "https://www.upkoreanews.kr/news/articleView.html?idxno=99830",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "'케스파컵' 최대 반전 DN 수퍼스 '2026 LoL KeSPA CUP' 최종 우승",
-          "link": "https://gamefocus.co.kr/detail.php?number=178334",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "가덕도신공항, 중견건설사들 빠져나간다…대우건설 사업 차질 우려↑",
-          "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=270983",
           "press": "",
           "date": "2026-08-19"
         }
@@ -78,8 +78,8 @@
     {
       "keyword": "하이닉스 주가",
       "traffic": "2000+",
-      "blogTotal": 92494,
-      "newsTotal": 59574,
+      "blogTotal": 92502,
+      "newsTotal": 59575,
       "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
@@ -116,6 +116,12 @@
       ],
       "topNews": [
         {
+          "title": "SK하이닉스 9%대 급락…150만원선까지 밀리며 반도체 투심 흔들",
+          "link": "https://www.job-post.co.kr/news/articleView.html?idxno=224400",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
           "title": "외인ㆍ기관 4.5조 매도에 코스피 6500선 아래로⋯삼전닉스 7~8%↓",
           "link": "https://www.etoday.co.kr/news/view/2615943",
           "press": "",
@@ -138,83 +144,77 @@
           "link": "https://www.seoul.co.kr/news/economy/securities/2026/08/19/20260819500102?wlog_tag3=naver",
           "press": "",
           "date": "2026-08-19"
-        },
-        {
-          "title": "“AI 메모리 없어서 못 판다더니 왜?”…美 ‘지금 사야 할 10대 주식’...",
-          "link": "https://www.mk.co.kr/article/12130977",
-          "press": "",
-          "date": "2026-08-19"
         }
       ],
       "rank": 2
     },
     {
-      "keyword": "환율",
-      "traffic": "2000+",
-      "blogTotal": 816841,
-      "newsTotal": 2407902,
-      "recentToday": 100,
+      "keyword": "민방위",
+      "traffic": "200+",
+      "blogTotal": 42192,
+      "newsTotal": 132882,
+      "recentToday": 76,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "엔화환율 100엔 800원대, 지금 환전해도 될까?",
-          "link": "https://blog.naver.com/hwre7774/224378280846",
-          "blogger": "워누공간의 블로그",
-          "date": "2026-08-14"
+          "title": "8월 20일 오후 2시 전국 동시 민방위 훈련 실시!",
+          "link": "https://blog.naver.com/hongane2013/224376201813",
+          "blogger": "순천시 공식블로그",
+          "date": "2026-08-12"
         },
         {
-          "title": "일본 엔화 환율 전망과 환전 방법 총정리 — 지금 엔화 사도 될까",
-          "link": "https://blog.naver.com/kwakdongnam/224377514070",
-          "blogger": "만점경제",
-          "date": "2026-08-13"
+          "title": "8월 20일 '민방위 훈련 전국 동시 실시'｜오후 2시부터 20분간",
+          "link": "https://blog.naver.com/hi_kosti/224374287521",
+          "blogger": "무역안보관리원",
+          "date": "2026-08-10"
         },
         {
-          "title": "엔화 환율 100엔 888원 일본환율 미국환율 왜 같이 내렸나",
-          "link": "https://blog.naver.com/babydreamer5/224375272146",
-          "blogger": "영어뉴스와 미드영어",
-          "date": "2026-08-11"
+          "title": "[서울시] 2026년 8월 20일 민방위 훈련 안내",
+          "link": "https://blog.naver.com/toktokseoul/224374188831",
+          "blogger": "서울신용보증재단 공식블로그 :: 톡톡 서울",
+          "date": "2026-08-10"
         },
         {
-          "title": "엔화 환율 800원대, 일본여행 환전 지금 해도 될까?",
-          "link": "https://blog.naver.com/fortune537/224377583822",
-          "blogger": "내가 보는 세상",
-          "date": "2026-08-13"
+          "title": "8월 20일 오후 2시 전국 민방위 훈련 실시! 공습경보가 울리면 이렇게....",
+          "link": "https://blog.naver.com/daegu_namgu/224373930000",
+          "blogger": "대구 남구청 공식 블로그",
+          "date": "2026-08-10"
         },
         {
-          "title": "베트남 동 환율 계산법, 머니박스 환전 꿀팁 정리",
-          "link": "https://blog.naver.com/mrmold/224372852003",
-          "blogger": "디셈버의 gazette",
-          "date": "2026-08-09"
+          "title": "8월 공습대비 민방위 훈련 실시 대피 요령 미리 확인하세요!",
+          "link": "https://blog.naver.com/cbe_news/224373715616",
+          "blogger": "충청북도교육청 공식 블로그",
+          "date": "2026-08-10"
         }
       ],
       "topNews": [
         {
-          "title": "\"돈 벌어 이자 내기도 벅차다?…순이익 반토막 난 CJ, 뼈아픈 'CJ제일제...",
-          "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=272004",
+          "title": "전남광주소방, \"사이렌 울리면 양보를\"…20일 도심 27곳서 훈련",
+          "link": "https://daily.hankooki.com/news/articleView.html?idxno=1397088",
           "press": "",
           "date": "2026-08-19"
         },
         {
-          "title": "환율 1300원대로 떨어져…미국 금리인상 가능성 하락 때문 [머니뭐니]",
-          "link": "https://biz.heraldcorp.com/article/10845438?ref=naver",
+          "title": "오산시, '2026 을지연습' 시청 테러·폭발 대응훈련 실시",
+          "link": "https://www.m-i.kr/news/articleView.html?idxno=1403689",
           "press": "",
           "date": "2026-08-19"
         },
         {
-          "title": "오늘 금시세(금값) 다시 폭락... 전문가들이 한목소리로 지목한 금가격...",
-          "link": "https://www.wikitree.co.kr/articles/1153397",
+          "title": "당진소방서, 20일 소방차 길 터주기 훈련",
+          "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2434978",
           "press": "",
           "date": "2026-08-19"
         },
         {
-          "title": "\"6개월 만에 1년치 벌었다\" 동원수산, 영업익 81억·순익 75억 달성",
-          "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=726438",
+          "title": "당진시, 2026년 을지연습으로 국가 비상대비태세 확립",
+          "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2434976",
           "press": "",
           "date": "2026-08-19"
         },
         {
-          "title": "46조 법인세 납부전 원화 강세 베팅…외인 주식 2조 팔아도 1,400원 붕괴",
-          "link": "https://biz.sbs.co.kr/article_hub/20000329485?division=NAVER",
+          "title": "창원해경, 21일까지 을지연습…비상 대응능력 점검",
+          "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5052781",
           "press": "",
           "date": "2026-08-19"
         }
@@ -222,84 +222,11 @@
       "rank": 3
     },
     {
-      "keyword": "이혼",
-      "traffic": "1000+",
-      "blogTotal": 1835468,
-      "newsTotal": 1161520,
-      "recentToday": 100,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "김상혁 이혼 후 소개팅 전아영 인스타 프로필 나이 직업 재혼 가능....",
-          "link": "https://blog.naver.com/jelita_o/224372183332",
-          "blogger": "리타 : 리뷰 타임",
-          "date": "2026-08-08"
-        },
-        {
-          "title": "[이혼숙려캠프 진실공방] 위자료 5천만 원의 결말, 끝내 이혼을 선택....",
-          "link": "https://blog.naver.com/zioziaaa/224349315445",
-          "blogger": "형곡동 영수학원054)455 9885",
-          "date": "2026-07-17"
-        },
-        {
-          "title": "이혼숙녀캠프 보면서 너무 슬펐던 장면 “코인부부”의 둘째 차별",
-          "link": "https://blog.naver.com/thdms09876/224373023480",
-          "blogger": "ღ'ᴗ'ღ",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "이혼 후 양육비 2026 산정표 선지급제 기준 확인해두기",
-          "link": "https://blog.naver.com/nabbeneye2/224330297288",
-          "blogger": "깐따의 재테크",
-          "date": "2026-06-29"
-        },
-        {
-          "title": "드라마 결혼작사 이혼작곡3 정보 줄거리 결말 관전포인트 박주미 이....",
-          "link": "https://blog.naver.com/carismacjy/224348049627",
-          "blogger": "무비 내비게이터",
-          "date": "2026-07-16"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "최태원 회장이 잃은 것…9440억보다 무거운 'SK 총수의 서사'[신지훈의 ...",
-          "link": "https://www.newsway.co.kr/news/view?ud=2026081913543875058",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "김혜수, 파국 카운트다운 ‘멘붕’…드라마는 3주 연속 1위 ‘대폭주’",
-          "link": "https://www.sportsseoul.com/news/read/1629448?ref=naver",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "임상아. '올리비아 핫세' 닮은 딸과 한국 근황...\"김치찜 먹고 지하철 엠...",
-          "link": "http://www.osen.co.kr/article/G1112859786",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "\"내가 밥해주는 식모인가\"... 맞벌이 저녁밥 갈등에 결국 이혼 고민하는...",
-          "link": "https://www.insight.co.kr/news/568956",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "아이들은 자정까지 학원 뺑뺑이…아내 휴대폰엔 \"자기야, 오늘도 그 시...",
-          "link": "https://www.mt.co.kr/society/2026/08/19/2026081914020644955",
-          "press": "",
-          "date": "2026-08-19"
-        }
-      ],
-      "rank": 4
-    },
-    {
       "keyword": "레이디 제인",
-      "traffic": "200+",
-      "blogTotal": 7825,
-      "newsTotal": 43124,
-      "recentToday": 64,
+      "traffic": "500+",
+      "blogTotal": 7833,
+      "newsTotal": 43125,
+      "recentToday": 72,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -335,6 +262,12 @@
       ],
       "topNews": [
         {
+          "title": "'동상이몽2', 이현이 삼전 주식 5만원대 보유 비결은 '망각'",
+          "link": "https://www.joongangenews.com/news/articleView.html?idxno=541030",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
           "title": "레이디제인·임현태, 어쩌나…쌍둥이 딸 \"하위 2%\" '발달 지연' 판정→전...",
           "link": "https://www.tvreport.co.kr/entertainment/article/1069759/",
           "press": "",
@@ -357,10 +290,77 @@
           "link": "https://www.newsis.com/view/NISX20260819_0003753925",
           "press": "",
           "date": "2026-08-19"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "keyword": "dior",
+      "traffic": "100+",
+      "blogTotal": 76163,
+      "newsTotal": 21872,
+      "recentToday": 17,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "엄마 생일선물 명품백 추천｜디올 카로백 미디움 Dior Caro Bag 후기 & ....",
+          "link": "https://blog.naver.com/imnuvin/224327535900",
+          "blogger": "Nuvinus",
+          "date": "2026-06-26"
         },
         {
-          "title": "레이디제인♥임현태, \"쌍둥이 하버드 보낼 것\" 큰소리쳤지만",
-          "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=87187",
+          "title": "[Dior] 디올 로지 글로우 106 포멜로 / 루즈 블러쉬 캔디플로스 비교",
+          "link": "https://blog.naver.com/sobi_note/224329090596",
+          "blogger": "소비 기록",
+          "date": "2026-06-27"
+        },
+        {
+          "title": "Dior Homme 리뷰",
+          "link": "https://blog.naver.com/scentiary107/224313085825",
+          "blogger": "scentiary",
+          "date": "2026-06-11"
+        },
+        {
+          "title": "디올 어딕트 립스틱 [Dior 8] 선물 받은 솔직후기",
+          "link": "https://blog.naver.com/qwe70500/224356631015",
+          "blogger": "응또의 맛집소개",
+          "date": "2026-07-24"
+        },
+        {
+          "title": "[발색] 디올 디올쇼5꿀뢰르 151 마시멜로 / Dior Dior show 5 Couleurs 151Marshm....",
+          "link": "https://blog.naver.com/gundol1233/224280717238",
+          "blogger": "-",
+          "date": "2026-06-01"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "Blackpink's Jisoo mourns Dior PR director Mathilde Favier after fatal cra...",
+          "link": "https://www.koreajoongangdaily.com/entertainment/blackpinks-jisoo-mourns-dior-pr-director-mathilde-favier-after-fatal-crash/12831635",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "'지수의 파리 엄마' 디올 홍보책임자 교통사고死…지수 '애도'",
+          "link": "https://www.news1.kr/world/europe/6262638",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "[포토] 블랙핑크 지수의 '파리 엄마' 디올 마틸드 사망",
+          "link": "https://www.news1.kr/photos/8061691",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "“작별 힘들어...당신이 그리울 것” 블랙핑크 지수가 올린 장문의 추모...",
+          "link": "https://www.wikitree.co.kr/articles/1153292",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "블랙핑크 지수와 각별했는데…디올 홍보책임자 '파리 엄마' 사망",
+          "link": "https://www.hankyung.com/article/202608198799H",
           "press": "",
           "date": "2026-08-19"
         }
@@ -368,156 +368,10 @@
       "rank": 5
     },
     {
-      "keyword": "무덤",
-      "traffic": "500+",
-      "blogTotal": 240508,
-      "newsTotal": 245129,
-      "recentToday": 49,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "원신 궁전과 무덤 하얀 왕관의 꿈, 궁전의 야수, 하얀 자작나무 무덤....",
-          "link": "https://blog.naver.com/12512512/224378905275",
-          "blogger": "피스타임 블로그",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "무덤이 열린 뒤부터 시작된 이야기, 투탕카멘의 저주",
-          "link": "https://blog.naver.com/curiousarchive/224365152047",
-          "blogger": "기이한 기록보관소",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "[남프랑스여행] 생폴드방스 (2) 마르크샤갈무덤 샤갈이사랑한도시",
-          "link": "https://blog.naver.com/cleanrred/224373388784",
-          "blogger": "케세라님의 블로그",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "죽임꿈, 무덤꿈, 관꿈, 시신꿈, 살인꿈, 사형수꿈",
-          "link": "https://blog.naver.com/girimsaju/224316505289",
-          "blogger": "기림(基臨)철학원 / 작명원",
-          "date": "2026-06-15"
-        },
-        {
-          "title": "코모도왕도마뱀이 사람 무덤을 파헤치는 이유",
-          "link": "https://blog.naver.com/wilddog33/224349439618",
-          "blogger": "☀️해피❤️러비☀️Feliznury",
-          "date": "2026-07-17"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "트럼프, 캐나다 50% 관세 돌연 중단…송유관 사업 부활 가능성↑",
-          "link": "https://www.nocutnews.co.kr/news/6564833?utm_source=naver&utm_medium=article&utm_campaign=20260819022431",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "미·캐나다 관세 협상 막판 진전... 트럼프, 50% 관세 사흘 유예",
-          "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003260243&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "“50% 관세 때리겠다더니 돌연?”…트럼프, 캐나다에 ‘사흘 유예’ 왜",
-          "link": "https://www.mk.co.kr/article/12131069",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "모탈 셸 2·싱킹 시티 2·루미나리에 엔비디아 DLSS 적용",
-          "link": "https://www.gamemeca.com/mv.php?inflow=naver_s&gid=1779269",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "트럼프 \"캐나다 50% 관세 일시 중단\"⋯양측 무역합의 근접",
-          "link": "https://www.etoday.co.kr/news/view/2615954",
-          "press": "",
-          "date": "2026-08-19"
-        }
-      ],
-      "rank": 6
-    },
-    {
-      "keyword": "1달러",
-      "traffic": "200+",
-      "blogTotal": 51949,
-      "newsTotal": 152507,
-      "recentToday": 23,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "수서역 지하철 맛집 '디트로이트 1달러 피자', 청양마요 소세지 피자....",
-          "link": "https://blog.naver.com/jinjinjin920/224366957118",
-          "blogger": "직장인 취미생활 블로그",
-          "date": "2026-08-03"
-        },
-        {
-          "title": "사당역 디트로이트 1달러 피자 (치즈/갈릭포테이토) 내돈내산 후기",
-          "link": "https://blog.naver.com/hypark0315/224362341323",
-          "blogger": "하요미식회",
-          "date": "2026-07-30"
-        },
-        {
-          "title": "교대역 지하철, 디트로이트 1달러피자, 메뉴종류, 솔직후기",
-          "link": "https://blog.naver.com/hyojeong9539/224315592744",
-          "blogger": "윤둥순의 나들이 ♡",
-          "date": "2026-06-14"
-        },
-        {
-          "title": "지하철 피자 디트로이트 1달러 피자 메뉴, 가격 당산역 맛집 방문기",
-          "link": "https://blog.naver.com/doli177/224301977495",
-          "blogger": "일상 먹방 리뷰",
-          "date": "2026-05-31"
-        },
-        {
-          "title": "[신림 맛집] 야장있는 가성비 피자 펍 혼밥 솔직후기 :: 1달러 디트로....",
-          "link": "https://blog.naver.com/yeasury/224371840366",
-          "blogger": "오늘의 스루",
-          "date": "2026-08-08"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "업비트 거래소에서 금일 가장 주목 받는 가상화폐는…",
-          "link": "https://www.khgames.co.kr/news/articleView.html?idxno=307471",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "비트코인닷컴 지갑, USDU 보유·송금 지원",
-          "link": "https://www.tokenpost.kr/news/cryptocurrency/393104",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "XRP 가격 약세에도 온체인 활발…활성 주소 24% 급증",
-          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694000",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "\"XRP 다 팔았나\" 질문에 답한 리플 전 CTO…현재 보유량은?",
-          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=693994",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "비트코인·이더리움·XRP, 반등 문턱 섰다…돌파해야 할 가격은",
-          "link": "http://coinreaders.com/253476",
-          "press": "",
-          "date": "2026-08-19"
-        }
-      ],
-      "rank": 7
-    },
-    {
       "keyword": "오타니 쇼헤이",
       "traffic": "500+",
       "blogTotal": 20720,
-      "newsTotal": 94393,
+      "newsTotal": 94396,
       "recentToday": 13,
       "recentWeek": 100,
       "topBlogs": [
@@ -554,6 +408,24 @@
       ],
       "topNews": [
         {
+          "title": "오타니, 6년 연속 30홈런 ‘기염’",
+          "link": "https://www.sedaily.com/article/20080882?ref=naver",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "오타니도 못한 ‘데뷔 시즌 30홈런’ 눈앞…무라카미, 시즌 29호 대형포...",
+          "link": "https://mhnse.com/news/articleView.html?idxno=1493884",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "오타니 6년 연속 30홈런 기록, 팀 승리도 견인",
+          "link": "https://www.stnsports.co.kr/news/articleView.html?idxno=321169",
+          "press": "",
+          "date": "2026-08-19"
+        },
+        {
           "title": "‘또 쳤어? 그럼 나도’ PCA-오타니, 나란히 홈런포 ‘NL MVP 경쟁 활활’",
           "link": "https://sports.donga.com/sports/article/all/20260819/134503078/1",
           "press": "",
@@ -564,100 +436,155 @@
           "link": "https://www.nocutnews.co.kr/news/6564793?utm_source=naver&utm_medium=article&utm_campaign=20260819014330",
           "press": "",
           "date": "2026-08-19"
-        },
-        {
-          "title": "'오타니 또 터졌다' 6년 연속 30홈런 대기록+라우어 승리+스캇 세이브…...",
-          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1002602",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "LA 다저스 오타니, 메이저리그 6년 연속 30홈런 달성",
-          "link": "https://www.chosun.com/sports/world-baseball/2026/08/19/NGCP7KTJ3VEHVD2554R6GLHSRY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "오타니, 6년 연속 30홈런 달성…다저스, 콜로라도에 7-6 승리",
-          "link": "http://www.stoo.com/article.php?aid=108396493789",
-          "press": "",
-          "date": "2026-08-19"
         }
       ],
-      "rank": 8
+      "rank": 6
     },
     {
-      "keyword": "hj중공업",
-      "traffic": "200+",
-      "blogTotal": 7356,
-      "newsTotal": 27208,
+      "keyword": "삼청교육대",
+      "traffic": "100+",
+      "blogTotal": 4256,
+      "newsTotal": 8782,
       "recentToday": 5,
-      "recentWeek": 52,
+      "recentWeek": 34,
       "topBlogs": [
         {
-          "title": "조선주 오르는데 HJ중공업 주가는 왜 다를까",
-          "link": "https://blog.naver.com/kohanmay/224379364916",
-          "blogger": "빠르게❌, 바르게 가는 투자",
-          "date": "2026-08-15"
+          "title": "삼청교육대 피해 보상 신청 조건은(+필요서류, 체크리스트)",
+          "link": "https://blog.naver.com/6421334/224340251363",
+          "blogger": "성수동맛집사냥꾼 성수로와",
+          "date": "2026-07-08"
         },
         {
-          "title": "HJ중공업 26년 하반기 주가 전망",
-          "link": "https://blog.naver.com/hyeon302/224370704218",
-          "blogger": "초록뉴스",
-          "date": "2026-08-09"
+          "title": "■삼청교육대 위자료 유족도 받을 수 있을까? (+최근판결,국가배상 ....",
+          "link": "https://blog.naver.com/emotion2631/224378722374",
+          "blogger": "세상의 모든 이야기",
+          "date": "2026-08-14"
         },
         {
-          "title": "군산조선소 제이오션중공업에 7800억 매각! 새 주인 맞고 재가동 청....",
-          "link": "https://blog.naver.com/hsh3464/224328725263",
-          "blogger": "동산MARKET",
-          "date": "2026-06-27"
+          "title": "삼청교육대 변호사 선임비 없이 소송 시작할 수 있을까?",
+          "link": "https://blog.naver.com/biorganic/224370202602",
+          "blogger": "Study with",
+          "date": "2026-08-06"
         },
         {
-          "title": "HJ중공업, 군산조선소 품고 재도약 : 대형 상선·미래 방산 시장 정조....",
-          "link": "https://blog.naver.com/pkhbd/224329022197",
-          "blogger": "세종한국부동산",
-          "date": "2026-06-27"
+          "title": "삼청교육대 죽음의 순화교육 피해자 유족 소송 가능",
+          "link": "https://blog.naver.com/click_blog/224370208835",
+          "blogger": "교육정보Story",
+          "date": "2026-08-06"
         },
         {
-          "title": "\"부채비율 747%에서 266%로, HJ중공업 부활의 조건\"",
-          "link": "https://blog.naver.com/happyhotel1/224368898657",
-          "blogger": "이야기 보물상자",
-          "date": "2026-08-05"
+          "title": "삼청교육대 무조건 받는 방법 451차 승소사례 4억1천만원 보상금 판....",
+          "link": "https://blog.naver.com/maga96/224347885263",
+          "blogger": "로밴드뉴스",
+          "date": "2026-07-15"
         }
       ],
       "topNews": [
         {
-          "title": "공사비 5조 넘게 올린 건설사들…치솟는 원가에 수익성 '비상'",
-          "link": "http://www.inews24.com/view/1996228",
+          "title": "'삼청교육대 10배 규모'... 법무부, 교도소 순화교육 진상조사 나서야",
+          "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003260133&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
           "press": "",
           "date": "2026-08-19"
         },
         {
-          "title": "가덕도신공항, 중견건설사들 빠져나간다…대우건설 사업 차질 우려↑",
-          "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=270983",
+          "title": "[법조브리핑] 종합특검 금주 20여명 ‘무더기 기소’ 전망 外",
+          "link": "https://www.segye.com/newsView/20260817517377?OutUrl=naver",
           "press": "",
-          "date": "2026-08-19"
+          "date": "2026-08-17"
         },
         {
-          "title": "BC카드·한경 제48회 KLPGA 챔피언십 공식 포토콜",
-          "link": "https://www.polinews.co.kr/news/articleView.html?idxno=740614",
+          "title": "[삶의 향기] 영혼의 상처에 대하여",
+          "link": "https://www.joongang.co.kr/article/25453985",
           "press": "",
-          "date": "2026-08-19"
+          "date": "2026-08-17"
         },
         {
-          "title": "평택ㆍ고양ㆍ목포 철도 차량기지 ‘속도전’",
-          "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608181357103720337",
+          "title": "삼청교육대에 10개월 불법구금…법원 \"국가가 8100만원 배상해야\"",
+          "link": "https://www.womennews.co.kr/news/articleView.html?idxno=281101",
           "press": "",
-          "date": "2026-08-19"
+          "date": "2026-08-17"
         },
         {
-          "title": "조선소에 '102억' 손배소송...사건은 '바로 여기서' 대역전 [여의도 Pick...",
-          "link": "https://news.mtn.co.kr/news-detail/2026081909085617200",
+          "title": "삼청교육대에 10개월 불법구금…法 \"국가가 8100만원 배상해야\"",
+          "link": "https://www.newsis.com/view/NISX20260814_0003750165",
           "press": "",
-          "date": "2026-08-19"
+          "date": "2026-08-16"
         }
       ],
-      "rank": 9
+      "rank": 7
+    },
+    {
+      "keyword": "f 35a",
+      "traffic": "1000+",
+      "blogTotal": 84,
+      "newsTotal": 90,
+      "recentToday": 0,
+      "recentWeek": 0,
+      "topBlogs": [
+        {
+          "title": "국방일보 밀리터리미니월드2 (35) - 2021.4.7",
+          "link": "https://kiwiman.tistory.com/2007",
+          "blogger": "키위맨의 모형 세상",
+          "date": "2021-04-07"
+        },
+        {
+          "title": "주요제품별 베트남 업체목록 8501-9000",
+          "link": "https://richcat.tistory.com/10073",
+          "blogger": "리치캣의 현재 그리고 미래",
+          "date": "2022-03-05"
+        },
+        {
+          "title": "미 공군, 무인 전투기의 가격은 2,000만 달러~4,000만 달러이며 2020년 ....",
+          "link": "https://worldhanryu.tistory.com/228",
+          "blogger": "이상튜브",
+          "date": "2023-03-31"
+        },
+        {
+          "title": "북한, 북-미 실무협상 재개 앞두고 '북극성' 발사",
+          "link": "https://argumentinkor.tistory.com/2924",
+          "blogger": "세상논란거리",
+          "date": "2019-10-02"
+        },
+        {
+          "title": "F-35A 스텔스기 28대, '엘리펀트 워크'…최고 수준 대응, 공군 F-35A 스....",
+          "link": "https://bumin2100.tistory.com/1317",
+          "blogger": "조은날,",
+          "date": "2022-04-24"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "[오동룡의 밀리터리 인사이드] 6배 중력 속 '영겁' 같은 20초… \"기절하...",
+          "link": "https://www.newspim.com/news/view/20260704000005",
+          "press": "",
+          "date": "2026-07-03"
+        },
+        {
+          "title": "공군 F-15K, 2050년 중반까지 영공방위 책임진다[이현호의 밀리터리!톡]",
+          "link": "https://www.sedaily.com/article/20049477?ref=naver",
+          "press": "",
+          "date": "2026-05-29"
+        },
+        {
+          "title": "Who’s in Charge Here?",
+          "link": "https://www.nytimes.com/2026/02/07/crosswords/daily-puzzle-2026-02-08.html?partner=naver",
+          "press": "",
+          "date": "2026-02-07"
+        },
+        {
+          "title": "한국 F-15K 전투기, 4조원 들여 ‘환골탈태’…“보잉과 계약 체결” [밀...",
+          "link": "https://nownews.seoul.co.kr/news/newsView.php?id=20260201601005&wlog_tag3=naver",
+          "press": "",
+          "date": "2026-02-01"
+        },
+        {
+          "title": "[오동룡의 밀리터리 인사이드] 日 항공자위대, 아시아 최초 F-35B '상시 ...",
+          "link": "https://www.newspim.com/news/view/20251225000091",
+          "press": "",
+          "date": "2025-12-25"
+        }
+      ],
+      "rank": 8
     },
     {
       "keyword": "그랜드 테 프트 오토 vi",
@@ -699,6 +626,18 @@
         }
       ],
       "topNews": [],
+      "rank": 9
+    },
+    {
+      "keyword": "환율",
+      "traffic": "2000+",
+      "blogTotal": 0,
+      "newsTotal": 0,
+      "recentToday": 0,
+      "recentWeek": 0,
+      "topBlogs": [],
+      "topNews": [],
+      "error": "HTTP 429 https://openapi.naver.com/v1/search/blog.json?query=%ED%99%98%EC%9C%A8&display=5&sort=sim",
       "rank": 10
     }
   ]
