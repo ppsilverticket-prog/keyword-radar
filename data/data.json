@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-20T17:55:51.587Z",
+  "updatedAt": "2026-08-20T18:36:42.461Z",
   "source": "live",
   "keywords": [
     {
       "keyword": "리플",
       "traffic": "100+",
       "blogTotal": 168701,
-      "newsTotal": 324997,
+      "newsTotal": 324998,
       "recentToday": 83,
       "recentWeek": 100,
       "topBlogs": [
@@ -43,6 +43,12 @@
       ],
       "topNews": [
         {
+          "title": "미 국채 바이백이 '불씨'...XRP, 시총 101억 달러 증가 다음은 어디?",
+          "link": "http://coinreaders.com/253875",
+          "press": "",
+          "date": "2026-08-20"
+        },
+        {
           "title": "美 SEC, 암호화폐 자금 조달 규제안 공개...\"기존 코인은 제외\" 논란",
           "link": "http://coinreaders.com/253858",
           "press": "",
@@ -61,12 +67,6 @@
           "date": "2026-08-20"
         },
         {
-          "title": "인사처, 8월 고위공직자 재산 공개…박혜진 오페라단장 465억 '최다'",
-          "link": "https://www.news1.kr/politics/president/6264746",
-          "press": "",
-          "date": "2026-08-20"
-        },
-        {
           "title": "리플XRP 급등…1.16달러선 회복, 결제 자산 비전 다시 시험대",
           "link": "https://www.cbci.co.kr/news/articleView.html?idxno=599798",
           "press": "",
@@ -78,9 +78,9 @@
     {
       "keyword": "삼성 전자 주주 환원",
       "traffic": "1000+",
-      "blogTotal": 3878,
+      "blogTotal": 3877,
       "newsTotal": 39959,
-      "recentToday": 82,
+      "recentToday": 80,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -149,82 +149,9 @@
       "rank": 2
     },
     {
-      "keyword": "욕조",
-      "traffic": "100+",
-      "blogTotal": 434190,
-      "newsTotal": 86582,
-      "recentToday": 80,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "말랑하니 아기욕조 3종세트+헹굼욕조 실사용 후기! 신생아부터 오래....",
-          "link": "https://blog.naver.com/rnrghk5839/224371361437",
-          "blogger": "가고싶은대로간다",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "고시원에 욕조가 들어올까? 1인 가구 늘자 오래된 기준 손본다",
-          "link": "https://blog.naver.com/jdii92/224377268457",
-          "blogger": "재테크&경제",
-          "date": "2026-08-13"
-        },
-        {
-          "title": "스토케 플렉시바스 욕조 4개월 사용후기｜신생아 욕조로 써본 장단....",
-          "link": "https://blog.naver.com/non_fiction__/224372314352",
-          "blogger": "논픽션의 실전라이프",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "온다베이비 플러스 아기욕조 비교 및 후기 두 아이 사용 솔직리뷰(+ ....",
-          "link": "https://blog.naver.com/knm_88/224310171009",
-          "blogger": "슬기로운 엘소미네",
-          "date": "2026-06-09"
-        },
-        {
-          "title": "신생아 및 4개월 아기 욕조 실사용 리뷰 (온다베이비 플러스)",
-          "link": "https://blog.naver.com/afhkl22/224359887230",
-          "blogger": "시하아빠 싱싱이의 육아 story",
-          "date": "2026-07-28"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "\"완벽한 휴식 원한다면\"… 팜투어, 콘래드 코사무이 프로모션 연장",
-          "link": "http://www.smarttimes.co.kr/news/articleView.html?idxno=48330",
-          "press": "",
-          "date": "2026-08-20"
-        },
-        {
-          "title": "[고수 아빠의 육아 비결] 장난감 건져 올리는 욕실 낚시… 아이 손 감각...",
-          "link": "https://www.chosun.com/culture-life/culture_general/2026/08/21/QW7QY4754VBOBIY3ECAQ5CRRXI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-          "press": "",
-          "date": "2026-08-20"
-        },
-        {
-          "title": "[잡채기 칼럼] 정책도 더위먹나",
-          "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3072587",
-          "press": "",
-          "date": "2026-08-20"
-        },
-        {
-          "title": "'와' 커리 막느라 밤샘 링거 투혼... NBA 역대 최고 슈터 막는 게 이렇게...",
-          "link": "http://www.rookie.co.kr/news/articleView.html?idxno=126243",
-          "press": "",
-          "date": "2026-08-20"
-        },
-        {
-          "title": "[티조챗] '주거 존엄성' 짓밟힌 2030…'폐버스·욕조·4억 빌라' 3연타에...",
-          "link": "https://news.tvchosun.com/site/data/html_dir/2026/08/20/2026082090220.html",
-          "press": "",
-          "date": "2026-08-20"
-        }
-      ],
-      "rank": 3
-    },
-    {
       "keyword": "이륙",
       "traffic": "200+",
-      "blogTotal": 80885,
+      "blogTotal": 80887,
       "newsTotal": 201772,
       "recentToday": 79,
       "recentWeek": 100,
@@ -292,12 +219,85 @@
           "date": "2026-08-20"
         }
       ],
+      "rank": 3
+    },
+    {
+      "keyword": "욕조",
+      "traffic": "100+",
+      "blogTotal": 434194,
+      "newsTotal": 86582,
+      "recentToday": 75,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "말랑하니 아기욕조 3종세트+헹굼욕조 실사용 후기! 신생아부터 오래....",
+          "link": "https://blog.naver.com/rnrghk5839/224371361437",
+          "blogger": "가고싶은대로간다",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "고시원에 욕조가 들어올까? 1인 가구 늘자 오래된 기준 손본다",
+          "link": "https://blog.naver.com/jdii92/224377268457",
+          "blogger": "재테크&경제",
+          "date": "2026-08-13"
+        },
+        {
+          "title": "스토케 플렉시바스 욕조 4개월 사용후기｜신생아 욕조로 써본 장단....",
+          "link": "https://blog.naver.com/non_fiction__/224372314352",
+          "blogger": "논픽션의 실전라이프",
+          "date": "2026-08-09"
+        },
+        {
+          "title": "온다베이비 플러스 아기욕조 비교 및 후기 두 아이 사용 솔직리뷰(+ ....",
+          "link": "https://blog.naver.com/knm_88/224310171009",
+          "blogger": "슬기로운 엘소미네",
+          "date": "2026-06-09"
+        },
+        {
+          "title": "신생아 및 4개월 아기 욕조 실사용 리뷰 (온다베이비 플러스)",
+          "link": "https://blog.naver.com/afhkl22/224359887230",
+          "blogger": "시하아빠 싱싱이의 육아 story",
+          "date": "2026-07-28"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "\"완벽한 휴식 원한다면\"… 팜투어, 콘래드 코사무이 프로모션 연장",
+          "link": "http://www.smarttimes.co.kr/news/articleView.html?idxno=48330",
+          "press": "",
+          "date": "2026-08-20"
+        },
+        {
+          "title": "[고수 아빠의 육아 비결] 장난감 건져 올리는 욕실 낚시… 아이 손 감각...",
+          "link": "https://www.chosun.com/culture-life/culture_general/2026/08/21/QW7QY4754VBOBIY3ECAQ5CRRXI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+          "press": "",
+          "date": "2026-08-20"
+        },
+        {
+          "title": "[잡채기 칼럼] 정책도 더위먹나",
+          "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3072587",
+          "press": "",
+          "date": "2026-08-20"
+        },
+        {
+          "title": "[티조챗] '주거 존엄성' 짓밟힌 2030…'폐버스·욕조·4억 빌라' 3연타에...",
+          "link": "https://news.tvchosun.com/site/data/html_dir/2026/08/20/2026082090220.html",
+          "press": "",
+          "date": "2026-08-20"
+        },
+        {
+          "title": "'와' 커리 막느라 밤샘 링거 투혼... NBA 역대 최고 슈터 막는 게 이렇게...",
+          "link": "http://www.rookie.co.kr/news/articleView.html?idxno=126243",
+          "press": "",
+          "date": "2026-08-20"
+        }
+      ],
       "rank": 4
     },
     {
       "keyword": "이재용",
-      "traffic": "100+",
-      "blogTotal": 110943,
+      "traffic": "200+",
+      "blogTotal": 110944,
       "newsTotal": 594170,
       "recentToday": 34,
       "recentWeek": 100,
@@ -370,9 +370,9 @@
     {
       "keyword": "강남구",
       "traffic": "100+",
-      "blogTotal": 2031680,
-      "newsTotal": 3386383,
-      "recentToday": 24,
+      "blogTotal": 2031686,
+      "newsTotal": 3386384,
+      "recentToday": 14,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -380,6 +380,12 @@
           "link": "https://blog.naver.com/gam_log/224363365200",
           "blogger": "감로그의 여행로그",
           "date": "2026-07-31"
+        },
+        {
+          "title": "다비치안경 도곡역점 후기｜대치동 안경원 추천 | 정찰제 가격에 믿....",
+          "link": "https://blog.naver.com/ls2tpdms/224355992757",
+          "blogger": "행복이랑 오늘도",
+          "date": "2026-07-24"
         },
         {
           "title": "강남역 | 곱창 맛집 추천 [진구곱창 강남역CGV점] 후기 (무료주차)",
@@ -398,15 +404,15 @@
           "link": "https://blog.naver.com/kimjuh55/224374729655",
           "blogger": "상속증여회계사 참포도세무",
           "date": "2026-08-11"
-        },
-        {
-          "title": "밀란국수 개포본점｜개포동 맛집 들깨칼국수 메밀전 내돈내산 후기",
-          "link": "https://blog.naver.com/cre899/224361077765",
-          "blogger": "노마드를 꿈꾸는 활자중독자",
-          "date": "2026-07-29"
         }
       ],
       "topNews": [
+        {
+          "title": "\"한방에 3억 뚝, 여기 급매요\"...'세 부담' 초고가주택은 지금",
+          "link": "https://www.mt.co.kr/estate/2026/08/21/2026082019043159007",
+          "press": "",
+          "date": "2026-08-20"
+        },
         {
           "title": "서울 집합건물 매수인 30대 5,976명 최다…은평구 1,435명",
           "link": "https://www.woodkorea.co.kr/news/articleView.html?idxno=90943",
@@ -428,12 +434,6 @@
         {
           "title": "[2026 재산공개] 김성균 서울대치과병원장, 재산 128억 신고…현직 고위...",
           "link": "https://biz.chosun.com/science-chosun/medicine-health/2026/08/21/QCPAS5C2X5BA3HPTHIINDVRFYM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-          "press": "",
-          "date": "2026-08-20"
-        },
-        {
-          "title": "강남·서초 아파트 값, 2주째 하락세 이어져",
-          "link": "https://www.chosun.com/economy/real_estate/2026/08/21/RJFAK5EELJAJHEV5X3XC3ZF274/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
           "press": "",
           "date": "2026-08-20"
         }
@@ -587,9 +587,51 @@
       "rank": 8
     },
     {
+      "keyword": "트롬쇠 대 브라이턴",
+      "traffic": "100+",
+      "blogTotal": 0,
+      "newsTotal": 0,
+      "recentToday": 0,
+      "recentWeek": 0,
+      "topBlogs": [
+        {
+          "title": "[축구분석] 2019년 08월 10일 축구추천경기",
+          "link": "https://blog.naver.com/cellj886/221611866555",
+          "blogger": "셀초이스의 스포츠분석",
+          "date": "2019-08-10"
+        },
+        {
+          "title": "승무패 7회차 -8회차",
+          "link": "https://blog.naver.com/firiver/222645777318",
+          "blogger": "FEN BALL(펜볼)",
+          "date": "2022-02-12"
+        },
+        {
+          "title": "토트넘의 중원이자 손흥민의 단짝 에릭센을 알아보자.",
+          "link": "https://blog.naver.com/lyslse/221472824491",
+          "blogger": "무적코털보보보",
+          "date": "2019-02-23"
+        },
+        {
+          "title": "8월 21일 해외축구 전경기 분석 UEFA 유로파리그 컨퍼런스리그 승부 ....",
+          "link": "https://blog.naver.com/rjswo2000/224384051145",
+          "blogger": "취미",
+          "date": "2026-08-20"
+        },
+        {
+          "title": "[스포츠분석] OK저축은행 vs 우리카드 v리그 배구 분석",
+          "link": "https://blog.naver.com/qhrivhoni/224092864766",
+          "blogger": "행복하다면 야옹해",
+          "date": "2025-11-30"
+        }
+      ],
+      "topNews": [],
+      "rank": 9
+    },
+    {
       "keyword": "오디세이",
       "traffic": "2000+",
-      "blogTotal": 107759,
+      "blogTotal": 107769,
       "newsTotal": 71664,
       "recentToday": 0,
       "recentWeek": 100,
@@ -653,79 +695,6 @@
         {
           "title": "'오디세이' 오늘(21일) 600만 돌파 유력…개봉 17일차 기록 눈앞",
           "link": "https://www.econovill.com/news/articleView.html?idxno=748534",
-          "press": "",
-          "date": "2026-08-20"
-        }
-      ],
-      "rank": 9
-    },
-    {
-      "keyword": "한화",
-      "traffic": "1000+",
-      "blogTotal": 1163144,
-      "newsTotal": 3772134,
-      "recentToday": 0,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "[내돈내산] 여수 한화리조트 벨메르 숙박후기 (오션뷰,사우나,수영....",
-          "link": "https://blog.naver.com/jennylee0907/224363692525",
-          "blogger": "똑순이맘의 인생 2회차",
-          "date": "2026-07-31"
-        },
-        {
-          "title": "한화에어로스페이스는 왜  한국항공우주(KAI) 지분 매입을 늘리나?",
-          "link": "https://blog.naver.com/pokara61/224375164678",
-          "blogger": "포카라의 실전투자",
-          "date": "2026-08-11"
-        },
-        {
-          "title": "[거제 숙소 추천 | 거제여행] 한화리조트 거제 벨버디어 스위트 (오....",
-          "link": "https://blog.naver.com/cykanao/224363543493",
-          "blogger": "나오의 잡동사니",
-          "date": "2026-07-31"
-        },
-        {
-          "title": "퐁피두센터 한화 맛집 파르노 서울 여의도 실내 데이트 63빌딩 핫플",
-          "link": "https://blog.naver.com/hong010827/224340487195",
-          "blogger": "여행으로 나라로그 in",
-          "date": "2026-07-08"
-        },
-        {
-          "title": "한화리조트 설악 쏘라노 디럭스룸 - 체크인팁, 테슬라 슈퍼차저, 데....",
-          "link": "https://blog.naver.com/oranc_max/224318763099",
-          "blogger": "로딩중인 하루",
-          "date": "2026-06-17"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "'126일 만에 7위' 롯데 4연속 역전승, 또 빅이닝 도파민…가을 기적 꿈꾸...",
-          "link": "http://www.osen.co.kr/article/G1112861047",
-          "press": "",
-          "date": "2026-08-20"
-        },
-        {
-          "title": "美 국채금리 하루 만에 반등세…재무부 개입 '단기 처방' 그치나",
-          "link": "https://www.yna.co.kr/view/AKR20260821003000072?input=1195m",
-          "press": "",
-          "date": "2026-08-20"
-        },
-        {
-          "title": "홈런 세 방 맞고도 웃었다... KIA, 김태군 대타포로 한화전 싹쓸이",
-          "link": "https://www.stnsports.co.kr/news/articleView.html?idxno=321256",
-          "press": "",
-          "date": "2026-08-20"
-        },
-        {
-          "title": "\"맨유 이적 왜 무산됐는지 나도 모른다\" 에데르송 충격 고백! 742억 합의...",
-          "link": "https://mhnse.com/news/articleView.html?idxno=1495134",
-          "press": "",
-          "date": "2026-08-20"
-        },
-        {
-          "title": "'충격의 8위 추락' 한화 정말 폰세-와이스의 팀이었나…작년 KS 진출했는...",
-          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1002919",
           "press": "",
           "date": "2026-08-20"
         }
