@@ -1,12 +1,158 @@
 {
-  "updatedAt": "2026-08-20T11:30:09.676Z",
+  "updatedAt": "2026-08-20T11:55:18.651Z",
   "source": "live",
   "keywords": [
     {
+      "keyword": "레버리지",
+      "traffic": "2000+",
+      "blogTotal": 246422,
+      "newsTotal": 287982,
+      "recentToday": 100,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "단일종목 레버리지 규제 폭탄? 예탁금 3천만 원 상향과 '긴급조치권'....",
+          "link": "https://blog.naver.com/yongjun9510/224368837072",
+          "blogger": "Jun Insight",
+          "date": "2026-08-05"
+        },
+        {
+          "title": "3,000만원 없으면 해외 레버리지 ETF 못산다는데 (Feat. TSLL)",
+          "link": "https://blog.naver.com/nunoslash77/224364894366",
+          "blogger": "이안의 경제 인사이트",
+          "date": "2026-08-01"
+        },
+        {
+          "title": "주식 레버리지 뜻 수익 2배일까? 레버리지 ETF 투자 전 알아야 할 위....",
+          "link": "https://blog.naver.com/fds6051/224364540585",
+          "blogger": "옥냥의 육아 한스푼",
+          "date": "2026-08-01"
+        },
+        {
+          "title": "레버리지란? 초보자도 이해하는 뜻과 레버리지 ETF 실전 예시",
+          "link": "https://blog.naver.com/felix_203/224350960138",
+          "blogger": "정쿡 개발자",
+          "date": "2026-07-19"
+        },
+        {
+          "title": "삼전닉스 레버리지 ETF 생존담, 서킷 두 번 맞고 수익률은?",
+          "link": "https://blog.naver.com/impactnia/224373766380",
+          "blogger": "레이산",
+          "date": "2026-08-10"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "5000억달러 AI 금융 플랫폼, 모델 경쟁이 자본전으로 바뀐다",
+          "link": "https://www.tokenpost.kr/news/cryptocurrency/394332",
+          "press": "",
+          "date": "2026-08-20"
+        },
+        {
+          "title": "[자산운용 데일리] 배당·연금·금까지…운용사 ETF, 수익률·자금몰이 ...",
+          "link": "https://www.news2day.co.kr/article/20260820500300",
+          "press": "",
+          "date": "2026-08-20"
+        },
+        {
+          "title": "시큐리타이즈, 고수익 채권 토큰화 펀드 출시",
+          "link": "https://www.tokenpost.kr/news/cryptocurrency/394325",
+          "press": "",
+          "date": "2026-08-20"
+        },
+        {
+          "title": "마치빅브라더 롱 포지션 6300만달러 넘었다",
+          "link": "https://www.tokenpost.kr/news/breaking/394319",
+          "press": "",
+          "date": "2026-08-20"
+        },
+        {
+          "title": "[미리보는 이데일리 신문]AI 데이터센터 붐에 '블루칼라' 모시기 전쟁",
+          "link": "https://www.edaily.co.kr/News/Read?newsId=05936806645549288&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+          "press": "",
+          "date": "2026-08-20"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "keyword": "휴대 전화",
+      "traffic": "2000+",
+      "blogTotal": 179284,
+      "newsTotal": 1510487,
+      "recentToday": 100,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "휴대폰 물에 빠졌을 때 대처법, 물 들어갔을때 충전",
+          "link": "https://blog.naver.com/akdnsxlds/224350881080",
+          "blogger": "돈되는 재테크 노트",
+          "date": "2026-07-21"
+        },
+        {
+          "title": "2026 명의도용방지 휴대폰 통신회사 가입제한·해제 방법｜PASS·카카....",
+          "link": "https://blog.naver.com/xnara/224365832063",
+          "blogger": "알기 쉬운 휴대폰 설명서",
+          "date": "2026-08-02"
+        },
+        {
+          "title": "2학기부터 학교에서 휴대폰 못 쓰나? 경기교육청 ‘폰 프리 스쿨’ ....",
+          "link": "https://blog.naver.com/fortune537/224376215862",
+          "blogger": "내가 보는 세상",
+          "date": "2026-08-12"
+        },
+        {
+          "title": "휴대폰을 껐다 켜면 정말 빨라질까요? 재부팅이 도움이 되는 이유",
+          "link": "https://blog.naver.com/mandduzz/224362600041",
+          "blogger": "Idea Lab",
+          "date": "2026-07-30"
+        },
+        {
+          "title": "휴대폰 화면 TV로 미러링하는 방법 5가지 (갤럭시·아이폰)",
+          "link": "https://blog.naver.com/uulluu7410/224371744091",
+          "blogger": "정보레이더",
+          "date": "2026-08-08"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "보이스피싱, 피해 신고 전에 막는다…금융·통신·수사정보 실시간 공유",
+          "link": "http://www.newsian.co.kr/news/articleView.html?idxno=93996",
+          "press": "",
+          "date": "2026-08-20"
+        },
+        {
+          "title": "제주 실종 여성 장미란 씨 정보에 '장애' 표시한 경찰...가족들 '분노'",
+          "link": "https://www.wikitree.co.kr/articles/1153738",
+          "press": "",
+          "date": "2026-08-20"
+        },
+        {
+          "title": "불법수집 개인정보로 380억원 해킹·탈취한 중국인, 징역 20년",
+          "link": "https://www.donga.com/news/Society/article/all/20260820/134515889/2",
+          "press": "",
+          "date": "2026-08-20"
+        },
+        {
+          "title": "[with+] 버릴 때마다 잊는 것들",
+          "link": "https://www.kyeongin.com/article/1769370",
+          "press": "",
+          "date": "2026-08-20"
+        },
+        {
+          "title": "네이버 카페 글쓰기 오류…안드로이드 이용자들 불편 제기",
+          "link": "https://www.yna.co.kr/view/AKR20260820179700017?input=1195m",
+          "press": "",
+          "date": "2026-08-20"
+        }
+      ],
+      "rank": 2
+    },
+    {
       "keyword": "주차",
-      "traffic": "5000+",
-      "blogTotal": 15022326,
-      "newsTotal": 3061592,
+      "traffic": "1000+",
+      "blogTotal": 15022476,
+      "newsTotal": 3061602,
       "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
@@ -35,51 +181,51 @@
           "date": "2026-06-13"
         },
         {
-          "title": "천안 소금빵 맛집 소금도화｜N번째 방문하는 인생 소금빵 후기 (메....",
-          "link": "https://blog.naver.com/nemojiji/224369744954",
-          "blogger": "띠아의 맛있는 하루 ෆ",
-          "date": "2026-08-06"
+          "title": "개화역 광역환승주차장 제주도 여행 김포공항 주차 꿀팁 경차 할인",
+          "link": "https://blog.naver.com/dohidoh/224293933420",
+          "blogger": "하이도",
+          "date": "2026-05-22"
         }
       ],
       "topNews": [
         {
-          "title": "[미리보는 이데일리 신문]AI 데이터센터 붐에 '블루칼라' 모시기 전쟁",
-          "link": "https://www.edaily.co.kr/News/Read?newsId=05936806645549288&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+          "title": "도심복합 일몰 3년 연장…공공택지·지주택 규제 손질",
+          "link": "https://www.dailian.co.kr/news/view/1680532/?sc=Naver",
           "press": "",
           "date": "2026-08-20"
         },
         {
-          "title": "송도 분구·산단 안전진단… 박찬대 인천시장에 쏟아진 ‘33개 현안’",
-          "link": "https://www.kyeongin.com/article/1769360",
+          "title": "NC 다이노스, 창원 잔류 확정",
+          "link": "https://news.knn.co.kr/news/article/191511",
           "press": "",
           "date": "2026-08-20"
         },
         {
-          "title": "북구 민방위 대피 훈련",
-          "link": "http://www.ujeil.com/news/articleView.html?idxno=390670",
+          "title": "[포토] 긴급차량 길, 느긋한 발길",
+          "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1330057",
           "press": "",
           "date": "2026-08-20"
         },
         {
-          "title": "[속보] 세종 다정동·새롬동 일대 정전 발생",
-          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3670171",
+          "title": "'문콕' 절대 없겠네…2톤 차도 번쩍 들어 착착 '주차로봇'",
+          "link": "https://news.jtbc.co.kr/article/NB12314273?influxDiv=NAVER",
           "press": "",
           "date": "2026-08-20"
         },
         {
-          "title": "대법, 청주 MS여성병원 시설 관리자 유죄 취지 파기환송",
-          "link": "http://www.cctimes.kr/news/articleView.html?idxno=922781",
+          "title": "장관-시장 만났지만…용산공원 개발 놓고 '평행선'",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008714395&plink=ORI&cooper=NAVER",
           "press": "",
           "date": "2026-08-20"
         }
       ],
-      "rank": 1
+      "rank": 3
     },
     {
       "keyword": "이민정",
       "traffic": "200+",
-      "blogTotal": 56558,
-      "newsTotal": 149880,
+      "blogTotal": 56560,
+      "newsTotal": 149881,
       "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
@@ -116,6 +262,12 @@
       ],
       "topNews": [
         {
+          "title": "37% 찍던 이민정 맞아?...6년 만 복귀작 '0%'대 굴욕…케이블 한계 넘을...",
+          "link": "https://mhnse.com/news/articleView.html?idxno=1495232",
+          "press": "",
+          "date": "2026-08-20"
+        },
+        {
           "title": "첫방부터 0%대 시청률 찍었다…편성 표류→6년 만에 복귀에도 처참한 성...",
           "link": "https://www.tenasia.co.kr/article/2026082022884",
           "press": "",
@@ -138,22 +290,16 @@
           "link": "https://www.newsen.com/news_view.php?uid=202608201637386710",
           "press": "",
           "date": "2026-08-20"
-        },
-        {
-          "title": "롯데마트 제타, '이대호' 앞세워 부산·영남권 온라인 장보기 시장 공략",
-          "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=206324",
-          "press": "",
-          "date": "2026-08-20"
         }
       ],
-      "rank": 2
+      "rank": 4
     },
     {
       "keyword": "중앙일보",
-      "traffic": "2000+",
-      "blogTotal": 326357,
+      "traffic": "5000+",
+      "blogTotal": 326358,
       "newsTotal": 330707,
-      "recentToday": 51,
+      "recentToday": 52,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -219,15 +365,15 @@
           "date": "2026-08-20"
         }
       ],
-      "rank": 3
+      "rank": 5
     },
     {
       "keyword": "양정원",
       "traffic": "500+",
-      "blogTotal": 6820,
+      "blogTotal": 6824,
       "newsTotal": 20589,
-      "recentToday": 47,
-      "recentWeek": 68,
+      "recentToday": 51,
+      "recentWeek": 72,
       "topBlogs": [
         {
           "title": "\"강남서, 왜 이 사건만?\" 양정원 필라테스 사기 의혹, 수사팀 전격 교....",
@@ -292,14 +438,14 @@
           "date": "2026-08-20"
         }
       ],
-      "rank": 4
+      "rank": 6
     },
     {
       "keyword": "경마",
       "traffic": "200+",
-      "blogTotal": 68872,
+      "blogTotal": 68875,
       "newsTotal": 193402,
-      "recentToday": 38,
+      "recentToday": 41,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -365,221 +511,75 @@
           "date": "2026-08-20"
         }
       ],
-      "rank": 5
-    },
-    {
-      "keyword": "피온",
-      "traffic": "200+",
-      "blogTotal": 9989,
-      "newsTotal": 5843,
-      "recentToday": 19,
-      "recentWeek": 64,
-      "topBlogs": [
-        {
-          "title": "피파온라인4 스쿼드 급여 300 피파 팀추천 공략",
-          "link": "https://blog.naver.com/yong9260/224222669087",
-          "blogger": "용혁순",
-          "date": "2026-03-19"
-        },
-        {
-          "title": "피파온라인3 말기 연상시키는 fc온라인 bp 개편 소식",
-          "link": "https://blog.naver.com/bareunswim/224377329220",
-          "blogger": "바른쉼. Rest Better. Live Better",
-          "date": "2026-08-13"
-        },
-        {
-          "title": "피파온라인2 아직 살아있다? 베트남 서버 설치부터 실행까지",
-          "link": "https://blog.naver.com/woonoob/224299292662",
-          "blogger": "지금은 타운하우스 살이중",
-          "date": "2026-05-30"
-        },
-        {
-          "title": "케스피온 주가 전망, 지금 들어가도 될까? 분석 총정리 (목표가 공개....",
-          "link": "https://blog.naver.com/treasures_phodo/224274101535",
-          "blogger": "대전사는 아쥬씨",
-          "date": "2026-05-04"
-        },
-        {
-          "title": "260706 하나투어 튀르키예 패키지 7박 9일 스탠다드 후기 (8) 3일차 NG아....",
-          "link": "https://blog.naver.com/zamzung/224341482749",
-          "blogger": "만두보노의 즐거운 일상",
-          "date": "2026-07-09"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "동전주 상장사들 주식 합치고 자구책 고심",
-          "link": "http://www.fnnews.com/news/202608201829546353",
-          "press": "",
-          "date": "2026-08-20"
-        },
-        {
-          "title": "[공매도 브리핑] 8월20일 SK하이닉스 4,596억…경남제약 47.08%",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16168719",
-          "press": "",
-          "date": "2026-08-20"
-        },
-        {
-          "title": "8월 19일 주식시장 주요공시",
-          "link": "https://www.catchnews.kr/news/articleView.html?idxno=127498",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "[공시] SHD·화신정공 '투자경고', KBI메탈·NHN '투자주의' 등...68건",
-          "link": "https://www.newstnt.com/news/articleView.html?idxno=714497",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "케스피온, 시가총액 미달로 관리종목 지정",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16167697",
-          "press": "",
-          "date": "2026-08-19"
-        }
-      ],
-      "rank": 6
-    },
-    {
-      "keyword": "서울교통공사",
-      "traffic": "200+",
-      "blogTotal": 135712,
-      "newsTotal": 767274,
-      "recentToday": 16,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "12년차 인사팀 대리가 알려준 부산교통공사 채용 꿀팁 vs 서울교통공....",
-          "link": "https://blog.naver.com/certified07/224299380656",
-          "blogger": "스페셜리스트",
-          "date": "2026-05-29"
-        },
-        {
-          "title": "[철도여정] 서울교통공사 지축차량사업소 3호선 기지 현장견학",
-          "link": "https://blog.naver.com/2013audis8/224325207926",
-          "blogger": "A collection of Essays",
-          "date": "2026-06-24"
-        },
-        {
-          "title": "서울교통공사 천왕차량사업소 견학 예약 아이랑 가볼만한곳",
-          "link": "https://blog.naver.com/csa321/224292817039",
-          "blogger": "도담열매의 칙칙폭폭 여행",
-          "date": "2026-05-21"
-        },
-        {
-          "title": "서울교통공사 채용소식, 인성 면접 전략 근무지, 연봉, 전망, 시험일....",
-          "link": "https://blog.naver.com/simwodnr00005/224297713035",
-          "blogger": "빵이의 일상 교육리뷰",
-          "date": "2026-05-27"
-        },
-        {
-          "title": "서울교통공사 연봉 같은 직급도 다른 이유",
-          "link": "https://blog.naver.com/rkdgytn/224360989668",
-          "blogger": "아쿠아5",
-          "date": "2026-07-28"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "[현장] GTX-B 재정구간 ‘상봉역’ 조기 착공 ‘본격 스타트’",
-          "link": "http://mcnews.co.kr/86518",
-          "press": "",
-          "date": "2026-08-20"
-        },
-        {
-          "title": "투기 확산 땐 국토부가 직접 토허구역 지정…관련법 국회 통과 [부동산...",
-          "link": "https://biz.heraldcorp.com/article/10847346?ref=naver",
-          "press": "",
-          "date": "2026-08-20"
-        },
-        {
-          "title": "HUG ‘전월세 안심신탁’, 보증금 떼일 걱정던다",
-          "link": "https://www.kyeongin.com/article/1769354",
-          "press": "",
-          "date": "2026-08-20"
-        },
-        {
-          "title": "전세사기 위험 줄이고 주거비 부담 낮추고…‘전월세 안심신탁’ 연말...",
-          "link": "https://www.nongmin.com/article/20260820500387",
-          "press": "",
-          "date": "2026-08-20"
-        },
-        {
-          "title": "“서울처럼 부산도 심야 자율주행버스를”",
-          "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260821.22008005740",
-          "press": "",
-          "date": "2026-08-20"
-        }
-      ],
       "rank": 7
     },
     {
-      "keyword": "문보경",
-      "traffic": "200+",
-      "blogTotal": 5537,
-      "newsTotal": 58383,
-      "recentToday": 10,
-      "recentWeek": 78,
+      "keyword": "lg에너지솔루션",
+      "traffic": "100+",
+      "blogTotal": 67892,
+      "newsTotal": 362469,
+      "recentToday": 28,
+      "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "\"홈런에 집착하지 않겠다\" LG 문보경 밤늦게까지 혼자 특타의 결과",
-          "link": "https://blog.naver.com/420yskkk/224384357301",
-          "blogger": "소소한일상 그리고 소소한운동",
-          "date": "2026-08-20"
+          "title": "LG에너지솔루션 주가 전망, \"흑자전환인데\" 왜 AMPC 빼면 적자일까?",
+          "link": "https://blog.naver.com/jeong189212/224370538583",
+          "blogger": "경제왕훈이 집현전 자본실록",
+          "date": "2026-08-07"
         },
         {
-          "title": "문보경 군대 응원가 연봉 FA 프로필 총정리!",
-          "link": "https://blog.naver.com/worldplay13/224323667901",
-          "blogger": "월드플레이 전자담배 가산점",
-          "date": "2026-06-22"
+          "title": "LG에너지솔루션 목표주가 62만원 유지, 세액공제 빼면 적자인데 왜? ....",
+          "link": "https://blog.naver.com/linsil/224371390444",
+          "blogger": "S.today",
+          "date": "2026-08-07"
         },
         {
-          "title": "“문보경까지 뺐는데 왜 더 안 풀리나?” LG 추락, 염경엽에게 돌아....",
-          "link": "https://blog.naver.com/2park_gazi/224381131919",
-          "blogger": "운동,여행, 일상",
-          "date": "2026-08-17"
+          "title": "LG에너지솔루션 주가 전망 2026, 지금이 매수 기회일까? 반드시 확인....",
+          "link": "https://blog.naver.com/jsstyle79/224369392812",
+          "blogger": "찐스탈의☆정보 블로그☆",
+          "date": "2026-08-06"
         },
         {
-          "title": "\"이렇게 안 풀린 적은 처음\" 염경엽... 결국 엘지의 가을야구는 100타....",
-          "link": "https://blog.naver.com/pjh1752/224380981470",
-          "blogger": "스포팅리포트",
-          "date": "2026-08-17"
+          "title": "AI 데이터센터가 이끄는 ESS 시장과 LG에너지솔루션 주가 전망 총정리",
+          "link": "https://blog.naver.com/bankleader9/224331451024",
+          "blogger": "BANK LEADER",
+          "date": "2026-06-30"
         },
         {
-          "title": "LG 염경엽 감독 \"결국 문보경이 답이다\" 10경기 타율 0.115인데요?",
-          "link": "https://blog.naver.com/dbekfl14/224380703342",
-          "blogger": "야구유원지",
-          "date": "2026-08-17"
+          "title": "LG에너지솔루션 주가 전망 공모가 30만 원 제자리? 2분기 실적과 ESS ....",
+          "link": "https://blog.naver.com/camseunghun/224367745947",
+          "blogger": "트리마제 살고픈 30대 깜승훈",
+          "date": "2026-08-07"
         }
       ],
       "topNews": [
         {
-          "title": "[포토] 역전 투런포 문보경, 미소",
-          "link": "https://www.sportschosun.com/baseball/2026-08-20/202608200100123000007800",
+          "title": "【위클리 ESG 행사】 8월 4주차",
+          "link": "http://www.impacton.net/news/articleView.html?idxno=20041",
           "press": "",
           "date": "2026-08-20"
         },
         {
-          "title": "“송찬의, 문정빈이 쳐줘서 3위 지키고 있다” 염경엽의 칭찬과 걱정 \"부...",
-          "link": "http://www.osen.co.kr/article/G1112860720",
+          "title": "SK하이닉스 자사주 소각에 코스피 급등…‘칠천피’ 성큼",
+          "link": "https://www.kukinews.com/article/view/kuk202608200200",
           "press": "",
           "date": "2026-08-20"
         },
         {
-          "title": "아시안게임 한국 야구 5회 연속 우승, 대만전이 좌우한다",
-          "link": "http://www.gndomin.com/news/articleView.html?idxno=486061",
+          "title": "롯데글로벌로지스, 해병대 피복 배송에 친환경 포장재 '레콥' 적용",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479150",
           "press": "",
           "date": "2026-08-20"
         },
         {
-          "title": "문정빈-송찬의 듀오의 활약에 흐뭇한 LG ‘염갈량’...“정빈, 찬의 덕에...",
-          "link": "https://www.segye.com/newsView/20260820521757?OutUrl=naver",
+          "title": "LG엔솔, ‘방산 영토’ 넓히나…美 드론 배터리 검토",
+          "link": "https://www.sentv.co.kr/article/view/sentv202608200073",
           "press": "",
           "date": "2026-08-20"
         },
         {
-          "title": "“실패해도 뭐라고 할 사람 없다”…문정빈·송찬의, 성장하는 LG 기둥들...",
-          "link": "https://sports.donga.com/sports/article/all/20260820/134514778/1",
+          "title": "한국 배터리, ESS·방산으로 새 성장축 오픈...북미에서 생산 전략 대전...",
+          "link": "https://www.m-economynews.com/news/article.html?no=69975",
           "press": "",
           "date": "2026-08-20"
         }
@@ -587,8 +587,81 @@
       "rank": 8
     },
     {
+      "keyword": "청주 kb 스타즈",
+      "traffic": "200+",
+      "blogTotal": 3244,
+      "newsTotal": 56627,
+      "recentToday": 12,
+      "recentWeek": 13,
+      "topBlogs": [
+        {
+          "title": "\"발표 시간이 2시 5분?\" KB스타즈 '필리핀 국가대표' 알렉시스 파나 영....",
+          "link": "https://blog.naver.com/in__sight/224313906344",
+          "blogger": "더 스코어 (The Score)",
+          "date": "2026-06-12"
+        },
+        {
+          "title": "260214 청주체육관 WKBL 여자프로농구 KB스타즈 vs 신한은행 직관 후기 ....",
+          "link": "https://blog.naver.com/jy992424/224194036700",
+          "blogger": "어디로든 가보제이",
+          "date": "2026-02-24"
+        },
+        {
+          "title": "WKBL 3&D 여자 농구 선수~ KB스타즈 이채은 무서운 성장세~",
+          "link": "https://blog.naver.com/jinsimon33/224236400764",
+          "blogger": "이부장의 스포츠 노트",
+          "date": "2026-04-01"
+        },
+        {
+          "title": "[여자프로농구]청주 KB스타즈, 박지수 공백 딛고 통합 우승 달성! 허....",
+          "link": "https://blog.naver.com/jarajaja/224267081400",
+          "blogger": "별구름네 다락방",
+          "date": "2026-04-27"
+        },
+        {
+          "title": "KB스타즈, 퓨처스리그 국내팀 대결 10연승?...! 강이슬 빠진 공백 이상....",
+          "link": "https://blog.naver.com/neo2538/224367943522",
+          "blogger": "NEO 스포츠",
+          "date": "2026-08-06"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "[현장 인터뷰] \"단상에선 말 못했지만... 제2의 백지은 되고 싶다\" 김성...",
+          "link": "https://www.starnewskorea.com/sports/2026/08/20/2026082014572236576",
+          "press": "",
+          "date": "2026-08-20"
+        },
+        {
+          "title": "[포토] 김성언 '노랑물결 기대하세요'",
+          "link": "https://www.starnewskorea.com/sports/2026/08/20/2026082013480526987",
+          "press": "",
+          "date": "2026-08-20"
+        },
+        {
+          "title": "[포토] 김성언 '감독님보다 제가 커요'",
+          "link": "https://www.starnewskorea.com/sports/2026/08/20/2026082013464063950",
+          "press": "",
+          "date": "2026-08-20"
+        },
+        {
+          "title": "'女농구 대졸신인' 향한 시선 달라졌나, 2년 연속 지명자 나왔다…\"후배...",
+          "link": "https://www.xportsnews.com/article/2185701",
+          "press": "",
+          "date": "2026-08-20"
+        },
+        {
+          "title": "가네다 마나 1순위, WKBL 신인드래프트 대세는 '해외파 '",
+          "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003260438&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+          "press": "",
+          "date": "2026-08-20"
+        }
+      ],
+      "rank": 9
+    },
+    {
       "keyword": "박소윤",
-      "traffic": "2000+",
+      "traffic": "5000+",
       "blogTotal": 4285,
       "newsTotal": 11304,
       "recentToday": 4,
@@ -653,79 +726,6 @@
         {
           "title": "김성수, ♥박소윤과 커플 심리상담→어색해진 기류…\"그럴 때마다 견디...",
           "link": "https://www.tvreport.co.kr/broadcast/article/1069974/",
-          "press": "",
-          "date": "2026-08-20"
-        }
-      ],
-      "rank": 9
-    },
-    {
-      "keyword": "이랜드그룹",
-      "traffic": "200+",
-      "blogTotal": 7964,
-      "newsTotal": 73423,
-      "recentToday": 4,
-      "recentWeek": 13,
-      "topBlogs": [
-        {
-          "title": "한국의 1000억원 이상 슈퍼 부자는 누구일까? 쏙쏙 살펴봐요",
-          "link": "https://goldtree5000.tistory.com/2073",
-          "blogger": "스머프의 생활건강",
-          "date": "2026-02-23"
-        },
-        {
-          "title": "외국계 기업리스트 : 도매,소매,유통 - 6",
-          "link": "https://richcat.tistory.com/5102",
-          "blogger": "리치캣의 현재 그리고 미래",
-          "date": "2021-02-24"
-        },
-        {
-          "title": "2024년 국내 재벌 순위(1위 ~ 88위) - 그룹별 자산 총액과 계열사 수",
-          "link": "https://pathfollower.tistory.com/874",
-          "blogger": "주부(주식/부동산) 교사의 생활정보",
-          "date": "2024-05-16"
-        },
-        {
-          "title": "이랜드그룹, 하도급대금 공시 오류 정정…\"60일 초과 지급 비율 14.02%....",
-          "link": "https://blog.naver.com/newsnanumy/224347555517",
-          "blogger": "나눔경제뉴스 공식 블로그",
-          "date": "2026-07-15"
-        },
-        {
-          "title": "경기도 안양시 동안구 일동로 등. 건강기능식품 일반판매기업 목록",
-          "link": "https://richcat.tistory.com/5432",
-          "blogger": "리치캣의 현재 그리고 미래",
-          "date": "2021-04-15"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "[S-이슈] 데커스가 낙점한 새 파트너… 이랜드그룹, 1000억원짜리 '호카...",
-          "link": "https://www.s-journal.co.kr/news/articleView.html?idxno=43163",
-          "press": "",
-          "date": "2026-08-20"
-        },
-        {
-          "title": "무신사·LF 제친 이랜드, 호카(HOKA) 신규 총판 공식 선임",
-          "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=275197",
-          "press": "",
-          "date": "2026-08-20"
-        },
-        {
-          "title": "스포츠 브랜드 '호카' 국내 유통 '이랜드그룹 품으로'",
-          "link": "http://www.newsbrite.net/news/articleView.html?idxno=199852",
-          "press": "",
-          "date": "2026-08-20"
-        },
-        {
-          "title": "이랜드, 인기 러닝화 브랜드 ‘호카’ 한국 새 총판 선임…계약 해지 잡...",
-          "link": "https://www.news2day.co.kr/article/20260820500288",
-          "press": "",
-          "date": "2026-08-20"
-        },
-        {
-          "title": "이랜드, 러닝화 '호카(HOKA)' 새 국내 파트너 낙점…스포츠 사업 박차",
-          "link": "https://www.thedailypost.kr/news/articleView.html?idxno=115088",
           "press": "",
           "date": "2026-08-20"
         }
