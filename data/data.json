@@ -1,13 +1,86 @@
 {
-  "updatedAt": "2026-08-20T16:31:42.497Z",
+  "updatedAt": "2026-08-20T17:25:22.368Z",
   "source": "live",
   "keywords": [
     {
+      "keyword": "삼성 전자 주주 환원",
+      "traffic": "1000+",
+      "blogTotal": 3874,
+      "newsTotal": 39959,
+      "recentToday": 86,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "삼성전자 주주환원 200조 가능할까 자사주 소각 특별배당 알아보기",
+          "link": "https://blog.naver.com/nabbeneye2/224377389607",
+          "blogger": "깐따의 재테크",
+          "date": "2026-08-13"
+        },
+        {
+          "title": "삼성전자 주주환원 200조 전망과 배당수익률 7퍼센트 실질적 의미",
+          "link": "https://blog.naver.com/mmzzuu1102/224373923366",
+          "blogger": "✨ IT 리뷰하는 김땅콩 ✨",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "\"대박 주주 환원\" 삼성전자 주가 끌어올린 특별 배당금 얼마일까?",
+          "link": "https://blog.naver.com/meaning87/224377006930",
+          "blogger": "은퇴연구소",
+          "date": "2026-08-13"
+        },
+        {
+          "title": "\"특별배당 2만원 넘을지도\" 삼성전자 특별배당금 예상해보니",
+          "link": "https://blog.naver.com/duswnswlstlf/224380246954",
+          "blogger": "이기사 블로그",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "삼성전자 주주환원 '확신의 매수 구간?' 주가 60만 원 전망 가능성은?",
+          "link": "https://blog.naver.com/digndkdl/224373919055",
+          "blogger": "경제거친남자",
+          "date": "2026-08-10"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "하닉 역대급 주주환원에 시장 환호… 삼전이 릴레이 이어가나",
+          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000004886&cp=nv",
+          "press": "",
+          "date": "2026-08-20"
+        },
+        {
+          "title": "'40조 주주환원' 하이닉스 13% 폭등...코스피 5.9%↑",
+          "link": "https://www.ytn.co.kr/_ln/0102_202608210039300267",
+          "press": "",
+          "date": "2026-08-20"
+        },
+        {
+          "title": "美 나랏빚 사상 첫 40조 달러 돌파… ‘국채 바이백 2배’ 긴급처방",
+          "link": "https://www.donga.com/news/Economy/article/all/20260820/134515165/2",
+          "press": "",
+          "date": "2026-08-20"
+        },
+        {
+          "title": "'삼전'도 100조 주주환원?…기대감에 코스피 '활짝'",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008714638&plink=ORI&cooper=NAVER",
+          "press": "",
+          "date": "2026-08-20"
+        },
+        {
+          "title": "SK하이닉스 12% '풀쩍'‥이제는 본격 반등?",
+          "link": "https://imnews.imbc.com/replay/2026/nw2500/article/6846211_36989.html",
+          "press": "",
+          "date": "2026-08-20"
+        }
+      ],
+      "rank": 1
+    },
+    {
       "keyword": "리플",
       "traffic": "100+",
-      "blogTotal": 168696,
+      "blogTotal": 168701,
       "newsTotal": 324997,
-      "recentToday": 89,
+      "recentToday": 85,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -61,8 +134,8 @@
           "date": "2026-08-20"
         },
         {
-          "title": "인사처, 8월 고위공직자 재산 공개…박혜진 오페라단장 465억 '최다'",
-          "link": "https://www.news1.kr/politics/president/6264746",
+          "title": "솔라나 , 파생 여부 촉각",
+          "link": "https://www.cbci.co.kr/news/articleView.html?idxno=599801",
           "press": "",
           "date": "2026-08-20"
         },
@@ -73,14 +146,14 @@
           "date": "2026-08-20"
         }
       ],
-      "rank": 1
+      "rank": 2
     },
     {
       "keyword": "욕조",
       "traffic": "100+",
-      "blogTotal": 434181,
+      "blogTotal": 434186,
       "newsTotal": 86582,
-      "recentToday": 88,
+      "recentToday": 82,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -146,12 +219,12 @@
           "date": "2026-08-20"
         }
       ],
-      "rank": 2
+      "rank": 3
     },
     {
       "keyword": "이륙",
       "traffic": "200+",
-      "blogTotal": 80876,
+      "blogTotal": 80882,
       "newsTotal": 201772,
       "recentToday": 79,
       "recentWeek": 100,
@@ -219,87 +292,87 @@
           "date": "2026-08-20"
         }
       ],
-      "rank": 3
+      "rank": 4
     },
     {
-      "keyword": "야구 순위",
-      "traffic": "500+",
-      "blogTotal": 47912,
-      "newsTotal": 258242,
-      "recentToday": 62,
+      "keyword": "이재용",
+      "traffic": "100+",
+      "blogTotal": 110943,
+      "newsTotal": 594170,
+      "recentToday": 34,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "치열한 프로야구 순위경쟁, 홈버프 홈승률이 순위를 결정한다!",
-          "link": "https://blog.naver.com/july7th73/224380081424",
-          "blogger": "수연아빠의 야구장 출동 (개포맘모스)",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "2026년 KBO 순위 총정리｜현재 프로야구 순위는? (2026.08.10 기준)",
-          "link": "https://blog.naver.com/bokchi2000/224374048641",
-          "blogger": "우나나야하의 덕질로그",
+          "title": "삼성가 황태자 이재용 아들이 나온 대학교는 “이 곳” 역시 재벌가....",
+          "link": "https://blog.naver.com/1004gywl/224375439379",
+          "blogger": "효선생 “경제노트”",
           "date": "2026-08-11"
         },
         {
-          "title": "2026 프로야구 순위와 현재 시점에서 예상 성적은?",
-          "link": "https://blog.naver.com/caleb0901/224359399747",
-          "blogger": "이과장의 스포츠",
-          "date": "2026-07-27"
+          "title": "2026 국내 주식부자 순위 총정리, 이재용부터 최태원까지 얼마나 보....",
+          "link": "https://blog.naver.com/dhsia0618/224368590581",
+          "blogger": "디지털노마드 l 경제ㆍ재테크ㆍ마케팅",
+          "date": "2026-08-05"
         },
         {
-          "title": "\"아시안게임 소집 일정 언제?\" 치열한 프로야구 순위 경쟁 분수령",
-          "link": "https://blog.naver.com/baekhw1/224380373747",
-          "blogger": "빠게룽",
-          "date": "2026-08-17"
+          "title": "스케쳐스 고워크 맥스쿠셔닝 아치핏, 남성 슬립인스 이재용 신발 추....",
+          "link": "https://blog.naver.com/dudwls8546/224289507520",
+          "blogger": "오제이",
+          "date": "2026-05-19"
         },
         {
-          "title": "2026 한국 프로야구 KBO, 투수 포지션 WAR 순위 분석",
-          "link": "https://blog.naver.com/kerrykwak/224349306057",
-          "blogger": "스초생 길잡이",
-          "date": "2026-07-17"
+          "title": "남편 생일선물 추천 | 스케쳐스 이재용 신발 내돈내산 구매 후기",
+          "link": "https://blog.naver.com/kangsooii/224230398164",
+          "blogger": "대전 일상 쭈로그",
+          "date": "2026-03-26"
+        },
+        {
+          "title": "부산여행 이재용회장님도 다녀간 깡통시장 장우손부산어묵",
+          "link": "https://blog.naver.com/gogo2123/224343504848",
+          "blogger": "일상이 행복♡",
+          "date": "2026-07-11"
         }
       ],
       "topNews": [
         {
-          "title": "KBO 프로야구, 20일 경기 결과→현재 팀 순위?",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16168986",
+          "title": "\"입원 권유 받아‥위태로웠던 날들\" 이재용, 30대에 우울증 진단 받아 (...",
+          "link": "http://www.osen.co.kr/article/G1112860757",
           "press": "",
           "date": "2026-08-20"
         },
         {
-          "title": "“홈런왕 가능성 있다, 오스틴? 의식 안 한다” KIA 김도영 자신감 폭발...",
-          "link": "https://www.mydaily.co.kr/page/view/2026082019572484770",
+          "title": "李대통령, 최태원과 비공개 회동… 호남 반도체 논의",
+          "link": "https://www.chosun.com/politics/blue_house/2026/08/21/TCUVQ43UQNGCXEHVWAARY4LE2U/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
           "press": "",
           "date": "2026-08-20"
         },
         {
-          "title": "요미우리 센트럴리그 선두 추격 재시동…한신에 3경기 차 좁혀",
-          "link": "https://www.mydaily.co.kr/page/view/2026082023561054140",
+          "title": "이 대통령, 최태원 회장과 비공개 만찬 회동…무슨 얘기 오갔나",
+          "link": "https://www.joongang.co.kr/article/25454994",
           "press": "",
           "date": "2026-08-20"
         },
         {
-          "title": "'마침내 3위 등극' KIA 승승승승승! 김태군 짜릿한 역전 투런포…한화 ...",
-          "link": "http://www.osen.co.kr/article/G1112860941",
+          "title": "李대통령, 최태원 회장과 만찬…호남 반도체·대미 투자 논의 '촉각'",
+          "link": "https://biz.sbs.co.kr/article_hub/20000329875?division=NAVER",
           "press": "",
           "date": "2026-08-20"
         },
         {
-          "title": "[프로야구] 중간 순위(20일)",
-          "link": "https://www.news1.kr/sports/baseball/6265000",
+          "title": "문학 '핫플' 꿈꾼다…철원 독립서점 첫발",
+          "link": "https://www.kado.net/news/articleView.html?idxno=2067780",
           "press": "",
           "date": "2026-08-20"
         }
       ],
-      "rank": 4
+      "rank": 5
     },
     {
       "keyword": "강남구",
       "traffic": "100+",
-      "blogTotal": 2031665,
-      "newsTotal": 3386382,
-      "recentToday": 48,
+      "blogTotal": 2031676,
+      "newsTotal": 3386383,
+      "recentToday": 30,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -315,12 +388,6 @@
           "date": "2026-08-06"
         },
         {
-          "title": "강남구청역 바버샵 남자머리 깔끔하게 하는 논현동 다이버스",
-          "link": "https://blog.naver.com/soohy0630/224373914538",
-          "blogger": "여행하는 수돌이",
-          "date": "2026-08-10"
-        },
-        {
           "title": "\"5인 미만은 부당해고 가능하다?\" 소규모 사업장 노동법 적용 vs 미적....",
           "link": "https://blog.naver.com/kimjuh55/224374729655",
           "blogger": "상속증여회계사 참포도세무",
@@ -331,9 +398,21 @@
           "link": "https://blog.naver.com/cre899/224361077765",
           "blogger": "노마드를 꿈꾸는 활자중독자",
           "date": "2026-07-29"
+        },
+        {
+          "title": "강남맛집 추천 AC키친 강남호텔뷔페 AC호텔서울강남 서울호텔뷔페",
+          "link": "https://blog.naver.com/yazeyazasu/224349692146",
+          "blogger": "화장품, 그리고 사람 이야기",
+          "date": "2026-07-17"
         }
       ],
       "topNews": [
+        {
+          "title": "서울 집합건물 매수인 30대 5,976명 최다…은평구 1,435명",
+          "link": "https://www.woodkorea.co.kr/news/articleView.html?idxno=90943",
+          "press": "",
+          "date": "2026-08-20"
+        },
         {
           "title": "정부고위공직자 73명 재산 공개...박혜진 국립오페라단장, 465억여 원으...",
           "link": "https://news.jtbc.co.kr/article/NB12314344?influxDiv=NAVER",
@@ -357,234 +436,9 @@
           "link": "https://www.chosun.com/economy/real_estate/2026/08/21/RJFAK5EELJAJHEV5X3XC3ZF274/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
           "press": "",
           "date": "2026-08-20"
-        },
-        {
-          "title": "강남-서초 아파트값 2주연속 하락… 한강벨트-15억 미만은 오름세",
-          "link": "https://www.donga.com/news/Economy/article/all/20260820/134515223/2",
-          "press": "",
-          "date": "2026-08-20"
-        }
-      ],
-      "rank": 5
-    },
-    {
-      "keyword": "코오롱티슈진",
-      "traffic": "1000+",
-      "blogTotal": 8047,
-      "newsTotal": 44906,
-      "recentToday": 34,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "코오롱티슈진 주가, 지금이라도 사야 하나 임상 실패 뒤 149% 폭등한 ....",
-          "link": "https://blog.naver.com/impactnia/224379706946",
-          "blogger": "레이산",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "코오롱티슈진의 파란만장한 역사: 위기를 넘어 코스닥 상위권으로 ....",
-          "link": "https://blog.naver.com/sxw12/224351254345",
-          "blogger": "잡다지식JI",
-          "date": "2026-07-20"
-        },
-        {
-          "title": "\"세력의 장난질인가...\" 코오롱티슈진 주가 90% 폭락 후 150% 오른 이유",
-          "link": "https://blog.naver.com/kis6574/224380095661",
-          "blogger": "차트보는 말희아빠",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "코오롱티슈진 3상 결과 통곡 반전... 목표가 붕괴와 2만 원대 추락 속....",
-          "link": "https://blog.naver.com/zkfldb888/224379476219",
-          "blogger": "주식하는 남자 쿠니네",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "3,000억 쏟아붓고도 또 벼랑 끝? 1,200억 현금에 숨겨진 코오롱티슈진 ....",
-          "link": "https://blog.naver.com/dlwogurr/224371294765",
-          "blogger": "정싸부의 경제공부",
-          "date": "2026-08-07"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "코오롱티슈진, 2만원 사수 여부는?",
-          "link": "https://www.cbci.co.kr/news/articleView.html?idxno=599716",
-          "press": "",
-          "date": "2026-08-20"
-        },
-        {
-          "title": "[주식] 인제니아테라퓨틱스, 상장 사흘 만에 상한가",
-          "link": "https://www.hitnews.co.kr/news/articleView.html?idxno=78522",
-          "press": "",
-          "date": "2026-08-20"
-        },
-        {
-          "title": "코스피, 외국인 매수에 6800선 회복···삼성전자 8%대 급등",
-          "link": "https://www.smartbizn.com/news/articleView.html?idxno=151706",
-          "press": "",
-          "date": "2026-08-20"
-        },
-        {
-          "title": "모더나 잭팟에 K바이오주도 훈풍…\"추격매수는 유의해야\"",
-          "link": "https://www.hankyung.com/article/202608202342i",
-          "press": "",
-          "date": "2026-08-20"
-        },
-        {
-          "title": "[주가] 8월 20일 주요 제약·바이오·기기 5% 변동 현황 - 소마젠 상한가",
-          "link": "https://www.medipana.com/news/articleView.html?idxno=416302",
-          "press": "",
-          "date": "2026-08-20"
         }
       ],
       "rank": 6
-    },
-    {
-      "keyword": "오디세이",
-      "traffic": "2000+",
-      "blogTotal": 107724,
-      "newsTotal": 71663,
-      "recentToday": 27,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "영화 오디세이 메이킹북 리뷰 / 오디세이 각본집 오디세이 설정집 ....",
-          "link": "https://blog.naver.com/bibibigggg/224371537624",
-          "blogger": "깸즈의 겜성북",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "영화 오디세이 헬레네, 트로이 전쟁의 원인과 진짜 결말 정리",
-          "link": "https://blog.naver.com/red597/224371113276",
-          "blogger": "실시간 트렌드 익스프레스",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "영화 오디세이, 초등학생 함께 관람해도 될까? 비추하는 이유",
-          "link": "https://blog.naver.com/jennylee0907/224379491193",
-          "blogger": "똑순이맘의 인생 2회차",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "영화 오디세이 헬레네 루피타 뇽오가 논란인 이유? 원작은 어떨까",
-          "link": "https://blog.naver.com/fiat710/224371495309",
-          "blogger": "여름의 보라 Beauty Diary",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "오디세이 IMAX CGV 청주서문점 모든 시야 앉아본 후기 (명당 추천, 스....",
-          "link": "https://blog.naver.com/minseo0522/224374141872",
-          "blogger": "재밍는 하루 하루 ♫•*¨*•.¸¸♪",
-          "date": "2026-08-10"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "578만 돌파 '오디세이', 박스오피스 순위 1위…2위는 774만 돌파 '스파이...",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16168988",
-          "press": "",
-          "date": "2026-08-20"
-        },
-        {
-          "title": "암만 때려도, 튀어나오는 암표",
-          "link": "https://www.chosun.com/national/national_general/2026/08/21/HFJLXADU25FXDKMAXRVNQC6FNY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-          "press": "",
-          "date": "2026-08-20"
-        },
-        {
-          "title": "[바이블시론] 꽃에 독이 있으면 안 된다",
-          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000004866&cp=nv",
-          "press": "",
-          "date": "2026-08-20"
-        },
-        {
-          "title": "'오디세이' 오늘(21일) 600만 돌파 유력…개봉 17일차 기록 눈앞",
-          "link": "https://www.econovill.com/news/articleView.html?idxno=748534",
-          "press": "",
-          "date": "2026-08-20"
-        },
-        {
-          "title": "'오디세이' 예매점유율 72.9%…'명탐정 코난: 하이웨이의 타천사' 4위 재...",
-          "link": "https://www.econovill.com/news/articleView.html?idxno=748533",
-          "press": "",
-          "date": "2026-08-20"
-        }
-      ],
-      "rank": 7
-    },
-    {
-      "keyword": "한화",
-      "traffic": "1000+",
-      "blogTotal": 1163109,
-      "newsTotal": 3772130,
-      "recentToday": 21,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "[내돈내산] 여수 한화리조트 벨메르 숙박후기 (오션뷰,사우나,수영....",
-          "link": "https://blog.naver.com/jennylee0907/224363692525",
-          "blogger": "똑순이맘의 인생 2회차",
-          "date": "2026-07-31"
-        },
-        {
-          "title": "한화에어로스페이스는 왜  한국항공우주(KAI) 지분 매입을 늘리나?",
-          "link": "https://blog.naver.com/pokara61/224375164678",
-          "blogger": "포카라의 실전투자",
-          "date": "2026-08-11"
-        },
-        {
-          "title": "[거제 숙소 추천 | 거제여행] 한화리조트 거제 벨버디어 스위트 (오....",
-          "link": "https://blog.naver.com/cykanao/224363543493",
-          "blogger": "나오의 잡동사니",
-          "date": "2026-07-31"
-        },
-        {
-          "title": "퐁피두센터 한화 맛집 파르노 서울 여의도 실내 데이트 63빌딩 핫플",
-          "link": "https://blog.naver.com/hong010827/224340487195",
-          "blogger": "여행으로 나라로그 in",
-          "date": "2026-07-08"
-        },
-        {
-          "title": "한화리조트 설악 쏘라노 디럭스룸 - 체크인팁, 테슬라 슈퍼차저, 데....",
-          "link": "https://blog.naver.com/oranc_max/224318763099",
-          "blogger": "로딩중인 하루",
-          "date": "2026-06-17"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "'충격의 8위 추락' 한화 정말 폰세-와이스의 팀이었나…작년 KS 진출했는...",
-          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1002919",
-          "press": "",
-          "date": "2026-08-20"
-        },
-        {
-          "title": "KBO 프로야구, 20일 경기 결과→현재 팀 순위?",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16168986",
-          "press": "",
-          "date": "2026-08-20"
-        },
-        {
-          "title": "뒷심 떨어진 불펜 가을 멀어진 한화",
-          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000004881&cp=nv",
-          "press": "",
-          "date": "2026-08-20"
-        },
-        {
-          "title": "'삼성 대략난감' 삼성 193cm 亞쿼터 왜 이럴까, ERA 18.90→韓 데뷔 첫 패...",
-          "link": "https://www.mydaily.co.kr/page/view/2026082100065085717",
-          "press": "",
-          "date": "2026-08-20"
-        },
-        {
-          "title": "英 BBC까지 확인! 맨체스터 유나이티드 중원 리빌딩 마지막 퍼즐 맞춘다...",
-          "link": "https://mhnse.com/news/articleView.html?idxno=1495108",
-          "press": "",
-          "date": "2026-08-20"
-        }
-      ],
-      "rank": 8
     },
     {
       "keyword": "일베",
@@ -595,16 +449,16 @@
       "recentWeek": 57,
       "topBlogs": [
         {
-          "title": "일베 뜻 및 '노 용어 단어'논란 그리고 손동작 말투 폐쇄 여부 총정....",
-          "link": "https://blog.naver.com/notsilly/224370557086",
-          "blogger": "코코넛 블로그",
-          "date": "2026-08-07"
-        },
-        {
           "title": "일베 뜻 쉽게 이해하기, 유래와 용어까지",
           "link": "https://blog.naver.com/nsyncbye1004/224340118360",
           "blogger": "즐거운 인플루언서 생활",
           "date": "2026-07-08"
+        },
+        {
+          "title": "일베 뜻 및 '노 용어 단어'논란 그리고 손동작 말투 폐쇄 여부 총정....",
+          "link": "https://blog.naver.com/notsilly/224370557086",
+          "blogger": "코코넛 블로그",
+          "date": "2026-08-07"
         },
         {
           "title": "일베 뜻 무엇일까? 일베 용어 유래와 논란까지 정리",
@@ -657,75 +511,221 @@
           "date": "2026-08-20"
         }
       ],
-      "rank": 9
+      "rank": 7
     },
     {
-      "keyword": "배우",
-      "traffic": "500+",
-      "blogTotal": 4097527,
-      "newsTotal": 15976864,
-      "recentToday": 0,
+      "keyword": "오디세이",
+      "traffic": "2000+",
+      "blogTotal": 107748,
+      "newsTotal": 71664,
+      "recentToday": 4,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "\"중국배우 하여 열애설?\" 공식 입장 나왔다! 프로필 드라마 총정리",
-          "link": "https://blog.naver.com/yj940323/224370917812",
-          "blogger": "중화연예채널",
+          "title": "영화 오디세이 메이킹북 리뷰 / 오디세이 각본집 오디세이 설정집 ....",
+          "link": "https://blog.naver.com/bibibigggg/224371537624",
+          "blogger": "깸즈의 겜성북",
           "date": "2026-08-07"
         },
         {
-          "title": "교체가 신의 한 수였다?! 급하게 투입됐는데 드라마까지 대박 낸 배....",
-          "link": "https://blog.naver.com/ldmswl3655/224376898696",
-          "blogger": "혜윰 정리",
-          "date": "2026-08-13"
+          "title": "영화 오디세이 헬레네, 트로이 전쟁의 원인과 진짜 결말 정리",
+          "link": "https://blog.naver.com/red597/224371113276",
+          "blogger": "실시간 트렌드 익스프레스",
+          "date": "2026-08-07"
         },
         {
-          "title": "(4대째 의사 집안) 배우 하영 사주",
-          "link": "https://blog.naver.com/clm1020/224371975032",
-          "blogger": "현대사주철학원",
+          "title": "영화 오디세이, 초등학생 함께 관람해도 될까? 비추하는 이유",
+          "link": "https://blog.naver.com/jennylee0907/224379491193",
+          "blogger": "똑순이맘의 인생 2회차",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "영화 오디세이 헬레네 루피타 뇽오가 논란인 이유? 원작은 어떨까",
+          "link": "https://blog.naver.com/fiat710/224371495309",
+          "blogger": "여름의 보라 Beauty Diary",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "오디세이 IMAX CGV 청주서문점 모든 시야 앉아본 후기 (명당 추천, 스....",
+          "link": "https://blog.naver.com/minseo0522/224374141872",
+          "blogger": "재밍는 하루 하루 ♫•*¨*•.¸¸♪",
           "date": "2026-08-10"
-        },
-        {
-          "title": "배우 하석진 프로필·학력·집안 총정리! 청담 자이아파트 대박 난 ....",
-          "link": "https://blog.naver.com/simbbool2/224357183672",
-          "blogger": "투데이뉴스ON",
-          "date": "2026-07-25"
-        },
-        {
-          "title": "고장극에선 몰랐는데, 중국 배우들이 유독 말라 보이는 이유",
-          "link": "https://blog.naver.com/kjyun96/224297374996",
-          "blogger": "올타의 콘텐츠 다이어리",
-          "date": "2026-05-27"
         }
       ],
       "topNews": [
         {
-          "title": "배우 지대한 주연 연극 '론더풀투나잇', 부산 문화예술인 모임과 선보인...",
-          "link": "https://www.pennmike.com/news/articleView.html?idxno=126072",
+          "title": "아이맥스(IMAX)와 중력의 예술 [투데이 窓/남수영]",
+          "link": "https://www.mt.co.kr/opinion/2026/08/21/2026081914170259611",
           "press": "",
           "date": "2026-08-20"
         },
         {
-          "title": "정부고위공직자 73명 재산 공개...박혜진 국립오페라단장, 465억여 원으...",
-          "link": "https://news.jtbc.co.kr/article/NB12314344?influxDiv=NAVER",
+          "title": "578만 돌파 '오디세이', 박스오피스 순위 1위…2위는 774만 돌파 '스파이...",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16168988",
           "press": "",
           "date": "2026-08-20"
         },
         {
-          "title": "'마수리' 김희정 맞아? 스페인 핫걸됐다...눈부신 미모 눈길",
-          "link": "http://www.osen.co.kr/article/G1112861090",
+          "title": "암만 때려도, 튀어나오는 암표",
+          "link": "https://www.chosun.com/national/national_general/2026/08/21/HFJLXADU25FXDKMAXRVNQC6FNY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
           "press": "",
           "date": "2026-08-20"
         },
         {
-          "title": "노홍철, 배우 신구 \"살아있을 때 다 해봐야 해\" 한마디에 곧바로 인도행",
-          "link": "https://www.insight.co.kr/news/569286",
+          "title": "[바이블시론] 꽃에 독이 있으면 안 된다",
+          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000004866&cp=nv",
           "press": "",
           "date": "2026-08-20"
         },
         {
-          "title": "심철종, 아들 간 이식받고 3m 봇짐 고행…\"해준 것도 없는데 너무 미안...",
-          "link": "https://www.xportsnews.com/article/2186104",
+          "title": "'오디세이' 오늘(21일) 600만 돌파 유력…개봉 17일차 기록 눈앞",
+          "link": "https://www.econovill.com/news/articleView.html?idxno=748534",
+          "press": "",
+          "date": "2026-08-20"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "keyword": "이예빈",
+      "traffic": "200+",
+      "blogTotal": 2881,
+      "newsTotal": 2774,
+      "recentToday": 1,
+      "recentWeek": 13,
+      "topBlogs": [
+        {
+          "title": "kt wiz 치어리더 이예빈, 맥심 표지 찢은 아찔 각선미  대만까지 홀린 ....",
+          "link": "https://blog.naver.com/in__sight/224317544295",
+          "blogger": "더 스코어 (The Score)",
+          "date": "2026-06-16"
+        },
+        {
+          "title": "\"이렇게 반응이 올 줄 몰랐다\" 이예빈, 영상 하나로 치어리더 팬덤 ....",
+          "link": "https://blog.naver.com/trendkey0103/224309627151",
+          "blogger": "오늘보다 가벼운 내일",
+          "date": "2026-06-08"
+        },
+        {
+          "title": "설윤, 민지 뺨치는 '여돌 과사 3대장' 리센느 메이(이예빈) 국적 프로....",
+          "link": "https://blog.naver.com/nadiatear0/224348229066",
+          "blogger": "☆*:.My Sweet Haven.:*☆",
+          "date": "2026-07-16"
+        },
+        {
+          "title": "이예빈 치어리더 프로필 나무위키 나이 키 맥심 인스타 사진 100억 ....",
+          "link": "https://blog.naver.com/4321acacia/224255704825",
+          "blogger": "음악이 깃든 곳",
+          "date": "2026-04-17"
+        },
+        {
+          "title": "치어리더 이예빈(프로필,경력,인기요인,SNS 등)",
+          "link": "https://blog.naver.com/mistermy18/224304063970",
+          "blogger": "H2의 스포츠와 여행",
+          "date": "2026-06-02"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "[포토]'잘가요! 힘들땐 잠시 쉬어가야죠' 예빈&서윤",
+          "link": "https://www.starnewskorea.com/sports/2026/08/20/2026082021174774734",
+          "press": "",
+          "date": "2026-08-20"
+        },
+        {
+          "title": "[포토]'승리 안고 홈으로' 이예빈",
+          "link": "https://www.starnewskorea.com/sports/2026/08/20/2026082021150735900",
+          "press": "",
+          "date": "2026-08-20"
+        },
+        {
+          "title": "[사진]이예빈 치어리더, 웃어요",
+          "link": "http://www.osen.co.kr/article/G1112860829",
+          "press": "",
+          "date": "2026-08-20"
+        },
+        {
+          "title": "[사진]이예빈 치어리더, 안타를 날려줘요",
+          "link": "http://www.osen.co.kr/article/G1112860822",
+          "press": "",
+          "date": "2026-08-20"
+        },
+        {
+          "title": "[사진]이예빈 치어리더, 미소 가득",
+          "link": "http://www.osen.co.kr/article/G1112860820",
+          "press": "",
+          "date": "2026-08-20"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "keyword": "한화",
+      "traffic": "1000+",
+      "blogTotal": 1163131,
+      "newsTotal": 3772134,
+      "recentToday": 0,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "[내돈내산] 여수 한화리조트 벨메르 숙박후기 (오션뷰,사우나,수영....",
+          "link": "https://blog.naver.com/jennylee0907/224363692525",
+          "blogger": "똑순이맘의 인생 2회차",
+          "date": "2026-07-31"
+        },
+        {
+          "title": "한화에어로스페이스는 왜  한국항공우주(KAI) 지분 매입을 늘리나?",
+          "link": "https://blog.naver.com/pokara61/224375164678",
+          "blogger": "포카라의 실전투자",
+          "date": "2026-08-11"
+        },
+        {
+          "title": "[거제 숙소 추천 | 거제여행] 한화리조트 거제 벨버디어 스위트 (오....",
+          "link": "https://blog.naver.com/cykanao/224363543493",
+          "blogger": "나오의 잡동사니",
+          "date": "2026-07-31"
+        },
+        {
+          "title": "퐁피두센터 한화 맛집 파르노 서울 여의도 실내 데이트 63빌딩 핫플",
+          "link": "https://blog.naver.com/hong010827/224340487195",
+          "blogger": "여행으로 나라로그 in",
+          "date": "2026-07-08"
+        },
+        {
+          "title": "한화리조트 설악 쏘라노 디럭스룸 - 체크인팁, 테슬라 슈퍼차저, 데....",
+          "link": "https://blog.naver.com/oranc_max/224318763099",
+          "blogger": "로딩중인 하루",
+          "date": "2026-06-17"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "'126일 만에 7위' 롯데 4연속 역전승, 또 빅이닝 도파민…가을 기적 꿈꾸...",
+          "link": "http://www.osen.co.kr/article/G1112861047",
+          "press": "",
+          "date": "2026-08-20"
+        },
+        {
+          "title": "美 국채금리 하루 만에 반등세…재무부 개입 '단기 처방' 그치나",
+          "link": "https://www.yna.co.kr/view/AKR20260821003000072?input=1195m",
+          "press": "",
+          "date": "2026-08-20"
+        },
+        {
+          "title": "홈런 세 방 맞고도 웃었다... KIA, 김태군 대타포로 한화전 싹쓸이",
+          "link": "https://www.stnsports.co.kr/news/articleView.html?idxno=321256",
+          "press": "",
+          "date": "2026-08-20"
+        },
+        {
+          "title": "\"맨유 이적 왜 무산됐는지 나도 모른다\" 에데르송 충격 고백! 742억 합의...",
+          "link": "https://mhnse.com/news/articleView.html?idxno=1495134",
+          "press": "",
+          "date": "2026-08-20"
+        },
+        {
+          "title": "'충격의 8위 추락' 한화 정말 폰세-와이스의 팀이었나…작년 KS 진출했는...",
+          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1002919",
           "press": "",
           "date": "2026-08-20"
         }
