@@ -1,86 +1,13 @@
 {
-  "updatedAt": "2026-08-20T22:54:27.718Z",
+  "updatedAt": "2026-08-20T23:22:11.055Z",
   "source": "live",
   "keywords": [
     {
-      "keyword": "스페이스x",
-      "traffic": "100+",
-      "blogTotal": 91223,
-      "newsTotal": 114995,
-      "recentToday": 87,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "\"스페이스X 주가 드디어 반등\" 락업해제후 상승에도 관망하는게 속....",
-          "link": "https://blog.naver.com/nunoslash77/224373635107",
-          "blogger": "이안의 경제 인사이트",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "엔비디아의 스페이스X 지분 투자, 순환금융 덫일까?",
-          "link": "https://blog.naver.com/vitamin2230/224379422282",
-          "blogger": "REONE P&I",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "\"스페이스X 고마워요\" 미래에셋증권 실적 1등한 이유는",
-          "link": "https://blog.naver.com/bomod/224377084640",
-          "blogger": "평범한 직장인의 투자일기",
-          "date": "2026-08-13"
-        },
-        {
-          "title": "스페이스X 관련주 정리, 실제 수혜기업과 테마주 구분법",
-          "link": "https://blog.naver.com/coingap/224370315680",
-          "blogger": "이코노미 인사이드 ECONOMY INSIDE",
-          "date": "2026-08-06"
-        },
-        {
-          "title": "일론 머스크의 스페이스X 상장 주식 개인이 사는 방법 우회 투자법",
-          "link": "https://blog.naver.com/happyobok/224306847561",
-          "blogger": "매일 복 쌓이는 지식 라운지",
-          "date": "2026-06-05"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "[3분증시] 뉴욕증시, 국채금리 반등에 동반 하락",
-          "link": "http://www.yonhapnewstv.co.kr/news/MYH20260821074355b2O",
-          "press": "",
-          "date": "2026-08-20"
-        },
-        {
-          "title": "앤트로픽, 스페이스X 넘어 美 최대 IPO 추진",
-          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1721120",
-          "press": "",
-          "date": "2026-08-20"
-        },
-        {
-          "title": "앤트로픽, 기업 데이터 통제권 강화…이달말 IPO 신청",
-          "link": "https://www.etnews.com/20260821000003",
-          "press": "",
-          "date": "2026-08-20"
-        },
-        {
-          "title": "[미국 특징주] 앤스로픽, 이르면 이달 말 IPO 서류 공개 제출",
-          "link": "https://www.newspim.com/news/view/20260821000033",
-          "press": "",
-          "date": "2026-08-20"
-        },
-        {
-          "title": "[AI 진영 전쟁] ④개방형이 격차를 지운다면…앤스로픽·오픈AI의 흔들리...",
-          "link": "https://www.newspim.com/news/view/20260820001156",
-          "press": "",
-          "date": "2026-08-20"
-        }
-      ],
-      "rank": 1
-    },
-    {
       "keyword": "노동조합",
       "traffic": "5000+",
-      "blogTotal": 119917,
-      "newsTotal": 1382552,
-      "recentToday": 83,
+      "blogTotal": 119922,
+      "newsTotal": 1382561,
+      "recentToday": 78,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -116,44 +43,44 @@
       ],
       "topNews": [
         {
-          "title": "현대차 노조, 10년 만에 전면 파업…전 공장 '올스톱'",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008714921&plink=ORI&cooper=NAVER",
+          "title": "금호타이어, 생산직 이어 사무직도 투쟁 전선에…전사 파업 위기",
+          "link": "https://news.mtn.co.kr/news-detail/2026082106160966248",
           "press": "",
           "date": "2026-08-20"
         },
         {
-          "title": "“거제 폭우 현장서 소방관 의전 동원 자제해야”",
-          "link": "https://www.knnews.co.kr/news/articleView.php?idxno=1549098",
+          "title": "현대차 노조 10년 만의 전면 파업…국내 공장 올스톱",
+          "link": "http://www.4th.kr/news/articleView.html?idxno=2116659",
           "press": "",
           "date": "2026-08-20"
         },
         {
-          "title": "현대차 노조, 10년 만 ‘하루 전면 파업’…“해고자 복직·상여금 인상...",
-          "link": "https://www.kyeonggi.com/article/20260821580005",
+          "title": "[손병관의 뉴스프레소] 친청계 3인 '김어준 유튜브' 동반 출연, 김민석 ...",
+          "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003260747&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
           "press": "",
           "date": "2026-08-20"
         },
         {
-          "title": "현대차 노조, 임단협 결렬에 오늘 하루 전면파업",
-          "link": "https://www.womennews.co.kr/news/articleView.html?idxno=281248",
+          "title": "[속보]'임협 난항' 현대차 노조, 10년 만에 전면 파업",
+          "link": "https://www.ikbc.co.kr/article/view/kbc202608210015",
           "press": "",
           "date": "2026-08-20"
         },
         {
-          "title": "“상여금 50% 인상” 요구…현대차 노조, 10년 만에 전면 파업",
-          "link": "https://www.joongang.co.kr/article/25455027",
+          "title": "현장 소통 꾸준한 우희종 마사회장…\"더 나은 환경·조직 만들 것\"",
+          "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5053389",
           "press": "",
           "date": "2026-08-20"
         }
       ],
-      "rank": 2
+      "rank": 1
     },
     {
       "keyword": "쓰레기봉투",
       "traffic": "5000+",
       "blogTotal": 95718,
       "newsTotal": 142803,
-      "recentToday": 62,
+      "recentToday": 61,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -219,85 +146,12 @@
           "date": "2026-08-20"
         }
       ],
-      "rank": 3
-    },
-    {
-      "keyword": "lg 트윈스",
-      "traffic": "1000+",
-      "blogTotal": 124365,
-      "newsTotal": 1125311,
-      "recentToday": 49,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "[KBO] LG 트윈스 카를로스 카라스코 프로필 | 112승 MLB 다승왕 구종 및 ....",
-          "link": "https://blog.naver.com/leeju0319/224367426231",
-          "blogger": "일상 리뷰 블로그",
-          "date": "2026-08-04"
-        },
-        {
-          "title": "잠실야구장 LG트윈스 어패럴샵｜오스틴 마킹 후기",
-          "link": "https://blog.naver.com/winewithsoo/224354508939",
-          "blogger": "Notes on Us",
-          "date": "2026-07-22"
-        },
-        {
-          "title": "LG트윈스 태닝 키티 머리띠 후기｜헬로키티 응원 굿즈 실물 리뷰",
-          "link": "https://blog.naver.com/lovely_pinkkko/224341555712",
-          "blogger": "러블리 핑꼬의 소소한하루",
-          "date": "2026-07-09"
-        },
-        {
-          "title": "잠실야구장 LG트윈스 썸머홀릭 2026 후기 :: 2년 연속 방문! 워터존 물....",
-          "link": "https://blog.naver.com/dokyy/224363883050",
-          "blogger": "HODO.zip",
-          "date": "2026-07-31"
-        },
-        {
-          "title": "문정빈 야구선수 프로필 LG 트윈스 신예 거포 나이 키 연봉 성적 총....",
-          "link": "https://blog.naver.com/echo90/224341821706",
-          "blogger": "동화같은 삶~!",
-          "date": "2026-07-09"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "김태희 치어리더 '발랄 상큼미 폭발' [치얼UP영상]",
-          "link": "https://www.mydaily.co.kr/page/view/2026082011175585872",
-          "press": "",
-          "date": "2026-08-20"
-        },
-        {
-          "title": "9위팀 방출→1위팀 영입, 전화위복 성공기 만들까…1군 콜업 첫 출장→...",
-          "link": "http://www.osen.co.kr/article/G1112861092",
-          "press": "",
-          "date": "2026-08-20"
-        },
-        {
-          "title": "세 번 뒤집힌 승부, 김태군이 끝냈다...KIA의 5연승 그리고 3위 등극",
-          "link": "http://www.maniareport.com/view.php?ud=202608202019001546cf2d78c68_19",
-          "press": "",
-          "date": "2026-08-20"
-        },
-        {
-          "title": "'배 아파서 어쩌나' SSG가 버린 좌타자, KT 이적 후 첫 경기부터 개인 최...",
-          "link": "https://www.starnewskorea.com/sports/2026/08/21/2026082020272256232",
-          "press": "",
-          "date": "2026-08-20"
-        },
-        {
-          "title": "불펜 무너진 삼성라이온즈, 1위 추격 실패…3위 KIA에 쫓기는 처지",
-          "link": "https://dgmbc.com/NewsArticle/857803",
-          "press": "",
-          "date": "2026-08-20"
-        }
-      ],
-      "rank": 4
+      "rank": 2
     },
     {
       "keyword": "김민재",
-      "traffic": "2000+",
-      "blogTotal": 72755,
+      "traffic": "5000+",
+      "blogTotal": 72758,
       "newsTotal": 298619,
       "recentToday": 36,
       "recentWeek": 100,
@@ -365,15 +219,161 @@
           "date": "2026-08-20"
         }
       ],
+      "rank": 3
+    },
+    {
+      "keyword": "유시민",
+      "traffic": "100+",
+      "blogTotal": 96678,
+      "newsTotal": 167494,
+      "recentToday": 21,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "유시민 작가 발언에 대한 여론 반응 정리(16일)",
+          "link": "https://blog.naver.com/intgens/224349454633",
+          "blogger": "남양주타임즈",
+          "date": "2026-07-17"
+        },
+        {
+          "title": "유시민 이재명 대통령 저격 발언 논란, 여권 갈등의 3가지 핵심 쟁점....",
+          "link": "https://blog.naver.com/lanezzang/224349632735",
+          "blogger": "세상의 모든 이슈와 이야기",
+          "date": "2026-07-17"
+        },
+        {
+          "title": "박지원 유시민 발언 논란의 맥락 정리",
+          "link": "https://blog.naver.com/01s20/224348689326",
+          "blogger": "말랑말랑 유니크해",
+          "date": "2026-07-16"
+        },
+        {
+          "title": "문조털래유 뜻과 유래, 문재인 조국 김어준 정청래 유시민 5명을 의....",
+          "link": "https://blog.naver.com/pso164/224336846675",
+          "blogger": "과학커뮤니케이터 박종현",
+          "date": "2026-07-05"
+        },
+        {
+          "title": "유시민, 최욱 | 왜 남탓 하는가?",
+          "link": "https://blog.naver.com/writingarchitect/224332406608",
+          "blogger": "글 짓는 건축가의 서재",
+          "date": "2026-07-01"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "'필연적 실패'라던 유시민, 이하늘과 제주 낚시…\"내가 이재명 왜 싫어...",
+          "link": "https://www.news1.kr/society/general-society/6265052",
+          "press": "",
+          "date": "2026-08-20"
+        },
+        {
+          "title": "“안 어울리는 조합”…이하늘, 유시민과 단둘이 ‘낚시 여행’",
+          "link": "https://www.sportsseoul.com/news/read/1629852?ref=naver",
+          "press": "",
+          "date": "2026-08-20"
+        },
+        {
+          "title": "\"형님, 정말 李대통령 싫어해요?\" 유시민, 이하늘 질문에 내놓은 답",
+          "link": "http://www.fnnews.com/news/202608210716268856",
+          "press": "",
+          "date": "2026-08-20"
+        },
+        {
+          "title": "정치, ‘탈커뮤’를 부탁해[점선면]",
+          "link": "https://www.khan.co.kr/article/202608210700001",
+          "press": "",
+          "date": "2026-08-20"
+        },
+        {
+          "title": "유시민 \"내가 李대통령을 왜 싫어해\"…이하늘과 낚시 떠난 근황",
+          "link": "https://news.tvchosun.com/site/data/html_dir/2026/08/21/2026082190021.html",
+          "press": "",
+          "date": "2026-08-20"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "keyword": "skhy",
+      "traffic": "200+",
+      "blogTotal": 1302,
+      "newsTotal": 765,
+      "recentToday": 20,
+      "recentWeek": 85,
+      "topBlogs": [
+        {
+          "title": "최태원 SKHY 인스타그램 뜻 의미? 김희영 티앤씨 이사장 패션 아이템",
+          "link": "https://blog.naver.com/luvddang9/224345054532",
+          "blogger": "에이미의 아름다운 날들",
+          "date": "2026-07-13"
+        },
+        {
+          "title": "skhyv 난리난 최태원 회장 인스타 스토리 근황 SKHYV 완벽 정리, SKHY와 S....",
+          "link": "https://blog.naver.com/wangmal90/224344228856",
+          "blogger": "살까말까",
+          "date": "2026-07-12"
+        },
+        {
+          "title": "\"오늘 SK하이닉스 주가 6% 상승합니다\" AI 모멘텀 재점화",
+          "link": "https://blog.naver.com/antsal/224376969412",
+          "blogger": "한입 재테크",
+          "date": "2026-08-13"
+        },
+        {
+          "title": "SK하이닉스 ADR 상장 정리ㅣ공모가 149달러, 본주냐 SKHY냐 선택 가이드",
+          "link": "https://blog.naver.com/em5920/224342680421",
+          "blogger": "민무스의 까다로운 아카이브",
+          "date": "2026-07-10"
+        },
+        {
+          "title": "“SKHY만 사면 되는 줄 알았는데” SKHX·SKHZ는 뭐가 다를까?",
+          "link": "https://blog.naver.com/kimsong8106/224344007305",
+          "blogger": "두스푼의 경제소식 ~ ✿",
+          "date": "2026-07-12"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "미국증시, 국채금리 반등·유가 상승에 하락…월마트 9%↓·반도체 선별...",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16169102",
+          "press": "",
+          "date": "2026-08-20"
+        },
+        {
+          "title": "뉴욕증시 장중...월마트·모더나 '추락' vs 마이크론·SKHY '활짝'",
+          "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=170190",
+          "press": "",
+          "date": "2026-08-20"
+        },
+        {
+          "title": "SK하이닉스 ADR 이틀째 상승…적극적 주주환원 정책에 5%↑",
+          "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431074",
+          "press": "",
+          "date": "2026-08-20"
+        },
+        {
+          "title": "캐시 우드, 하이닉스·마이크론 투지 경계...HBM 가격 10배 폭등이 악재...",
+          "link": "http://coinreaders.com/253790",
+          "press": "",
+          "date": "2026-08-20"
+        },
+        {
+          "title": "미국증시 반도체주?..마벨 '급등', SK하이닉스 '상승', 메모리주 '뚝'",
+          "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=170129",
+          "press": "",
+          "date": "2026-08-19"
+        }
+      ],
       "rank": 5
     },
     {
       "keyword": "weather",
       "traffic": "2000+",
-      "blogTotal": 61276,
-      "newsTotal": 206578,
+      "blogTotal": 61277,
+      "newsTotal": 206580,
       "recentToday": 17,
-      "recentWeek": 89,
+      "recentWeek": 90,
       "topBlogs": [
         {
           "title": "몸이 좀 찌뿌듯할 때, 성인 영어회화 표현 under the weather",
@@ -408,6 +408,12 @@
       ],
       "topNews": [
         {
+          "title": "시누크 헬기의 날개처럼, 내 몸뚱이를 들어 올릴 그 어떤 날개여?",
+          "link": "http://www.breaknews.com/1230494",
+          "press": "",
+          "date": "2026-08-20"
+        },
+        {
           "title": "US Severe Weather Power Outages",
           "link": "https://n.news.naver.com/mnews/article/077/0007130147?sid=104",
           "press": "",
@@ -427,12 +433,6 @@
         },
         {
           "title": "PANAMA WEATHER",
-          "link": "https://n.news.naver.com/mnews/article/091/0010287309?sid=104",
-          "press": "",
-          "date": "2026-08-20"
-        },
-        {
-          "title": "PANAMA WEATHER",
           "link": "https://n.news.naver.com/mnews/article/091/0010287308?sid=104",
           "press": "",
           "date": "2026-08-20"
@@ -441,72 +441,72 @@
       "rank": 6
     },
     {
-      "keyword": "심우정",
+      "keyword": "주성엔지니어링",
       "traffic": "100+",
-      "blogTotal": 7375,
-      "newsTotal": 35256,
-      "recentToday": 14,
-      "recentWeek": 16,
+      "blogTotal": 12749,
+      "newsTotal": 53712,
+      "recentToday": 15,
+      "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "'윤석열 내란 가담 의혹' 심우정 전 법무부장관 혐의와 재판 전망",
-          "link": "https://blog.naver.com/pso164/224347259504",
-          "blogger": "과학커뮤니케이터 박종현",
-          "date": "2026-07-15"
+          "title": "26년 주성엔지니어링 연봉(채용, 초봉, 사원, 대리, 과장, 차장, 성과....",
+          "link": "https://blog.naver.com/cokosonge2/224378982507",
+          "blogger": "돈스탑의 Don’t stop",
+          "date": "2026-08-16"
         },
         {
-          "title": "심우정 전 검찰총장 결국 구속영장…‘내란 가담 의혹’ 어디까지 ....",
-          "link": "https://blog.naver.com/jalanika1/224346063197",
-          "blogger": "하늘아이 매거진",
-          "date": "2026-07-14"
+          "title": "주성엔지니어링 주가 분석 및 매수 매도 타이밍 잡기 총정리",
+          "link": "https://blog.naver.com/skshwodud/224309586514",
+          "blogger": "하늘바라기",
+          "date": "2026-06-08"
         },
         {
-          "title": "심우정 전 검찰총장 구속영장 청구, 내란 가담 혐의 핵심 내용 총정....",
-          "link": "https://blog.naver.com/rentdoctor/224346047531",
-          "blogger": "벌써1년렌트",
-          "date": "2026-07-14"
+          "title": "주성엔지니어링 펀더멘털 분석 및 주식 전망, 주성엔지니어링 주가 ....",
+          "link": "https://blog.naver.com/jungh3285/224372692558",
+          "blogger": "임소장[부동산.경제.주식 ]",
+          "date": "2026-08-09"
         },
         {
-          "title": "심우정 구속영장 누구 프로필 나이 고향 학력 재산 경력 가족 나무....",
-          "link": "https://blog.naver.com/inos2002/224346029945",
-          "blogger": "양평 부동산 스토리",
-          "date": "2026-07-14"
+          "title": "주성엔지니어링 주가 800% 상승에도 투자하지 못하는 이유 (반도체 ....",
+          "link": "https://blog.naver.com/grandjun82/224313010554",
+          "blogger": "경제 투자 인사이트",
+          "date": "2026-06-11"
         },
         {
-          "title": "심우정 프로필 나이 고향 학력 재산 경력 나무위키 정보, 구속영장 ....",
-          "link": "https://blog.naver.com/yessujin/224346074072",
-          "blogger": "yessujin님의 블로그",
-          "date": "2026-07-14"
+          "title": "\"누구는 60만원 누구는 12만원\" 주성엔지니어링주가 진짜 근황",
+          "link": "https://blog.naver.com/misskim616/224349288263",
+          "blogger": "미스킴의 한땀경제",
+          "date": "2026-07-17"
         }
       ],
       "topNews": [
         {
-          "title": "【오늘의 법조】 2026년 8월 21일",
-          "link": "https://www.lawtimes.co.kr/news/articleView.html?idxno=225128",
+          "title": "957조 반도체 팹 투자 시동…K-소부장 \"실증보다 양산 데이터 중요\"",
+          "link": "https://www.news1.kr/industry/sb-founded/6264587",
           "press": "",
           "date": "2026-08-20"
         },
         {
-          "title": "'검찰 개혁'의 단초‥'김건희 무혐의' 줄줄이 기소",
-          "link": "https://imnews.imbc.com/replay/2026/nwtoday/article/6846250_37012.html",
+          "title": "알테오젠 두자릿수 상승률…향배 '이목'",
+          "link": "https://www.cbci.co.kr/news/articleView.html?idxno=599726",
           "press": "",
           "date": "2026-08-20"
         },
         {
-          "title": "특검, '내란 가담·항고포기' 심우정 불구속 기소",
-          "link": "http://www.yonhapnewstv.co.kr/news/MYH20260821051700kAP",
+          "title": "코스닥, 기관과 개인 매수에 상승 마감...알테오젠, 원익IPS, 에코프로비...",
+          "link": "http://www.econonews.co.kr/news/articleView.html?idxno=443107",
           "press": "",
           "date": "2026-08-20"
         },
         {
-          "title": "홍장원-조성현 등 무혐의 뒤집은 종합특검… 공은 법원으로",
-          "link": "https://www.donga.com/news/Society/article/all/20260821/134516262/2",
+          "title": "SK하이닉스 자사주 소각에 코스피 급등…‘칠천피’ 성큼",
+          "link": "https://www.kukinews.com/article/view/kuk202608200200",
           "press": "",
           "date": "2026-08-20"
         },
         {
-          "title": "2차 특검, 심우정 전 검찰총장 기소",
-          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000004833&cp=nv",
+          "title": "[단독] 'HBF 원팀' 나온다…주성엔지 등 소부장 60곳 참여",
+          "link": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608200823&t=NNv",
           "press": "",
           "date": "2026-08-20"
         }
@@ -517,7 +517,7 @@
       "keyword": "로스앤젤레스 다저스",
       "traffic": "200+",
       "blogTotal": 4238,
-      "newsTotal": 116810,
+      "newsTotal": 116812,
       "recentToday": 3,
       "recentWeek": 25,
       "topBlogs": [
@@ -554,6 +554,18 @@
       ],
       "topNews": [
         {
+          "title": "오타니, 아시아 선수 최초 6시즌 연속 30홈런",
+          "link": "https://kids.donga.com/news/articleView.html?idxno=169651",
+          "press": "",
+          "date": "2026-08-20"
+        },
+        {
+          "title": "아이브 장원영, 태도 논란 일었던 그때 그 '놀이동산 샷' 한 달 만에 '직...",
+          "link": "https://www.tenasia.co.kr/article/2026082135664",
+          "press": "",
+          "date": "2026-08-20"
+        },
+        {
           "title": "'토미 존 수술' 주인공 토미 존 별세… 향년 83세",
           "link": "https://www.ggilbo.com/news/articleView.html?idxno=1175937",
           "press": "",
@@ -570,21 +582,82 @@
           "link": "https://www.hankookilbo.com/news/article/A2026082012370004960?did=NA",
           "press": "",
           "date": "2026-08-20"
-        },
-        {
-          "title": "선수 통로·워밍업 구역까지…마이리얼트립, LAFC 경기장 안쪽을 여행 상...",
-          "link": "https://www.venturesquare.net/1107114/",
-          "press": "",
-          "date": "2026-08-20"
-        },
-        {
-          "title": "다저스 25년 만의 대기록…오타니 그는 도대체",
-          "link": "https://www.seoul.co.kr/news/sport/baseball/baseball-world/2026/08/20/20260820500009?wlog_tag3=naver",
-          "press": "",
-          "date": "2026-08-19"
         }
       ],
       "rank": 8
+    },
+    {
+      "keyword": "погода",
+      "traffic": "1000+",
+      "blogTotal": 249,
+      "newsTotal": 8,
+      "recentToday": 0,
+      "recentWeek": 0,
+      "topBlogs": [
+        {
+          "title": "가물다, 가물대다, 가물치, 가뭄, 가뭇가뭇하다, 가미, 가미되다, 가....",
+          "link": "https://moen.tistory.com/0100",
+          "blogger": "Dictionary :: Dictionary",
+          "date": "2020-02-06"
+        },
+        {
+          "title": "가을, 가을걷이, 가을걷이하다, 가을날, 가을맞이, 가을바람, 가을밤....",
+          "link": "https://moen.tistory.com/119",
+          "blogger": "Dictionary :: Dictionary",
+          "date": "2020-02-06"
+        },
+        {
+          "title": "쌀가게, 쌀가루, 쌀뜨물, 쌀밥, 쌀보리, 쌀쌀맞다, 쌀쌀하다, 쌀알, ....",
+          "link": "https://moen.tistory.com/2896",
+          "blogger": "Dictionary :: Dictionary",
+          "date": "2020-02-06"
+        },
+        {
+          "title": "변덕, 변덕맞다, 변덕스럽다, 변덕쟁이, 변동, 변동되다, 변동시키다....",
+          "link": "https://moen.tistory.com/2075",
+          "blogger": "Dictionary :: Dictionary",
+          "date": "2020-02-06"
+        },
+        {
+          "title": "경치, 경치다, 경칩, 경칭, 경쾌하다, 경탄, 경탄스럽다, 경탄하다, ....",
+          "link": "https://moen.tistory.com/0368",
+          "blogger": "Dictionary :: Dictionary",
+          "date": "2020-02-06"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "항일투쟁 동지 ‘트랴피친’의 죽음, 독립군 내홍으로 번지다",
+          "link": "https://h21.hani.co.kr/arti/culture/culture_general/58243.html",
+          "press": "",
+          "date": "2025-10-29"
+        },
+        {
+          "title": "[Global Language 러시아어] 317",
+          "link": "http://jedam15.koreafree.co.kr/news/view.html?section=1&category=80&item=&no=34677",
+          "press": "",
+          "date": "2017-11-02"
+        },
+        {
+          "title": "[Global Language 러시아어] 312",
+          "link": "http://weeklytrade.co.kr/news/view.html?section=1&category=80&item=&no=33536",
+          "press": "",
+          "date": "2017-09-21"
+        },
+        {
+          "title": "[Global Language 러시아어] 311",
+          "link": "http://weeklytrade.co.kr/news/view.html?section=1&category=80&item=&no=33378",
+          "press": "",
+          "date": "2017-09-18"
+        },
+        {
+          "title": "이 인형같은 동물은 진짜 인형이다(사진)",
+          "link": "http://www.huffingtonpost.kr/2016/02/14/story_n_9230354.html",
+          "press": "",
+          "date": "2016-02-14"
+        }
+      ],
+      "rank": 9
     },
     {
       "keyword": "สภาพอากาศ",
@@ -626,79 +699,6 @@
         }
       ],
       "topNews": [],
-      "rank": 9
-    },
-    {
-      "keyword": "thời tiết",
-      "traffic": "2000+",
-      "blogTotal": 242,
-      "newsTotal": 205,
-      "recentToday": 0,
-      "recentWeek": 1,
-      "topBlogs": [
-        {
-          "title": "쉽게 배우는 베트남어 날씨 표현 카드☀️️",
-          "link": "https://blog.naver.com/hyeyeon1995-/224297986424",
-          "blogger": "다온 글로벌문화교육센터",
-          "date": "2026-05-27"
-        },
-        {
-          "title": "가물다, 가물대다, 가물치, 가뭄, 가뭇가뭇하다, 가미, 가미되다, 가....",
-          "link": "https://moen.tistory.com/0100",
-          "blogger": "Dictionary :: Dictionary",
-          "date": "2020-02-06"
-        },
-        {
-          "title": "건조되다¹, 건조되다², 건조물, 건조시키다, 건조실, 건조제, 건조 ....",
-          "link": "https://moen.tistory.com/0280",
-          "blogger": "Dictionary :: Dictionary",
-          "date": "2020-02-06"
-        },
-        {
-          "title": "베트남어 배워보기",
-          "link": "https://jellasodam.tistory.com/4219",
-          "blogger": "채운 신윤정의 작은집",
-          "date": "2025-01-05"
-        },
-        {
-          "title": "고르다¹, 고르다², 고르다³, 고름¹, 고름², 고리¹, 고리², 고리³, ....",
-          "link": "https://moen.tistory.com/405",
-          "blogger": "Dictionary :: Dictionary",
-          "date": "2020-02-06"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "Bộ trưởng Tư pháp Jeong Seong-ho bất ngờ nộp đơn từ chức s",
-          "link": "https://vn.asiatoday.co.kr/view.php?key=20260818001548364",
-          "press": "",
-          "date": "2026-08-18"
-        },
-        {
-          "title": "Trump xác nhận Kim Jong-un đã phản hồi, hé lộ khả năng nối l",
-          "link": "https://vn.asiatoday.co.kr/view.php?key=20260818000920569",
-          "press": "",
-          "date": "2026-08-18"
-        },
-        {
-          "title": "Trump viện dẫn quan hệ với Kim Jong-un, chỉ thị cắt giảm mạnh ...",
-          "link": "https://vn.asiatoday.co.kr/view.php?key=20260818000932069",
-          "press": "",
-          "date": "2026-08-18"
-        },
-        {
-          "title": "Diễn viên Ha-young vướng tranh cãi vì nghi vấn thân Nhật của c",
-          "link": "https://vn.asiatoday.co.kr/view.php?key=20260811001113496",
-          "press": "",
-          "date": "2026-08-11"
-        },
-        {
-          "title": "Samsung Electronics và SK hynix đánh giá thiết bị khắc của Trung...",
-          "link": "https://vn.asiatoday.co.kr/view.php?key=20260806000927277",
-          "press": "",
-          "date": "2026-08-06"
-        }
-      ],
       "rank": 10
     }
   ]
