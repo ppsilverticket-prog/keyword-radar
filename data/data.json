@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-21T20:49:21.315Z",
+  "updatedAt": "2026-08-21T21:20:51.071Z",
   "source": "live",
   "keywords": [
     {
       "keyword": "포로",
-      "traffic": "100+",
-      "blogTotal": 180484,
-      "newsTotal": 267362,
-      "recentToday": 90,
+      "traffic": "200+",
+      "blogTotal": 180486,
+      "newsTotal": 267363,
+      "recentToday": 89,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -43,6 +43,12 @@
       ],
       "topNews": [
         {
+          "title": "[오피셜] 손흥민 ‘70m 단독 돌파 골’ 완벽하게 재현한 ‘토트넘 에이...",
+          "link": "https://sports.khan.co.kr/article/202608220606003?pt=nv",
+          "press": "",
+          "date": "2026-08-21"
+        },
+        {
           "title": "우주판 ‘트로이 목마’는 AI였다, 놀란이 소환한 큐브릭",
           "link": "https://www.joongang.co.kr/article/25455229",
           "press": "",
@@ -65,12 +71,6 @@
           "link": "https://www.mydaily.co.kr/page/view/2026082122500435230",
           "press": "",
           "date": "2026-08-21"
-        },
-        {
-          "title": "[AI상보] '김호령 만루포+양현종 9승' KIA, 키움 11-1 대파 6연승",
-          "link": "https://www.newspim.com/news/view/20260821000960",
-          "press": "",
-          "date": "2026-08-21"
         }
       ],
       "rank": 1
@@ -78,7 +78,7 @@
     {
       "keyword": "pl",
       "traffic": "200+",
-      "blogTotal": 94018,
+      "blogTotal": 94021,
       "newsTotal": 110624,
       "recentToday": 62,
       "recentWeek": 100,
@@ -150,8 +150,8 @@
     },
     {
       "keyword": "아스날",
-      "traffic": "200+",
-      "blogTotal": 106087,
+      "traffic": "500+",
+      "blogTotal": 106089,
       "newsTotal": 89247,
       "recentToday": 45,
       "recentWeek": 100,
@@ -225,7 +225,7 @@
       "keyword": "premier league",
       "traffic": "100+",
       "blogTotal": 11008,
-      "newsTotal": 124482,
+      "newsTotal": 124484,
       "recentToday": 2,
       "recentWeek": 15,
       "topBlogs": [
@@ -262,6 +262,18 @@
       ],
       "topNews": [
         {
+          "title": "BRITAIN SOCCER",
+          "link": "https://n.news.naver.com/mnews/article/091/0010287781?sid=104",
+          "press": "",
+          "date": "2026-08-21"
+        },
+        {
+          "title": "epaselect BRITAIN SOCCER",
+          "link": "https://n.news.naver.com/mnews/article/091/0010287706?sid=104",
+          "press": "",
+          "date": "2026-08-21"
+        },
+        {
           "title": "월경주기 맞춘 여성 선수 영양제…더벤처스, 리브라헬스 시드 투자",
           "link": "https://www.venturesquare.net/1107531/",
           "press": "",
@@ -278,18 +290,6 @@
           "link": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3032020",
           "press": "",
           "date": "2026-08-19"
-        },
-        {
-          "title": "England Season Preview Soccer",
-          "link": "https://n.news.naver.com/mnews/article/077/0007126760?sid=104",
-          "press": "",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "Jeff Bezos Buys a Piece of Liverpool Football Club",
-          "link": "https://www.nytimes.com/2026/08/14/business/jeff-bezos-liverpool-football-club.html?partner=naver",
-          "press": "",
-          "date": "2026-08-14"
         }
       ],
       "rank": 4
@@ -298,7 +298,7 @@
       "keyword": "arsenal vs coventry",
       "traffic": "200+",
       "blogTotal": 1,
-      "newsTotal": 9,
+      "newsTotal": 11,
       "recentToday": 1,
       "recentWeek": 1,
       "topBlogs": [
@@ -335,6 +335,18 @@
       ],
       "topNews": [
         {
+          "title": "BRITAIN SOCCER",
+          "link": "https://n.news.naver.com/mnews/article/091/0010287781?sid=104",
+          "press": "",
+          "date": "2026-08-21"
+        },
+        {
+          "title": "epaselect BRITAIN SOCCER",
+          "link": "https://n.news.naver.com/mnews/article/091/0010287706?sid=104",
+          "press": "",
+          "date": "2026-08-21"
+        },
+        {
           "title": "[오피셜] FA컵 64강 대진 확정…아스널vs뉴캐슬-마린vs토트넘",
           "link": "http://www.stnsports.co.kr/news/articleView.html?idxno=127972",
           "press": "",
@@ -347,29 +359,17 @@
           "date": "2014-01-25"
         },
         {
-          "title": "(SP)BRITAIN-LONDON-SOCCER-FA CUP-ARSENAL VS COVENTRY CITY",
-          "link": "https://n.news.naver.com/mnews/article/348/0000025354?sid=104",
-          "press": "",
-          "date": "2014-01-25"
-        },
-        {
           "title": "(SP)BRITAIN-LONDON-SOCCER-FA CUP-ARSENAL VS COVENTRY",
           "link": "https://n.news.naver.com/mnews/article/348/0000025355?sid=104",
           "press": "",
           "date": "2014-01-25"
-        },
-        {
-          "title": "BRITAIN SOCCER FA CUP",
-          "link": "https://n.news.naver.com/mnews/article/091/0004135580?sid=104",
-          "press": "",
-          "date": "2014-01-24"
         }
       ],
       "rank": 5
     },
     {
-      "keyword": "อาร์เซนอล พบ โคเวนทรี",
-      "traffic": "100+",
+      "keyword": "arsenal đấu với coventry",
+      "traffic": "200+",
       "blogTotal": 0,
       "newsTotal": 0,
       "recentToday": 0,
@@ -377,6 +377,17 @@
       "topBlogs": [],
       "topNews": [],
       "rank": 6
+    },
+    {
+      "keyword": "อาร์เซนอล พบ โคเวนทรี",
+      "traffic": "200+",
+      "blogTotal": 0,
+      "newsTotal": 0,
+      "recentToday": 0,
+      "recentWeek": 0,
+      "topBlogs": [],
+      "topNews": [],
+      "rank": 7
     },
     {
       "keyword": "f 35a",
@@ -449,7 +460,7 @@
           "date": "2025-12-25"
         }
       ],
-      "rank": 7
+      "rank": 8
     },
     {
       "keyword": "아스널 대 코번트리",
@@ -466,28 +477,28 @@
           "date": "2026-08-21"
         },
         {
+          "title": "손흥민 골든슈로 보는 역대 EPL 외국인 득점왕 국적 비교",
+          "link": "https://jackarchive.tistory.com/33",
+          "blogger": "잭's 아카이브",
+          "date": "2022-05-23"
+        },
+        {
           "title": "챔피언 아스널·PSG·인테르 출격…유럽축구 빅리그 개막 라운드 총....",
           "link": "https://dogma01.tistory.com/6965",
           "blogger": "와이비노멀",
           "date": "2026-08-20"
         },
         {
-          "title": "[프리미어리그 1R 개막전 프리뷰] 아스널 vs 코번트리 시티 | 디펜딩 ....",
-          "link": "https://blog.naver.com/scoredlab/224385098527",
-          "blogger": "ScoredLab.com_님의 블로그",
-          "date": "2026-08-21"
+          "title": "2026-2027 EPL 경기일정 총정리 개막전부터 1라운드 전체 일정표",
+          "link": "https://blog.naver.com/200tree/224368642082",
+          "blogger": "200TREE 정보숲",
+          "date": "2026-08-05"
         },
         {
           "title": "아스널 찐팬은 꼭 봐야한다! 2026-27 프리미어리그 개막전, 1라운드 경....",
           "link": "https://blog.naver.com/fnt33/224381106270",
           "blogger": "fnt33님의 블로그",
           "date": "2026-08-17"
-        },
-        {
-          "title": "손흥민 골든슈로 보는 역대 EPL 외국인 득점왕 국적 비교",
-          "link": "https://jackarchive.tistory.com/33",
-          "blogger": "잭's 아카이브",
-          "date": "2022-05-23"
         }
       ],
       "topNews": [
@@ -522,7 +533,7 @@
           "date": "2026-08-13"
         }
       ],
-      "rank": 8
+      "rank": 9
     },
     {
       "keyword": "al-riyadh vs al-nassr",
@@ -593,79 +604,6 @@
           "link": "https://n.news.naver.com/mnews/article/091/0010210944?sid=104",
           "press": "",
           "date": "2026-05-21"
-        }
-      ],
-      "rank": 9
-    },
-    {
-      "keyword": "전화",
-      "traffic": "200+",
-      "blogTotal": 13689021,
-      "newsTotal": 7726621,
-      "recentToday": 0,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "[제주맛집] 치타치킨 포장 성공! 주문 꿀팁 +웨이팅, 전화, 주차, 치....",
-          "link": "https://blog.naver.com/ek_om/224370935782",
-          "blogger": "어망이의 하루",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "토스뱅크 고객센터 전화번호 연결방법 대표번호 주의사항 안내",
-          "link": "https://blog.naver.com/badahorangyi/224341338292",
-          "blogger": "기어 앤 코드",
-          "date": "2026-07-09"
-        },
-        {
-          "title": "모르는 번호 조회 방법, 더콜 스팸 전화번호부 검색 방법",
-          "link": "https://blog.naver.com/01198916129/224323385878",
-          "blogger": "테크티노의 IT 이야기",
-          "date": "2026-06-22"
-        },
-        {
-          "title": "엡손 서비스센터 AS센터 전화번호, 한 번에 정리해드립니다",
-          "link": "https://blog.naver.com/nabi6066/224339592727",
-          "blogger": "감성테크",
-          "date": "2026-07-07"
-        },
-        {
-          "title": "하루에도 몇 번씩 오는 070 전화, 갤럭시는 \"이 설정\" 하나면 편해집....",
-          "link": "https://blog.naver.com/holic2022/224371936973",
-          "blogger": "진해휴대폰성지 #폰폰폰",
-          "date": "2026-08-08"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "이 대통령이 \"선배님 죄송합니다\"라며 공식적으로 사과한 사람",
-          "link": "https://www.wikitree.co.kr/articles/1154039",
-          "press": "",
-          "date": "2026-08-21"
-        },
-        {
-          "title": "고정 11개 전현무 방송 펑크 절대 왜 없나?주변 부채질에도 “나락 조심...",
-          "link": "https://www.newsen.com/news_view.php?uid=202608212305106110",
-          "press": "",
-          "date": "2026-08-21"
-        },
-        {
-          "title": "[법신논단] 참을 수 없는 불편함",
-          "link": "https://www.lawtimes.co.kr/news/articleView.html?idxno=225080",
-          "press": "",
-          "date": "2026-08-21"
-        },
-        {
-          "title": "\"딸 성폭행 당하는데도 SNS\"…돈·마약 받고 팔아넘긴 20대 엄마 체포",
-          "link": "https://www.news1.kr/world/general-world/6265440",
-          "press": "",
-          "date": "2026-08-21"
-        },
-        {
-          "title": "달리던 차 보닛서 뱀 '빼꼼'…미 도로 질주하다 '화들짝'",
-          "link": "http://www.yonhapnewstv.co.kr/news/AKR20260818180332dfv",
-          "press": "",
-          "date": "2026-08-21"
         }
       ],
       "rank": 10
