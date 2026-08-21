@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-08-21T18:34:19.678Z",
+  "updatedAt": "2026-08-21T19:23:38.513Z",
   "source": "live",
   "keywords": [
     {
       "keyword": "lck",
       "traffic": "1000+",
-      "blogTotal": 47655,
+      "blogTotal": 47656,
       "newsTotal": 144090,
       "recentToday": 70,
       "recentWeek": 100,
@@ -151,9 +151,9 @@
     {
       "keyword": "탑승",
       "traffic": "1000+",
-      "blogTotal": 829766,
+      "blogTotal": 829773,
       "newsTotal": 1640929,
-      "recentToday": 54,
+      "recentToday": 47,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -175,16 +175,16 @@
           "date": "2026-08-13"
         },
         {
-          "title": "[항공사 후기] 핀에어(FINNAIR) 파리행 탑승기 ✈️ 헬싱키 경유 환승 ....",
-          "link": "https://blog.naver.com/yulzzang_/224318057292",
-          "blogger": "파이어족을꿈꾸는율쨩",
-          "date": "2026-06-17"
-        },
-        {
           "title": "[호주 여행] 대한항공 이코노미 vs 젯스타 비즈니스? 젯스타 비즈니....",
           "link": "https://blog.naver.com/shql137/224319527256",
           "blogger": "B급 감성 맛집블로그인데 여행과 제품추천도 곁들인..",
           "date": "2026-06-18"
+        },
+        {
+          "title": "[항공사 후기] 핀에어(FINNAIR) 파리행 탑승기 ✈️ 헬싱키 경유 환승 ....",
+          "link": "https://blog.naver.com/yulzzang_/224318057292",
+          "blogger": "파이어족을꿈꾸는율쨩",
+          "date": "2026-06-17"
         }
       ],
       "topNews": [
@@ -224,11 +224,17 @@
     {
       "keyword": "정선희",
       "traffic": "200+",
-      "blogTotal": 13083,
+      "blogTotal": 13090,
       "newsTotal": 39095,
-      "recentToday": 34,
+      "recentToday": 27,
       "recentWeek": 100,
       "topBlogs": [
+        {
+          "title": "정선희, 故안재환 사별 후 칩거하던 시절 고백…“대상포진 걸린 홍....",
+          "link": "https://blog.naver.com/zini5530/224384928502",
+          "blogger": "야옹이화장대",
+          "date": "2026-08-20"
+        },
         {
           "title": "정선희 기미팩 샤르드 필오프팩 한 통 사용 결과 솔직 후기 | 기미변....",
           "link": "https://blog.naver.com/hs05025252/224308037325",
@@ -240,12 +246,6 @@
           "link": "https://blog.naver.com/chs3595/224385373556",
           "blogger": "올리비아 아름다운 일상",
           "date": "2026-08-21"
-        },
-        {
-          "title": "정선희, 故안재환 사별 후 칩거하던 시절 고백…“대상포진 걸린 홍....",
-          "link": "https://blog.naver.com/zini5530/224384928502",
-          "blogger": "야옹이화장대",
-          "date": "2026-08-20"
         },
         {
           "title": "78억 사채 18년 짊어진 정선희가 안재환 사별 후 처음 무너진 장면",
@@ -297,7 +297,7 @@
     {
       "keyword": "이미숙",
       "traffic": "2000+",
-      "blogTotal": 21464,
+      "blogTotal": 21466,
       "newsTotal": 80944,
       "recentToday": 25,
       "recentWeek": 100,
@@ -414,14 +414,14 @@
           "date": "2026-08-21"
         },
         {
-          "title": "[LCK]페이즈 맹활약 속 T1 3연패 탈출... KT는 6연패(종합)",
-          "link": "https://www.fomos.kr/redirect/news_view?news_cate_id=39&entry_id=155314",
+          "title": "T1, KT 잡고 3연패 탈출…KT는 6연패",
+          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000005069&cp=nv",
           "press": "",
           "date": "2026-08-21"
         },
         {
-          "title": "T1, KT 잡고 3연패 탈출…KT는 6연패",
-          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000005069&cp=nv",
+          "title": "[LCK]페이즈 맹활약 속 T1 3연패 탈출... KT는 6연패(종합)",
+          "link": "https://www.fomos.kr/redirect/news_view?news_cate_id=39&entry_id=155314",
           "press": "",
           "date": "2026-08-21"
         },
@@ -494,13 +494,13 @@
         },
         {
           "title": "SAUDI ARABIA SOCCER",
-          "link": "https://n.news.naver.com/mnews/article/091/0010210962?sid=104",
+          "link": "https://n.news.naver.com/mnews/article/091/0010210967?sid=104",
           "press": "",
           "date": "2026-05-21"
         },
         {
           "title": "SAUDI ARABIA SOCCER",
-          "link": "https://n.news.naver.com/mnews/article/091/0010210967?sid=104",
+          "link": "https://n.news.naver.com/mnews/article/091/0010210962?sid=104",
           "press": "",
           "date": "2026-05-21"
         },
@@ -516,8 +516,8 @@
     {
       "keyword": "전화",
       "traffic": "200+",
-      "blogTotal": 13688899,
-      "newsTotal": 7726609,
+      "blogTotal": 13688977,
+      "newsTotal": 7726611,
       "recentToday": 0,
       "recentWeek": 100,
       "topBlogs": [
@@ -554,6 +554,18 @@
       ],
       "topNews": [
         {
+          "title": "룰라·트럼프, 80분간 통화…관세 문제 등 논의",
+          "link": "https://www.yna.co.kr/view/AKR20260822003400087?input=1195m",
+          "press": "",
+          "date": "2026-08-21"
+        },
+        {
+          "title": "[지윤철학원의 오늘의 운세] 2026년 8월 22일 토요일 띠별 운세",
+          "link": "https://www.news2day.co.kr/article/20260821500200",
+          "press": "",
+          "date": "2026-08-21"
+        },
+        {
           "title": "\"상상력에 기술을 더하다\"...'K콘텐츠'의 진화",
           "link": "https://www.ytn.co.kr/_ln/0106_202608220323170192",
           "press": "",
@@ -568,18 +580,6 @@
         {
           "title": "브라질 대선주자 보우소나루 \"형사처벌 14세로 낮춰야\"",
           "link": "https://www.ytn.co.kr/_ln/0104_202608220257112281",
-          "press": "",
-          "date": "2026-08-21"
-        },
-        {
-          "title": "대미 수출 23.1% 관세권, 브라질 협상 재개",
-          "link": "https://www.tokenpost.kr/news/cryptocurrency/395299",
-          "press": "",
-          "date": "2026-08-21"
-        },
-        {
-          "title": "사회보장번호 노출, 아폴로 클라우드 침해 확인",
-          "link": "https://www.tokenpost.kr/news/cryptocurrency/395280",
           "press": "",
           "date": "2026-08-21"
         }
@@ -607,16 +607,16 @@
           "date": "2026-05-19"
         },
         {
-          "title": "\"그냥 나가라 배재준 \"LG, 염경엽은 왜 배재준을 넣을까?",
-          "link": "https://blog.naver.com/skdus173/224386171650",
-          "blogger": "여기저기 가보나연",
-          "date": "2026-08-22"
-        },
-        {
           "title": "LG 트윈스 2이닝 4k 배재준 대체 선발후보에서 대체불가한 불펜으로 ....",
           "link": "https://blog.naver.com/koreasportshyun/224246432204",
           "blogger": "KBL 맛있는 스포츠사회",
           "date": "2026-04-09"
+        },
+        {
+          "title": "\"그냥 나가라 배재준 \"LG, 염경엽은 왜 배재준을 넣을까?",
+          "link": "https://blog.naver.com/skdus173/224386171650",
+          "blogger": "여기저기 가보나연",
+          "date": "2026-08-22"
         },
         {
           "title": "\"8연패탈출의 세금?\" LG 배재준 등판은 오히려 상수였다는 이유",
@@ -662,17 +662,11 @@
     {
       "keyword": "스포츠",
       "traffic": "200+",
-      "blogTotal": 4262659,
-      "newsTotal": 12530307,
+      "blogTotal": 4262740,
+      "newsTotal": 12530309,
       "recentToday": 0,
       "recentWeek": 100,
       "topBlogs": [
-        {
-          "title": "인천 일요일 수영장 추천! 주차 편리하고 가성비 대박인 송도스포츠....",
-          "link": "https://blog.naver.com/chgksrnr7/224352991625",
-          "blogger": "부동산투자달인",
-          "date": "2026-07-22"
-        },
         {
           "title": "바르너 아치스본 스포츠 내돈내산 찐후기, 정말 교정에 효과 있을까....",
           "link": "https://blog.naver.com/pppp0509/224360916100",
@@ -680,16 +674,22 @@
           "date": "2026-07-28"
         },
         {
-          "title": "[용인 수지 수영장] 용인시 평생학습관 스포츠센터 평일 2부 자유수....",
-          "link": "https://blog.naver.com/gpdls910/224347534575",
-          "blogger": "ଘ꒰੭˶• ༝ •˶꒱੭ .⋆｡⋆༶⋆˙⊹❀",
-          "date": "2026-07-15"
+          "title": "인천 일요일 수영장 추천! 주차 편리하고 가성비 대박인 송도스포츠....",
+          "link": "https://blog.naver.com/chgksrnr7/224352991625",
+          "blogger": "부동산투자달인",
+          "date": "2026-07-22"
         },
         {
           "title": "라이프스포츠 수원 수영장 워터파크 찜질방 후기 (수건 준비물 주차....",
           "link": "https://blog.naver.com/jini4998/224366409946",
           "blogger": "끌림",
           "date": "2026-08-03"
+        },
+        {
+          "title": "[용인 수지 수영장] 용인시 평생학습관 스포츠센터 평일 2부 자유수....",
+          "link": "https://blog.naver.com/gpdls910/224347534575",
+          "blogger": "ଘ꒰੭˶• ༝ •˶꒱੭ .⋆｡⋆༶⋆˙⊹❀",
+          "date": "2026-07-15"
         },
         {
           "title": "2026 광양시장배 청소년 e스포츠대회 현장 총정리-유튜브관람후기",
@@ -699,6 +699,12 @@
         }
       ],
       "topNews": [
+        {
+          "title": "'쩐의 전쟁' 된 美중간선거...새 '큰손'은 누구?",
+          "link": "https://magazine.hankyung.com/business/article/202608214666b",
+          "press": "",
+          "date": "2026-08-21"
+        },
         {
           "title": "아스널 거절한 이유가 '싫어서'는 아니었다...\"가족의 英 비자 발급에 문...",
           "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=692976",
@@ -712,20 +718,14 @@
           "date": "2026-08-21"
         },
         {
+          "title": "미 워싱턴 DC 첫 인디카 스트리트 레이스...독립 250주년 기념",
+          "link": "https://www.voakorea.com/a/grand-prix-250-082126/8188971.html",
+          "press": "",
+          "date": "2026-08-21"
+        },
+        {
           "title": "리버풀 초대박 소식! 'LEE 전 동료' 영입이 보인다…佛 기자 확신! \"관여...",
           "link": "https://www.mydaily.co.kr/page/view/2026082112495710208",
-          "press": "",
-          "date": "2026-08-21"
-        },
-        {
-          "title": "'천재 축구선수'의 말 \"나는 야구에서 배워 축구에서 활용했다\"[최재천...",
-          "link": "https://www.pressian.com/pages/articles/2026082108312769104?utm_source=naver&utm_medium=search",
-          "press": "",
-          "date": "2026-08-21"
-        },
-        {
-          "title": "\"41억원? KBO가 더 좋다\"…양키스 제안 거절한 하현승의 '찐사랑' [IS 인...",
-          "link": "https://isplus.com/article/view/isp202608210163",
           "press": "",
           "date": "2026-08-21"
         }
