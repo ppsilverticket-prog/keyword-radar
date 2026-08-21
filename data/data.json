@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-08-21T17:55:45.968Z",
+  "updatedAt": "2026-08-21T18:34:19.678Z",
   "source": "live",
   "keywords": [
     {
       "keyword": "lck",
       "traffic": "1000+",
-      "blogTotal": 47654,
+      "blogTotal": 47655,
       "newsTotal": 144090,
       "recentToday": 70,
       "recentWeek": 100,
@@ -76,11 +76,84 @@
       "rank": 1
     },
     {
+      "keyword": "pl",
+      "traffic": "100+",
+      "blogTotal": 94018,
+      "newsTotal": 110624,
+      "recentToday": 63,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "PL보험제조물배상책임 PL손해보험 옥외광고책임보험 (ft 중소기업중....",
+          "link": "https://blog.naver.com/jini2031/224225330081",
+          "blogger": "어제 오늘 끄적끄적 일상",
+          "date": "2026-03-22"
+        },
+        {
+          "title": "백열등·형광등·PL등·LED등 전기요금 차이 얼마나 날까? 전기세 비교....",
+          "link": "https://blog.naver.com/pppyes/224315216945",
+          "blogger": "전기수리/콘테이너 임대,판매/실링펜,아크차단기",
+          "date": "2026-06-14"
+        },
+        {
+          "title": "PL보험(생산물배상책임보험)이란? 제조업·OEM·수입업체가 꼭 알아야....",
+          "link": "https://blog.naver.com/dltkd1983/224351065870",
+          "blogger": "사업하는 아빠의 실전노트",
+          "date": "2026-07-21"
+        },
+        {
+          "title": "SI 프로젝트 PM·PMO·PL의 역할과 WBS 관리가 중요한 이유",
+          "link": "https://blog.naver.com/smmok/224376743144",
+          "blogger": "HONGMOK, 꿈을 꾸는 시간들",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "뉴발란스 740 후기, 530 매니아가 신어본 PL 실버 내돈내산",
+          "link": "https://blog.naver.com/hyoditor/224329548828",
+          "blogger": "효디터의 궁시렁궁시렁",
+          "date": "2026-06-28"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "반미냐 친미냐… 美 선거개입 논란 속 브라질 대선 충돌[글로벌 포커스...",
+          "link": "https://www.donga.com/news/Inter/article/all/20260821/134521998/2",
+          "press": "",
+          "date": "2026-08-21"
+        },
+        {
+          "title": "브라질 대선주자 보우소나루 \"강력범죄 형사처벌 14세로 낮춰야\"",
+          "link": "https://www.yna.co.kr/view/AKR20260822001400087?input=1195m",
+          "press": "",
+          "date": "2026-08-21"
+        },
+        {
+          "title": "이렇게 강력한 스쿼드 가진 팀 있었나...'PL 디펜딩 챔피언' 아스널, '英...",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=692966",
+          "press": "",
+          "date": "2026-08-21"
+        },
+        {
+          "title": "리버풀 초대박 소식! 940억 제안 거절에도 영입 청신호…\"PL 윙어 영입 성...",
+          "link": "https://www.mydaily.co.kr/page/view/2026082113474699423",
+          "press": "",
+          "date": "2026-08-21"
+        },
+        {
+          "title": "아스널 초대박 소식! 계륵 공격수 방출 가능성 열렸다…\"PL 2구단이 영입...",
+          "link": "https://www.mydaily.co.kr/page/view/2026082112485957611",
+          "press": "",
+          "date": "2026-08-21"
+        }
+      ],
+      "rank": 2
+    },
+    {
       "keyword": "탑승",
       "traffic": "1000+",
-      "blogTotal": 829770,
-      "newsTotal": 1640928,
-      "recentToday": 56,
+      "blogTotal": 829766,
+      "newsTotal": 1640929,
+      "recentToday": 54,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -116,7 +189,13 @@
       ],
       "topNews": [
         {
-          "title": "진도군, '2026 진도 민속예술 관광정책포럼' 개최 ... 8월 21~22일, 1박 2일",
+          "title": "297만5910대 리콜, 테슬라 중국서 문개방 표시 보완",
+          "link": "https://www.tokenpost.kr/news/cryptocurrency/395325",
+          "press": "",
+          "date": "2026-08-21"
+        },
+        {
+          "title": "진도군, '2026 진도 민속예술 관광정책포럼' 개최 ... \"스쳐 가는 섬에서...",
           "link": "http://www.ttlnews.com/news/articleView.html?idxno=3136298",
           "press": "",
           "date": "2026-08-21"
@@ -138,20 +217,14 @@
           "link": "https://www.edaily.co.kr/News/Read?newsId=01131606645549944&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
           "press": "",
           "date": "2026-08-21"
-        },
-        {
-          "title": "“CCTV 공개 적절했나”유튜버 박위, KTX 휠체어 사고 ‘갑론을박’ 반...",
-          "link": "https://sports.khan.co.kr/article/202608220005003?pt=nv",
-          "press": "",
-          "date": "2026-08-21"
         }
       ],
-      "rank": 2
+      "rank": 3
     },
     {
       "keyword": "정선희",
       "traffic": "200+",
-      "blogTotal": 13080,
+      "blogTotal": 13083,
       "newsTotal": 39095,
       "recentToday": 34,
       "recentWeek": 100,
@@ -219,7 +292,7 @@
           "date": "2026-08-21"
         }
       ],
-      "rank": 3
+      "rank": 4
     },
     {
       "keyword": "이미숙",
@@ -292,153 +365,7 @@
           "date": "2026-08-21"
         }
       ],
-      "rank": 4
-    },
-    {
-      "keyword": "엘지트윈스",
-      "traffic": "100+",
-      "blogTotal": 30273,
-      "newsTotal": 6062,
-      "recentToday": 14,
-      "recentWeek": 95,
-      "topBlogs": [
-        {
-          "title": "LG트윈스 새 아시아쿼터 존 케네디 연봉 2만 달러 영입... 마감일에 ....",
-          "link": "https://blog.naver.com/caleb0901/224379761061",
-          "blogger": "이과장의 스포츠",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "엘지트윈스 연간 회원권 종류 & 유니폼 엘린이 사이즈 팁(마킹)",
-          "link": "https://blog.naver.com/blackmond88/224299173304",
-          "blogger": "누군가의 라이프 스타일",
-          "date": "2026-05-28"
-        },
-        {
-          "title": "⚾잠실야구장 내야 1루 익사이팅존 1열 시야 후기 / 엘지트윈스 여름....",
-          "link": "https://blog.naver.com/ange9/224363425507",
-          "blogger": "기뮤의 취미생활",
-          "date": "2026-07-31"
-        },
-        {
-          "title": "[서울] 잠실야구장 2026 엘지트윈스 썸머홀릭 여름이벤트 3루 외야 414....",
-          "link": "https://blog.naver.com/wishorange_/224361296165",
-          "blogger": "For goooood:)",
-          "date": "2026-07-29"
-        },
-        {
-          "title": "2026 엘지트윈스 디지털취약계층 현장판매 표 구입방법",
-          "link": "https://blog.naver.com/lg23baseball/224233727753",
-          "blogger": "다 알려줄 지니",
-          "date": "2026-03-31"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "‘0:9→15:11’ 뒤집기 쇼…한화, LG 꺾고 6연패 끝",
-          "link": "https://www.hani.co.kr/arti/sports/baseball/1274114.html",
-          "press": "",
-          "date": "2026-08-21"
-        },
-        {
-          "title": "김도영부터 김태군까지 해결사, KIA 5연승의 힘 [프로야구]",
-          "link": "http://www.sportsq.co.kr/news/articleView.html?idxno=497710",
-          "press": "",
-          "date": "2026-08-21"
-        },
-        {
-          "title": "5번 뇌출혈에도 다시 일어난 ‘야구 거인’…불멸의 4할타자를 보내며",
-          "link": "https://www.hani.co.kr/arti/society/obituary/1273607.html",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "롯데, 0-8로 뒤지다 7회에만 13득점…키움 상대 대역전극",
-          "link": "https://www.hani.co.kr/arti/sports/baseball/1273492.html",
-          "press": "",
-          "date": "2026-08-18"
-        },
-        {
-          "title": "158km, 마무리 변신 '대성공' KIA 이의리 [프로야구]",
-          "link": "http://www.sportsq.co.kr/news/articleView.html?idxno=497574",
-          "press": "",
-          "date": "2026-08-18"
-        }
-      ],
       "rank": 5
-    },
-    {
-      "keyword": "노동절",
-      "traffic": "2000+",
-      "blogTotal": 64018,
-      "newsTotal": 87128,
-      "recentToday": 10,
-      "recentWeek": 61,
-      "topBlogs": [
-        {
-          "title": "상하이 5성급 숙소 추천 그랜드 센트럴 호텔 내돈내산 후기 (노동절,....",
-          "link": "https://blog.naver.com/rhominjoo/224293396143",
-          "blogger": "민터의 아맛겟돈",
-          "date": "2026-05-22"
-        },
-        {
-          "title": "노동절 근로자의 날 차이, 2026년 법정공휴일에 공무원도 쉴까? (교사....",
-          "link": "https://blog.naver.com/healthtalkmentaltalk/224239529449",
-          "blogger": "FREEDOM",
-          "date": "2026-04-03"
-        },
-        {
-          "title": "5월 1일, 근로자의 날(노동절)의 역사: 8시간 노동을 향한 긴 여정^^",
-          "link": "https://blog.naver.com/skadlf0820/224271570533",
-          "blogger": "감행여열~감사는 행복을 여는 열쇠입니다.",
-          "date": "2026-05-01"
-        },
-        {
-          "title": "2026년 노동절(구 근로자의 날) 드디어 빨간날 확정! 공무원도 쉬나요....",
-          "link": "https://blog.naver.com/captain1217/224267567190",
-          "blogger": "홍뿡의 쳇바퀴",
-          "date": "2026-04-28"
-        },
-        {
-          "title": "근로자의 날 vs 노동절, 무엇이 달라지나? 공무원 휴무와 달라지는 ....",
-          "link": "https://blog.naver.com/ciuils/224230653654",
-          "blogger": "데일리브리핑",
-          "date": "2026-03-26"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "아이폰18 프로, 카메라 커지며 후면 2mm 두꺼워지고 다크체리 색상 첫 선...",
-          "link": "https://www.wikitree.co.kr/articles/1154024",
-          "press": "",
-          "date": "2026-08-21"
-        },
-        {
-          "title": "내년부터 노동절도 '휴일대체'…일당 2배에 하루 쉰다",
-          "link": "https://www.newsis.com/view/NISX20260821_0003758277",
-          "press": "",
-          "date": "2026-08-21"
-        },
-        {
-          "title": "[사실은 이렇습니다] (설명) 한국경제, \"공휴일 된 노동절, 휴일대체 가...",
-          "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148970468&call_from=naver_news",
-          "press": "",
-          "date": "2026-08-21"
-        },
-        {
-          "title": "[단독] 공휴일 된 노동절, 휴일대체 가능…내년부터 '무조건 시급 2.5배...",
-          "link": "https://www.hankyung.com/article/2026082154931",
-          "press": "",
-          "date": "2026-08-21"
-        },
-        {
-          "title": "뉴욕주, 음주·난폭운전 집중단속",
-          "link": "https://www.koreadaily.com/article/20260820213910853",
-          "press": "",
-          "date": "2026-08-21"
-        }
-      ],
-      "rank": 6
     },
     {
       "keyword": "lck 순위",
@@ -487,14 +414,14 @@
           "date": "2026-08-21"
         },
         {
-          "title": "T1, KT 잡고 3연패 탈출…KT는 6연패",
-          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000005069&cp=nv",
+          "title": "[LCK]페이즈 맹활약 속 T1 3연패 탈출... KT는 6연패(종합)",
+          "link": "https://www.fomos.kr/redirect/news_view?news_cate_id=39&entry_id=155314",
           "press": "",
           "date": "2026-08-21"
         },
         {
-          "title": "[LCK]페이즈 맹활약 속 T1 3연패 탈출... KT는 6연패(종합)",
-          "link": "https://www.fomos.kr/redirect/news_view?news_cate_id=39&entry_id=155314",
+          "title": "T1, KT 잡고 3연패 탈출…KT는 6연패",
+          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000005069&cp=nv",
           "press": "",
           "date": "2026-08-21"
         },
@@ -511,13 +438,86 @@
           "date": "2026-08-21"
         }
       ],
+      "rank": 6
+    },
+    {
+      "keyword": "al-riyadh vs al-nassr",
+      "traffic": "100+",
+      "blogTotal": 2,
+      "newsTotal": 1322,
+      "recentToday": 0,
+      "recentWeek": 0,
+      "topBlogs": [
+        {
+          "title": "크리스티아누 호날두 사우디리그 출전 여부와 알-나스르 vs 알-리야....",
+          "link": "https://zuke.tistory.com/2557",
+          "blogger": "Zournal - zuke가 바라보는 세상.",
+          "date": "2025-09-21"
+        },
+        {
+          "title": "메호대전 불발, 호날두 벤치 메시 교체아웃(알나사르vs인터마이애미....",
+          "link": "https://blog.naver.com/seoyo899/223341980195",
+          "blogger": "풀꽃(seoyo899님의블로그)",
+          "date": "2024-02-02"
+        },
+        {
+          "title": "2022카타르월드컵 c조 아르헨티나 사우디아라비아 경기일정 | 인터넷....",
+          "link": "https://reviewswagger.tistory.com/638",
+          "blogger": "리뷰스웨거",
+          "date": "2022-11-17"
+        },
+        {
+          "title": "아챔 16강 분요드코 VS 알힐랄 프리뷰",
+          "link": "https://blog.naver.com/shjahng/50194199538",
+          "blogger": "지식산업센터 정보",
+          "date": "2014-05-07"
+        },
+        {
+          "title": "96분 극장골! 10명으로 싸운 레인저스의 기적?! ⚽️ 음바페, 레드카....",
+          "link": "https://blog.naver.com/worldsportscontent/223832206834",
+          "blogger": "지금 세계 스포츠",
+          "date": "2025-04-14"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "epaselect SAUDI ARABIA SOCCER",
+          "link": "https://n.news.naver.com/mnews/article/091/0010210986?sid=104",
+          "press": "",
+          "date": "2026-05-21"
+        },
+        {
+          "title": "SAUDI ARABIA SOCCER",
+          "link": "https://n.news.naver.com/mnews/article/091/0010210977?sid=104",
+          "press": "",
+          "date": "2026-05-21"
+        },
+        {
+          "title": "SAUDI ARABIA SOCCER",
+          "link": "https://n.news.naver.com/mnews/article/091/0010210962?sid=104",
+          "press": "",
+          "date": "2026-05-21"
+        },
+        {
+          "title": "SAUDI ARABIA SOCCER",
+          "link": "https://n.news.naver.com/mnews/article/091/0010210967?sid=104",
+          "press": "",
+          "date": "2026-05-21"
+        },
+        {
+          "title": "SAUDI ARABIA SOCCER",
+          "link": "https://n.news.naver.com/mnews/article/091/0010210944?sid=104",
+          "press": "",
+          "date": "2026-05-21"
+        }
+      ],
       "rank": 7
     },
     {
       "keyword": "전화",
-      "traffic": "100+",
-      "blogTotal": 13688940,
-      "newsTotal": 7726606,
+      "traffic": "200+",
+      "blogTotal": 13688899,
+      "newsTotal": 7726609,
       "recentToday": 0,
       "recentWeek": 100,
       "topBlogs": [
@@ -554,6 +554,24 @@
       ],
       "topNews": [
         {
+          "title": "\"상상력에 기술을 더하다\"...'K콘텐츠'의 진화",
+          "link": "https://www.ytn.co.kr/_ln/0106_202608220323170192",
+          "press": "",
+          "date": "2026-08-21"
+        },
+        {
+          "title": "자동차 판매하는 26세 청년, 알고 보니 '벨기에 왕자'…DNA 검사로 확인",
+          "link": "https://www.newsis.com/view/NISX20260821_0003757835",
+          "press": "",
+          "date": "2026-08-21"
+        },
+        {
+          "title": "브라질 대선주자 보우소나루 \"형사처벌 14세로 낮춰야\"",
+          "link": "https://www.ytn.co.kr/_ln/0104_202608220257112281",
+          "press": "",
+          "date": "2026-08-21"
+        },
+        {
           "title": "대미 수출 23.1% 관세권, 브라질 협상 재개",
           "link": "https://www.tokenpost.kr/news/cryptocurrency/395299",
           "press": "",
@@ -562,24 +580,6 @@
         {
           "title": "사회보장번호 노출, 아폴로 클라우드 침해 확인",
           "link": "https://www.tokenpost.kr/news/cryptocurrency/395280",
-          "press": "",
-          "date": "2026-08-21"
-        },
-        {
-          "title": "[단독]제주 실종 여성 담당 경찰, ‘종결 처리 전 대면’도 위반",
-          "link": "https://www.donga.com/news/Society/article/all/20260821/134522497/2",
-          "press": "",
-          "date": "2026-08-21"
-        },
-        {
-          "title": "30년 홀로 시어머니 모신 막내 며느리…다른 자녀들은 \"바쁘다\" 외면",
-          "link": "https://www.newsis.com/view/NISX20260821_0003757705",
-          "press": "",
-          "date": "2026-08-21"
-        },
-        {
-          "title": "법사위, ‘서면 제청’ 조희대 또 증인 채택… 국힘 “사전 탄핵 청원”...",
-          "link": "https://www.donga.com/news/Politics/article/all/20260821/134522968/2",
           "press": "",
           "date": "2026-08-21"
         }
@@ -662,8 +662,8 @@
     {
       "keyword": "스포츠",
       "traffic": "200+",
-      "blogTotal": 4262613,
-      "newsTotal": 12530302,
+      "blogTotal": 4262659,
+      "newsTotal": 12530307,
       "recentToday": 0,
       "recentWeek": 100,
       "topBlogs": [
@@ -700,32 +700,32 @@
       ],
       "topNews": [
         {
-          "title": "'이게 가능해?' 43세 타자가 연장 대타 그랜드슬램…NPB 23시즌 연속 홈...",
-          "link": "https://isplus.com/article/view/isp202608220006",
+          "title": "아스널 거절한 이유가 '싫어서'는 아니었다...\"가족의 英 비자 발급에 문...",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=692976",
           "press": "",
           "date": "2026-08-21"
         },
         {
-          "title": "유럽증시, 경제 회복력 신호에 주목하며 일제히 상승… 8월 유로존 PMI 5...",
-          "link": "https://www.newspim.com/news/view/20260822000012",
+          "title": "이준희, 39세에 첫 복싱 국제기구 타이틀 획득",
+          "link": "https://www.mk.co.kr/article/12133659",
           "press": "",
           "date": "2026-08-21"
         },
         {
-          "title": "소녀시대 유리, 차 안 셀카로 전한 담백 일상…연극·예능까지 바쁜 행...",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16169903",
+          "title": "리버풀 초대박 소식! 'LEE 전 동료' 영입이 보인다…佛 기자 확신! \"관여...",
+          "link": "https://www.mydaily.co.kr/page/view/2026082112495710208",
           "press": "",
           "date": "2026-08-21"
         },
         {
-          "title": "“日 그린도 달굴래요”",
-          "link": "https://www.donga.com/news/Sports/article/all/20260822/134522486/2",
+          "title": "'천재 축구선수'의 말 \"나는 야구에서 배워 축구에서 활용했다\"[최재천...",
+          "link": "https://www.pressian.com/pages/articles/2026082108312769104?utm_source=naver&utm_medium=search",
           "press": "",
           "date": "2026-08-21"
         },
         {
-          "title": "'BVB 레전드의 후계자가 드디어?' 獨 스카이, 신입생에게 \"로이스가 떠오...",
-          "link": "http://www.osen.co.kr/article/G1112861645",
+          "title": "\"41억원? KBO가 더 좋다\"…양키스 제안 거절한 하현승의 '찐사랑' [IS 인...",
+          "link": "https://isplus.com/article/view/isp202608210163",
           "press": "",
           "date": "2026-08-21"
         }
