@@ -1,85 +1,12 @@
 {
-  "updatedAt": "2026-08-21T16:00:34.672Z",
+  "updatedAt": "2026-08-21T17:00:24.954Z",
   "source": "live",
   "keywords": [
     {
-      "keyword": "탑승",
-      "traffic": "1000+",
-      "blogTotal": 829753,
-      "newsTotal": 1640926,
-      "recentToday": 81,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "도톤보리 원더크루즈｜일몰시간대 탑승 후기, 예약 방법, 추천 자리....",
-          "link": "https://blog.naver.com/ttonne/224369869081",
-          "blogger": "또록로그",
-          "date": "2026-08-06"
-        },
-        {
-          "title": "서울 한강 버스 타는 법, 잠실 - 여의도, 탑승 후기",
-          "link": "https://blog.naver.com/eunnn29v/224369925783",
-          "blogger": "일상 블로그",
-          "date": "2026-08-06"
-        },
-        {
-          "title": "에어부산 좌석지정 날개뷰 자리 추천 | 김포공항 부산김해공항 다자....",
-          "link": "https://blog.naver.com/purple_rachel/224376545130",
-          "blogger": "퍼플레이첼의 효율여행노트",
-          "date": "2026-08-13"
-        },
-        {
-          "title": "[항공사 후기] 핀에어(FINNAIR) 파리행 탑승기 ✈️ 헬싱키 경유 환승 ....",
-          "link": "https://blog.naver.com/yulzzang_/224318057292",
-          "blogger": "파이어족을꿈꾸는율쨩",
-          "date": "2026-06-17"
-        },
-        {
-          "title": "[호주 여행] 대한항공 이코노미 vs 젯스타 비즈니스? 젯스타 비즈니....",
-          "link": "https://blog.naver.com/shql137/224319527256",
-          "blogger": "B급 감성 맛집블로그인데 여행과 제품추천도 곁들인..",
-          "date": "2026-06-18"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "테슬라, 중국서 사상 최대 298만대 리콜…도어 손잡이 못 찾아 15명 사망",
-          "link": "https://www.wikitree.co.kr/articles/1154016",
-          "press": "",
-          "date": "2026-08-21"
-        },
-        {
-          "title": "강동구, 긴급 출동부터 전재민 구호까지… [동네방네]",
-          "link": "https://www.edaily.co.kr/News/Read?newsId=01131606645549944&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-          "press": "",
-          "date": "2026-08-21"
-        },
-        {
-          "title": "“CCTV 공개 적절했나”유튜버 박위, KTX 휠체어 사고 ‘갑론을박’ 반...",
-          "link": "https://sports.khan.co.kr/article/202608220005003?pt=nv",
-          "press": "",
-          "date": "2026-08-21"
-        },
-        {
-          "title": "\"여자는 사회생활 쉬워\" 처음 본 남성이 냅다 폭행한 이유 [그해 오늘]",
-          "link": "https://www.edaily.co.kr/News/Read?newsId=01085686645549944&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-          "press": "",
-          "date": "2026-08-21"
-        },
-        {
-          "title": "[핫게임] 넷마블 방준혁 지분 확대 / 아스달 연대기 시즌2 예고 / 컴투스...",
-          "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2274168",
-          "press": "",
-          "date": "2026-08-21"
-        }
-      ],
-      "rank": 1
-    },
-    {
       "keyword": "lck",
       "traffic": "1000+",
-      "blogTotal": 47646,
-      "newsTotal": 144087,
+      "blogTotal": 47654,
+      "newsTotal": 144090,
       "recentToday": 70,
       "recentWeek": 100,
       "topBlogs": [
@@ -116,6 +43,24 @@
       ],
       "topNews": [
         {
+          "title": "[LCK]기세 회복한 T1, \"우리 손으로 2위 차지하겠다\"",
+          "link": "https://www.fomos.kr/redirect/news_view?news_cate_id=39&entry_id=155319",
+          "press": "",
+          "date": "2026-08-21"
+        },
+        {
+          "title": "[LCK]연패 탈출 실패한 KT, \"우리만의 강점 찾겠다\"",
+          "link": "https://www.fomos.kr/redirect/news_view?news_cate_id=39&entry_id=155318",
+          "press": "",
+          "date": "2026-08-21"
+        },
+        {
+          "title": "[LCK 현장] KT 플레이-인 확정, BFX 라이즈 1위 가능성 이어가(종합)",
+          "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=60202",
+          "press": "",
+          "date": "2026-08-21"
+        },
+        {
           "title": "’6연패, 플레이-인 추락’…’스코어’ 고동빈, “이길 수 있었던 경기...",
           "link": "http://www.osen.co.kr/article/G1112861721",
           "press": "",
@@ -126,22 +71,77 @@
           "link": "https://www.xportsnews.com/article/2186568",
           "press": "",
           "date": "2026-08-21"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "keyword": "탑승",
+      "traffic": "1000+",
+      "blogTotal": 829760,
+      "newsTotal": 1640927,
+      "recentToday": 67,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "도톤보리 원더크루즈｜일몰시간대 탑승 후기, 예약 방법, 추천 자리....",
+          "link": "https://blog.naver.com/ttonne/224369869081",
+          "blogger": "또록로그",
+          "date": "2026-08-06"
         },
         {
-          "title": "임재현 “T1, 다시 기본 지키며 발전 중”",
-          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000005078&cp=nv",
+          "title": "서울 한강 버스 타는 법, 잠실 - 여의도, 탑승 후기",
+          "link": "https://blog.naver.com/eunnn29v/224369925783",
+          "blogger": "일상 블로그",
+          "date": "2026-08-06"
+        },
+        {
+          "title": "에어부산 좌석지정 날개뷰 자리 추천 | 김포공항 부산김해공항 다자....",
+          "link": "https://blog.naver.com/purple_rachel/224376545130",
+          "blogger": "퍼플레이첼의 효율여행노트",
+          "date": "2026-08-13"
+        },
+        {
+          "title": "[항공사 후기] 핀에어(FINNAIR) 파리행 탑승기 ✈️ 헬싱키 경유 환승 ....",
+          "link": "https://blog.naver.com/yulzzang_/224318057292",
+          "blogger": "파이어족을꿈꾸는율쨩",
+          "date": "2026-06-17"
+        },
+        {
+          "title": "[호주 여행] 대한항공 이코노미 vs 젯스타 비즈니스? 젯스타 비즈니....",
+          "link": "https://blog.naver.com/shql137/224319527256",
+          "blogger": "B급 감성 맛집블로그인데 여행과 제품추천도 곁들인..",
+          "date": "2026-06-18"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "58대·매출 2.5조…내년 3월 17일 출범 ‘통합 진에어’, 업계 판도 바꾼...",
+          "link": "https://www.ekn.kr/web/view.php?key=20260822022295301",
           "press": "",
           "date": "2026-08-21"
         },
         {
-          "title": "[LCK 현장] T1 오너, \"우리 손으로 2위 확정하겠다\"",
-          "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=60200",
+          "title": "테슬라, 중국서 사상 최대 298만대 리콜…도어 손잡이 못 찾아 15명 사망",
+          "link": "https://www.wikitree.co.kr/articles/1154016",
           "press": "",
           "date": "2026-08-21"
         },
         {
-          "title": "고동빈 “T1전 3세트, 선수들 조합 때문에 불편했을 것”",
-          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000005077&cp=nv",
+          "title": "강동구, 긴급 출동부터 전재민 구호까지… [동네방네]",
+          "link": "https://www.edaily.co.kr/News/Read?newsId=01131606645549944&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+          "press": "",
+          "date": "2026-08-21"
+        },
+        {
+          "title": "“CCTV 공개 적절했나”유튜버 박위, KTX 휠체어 사고 ‘갑론을박’ 반...",
+          "link": "https://sports.khan.co.kr/article/202608220005003?pt=nv",
+          "press": "",
+          "date": "2026-08-21"
+        },
+        {
+          "title": "\"여자는 사회생활 쉬워\" 처음 본 남성이 냅다 폭행한 이유 [그해 오늘]",
+          "link": "https://www.edaily.co.kr/News/Read?newsId=01085686645549944&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
           "press": "",
           "date": "2026-08-21"
         }
@@ -151,9 +151,9 @@
     {
       "keyword": "정선희",
       "traffic": "200+",
-      "blogTotal": 13058,
-      "newsTotal": 39094,
-      "recentToday": 35,
+      "blogTotal": 13072,
+      "newsTotal": 39095,
+      "recentToday": 34,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -169,10 +169,10 @@
           "date": "2026-08-21"
         },
         {
-          "title": "정선희 “여걸파이브 3년간 매일 울었다”…나영석 PD와 함께했던 ....",
-          "link": "https://blog.naver.com/zini5530/224385334261",
+          "title": "정선희, 故안재환 사별 후 칩거하던 시절 고백…“대상포진 걸린 홍....",
+          "link": "https://blog.naver.com/zini5530/224384928502",
           "blogger": "야옹이화장대",
-          "date": "2026-08-21"
+          "date": "2026-08-20"
         },
         {
           "title": "78억 사채 18년 짊어진 정선희가 안재환 사별 후 처음 무너진 장면",
@@ -188,6 +188,12 @@
         }
       ],
       "topNews": [
+        {
+          "title": "정선희 ‘62세부터 문란한 삶’ 선언 해명 “연애보다 혼자가 좋아, 공...",
+          "link": "https://www.newsen.com/news_view.php?uid=202608212310032510",
+          "press": "",
+          "date": "2026-08-21"
+        },
         {
           "title": "'여걸파이브' 나PD 어땠길래...정선희 \"3년간 늘 울었다, 이게 맞나\"[옥...",
           "link": "https://www.starnewskorea.com/broadcast-show/2026/08/22/2026082200515317984",
@@ -211,19 +217,13 @@
           "link": "https://www.newsen.com/news_view.php?uid=202608212309362510",
           "press": "",
           "date": "2026-08-21"
-        },
-        {
-          "title": "홍진경, 정선희와 '前남친'까지 얽힌 인연…\"라엘이 아빠와 아직도 친해...",
-          "link": "https://www.mydaily.co.kr/page/view/2026082123582570988",
-          "press": "",
-          "date": "2026-08-21"
         }
       ],
       "rank": 3
     },
     {
       "keyword": "이미숙",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "blogTotal": 21463,
       "newsTotal": 80944,
       "recentToday": 25,
@@ -369,11 +369,11 @@
     },
     {
       "keyword": "노동절",
-      "traffic": "1000+",
-      "blogTotal": 64015,
+      "traffic": "2000+",
+      "blogTotal": 64017,
       "newsTotal": 87127,
       "recentToday": 10,
-      "recentWeek": 58,
+      "recentWeek": 60,
       "topBlogs": [
         {
           "title": "상하이 5성급 숙소 추천 그랜드 센트럴 호텔 내돈내산 후기 (노동절,....",
@@ -439,79 +439,6 @@
         }
       ],
       "rank": 6
-    },
-    {
-      "keyword": "이대형",
-      "traffic": "1000+",
-      "blogTotal": 9876,
-      "newsTotal": 58516,
-      "recentToday": 10,
-      "recentWeek": 37,
-      "topBlogs": [
-        {
-          "title": "야구선수 이대형 나이 결혼 해설 FA 연봉 총정리",
-          "link": "https://blog.naver.com/volcamalca/224378341885",
-          "blogger": "지나의 리뷰",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "[KIA 타이거즈] \"이게 해설이야 예언이야?\"  이대형 다급한 외침이 성....",
-          "link": "https://blog.naver.com/leodao0330/224384171142",
-          "blogger": "몽엔스포츠 Mong EnSport",
-          "date": "2026-08-20"
-        },
-        {
-          "title": "교육감 후보 살펴보기 시리즈 1편- 인천시교육감 이대형후보는 누구....",
-          "link": "https://blog.naver.com/ryan70/224199182800",
-          "blogger": "라이언IMC",
-          "date": "2026-02-28"
-        },
-        {
-          "title": "\"도루왕에서 미남 해설위원까지\" 이대형 야구, 슈퍼소닉의 모든 것",
-          "link": "https://blog.naver.com/pan6606/224321905928",
-          "blogger": "아윌리치 Y",
-          "date": "2026-06-20"
-        },
-        {
-          "title": "야구여왕 시즌2 1회 이대형, “송아의 시대는 끝났다” 괴물 지원자 ....",
-          "link": "https://blog.naver.com/newsmeter/224340644590",
-          "blogger": "뉴스미터",
-          "date": "2026-07-08"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "“A+다” KIA 신인이 ‘대도 전설’ 이대형 극찬 받았다… 이범호도 기...",
-          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1002934",
-          "press": "",
-          "date": "2026-08-21"
-        },
-        {
-          "title": "'야구여왕2' 블랙퀸즈, 대만 상대 1차전 압승...2차전도 이길까",
-          "link": "https://swtvnews.com/news/newsview.php?ncode=1065568118053507",
-          "press": "",
-          "date": "2026-08-20"
-        },
-        {
-          "title": "'KS→충격 8위' 김경문 감독 계약 마지막해, 한화 구단은 어떤 평가를 내...",
-          "link": "https://www.starnewskorea.com/sports/2026/08/21/2026082016335438703",
-          "press": "",
-          "date": "2026-08-20"
-        },
-        {
-          "title": "블랙퀸즈, 대만 오공과 첫 국제전… '에이스' 지엔 위퉁 등판에 긴장 ('...",
-          "link": "https://www.tvreport.co.kr/broadcast/article/1070104/",
-          "press": "",
-          "date": "2026-08-20"
-        },
-        {
-          "title": "지엔 위퉁 \"안타 절대 못 쳐\" 도발…추신수도 인정한 '100km 강속구' 정체...",
-          "link": "https://mhnse.com/news/articleView.html?idxno=1493484",
-          "press": "",
-          "date": "2026-08-20"
-        }
-      ],
-      "rank": 7
     },
     {
       "keyword": "lck 순위",
@@ -584,13 +511,86 @@
           "date": "2026-08-21"
         }
       ],
+      "rank": 7
+    },
+    {
+      "keyword": "전화",
+      "traffic": "100+",
+      "blogTotal": 13688919,
+      "newsTotal": 7726604,
+      "recentToday": 0,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "[제주맛집] 치타치킨 포장 성공! 주문 꿀팁 +웨이팅, 전화, 주차, 치....",
+          "link": "https://blog.naver.com/ek_om/224370935782",
+          "blogger": "어망이의 하루",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "토스뱅크 고객센터 전화번호 연결방법 대표번호 주의사항 안내",
+          "link": "https://blog.naver.com/badahorangyi/224341338292",
+          "blogger": "기어 앤 코드",
+          "date": "2026-07-09"
+        },
+        {
+          "title": "엡손 서비스센터 AS센터 전화번호, 한 번에 정리해드립니다",
+          "link": "https://blog.naver.com/nabi6066/224339592727",
+          "blogger": "감성테크",
+          "date": "2026-07-07"
+        },
+        {
+          "title": "하루에도 몇 번씩 오는 070 전화, 갤럭시는 \"이 설정\" 하나면 편해집....",
+          "link": "https://blog.naver.com/holic2022/224371936973",
+          "blogger": "진해휴대폰성지 #폰폰폰",
+          "date": "2026-08-08"
+        },
+        {
+          "title": "아이폰 전화 차단, 카톡 차단 당했을때? 확인 아는법",
+          "link": "https://blog.naver.com/svke22/224329504964",
+          "blogger": "차밍이와 함께하는 IT 꿀팁 ♡",
+          "date": "2026-06-29"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "사회보장번호 노출, 아폴로 클라우드 침해 확인",
+          "link": "https://www.tokenpost.kr/news/cryptocurrency/395280",
+          "press": "",
+          "date": "2026-08-21"
+        },
+        {
+          "title": "[단독]제주 실종 여성 담당 경찰, ‘종결 처리 전 대면’도 위반",
+          "link": "https://www.donga.com/news/Society/article/all/20260821/134522497/2",
+          "press": "",
+          "date": "2026-08-21"
+        },
+        {
+          "title": "30년 홀로 시어머니 모신 막내 며느리…다른 자녀들은 \"바쁘다\" 외면",
+          "link": "https://www.newsis.com/view/NISX20260821_0003757705",
+          "press": "",
+          "date": "2026-08-21"
+        },
+        {
+          "title": "법사위, ‘서면 제청’ 조희대 또 증인 채택… 국힘 “사전 탄핵 청원”...",
+          "link": "https://www.donga.com/news/Politics/article/all/20260821/134522968/2",
+          "press": "",
+          "date": "2026-08-21"
+        },
+        {
+          "title": "\"사채 빚 남기고 가출하더니\"... 6년 만에 프사로 확인한 아버지의 충격...",
+          "link": "https://www.insight.co.kr/news/569510",
+          "press": "",
+          "date": "2026-08-21"
+        }
+      ],
       "rank": 8
     },
     {
       "keyword": "배재준",
       "traffic": "200+",
       "blogTotal": 678,
-      "newsTotal": 5339,
+      "newsTotal": 5342,
       "recentToday": 0,
       "recentWeek": 2,
       "topBlogs": [
@@ -627,6 +627,24 @@
       ],
       "topNews": [
         {
+          "title": "“통합우승 2연패 노린다던 팀 맞아?” 이틀 간 31실점하며 무너진 LG 마...",
+          "link": "https://www.segye.com/newsView/20260822500290?OutUrl=naver",
+          "press": "",
+          "date": "2026-08-21"
+        },
+        {
+          "title": "LG 이건 수습 불가다, 치명적인 정도가 아니다…2G 31실점, ERA 16.41, 심지...",
+          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1003083",
+          "press": "",
+          "date": "2026-08-21"
+        },
+        {
+          "title": "‘역대급 대참사’ 16실점 역전패 다음날, LG는 9-0에서도 뒤집혔다…이...",
+          "link": "http://www.osen.co.kr/article/G1112861720",
+          "press": "",
+          "date": "2026-08-21"
+        },
+        {
           "title": "[IS 냉탕] 98.7% 승리 확률 놓쳤다, 투수 교체마다 실점…9-0 리드 날린 ...",
           "link": "https://isplus.com/article/view/isp202608220002",
           "press": "",
@@ -637,33 +655,15 @@
           "link": "https://www.starnewskorea.com/sports/2026/08/22/2026082116022774035",
           "press": "",
           "date": "2026-08-21"
-        },
-        {
-          "title": "[AI상보] '0-9→15-11' 한화, 9점차 열세 뒤집고 LG에 짜릿한 역전승",
-          "link": "https://www.newspim.com/news/view/20260821000963",
-          "press": "",
-          "date": "2026-08-21"
-        },
-        {
-          "title": "[프로야구] 전적 종합(21일)",
-          "link": "https://www.news1.kr/sports/baseball/6266174",
-          "press": "",
-          "date": "2026-08-21"
-        },
-        {
-          "title": "[KBO 오늘의 경기 결과]8월21일(금)",
-          "link": "https://www.newsis.com/view/NISX20260821_0003758193",
-          "press": "",
-          "date": "2026-08-21"
         }
       ],
       "rank": 9
     },
     {
       "keyword": "스포츠",
-      "traffic": "500+",
-      "blogTotal": 4262484,
-      "newsTotal": 12530287,
+      "traffic": "200+",
+      "blogTotal": 4262548,
+      "newsTotal": 12530299,
       "recentToday": 0,
       "recentWeek": 100,
       "topBlogs": [
@@ -700,32 +700,32 @@
       ],
       "topNews": [
         {
-          "title": "\"춤은 나에게 탈출구\" 女 테니스 1위' 비키니 샷+틱톡 삼매경까지 충격...",
-          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1002928",
+          "title": "“日 그린도 달굴래요”",
+          "link": "https://www.donga.com/news/Sports/article/all/20260822/134522486/2",
           "press": "",
           "date": "2026-08-21"
         },
         {
-          "title": "다저스는 왜 4200억 쓰고도 욕을 먹나…美 유명 분석가 \"재앙 수준의 실...",
-          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1003082",
+          "title": "'BVB 레전드의 후계자가 드디어?' 獨 스카이, 신입생에게 \"로이스가 떠오...",
+          "link": "http://www.osen.co.kr/article/G1112861645",
           "press": "",
           "date": "2026-08-21"
         },
         {
-          "title": "‘수’를 읽었다… 골이 보였다",
-          "link": "https://www.chosun.com/sports/sports_general/2026/08/22/WQHINLVOUVBWVNZ2Z3ZLVKSK3E/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+          "title": "\"한국에서 엄청나게 도움받았다\" 이런 타자를 방출했다니, ML 135m 초대형...",
+          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1002933",
           "press": "",
           "date": "2026-08-21"
         },
         {
-          "title": "다음 원정은 혼자가 아니라 팀으로",
-          "link": "https://www.chosun.com/national/weekend/2026/08/22/3F7ON27U2FFQRHJWM66PZ4UJAA/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+          "title": "'첼시에서 밀려난 공격수, 이강인과 파트너 가능할까?' 아틀레티코 잭슨...",
+          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96726",
           "press": "",
           "date": "2026-08-21"
         },
         {
-          "title": "러닝이 바꾼 건 사람만이 아니다",
-          "link": "https://www.chosun.com/national/weekend/2026/08/22/GT3PPO5WHBBTXFV2XNZLLHZ36M/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+          "title": "파이어폭스 확장 77개로 가상자산 지갑 탈취망 구성…40개는 니모닉·개...",
+          "link": "https://www.wikitree.co.kr/articles/1154026",
           "press": "",
           "date": "2026-08-21"
         }
