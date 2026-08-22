@@ -1,32 +1,99 @@
 {
-  "updatedAt": "2026-08-22T07:29:21.434Z",
+  "updatedAt": "2026-08-22T07:56:35.856Z",
   "source": "live",
   "keywords": [
     {
+      "keyword": "신랑",
+      "traffic": "1000+",
+      "blogTotal": 3373920,
+      "newsTotal": 399758,
+      "recentToday": 100,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "장나라 신랑 정하철 직업 나이는? 결혼부터 자녀 유무까지",
+          "link": "https://blog.naver.com/everythingforyou/224375467191",
+          "blogger": "투데이 스타 이슈♡",
+          "date": "2026-08-11"
+        },
+        {
+          "title": "\"송가인 예비신랑 진짜 누구?\" 트로트 여제 결혼 둘러싼 루머와 팩트",
+          "link": "https://blog.naver.com/qpalzm3293/224379360720",
+          "blogger": "카스토리움",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "신랑이 또 해달라고 한 매콤 참치덮밥 간단한 한그릇요리",
+          "link": "https://blog.naver.com/81sally29/224321871464",
+          "blogger": "내맛대로 살자",
+          "date": "2026-06-20"
+        },
+        {
+          "title": "서인영 재혼한다는데? 예비신랑 NP 최지훈 대표에 관심 집중",
+          "link": "https://blog.naver.com/nsyncbye1004/224309296918",
+          "blogger": "즐거운 인플루언서 생활",
+          "date": "2026-06-08"
+        },
+        {
+          "title": "낚시 아이스박스 30L 실제 사용 후기｜신랑이 눈여겨본 HDF 카리스마 ....",
+          "link": "https://blog.naver.com/hyang3022/224343884458",
+          "blogger": "하루가 쌓이는 집",
+          "date": "2026-07-12"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "'동네한바퀴' 백령도 굴메밀칼국수·생홍어·우럭백숙 맛집 위치",
+          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3671497",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "6억 신혼집에 5000만원 보태는데... \"공동명의 아니면 파혼\" 요구한 예비...",
+          "link": "https://www.insight.co.kr/news/569541",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "김요한, 오연희에 고백 “정식으로 사귀며 알아가고 싶어” (신랑수업2...",
+          "link": "https://sports.donga.com/ent/article/all/20260822/134523234/1",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "김정은, 연봉 10억 남편과 홍콩서 운명적 만남 “한달만에 반지 줘”(신...",
+          "link": "https://www.newsen.com/news_view.php?uid=202608221405412510",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "\"정식으로 사귀자\" 김요한, ♥오연희에 고백했다…상대는 11살 연하 배우...",
+          "link": "https://www.tenasia.co.kr/article/2026082259664",
+          "press": "",
+          "date": "2026-08-22"
+        }
+      ],
+      "rank": 1
+    },
+    {
       "keyword": "추석 민생지원금",
-      "traffic": "2000+",
-      "blogTotal": 7726,
+      "traffic": "5000+",
+      "blogTotal": 7735,
       "newsTotal": 9355,
       "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "2026 울산 추석 지원금 50만원 지급 대상과 신청 여부 확인",
-          "link": "https://blog.naver.com/kdc542500/224378966748",
-          "blogger": "24시 연중무휴 출장",
-          "date": "2026-08-14"
+          "title": "추석 민생지원금 4차 총정리, 최대 50만 원 지역과 신청기간",
+          "link": "https://blog.naver.com/namiso39/224376049035",
+          "blogger": "경제도슨트's 인사이트",
+          "date": "2026-08-12"
         },
         {
           "title": "2026 추석 민생지원금 4차 총정리, 제주는 왜 소득까지 따질까 [⑥제....",
           "link": "https://blog.naver.com/je0907/224374573731",
           "blogger": "Grace의 우아한 재테크",
           "date": "2026-08-11"
-        },
-        {
-          "title": "추석 민생지원금 4차 총정리, 최대 50만 원 지역과 신청기간",
-          "link": "https://blog.naver.com/namiso39/224376049035",
-          "blogger": "경제도슨트's 인사이트",
-          "date": "2026-08-12"
         },
         {
           "title": "\"너도 받을 수 있어?\" 2026 추석 민생지원금 1인당 급액과 지금 대상 ....",
@@ -38,6 +105,12 @@
           "title": "\"나만 몰랐네\" 이미 시작된 추석 민생지원금 받는 지역 총정리",
           "link": "https://blog.naver.com/bomod/224373698879",
           "blogger": "평범한 직장인의 투자일기",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "추석 민생지원금 받으려면 신청 기간 내에 꼭 해야 할 것은?",
+          "link": "https://blog.naver.com/azonly/224373852471",
+          "blogger": "코알랑의 투자세계",
           "date": "2026-08-10"
         }
       ],
@@ -73,148 +146,75 @@
           "date": "2026-08-21"
         }
       ],
-      "rank": 1
-    },
-    {
-      "keyword": "배우자",
-      "traffic": "500+",
-      "blogTotal": 852267,
-      "newsTotal": 940041,
-      "recentToday": 100,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "배우자 출산휴가 신청방법, 주말 공휴일 포함될까",
-          "link": "https://blog.naver.com/7678ymym/224374258275",
-          "blogger": "앵미스타일",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "애인·배우자가 바람피는 꿈 해몽 총정리:실제 외도의 징조일까?",
-          "link": "https://blog.naver.com/powder74g/224379712901",
-          "blogger": "동양역술LAB 정도윤",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "사주이야기3 배우자운 보는법",
-          "link": "https://blog.naver.com/blue4015/224329488383",
-          "blogger": "인생기록",
-          "date": "2026-06-28"
-        },
-        {
-          "title": "일본인 배우자 결혼 비자 신청, 주후쿠오카 대한민국 총영사관 서류....",
-          "link": "https://blog.naver.com/hadaekyung/224375130741",
-          "blogger": "하대경행정사사무소 | 도움을 드립니다.",
-          "date": "2026-08-11"
-        },
-        {
-          "title": "서울 건강검진센터 추천｜서울센트럴메디케어 건강검진센터 배우....",
-          "link": "https://blog.naver.com/hjbj1203/224375628504",
-          "blogger": "까칠마녀의 한입만:)",
-          "date": "2026-08-11"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "조희대 탓? 정부 탓? 조선일보와 동아일보의 엇갈린 논조",
-          "link": "https://www.mediatoday.co.kr/news/articleView.html?idxno=336602",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "이문세, 피클볼 라켓 든 활기찬 미소…라디오 DJ와 운동으로 보낸 일상",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16170333",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "노웅래 무죄인데 “돈은 받았다”?…재판서 확인된 사실은",
-          "link": "https://weekly.khan.co.kr/article/202608221458001",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "'조희대 증인' 여야 충돌…野 \"탄핵 사전 청문회\" 與 \"진실 밝혀야\"(종합...",
-          "link": "https://www.news1.kr/politics/assembly/6266337",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "민주당, 1박 2일 워크숍 직후 이재명 대통령과 28일 청와대 오찬",
-          "link": "https://www.wikitree.co.kr/articles/1154118",
-          "press": "",
-          "date": "2026-08-22"
-        }
-      ],
       "rank": 2
     },
     {
-      "keyword": "집",
-      "traffic": "1000+",
-      "blogTotal": 64547852,
-      "newsTotal": 11270393,
-      "recentToday": 100,
+      "keyword": "오싹한 연애",
+      "traffic": "500+",
+      "blogTotal": 9238,
+      "newsTotal": 9530,
+      "recentToday": 78,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "대구 수성못 들안길 구워주는 돼지갈비 맛집 서민갈비 내돈내산 방....",
-          "link": "https://blog.naver.com/dbvkalsl/224373117813",
-          "blogger": "맛집_일상 : 리뷰 :",
+          "title": "오싹한연애 8화 박은빈 양세종 진짜 약혼 8회 + 9화 (TVN토일드라마)",
+          "link": "https://blog.naver.com/euene1111/224373353908",
+          "blogger": "보는 사람",
           "date": "2026-08-09"
         },
         {
-          "title": "군산 맛집 완주옥에서 한우 떡갈비 먹었어요",
-          "link": "https://blog.naver.com/best_yeon/224373259111",
-          "blogger": "조잘이의 하루",
-          "date": "2026-08-09"
+          "title": "오싹한 연애 원작 몇부작 웹툰 등장인물 재방송 OTT 시청률 OST 총정....",
+          "link": "https://blog.naver.com/dldusgh210608/224372400123",
+          "blogger": "밀꼬",
+          "date": "2026-08-08"
         },
         {
-          "title": "부산 온천장역 맛집 가성비횟집 ‘금호회관’",
-          "link": "https://blog.naver.com/psw50564/224375577095",
-          "blogger": "이곳저곳 ˖◛⁺⑅♡",
-          "date": "2026-08-11"
+          "title": "tvN '오싹한 연애' 몇부작? 등장인물관계도부터 줄거리 2막 관전포인....",
+          "link": "https://blog.naver.com/kjw9648/224372207518",
+          "blogger": "나를중심으로기록하는공간",
+          "date": "2026-08-08"
         },
         {
-          "title": "포항 로컬 맛집 포갈집 엄청난 가성비 소고기, 웨이팅, 주차, 내돈내....",
-          "link": "https://blog.naver.com/hibi05/224372822415",
-          "blogger": "히비 블로그",
-          "date": "2026-08-09"
+          "title": "오싹한 연애 9-10화 싱가포르 촬영지, 전부 찾아봤습니다",
+          "link": "https://blog.naver.com/sg__merli/224378325320",
+          "blogger": "싱가포르관광청 공식 블로그",
+          "date": "2026-08-17"
         },
         {
-          "title": "전현무계획4 인천 맛집 화제! 선지해장국·냉면·분식 어디길래?",
-          "link": "https://blog.naver.com/seaypark2/224373244995",
-          "blogger": "내돈내산 쇼핑일지",
+          "title": "드라마 '오싹한 연애' 주요촬영지 정리. 특히 시에나",
+          "link": "https://blog.naver.com/mmmsik/224374225891",
+          "blogger": "저탄소 완전연소 ESG경영 LNG MATERIALS",
           "date": "2026-08-10"
         }
       ],
       "topNews": [
         {
-          "title": "논산서 실종된 여중생, 100km 떨어진 '이곳'서 발견... 편의점 CCTV로 추...",
-          "link": "https://www.insight.co.kr/news/569551",
+          "title": "'오싹한' 박은빈, 뇌물수수 혐의 받았다…검찰청 소환에도 당당한 태도",
+          "link": "https://www.tenasia.co.kr/article/2026082259674",
           "press": "",
           "date": "2026-08-22"
         },
         {
-          "title": "與 만난 오세훈 \"탄천물재생센터 등 대체부지 함께 찾자\" 제안",
-          "link": "http://www.fnnews.com/news/202608221608092581",
+          "title": "“오싹한 연애” 트랜스미디어 시험대 종영…닐슨 기준 3.0%서 7.3%로 상승",
+          "link": "https://www.wikitree.co.kr/articles/1154127",
           "press": "",
           "date": "2026-08-22"
         },
         {
-          "title": "‘용감한 형사들5’ 모녀 살해·18세 막내딸 납치까지…김대호 “악마다...",
-          "link": "https://www.mediapen.com/news/view/1118214",
+          "title": "이별 통보 뒤..박은빈, 피로 물든 사건 현장서 양세종과 재회(오싹한 연...",
+          "link": "http://www.osen.co.kr/article/G1112861816",
           "press": "",
           "date": "2026-08-22"
         },
         {
-          "title": "'파반느'부터 '면도'까지... 2026년은 온통 '변요한'이다!",
-          "link": "https://www.harpersbazaar.co.kr/article/1908344",
+          "title": "박은빈, 피 묻은 쇠파이프 들었다...양세종과 '살인 용의자·검사'로 충...",
+          "link": "https://www.nc.press/news/articleView.html?idxno=624410",
           "press": "",
           "date": "2026-08-22"
         },
         {
-          "title": "김영배 \"吳, 1cm도 양보 못한다며 자기 정치\"‥오세훈 \"재개발·재건축 ...",
-          "link": "https://imnews.imbc.com/news/2026/politics/article/6846552_36911.html",
+          "title": "시청률 2배 이상 폭등하고도 인터뷰는 '전멸' …종영 D-2 '오싹한 연애'...",
+          "link": "https://www.tenasia.co.kr/article/2026082137874",
           "press": "",
           "date": "2026-08-22"
         }
@@ -222,72 +222,72 @@
       "rank": 3
     },
     {
-      "keyword": "대전날씨",
-      "traffic": "2000+",
-      "blogTotal": 386076,
-      "newsTotal": 520061,
-      "recentToday": 55,
-      "recentWeek": 100,
+      "keyword": "명진스님",
+      "traffic": "500+",
+      "blogTotal": 2666,
+      "newsTotal": 8431,
+      "recentToday": 49,
+      "recentWeek": 49,
       "topBlogs": [
         {
-          "title": "폭염 피해서 저녁 출동! 난리난 대전 도심 물놀이장",
-          "link": "https://blog.naver.com/et0_ile/224372354323",
-          "blogger": "늘 신혼여행처럼 여행기록",
-          "date": "2026-08-08"
+          "title": "명진 스님 입적·세수 76세 | 제주 하예포구 프리다이빙 중 심정지 사....",
+          "link": "https://blog.naver.com/hoshea1/224386615155",
+          "blogger": "호세아의 보물창고",
+          "date": "2026-08-22"
         },
         {
-          "title": "대전 목동 맛집 구이구이쪽갈비 : 치즈쪽갈비와 냉김치말이소면 솔....",
-          "link": "https://blog.naver.com/pizza_cider/224379733663",
-          "blogger": "뚱희의 먹는 하루 (*ˊᵕˋ*)",
-          "date": "2026-08-15"
+          "title": "MB정권 비판 봉은사 주지 명진스님...제주서 프리다이빙 사고로 입적....",
+          "link": "https://blog.naver.com/news_curator_j/224386639765",
+          "blogger": "핫 뉴스만 콕 집어요",
+          "date": "2026-08-22"
         },
         {
-          "title": "2026년 9월 날씨 전망과 옷차림(서울,대전,대구,부산 등)",
-          "link": "https://blog.naver.com/tayaky/224378296851",
-          "blogger": "고생한 아빠의 힐링 공간",
-          "date": "2026-08-14"
+          "title": "[부음]봉은사 전 주지 명진스님 입적…파란만장한 삶만큼 이채로웠....",
+          "link": "https://blog.naver.com/gkirohamo/224386617277",
+          "blogger": "Restart",
+          "date": "2026-08-22"
         },
         {
-          "title": "내일 날씨 서울 19도까지 떨어질까?｜인천·대전·대구·부산·광주 8....",
-          "link": "https://blog.naver.com/helperjd/224375108998",
-          "blogger": "지수행정사사무소",
-          "date": "2026-08-11"
+          "title": "전 봉은사 주지 명진스님 입적, 제주 프리다이빙 중 사고…민주화·....",
+          "link": "https://blog.naver.com/hw020102/224386605516",
+          "blogger": "행간 읽는 뚜벅이",
+          "date": "2026-08-22"
         },
         {
-          "title": "대전 오월드 이용가이드｜입장료·자유이용권·사파리·야간개장·....",
-          "link": "https://blog.naver.com/pjihye4728/224368732870",
-          "blogger": "아유니랑 지혜롭게❤",
-          "date": "2026-08-08"
+          "title": "제주 프리다이빙 중 사망, 명진스님은 누구? (프로필)",
+          "link": "https://blog.naver.com/rozz0697/224386625829",
+          "blogger": "뉴투데이",
+          "date": "2026-08-22"
         }
       ],
       "topNews": [
         {
-          "title": "전국 소나기…수도권에는 강한 비구름대",
-          "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1534931",
+          "title": "[속보] 봉은사 전 주지 명진스님 제주 해상서 사고로 입적…세수 76세",
+          "link": "https://www.kado.net/news/articleView.html?idxno=2067928",
           "press": "",
           "date": "2026-08-22"
         },
         {
-          "title": "오늘 오후~밤 곳곳 소나기·천둥번개… 내일도 무더위 지속",
-          "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3072820",
+          "title": "봉은사 주지 지낸 ‘명진 스님’ 입적...제주 서귀포 해양서 사고",
+          "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260822507&PRO_CODE=99",
           "press": "",
           "date": "2026-08-22"
         },
         {
-          "title": "[날씨] 폭염 속 소나기 오락가락…당분간 33도 늦더위 계속",
-          "link": "https://news.tvchosun.com/site/data/html_dir/2026/08/22/2026082290059.html",
+          "title": "'봉은사' 주지 지낸 명진스님 입적",
+          "link": "https://www.news1.kr/photos/8067477",
           "press": "",
           "date": "2026-08-22"
         },
         {
-          "title": "[현장]“부산에 살기 잘했다”…넥슨 '오버워치 데이' 가보니",
-          "link": "https://www.newsis.com/view/NISX20260822_0003758436",
+          "title": "봉은사 주지 지낸 명진스님 제주서 입적",
+          "link": "https://www.news1.kr/photos/8067478",
           "press": "",
           "date": "2026-08-22"
         },
         {
-          "title": "[내일날씨]'처서' 꿉꿉하고 무더운 주말…낮 최고 35도까지 올라",
-          "link": "https://www.sidae.com/article/2026082213483424979",
+          "title": "봉은사 주지 지낸 명진스님 제주서 입적…\"해양 스포츠 연습중 사고\"",
+          "link": "https://news.tvchosun.com/site/data/html_dir/2026/08/22/2026082290081.html",
           "press": "",
           "date": "2026-08-22"
         }
@@ -295,72 +295,72 @@
       "rank": 4
     },
     {
-      "keyword": "명진스님",
-      "traffic": "500+",
-      "blogTotal": 2650,
-      "newsTotal": 8425,
-      "recentToday": 33,
-      "recentWeek": 33,
+      "keyword": "사장님 귀는 당나귀 귀",
+      "traffic": "1000+",
+      "blogTotal": 20622,
+      "newsTotal": 54983,
+      "recentToday": 28,
+      "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "참선 수련",
-          "link": "https://sindal34.tistory.com/12493892",
-          "blogger": "sindal34",
-          "date": "2015-08-07"
+          "title": "사장님 귀는 당나귀 귀 박미희 김치공장 김치 명인 주문 총정리",
+          "link": "https://blog.naver.com/violet0970/224380309661",
+          "blogger": "올케이뉴스",
+          "date": "2026-08-16"
         },
         {
-          "title": "[스크랩] ‘군→민간→해외’ 왜 자꾸 판 키우나",
-          "link": "https://kjt0548.tistory.com/15849692",
-          "blogger": "안토니오의 향기",
-          "date": "2010-04-21"
+          "title": "사장님 귀는 당나귀 귀 370회 연매출 500억 박미희의 ‘매운맛 보스’....",
+          "link": "https://blog.naver.com/newsmeter/224378788296",
+          "blogger": "뉴스미터",
+          "date": "2026-08-14"
         },
         {
-          "title": "농업관련 도서목록 : 16001-18000",
-          "link": "https://richcat.tistory.com/7972",
-          "blogger": "리치캣의 현재 그리고 미래",
-          "date": "2021-10-07"
+          "title": "사장님 귀는 당나귀 귀 박미희, 김치 명인 새 보스 출격",
+          "link": "https://blog.naver.com/namaksin12/224378798891",
+          "blogger": "책 읽는 아이들",
+          "date": "2026-08-14"
         },
         {
-          "title": "전남 담양의 어느60대 부부의 직접 지은 집",
-          "link": "https://ok6030.tistory.com/1349",
-          "blogger": "양평구해줘홈즈 양평구해줘오즈 양평부동산오즈",
-          "date": "2020-09-14"
+          "title": "사당귀 3mm 4900원 삼겹살 고깃집. 거지맵 거지투어 가성비 맛집. 사장....",
+          "link": "https://blog.naver.com/zingga9/224359416537",
+          "blogger": "Kim쪼꼬님의 블로그",
+          "date": "2026-07-27"
         },
         {
-          "title": "남양주 지역화폐 가맹점 알아보기",
-          "link": "https://kt99.tistory.com/385",
-          "blogger": "그냥사는거지",
-          "date": "2020-04-26"
+          "title": "사장님 귀는 당나귀 귀 370회 엄지인 앞에서 안 열린 이상철 지갑",
+          "link": "https://blog.naver.com/news9kr/224379766035",
+          "blogger": "뉴스나인",
+          "date": "2026-08-15"
         }
       ],
       "topNews": [
         {
-          "title": "명진스님 제주 바다서 프리다이빙 사고로 입적…향년 75세",
-          "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000058704",
+          "title": "마마무 솔라, 시더파크 거리에서 여유로운 순간…월드투어 속 일상",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16170318",
           "press": "",
           "date": "2026-08-22"
         },
         {
-          "title": "봉은사 주지 지낸 명진스님 입적…제주서 프리다이빙 사고",
-          "link": "https://www.slist.kr/news/articleView.html?idxno=760541",
+          "title": "김요한 \"현역시절 번 돈 저축해서 건물주 돼...사업할 생각 無\" ('사당귀...",
+          "link": "https://www.tvreport.co.kr/broadcast/article/1070318/",
           "press": "",
           "date": "2026-08-22"
         },
         {
-          "title": "봉은사 전 주지 명진스님 다이빙 연습 중 사고사…서귀포서 해양사고",
-          "link": "https://www.dt.co.kr/article/12079506?ref=naver",
+          "title": "양준혁, 방어 양식 성공-1500평 사우나 사업 구상",
+          "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=87532",
           "press": "",
           "date": "2026-08-22"
         },
         {
-          "title": "봉은사 주지 지낸 명진스님 입적…제주서 다이빙 사고 추정",
-          "link": "https://www.sisajournal.com/news/articleView.html?idxno=384456",
+          "title": "‘연봉킹’ 김요한, 건물주 됐다 “현역 시절 꾸준히 저축”…양준혁도...",
+          "link": "https://isplus.com/article/view/isp202608220022",
           "press": "",
           "date": "2026-08-22"
         },
         {
-          "title": "봉은사 전 주지 명진스님 제주서 입적…프리다이빙 중 사고 추정",
-          "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608220364&t=NN",
+          "title": "전현무, 호수 앞 배낭 여행 사진…\"짧은 인생, 배낭을 매세요\"",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16170120",
           "press": "",
           "date": "2026-08-22"
         }
@@ -370,7 +370,7 @@
     {
       "keyword": "south korea",
       "traffic": "200+",
-      "blogTotal": 51259,
+      "blogTotal": 51257,
       "newsTotal": 670182,
       "recentToday": 17,
       "recentWeek": 100,
@@ -400,10 +400,10 @@
           "date": "2026-06-25"
         },
         {
-          "title": "한국투자증권 연금저축 이전 방법 후기",
-          "link": "https://blog.naver.com/aya_sora32/224313224300",
-          "blogger": "밀라의 맘스뱅크",
-          "date": "2026-06-11"
+          "title": "[공기업] 26년 한국가스공사연봉(채용, 초봉, 사원, 대리, 과장, 차장,....",
+          "link": "https://blog.naver.com/cokosonge2/224347833543",
+          "blogger": "돈스탑의 Don’t stop",
+          "date": "2026-07-16"
         }
       ],
       "topNews": [
@@ -414,14 +414,14 @@
           "date": "2026-08-22"
         },
         {
-          "title": "Four-legged lifesavers: Inside Korea’s growing canine blood donation ne...",
-          "link": "https://www.koreaherald.com/article/10846963?ref=naver",
+          "title": "Beyond hospital corridors, art offers another kind of healing",
+          "link": "https://www.koreaherald.com/article/10846744?ref=naver",
           "press": "",
           "date": "2026-08-22"
         },
         {
-          "title": "Beyond hospital corridors, art offers another kind of healing",
-          "link": "https://www.koreaherald.com/article/10846744?ref=naver",
+          "title": "Four-legged lifesavers: Inside Korea’s growing canine blood donation ne...",
+          "link": "https://www.koreaherald.com/article/10846963?ref=naver",
           "press": "",
           "date": "2026-08-22"
         },
@@ -441,121 +441,48 @@
       "rank": 6
     },
     {
-      "keyword": "법원행정처",
-      "traffic": "1000+",
-      "blogTotal": 9735,
-      "newsTotal": 155100,
-      "recentToday": 14,
-      "recentWeek": 60,
-      "topBlogs": [
-        {
-          "title": "'대법관 및 법원행정처장' 노경필 학력 및 법조 경력과 살아온 생애",
-          "link": "https://blog.naver.com/pso164/224385446278",
-          "blogger": "과학커뮤니케이터 박종현",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "조희대 탄핵론 이어 법원행정처 폐지까지…민주당 사법부 군기잡기",
-          "link": "https://blog.naver.com/koolap/224385777556",
-          "blogger": "뉴스 한상",
-          "date": "2026-08-21"
-        },
-        {
-          "title": "법원행정처장 노경필 대법관 프로필",
-          "link": "https://blog.naver.com/gwjun/224384256224",
-          "blogger": "사람과 정책",
-          "date": "2026-08-20"
-        },
-        {
-          "title": "대법관 인선, 왜 이렇게까지 하나…법원행정처장의 ‘후보 4명 전화....",
-          "link": "https://blog.naver.com/leecs4810/224384100467",
-          "blogger": "민주 시민의 정치 노트",
-          "date": "2026-08-20"
-        },
-        {
-          "title": "부산 해사법원 임시청사 동구 확정, 북항 시대의 서막",
-          "link": "https://blog.naver.com/vitamin2230/224327087630",
-          "blogger": "REONE P&I",
-          "date": "2026-06-25"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "국힘, '서면 제청' 조희대 증인 채택에 \"민주당의 쿠데타, 집단 폭력\"",
-          "link": "https://www.sisajournal.com/news/articleView.html?idxno=384455",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "여당 주도 법사위 조희대 증인 채택에… 野 \"사법부 장악 쿠데타\"",
-          "link": "https://www.newscj.com/news/articleView.html?idxno=3426984",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "[인터뷰] 박균택 의원 \"반도체 클러스터 조성, 호남 미래 100년 바꿀 전환...",
-          "link": "https://news.tf.co.kr/read/national/2356809.htm",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "與 \"노경필 처장 말 바꾸기…조희대 대법원장 직접 해명해야\"",
-          "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2295885",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "'조희대 증인' 여야 충돌…野 \"탄핵 사전 청문회\" 與 \"진실 밝혀야\"(종합...",
-          "link": "https://www.news1.kr/politics/assembly/6266337",
-          "press": "",
-          "date": "2026-08-22"
-        }
-      ],
-      "rank": 7
-    },
-    {
-      "keyword": "오타니 쇼헤이",
-      "traffic": "500+",
-      "blogTotal": 20779,
-      "newsTotal": 94464,
+      "keyword": "야마모토 요시노부",
+      "traffic": "100+",
+      "blogTotal": 2919,
+      "newsTotal": 18983,
       "recentToday": 13,
-      "recentWeek": 100,
+      "recentWeek": 23,
       "topBlogs": [
         {
-          "title": "스팀 야구게임 프로야구스피리츠 2026 리뷰, 오타니 쇼헤이 플레이 ....",
-          "link": "https://blog.naver.com/12512512/224359806779",
-          "blogger": "피스타임 블로그",
-          "date": "2026-07-28"
+          "title": "LA다저스 야마모토 요시노부 6이닝 1실점 9K 시즌 12승 성공",
+          "link": "https://blog.naver.com/cgnara/224379664539",
+          "blogger": "Sports MAG:ZINE",
+          "date": "2026-08-15"
         },
         {
-          "title": "오타니 쇼헤이 300홈런 달성! MLB 아시아 최초 대기록과 경기 스펙 총....",
-          "link": "https://blog.naver.com/gytjd4624/224341187640",
-          "blogger": "짱핏터의 맛동산 ✅️",
-          "date": "2026-07-09"
+          "title": "2026시즌 야마모토 요시노부 성적, 다저스 에이스 넘어 사이영상까지....",
+          "link": "https://blog.naver.com/hjhhjh1357/224386614194",
+          "blogger": "야구소식",
+          "date": "2026-08-22"
         },
         {
-          "title": "“야구선수 몸값이 무려 1조원?” 오타니 쇼헤이 연봉·성적·재산·....",
-          "link": "https://blog.naver.com/coingap/224357668870",
-          "blogger": "이코노미 인사이드 ECONOMY INSIDE",
-          "date": "2026-07-25"
+          "title": "MLB 야구 선수 야마모토 요시노부(프로필,경력,스타일 등)",
+          "link": "https://blog.naver.com/mistermy18/224337186835",
+          "blogger": "H2의 스포츠와 여행",
+          "date": "2026-07-05"
         },
         {
-          "title": "오타니 쇼헤이 혼혈, 강력한 체격과 성적을 이룬 이유",
-          "link": "https://blog.naver.com/lovelyseo950412/224321108637",
-          "blogger": "러블리서 라이프",
-          "date": "2026-06-19"
+          "title": "\"야마모토 요시노부 연봉은?\" 젊은 나이에 3억 달러 몸값의 비밀",
+          "link": "https://blog.naver.com/edwin9407/224062762824",
+          "blogger": "더블체커(DC)",
+          "date": "2025-11-03"
         },
         {
-          "title": "후쿠오카 볼거리 오타니 쇼헤이 금박 동상 텐진 다이마루 백화점",
-          "link": "https://blog.naver.com/laputaa/224357010068",
-          "blogger": "기억저편, 한없이 투명한 블루..",
-          "date": "2026-07-26"
+          "title": "LA다저스 사사키 로키 VS 요시노부 야마모토 연봉 차이 이렇다고? ㄷ....",
+          "link": "https://blog.naver.com/certified07/224293520220",
+          "blogger": "스페셜리스트",
+          "date": "2026-05-24"
         }
       ],
       "topNews": [
         {
-          "title": "이럴 수가! 이젠 오타니 시대 끝났나? 24세 '공수주' 완전체 괴물 32호포...",
-          "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553477362",
+          "title": "LA레이커스 125억달러에 판 구단주, 다음은 다저스?…오타니 ‘키맨 조...",
+          "link": "https://www.sportsseoul.com/news/read/1630045?ref=naver",
           "press": "",
           "date": "2026-08-22"
         },
@@ -584,11 +511,84 @@
           "date": "2026-08-22"
         }
       ],
+      "rank": 7
+    },
+    {
+      "keyword": "골드뱅킹",
+      "traffic": "500+",
+      "blogTotal": 2233,
+      "newsTotal": 15147,
+      "recentToday": 6,
+      "recentWeek": 30,
+      "topBlogs": [
+        {
+          "title": "금값 오르는데 나만 몰라? 최근 순매수 급증하는 골드뱅킹 투자 수....",
+          "link": "https://blog.naver.com/gdi_info/224382743344",
+          "blogger": "공돌이 정보통",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "골드뱅킹 vs 골드바, 똑같이 오른 금값인데 수익률은 왜 다를까",
+          "link": "https://blog.naver.com/jma0718/224386549894",
+          "blogger": "채움의 경제전망대",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "금값 하락 매수 타이밍, 금 투자 실물 없이 하는 방법, 골드뱅킹 장....",
+          "link": "https://blog.naver.com/greenbook23/224341807560",
+          "blogger": "경제 매니아",
+          "date": "2026-07-09"
+        },
+        {
+          "title": "골드뱅킹 vs 금 ETF! 금 ETF가 매력적인 이유와 수수료와 세금 비교 실....",
+          "link": "https://blog.naver.com/marine891sky/224305469706",
+          "blogger": "마린의 경제노트",
+          "date": "2026-06-04"
+        },
+        {
+          "title": "금투자 세금 총정리! 세금 폭탄 피하고 수익 극대화하는 방법 (KRX, ....",
+          "link": "https://blog.naver.com/ruiyan1024/224353531401",
+          "blogger": "똥고발랄 두 아이랑 함께 하는 일상",
+          "date": "2026-07-21"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "“같은 금인줄 알고 샀는데 수익률이 다르다고?”…골드뱅킹·골드바 뭐...",
+          "link": "https://www.mk.co.kr/article/12133759",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "증시 급등락에 '빚투' 주춤…은행 신용대출 증가 폭 '뚝'",
+          "link": "http://www.inews24.com/view/1997110",
+          "press": "",
+          "date": "2026-08-21"
+        },
+        {
+          "title": "증시 흔들리자 다시 찾는 달러·금…안전자산 살아나나",
+          "link": "http://www.issuenbiz.com/news/articleView.html?idxno=78919",
+          "press": "",
+          "date": "2026-08-21"
+        },
+        {
+          "title": "새해 정점 찍고 주춤하던 은행 '金테크'…금값 반등에 다시 '꿈틀'",
+          "link": "https://www.news1.kr/finance/general-finance/6264656",
+          "press": "",
+          "date": "2026-08-20"
+        },
+        {
+          "title": "안드로이드 뱅킹 악성코드 진화…스마트폰 안에서 송금까지 조작한다",
+          "link": "https://www.dailysecu.com/news/articleView.html?idxno=208137",
+          "press": "",
+          "date": "2026-08-20"
+        }
+      ],
       "rank": 8
     },
     {
       "keyword": "루이스 홀",
-      "traffic": "100+",
+      "traffic": "200+",
       "blogTotal": 1844,
       "newsTotal": 23049,
       "recentToday": 3,
@@ -661,7 +661,7 @@
     },
     {
       "keyword": "고우석",
-      "traffic": "500+",
+      "traffic": "1000+",
       "blogTotal": 8913,
       "newsTotal": 47112,
       "recentToday": 2,
