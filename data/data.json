@@ -1,13 +1,159 @@
 {
-  "updatedAt": "2026-08-22T22:18:29.105Z",
+  "updatedAt": "2026-08-22T22:47:10.107Z",
   "source": "live",
   "keywords": [
     {
-      "keyword": "방탄소년단",
+      "keyword": "집중호우",
       "traffic": "500+",
-      "blogTotal": 8953992,
-      "newsTotal": 913785,
-      "recentToday": 78,
+      "blogTotal": 117463,
+      "newsTotal": 808945,
+      "recentToday": 86,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "거제 지역 집중호우 및 물난리 대처법! 실시간 통제 구간 확인하기",
+          "link": "https://blog.naver.com/llhonll/224380851795",
+          "blogger": "\"후니\"",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "집중호우 기준  뜻부터 대비 행동요령까지 총정리",
+          "link": "https://blog.naver.com/fds6051/224333783448",
+          "blogger": "옥냥의 육아 한스푼",
+          "date": "2026-07-02"
+        },
+        {
+          "title": "경남 거제 비피해 시간당 100mm 집중호우 거제 주민 고립 산사태 주의....",
+          "link": "https://blog.naver.com/jini4998/224380909840",
+          "blogger": "끌림",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "거제 집중호우 800mm 물폭탄, 침수·산사태 피해 상황과 현재 복구 현....",
+          "link": "https://blog.naver.com/ac4207/224381323794",
+          "blogger": "다라미 일상로그",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "2026 거제 폭우 산사태 피해 상황｜전남·경남 집중호우, 홍수 행동요....",
+          "link": "https://blog.naver.com/2whiteworld/224381033565",
+          "blogger": "강추로그:)",
+          "date": "2026-08-17"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "李 대통령, 당대표 선거 출마자 초청 만찬 등…사진으로 돌아보는 한 주...",
+          "link": "https://www.segye.com/newsView/20260821505716?OutUrl=naver",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "전북 의용소방대원, 집중호우 피해 경남 거제서 복구 '구슬땀'",
+          "link": "https://www.pressian.com/pages/articles/2026082306215744747?utm_source=naver&utm_medium=search",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "박완수 지사, 특별재난지역 선포 다음 날 통영 수해현장 점검",
+          "link": "https://www.kukinews.com/article/view/kuk202608230008",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "18호 태풍 사우델 중국으로 갈듯, 19호 태풍 나라도 중국, 20호 태풍 개나...",
+          "link": "http://www.economytalk.kr/news/articleView.html?idxno=423667",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "[분석] 유류 최고가격 또 동결…정부, 물가 안정과 에너지안보 '균형' 시...",
+          "link": "https://www.energydaily.co.kr/news/articleView.html?idxno=202431",
+          "press": "",
+          "date": "2026-08-22"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "keyword": "축구 감독",
+      "traffic": "200+",
+      "blogTotal": 155727,
+      "newsTotal": 2079743,
+      "recentToday": 85,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "대한민국 축구 대표팀 차기 감독 후보 5인 스펙 및 전술 분석 선택은....",
+          "link": "https://blog.naver.com/sebastiano7979/224375172125",
+          "blogger": "서기의 뷰파인더로 보는 세상",
+          "date": "2026-08-12"
+        },
+        {
+          "title": "[한국 축구 국가대표 임시 감독 발표] 차기 후보 총정리 : 포옛 탈락 ....",
+          "link": "https://blog.naver.com/rorlrla12/224381338333",
+          "blogger": "다시, 봄",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "한국 축구대표팀 감독 후보 최종 5인 확정! 포옛 탈락 배경과 모레노....",
+          "link": "https://blog.naver.com/holazuni/224381883199",
+          "blogger": "한준의 티키타카",
+          "date": "2026-08-18"
+        },
+        {
+          "title": "\"박항서를 넘었다는 감독\" 베트남 축구 새 역사를 쓰고 있는 한국 감....",
+          "link": "https://blog.naver.com/gytjddk12/224380982622",
+          "blogger": "SPORTS ISSUE",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "'베트남 축구 국가대표팀 감독' 김상식 학력과 선수 및 지도자 경력 ....",
+          "link": "https://blog.naver.com/pso164/224359115928",
+          "blogger": "과학커뮤니케이터 박종현",
+          "date": "2026-07-27"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "'데뷔전 데뷔골 폭발' 이강인, 개막 2경기 만에 '첫 선발·연속골' 도전...",
+          "link": "https://www.starnewskorea.com/sports/2026/08/23/2026082307081049192",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "'우지원 딸' 우서윤, 미스코리아 眞 반전 주인공…지성 갖춘 '9등신 미녀...",
+          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1003288",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "'韓 괴물 수비수' 김민재, 트로피 또 늘었다! 슈퍼컵 선발 출전·풀타임...",
+          "link": "https://www.besteleven.com/news/articleView.html?idxno=311441",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "'데뷔전 데뷔골' 이강인, 나흘 만에 또 출격…확실한 눈도장 찍는다",
+          "link": "https://www.news1.kr/sports/overseas-soccer/6265815",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "[k2.interview] '환상 프리킥 데뷔골' 루이스, \"이정효 감독 축구에 미친...",
+          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96784",
+          "press": "",
+          "date": "2026-08-22"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "keyword": "방탄소년단",
+      "traffic": "1000+",
+      "blogTotal": 8953998,
+      "newsTotal": 913788,
+      "recentToday": 77,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -43,6 +189,24 @@
       ],
       "topNews": [
         {
+          "title": "BTS 정국, 'GOLDEN'으로 스포티파이 146주 진입…스트리밍 73억 회 돌파",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16170629",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "방탄소년단 진, 호주 인기 MC 토니 암스트롱 최애 고백 받았다",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16170621",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "방탄소년단 지민, \"단어 하나하나 곱씹게 돼\"…AI와 편지 준비 과정 담겼...",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16170617",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
           "title": "손흥민·조수미·BTS·페이커…'국위선양' 기념메달 주인공들은",
           "link": "https://www.yna.co.kr/view/AKR20260821125000063?input=1195m",
           "press": "",
@@ -53,107 +217,16 @@
           "link": "https://www.segye.com/newsView/20260823500216?OutUrl=naver",
           "press": "",
           "date": "2026-08-22"
-        },
-        {
-          "title": "[단독] 외국인 피의자 10명 중 1명 '수사 중지'…몰래 출국에 속수무책",
-          "link": "https://news.tf.co.kr/read/life/2356826.htm",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "[TF프리즘] K팝 컴백 시간표의 비밀…'월요일이냐 금요일이냐'",
-          "link": "https://news.tf.co.kr/read/entertain/2356755.htm",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "박지현, 팬들의 사랑으로 빛났다...'케이 월드 드림 어워즈' 인기상 수상",
-          "link": "https://www.nc.press/news/articleView.html?idxno=624412",
-          "press": "",
-          "date": "2026-08-22"
         }
       ],
-      "rank": 1
-    },
-    {
-      "keyword": "오세훈",
-      "traffic": "1000+",
-      "blogTotal": 110151,
-      "newsTotal": 645641,
-      "recentToday": 70,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "‘명태균 여론조사’ 윤석열·‘여론조사 대납’ 오세훈…항소심 ....",
-          "link": "https://blog.naver.com/luluda0802/224380175510",
-          "blogger": "혜안의 생활노트",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "오세훈 프로필 나이 고향 학력 서울시장 경력 총정리",
-          "link": "https://blog.naver.com/quswodid/224306027476",
-          "blogger": "잡학아지트",
-          "date": "2026-06-04"
-        },
-        {
-          "title": "오세훈 사주 : 서울시장 자월의 정유일주",
-          "link": "https://blog.naver.com/ninobrad/224354614647",
-          "blogger": "서초명리학",
-          "date": "2026-07-22"
-        },
-        {
-          "title": "오세훈 용산공원 반대 이유는? 주택공급 놓고 정부와 이견",
-          "link": "https://blog.naver.com/jeocw2/224382241516",
-          "blogger": "워시위시",
-          "date": "2026-08-18"
-        },
-        {
-          "title": "오세훈 항소심 간다…벌금 1천만원 뒤집을까, 이번엔 ‘2,100만원’....",
-          "link": "https://blog.naver.com/simuean/224378968347",
-          "blogger": "in and out",
-          "date": "2026-08-14"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "與, 오세훈 시장 겨냥 “변명 뒤에 숨지말고 서울시민에 사죄하라”",
-          "link": "https://www.munhwa.com/article/11611207?ref=naver",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "김윤덕·오세훈 이번주 다시 회동…'용산공원 공급' 접점 찾나",
-          "link": "https://www.yna.co.kr/view/AKR20260823005600003?input=1195m",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "민주당·오세훈, ‘부동산’ 오찬…용산공원 주택·그린벨트 해제 ‘평...",
-          "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8643574&ref=A",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "전성수 서초구청장 “향후 4년, ‘전심행정’으로 도시 대변혁” [민선...",
-          "link": "https://biz.heraldcorp.com/article/10848497?ref=naver",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "김민석 대표 취임 후 첫 고위당정…부동산 세제·주택 공급 논의 주목",
-          "link": "https://www.news1.kr/politics/assembly/6266478",
-          "press": "",
-          "date": "2026-08-22"
-        }
-      ],
-      "rank": 2
+      "rank": 3
     },
     {
       "keyword": "안세영",
       "traffic": "2000+",
-      "blogTotal": 30382,
-      "newsTotal": 43765,
-      "recentToday": 41,
+      "blogTotal": 30388,
+      "newsTotal": 43767,
+      "recentToday": 35,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -189,8 +262,14 @@
       ],
       "topNews": [
         {
-          "title": "안세영, 왕즈이 꺾고 세계선수권 결승 진출…야마구치와 우승 격돌, 3년...",
-          "link": "https://www.mediapen.com/news/view/1118247",
+          "title": "'여제' 안세영, 3년 만에 세계선수권 챔피언 도전...결승 상대는 '5연승...",
+          "link": "https://isplus.com/article/view/isp202608230009",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "‘세계 1위’ 안세영, 오늘 세계선수권 정상 탈환 도전… 결승 상대는 ...",
+          "link": "https://www.sportsworldi.com/newsView/20260823501896",
           "press": "",
           "date": "2026-08-22"
         },
@@ -201,30 +280,24 @@
           "date": "2026-08-22"
         },
         {
+          "title": "안세영, 왕즈이 꺾고 세계선수권 결승 진출…야마구치와 우승 격돌, 3년...",
+          "link": "https://www.mediapen.com/news/view/1118247",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
           "title": "안세영, '세계 3위' 왕즈이에 2대0 완승…세계선수권 결승 진출",
           "link": "https://www.abcn.kr/news/articleView.html?idxno=90771",
           "press": "",
           "date": "2026-08-22"
-        },
-        {
-          "title": "중국 1인자? 훗 어림없지…안세영, 왕즈이 꺾고 세계선수권 결승 진출",
-          "link": "https://www.seoul.co.kr/news/sport/badminton/2026/08/23/20260823500001?wlog_tag3=naver",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "이번엔 쉽지 않다… 안세영의 세계선수권 우승을 장담하기 어려운 이유...",
-          "link": "https://sports.hankooki.com/news/articleView.html?idxno=6938370",
-          "press": "",
-          "date": "2026-08-22"
         }
       ],
-      "rank": 3
+      "rank": 4
     },
     {
       "keyword": "이준영",
-      "traffic": "100+",
-      "blogTotal": 31631,
+      "traffic": "200+",
+      "blogTotal": 31633,
       "newsTotal": 91164,
       "recentToday": 32,
       "recentWeek": 100,
@@ -292,51 +365,57 @@
           "date": "2026-08-22"
         }
       ],
-      "rank": 4
+      "rank": 5
     },
     {
-      "keyword": "서승재",
-      "traffic": "1000+",
-      "blogTotal": 4062,
-      "newsTotal": 13265,
-      "recentToday": 23,
-      "recentWeek": 100,
+      "keyword": "백하나",
+      "traffic": "200+",
+      "blogTotal": 3769,
+      "newsTotal": 6724,
+      "recentToday": 27,
+      "recentWeek": 92,
       "topBlogs": [
         {
-          "title": "'배드민턴 세계 랭킹 1위' 서승재 학력 및 선수 경력과 살아온 생애",
-          "link": "https://blog.naver.com/pso164/224385400840",
-          "blogger": "과학커뮤니케이터 박종현",
+          "title": "안세영·김원호-서승재·백하나-이소희 8강행…김가은·심유진은 탈....",
+          "link": "https://blog.naver.com/rodasports/224384976480",
+          "blogger": "로다스포츠",
+          "date": "2026-08-20"
+        },
+        {
+          "title": "[배드민턴/세계선수권대회] 백하나-이소희 조, 32강 가뿐히 넘고 16강....",
+          "link": "https://blog.naver.com/jarajaja/224384069969",
+          "blogger": "별구름네 다락방",
+          "date": "2026-08-20"
+        },
+        {
+          "title": "2026 BWF 세계개인배드민턴선수권 안세영 4강 경기일정 서승재-김원호....",
+          "link": "https://blog.naver.com/okithekey/224386167785",
+          "blogger": "건강한 부자",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "2026 세계배드민턴선수권 16강 결과 총정리｜안세영·김원호-서승재·....",
+          "link": "https://blog.naver.com/dnjftp123/224385082859",
+          "blogger": "짠내",
           "date": "2026-08-21"
         },
         {
-          "title": "2026 세계배드민턴선수권 2일차 결과｜심유진 32강·김원호-서승재 완....",
-          "link": "https://blog.naver.com/dnjftp123/224383006131",
-          "blogger": "짠내",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "안세영·서승재·김원호, 배드민턴 국가대표 선수들 (라켓,신발,스트....",
-          "link": "https://blog.naver.com/times_minton/224377083118",
-          "blogger": "Minton Studio",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "서승재·김원호 38분 완승! 안세영 오후 4시40분…세계배드민턴선수....",
-          "link": "https://blog.naver.com/hj3314/224382832994",
+          "title": "세계배드민턴선수권 한국 3연승! 안세영부터 백하나·이소희까지 16....",
+          "link": "https://blog.naver.com/hj3314/224383690143",
           "blogger": "이른의 배움 노트",
           "date": "2026-08-19"
-        },
-        {
-          "title": "[배드민턴/세계선수권대회] 서승재-김원호 8강 진출!!(강민혁-기동주....",
-          "link": "https://blog.naver.com/jarajaja/224385187659",
-          "blogger": "별구름네 다락방",
-          "date": "2026-08-21"
         }
       ],
       "topNews": [
         {
-          "title": "‘충격적인 패배 세계랭킹 1위가 무너졌다!’ 김원호-서승재조, 준결승...",
-          "link": "http://www.osen.co.kr/article/G1112862114",
+          "title": "‘세계 1위’ 안세영, 오늘 세계선수권 정상 탈환 도전… 결승 상대는 ...",
+          "link": "https://www.sportsworldi.com/newsView/20260823501896",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "백하나-이소희, 올해 5연패 안긴 '中 세계 1위'와 결승 격돌…\"이번엔 金...",
+          "link": "https://www.xportsnews.com/article/2186819",
           "press": "",
           "date": "2026-08-22"
         },
@@ -347,93 +426,14 @@
           "date": "2026-08-22"
         },
         {
-          "title": "\"안세영, 올림픽 뒤 지도자 바뀌더니 더 잘한다!\"…AN 용기 있는 고발→...",
-          "link": "https://www.xportsnews.com/article/2186695",
+          "title": "3분 18초 숨 막힌 랠리…혈투 끝 결승 오른 이소희-백하나",
+          "link": "https://news.jtbc.co.kr/article/NB12314586?influxDiv=NAVER",
           "press": "",
           "date": "2026-08-22"
         },
         {
-          "title": "한국 배드민턴, 세계선수권 3개 종목 4강 진출…안세영은 왕즈이와 격돌",
-          "link": "https://idsn.co.kr/news/view/1065590398516842",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "[배드민턴] 안세영, 세계선수권 준결승 진출… 정상 탈환 눈앞",
-          "link": "https://www.newscj.com/news/articleView.html?idxno=3426942",
-          "press": "",
-          "date": "2026-08-22"
-        }
-      ],
-      "rank": 5
-    },
-    {
-      "keyword": "pba 팀리그",
-      "traffic": "100+",
-      "blogTotal": 6276,
-      "newsTotal": 19642,
-      "recentToday": 11,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "26-27 PBA팀리그 2라운드 5일차 경기결과 팀순위, 크라운해태 당구팀 2....",
-          "link": "https://blog.naver.com/syspapa/224380654417",
-          "blogger": "풀꽃처럼",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "\"PBA 팀리그 오늘 결과, 하이원·휴온스 3연승과 현재 순위 정리\"",
-          "link": "https://blog.naver.com/cjjca/224378891687",
-          "blogger": "cjjca님의블로그",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "PBA 팀리그 광명에서 시즌 개막! 참가팀, 경기 일정, 우승상금, 중계....",
-          "link": "https://blog.naver.com/okjkw/224335741384",
-          "blogger": "변함없이 한결같이",
-          "date": "2026-07-03"
-        },
-        {
-          "title": "PBA 2026-2027 팀리그 2라운드 경기 일정 및 장소",
-          "link": "https://blog.naver.com/glukun/224372811811",
-          "blogger": "I storm",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "2026년 PBA 팀리그 화성 2라운드 일정과 입장권 예매 체크하기",
-          "link": "https://blog.naver.com/kimokja30/224380227310",
-          "blogger": "김씨",
-          "date": "2026-08-17"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "휴온스 헬스케어 레전드, PBA 팀리그 2라운드 전승…포스트시즌 진출 확...",
-          "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=206600",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "PBA 팀리그 휴온스, 창단 6시즌 만에 첫 우승 비결은?",
-          "link": "https://www.news1.kr/sports/general-sport/6266348",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "[FT포토] PBA팀리그 화성특례시 투어 2라운드에서 9전 전승으로 우승을...",
-          "link": "https://www.ftimes.kr/news/articleView.html?idxno=39160",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "[FT포토] PBA 팀리그 화성특례시 투어 2라운드 하나카드 한지승",
-          "link": "https://www.ftimes.kr/news/articleView.html?idxno=39158",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "[FT포토] PBA팀리그 화성특례시 투어 2라운드 휴온스의 리더 최성원 7라...",
-          "link": "https://www.ftimes.kr/news/articleView.html?idxno=39157",
+          "title": "백하나-이소희, ​여자복식 준결승서 2-0 완승…배드민턴 세계선수권 사...",
+          "link": "http://www.stoo.com/article.php?aid=108463786871",
           "press": "",
           "date": "2026-08-22"
         }
@@ -441,229 +441,156 @@
       "rank": 6
     },
     {
-      "keyword": "오동운",
+      "keyword": "해리 케인",
       "traffic": "200+",
-      "blogTotal": 2135,
-      "newsTotal": 19589,
+      "blogTotal": 13603,
+      "newsTotal": 168214,
       "recentToday": 2,
-      "recentWeek": 3,
+      "recentWeek": 32,
       "topBlogs": [
         {
-          "title": "오동운 공수처장 프로필｜나이·학력·경력·재산",
-          "link": "https://blog.naver.com/upland_/224316342132",
-          "blogger": "세상의 모든 정보",
-          "date": "2026-06-15"
+          "title": "\"멀티골 넣었지만..\" BBC 중계진도 분노한 해리 케인 PK 판정 논란",
+          "link": "https://blog.naver.com/8winner/224333705709",
+          "blogger": "레슬리 매거진",
+          "date": "2026-07-02"
         },
         {
-          "title": "오동운 공수처장 피의자 입건",
-          "link": "https://blog.naver.com/iloilodream/224055159700",
-          "blogger": "필포러브",
-          "date": "2025-10-27"
+          "title": "잉글랜드를 멱살 잡고 16강으로… 해리 케인, 연봉만큼 버는 \"이것\" ....",
+          "link": "https://blog.naver.com/yyjj2814/224333869198",
+          "blogger": "열정의 그라운드",
+          "date": "2026-07-02"
         },
         {
-          "title": "공수처장 오동운 프로필",
-          "link": "https://blog.naver.com/gwjun/224061227407",
-          "blogger": "사람과 정책",
-          "date": "2025-11-01"
+          "title": "축구선수 헤리케인 프로필 기록 연봉",
+          "link": "https://blog.naver.com/quswodid/224344337053",
+          "blogger": "잡학아지트",
+          "date": "2026-07-12"
         },
         {
-          "title": "주요 트위터 주소 모음",
-          "link": "https://mirejiki.tistory.com/94",
-          "blogger": "상상하자! 이루어질테니",
-          "date": "2012-07-20"
+          "title": "해리 케인 와이프, 벨링엄 여친 '2026 월드컵'을 강타한 잉글랜드 축....",
+          "link": "https://blog.naver.com/nadiatear0/224342000419",
+          "blogger": "☆*:.My Sweet Haven.:*☆",
+          "date": "2026-07-10"
         },
         {
-          "title": "오동운 칼 끝 이번엔 李 정조준하나… 공수처, ‘대장동 항소 포기....",
-          "link": "https://blog.naver.com/aghag7/224079335882",
-          "blogger": "숟가락 타임즈",
-          "date": "2025-11-18"
+          "title": "해리 케인 73골 달성! 뮌헨 우승하면 정말 발롱도르 가능할까?",
+          "link": "https://blog.naver.com/tv_issue/224383430746",
+          "blogger": "스포츠의 모든 이야기 [스모이]",
+          "date": "2026-08-19"
         }
       ],
       "topNews": [
         {
-          "title": "공수처장 \"중수청, 제2의 공수처 될 것이란 우려 있어\"",
-          "link": "https://www.pressian.com/pages/articles/2026082116351805053?utm_source=naver&utm_medium=search",
+          "title": "'韓 괴물 수비수' 김민재, 트로피 또 늘었다! 슈퍼컵 선발 출전·풀타임...",
+          "link": "https://www.besteleven.com/news/articleView.html?idxno=311441",
           "press": "",
-          "date": "2026-08-21"
+          "date": "2026-08-22"
         },
         {
-          "title": "법사위, 조희대 대법원장 '현안질의 출석 요구' 與주도 의결…국힘 퇴장...",
-          "link": "https://www.newsis.com/view/NISX20260821_0003758134",
+          "title": "'풀타임' 김민재 또 트로피 추가! 바이에른, 라이벌 BVB 2-1 제압...베켄...",
+          "link": "http://www.osen.co.kr/article/G1112862125",
           "press": "",
-          "date": "2026-08-21"
+          "date": "2026-08-22"
         },
         {
-          "title": "공수처장, '대법관 서면 제청' 고발 사건에…\"엄정 처리 독려\"",
-          "link": "https://www.dailian.co.kr/news/view/1680950/?sc=Naver",
+          "title": "[supercup.review] '김민재 철벽 수비로 시즌 첫 우승!' 뮌헨, 도르트문트...",
+          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96792",
           "press": "",
-          "date": "2026-08-21"
+          "date": "2026-08-22"
         },
         {
-          "title": "\"두통 심해\"vs\"무책임\" 정성호 불출석에 충돌…보완수사권 공방도(종합...",
-          "link": "https://www.news1.kr/politics/assembly/6265943",
+          "title": "'후보라고 야단법석' 민망하게 만든 김민재, 첫 경기부터 '벽' 그 자체!...",
+          "link": "http://www.footballist.co.kr/news/articleView.html?idxno=213879",
           "press": "",
-          "date": "2026-08-21"
+          "date": "2026-08-22"
         },
         {
-          "title": "공수처장 \"대법관 서면 제청 고발 사건, 엄정 처리되도록 독려\"",
-          "link": "https://www.news1.kr/society/court-prosecution/6265880",
+          "title": "'월드컵 무득점' 올리세, 뮌헨 돌아가자마자 슈퍼골 작렬! 돌아온 뮌헨...",
+          "link": "http://www.footballist.co.kr/news/articleView.html?idxno=213878",
           "press": "",
-          "date": "2026-08-21"
+          "date": "2026-08-22"
         }
       ],
       "rank": 7
     },
     {
-      "keyword": "이가 시비옹테크",
-      "traffic": "500+",
-      "blogTotal": 1345,
-      "newsTotal": 5238,
-      "recentToday": 2,
-      "recentWeek": 13,
+      "keyword": "인공지능",
+      "traffic": "200+",
+      "blogTotal": 1088065,
+      "newsTotal": 4296909,
+      "recentToday": 0,
+      "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "2026 WTA1000 캐나다 오픈(내셔널뱅크 오픈) 여자 결승전. 우승 이가 시....",
-          "link": "https://blog.naver.com/joseph3013/224378161827",
-          "blogger": "GENESIS AND",
+          "title": "인공지능 시대의 4가지 생존 전략: 유호현, 김진실 '슈퍼휴먼 슈퍼워....",
+          "link": "https://blog.naver.com/conspicu/224378939399",
+          "blogger": "오늘도열공❤️",
           "date": "2026-08-14"
         },
         {
-          "title": "[ 2026 WTA 캐나다 오픈 ] 챔피언 이가 시비옹테크",
-          "link": "https://blog.naver.com/jw4932/224378192842",
-          "blogger": "Sports Blog",
-          "date": "2026-08-14"
+          "title": "서울 창동 로봇인공지능과학관, 아이랑 신기한 경험 가득했어요!",
+          "link": "https://blog.naver.com/cuki00/224352444228",
+          "blogger": "아이들과 국내,국외여행과 건강, 재테크",
+          "date": "2026-07-20"
         },
         {
-          "title": "전 윔블던 챔피언 4년 출전정지, 대체 왜? \"나는 시너와 시비옹테크....",
-          "link": "https://blog.naver.com/maximaldaily/224330008076",
-          "blogger": "Maximalist's Diary",
-          "date": "2026-06-28"
+          "title": "AGI 뜻과 인공지능 뜻 정리, AI와 AGI 차이 간단 이해하기",
+          "link": "https://blog.naver.com/diamond31/224304688379",
+          "blogger": "대학입시전문 코치",
+          "date": "2026-06-03"
         },
         {
-          "title": "‘1년 만의 우승’ 시비옹테크, 리바키나 꺾고 캐나다오픈 정상",
-          "link": "https://blog.naver.com/hhyejjin0810/224378224349",
-          "blogger": "운동할 때도 패션 못 잃지",
-          "date": "2026-08-14"
+          "title": "아이랑 체험학습 | 체험하면서 배우는 서울로봇인공지능과학관 4층 ....",
+          "link": "https://blog.naver.com/wonderer100/224378814397",
+          "blogger": "호기심 많은 방랑자",
+          "date": "2026-08-15"
         },
         {
-          "title": "폴란드 테니스 선수 이가 시비옹테크(프로필,커리어,스타일 등)",
-          "link": "https://blog.naver.com/mistermy18/224335204287",
-          "blogger": "H2의 스포츠와 여행",
-          "date": "2026-07-03"
+          "title": "건국대 수시등급, 2027학년도 1,900명 선발 인공지능학과 신설 주목",
+          "link": "https://blog.naver.com/dbswndus84/224347575540",
+          "blogger": "째야네 교육이야기",
+          "date": "2026-07-15"
         }
       ],
       "topNews": [
         {
-          "title": "\"걷는 것도 고통스럽다\" 부상으로 세계랭킹 1위 기회 놓치고 울먹…\"그...",
-          "link": "https://www.xportsnews.com/article/2186605",
+          "title": "'TL·로스트아크 퍼블리싱 중단' 아마존, MGM 게임 총괄 인력 채용",
+          "link": "https://www.theguru.co.kr/news/article.html?no=106125",
           "press": "",
           "date": "2026-08-22"
         },
         {
-          "title": "\"춤은 나에게 탈출구\" 女 테니스 1위' 비키니 샷+틱톡 삼매경까지 충격...",
-          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1002928",
+          "title": "인제대, 한·중·일 공학도 AI 아이디어 프로젝트 공동수행",
+          "link": "https://www.newsis.com/view/NISX20260823_0003758658",
           "press": "",
-          "date": "2026-08-21"
+          "date": "2026-08-22"
         },
         {
-          "title": "또 세계 1위 놓친 리바키나, 부상으로 신시내티오픈 8강 기권",
-          "link": "https://www.tennis.co.kr/news/articleView.html?idxno=53505",
+          "title": "[크립토리뷰] 마브렉스, 웹3 모바일 게임 '픽셀 테이머즈' 글로벌 출시(...",
+          "link": "https://www.theguru.co.kr/news/article.html?no=106144",
           "press": "",
-          "date": "2026-08-21"
+          "date": "2026-08-22"
         },
         {
-          "title": "'세계 2위' 리바키나, 신시내티 오픈 부상으로 기권",
-          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3670466",
+          "title": "뉴욕증시 최대 고비 맞았다…연준 의장 입과 엔비디아 실적에 쏠린 눈",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479647",
           "press": "",
-          "date": "2026-08-21"
+          "date": "2026-08-22"
         },
         {
-          "title": "남의 도핑엔 \"역겹다\"더니... '내로남불' 키리오스, 정작 본인은 코카인...",
-          "link": "https://www.starnewskorea.com/sports/2026/08/20/2026082018515657666",
+          "title": "반도체 세수로 SMR·양자 등 7대 신성장동력…'제2의 반도체' 키운다",
+          "link": "https://www.news1.kr/economy/trend/6266031",
           "press": "",
-          "date": "2026-08-20"
+          "date": "2026-08-22"
         }
       ],
       "rank": 8
     },
     {
-      "keyword": "아파트",
-      "traffic": "5000+",
-      "blogTotal": 16897452,
-      "newsTotal": 5540833,
-      "recentToday": 0,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "양도세 급증에 등장한 아파트 맞교환, 진짜 절세될까?",
-          "link": "https://blog.naver.com/vitamin2230/224372825268",
-          "blogger": "REONE P&I",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "[수원 아파트] 광교 A17 청약 총정리! 마지막 로또 청약 & 지분적립형 ....",
-          "link": "https://blog.naver.com/mylynn365/224379592737",
-          "blogger": "슬로의 임장로그",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "대전 유성구 송강동 아파트 화재, 새벽시간 8층 세대 발화로 30여명 ....",
-          "link": "https://blog.naver.com/arivory/224373511907",
-          "blogger": "로앤헬스(Law&Health)",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "LTV란? 규제지역에서 아파트를 사면 대출 한도가 40%로 줄어들까?",
-          "link": "https://blog.naver.com/hwre7774/224370267136",
-          "blogger": "워누공간의 블로그",
-          "date": "2026-08-06"
-        },
-        {
-          "title": "고양 일산동구 30평대 아파트 시세 어디가 높을까? 킨텍스원시티·요....",
-          "link": "https://blog.naver.com/nextground/224378313685",
-          "blogger": "집품 공식 블로그",
-          "date": "2026-08-14"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "인천 재외동포타운 사업 '잡음'에 영종국제학교 '안갯속'",
-          "link": "https://www.yna.co.kr/view/AKR20260821048700065?input=1195m",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "[스브스夜] '그알' 경산 친구 살인사건···전문가, \"가해자 정재환, 만...",
-          "link": "https://ent.sbs.co.kr/news/article.do?article_id=E10010320984&plink=ORI&cooper=NAVER",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "[괴물 엘니뇨의 습격(중)] 우기에도 말라붙은 파나마운하…새치기 통행...",
-          "link": "https://www.the-today.com/news/articleView.html?idxno=88798",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "“초고가 아파트 겨냥한 세제개편에 20억 원대 ‘덜 똘똘한 한 채’로 ...",
-          "link": "https://weekly.donga.com/3/all/11/6356149/1",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "아이 넷 30대 직장인이 겪은 李 부동산정책의 현실",
-          "link": "https://shindonga.donga.com/3/all/13/6355996/1",
-          "press": "",
-          "date": "2026-08-22"
-        }
-      ],
-      "rank": 9
-    },
-    {
       "keyword": "투자",
-      "traffic": "500+",
-      "blogTotal": 8806348,
-      "newsTotal": 22211880,
+      "traffic": "1000+",
+      "blogTotal": 8806472,
+      "newsTotal": 22211911,
       "recentToday": 0,
       "recentWeek": 100,
       "topBlogs": [
@@ -700,32 +627,105 @@
       ],
       "topNews": [
         {
-          "title": "삼성전자·SK하이닉스가 받친 코스피 6900선…이번 주 엔비디아·잭슨홀...",
-          "link": "https://www.joongangenews.com/news/articleView.html?idxno=541950",
+          "title": "[크립토리뷰] 마브렉스, 웹3 모바일 게임 '픽셀 테이머즈' 글로벌 출시(...",
+          "link": "https://www.theguru.co.kr/news/article.html?no=106144",
           "press": "",
           "date": "2026-08-22"
         },
         {
-          "title": "하이퍼리퀴드 전략사 기관 보유율 9.45%",
-          "link": "https://www.tokenpost.kr/news/cryptocurrency/395817",
+          "title": "뉴욕증시 최대 고비 맞았다…연준 의장 입과 엔비디아 실적에 쏠린 눈",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479647",
           "press": "",
           "date": "2026-08-22"
         },
         {
-          "title": "KF-21 파트너 인니의 친중 행보, 中 미사일 공장 합작의 파장",
-          "link": "https://www.g-enews.com/view.php?ud=202608230658202429fbbec65dfb_1",
+          "title": "[이슈]'애국' 팔아 3대 세습?…모나미, 주주보다 3세 '티펙스' 일감 챙기...",
+          "link": "https://www.the-today.com/news/articleView.html?idxno=88799",
           "press": "",
           "date": "2026-08-22"
         },
         {
-          "title": "한화, 美 방산시장 공략 가속… 현지 자회사에 4000억원 투입",
-          "link": "https://www.newscj.com/news/articleView.html?idxno=3427053",
+          "title": "페라리 첫 전기차 '루체', 4000만 달러 낙찰…신차 경매 역대 최고가",
+          "link": "https://www.theguru.co.kr/news/article.html?no=106143",
           "press": "",
           "date": "2026-08-22"
         },
         {
-          "title": "\"AI·AR로 당구 진입장벽 낮춘다\"… 아이티센클로잇·큐스코가 그리는 스...",
-          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092168635",
+          "title": "[윤유미의 돈 되는 뒷담화] 비트코인 10억 간다고? 미국은 왜 갑자기 친...",
+          "link": "https://www.geconomy.co.kr/news/article.html?no=323009",
+          "press": "",
+          "date": "2026-08-22"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "keyword": "아파트",
+      "traffic": "1000+",
+      "blogTotal": 16897576,
+      "newsTotal": 5540841,
+      "recentToday": 0,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "양도세 급증에 등장한 아파트 맞교환, 진짜 절세될까?",
+          "link": "https://blog.naver.com/vitamin2230/224372825268",
+          "blogger": "REONE P&I",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "[수원 아파트] 광교 A17 청약 총정리! 마지막 로또 청약 & 지분적립형 ....",
+          "link": "https://blog.naver.com/mylynn365/224379592737",
+          "blogger": "슬로의 임장로그",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "대전 유성구 송강동 아파트 화재, 새벽시간 8층 세대 발화로 30여명 ....",
+          "link": "https://blog.naver.com/arivory/224373511907",
+          "blogger": "로앤헬스(Law&Health)",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "LTV란? 규제지역에서 아파트를 사면 대출 한도가 40%로 줄어들까?",
+          "link": "https://blog.naver.com/hwre7774/224370267136",
+          "blogger": "워누공간의 블로그",
+          "date": "2026-08-06"
+        },
+        {
+          "title": "고양 일산동구 30평대 아파트 시세 어디가 높을까? 킨텍스원시티·요....",
+          "link": "https://blog.naver.com/nextground/224378313685",
+          "blogger": "집품 공식 블로그",
+          "date": "2026-08-14"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "李 대통령, 당대표 선거 출마자 초청 만찬 등…사진으로 돌아보는 한 주...",
+          "link": "https://www.segye.com/newsView/20260821505716?OutUrl=naver",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "결혼 3년 만에 이혼한 남자 \"여자는 외모보다 그게 중요한데... 후회 된...",
+          "link": "https://www.wikitree.co.kr/articles/1154229",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "자식이 독립만 하면 끝일 줄 알았다…오히려 독립 후 '갈등 생기는 생활...",
+          "link": "https://www.wikitree.co.kr/articles/1153393",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "민주당 수도권 의원들, ‘부동산 고위당정’에 촉각 [오늘의 여의도]",
+          "link": "https://www.edaily.co.kr/News/Read?newsId=01111926645550272&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "하윤경, 고양이 집사→필라테스→국밥 혼술…털털한 일상 공개('전참시...",
+          "link": "http://www.celuvmedia.com/article.php?aid=1787437800526180010",
           "press": "",
           "date": "2026-08-22"
         }
