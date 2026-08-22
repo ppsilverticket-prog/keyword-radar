@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-22T17:44:57.658Z",
+  "updatedAt": "2026-08-22T18:25:35.968Z",
   "source": "live",
   "keywords": [
     {
       "keyword": "k뷰티",
       "traffic": "100+",
-      "blogTotal": 102324,
+      "blogTotal": 102326,
       "newsTotal": 348168,
-      "recentToday": 87,
+      "recentToday": 86,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -79,7 +79,7 @@
       "keyword": "토트넘",
       "traffic": "2000+",
       "blogTotal": 254598,
-      "newsTotal": 674838,
+      "newsTotal": 674840,
       "recentToday": 83,
       "recentWeek": 100,
       "topBlogs": [
@@ -116,6 +116,18 @@
       ],
       "topNews": [
         {
+          "title": "[PL REVIEW] '4318억 썼는데 이 꼴이라니'....토트넘, 상상초월 졸전! 브...",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=693017",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "[오피셜] 손흥민 '70m 단독 드리블' 재현한 이유 있었다! 반더벤, 토트넘...",
+          "link": "https://mhnse.com/news/articleView.html?idxno=1497984",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
           "title": "[PL LINE UP] '양민혁과 동갑' 그레이가 개막전 주장 완장 찼다...'대변혁...",
           "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=693014",
           "press": "",
@@ -132,26 +144,160 @@
           "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=693008",
           "press": "",
           "date": "2026-08-22"
-        },
-        {
-          "title": "'토트넘 잠깐만!' 각포 보내기엔 갑자기 너무 잘한다…이라올라 \"프리시...",
-          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96769",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "토트넘 새 주장 판더펜…그런데 실제 주장은 5명?",
-          "link": "https://sports.khan.co.kr/article/202608222055003?pt=nv",
-          "press": "",
-          "date": "2026-08-22"
         }
       ],
       "rank": 2
     },
     {
+      "keyword": "지진",
+      "traffic": "1000+",
+      "blogTotal": 395907,
+      "newsTotal": 1044164,
+      "recentToday": 75,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "일본 지진 후쿠오카 이틀 연속 흔들림 여행 가도 될까요",
+          "link": "https://blog.naver.com/lamb811/224382006239",
+          "blogger": "근방갈걸의 2시간이내 수도권여행",
+          "date": "2026-08-18"
+        },
+        {
+          "title": "\"지구 대지진 전조 경고일까?\" 불의 고리 연속 강진 발생",
+          "link": "https://blog.naver.com/wnswkd777/224382784497",
+          "blogger": "양비드의 전세계 배틀여행_ing",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "해남 이틀 연속 지진에 인도네시아 7.7 강진 쓰나미까지... 오늘 지진....",
+          "link": "https://blog.naver.com/100vs100328/224379305816",
+          "blogger": "네옹&킹콩친구의즐건 가드닝생활....",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "인도네시아 지진 또 발생/ 발리· 동부 여행객 주의사항 및 대피 팁",
+          "link": "https://blog.naver.com/sys0691/224380239737",
+          "blogger": "헤세드blog",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "발리 지진 NTT 해역 규모 7.7 강진 피해 현황과 여행 안전 대피 수칙",
+          "link": "https://blog.naver.com/kstevie/224379755704",
+          "blogger": "발리누나",
+          "date": "2026-08-15"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "기상청 \"제주 서귀포 동쪽 바다서 규모 2.2 지진…피해 없을 듯\"",
+          "link": "https://www.yna.co.kr/view/AKR20260823001100530?input=1195m",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "日 중동부서 규모 5.8 지진 발생…깊이 77.6km 지점",
+          "link": "https://www.news1.kr/world/northeast-asia/6266500",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "일본 도쿄 인근서 규모 5.9 지진 발생",
+          "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00008&news_seq_no=5214120",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "[속보] 일본 수도권 규모 5.9 지진…도쿄 등 최대 진도 5약",
+          "link": "https://www.pointe.co.kr/news/articleView.html?idxno=83664",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "일본 지바현 가시와시 북동쪽에서 규모 5.9 지진 발생",
+          "link": "https://www.ytn.co.kr/_ln/0104_202608230225050043",
+          "press": "",
+          "date": "2026-08-22"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "keyword": "레알마드리드",
+      "traffic": "100+",
+      "blogTotal": 117787,
+      "newsTotal": 364996,
+      "recentToday": 62,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "레알 마드리드 역대 최고 이적료 축구선수 순위",
+          "link": "https://blog.naver.com/wpals528/224380930428",
+          "blogger": "연제민",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "[내돈내산] 레알마드리드유니폼 26/27 어웨이 S사이즈 구매 후기",
+          "link": "https://blog.naver.com/minyoungzzang914/224364224681",
+          "blogger": "나의 공간",
+          "date": "2026-07-31"
+        },
+        {
+          "title": "26/27 레알 마드리드 1군 스쿼드",
+          "link": "https://blog.naver.com/sus5473/224381436748",
+          "blogger": "축구선수 류승우",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "레알 마드리드 26/27 홈저지 | 신상 레알 유니폼 구매 후기, 남자 여자....",
+          "link": "https://blog.naver.com/wldud0399/224319056389",
+          "blogger": "영꾸리",
+          "date": "2026-06-17"
+        },
+        {
+          "title": "2627 라리가 개막일, 26-27 레알마드리드 경기일정 (엘클라시코,마드리....",
+          "link": "https://blog.naver.com/kattun74/224335045615",
+          "blogger": "쎄쎄쎄",
+          "date": "2026-07-03"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "[오피셜]'일단 이강인과 함께 한다, 여름 이적 접은 듯' 아틀레티코 시...",
+          "link": "https://www.sportschosun.com/football/2026-08-22/202608230100131850008423",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "'입 가리면 다이렉트 퇴장!' 월드컵서 알미론-인카피에 줄줄이 레드카드...",
+          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96774",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "\"압박? 내겐 그런 거 없다, 긍정적 아드레날린은 있어\"...63세에도 여전...",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=693008",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "이럴 수가! 19살한테 선발 밀린 '1060억' MF...하지만 레알 마드리드 이...",
+          "link": "https://www.mydaily.co.kr/page/view/2026082217244065923",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "레알 마드리드 '교수님' 소신 발언 \"발롱도르 1위 메시·음바페 아니다...",
+          "link": "https://www.mydaily.co.kr/page/view/2026082211452871733",
+          "press": "",
+          "date": "2026-08-22"
+        }
+      ],
+      "rank": 4
+    },
+    {
       "keyword": "최홍만",
       "traffic": "200+",
-      "blogTotal": 11668,
+      "blogTotal": 11680,
       "newsTotal": 31398,
       "recentToday": 49,
       "recentWeek": 100,
@@ -219,221 +365,75 @@
           "date": "2026-08-22"
         }
       ],
-      "rank": 3
-    },
-    {
-      "keyword": "타짜",
-      "traffic": "100+",
-      "blogTotal": 53405,
-      "newsTotal": 87418,
-      "recentToday": 35,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "'예고편 떴었네?' 타짜: 벨제붑의 노래 출연진, 등장인물, 스윙스 (한....",
-          "link": "https://blog.naver.com/jangkkoo/224374037533",
-          "blogger": "아나스타샤한 일기장",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "타짜 : 20년이 지난 지금에서야 본 명작",
-          "link": "https://blog.naver.com/9lovehouse/224351976097",
-          "blogger": "마음이 편한 집, 구애하우스",
-          "date": "2026-07-21"
-        },
-        {
-          "title": "영화 ‘타짜: 벨제붑의 노래’ 9월 개봉…변요한이 장식하는 20년 시....",
-          "link": "https://blog.naver.com/dugongtee/224380876679",
-          "blogger": "dugongtee님의 블로그",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "마지막 타짜 영화 벨제붑 보기전 필수 숙지할 정보",
-          "link": "https://blog.naver.com/men4k/224377214337",
-          "blogger": "온에어 유민로그✨",
-          "date": "2026-08-13"
-        },
-        {
-          "title": "타짜오리하우스, 수원 맛집 베스트10 중 1위 추천",
-          "link": "https://blog.naver.com/happy_ben/224374407066",
-          "blogger": "태국 3년 살면, 아이랑 여행은 껌이지!",
-          "date": "2026-08-13"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "이동휘, 연습실 셀카 속 여유…예능·영화로 바쁜 행보",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16170408",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "'파반느'부터 '면도'까지...2026년은 온통 '변요한'",
-          "link": "https://www.harpersbazaar.co.kr/article/1908344",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "\"대역 안 썼다\"…변요한·노재원, ‘타짜’ 마지막판 위해 수개월 연습...",
-          "link": "https://mhnse.com/news/articleView.html?idxno=1497767",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "영화 '레디 오어 낫: 죽음의 숨바꼭질' 사마라 위빙 주연 \"들키면 죽는다...",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16170141",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "영화 '타겟' 신혜선X김성균 \"살인자와 중고거래\" 현실 공포 '접속무비월...",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16170134",
-          "press": "",
-          "date": "2026-08-22"
-        }
-      ],
-      "rank": 4
-    },
-    {
-      "keyword": "블리치",
-      "traffic": "200+",
-      "blogTotal": 55286,
-      "newsTotal": 4644,
-      "recentToday": 26,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "블리치 순서 총정리, OTT부터 천년혈전까지",
-          "link": "https://blog.naver.com/binily/224381653130",
-          "blogger": "리뷰하는 삼겹살",
-          "date": "2026-08-18"
-        },
-        {
-          "title": "블리치 천년혈전 화진담 4기 3화 43화 이치고 각성",
-          "link": "https://blog.naver.com/dydtmd4/224373055182",
-          "blogger": "쩌는블로그",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "블리치 천년혈전 화진담 어른 토시로 성우 카지 유우키 캐스팅",
-          "link": "https://blog.naver.com/ptj0969/224380670437",
-          "blogger": "에레키맨의 무겐 블로그",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "블리치 0번대 효스베 이치베(눈망울 스님) 흑막설 힘의 근원 성우 누....",
-          "link": "https://blog.naver.com/saontsdkss119/224376694603",
-          "blogger": "샹크스",
-          "date": "2026-08-13"
-        },
-        {
-          "title": "블리치 천년혈전 화진담 4기 1화 애니 후기, OTT 보는곳 및 몇부작",
-          "link": "https://blog.naver.com/didcjddns/224357973760",
-          "blogger": "청양의 하는둥 마는둥",
-          "date": "2026-07-26"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "[속보] 65회 랠리는 졌어도…안세영, '동점만 14번' 왕즈이와 4강 첫 게...",
-          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1003282",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "\"바람 때문에 샷 컨트롤 어려웠다\" 안세영, 흔들리고도 세계 5위 격파.....",
-          "link": "http://www.osen.co.kr/article/G1112861723",
-          "press": "",
-          "date": "2026-08-21"
-        },
-        {
-          "title": "'흔들렸던' 안세영 이례적 발언 \"샷 컨트롤에서 조금 어려움 있었다\"......",
-          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1003074",
-          "press": "",
-          "date": "2026-08-21"
-        },
-        {
-          "title": "'파죽지세' 안세영, 中 한웨 꺾고 세계선수권 준결승 진출…동메달 확보",
-          "link": "https://www.news1.kr/sports/general-sport/6266119",
-          "press": "",
-          "date": "2026-08-21"
-        },
-        {
-          "title": "안세영, 1게임 고전했으나 2게임 압도하면서 한웨에 2-0 완승…인도 세...",
-          "link": "http://www.stoo.com/article.php?aid=108445086915",
-          "press": "",
-          "date": "2026-08-21"
-        }
-      ],
       "rank": 5
     },
     {
-      "keyword": "청소업체",
-      "traffic": "100+",
-      "blogTotal": 2427311,
-      "newsTotal": 211005,
-      "recentToday": 13,
+      "keyword": "일본 지진",
+      "traffic": "1000+",
+      "blogTotal": 70542,
+      "newsTotal": 289716,
+      "recentToday": 16,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "가스렌지후드 주방후드청소 셀프VS업체 정확한 기준!",
-          "link": "https://blog.naver.com/lovelymmmmee/224328954324",
-          "blogger": "날마다 유쾌한 러펭",
-          "date": "2026-06-27"
+          "title": "일본 지진 후쿠오카 이틀 연속 흔들림 여행 가도 될까요",
+          "link": "https://blog.naver.com/lamb811/224382006239",
+          "blogger": "근방갈걸의 2시간이내 수도권여행",
+          "date": "2026-08-18"
         },
         {
-          "title": "서울 입주 청소 업체 및 견적 정리",
-          "link": "https://blog.naver.com/loveingshg/224354607132",
-          "blogger": "ESTJ 예비신부의 슬기로운 결혼준비 웨딩생활",
-          "date": "2026-07-22"
+          "title": "\"후쿠오카에서 지진이 발생했다고?\" 한국 영향 일본 여행 주의",
+          "link": "https://blog.naver.com/wnswkd777/224381532517",
+          "blogger": "양비드의 전세계 배틀여행_ing",
+          "date": "2026-08-17"
         },
         {
-          "title": "[내돈내산 광고X ]에어컨청소 10만원 원룸 복층 완전분해청소업체 단....",
-          "link": "https://blog.naver.com/hayoon_record92/224301947214",
-          "blogger": "하융이네 ෆ",
-          "date": "2026-05-31"
+          "title": "계속되는 폭염·태풍·지진, 지금 일본여행 괜찮을까? 안전성 총정리",
+          "link": "https://blog.naver.com/lsm656/224370332755",
+          "blogger": "오늘도 맑음 ☀️",
+          "date": "2026-08-06"
         },
         {
-          "title": "수원 특수청소 업체 가격 쓰레기집청소 후기정보",
-          "link": "https://blog.naver.com/becks0809/224313026514",
-          "blogger": "도피오넬 : 인테리어 DIY, IT",
-          "date": "2026-06-11"
+          "title": "일본 지진 안전지대 총정리, 여행 전 반드시 확인할 것",
+          "link": "https://blog.naver.com/wacoo/224362665857",
+          "blogger": "돈기부여 생활정보",
+          "date": "2026-07-30"
         },
         {
-          "title": "전주 입주청소 고민이라면? 꼼꼼함이 다른 전문 청소업체 추천 후기",
-          "link": "https://blog.naver.com/0zxcvbnm_0/224317968839",
-          "blogger": "매일의 기록",
-          "date": "2026-06-17"
+          "title": "2026 구마모토 강진 발생, 현재 상황은? 피해 규모·여진 가능성·일본....",
+          "link": "https://blog.naver.com/nanumi8/224362364817",
+          "blogger": "데일리 픽(Daily Pick)",
+          "date": "2026-07-30"
         }
       ],
       "topNews": [
         {
-          "title": "한·중 인적교류 864만명… 항공·면세 넘어 소비시장으로 확산",
-          "link": "https://www.segye.com/newsView/20260821512845?OutUrl=naver",
+          "title": "日 중동부서 규모 5.8 지진 발생…깊이 77.6km 지점",
+          "link": "https://www.news1.kr/world/northeast-asia/6266500",
           "press": "",
           "date": "2026-08-22"
         },
         {
-          "title": "'극한직업' 심마니의 산삼캐기와 포장이사 치열한 현장",
-          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3671535",
+          "title": "일본 도쿄 인근서 규모 5.9 지진 발생",
+          "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00008&news_seq_no=5214120",
           "press": "",
           "date": "2026-08-22"
         },
         {
-          "title": "“다시 청소해달라” 항의하자 오물 투척",
-          "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000546479",
+          "title": "[속보] 일본 수도권 규모 5.9 지진…도쿄 등 최대 진도 5약",
+          "link": "https://www.pointe.co.kr/news/articleView.html?idxno=83664",
           "press": "",
           "date": "2026-08-22"
         },
         {
-          "title": "고객 집 거실에 '오물' 뿌린 청소업체 직원, 왜...법적 다툼까지",
-          "link": "https://www.mt.co.kr/society/2026/08/22/2026082214382632951",
+          "title": "일본 지바현 가시와시 북동쪽에서 규모 5.9 지진 발생",
+          "link": "https://www.ytn.co.kr/_ln/0104_202608230225050043",
           "press": "",
           "date": "2026-08-22"
         },
         {
-          "title": "강기윤 창원시장 \"진해신항 등 미래 성장동력 선제 대응\"",
-          "link": "https://www.sidae.com/article/2026082211522141841",
+          "title": "일본 지바현 가시와시 북동쪽 18km 지역 규모 5.9 지진",
+          "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8643561&ref=A",
           "press": "",
           "date": "2026-08-22"
         }
@@ -442,9 +442,9 @@
     },
     {
       "keyword": "로베르토 데 제르비",
-      "traffic": "100+",
+      "traffic": "200+",
       "blogTotal": 681,
-      "newsTotal": 5604,
+      "newsTotal": 5605,
       "recentToday": 6,
       "recentWeek": 25,
       "topBlogs": [
@@ -481,6 +481,12 @@
       ],
       "topNews": [
         {
+          "title": "[오피셜] 손흥민 '70m 단독 드리블' 재현한 이유 있었다! 반더벤, 토트넘...",
+          "link": "https://mhnse.com/news/articleView.html?idxno=1497984",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
           "title": "[PL LINE UP] '양민혁과 동갑' 그레이가 개막전 주장 완장 찼다...'대변혁...",
           "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=693014",
           "press": "",
@@ -501,12 +507,6 @@
         {
           "title": "\"지난 시즌 모두가 토트넘을 죽이고 싶어 했다!\" 데 제르비 충격 발언→...",
           "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96749",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "손흥민 땐 그렇게 돈 아끼더니...토트넘, 역대급 이적시장 확정! '둘이 ...",
-          "link": "http://www.osen.co.kr/article/G1112861814",
           "press": "",
           "date": "2026-08-22"
         }
@@ -560,8 +560,20 @@
           "date": "2026-08-22"
         },
         {
-          "title": "유영우, 차세대 대세 코미디언으로 ‘주목’",
-          "link": "https://www.news1.kr/photos/8060367",
+          "title": "'나의 연수 아저씨' 유영우",
+          "link": "https://www.news1.kr/photos/8060369",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "유영우 “배꼽 빠지게 웃겨드릴게요”",
+          "link": "https://www.news1.kr/photos/8060364",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "유영우, 개그부터 만담까지…‘대세 행보’",
+          "link": "https://www.news1.kr/photos/8060368",
           "press": "",
           "date": "2026-08-22"
         },
@@ -570,25 +582,86 @@
           "link": "https://www.news1.kr/photos/8060365",
           "press": "",
           "date": "2026-08-22"
-        },
-        {
-          "title": "유영우, 느낌 좋은 코디디언",
-          "link": "https://www.news1.kr/photos/8060366",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "유영우, 리센느 원이 삼촌의 무한 매력",
-          "link": "https://www.news1.kr/photos/8060374",
-          "press": "",
-          "date": "2026-08-22"
         }
       ],
       "rank": 8
     },
     {
+      "keyword": "地震",
+      "traffic": "200+",
+      "blogTotal": 2511,
+      "newsTotal": 994,
+      "recentToday": 0,
+      "recentWeek": 7,
+      "topBlogs": [
+        {
+          "title": "사천 대지진 512 四川大地震 汶川地震 자세히 알아보기",
+          "link": "https://blog.naver.com/liyue0410/224301157334",
+          "blogger": "교육 어학 까오까오씽씽",
+          "date": "2026-05-30"
+        },
+        {
+          "title": "외래어 표기 용례 :: Power to surprise.",
+          "link": "https://ppua.tistory.com/32",
+          "blogger": "Power to surprise. :: Power to surprise.",
+          "date": "2013-12-12"
+        },
+        {
+          "title": "#166 NHK쉬운뉴스 - 大きい地震があった青森県で学校の授業が始まる(....",
+          "link": "https://blog.naver.com/jooyeoni/224332118913",
+          "blogger": "반짝반짝 빛나는",
+          "date": "2026-07-04"
+        },
+        {
+          "title": "금값 본격 약세장…\"800달러까지 떨어질 수도\"",
+          "link": "https://sharon2025.tistory.com/8149",
+          "blogger": "코로나19,666칩,예수재림,당신은 준비됐나요?",
+          "date": "2015-08-02"
+        },
+        {
+          "title": "0138_송재유고_松齋遺稿_번역",
+          "link": "https://hangeullo.tistory.com/2294",
+          "blogger": "우리글로의 풀이諺解",
+          "date": "2026-06-11"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "韓国外相「地震の復旧支援」 ベネズエラ外相と電話会談",
+          "link": "https://jp.yna.co.kr/view/AJP20260812004000882?input=1728m",
+          "press": "",
+          "date": "2026-08-12"
+        },
+        {
+          "title": "コロンビア地震 韓国政府が100万ドルの人道支援へ",
+          "link": "https://jp.yna.co.kr/view/AJP20260812003400882?input=1728m",
+          "press": "",
+          "date": "2026-08-12"
+        },
+        {
+          "title": "李大統領 コロンビア地震でお見舞い＝「深い哀悼の意」",
+          "link": "https://jp.yna.co.kr/view/AJP20260811002900882?input=1728m",
+          "press": "",
+          "date": "2026-08-11"
+        },
+        {
+          "title": "韓国ムシンサ 九州からの注文顧客に「支援物資」同封＝熊本地震受け",
+          "link": "https://jp.yna.co.kr/view/AJP20260805000600882?input=1728m",
+          "press": "",
+          "date": "2026-08-05"
+        },
+        {
+          "title": "大韓航空 熊本地震の被災地に飲料水1万2千本支援",
+          "link": "https://jp.yna.co.kr/view/AJP20260803000800882?input=1728m",
+          "press": "",
+          "date": "2026-08-03"
+        }
+      ],
+      "rank": 9
+    },
+    {
       "keyword": "brentford vs spurs",
-      "traffic": "100+",
+      "traffic": "200+",
       "blogTotal": 0,
       "newsTotal": 0,
       "recentToday": 0,
@@ -626,79 +699,6 @@
         }
       ],
       "topNews": [],
-      "rank": 9
-    },
-    {
-      "keyword": "우 서윤",
-      "traffic": "10000+",
-      "blogTotal": 78,
-      "newsTotal": 24,
-      "recentToday": 0,
-      "recentWeek": 0,
-      "topBlogs": [
-        {
-          "title": "건설회사 시공사 도급능력 순위(1위 ~ 1000위)",
-          "link": "https://mylittleleadership.tistory.com/234",
-          "blogger": "노나우",
-          "date": "2021-08-13"
-        },
-        {
-          "title": "언론인(言論人)정운종, 대한언론인회 상임이사 '내가걸어온길-자전 ....",
-          "link": "https://6212mb.tistory.com/397",
-          "blogger": "뉴스매거진 이학성 취재국장입니다.",
-          "date": "2010-10-18"
-        },
-        {
-          "title": "수원시 지역화폐 가맹점 알아보기(2탄)",
-          "link": "https://kt99.tistory.com/352",
-          "blogger": "그냥사는거지",
-          "date": "2020-04-25"
-        },
-        {
-          "title": "2022년 건설회사 시공사 순위 자료 삼성물산 현대건설 디엘이엔씨 포....",
-          "link": "https://hansub4861.tistory.com/2948",
-          "blogger": "에덴 정보창고",
-          "date": "2022-09-21"
-        },
-        {
-          "title": "업종별 대한민국 강소기업 목록 : 일반 및 생활 숙박시설 운영업, 일....",
-          "link": "https://richcat.tistory.com/12014",
-          "blogger": "리치캣의 현재 그리고 미래",
-          "date": "2022-08-14"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "[소년중앙] 갈수록 교묘해지는 범죄, 경찰은 어떻게 대응하고 있을까요",
-          "link": "https://www.joongang.co.kr/article/25329995",
-          "press": "",
-          "date": "2025-04-20"
-        },
-        {
-          "title": "[학회] \"특수관계인 간 자산 고·저가 매매 부당행위 여부, 대금확정 기...",
-          "link": "https://www.sejungilbo.com/news/articleView.html?idxno=45722",
-          "press": "",
-          "date": "2023-12-02"
-        },
-        {
-          "title": "[박성서 칼럼] '오동잎' '가을비 우산 속'의 가수, 최헌의 삶과 노래[2]",
-          "link": "http://www.newsmaker.or.kr/news/articleView.html?idxno=135579",
-          "press": "",
-          "date": "2022-11-15"
-        },
-        {
-          "title": "30회 동양일보 만물박사 선발대회 최우수·우수교 교장/지도교사상 수상...",
-          "link": "http://www.dynews.co.kr/news/articleView.html?idxno=665182",
-          "press": "",
-          "date": "2022-07-07"
-        },
-        {
-          "title": "[전북 여론조사] 전주시장, 민주당 후보 치열한 경쟁 뚜렷··· 임정엽 ...",
-          "link": "http://www.jeollailbo.com/news/articleView.html?idxno=654131",
-          "press": "",
-          "date": "2022-04-11"
-        }
-      ],
       "rank": 10
     }
   ]
