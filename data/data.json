@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T20:19:01.251Z",
+  "updatedAt": "2026-08-22T20:48:08.494Z",
   "source": "live",
   "keywords": [
     {
@@ -76,10 +76,83 @@
       "rank": 1
     },
     {
+      "keyword": "오타니",
+      "traffic": "500+",
+      "blogTotal": 50195,
+      "newsTotal": 128246,
+      "recentToday": 44,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "“얼만데, 얼마면 되는데?” 9942억 오타니가 FA 될 수도 있는 ‘키맨 ....",
+          "link": "https://blog.naver.com/tel0/224378972650",
+          "blogger": "스말골",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "“홈런 치고 이제 공까지?” 오타니 결승 27호포 폭발…투수 복귀 시....",
+          "link": "https://blog.naver.com/ysh836/224378139231",
+          "blogger": "오늘의 시선",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "오타니 프로필 정리 나이 연봉 와이프 다나카 마미코",
+          "link": "https://blog.naver.com/molinedj/224383479345",
+          "blogger": "대전가발 브로스 : 프라이빗한 남여맞춤가발샵",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "2026시즌 오타니 쇼헤이 성적, 다시 시작된 투타겸업은 어느 정도일....",
+          "link": "https://blog.naver.com/hjhhjh1357/224382011183",
+          "blogger": "야구소식",
+          "date": "2026-08-18"
+        },
+        {
+          "title": "오타니 300홈런 달성이 특별한 이유",
+          "link": "https://blog.naver.com/echo90/224340392762",
+          "blogger": "동화같은 삶~!",
+          "date": "2026-07-08"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "'8월 타율 1할대' 김혜성 이러다 영영 잊혀지나…주전 중견수 이탈인데...",
+          "link": "http://www.osen.co.kr/article/G1112861926",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "3331억 받고 다저스 왔는데 끝없는 추락…급기야 최근 7경기 1할대 타율",
+          "link": "https://isplus.com/article/view/isp202608220073",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "야마모토 '커리어 하이' 날리고도 당당한 불펜, LAD는 어쨌든 이긴다......",
+          "link": "https://www.sportschosun.com/baseball/2026-08-22/202608220100130730008349",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "토미 에드먼 끝내기 안타…다저스, 연장 끝에 피츠버그 제압 3연승",
+          "link": "https://www.stnsports.co.kr/news/articleView.html?idxno=321342",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "오타니에 등 돌리는 동료들, \"컵스 경기를 본 사람이면 다 안다\" MVP 표심...",
+          "link": "https://www.sportschosun.com/baseball/2026-08-22/202608220100130670008346",
+          "press": "",
+          "date": "2026-08-22"
+        }
+      ],
+      "rank": 2
+    },
+    {
       "keyword": "바이에른 뮌헨",
-      "traffic": "100+",
-      "blogTotal": 62534,
-      "newsTotal": 263331,
+      "traffic": "200+",
+      "blogTotal": 62535,
+      "newsTotal": 263334,
       "recentToday": 44,
       "recentWeek": 100,
       "topBlogs": [
@@ -116,6 +189,24 @@
       ],
       "topNews": [
         {
+          "title": "'월드컵 무득점' 올리세, 뮌헨 돌아가자마자 슈퍼골 작렬! 돌아온 뮌헨...",
+          "link": "http://www.footballist.co.kr/news/articleView.html?idxno=213878",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "[오피셜] '韓 국가대표 수비수' 김민재, 또 '우승 달성!'…선발 출전해...",
+          "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553477809",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "뮌헨의 김민재, 시즌 첫 공식전 풀타임+우승! 도르트문트 잡고 슈퍼컵 ...",
+          "link": "http://www.footballist.co.kr/news/articleView.html?idxno=213877",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
           "title": "'깜짝 영입' 없다...이강인 AS 안도의 한숨, AT '극악의 결정력' 공격수...",
           "link": "https://www.mydaily.co.kr/page/view/2026082221182828026",
           "press": "",
@@ -126,35 +217,17 @@
           "link": "https://www.mydaily.co.kr/page/view/2026082218393324185",
           "press": "",
           "date": "2026-08-22"
-        },
-        {
-          "title": "'김민재 발굴한 안목' 어디 안 간다...이번에는 아스널 특급 신입생 찾...",
-          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1003159",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "루프트한자-뮌헨공항, 한국 탑승객 대상 스탑오버 프로그램 전격 확대",
-          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3671558",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "시즌 개막했는데 여전히 백수 신세…'KIM 전 동료' 드디어 새 직장 찾나...",
-          "link": "https://www.mydaily.co.kr/page/view/2026082210193589270",
-          "press": "",
-          "date": "2026-08-22"
         }
       ],
-      "rank": 2
+      "rank": 3
     },
     {
       "keyword": "브렌트포드",
       "traffic": "100+",
-      "blogTotal": 9374,
+      "blogTotal": 9376,
       "newsTotal": 28179,
       "recentToday": 31,
-      "recentWeek": 59,
+      "recentWeek": 61,
       "topBlogs": [
         {
           "title": "\"등번호 36번\" 김지수, 몸값 3배 뛰고 브렌트포드 복귀...설 자리 있을....",
@@ -219,7 +292,7 @@
           "date": "2026-08-22"
         }
       ],
-      "rank": 3
+      "rank": 4
     },
     {
       "keyword": "인테르",
@@ -292,12 +365,12 @@
           "date": "2026-08-21"
         }
       ],
-      "rank": 4
+      "rank": 5
     },
     {
       "keyword": "일본 지진",
-      "traffic": "1000+",
-      "blogTotal": 70551,
+      "traffic": "2000+",
+      "blogTotal": 70552,
       "newsTotal": 289717,
       "recentToday": 16,
       "recentWeek": 100,
@@ -361,79 +434,6 @@
         {
           "title": "일본 지바현 가시와시 북동쪽에서 규모 5.9 지진 발생",
           "link": "https://www.ytn.co.kr/_ln/0104_202608230225050043",
-          "press": "",
-          "date": "2026-08-22"
-        }
-      ],
-      "rank": 5
-    },
-    {
-      "keyword": "토트넘 브렌트 포드",
-      "traffic": "1000+",
-      "blogTotal": 1847,
-      "newsTotal": 16811,
-      "recentToday": 13,
-      "recentWeek": 29,
-      "topBlogs": [
-        {
-          "title": "토트넘 브렌트포드에 0-3 충격패.. 개막전부터 드러난 심각한 문제",
-          "link": "https://blog.naver.com/awxs2_/224387100788",
-          "blogger": "여행, 맛집, 요리, 축구",
-          "date": "2026-08-23"
-        },
-        {
-          "title": "데 제르비 호 출격, 26-27 토트넘 개막전 브렌트포드전 예상 라인업 ....",
-          "link": "https://blog.naver.com/cofe/224382957127",
-          "blogger": "소리내어읽다",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "[EPL] 브렌트포드 vs 토트넘 (8월 23일) 3경기 12골 폭격기 홈팀 vs 무패 ....",
-          "link": "https://blog.naver.com/hepi3/224384916941",
-          "blogger": "머니박스",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "김지수 선수 소속 브렌트포드 2023-24 시즌 전체 일정 및 경기 기록",
-          "link": "https://herr-kwak.tistory.com/1501",
-          "blogger": "꽉형의 쓰포츠생생통",
-          "date": "2023-09-06"
-        },
-        {
-          "title": "[프리미어리그 1R 개막전 프리뷰] 브렌트포드 vs 토트넘 홋스퍼 | 끈....",
-          "link": "https://blog.naver.com/scoredlab/224386213319",
-          "blogger": "ScoredLab.com_님의 블로그",
-          "date": "2026-08-22"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "'리그 17위 악몽' 아직 안 끝났다...토트넘 개막전부터 대참사→브렌트...",
-          "link": "https://mhnse.com/news/articleView.html?idxno=1498793",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "[PL REVIEW] '4318억 썼는데 이 꼴이라니'....토트넘, 상상초월 졸전! 브...",
-          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=693017",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "[PL LINE UP] '양민혁과 동갑' 그레이가 개막전 주장 완장 찼다...'대변혁...",
-          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=693014",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "[오피셜] '韓 축구 대박 희소식'...EPL 0명 위기 탈출! '대형 수비수' 김...",
-          "link": "https://www.mydaily.co.kr/page/view/2026082215550783469",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "김지수 브렌트포드 새 시즌 1군 명단 포함, 한국 선수 'EPL 0명' 면하게 ...",
-          "link": "https://www.mediapen.com/news/view/1118223",
           "press": "",
           "date": "2026-08-22"
         }
@@ -514,9 +514,155 @@
       "rank": 7
     },
     {
+      "keyword": "la liga",
+      "traffic": "200+",
+      "blogTotal": 2248,
+      "newsTotal": 10205,
+      "recentToday": 1,
+      "recentWeek": 7,
+      "topBlogs": [
+        {
+          "title": "스페인 축구의 자존심, '라리가(La Liga)' 완벽 정리",
+          "link": "https://blog.naver.com/bmc123/224360405118",
+          "blogger": "머니티처의 블로그",
+          "date": "2026-07-28"
+        },
+        {
+          "title": "[Wallpaper]22-23 PL_ManCity_Phil Foden",
+          "link": "https://rossoneri-ego.tistory.com/604",
+          "blogger": "박스투박스_스포츠",
+          "date": "2022-10-15"
+        },
+        {
+          "title": "인천광역시 건축미술작품",
+          "link": "https://richcat.tistory.com/4937",
+          "blogger": "리치캣의 현재 그리고 미래",
+          "date": "2021-01-23"
+        },
+        {
+          "title": "분식 프랜차이즈 기업체 목록",
+          "link": "https://richcat.tistory.com/4423",
+          "blogger": "리치캣의 현재 그리고 미래",
+          "date": "2020-11-27"
+        },
+        {
+          "title": "Lee Kang-in Scores Winner 13 Minutes After Coming On for Atletico",
+          "link": "https://ttt77.tistory.com/472036",
+          "blogger": "??!!",
+          "date": "2026-08-20"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "SPAIN SOCCER",
+          "link": "https://n.news.naver.com/mnews/article/091/0010288801?sid=104",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "SPAIN SOCCER",
+          "link": "https://n.news.naver.com/mnews/article/091/0010288799?sid=104",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "SPAIN SOCCER",
+          "link": "https://n.news.naver.com/mnews/article/091/0010288798?sid=104",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "SPAIN SOCCER",
+          "link": "https://n.news.naver.com/mnews/article/091/0010288800?sid=104",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "SPAIN SOCCER",
+          "link": "https://n.news.naver.com/mnews/article/091/0010288785?sid=104",
+          "press": "",
+          "date": "2026-08-22"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "keyword": "espanyol vs real madrid",
+      "traffic": "200+",
+      "blogTotal": 9,
+      "newsTotal": 371,
+      "recentToday": 0,
+      "recentWeek": 0,
+      "topBlogs": [
+        {
+          "title": "[Primera Liga] Jornada 1 Goals! + Review / 프리메라리가 1라운드 골 모음(움짤....",
+          "link": "https://banega.tistory.com/109",
+          "blogger": "El Maestro",
+          "date": "2014-08-25"
+        },
+        {
+          "title": "[프리메라리가 리뷰] Jornada 4 주간 베스트 일레븐 (골닷컴, 후스코어....",
+          "link": "https://banega.tistory.com/121",
+          "blogger": "El Maestro",
+          "date": "2014-09-24"
+        },
+        {
+          "title": "[오피셜] 코파 델 레이 32강전 대진",
+          "link": "https://barcelona.tistory.com/793",
+          "blogger": "DOONGE",
+          "date": "2016-10-15"
+        },
+        {
+          "title": "[프리메라리가 리뷰] Jornada 6 주간 베스트 일레븐 (골닷컴, 후스코어....",
+          "link": "https://banega.tistory.com/126",
+          "blogger": "El Maestro",
+          "date": "2014-10-03"
+        },
+        {
+          "title": "쑥덕쑥덕 :: International Friendly Matches",
+          "link": "https://sukduk.tistory.com/1320",
+          "blogger": "쑥덕쑥덕",
+          "date": "2015-07-24"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "SPAIN SOCCER",
+          "link": "https://n.news.naver.com/mnews/article/091/0010288801?sid=104",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "SPAIN SOCCER",
+          "link": "https://n.news.naver.com/mnews/article/091/0010288799?sid=104",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "SPAIN SOCCER",
+          "link": "https://n.news.naver.com/mnews/article/091/0010288800?sid=104",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "SPAIN SOCCER",
+          "link": "https://n.news.naver.com/mnews/article/091/0010288798?sid=104",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "SPAIN SOCCER",
+          "link": "https://n.news.naver.com/mnews/article/091/0010288785?sid=104",
+          "press": "",
+          "date": "2026-08-22"
+        }
+      ],
+      "rank": 9
+    },
+    {
       "keyword": "편의점",
-      "traffic": "1000+",
-      "blogTotal": 2521129,
+      "traffic": "2000+",
+      "blogTotal": 2521138,
       "newsTotal": 1328145,
       "recentToday": 0,
       "recentWeek": 100,
@@ -582,152 +728,6 @@
           "link": "https://www.newsen.com/news_view.php?uid=202608230036146110",
           "press": "",
           "date": "2026-08-22"
-        }
-      ],
-      "rank": 8
-    },
-    {
-      "keyword": "tottenham",
-      "traffic": "200+",
-      "blogTotal": 9141,
-      "newsTotal": 33573,
-      "recentToday": 0,
-      "recentWeek": 5,
-      "topBlogs": [
-        {
-          "title": "런던 토트넘 코트 로드 베이글 맛집 [B Bagel Tottenham Court Road]",
-          "link": "https://blog.naver.com/dbfla9432/224354570580",
-          "blogger": "\"뽁뽁이의 일상 이야기\"",
-          "date": "2026-07-23"
-        },
-        {
-          "title": "토트넘 브라이튼 FA32강 케인골 손흥민 복귀",
-          "link": "https://seekpif.tistory.com/2564",
-          "blogger": "자리이타(自利利他)",
-          "date": "2022-02-06"
-        },
-        {
-          "title": "토트넘 중계 사이트 2022 - Happy Life Blog",
-          "link": "https://happylifeblog.tistory.com/886",
-          "blogger": "Happy Life Blog - Happy Life Blog",
-          "date": "2022-05-06"
-        },
-        {
-          "title": "제드웰 언더그라운드 호텔 토트넘 코트 로드와 함께하는 런던 도심 ....",
-          "link": "https://yellowid.tistory.com/1680",
-          "blogger": "노랭이",
-          "date": "2026-06-30"
-        },
-        {
-          "title": "토트넘 홋스퍼 노리치 시티 경기일정 중계",
-          "link": "https://infonomics.tistory.com/173",
-          "blogger": "정보집대성",
-          "date": "2021-12-03"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "Britain Premier League Soccer",
-          "link": "https://n.news.naver.com/mnews/article/077/0007132156?sid=104",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "Britain Premier League Soccer",
-          "link": "https://n.news.naver.com/mnews/article/077/0007132159?sid=104",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "Britain Premier League Soccer",
-          "link": "https://n.news.naver.com/mnews/article/077/0007132150?sid=104",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "Britain Premier League Soccer",
-          "link": "https://n.news.naver.com/mnews/article/077/0007132139?sid=104",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "Britain Premier League Soccer",
-          "link": "https://n.news.naver.com/mnews/article/077/0007132137?sid=104",
-          "press": "",
-          "date": "2026-08-22"
-        }
-      ],
-      "rank": 9
-    },
-    {
-      "keyword": "地震",
-      "traffic": "200+",
-      "blogTotal": 2511,
-      "newsTotal": 994,
-      "recentToday": 0,
-      "recentWeek": 7,
-      "topBlogs": [
-        {
-          "title": "사천 대지진 512 四川大地震 汶川地震 자세히 알아보기",
-          "link": "https://blog.naver.com/liyue0410/224301157334",
-          "blogger": "교육 어학 까오까오씽씽",
-          "date": "2026-05-30"
-        },
-        {
-          "title": "외래어 표기 용례 :: Power to surprise.",
-          "link": "https://ppua.tistory.com/32",
-          "blogger": "Power to surprise. :: Power to surprise.",
-          "date": "2013-12-12"
-        },
-        {
-          "title": "#166 NHK쉬운뉴스 - 大きい地震があった青森県で学校の授業が始まる(....",
-          "link": "https://blog.naver.com/jooyeoni/224332118913",
-          "blogger": "반짝반짝 빛나는",
-          "date": "2026-07-04"
-        },
-        {
-          "title": "금값 본격 약세장…\"800달러까지 떨어질 수도\"",
-          "link": "https://sharon2025.tistory.com/8149",
-          "blogger": "코로나19,666칩,예수재림,당신은 준비됐나요?",
-          "date": "2015-08-02"
-        },
-        {
-          "title": "0138_송재유고_松齋遺稿_번역",
-          "link": "https://hangeullo.tistory.com/2294",
-          "blogger": "우리글로의 풀이諺解",
-          "date": "2026-06-11"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "韓国外相「地震の復旧支援」 ベネズエラ外相と電話会談",
-          "link": "https://jp.yna.co.kr/view/AJP20260812004000882?input=1728m",
-          "press": "",
-          "date": "2026-08-12"
-        },
-        {
-          "title": "コロンビア地震 韓国政府が100万ドルの人道支援へ",
-          "link": "https://jp.yna.co.kr/view/AJP20260812003400882?input=1728m",
-          "press": "",
-          "date": "2026-08-12"
-        },
-        {
-          "title": "李大統領 コロンビア地震でお見舞い＝「深い哀悼の意」",
-          "link": "https://jp.yna.co.kr/view/AJP20260811002900882?input=1728m",
-          "press": "",
-          "date": "2026-08-11"
-        },
-        {
-          "title": "韓国ムシンサ 九州からの注文顧客に「支援物資」同封＝熊本地震受け",
-          "link": "https://jp.yna.co.kr/view/AJP20260805000600882?input=1728m",
-          "press": "",
-          "date": "2026-08-05"
-        },
-        {
-          "title": "大韓航空 熊本地震の被災地に飲料水1万2千本支援",
-          "link": "https://jp.yna.co.kr/view/AJP20260803000800882?input=1728m",
-          "press": "",
-          "date": "2026-08-03"
         }
       ],
       "rank": 10
