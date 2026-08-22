@@ -1,85 +1,12 @@
 {
-  "updatedAt": "2026-08-22T19:45:25.955Z",
+  "updatedAt": "2026-08-22T20:19:01.251Z",
   "source": "live",
   "keywords": [
     {
-      "keyword": "k뷰티",
-      "traffic": "100+",
-      "blogTotal": 102327,
-      "newsTotal": 348168,
-      "recentToday": 85,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "K뷰티, 지금 전 세계가 줄 서서 기다린다! 올리브영 미국 상륙부터 ....",
-          "link": "https://blog.naver.com/lemonez/224380100825",
-          "blogger": "부의 씨앗",
-          "date": "2026-08-18"
-        },
-        {
-          "title": "KCON LA 2026 리센느 | K팝 넘어 K뷰티·K푸드까지",
-          "link": "https://blog.naver.com/hoshea1/224380998384",
-          "blogger": "호세아의 보물창고",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "[뷰티 브리핑] K-뷰티 수출 훈풍 속 랑콤·아이소이 신상, 글로벌은 ....",
-          "link": "https://blog.naver.com/kms031475/224379610134",
-          "blogger": "토니의 데일리 브리핑",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "외국인은 올리브영에서 뭘 살까? 인기 K뷰티템 6가지",
-          "link": "https://blog.naver.com/jjin_1990/224356390632",
-          "blogger": "서평코치 별아해 책이야기",
-          "date": "2026-07-24"
-        },
-        {
-          "title": "[8월13일 주식의발견] K뷰티·바이오! 실적까지 확인된 금은동 메달",
-          "link": "https://blog.naver.com/raim46/224377886333",
-          "blogger": "라임의 모멘텀",
-          "date": "2026-08-13"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "\"농업·수산·축산 피지컬 AI로 연결\"… 전북, 'AI 산업 공통 플랫폼'으...",
-          "link": "http://www.youngnong.co.kr/news/articleView.html?idxno=61744",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "늦은 폭염 겨냥 '쿨링 뷰티' 눈길 [최기자의 화장품 털기]",
-          "link": "https://www.meconomynews.com/news/articleView.html?idxno=200766",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "\"미국 간 올리브영, 성수로 온 무신사\"… 무신사, 성수 전역 K뷰티 로드...",
-          "link": "https://www.meconomynews.com/news/articleView.html?idxno=200765",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "\"수출에서 현지화로\"... K뷰티, 글로벌 시장 공략 다각화",
-          "link": "https://www.meconomynews.com/news/articleView.html?idxno=200763",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "\"팔기보다 먼저 만나라\"... K뷰티, 내수 시장 소비자 접점 확대 총력",
-          "link": "https://www.meconomynews.com/news/articleView.html?idxno=200762",
-          "press": "",
-          "date": "2026-08-22"
-        }
-      ],
-      "rank": 1
-    },
-    {
       "keyword": "첼시",
       "traffic": "100+",
-      "blogTotal": 245714,
-      "newsTotal": 428119,
+      "blogTotal": 245715,
+      "newsTotal": 428120,
       "recentToday": 62,
       "recentWeek": 100,
       "topBlogs": [
@@ -116,6 +43,12 @@
       ],
       "topNews": [
         {
+          "title": "'도핑 징계 해제' 첼시 윙어 결국 팀 떠나나…\"첼시가 직접 임대보낼 팀...",
+          "link": "https://www.mydaily.co.kr/page/view/2026082214060262134",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
           "title": "'깜짝 영입' 없다...이강인 AS 안도의 한숨, AT '극악의 결정력' 공격수...",
           "link": "https://www.mydaily.co.kr/page/view/2026082221182828026",
           "press": "",
@@ -138,15 +71,9 @@
           "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=693008",
           "press": "",
           "date": "2026-08-22"
-        },
-        {
-          "title": "\"김민수, 레인저스 메디컬 테스트 예정\"...셀틱 양현준과 올드펌 더비서...",
-          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=693006",
-          "press": "",
-          "date": "2026-08-22"
         }
       ],
-      "rank": 2
+      "rank": 1
     },
     {
       "keyword": "바이에른 뮌헨",
@@ -219,15 +146,15 @@
           "date": "2026-08-22"
         }
       ],
-      "rank": 3
+      "rank": 2
     },
     {
       "keyword": "브렌트포드",
       "traffic": "100+",
-      "blogTotal": 9372,
+      "blogTotal": 9374,
       "newsTotal": 28179,
       "recentToday": 31,
-      "recentWeek": 57,
+      "recentWeek": 59,
       "topBlogs": [
         {
           "title": "\"등번호 36번\" 김지수, 몸값 3배 뛰고 브렌트포드 복귀...설 자리 있을....",
@@ -292,7 +219,7 @@
           "date": "2026-08-22"
         }
       ],
-      "rank": 4
+      "rank": 3
     },
     {
       "keyword": "인테르",
@@ -365,12 +292,12 @@
           "date": "2026-08-21"
         }
       ],
-      "rank": 5
+      "rank": 4
     },
     {
       "keyword": "일본 지진",
-      "traffic": "2000+",
-      "blogTotal": 70549,
+      "traffic": "1000+",
+      "blogTotal": 70551,
       "newsTotal": 289717,
       "recentToday": 16,
       "recentWeek": 100,
@@ -434,6 +361,79 @@
         {
           "title": "일본 지바현 가시와시 북동쪽에서 규모 5.9 지진 발생",
           "link": "https://www.ytn.co.kr/_ln/0104_202608230225050043",
+          "press": "",
+          "date": "2026-08-22"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "keyword": "토트넘 브렌트 포드",
+      "traffic": "1000+",
+      "blogTotal": 1847,
+      "newsTotal": 16811,
+      "recentToday": 13,
+      "recentWeek": 29,
+      "topBlogs": [
+        {
+          "title": "토트넘 브렌트포드에 0-3 충격패.. 개막전부터 드러난 심각한 문제",
+          "link": "https://blog.naver.com/awxs2_/224387100788",
+          "blogger": "여행, 맛집, 요리, 축구",
+          "date": "2026-08-23"
+        },
+        {
+          "title": "데 제르비 호 출격, 26-27 토트넘 개막전 브렌트포드전 예상 라인업 ....",
+          "link": "https://blog.naver.com/cofe/224382957127",
+          "blogger": "소리내어읽다",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "[EPL] 브렌트포드 vs 토트넘 (8월 23일) 3경기 12골 폭격기 홈팀 vs 무패 ....",
+          "link": "https://blog.naver.com/hepi3/224384916941",
+          "blogger": "머니박스",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "김지수 선수 소속 브렌트포드 2023-24 시즌 전체 일정 및 경기 기록",
+          "link": "https://herr-kwak.tistory.com/1501",
+          "blogger": "꽉형의 쓰포츠생생통",
+          "date": "2023-09-06"
+        },
+        {
+          "title": "[프리미어리그 1R 개막전 프리뷰] 브렌트포드 vs 토트넘 홋스퍼 | 끈....",
+          "link": "https://blog.naver.com/scoredlab/224386213319",
+          "blogger": "ScoredLab.com_님의 블로그",
+          "date": "2026-08-22"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "'리그 17위 악몽' 아직 안 끝났다...토트넘 개막전부터 대참사→브렌트...",
+          "link": "https://mhnse.com/news/articleView.html?idxno=1498793",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "[PL REVIEW] '4318억 썼는데 이 꼴이라니'....토트넘, 상상초월 졸전! 브...",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=693017",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "[PL LINE UP] '양민혁과 동갑' 그레이가 개막전 주장 완장 찼다...'대변혁...",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=693014",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "[오피셜] '韓 축구 대박 희소식'...EPL 0명 위기 탈출! '대형 수비수' 김...",
+          "link": "https://www.mydaily.co.kr/page/view/2026082215550783469",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "김지수 브렌트포드 새 시즌 1군 명단 포함, 한국 선수 'EPL 0명' 면하게 ...",
+          "link": "https://www.mediapen.com/news/view/1118223",
           "press": "",
           "date": "2026-08-22"
         }
@@ -514,77 +514,150 @@
       "rank": 7
     },
     {
-      "keyword": "laliga",
-      "traffic": "100+",
-      "blogTotal": 1780,
-      "newsTotal": 31227,
+      "keyword": "편의점",
+      "traffic": "1000+",
+      "blogTotal": 2521129,
+      "newsTotal": 1328145,
       "recentToday": 0,
-      "recentWeek": 15,
+      "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "2026-2027 해외축구 라리가(LALIGA) 개막 일정 총정리 이강인 아틀레티코....",
-          "link": "https://blog.naver.com/peakmory/224381614596",
-          "blogger": "피크모리(PEAKMORY) | 스포츠와 취미 · 리뷰 매거진",
-          "date": "2026-08-18"
+          "title": "농심 삼계탕 사발면 파는곳부터 편의점·쿠팡·일본 판매 정보까지",
+          "link": "https://blog.naver.com/h_k1024/224380560568",
+          "blogger": "오늘 뭐 먹었지",
+          "date": "2026-08-16"
         },
         {
-          "title": "2024 25 시즌 아틀레티코 마드리드 선수명단 스쿼드 등번호 여름 이적....",
-          "link": "https://sho3603.tistory.com/659",
-          "blogger": "BBingStory",
-          "date": "2024-09-25"
+          "title": "편의점 담배 순위, 8월 19일 세븐일레븐 입점 레딜이 1위인 이유",
+          "link": "https://blog.naver.com/raxsoqertk74229/224374906916",
+          "blogger": "탄탄대로",
+          "date": "2026-08-11"
         },
         {
-          "title": "플스5 엑시엑 차세대 콘솔 업그레이드 버전 EA스포츠 피파21 차이점 ....",
-          "link": "https://snaketeacher1.tistory.com/4181",
-          "blogger": "뱀선생게임",
-          "date": "2020-11-30"
+          "title": "[CU 편의점 택배] 초보자도 5분 만에 끝내는 CUpost 택배 보내는 법 마....",
+          "link": "https://blog.naver.com/stellall0214/224316212031",
+          "blogger": "부산병 있는 부산사람 블로그",
+          "date": "2026-06-15"
         },
         {
-          "title": "쾰른 대 마인츠 05 라인업, 순위, 중계 방송 채널 (이재성 선수 평가)",
-          "link": "https://100s0s.tistory.com/937",
-          "blogger": "올바른 길",
-          "date": "2023-04-14"
+          "title": "편의점 전자담배 버블몬 빅 알포 내돈내산 솔직 후기 및 폐기 방법",
+          "link": "https://blog.naver.com/yon_hanip/224307783514",
+          "blogger": "연애는 한입부터",
+          "date": "2026-06-06"
         },
         {
-          "title": "[라리가] 레알 마드리드 대 발렌시아 라인업, 경기 통계, 순위, 중계 ....",
-          "link": "https://100s0s.tistory.com/739",
-          "blogger": "올바른 길",
-          "date": "2023-02-02"
+          "title": "편의점 신상 포켓몬 피카츄의 순수우유푸딩 후기",
+          "link": "https://blog.naver.com/darl23/224357302718",
+          "blogger": "달콤이네 사는이야기",
+          "date": "2026-07-25"
         }
       ],
       "topNews": [
         {
-          "title": "SPAIN SOCCER",
-          "link": "https://n.news.naver.com/mnews/article/091/0010288521?sid=104",
+          "title": "\"중국 흔적 하나도 없다\" 이 나라에선 'K'가 대세...1위 손님 노린다",
+          "link": "https://www.mt.co.kr/culture/2026/08/23/2026082114304470402",
           "press": "",
           "date": "2026-08-22"
         },
         {
-          "title": "SPAIN SOCCER",
-          "link": "https://n.news.naver.com/mnews/article/091/0010288520?sid=104",
+          "title": "두산 베어스, 최강 10번 타자 위한 맞춤형 혜택 제공... KB국민카드와 손...",
+          "link": "https://www.starnewskorea.com/sports/2026/08/23/2026082213190131651",
           "press": "",
           "date": "2026-08-22"
         },
         {
-          "title": "SPAIN SOCCER",
-          "link": "https://n.news.naver.com/mnews/article/091/0010288528?sid=104",
+          "title": "'그알' 정재환, 21분 녹음 속 담긴 잔혹 진실⋯\"범행 후 인증샷 찍었다...",
+          "link": "https://www.etoday.co.kr/news/view/2617067",
           "press": "",
           "date": "2026-08-22"
         },
         {
-          "title": "SPAIN SOCCER",
-          "link": "https://n.news.naver.com/mnews/article/091/0010288519?sid=104",
+          "title": "최홍만, 편의점 뺨치는 식량창고 공개…반전 키티 인테리어까지 '깜짝'...",
+          "link": "https://www.xportsnews.com/article/2186856",
           "press": "",
           "date": "2026-08-22"
         },
         {
-          "title": "SPAIN SOCCER",
-          "link": "https://n.news.naver.com/mnews/article/091/0010288215?sid=104",
+          "title": "최홍만, 서울에 세컨하우스 마련‥편의점급 거실+키티 가득 침실 “여중...",
+          "link": "https://www.newsen.com/news_view.php?uid=202608230036146110",
           "press": "",
           "date": "2026-08-22"
         }
       ],
       "rank": 8
+    },
+    {
+      "keyword": "tottenham",
+      "traffic": "200+",
+      "blogTotal": 9141,
+      "newsTotal": 33573,
+      "recentToday": 0,
+      "recentWeek": 5,
+      "topBlogs": [
+        {
+          "title": "런던 토트넘 코트 로드 베이글 맛집 [B Bagel Tottenham Court Road]",
+          "link": "https://blog.naver.com/dbfla9432/224354570580",
+          "blogger": "\"뽁뽁이의 일상 이야기\"",
+          "date": "2026-07-23"
+        },
+        {
+          "title": "토트넘 브라이튼 FA32강 케인골 손흥민 복귀",
+          "link": "https://seekpif.tistory.com/2564",
+          "blogger": "자리이타(自利利他)",
+          "date": "2022-02-06"
+        },
+        {
+          "title": "토트넘 중계 사이트 2022 - Happy Life Blog",
+          "link": "https://happylifeblog.tistory.com/886",
+          "blogger": "Happy Life Blog - Happy Life Blog",
+          "date": "2022-05-06"
+        },
+        {
+          "title": "제드웰 언더그라운드 호텔 토트넘 코트 로드와 함께하는 런던 도심 ....",
+          "link": "https://yellowid.tistory.com/1680",
+          "blogger": "노랭이",
+          "date": "2026-06-30"
+        },
+        {
+          "title": "토트넘 홋스퍼 노리치 시티 경기일정 중계",
+          "link": "https://infonomics.tistory.com/173",
+          "blogger": "정보집대성",
+          "date": "2021-12-03"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "Britain Premier League Soccer",
+          "link": "https://n.news.naver.com/mnews/article/077/0007132156?sid=104",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "Britain Premier League Soccer",
+          "link": "https://n.news.naver.com/mnews/article/077/0007132159?sid=104",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "Britain Premier League Soccer",
+          "link": "https://n.news.naver.com/mnews/article/077/0007132150?sid=104",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "Britain Premier League Soccer",
+          "link": "https://n.news.naver.com/mnews/article/077/0007132139?sid=104",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "Britain Premier League Soccer",
+          "link": "https://n.news.naver.com/mnews/article/077/0007132137?sid=104",
+          "press": "",
+          "date": "2026-08-22"
+        }
+      ],
+      "rank": 9
     },
     {
       "keyword": "地震",
@@ -657,48 +730,6 @@
           "date": "2026-08-03"
         }
       ],
-      "rank": 9
-    },
-    {
-      "keyword": "brentford vs spurs",
-      "traffic": "200+",
-      "blogTotal": 0,
-      "newsTotal": 0,
-      "recentToday": 0,
-      "recentWeek": 0,
-      "topBlogs": [
-        {
-          "title": "EPL 일정, 개막부터 시즌 중 주요 경기까지 놓치지 마세요 :: bongchira",
-          "link": "https://bongchira.tistory.com/1484",
-          "blogger": "bongchira :: bongchira",
-          "date": "2025-05-18"
-        },
-        {
-          "title": "[League] England _ English Premier League's Club _ Emblem/Crest",
-          "link": "https://urbany.tistory.com/246",
-          "blogger": "내멋대로 하는 아일랜드",
-          "date": "2013-01-30"
-        },
-        {
-          "title": "[오피셜] FA 64강에서 아스톤 빌라를 만나는 토트넘(+ FA컵 대진표)",
-          "link": "https://blog.naver.com/nwhl1023/220879609664",
-          "blogger": "SPURS ARENA",
-          "date": "2016-12-06"
-        },
-        {
-          "title": "[이슈링크]해외뉴스 이슈 태그 - 2019년 01월 04일 19시 기준",
-          "link": "https://blog.naver.com/snowvil84/221434380227",
-          "blogger": "루시드드림",
-          "date": "2019-01-04"
-        },
-        {
-          "title": "브렌트포드 vs 토트넘 승부예측",
-          "link": "https://blog.naver.com/hcjung0/222709491127",
-          "blogger": "기본량확장",
-          "date": "2022-04-24"
-        }
-      ],
-      "topNews": [],
       "rank": 10
     }
   ]
