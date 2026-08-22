@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-22T23:17:38.550Z",
+  "updatedAt": "2026-08-22T23:45:06.745Z",
   "source": "live",
   "keywords": [
     {
       "keyword": "집중호우",
-      "traffic": "500+",
-      "blogTotal": 117465,
-      "newsTotal": 808953,
-      "recentToday": 84,
+      "traffic": "1000+",
+      "blogTotal": 117466,
+      "newsTotal": 808958,
+      "recentToday": 82,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -43,32 +43,32 @@
       ],
       "topNews": [
         {
-          "title": "[세종소식] 세종시립청소년교향악단과 무대 빛낼 새 얼굴 모집",
-          "link": "https://daily.hankooki.com/news/articleView.html?idxno=1398229",
+          "title": "청주시, 대청호 상수원보호구역 13개 하천서 쓰레기 수거",
+          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3671668",
           "press": "",
           "date": "2026-08-22"
         },
         {
-          "title": "부산시, 전 시민 기후보험 가입 추진…온열질환 등 대비",
-          "link": "https://www.yna.co.kr/view/AKR20260821122800051?input=1195m",
+          "title": "\"치워도 3일이면 또 생겨\"…알박기 텐트에 지자체 칼 빼들어",
+          "link": "https://www.hankyung.com/article/2026082364947",
           "press": "",
           "date": "2026-08-22"
         },
         {
-          "title": "물류망이 구호망 됐다…거제·통영에 몰린 유통업계 지원",
-          "link": "https://www.sentv.co.kr/article/view/sentv202608210114",
+          "title": "경북도, 산불 이재민 임시조립주택 1천200여동 안전성 시설보강 착수",
+          "link": "https://www.wikitree.co.kr/articles/1154233",
           "press": "",
           "date": "2026-08-22"
         },
         {
-          "title": "연간 강수량 비슷한데 폭우·가뭄 재난 늘어난 이유",
-          "link": "https://www.dongascience.com/news/view/79542",
+          "title": "“이런 건 처음 봤다” 2027년 ‘가장 뜨거운 해’ 될 수도…“2024년 더...",
+          "link": "https://www.sedaily.com/article/20082163?ref=naver",
           "press": "",
           "date": "2026-08-22"
         },
         {
-          "title": "[CAR 브리프] 한국타이어ㆍ롯데렌탈ㆍ케이카ㆍ쉐보레ㆍBMWㆍ지커ㆍ스트...",
-          "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608230739054250935",
+          "title": "[나눔] 오뚜기, 거제 수해지역에 긴급구호물품 1천여개 지원 外",
+          "link": "https://www.slist.kr/news/articleView.html?idxno=760604",
           "press": "",
           "date": "2026-08-22"
         }
@@ -76,84 +76,11 @@
       "rank": 1
     },
     {
-      "keyword": "축구 감독",
-      "traffic": "500+",
-      "blogTotal": 155729,
-      "newsTotal": 2079751,
-      "recentToday": 83,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "대한민국 축구 대표팀 차기 감독 후보 5인 스펙 및 전술 분석 선택은....",
-          "link": "https://blog.naver.com/sebastiano7979/224375172125",
-          "blogger": "서기의 뷰파인더로 보는 세상",
-          "date": "2026-08-12"
-        },
-        {
-          "title": "[한국 축구 국가대표 임시 감독 발표] 차기 후보 총정리 : 포옛 탈락 ....",
-          "link": "https://blog.naver.com/rorlrla12/224381338333",
-          "blogger": "다시, 봄",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "한국 축구대표팀 감독 후보 최종 5인 확정! 포옛 탈락 배경과 모레노....",
-          "link": "https://blog.naver.com/holazuni/224381883199",
-          "blogger": "한준의 티키타카",
-          "date": "2026-08-18"
-        },
-        {
-          "title": "\"박항서를 넘었다는 감독\" 베트남 축구 새 역사를 쓰고 있는 한국 감....",
-          "link": "https://blog.naver.com/gytjddk12/224380982622",
-          "blogger": "SPORTS ISSUE",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "'베트남 축구 국가대표팀 감독' 김상식 학력과 선수 및 지도자 경력 ....",
-          "link": "https://blog.naver.com/pso164/224359115928",
-          "blogger": "과학커뮤니케이터 박종현",
-          "date": "2026-07-27"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "'정식 감독 첫 개막전부터 대참사' 캐릭의 맨유, 9년 만에 돌아온 '승격...",
-          "link": "http://www.osen.co.kr/article/G1112862129",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "韓 축구 역대 최고 평가 떴다! \"메시-로번-야말 소환\"…이강인 데뷔골 ...",
-          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1003257",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "\"슈퍼컵 2연패\" 바이에른 뮌헨, 도르트문트 2-1 제압",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16170650",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "'김민재 풀타임 철벽 수비' 뮌헨, 도르트문트 꺾고 슈퍼컵 정상",
-          "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000058742",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "'캐릭은 신중한데 맨유 레전드는 다르다!' 앤디 콜 \"우승 경쟁 충분히 열...",
-          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96794",
-          "press": "",
-          "date": "2026-08-22"
-        }
-      ],
-      "rank": 2
-    },
-    {
       "keyword": "여수시",
       "traffic": "500+",
-      "blogTotal": 335750,
-      "newsTotal": 392837,
-      "recentToday": 77,
+      "blogTotal": 335752,
+      "newsTotal": 392838,
+      "recentToday": 75,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -189,6 +116,12 @@
       ],
       "topNews": [
         {
+          "title": "여수 발전소 화재, 6시간여 만에 완진…인명피해 없어",
+          "link": "https://news.tf.co.kr/read/national/2356838.htm",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
           "title": "[기자수첩] 광양·여수, '제2의 부산'이 될 수 있다",
           "link": "https://daily.hankooki.com/news/articleView.html?idxno=1398225",
           "press": "",
@@ -211,10 +144,77 @@
           "link": "https://www.ziksir.com/news/articleView.html?idxno=143891",
           "press": "",
           "date": "2026-08-22"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "keyword": "국가유공자",
+      "traffic": "200+",
+      "blogTotal": 87825,
+      "newsTotal": 365159,
+      "recentToday": 51,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "살림남 박서진 친일파 후손 난리인데 국가유공자 후손 식당 돈쭐낸 ....",
+          "link": "https://blog.naver.com/qhrfks1004/224379705569",
+          "blogger": "♥라니의 달콤한세상이야기♥",
+          "date": "2026-08-15"
         },
         {
-          "title": "1238회 로또 4매 동시 배출점 등 명당 주소 총정리…1등 18곳·2등 76곳",
-          "link": "https://www.econovill.com/news/articleView.html?idxno=748662",
+          "title": "국가유공자 자녀 혜택, 모르고 지나치면 등록금도 취업 가점도 놓친....",
+          "link": "https://blog.naver.com/everydayshiny/224349123446",
+          "blogger": "미뇽고고",
+          "date": "2026-07-17"
+        },
+        {
+          "title": "이정현 자격증 22개 보유한 이유…알고 보니 국가유공자 후손 ‘반....",
+          "link": "https://blog.naver.com/psepeter/224380885073",
+          "blogger": "psepeter님의 블로그",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "군마트 이용대상 누구까지? 가족·예비역·국가유공자 PX 이용방법 ....",
+          "link": "https://blog.naver.com/saramsoc/224341329325",
+          "blogger": "꿀정보창고 블로그",
+          "date": "2026-07-09"
+        },
+        {
+          "title": "국가유공자 VS 보훈대상자",
+          "link": "https://blog.naver.com/byim69/224360726323",
+          "blogger": "행정사사무소 이상",
+          "date": "2026-07-28"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "예천문화관광재단, 뮤지컬 갈라 콘서트 '3DIVA' 9월 12일 개최",
+          "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=309454",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "하나금융그룹 챔피언십, 9월 17일 안산서 개막…갤러리 티켓 사전 판매",
+          "link": "http://www.bizwnews.com/news/articleView.html?idxno=143934",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "문경서 6·25 영웅 박동진 중사 76주기 추모",
+          "link": "https://www.kbsm.net/news/view.php?idx=531145",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "고령 참전유공자 고독사 막는다…방미숙 경기도의원, 보훈대상자 지원...",
+          "link": "https://www.betanews.net/article/view/beta202608220008",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "\"국가유공자 위해\"…유한양행, '안티푸라민 나눔상자' 제작",
+          "link": "https://news.tvchosun.com/site/data/html_dir/2026/08/22/2026082290082.html",
           "press": "",
           "date": "2026-08-22"
         }
@@ -222,82 +222,9 @@
       "rank": 3
     },
     {
-      "keyword": "백하나",
-      "traffic": "200+",
-      "blogTotal": 3769,
-      "newsTotal": 6724,
-      "recentToday": 27,
-      "recentWeek": 92,
-      "topBlogs": [
-        {
-          "title": "안세영·김원호-서승재·백하나-이소희 8강행…김가은·심유진은 탈....",
-          "link": "https://blog.naver.com/rodasports/224384976480",
-          "blogger": "로다스포츠",
-          "date": "2026-08-20"
-        },
-        {
-          "title": "[배드민턴/세계선수권대회] 백하나-이소희 조, 32강 가뿐히 넘고 16강....",
-          "link": "https://blog.naver.com/jarajaja/224384069969",
-          "blogger": "별구름네 다락방",
-          "date": "2026-08-20"
-        },
-        {
-          "title": "2026 BWF 세계개인배드민턴선수권 안세영 4강 경기일정 서승재-김원호....",
-          "link": "https://blog.naver.com/okithekey/224386167785",
-          "blogger": "건강한 부자",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "2026 세계배드민턴선수권 16강 결과 총정리｜안세영·김원호-서승재·....",
-          "link": "https://blog.naver.com/dnjftp123/224385082859",
-          "blogger": "짠내",
-          "date": "2026-08-21"
-        },
-        {
-          "title": "세계배드민턴선수권 한국 3연승! 안세영부터 백하나·이소희까지 16....",
-          "link": "https://blog.naver.com/hj3314/224383690143",
-          "blogger": "이른의 배움 노트",
-          "date": "2026-08-19"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "‘세계 1위’ 안세영, 오늘 세계선수권 정상 탈환 도전… 결승 상대는 ...",
-          "link": "https://www.sportsworldi.com/newsView/20260823501896",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "백하나-이소희, 올해 5연패 안긴 '中 세계 1위'와 결승 격돌…\"이번엔 金...",
-          "link": "https://www.xportsnews.com/article/2186819",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "환상 호흡…중국 꺾고 사상 첫 결승 진출",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008716936&plink=ORI&cooper=NAVER",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "3분 18초 숨 막힌 랠리…혈투 끝 결승 오른 이소희-백하나",
-          "link": "https://news.jtbc.co.kr/article/NB12314586?influxDiv=NAVER",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "백하나-이소희, ​여자복식 준결승서 2-0 완승…배드민턴 세계선수권 사...",
-          "link": "http://www.stoo.com/article.php?aid=108463786871",
-          "press": "",
-          "date": "2026-08-22"
-        }
-      ],
-      "rank": 4
-    },
-    {
       "keyword": "모병제",
       "traffic": "100+",
-      "blogTotal": 4876,
+      "blogTotal": 4878,
       "newsTotal": 16401,
       "recentToday": 14,
       "recentWeek": 100,
@@ -365,12 +292,12 @@
           "date": "2026-08-21"
         }
       ],
-      "rank": 5
+      "rank": 4
     },
     {
       "keyword": "김영옥",
       "traffic": "200+",
-      "blogTotal": 20749,
+      "blogTotal": 20750,
       "newsTotal": 74045,
       "recentToday": 10,
       "recentWeek": 100,
@@ -436,6 +363,79 @@
           "link": "https://www.the-pr.co.kr/news/articleView.html?idxno=62364",
           "press": "",
           "date": "2026-08-21"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "keyword": "신상진",
+      "traffic": "200+",
+      "blogTotal": 12385,
+      "newsTotal": 82121,
+      "recentToday": 8,
+      "recentWeek": 72,
+      "topBlogs": [
+        {
+          "title": "성남시 2026년도 을지연습 본격 개막! 신상진 시장 훈시부터 '을지연....",
+          "link": "https://blog.naver.com/moncook520/224381881312",
+          "blogger": "성남팩트체커 데일리미디어",
+          "date": "2026-08-18"
+        },
+        {
+          "title": "신상진 성남시장의 ‘성남판 청계천 프로젝트’인 생태하천으로 대....",
+          "link": "https://blog.naver.com/0606a820/224378192593",
+          "blogger": "브레인시티퍼스트공인중개사",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "'이재명 은수미 다음은 국민의힘?' 성남시장 신상진 학력 및 정치 경....",
+          "link": "https://blog.naver.com/pso164/224330402724",
+          "blogger": "과학커뮤니케이터 박종현",
+          "date": "2026-07-02"
+        },
+        {
+          "title": "노동운동가에서 의사, 그리고 4선 의원까지! 신상진 성남시장 파란....",
+          "link": "https://blog.naver.com/evenchatech/224332636285",
+          "blogger": "오늘은 땡땡날 입니다.",
+          "date": "2026-07-01"
+        },
+        {
+          "title": "성남 신상진·용인 이상일 재선 성공! 분당 재건축과 처인구 반도체 ....",
+          "link": "https://blog.naver.com/seongrio/224306051605",
+          "blogger": "해오름",
+          "date": "2026-06-04"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "신상진 성남시장, \"시민 누구나 문화예술 누리는 성남 조성에 최선 다하...",
+          "link": "http://www.beyondpost.co.kr/view.php?ud=202608230757128484c878f8fa1_30",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "성남 도심 운동장서 야외음악회…시민 5000명 규모 참여",
+          "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1099292",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "신상진 성남시장 “서울의 허파 뺏지 말라…주택 공급 해답은 성남”",
+          "link": "https://view.asiae.co.kr/article/2026082221322940838",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "신상진 성남시장 “누구나 문화예술 즐기는 성남 만들겠다”",
+          "link": "https://view.asiae.co.kr/article/2026082221005126251",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "신상진 시장 \"수도권 아파트 공급문제 성남 규제완화가 해답\"",
+          "link": "https://www.sidae.com/article/2026082216021757434",
+          "press": "",
+          "date": "2026-08-22"
         }
       ],
       "rank": 6
@@ -514,76 +514,27 @@
       "rank": 7
     },
     {
-      "keyword": "해리 케인",
-      "traffic": "200+",
-      "blogTotal": 13603,
-      "newsTotal": 168216,
-      "recentToday": 2,
-      "recentWeek": 32,
+      "keyword": "espanyol vs real madrid standings",
+      "traffic": "500+",
+      "blogTotal": 0,
+      "newsTotal": 0,
+      "recentToday": 0,
+      "recentWeek": 0,
       "topBlogs": [
         {
-          "title": "\"멀티골 넣었지만..\" BBC 중계진도 분노한 해리 케인 PK 판정 논란",
-          "link": "https://blog.naver.com/8winner/224333705709",
-          "blogger": "레슬리 매거진",
-          "date": "2026-07-02"
+          "title": "12월11일 UEFA 챔스 레알소시에타드 VS 바이어 04레버쿠젠",
+          "link": "https://blog.naver.com/kiinnc12/100201453136",
+          "blogger": "꿀 팁스터",
+          "date": "2013-12-11"
         },
         {
-          "title": "잉글랜드를 멱살 잡고 16강으로… 해리 케인, 연봉만큼 버는 \"이것\" ....",
-          "link": "https://blog.naver.com/yyjj2814/224333869198",
-          "blogger": "열정의 그라운드",
-          "date": "2026-07-02"
-        },
-        {
-          "title": "축구선수 헤리케인 프로필 기록 연봉",
-          "link": "https://blog.naver.com/quswodid/224344337053",
-          "blogger": "잡학아지트",
-          "date": "2026-07-12"
-        },
-        {
-          "title": "해리 케인 와이프, 벨링엄 여친 '2026 월드컵'을 강타한 잉글랜드 축....",
-          "link": "https://blog.naver.com/nadiatear0/224342000419",
-          "blogger": "☆*:.My Sweet Haven.:*☆",
-          "date": "2026-07-10"
-        },
-        {
-          "title": "해리 케인 73골 달성! 뮌헨 우승하면 정말 발롱도르 가능할까?",
-          "link": "https://blog.naver.com/tv_issue/224383430746",
-          "blogger": "스포츠의 모든 이야기 [스모이]",
-          "date": "2026-08-19"
+          "title": "라리가 2025-26: 4라운드 경기 결과 예측 심층 분석 보고서  -2025년 9월1....",
+          "link": "https://blog.naver.com/camelpro/224006679149",
+          "blogger": "세상을 놓고 맘껏 즐겨라!",
+          "date": "2025-09-13"
         }
       ],
-      "topNews": [
-        {
-          "title": "'김민재 풀타임' 뮌헨, 도르트문트 2-1 꺾고 독일 슈퍼컵 우승…새 시즌...",
-          "link": "https://www.mediapen.com/news/view/1118251",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "'풀타임 우승+패스 성공률 94%+평점 3점'에도 냉정한 평가...\"김민재는 3...",
-          "link": "http://www.osen.co.kr/article/G1112862126",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "'韓 괴물 수비수' 김민재, 트로피 또 늘었다! 슈퍼컵 선발 출전·풀타임...",
-          "link": "https://www.besteleven.com/news/articleView.html?idxno=311441",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "'풀타임' 김민재 또 트로피 추가! 바이에른, 라이벌 BVB 2-1 제압...베켄...",
-          "link": "http://www.osen.co.kr/article/G1112862125",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "[supercup.review] '김민재 철벽 수비로 시즌 첫 우승!' 뮌헨, 도르트문트...",
-          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96792",
-          "press": "",
-          "date": "2026-08-22"
-        }
-      ],
+      "topNews": [],
       "rank": 8
     },
     {
@@ -662,8 +613,8 @@
     {
       "keyword": "인공지능",
       "traffic": "500+",
-      "blogTotal": 1088071,
-      "newsTotal": 4296943,
+      "blogTotal": 1088074,
+      "newsTotal": 4296956,
       "recentToday": 0,
       "recentWeek": 100,
       "topBlogs": [
@@ -700,32 +651,32 @@
       ],
       "topNews": [
         {
-          "title": "충남도, 유럽서 글로벌 행보…외자유치부터 교황청 협력·UN AI 허브 유치...",
-          "link": "http://www.metroseoul.co.kr/article/20260823500001",
+          "title": "'日 방위비 기록갱신은 전쟁국가 질주 가속화' 비판 [北 중통]",
+          "link": "http://www.tongilnews.com/news/articleView.html?idxno=217277",
           "press": "",
           "date": "2026-08-22"
         },
         {
-          "title": "中알리·텐센트, 2분기 AI에만 25조 투자…바이트댄스까지 ‘3대장’ 등...",
-          "link": "https://www.sedaily.com/article/20082035?ref=naver",
+          "title": "테슬라 2㎚ 칩 승부수 띄운 삼성 파운드리…SK하이닉스 '빛의 연결' CPO ...",
+          "link": "https://www.ddaily.co.kr/page/view/2026082308142919414",
           "press": "",
           "date": "2026-08-22"
         },
         {
-          "title": "[신간] 첨단산업 경쟁력 키우는 중국 기업들…'차이나 시그널'",
-          "link": "https://www.yna.co.kr/view/AKR20260822022900005?input=1195m",
+          "title": "K-배터리, 북미 공략 본격화…ESS 증설·투자 재원 확보 속도 [위클리배...",
+          "link": "https://www.ddaily.co.kr/page/view/2026082302215635744",
           "press": "",
           "date": "2026-08-22"
         },
         {
-          "title": "볼트의 9초58마저 넘었다…중국 휴머노이드 로봇 100ｍ 9초39",
-          "link": "https://sports.khan.co.kr/article/202608230803003?pt=nv",
+          "title": "아산시, 시민이 살기좋은 도시구현 박차",
+          "link": "https://www.viva100.com/article/20260823500023",
           "press": "",
           "date": "2026-08-22"
         },
         {
-          "title": "“모두의 평등”이라던 AI…현실은 그들만의 잔치?",
-          "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8643585&ref=A",
+          "title": "순천향대, 학위수여식으로 소속감 높여",
+          "link": "https://www.viva100.com/article/20260823500024",
           "press": "",
           "date": "2026-08-22"
         }
