@@ -1,12 +1,85 @@
 {
-  "updatedAt": "2026-08-22T11:18:10.498Z",
+  "updatedAt": "2026-08-22T11:44:35.107Z",
   "source": "live",
   "keywords": [
     {
-      "keyword": "기상",
+      "keyword": "수사",
       "traffic": "1000+",
-      "blogTotal": 1284774,
-      "newsTotal": 2825757,
+      "blogTotal": 1018939,
+      "newsTotal": 8089849,
+      "recentToday": 100,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "보완수사권 뜻과 폐지 추진 이유, 무엇이 달라질까?",
+          "link": "https://blog.naver.com/nsyncbye1004/224364910300",
+          "blogger": "즐거운 인플루언서 생활",
+          "date": "2026-08-01"
+        },
+        {
+          "title": "'검찰 보완수사권 폐지 법안 통과' 이후 발생할 문제점과 마련해야 ....",
+          "link": "https://blog.naver.com/pso164/224366470436",
+          "blogger": "과학커뮤니케이터 박종현",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "임은정 결국 백해룡에게 고소당했다…세관 마약수사 둘 사이 무슨 ....",
+          "link": "https://blog.naver.com/skycksgus/224378843619",
+          "blogger": "AI 브리핑 연구소",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "검사 보완수사권 폐지, 국민 여론은? 반대 52.3%·찬성 38.6%",
+          "link": "https://blog.naver.com/simuean/224374757954",
+          "blogger": "in and out",
+          "date": "2026-08-11"
+        },
+        {
+          "title": "역대 그 수사물들 제치고 40억 뷰 찍은 인생작, 정주행 필수 쌍둥이 ....",
+          "link": "https://blog.naver.com/cjm03199/224376707552",
+          "blogger": "도파민 다이어리",
+          "date": "2026-08-13"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "한 총리 \"제주 실종여성 가족에 장난전화 10대 검거…2차 가해 엄중 대응...",
+          "link": "https://www.news1.kr/politics/president/6266444",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "조국 “위법수집증거 주장했지만 난 유죄”…한동훈 “뭐가 억울한가”",
+          "link": "https://biz.heraldcorp.com/article/10848849?ref=naver",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "'초등학교 투신 시도'... 시민단체, 교육감·교육청 관계자 고발",
+          "link": "http://www.inews24.com/view/1997336",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "[기자수첩] 900만원 빌려 1950만원 갚는 사회…불법사금융은 누구의 책임...",
+          "link": "http://www.inews24.com/view/1997305",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "제주 실종사건 허위종결 경찰관 긴급체포…또 다른 사건도 조작 정황",
+          "link": "https://www.kukinews.com/article/view/kuk202608220016",
+          "press": "",
+          "date": "2026-08-22"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "keyword": "기상",
+      "traffic": "2000+",
+      "blogTotal": 1284792,
+      "newsTotal": 2825769,
       "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
@@ -43,45 +116,118 @@
       ],
       "topNews": [
         {
-          "title": "'충격' 국내 유일 돔구장인데 물이 '또' 샌다…약 30명 대피 소동 [고척...",
-          "link": "https://www.sportschosun.com/baseball/2026-08-22/202608220100131440008395",
+          "title": "보령 앞바다서 해양사고 잇따라...6명 구조",
+          "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=705182",
           "press": "",
           "date": "2026-08-22"
         },
         {
-          "title": "[내일날씨] 전국 무더위 속 소나기…전남광주 낮 34도",
-          "link": "https://www.namdonews.com/news/articleView.html?idxno=920751",
+          "title": "우리나라 컨테이너선, 첫 북극항로 개척…부산서 출항",
+          "link": "https://news.tf.co.kr/read/national/2356825.htm",
           "press": "",
           "date": "2026-08-22"
         },
         {
-          "title": "북극항로 첫 컨테이너선…부산서 '역사적 출항'",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008716908&plink=ORI&cooper=NAVER",
+          "title": "충남 보령서 해양사고 잇따라…9명 구조",
+          "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8643462&ref=A",
           "press": "",
           "date": "2026-08-22"
         },
         {
-          "title": "[날씨] 일요일도 ‘푹푹’ 찐다…낮 최고 35도, 곳곳엔 소나기",
-          "link": "https://biz.heraldcorp.com/article/10848838?ref=naver",
+          "title": "“구름만 찍고 1200만원”…3500명 몰린 '꿀알바' 정체",
+          "link": "https://www.etnews.com/20260820000392",
           "press": "",
           "date": "2026-08-22"
         },
         {
-          "title": "제주 서귀포 동쪽 해역서 규모 2.7 지진",
-          "link": "https://www.mt.co.kr/society/2026/08/22/2026082219422083924",
+          "title": "충남 보령 해상서 레저활동 중 해양사고 잇따라…구명조끼 착용 모두 구...",
+          "link": "https://www.newsis.com/view/NISX20260822_0003758572",
           "press": "",
           "date": "2026-08-22"
         }
       ],
-      "rank": 1
+      "rank": 2
+    },
+    {
+      "keyword": "lck",
+      "traffic": "1000+",
+      "blogTotal": 47689,
+      "newsTotal": 144116,
+      "recentToday": 55,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "2026 LCK 정규시즌 3라운드 4라운드 경기 시간과 그룹 분리 스플릿 분....",
+          "link": "https://blog.naver.com/gytjd4624/224345112102",
+          "blogger": "짱핏터의 맛동산 ✅️",
+          "date": "2026-07-13"
+        },
+        {
+          "title": "아일릿(ILLIT) 민주 프로필의 모든 것, 파헤쳐 볼까요? 무안광 요정에....",
+          "link": "https://blog.naver.com/zioziaaa/224318135014",
+          "blogger": "형곡동 영수학원054)455 9885",
+          "date": "2026-06-17"
+        },
+        {
+          "title": "msi 일정 2026 대전 경기시간 LCK 대진표 확인 순서",
+          "link": "https://blog.naver.com/kangcheolk/224340937805",
+          "blogger": "Art story",
+          "date": "2026-07-09"
+        },
+        {
+          "title": "2026 LCK 티켓 예매 정보 (일정, 가격, 중립석 시야) 중립석 관람 후기",
+          "link": "https://blog.naver.com/merci--/224274357669",
+          "blogger": "*´ސު｀*",
+          "date": "2026-05-04"
+        },
+        {
+          "title": "라이엇 게임즈 리그오브레전드 클래식 출시 정보 및 LCK 레전드 매치....",
+          "link": "https://blog.naver.com/daom00/224363565558",
+          "blogger": "엘로그",
+          "date": "2026-07-31"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "[LCK 현장] 디플러스 기아, 정규시즌 1위 젠지 2:1 제압",
+          "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=60215",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "[LCK] 젠지 유상욱 감독 \"1위는 기쁘지만, 마지막 경기 패배 아쉬워\"",
+          "link": "https://www.inven.co.kr/webzine/news/?news=319807",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "[LCK] ‘세 번째 북벌 성공’ DK, 젠지 꺾고 시즌 17승 마무리(종합)",
+          "link": "http://www.osen.co.kr/article/G1112861955",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "디플러스 기아, 올해 마지막 세러데이 쇼다운서 젠지 제압 (LCK) [엑’s 현...",
+          "link": "https://www.xportsnews.com/article/2186752",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "[LCK] 놀라운 DK의 폼, 젠지 2:1로 제압...",
+          "link": "https://www.inven.co.kr/webzine/news/?news=319806",
+          "press": "",
+          "date": "2026-08-22"
+        }
+      ],
+      "rank": 3
     },
     {
       "keyword": "안우진",
       "traffic": "500+",
-      "blogTotal": 7853,
-      "newsTotal": 83096,
-      "recentToday": 43,
-      "recentWeek": 91,
+      "blogTotal": 7855,
+      "newsTotal": 83101,
+      "recentToday": 45,
+      "recentWeek": 93,
       "topBlogs": [
         {
           "title": "곽빈이 안우진보다 먼저 메이저 가나? 두 선수의 조건과 연봉 차이 ....",
@@ -116,183 +262,329 @@
       ],
       "topNews": [
         {
-          "title": "[사진]KIA 조상우, '무사 1, 2루 위기'",
-          "link": "http://www.osen.co.kr/article/G1112861991",
+          "title": "‘고척돔이 철렁했다’ 안우진 156km 강속구에 김도영 직격, 다행히 큰 ...",
+          "link": "http://www.osen.co.kr/article/G1112861999",
           "press": "",
           "date": "2026-08-22"
         },
         {
-          "title": "[사진]7회말 마운드 오른 KIA 조상우",
-          "link": "http://www.osen.co.kr/article/G1112861989",
+          "title": "안우진 ‘이대로 가자’[포토]",
+          "link": "https://www.xportsnews.com/article/2186767",
           "press": "",
           "date": "2026-08-22"
         },
         {
-          "title": "[사진]주먹 불끈 쥔 KIA 선발 올러, '6회까지 1실점 좋은 피칭'",
-          "link": "http://www.osen.co.kr/article/G1112861983",
+          "title": "안우진 ‘7회도 무실점’[포토]",
+          "link": "https://www.xportsnews.com/article/2186766",
           "press": "",
           "date": "2026-08-22"
         },
         {
-          "title": "[사진]키움 서건창-권혁빈 키스톤 콤비, '위기는 병살로'",
-          "link": "http://www.osen.co.kr/article/G1112861985",
+          "title": "[사진]서건창, '7회 천금 같은 적시타'",
+          "link": "http://www.osen.co.kr/article/G1112861994",
           "press": "",
           "date": "2026-08-22"
         },
         {
-          "title": "[사진]KIA 상대로 7회까지 무실점 피칭 펼치는 키움 안우진-김건희 배터...",
-          "link": "http://www.osen.co.kr/article/G1112861984",
+          "title": "[사진]맹활약 펼치는 키움 서건창",
+          "link": "http://www.osen.co.kr/article/G1112861995",
           "press": "",
           "date": "2026-08-22"
         }
       ],
-      "rank": 2
+      "rank": 4
     },
     {
-      "keyword": "부천 대 포항",
-      "traffic": "1000+",
-      "blogTotal": 33,
-      "newsTotal": 4358,
-      "recentToday": 1,
-      "recentWeek": 3,
+      "keyword": "lck 2026",
+      "traffic": "100+",
+      "blogTotal": 3928,
+      "newsTotal": 9714,
+      "recentToday": 26,
+      "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "혈액 투석 치료 잘하는(유명한) 전문 병원 리스트",
-          "link": "https://information-factory.tistory.com/182",
-          "blogger": "정보 공장",
-          "date": "2023-08-11"
+          "title": "[2026 롤드컵] 일정·개최지 총정리! LCK 서머 마감일과 Legend·Rise 그룹....",
+          "link": "https://blog.naver.com/stark0654/224371972768",
+          "blogger": "스타크의 타임캡슐",
+          "date": "2026-08-08"
         },
         {
-          "title": "스쿨룩스 교복 대리점 매장위치 전화번호 AS",
-          "link": "https://finkorea.tistory.com/964",
-          "blogger": "카롤의 블로그",
-          "date": "2023-02-10"
+          "title": "LCK 일정 2026 정규시즌 3·4라운드 경기 대진표 예매 방법",
+          "link": "https://blog.naver.com/12512512/224361917895",
+          "blogger": "피스타임 블로그",
+          "date": "2026-07-29"
         },
         {
-          "title": "한국투자증권 고객센터 전화번호와 전국 지점 위치, 대표번호 총정....",
-          "link": "https://meal-time.tistory.com/657",
-          "blogger": "친절한 정보",
-          "date": "2021-05-06"
+          "title": "2026 LCK 정규시즌 3라운드 4라운드 경기 시간과 그룹 분리 스플릿 분....",
+          "link": "https://blog.naver.com/gytjd4624/224345112102",
+          "blogger": "짱핏터의 맛동산 ✅️",
+          "date": "2026-07-13"
         },
         {
-          "title": "CJ기프트카드 사용처, 구매처 및 잔액 환불 방법",
-          "link": "https://magazine-k.tistory.com/1823",
-          "blogger": "매거진K",
-          "date": "2023-06-29"
+          "title": "2026 LCK 후반부 경기일정 티켓 예매 가격  치지직롤파크 위치 좌석안....",
+          "link": "https://blog.naver.com/doingnow33/224361811254",
+          "blogger": "기억 공간",
+          "date": "2026-07-29"
         },
         {
-          "title": "지역 농협 축협 지점코드",
-          "link": "https://albaeconomy.tistory.com/39",
-          "blogger": "재테크 IT 게임 전자제품 생활정보 알아보기",
-          "date": "2019-12-08"
+          "title": "2026 LCK 치지직 롤파크 직관 후기 총정리| 주차, 시야, 짐 보관, 음식 ....",
+          "link": "https://blog.naver.com/zzeonglog/224372475031",
+          "blogger": "myfavthinᰔs",
+          "date": "2026-08-09"
         }
       ],
       "topNews": [
         {
-          "title": "[K리그1 프리뷰]\"이대로 끝낼 순 없어\" 갈 길 급한 전북과 울산의 '현대...",
-          "link": "https://www.sportschosun.com/football/2026-08-20/202608200100120760007657",
+          "title": "[LCK] 젠지 유상욱 감독 \"1위는 기쁘지만, 마지막 경기 패배 아쉬워\"",
+          "link": "https://www.inven.co.kr/webzine/news/?news=319807",
           "press": "",
-          "date": "2026-08-20"
+          "date": "2026-08-22"
         },
         {
-          "title": "상승세 탄 부천FC, 포항 잡고 중상위권 도약할까",
-          "link": "https://www.kyeonggi.com/article/20260820580384",
+          "title": "[LCK] ‘세 번째 북벌 성공’ DK, 젠지 꺾고 시즌 17승 마무리(종합)",
+          "link": "http://www.osen.co.kr/article/G1112861955",
           "press": "",
-          "date": "2026-08-20"
+          "date": "2026-08-22"
         },
         {
-          "title": "대전하나시티즌, 이대로는 안 된다…남은 10경기 반등 절실",
-          "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2295700",
+          "title": "디플러스 기아, 올해 마지막 세러데이 쇼다운서 젠지 제압 (LCK) [엑’s 현...",
+          "link": "https://www.xportsnews.com/article/2186752",
           "press": "",
-          "date": "2026-08-20"
+          "date": "2026-08-22"
         },
         {
-          "title": "FC 안양, 제주 SK에 2대1 역전승…창단 첫 코리아컵 8강 '감격'",
-          "link": "http://www.newsian.co.kr/news/articleView.html?idxno=93965",
+          "title": "[LCK] 놀라운 DK의 폼, 젠지 2:1로 제압...",
+          "link": "https://www.inven.co.kr/webzine/news/?news=319806",
           "press": "",
-          "date": "2026-08-20"
+          "date": "2026-08-22"
         },
         {
-          "title": "코리아컵 16강서 대이변…K3리그 당진, ‘거함’ 전북 현대 격파 ‘자어...",
-          "link": "https://www.kukinews.com/article/view/kuk202608200020",
+          "title": "루시드의 명품 리신쇼…디플러스 기아, 2세트 환상적 교전력으로 젠지 ...",
+          "link": "https://www.xportsnews.com/article/2186692",
           "press": "",
-          "date": "2026-08-20"
+          "date": "2026-08-22"
         }
       ],
-      "rank": 3
+      "rank": 5
     },
     {
-      "keyword": "전북 대 울산",
-      "traffic": "5000+",
-      "blogTotal": 338,
-      "newsTotal": 56404,
+      "keyword": "상장지수 펀드",
+      "traffic": "100+",
+      "blogTotal": 39521,
+      "newsTotal": 363794,
+      "recentToday": 24,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "주식처럼 거래하는 펀드, \"ETF(상장지수펀드)\"",
+          "link": "https://blog.naver.com/archirap/224346156357",
+          "blogger": "땅보고 집보는 두꺼비 \"락쿠\"",
+          "date": "2026-07-14"
+        },
+        {
+          "title": "'애프터마켓' ETF 거래 미뤄지나.. 업계 \"ETF 상장지수펀드 보류?\"",
+          "link": "https://blog.naver.com/ysc0907/224362833664",
+          "blogger": "이승철플라워",
+          "date": "2026-07-30"
+        },
+        {
+          "title": "상장지수펀드란, 같은 ETF인데 위험이 전혀 다른 두 종류",
+          "link": "https://blog.naver.com/csj4032/224371256289",
+          "blogger": "Le mieux est l’ennemi du bien",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "상장지수펀드란 무엇이며 가입방법 종목 세금",
+          "link": "https://blog.naver.com/7575roro/224322804803",
+          "blogger": "분양나라",
+          "date": "2026-06-21"
+        },
+        {
+          "title": "ETF 뜻 수익률 종목 ETF 상장지수펀드 투자 방법 추천 가입 방법",
+          "link": "https://blog.naver.com/ejk0258/224218777633",
+          "blogger": "아침커피",
+          "date": "2026-03-16"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "비트코인 ETF 19억달러 순유입, 10월 급락 뒤 최대",
+          "link": "https://www.tokenpost.kr/news/cryptocurrency/395637",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "서학개미, 라운드힐 메모리 ETF 1185억 순매수",
+          "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=858694",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "[EBN 오늘 (22일) 이슈 종합] 비트코인 연말 '7만5000달러' 예상, 中 낸드...",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1721284",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "엔비디아 7.55%, 미 대형주 ETF서 애플 앞섰다",
+          "link": "https://www.tokenpost.kr/news/market/395621",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "[주末머니]'노후보장' TDF 선택할 때 반드시 고려해야 할 점은",
+          "link": "https://view.asiae.co.kr/article/2026082110532494077",
+          "press": "",
+          "date": "2026-08-22"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "keyword": "동남아시아 축구 연맹 선수권 대회",
+      "traffic": "1000+",
+      "blogTotal": 32,
+      "newsTotal": 714,
       "recentToday": 1,
       "recentWeek": 2,
       "topBlogs": [
         {
-          "title": "2026 추석 민생 지원금 총정리! 지급 지역·금액·신청 조건 어디까지 ....",
-          "link": "https://blog.naver.com/nodae321/224378306481",
-          "blogger": "오만잡기",
-          "date": "2026-08-14"
+          "title": "서울특별시 주요 근린공원 주소록",
+          "link": "https://richcat.tistory.com/6099",
+          "blogger": "리치캣의 현재 그리고 미래",
+          "date": "2021-06-13"
         },
         {
-          "title": "우체국 : 지점명, 지점코드, swift code , 주소",
-          "link": "https://albaeconomy.tistory.com/40",
-          "blogger": "재테크 IT 게임 전자제품 생활정보 알아보기",
-          "date": "2019-12-08"
+          "title": "부산광역시 비영리법인 목록",
+          "link": "https://richcat.tistory.com/11603",
+          "blogger": "리치캣의 현재 그리고 미래",
+          "date": "2022-07-16"
         },
         {
-          "title": "지역 농협 축협 지점코드",
-          "link": "https://albaeconomy.tistory.com/39",
-          "blogger": "재테크 IT 게임 전자제품 생활정보 알아보기",
-          "date": "2019-12-08"
+          "title": "2018 전북지방선거소식 -- 전라북도 도의원 시의원 공약 모음",
+          "link": "https://lsak21.tistory.com/6102734",
+          "blogger": "김택천의 지속가능한 지역 자치분권 이야기",
+          "date": "2018-06-09"
         },
         {
-          "title": "2026 유아임용 경쟁률 지역별 정리｜8년 중 최저일까..?",
-          "link": "https://blog.naver.com/hfine5476/224341746076",
-          "blogger": "키망의 꿈의 작업실",
-          "date": "2026-07-09"
+          "title": "뉴스 :: 대한민국 영어공장 (내신/수능 워크북)",
+          "link": "https://wayne.tistory.com/1525",
+          "blogger": "대한민국 영어공장 (내신/수능 워크북) :: 대한민국 영어공장 (내신/수능 워크북)",
+          "date": "2019-12-19"
         },
         {
-          "title": "2023년 7월 8일 주요신문 헤드라인 + 매경이 전하는 세상의 지식",
-          "link": "https://briskeen.com/1176",
-          "blogger": "▲",
-          "date": "2023-07-08"
+          "title": "근대 의료의 풍경(1) - 황상익 (프레시안)",
+          "link": "https://elbeece.tistory.com/6576928",
+          "blogger": "사색과 여유",
+          "date": "2010-03-04"
         }
       ],
       "topNews": [
         {
-          "title": "청약 경쟁률 36개월만에 최저…서울로 몰리고 지방은 '미달'",
-          "link": "https://www.newsis.com/view/NISX20260821_0003757820",
+          "title": "'싱가포르와 무승부' 김상식, 오늘 인니전 필승 각오...인니 매체는 \"당...",
+          "link": "https://www.ajunews.com/view/20260803131819866",
           "press": "",
-          "date": "2026-08-21"
+          "date": "2026-08-03"
         },
         {
-          "title": "전북 현대, 내일 울산과 홈 경기…“분위기 반전”",
-          "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8643025&ref=A",
+          "title": "[ASIA BIZ] 김상식호, 아세안 현대컵 1차전서 7골 폭발...박항서 감독 무...",
+          "link": "https://www.ajunews.com/view/20260725133345317",
           "press": "",
-          "date": "2026-08-21"
+          "date": "2026-07-27"
         },
         {
-          "title": "[단독]'18살 축구천재' 김예건, 유럽 간다!…전북 떠나 즈베즈다 전격 입...",
-          "link": "https://www.sportschosun.com/football/2026-08-21/202608210100126750008045",
+          "title": "'동남아의 월드컵' 아세안 현대컵, 24일 개막…'김상식호' 베트남 2연패...",
+          "link": "https://www.ajunews.com/view/20260722143907344",
           "press": "",
-          "date": "2026-08-21"
+          "date": "2026-07-22"
         },
         {
-          "title": "리그 2위 울산‥내일 '현대가더비' 원정길",
-          "link": "https://www.usmbc.co.kr/NewsArticle/857951",
+          "title": "韓 월드컵 탈락 책임, '대국민 사과' 박항서 단장, 감독직 복귀 위해 태...",
+          "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553354249",
           "press": "",
-          "date": "2026-08-21"
+          "date": "2026-07-06"
         },
         {
-          "title": "7월 전국 청약 경쟁률 36개월 만에 최저…분양 단지 절반 이상 1순위 미...",
-          "link": "https://www.etoday.co.kr/news/view/2616758",
+          "title": "파격 발언 \"논란 있다는 걸 알지만\"...'감독직 본인 추천' 日 전설 혼다...",
+          "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553344574",
           "press": "",
-          "date": "2026-08-21"
+          "date": "2026-07-02"
         }
       ],
-      "rank": 4
+      "rank": 7
+    },
+    {
+      "keyword": "헐 시티 대 맨유",
+      "traffic": "10000+",
+      "blogTotal": 27,
+      "newsTotal": 683,
+      "recentToday": 0,
+      "recentWeek": 0,
+      "topBlogs": [
+        {
+          "title": "화성시 지역화폐 가맹점 알아보기",
+          "link": "https://kt99.tistory.com/354",
+          "blogger": "그냥사는거지",
+          "date": "2020-04-25"
+        },
+        {
+          "title": "“중원이 팀 전체를 연결한다” 캐릭이 바라본 새로운 맨유, 헐시티....",
+          "link": "https://blog.naver.com/nomessi/224386342106",
+          "blogger": "노희동의 축구이야기",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "전국 로또 판매점 주소록 최신업데이트",
+          "link": "https://stevejobs.tistory.com/183",
+          "blogger": "나라장터 데이터 공방",
+          "date": "2023-03-27"
+        },
+        {
+          "title": "헐시티 맨유 8월22일 EPL 프리미어리그 축구예상 분석",
+          "link": "https://blog.naver.com/dbgywjd9139/224386557560",
+          "blogger": "호날두",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "맨유 예상 베스트11 2026-27 프리미어리그 총정리",
+          "link": "https://fnfsoccer.tistory.com/600",
+          "blogger": "F&F 축구이야기",
+          "date": "2026-08-14"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "[한국스포츠레저(주)-스포츠조선 공동기획]유럽 축구 5대 리그 개막, 이...",
+          "link": "https://www.sportschosun.com/football/2026-08-18/202608180100097620006208",
+          "press": "",
+          "date": "2026-08-18"
+        },
+        {
+          "title": "“일본은 EPL 선수 9명인데?” 英 언론도 깜짝 놀랐다 “한국은 손흥민...",
+          "link": "http://www.osen.co.kr/article/G1112859335",
+          "press": "",
+          "date": "2026-08-18"
+        },
+        {
+          "title": "홀란드 15.5파운드·팔머 vs 로저스…FPL 개막 전 핵심 선택 5가지",
+          "link": "https://www.imaeil.com/page/view/2026081817351683942",
+          "press": "",
+          "date": "2026-08-18"
+        },
+        {
+          "title": "“이것이 3백이다” AC밀란 아모림, 맨유 상대로 복수극 ‘대성공’",
+          "link": "https://www.sportsseoul.com/news/read/1628882?ref=naver",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "'이런 악연이 있나' '임대 우등생' 래시포드, 자신을 내친 아모림 감독...",
+          "link": "https://www.sportschosun.com/football/2026-08-16/202608160100092290005856",
+          "press": "",
+          "date": "2026-08-16"
+        }
+      ],
+      "rank": 8
     },
     {
       "keyword": "천안시티 대 수원",
@@ -365,7 +657,7 @@
           "date": "2026-08-14"
         }
       ],
-      "rank": 5
+      "rank": 9
     },
     {
       "keyword": "xsmn",
@@ -407,237 +699,6 @@
         }
       ],
       "topNews": [],
-      "rank": 6
-    },
-    {
-      "keyword": "제주 대 김천상무",
-      "traffic": "1000+",
-      "blogTotal": 31,
-      "newsTotal": 2336,
-      "recentToday": 0,
-      "recentWeek": 1,
-      "topBlogs": [
-        {
-          "title": "지역 농협 축협 지점코드",
-          "link": "https://albaeconomy.tistory.com/39",
-          "blogger": "재테크 IT 게임 전자제품 생활정보 알아보기",
-          "date": "2019-12-08"
-        },
-        {
-          "title": "우체국 : 지점명, 지점코드, swift code , 주소",
-          "link": "https://albaeconomy.tistory.com/40",
-          "blogger": "재테크 IT 게임 전자제품 생활정보 알아보기",
-          "date": "2019-12-08"
-        },
-        {
-          "title": "당뇨병 치료 잘하는(유명한) 전문 병원 리스트",
-          "link": "https://information-factory.tistory.com/179",
-          "blogger": "정보 공장",
-          "date": "2023-08-11"
-        },
-        {
-          "title": "국민은행 지점코드, 스위프트 코드( swift code )",
-          "link": "https://albaeconomy.tistory.com/80",
-          "blogger": "재테크 IT 게임 전자제품 생활정보 알아보기",
-          "date": "2020-01-10"
-        },
-        {
-          "title": "유통전문판매업체 목록 : 27001-28000",
-          "link": "https://richcat.tistory.com/13347",
-          "blogger": "리치캣의 현재 그리고 미래",
-          "date": "2022-10-19"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "'이찬욱 데뷔골' 김천상무, 김포에 1대 2 패...코리아컵 여정 마무리",
-          "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553473143",
-          "press": "",
-          "date": "2026-08-20"
-        },
-        {
-          "title": "김천, 김포에 패해 코리아컵 탈락… 주승진 감독, \"두 번의 실수로 분위...",
-          "link": "https://www.besteleven.com/news/articleView.html?idxno=311369",
-          "press": "",
-          "date": "2026-08-20"
-        },
-        {
-          "title": "코리아컵 16강서 대이변…K3리그 당진, ‘거함’ 전북 현대 격파 ‘자어...",
-          "link": "https://www.kukinews.com/article/view/kuk202608200020",
-          "press": "",
-          "date": "2026-08-20"
-        },
-        {
-          "title": "[코리아컵 16강] K3 당진, '디펜딩 챔피언' 전북 격파 '대이변'…김포FC...",
-          "link": "https://www.mediapen.com/news/view/1117532",
-          "press": "",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "'디펜딩 챔피언' 전북, K3 당진시민축구단에 패하며 코리아컵 8강 불발",
-          "link": "http://www.thesportstimes.co.kr/news/articleView.html?idxno=375021",
-          "press": "",
-          "date": "2026-08-19"
-        }
-      ],
-      "rank": 7
-    },
-    {
-      "keyword": "창원시",
-      "traffic": "1000+",
-      "blogTotal": 0,
-      "newsTotal": 0,
-      "recentToday": 0,
-      "recentWeek": 0,
-      "topBlogs": [],
-      "topNews": [],
-      "error": "HTTP 429 https://openapi.naver.com/v1/search/blog.json?query=%EC%B0%BD%EC%9B%90%EC%8B%9C&display=5&sort=sim",
-      "rank": 8
-    },
-    {
-      "keyword": "안양 대 fc 서울",
-      "traffic": "2000+",
-      "blogTotal": 37,
-      "newsTotal": 2176,
-      "recentToday": 0,
-      "recentWeek": 3,
-      "topBlogs": [
-        {
-          "title": "우체국 : 지점명, 지점코드, swift code , 주소",
-          "link": "https://albaeconomy.tistory.com/40",
-          "blogger": "재테크 IT 게임 전자제품 생활정보 알아보기",
-          "date": "2019-12-08"
-        },
-        {
-          "title": "평택시 지역화폐 가맹점 알아보기",
-          "link": "https://kt99.tistory.com/355",
-          "blogger": "그냥사는거지",
-          "date": "2020-04-25"
-        },
-        {
-          "title": "경기지역화폐 사용처 전체 리스트 (용인시)",
-          "link": "https://9111.tistory.com/153",
-          "blogger": "러브래빗",
-          "date": "2020-05-03"
-        },
-        {
-          "title": "[뉴스큐레이션] 22대 국회의원 선거 : 국민의힘, 더불어민주당, 여론....",
-          "link": "https://sfeelbug.tistory.com/8615600",
-          "blogger": "https://sfeelbug.tistory.com/",
-          "date": "2024-03-02"
-        },
-        {
-          "title": "전국 물류창고 상호 및 위치",
-          "link": "https://invisiblecity.tistory.com/1430",
-          "blogger": "보이지 않는 도시연구소",
-          "date": "2020-05-08"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "금호고, 매탄고 꺾고 작년 결승 패배 설욕",
-          "link": "https://www.chosun.com/sports/football/2026/08/22/LAP2XS6HPNEQPJA3SUATXD7PKA/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-          "press": "",
-          "date": "2026-08-21"
-        },
-        {
-          "title": "더이상 물러설 곳이 없다! '홈 연승 도전' 대전, 강원 잡아야 더 올라간...",
-          "link": "https://www.sportschosun.com/football/2026-08-21/202608210100126450008028",
-          "press": "",
-          "date": "2026-08-21"
-        },
-        {
-          "title": "'선두 캡틴' FC서울 김진수 소신 발언 \"우승? 앞으로 10경기가 중요하다...",
-          "link": "https://www.sportschosun.com/football/2026-08-20/202608200100120520007648",
-          "press": "",
-          "date": "2026-08-20"
-        },
-        {
-          "title": "‘대전 잡고 2위로’ 강원FC, 강행군 뚫고 상위권 굳힌다",
-          "link": "https://www.kwnews.co.kr/article/20260820501572",
-          "press": "",
-          "date": "2026-08-20"
-        },
-        {
-          "title": "이동경 7연속 공격P 쌓고 전북 원정 징크스 깬다",
-          "link": "https://www.ulsanpress.net/news/articleView.html?idxno=581399",
-          "press": "",
-          "date": "2026-08-20"
-        }
-      ],
-      "rank": 9
-    },
-    {
-      "keyword": "대한민국 방위사업청",
-      "traffic": "200+",
-      "blogTotal": 1173,
-      "newsTotal": 23255,
-      "recentToday": 0,
-      "recentWeek": 2,
-      "topBlogs": [
-        {
-          "title": "방위사업청 국방용어사전 18201-18300 : 전세계 5위 방위산업국가 대한....",
-          "link": "https://ilovebusiness.tistory.com/5178",
-          "blogger": "아이러브비즈니스",
-          "date": "2023-03-31"
-        },
-        {
-          "title": "방위사업청 국방용어사전 1-10000 리스트 링크 : 전세계 5위 방위산업....",
-          "link": "https://richcat.tistory.com/16117",
-          "blogger": "리치캣의 현재 그리고 미래",
-          "date": "2023-03-14"
-        },
-        {
-          "title": "조선에도 방위사업청이 있었다? 군기시로 살펴보는 자주국방의 역....",
-          "link": "https://blog.naver.com/dapapr/224370211117",
-          "blogger": "방위사업청 공식 블로그",
-          "date": "2026-08-06"
-        },
-        {
-          "title": "279편. 방위사업청과 SNT 변속기 | 그리고 DV27K엔진 | 대한민국 전차 전....",
-          "link": "https://blog.naver.com/notenter9/224196758342",
-          "blogger": "전동공구 배터리수리 / 구동계·엔진 중심 역사. 기술",
-          "date": "2026-02-27"
-        },
-        {
-          "title": "한민족의 기원 단군과 민족 성씨의 유래",
-          "link": "https://boq545.tistory.com/11808929",
-          "blogger": "부동산시장",
-          "date": "2017-10-06"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "국민의힘 장동혁·정점식 “이재명 재판 재개가 부패 청산 1호 과제”",
-          "link": "http://www.breaknews.com/1230748",
-          "press": "",
-          "date": "2026-08-21"
-        },
-        {
-          "title": "용산공원에 아파트를 짓자 단, 한 채도 팔지 말고",
-          "link": "https://slownews.kr/165274",
-          "press": "",
-          "date": "2026-08-21"
-        },
-        {
-          "title": "LIG D&A “임원 뇌물 혐의 ‘한국형 전자전기’ 수주와 무관”",
-          "link": "http://www.thebigdata.co.kr/view.php?ud=202608211736424963570d99e4c8_23",
-          "press": "",
-          "date": "2026-08-21"
-        },
-        {
-          "title": "LIG D&A, “뇌물 혐의와 전자전기 사업 수주는 무관”…향후 법적 절차 ...",
-          "link": "https://www.news2day.co.kr/article/20260821500251",
-          "press": "",
-          "date": "2026-08-21"
-        },
-        {
-          "title": "LIG D&A, 임원 뇌물 혐의에 “전자전기 사업과는 무관”",
-          "link": "https://www.mediapen.com/news/view/1118103",
-          "press": "",
-          "date": "2026-08-21"
-        }
-      ],
       "rank": 10
     }
   ]
