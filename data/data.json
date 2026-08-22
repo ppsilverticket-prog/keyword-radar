@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-22T15:45:23.350Z",
+  "updatedAt": "2026-08-22T16:19:52.098Z",
   "source": "live",
   "keywords": [
     {
       "keyword": "챔피언십",
-      "traffic": "5000+",
-      "blogTotal": 184784,
-      "newsTotal": 1442443,
-      "recentToday": 97,
+      "traffic": "200+",
+      "blogTotal": 184787,
+      "newsTotal": 1442444,
+      "recentToday": 93,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -43,14 +43,14 @@
       ],
       "topNews": [
         {
-          "title": "'김상식 매직, 박항서 전설 뛰어넘나?' 베트남, 태국 원정서 2-0 완승......",
-          "link": "http://www.osen.co.kr/article/G1112862105",
+          "title": "김상식호 베트남, 태국 원정서 2-0...아세안 현대컵 2연패 눈앞",
+          "link": "https://www.newspim.com/news/view/20260823000003",
           "press": "",
           "date": "2026-08-22"
         },
         {
-          "title": "[mhn포토] 배소현, 최대한 멀리 날린다",
-          "link": "https://mhnse.com/news/articleView.html?idxno=1498781",
+          "title": "'김상식 매직, 박항서 전설 뛰어넘나?' 베트남, 태국 원정서 2-0 완승......",
+          "link": "http://www.osen.co.kr/article/G1112862105",
           "press": "",
           "date": "2026-08-22"
         },
@@ -61,14 +61,14 @@
           "date": "2026-08-22"
         },
         {
-          "title": "[mhn포토] 배소현-김수찬, 캐디 수찬 잘생겼다",
-          "link": "https://mhnse.com/news/articleView.html?idxno=1498783",
+          "title": "[mhn포토] 배소현, 최대한 멀리 날린다",
+          "link": "https://mhnse.com/news/articleView.html?idxno=1498781",
           "press": "",
           "date": "2026-08-22"
         },
         {
-          "title": "[mhn포토] 배소현, 핀 하이로 날린다",
-          "link": "https://mhnse.com/news/articleView.html?idxno=1498771",
+          "title": "[mhn포토] 배소현-김수찬, 캐디 수찬 잘생겼다",
+          "link": "https://mhnse.com/news/articleView.html?idxno=1498783",
           "press": "",
           "date": "2026-08-22"
         }
@@ -76,86 +76,19 @@
       "rank": 1
     },
     {
-      "keyword": "삼성라이온즈",
-      "traffic": "200+",
-      "blogTotal": 146829,
-      "newsTotal": 808667,
-      "recentToday": 88,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "에잇세컨즈 삼성 라이온즈 콜라보 후기｜직접 입어본 사이즈와 실....",
-          "link": "https://blog.naver.com/perfect1726/224372017522",
-          "blogger": "워너비베짱이",
-          "date": "2026-08-08"
-        },
-        {
-          "title": "삼성라이온즈X에잇세컨즈 콜라보 구매•실착후기(스포티칼라넥L, ....",
-          "link": "https://blog.naver.com/dutjs05/224372485742",
-          "blogger": "선선한 일상기록",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "대구 삼성 라이온즈파크 외야지정석 LF 6구역 시야 좌석 예매 흡연실....",
-          "link": "https://blog.naver.com/milky_way159/224364580046",
-          "blogger": "고양이들과 함께하는 집사의 일상",
-          "date": "2026-08-01"
-        },
-        {
-          "title": "[야구] 삼성라이온즈 X 에잇세컨즈 예약판매 라인업 일정과 품목 정....",
-          "link": "https://blog.naver.com/mutal8687/224374280178",
-          "blogger": "일상의 쉼표",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "삼성라이온즈파크 원정응원석 좌석 시야, 먹거리,가는법까지 총정....",
-          "link": "https://blog.naver.com/btobtwice000/224330354043",
-          "blogger": "yullkoo",
-          "date": "2026-06-29"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "'김지찬-최형우 펄펄' 삼성, NC 상대 짜릿한 역전승…연패 끊고 1위 KT 1...",
-          "link": "https://www.xportsnews.com/article/2186843",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "'0이닝 4실점' 굴욕 삭제, '원정불패' 김재윤 1⅓이닝 SV 난타전 잠재웠...",
-          "link": "http://www.osen.co.kr/article/G1112862089",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "'승승승승승' 롯데 무려 333일 만에 6데 등극! 가을야구 확률 3.7% 급상승...",
-          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1003278",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "'대구 마스터즈 육상대회' 일정은? 차량 통제구간 확인하세요",
-          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3671596",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "[2026 프로야구 경기일정] 8월 23일 선발투수와 생중계 채널",
-          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3671607",
-          "press": "",
-          "date": "2026-08-22"
-        }
-      ],
-      "rank": 2
-    },
-    {
       "keyword": "꽃파당",
       "traffic": "1000+",
-      "blogTotal": 10318,
+      "blogTotal": 10321,
       "newsTotal": 10944,
       "recentToday": 76,
       "recentWeek": 100,
       "topBlogs": [
+        {
+          "title": "조선혼담공작소 꽃파당 기본정보 등장인물 고영수 도준 줄거리 결....",
+          "link": "https://blog.naver.com/travelhyuk/224378952470",
+          "blogger": "임씨의 지구를 지켜라!!",
+          "date": "2026-08-14"
+        },
         {
           "title": "《아파트》 후속이 박지훈·변우석 사극이라고? 7년 만에  《조선혼....",
           "link": "https://blog.naver.com/kwaang2/224380411241",
@@ -179,12 +112,6 @@
           "link": "https://blog.naver.com/whyschool07/224375788179",
           "blogger": "와이스쿨",
           "date": "2026-08-12"
-        },
-        {
-          "title": "조선혼담공작소 꽃파당 기본정보 등장인물 고영수 도준 줄거리 결....",
-          "link": "https://blog.naver.com/travelhyuk/224378952470",
-          "blogger": "임씨의 지구를 지켜라!!",
-          "date": "2026-08-14"
         }
       ],
       "topNews": [
@@ -219,13 +146,13 @@
           "date": "2026-08-22"
         }
       ],
-      "rank": 3
+      "rank": 2
     },
     {
       "keyword": "정재환",
       "traffic": "2000+",
-      "blogTotal": 6047,
-      "newsTotal": 11475,
+      "blogTotal": 6048,
+      "newsTotal": 11476,
       "recentToday": 73,
       "recentWeek": 100,
       "topBlogs": [
@@ -262,6 +189,12 @@
       ],
       "topNews": [
         {
+          "title": "'그알' 정재환, 21분 녹음 속 담긴 잔혹 진실⋯\"범행 후 인증샷 찍었다...",
+          "link": "https://www.etoday.co.kr/news/view/2617067",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
           "title": "'경산 친구 살해범' 정재환, CCTV 분석한 전문가 \"신체적 제약 없어 보여...",
           "link": "https://www.slist.kr/news/articleView.html?idxno=760569",
           "press": "",
@@ -284,10 +217,77 @@
           "link": "https://www.sportschosun.com/entertainment/2026-08-22/202608220100131730008416",
           "press": "",
           "date": "2026-08-22"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "keyword": "청소업체",
+      "traffic": "100+",
+      "blogTotal": 2427289,
+      "newsTotal": 211005,
+      "recentToday": 49,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "가스렌지후드 주방후드청소 셀프VS업체 정확한 기준!",
+          "link": "https://blog.naver.com/lovelymmmmee/224328954324",
+          "blogger": "날마다 유쾌한 러펭",
+          "date": "2026-06-27"
         },
         {
-          "title": "‘그알’ 나체 살인범 정재환의 민낯…“이 정도까지 훼손된 고인은 처...",
-          "link": "http://enews.imbc.com/News/RetrieveNewsInfo/515564",
+          "title": "서울 입주 청소 업체 및 견적 정리",
+          "link": "https://blog.naver.com/loveingshg/224354607132",
+          "blogger": "ESTJ 예비신부의 슬기로운 결혼준비 웨딩생활",
+          "date": "2026-07-22"
+        },
+        {
+          "title": "[내돈내산 광고X ]에어컨청소 10만원 원룸 복층 완전분해청소업체 단....",
+          "link": "https://blog.naver.com/hayoon_record92/224301947214",
+          "blogger": "하융이네 ෆ",
+          "date": "2026-05-31"
+        },
+        {
+          "title": "수원 특수청소 업체 가격 쓰레기집청소 후기정보",
+          "link": "https://blog.naver.com/becks0809/224313026514",
+          "blogger": "도피오넬 : 인테리어 DIY, IT",
+          "date": "2026-06-11"
+        },
+        {
+          "title": "가죽 소파 클리닝 전문 업체 청소 새것처럼 복원이 되었습니다",
+          "link": "https://blog.naver.com/tomokkong1/224345356530",
+          "blogger": "피에스케어 / 서울경기 / 소파 매트리스 카페트",
+          "date": "2026-07-14"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "한·중 인적교류 864만명… 항공·면세 넘어 소비시장으로 확산",
+          "link": "https://www.segye.com/newsView/20260821512845?OutUrl=naver",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "'극한직업' 심마니의 산삼캐기와 포장이사 치열한 현장",
+          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3671535",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "“다시 청소해달라” 항의하자 오물 투척",
+          "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000546479",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "고객 집 거실에 '오물' 뿌린 청소업체 직원, 왜...법적 다툼까지",
+          "link": "https://www.mt.co.kr/society/2026/08/22/2026082214382632951",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "강기윤 창원시장 \"진해신항 등 미래 성장동력 선제 대응\"",
+          "link": "https://www.sidae.com/article/2026082211522141841",
           "press": "",
           "date": "2026-08-22"
         }
@@ -368,77 +368,150 @@
       "rank": 5
     },
     {
-      "keyword": "kick",
+      "keyword": "타짜",
       "traffic": "100+",
-      "blogTotal": 40045,
-      "newsTotal": 78057,
-      "recentToday": 6,
-      "recentWeek": 85,
+      "blogTotal": 53404,
+      "newsTotal": 87418,
+      "recentToday": 35,
+      "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "킥오프 뜻은 시작? 축구와 비즈니스에서 쓰는 kick off 의미",
-          "link": "https://blog.naver.com/sunzooland/224322101222",
-          "blogger": "La Vie En Rose",
-          "date": "2026-06-20"
+          "title": "'예고편 떴었네?' 타짜: 벨제붑의 노래 출연진, 등장인물, 스윙스 (한....",
+          "link": "https://blog.naver.com/jangkkoo/224374037533",
+          "blogger": "아나스타샤한 일기장",
+          "date": "2026-08-10"
         },
         {
-          "title": "[유행 영어 검증] 킥 KICK 한국인 & 미국인 용법 차이",
-          "link": "https://blog.naver.com/mettabudda/224357228516",
-          "blogger": "슬기 Sophia",
-          "date": "2026-07-25"
+          "title": "타짜 : 20년이 지난 지금에서야 본 명작",
+          "link": "https://blog.naver.com/9lovehouse/224351976097",
+          "blogger": "마음이 편한 집, 구애하우스",
+          "date": "2026-07-21"
         },
         {
-          "title": "킥오프 뜻 Kick off 월드컵부터 일상까지 완벽정리",
-          "link": "https://blog.naver.com/freepms1/224320105998",
-          "blogger": "트렌디 잉글리시 벨라",
-          "date": "2026-06-18"
+          "title": "영화 ‘타짜: 벨제붑의 노래’ 9월 개봉…변요한이 장식하는 20년 시....",
+          "link": "https://blog.naver.com/dugongtee/224380876679",
+          "blogger": "dugongtee님의 블로그",
+          "date": "2026-08-17"
         },
         {
-          "title": "킥오프 뜻, 미팅·회의에서 자주 쓰는 비즈니스영어 Kick off 의미는?",
-          "link": "https://blog.naver.com/ink2777/224314922702",
-          "blogger": "잇찌와 업글인간",
-          "date": "2026-06-13"
+          "title": "마지막 타짜 영화 벨제붑 보기전 필수 숙지할 정보",
+          "link": "https://blog.naver.com/men4k/224377214337",
+          "blogger": "온에어 유민로그✨",
+          "date": "2026-08-13"
         },
         {
-          "title": "Kicks 뜻 완벽 정리 — 발차기부터 '운동화 슬랭'까지 한 번에",
-          "link": "https://blog.naver.com/fpemf01/224368740750",
-          "blogger": "잡잡",
-          "date": "2026-08-05"
+          "title": "타짜오리하우스, 수원 맛집 베스트10 중 1위 추천",
+          "link": "https://blog.naver.com/happy_ben/224374407066",
+          "blogger": "태국 3년 살면, 아이랑 여행은 껌이지!",
+          "date": "2026-08-13"
         }
       ],
       "topNews": [
         {
-          "title": "Tupac Shakur Murder Trial: 5 Takeaways From Week 1",
-          "link": "https://www.nytimes.com/2026/08/22/arts/music/tupac-shakur-murder-trial-takeaways.html?partner=naver",
+          "title": "이동휘, 연습실 셀카 속 여유…예능·영화로 바쁜 행보",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16170408",
           "press": "",
           "date": "2026-08-22"
         },
         {
-          "title": "이번주 국내 주요 금융일정(8.24~8.28)",
-          "link": "https://www.newspim.com/news/view/20260821000888",
+          "title": "'파반느'부터 '면도'까지...2026년은 온통 '변요한'",
+          "link": "https://www.harpersbazaar.co.kr/article/1908344",
           "press": "",
           "date": "2026-08-22"
         },
         {
-          "title": "[다음주 한국은행 및 금융위·금감원 일정]",
-          "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431315",
+          "title": "\"대역 안 썼다\"…변요한·노재원, ‘타짜’ 마지막판 위해 수개월 연습...",
+          "link": "https://mhnse.com/news/articleView.html?idxno=1497767",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "영화 '레디 오어 낫: 죽음의 숨바꼭질' 사마라 위빙 주연 \"들키면 죽는다...",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16170141",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "영화 '타겟' 신혜선X김성균 \"살인자와 중고거래\" 현실 공포 '접속무비월...",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16170134",
+          "press": "",
+          "date": "2026-08-22"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "keyword": "블리치",
+      "traffic": "100+",
+      "blogTotal": 55284,
+      "newsTotal": 4644,
+      "recentToday": 26,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "블리치 순서 총정리, OTT부터 천년혈전까지",
+          "link": "https://blog.naver.com/binily/224381653130",
+          "blogger": "리뷰하는 삼겹살",
+          "date": "2026-08-18"
+        },
+        {
+          "title": "블리치 천년혈전 화진담 4기 3화 43화 이치고 각성",
+          "link": "https://blog.naver.com/dydtmd4/224373055182",
+          "blogger": "쩌는블로그",
+          "date": "2026-08-09"
+        },
+        {
+          "title": "블리치 천년혈전 화진담 어른 토시로 성우 카지 유우키 캐스팅",
+          "link": "https://blog.naver.com/ptj0969/224380670437",
+          "blogger": "에레키맨의 무겐 블로그",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "블리치 0번대 효스베 이치베(눈망울 스님) 흑막설 힘의 근원 성우 누....",
+          "link": "https://blog.naver.com/saontsdkss119/224376694603",
+          "blogger": "샹크스",
+          "date": "2026-08-13"
+        },
+        {
+          "title": "블리치 천년혈전 화진담 4기 1화 애니 후기, OTT 보는곳 및 몇부작",
+          "link": "https://blog.naver.com/didcjddns/224357973760",
+          "blogger": "청양의 하는둥 마는둥",
+          "date": "2026-07-26"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "[속보] 65회 랠리는 졌어도…안세영, '동점만 14번' 왕즈이와 4강 첫 게...",
+          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1003282",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "\"바람 때문에 샷 컨트롤 어려웠다\" 안세영, 흔들리고도 세계 5위 격파.....",
+          "link": "http://www.osen.co.kr/article/G1112861723",
           "press": "",
           "date": "2026-08-21"
         },
         {
-          "title": "다음주 금융당국 일정",
-          "link": "https://www.edaily.co.kr/News/Read?newsId=01718726645549944&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+          "title": "'흔들렸던' 안세영 이례적 발언 \"샷 컨트롤에서 조금 어려움 있었다\"......",
+          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1003074",
           "press": "",
           "date": "2026-08-21"
         },
         {
-          "title": "The Local: Drama in the Boundary Waters",
-          "link": "https://www.nytimes.com/2026/08/21/us/the-local-boundary-waters.html?partner=naver",
+          "title": "'파죽지세' 안세영, 中 한웨 꺾고 세계선수권 준결승 진출…동메달 확보",
+          "link": "https://www.news1.kr/sports/general-sport/6266119",
+          "press": "",
+          "date": "2026-08-21"
+        },
+        {
+          "title": "안세영, 1게임 고전했으나 2게임 압도하면서 한웨에 2-0 완승…인도 세...",
+          "link": "http://www.stoo.com/article.php?aid=108445086915",
           "press": "",
           "date": "2026-08-21"
         }
       ],
-      "rank": 6
+      "rank": 7
     },
     {
       "keyword": "고레츠카",
@@ -511,11 +584,11 @@
           "date": "2026-07-05"
         }
       ],
-      "rank": 7
+      "rank": 8
     },
     {
       "keyword": "우 서윤",
-      "traffic": "5000+",
+      "traffic": "10000+",
       "blogTotal": 78,
       "newsTotal": 24,
       "recentToday": 0,
@@ -584,13 +657,13 @@
           "date": "2022-04-11"
         }
       ],
-      "rank": 8
+      "rank": 9
     },
     {
       "keyword": "공항",
       "traffic": "100+",
-      "blogTotal": 5832730,
-      "newsTotal": 5038880,
+      "blogTotal": 5832766,
+      "newsTotal": 5038881,
       "recentToday": 0,
       "recentWeek": 100,
       "topBlogs": [
@@ -627,6 +700,12 @@
       ],
       "topNews": [
         {
+          "title": "전남광주통합특별시, 하반기 조직개편안 입법예고",
+          "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=316411",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
           "title": "1238회 로또 4매 동시 배출점 등 명당 주소 총정리…1등 18곳·2등 76곳",
           "link": "https://www.econovill.com/news/articleView.html?idxno=748662",
           "press": "",
@@ -649,85 +728,6 @@
           "link": "https://news.tf.co.kr/read/life/2356826.htm",
           "press": "",
           "date": "2026-08-22"
-        },
-        {
-          "title": "'제이쓴♥' 홍현희, '4살 아들' 현실 육아…\"엄마 방은 화장실\" ('유부녀...",
-          "link": "https://www.tenasia.co.kr/article/2026082262294",
-          "press": "",
-          "date": "2026-08-22"
-        }
-      ],
-      "rank": 9
-    },
-    {
-      "keyword": "thailand vs vietnam",
-      "traffic": "100+",
-      "blogTotal": 13,
-      "newsTotal": 247,
-      "recentToday": 0,
-      "recentWeek": 0,
-      "topBlogs": [
-        {
-          "title": "외래어 표기 용례 :: Power to surprise.",
-          "link": "https://ppua.tistory.com/32",
-          "blogger": "Power to surprise. :: Power to surprise.",
-          "date": "2013-12-12"
-        },
-        {
-          "title": "[2022 카타르] 한 눈에 보는 아시아 예선 2라운드",
-          "link": "https://ss036024.tistory.com/2242",
-          "blogger": "ss036024 님의 블로그",
-          "date": "2019-11-20"
-        },
-        {
-          "title": "전기차의 선택, 테슬라 모델3, 모델Y 고민",
-          "link": "https://jinylife.com/62",
-          "blogger": "Jiny's special life",
-          "date": "2021-03-15"
-        },
-        {
-          "title": "동남아 야간기차 여행 비교: 방콕-치앙마이 vs. 호찌민-하노이",
-          "link": "https://ohlle.tistory.com/2522",
-          "blogger": "올레웹진",
-          "date": "2025-02-14"
-        },
-        {
-          "title": "Dynamide Tistory :: 디나미데 티스토리",
-          "link": "https://dynamide.tistory.com/17406",
-          "blogger": "물병자리 시대의 여명 :: 디나미데 티스토리",
-          "date": "2019-03-27"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "Slow Letter: August 11, 2026.",
-          "link": "https://slownews.kr/164668",
-          "press": "",
-          "date": "2026-08-11"
-        },
-        {
-          "title": "Korean Beauty Trade Monitor:K-Beauty Mask Pack Exports Surge 48.8% YoY as...",
-          "link": "https://www.thebk.co.kr/news/articleView.html?idxno=309731",
-          "press": "",
-          "date": "2026-05-31"
-        },
-        {
-          "title": "Korean Beauty Trade Monitor:K-Beauty Face Powder Exports Fall 9.1% YoY Am...",
-          "link": "https://www.thebk.co.kr/news/articleView.html?idxno=309729",
-          "press": "",
-          "date": "2026-05-30"
-        },
-        {
-          "title": "[7]K-Beauty\" mask packs overcome China's Sluggishness, Rebounding Globall...",
-          "link": "https://www.thebk.co.kr/news/articleView.html?idxno=303594",
-          "press": "",
-          "date": "2025-11-04"
-        },
-        {
-          "title": "A Big Moment for Women in India",
-          "link": "https://www.nytimes.com/2025/11/03/world/cricket-women-india-new-york-zohran-mamdani-bangkok.html?partner=naver",
-          "press": "",
-          "date": "2025-11-03"
         }
       ],
       "rank": 10
