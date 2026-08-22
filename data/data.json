@@ -1,74 +1,74 @@
 {
-  "updatedAt": "2026-08-22T09:50:35.810Z",
+  "updatedAt": "2026-08-22T10:19:42.582Z",
   "source": "live",
   "keywords": [
     {
-      "keyword": "카자흐스탄",
-      "traffic": "100+",
-      "blogTotal": 71256,
-      "newsTotal": 334538,
+      "keyword": "예산",
+      "traffic": "500+",
+      "blogTotal": 1556008,
+      "newsTotal": 8017688,
       "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "공항에서 여행지 고르기?! 나혼자산다 전현무 카자흐스탄 즉흥 여행....",
-          "link": "https://blog.naver.com/shushu9988/224379346949",
-          "blogger": "재린슈슈의 리뷰노트",
+          "title": "백종원 예산시장 맛집 무더운 8월 방문 후기 (먹거리 추천, 주차)",
+          "link": "https://blog.naver.com/huio12345/224378412477",
+          "blogger": "'지만길의 이랏샤이마세'",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "[예산] 예산 스플라스 리솜 워터파크 친구들과 다녀온 후기 온천수....",
+          "link": "https://blog.naver.com/zooilet/224379830340",
+          "blogger": "발빠짐 주희",
           "date": "2026-08-15"
         },
         {
-          "title": "카자흐스탄 여행 패키지 NO, 알마티 자유 여행 4박 5일 코스 일정",
-          "link": "https://blog.naver.com/bian258/224379470627",
-          "blogger": "지구는 둥그니까",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "나혼자산다 전현무 카자흐스탄 알마티 여행 코스 그린바자르 콕토....",
-          "link": "https://blog.naver.com/halosoy/224380993707",
-          "blogger": "또이빈의 내일도 여행중",
+          "title": "예산시장 디저트 추천 백월당 예산시장맛집 간식·답례품으로 딱!",
+          "link": "https://blog.naver.com/dbsry5742/224381381394",
+          "blogger": "영로그_예쁘고 맛있고 좋은것만",
           "date": "2026-08-17"
         },
         {
-          "title": "[나혼자산다] 전현무 카자흐스탄 알마티 양고기 맛집 '베네치아' 위....",
-          "link": "https://blog.naver.com/lovesbn7/224379829122",
-          "blogger": "다락방에디터",
-          "date": "2026-08-15"
+          "title": "[예산 맛집] 예산시장에 가면 꼭 들러야 하는 예산시장디저트 맛집 ....",
+          "link": "https://blog.naver.com/onlynambace/224369702755",
+          "blogger": "여기서 행복할것♥",
+          "date": "2026-08-06"
         },
         {
-          "title": "나혼산 전현무 카자흐스탄 알마티 여행, 위치·비행시간·그린 바자....",
-          "link": "https://blog.naver.com/sol_900516/224379269807",
-          "blogger": "아이와 함께 크는 벨르언니",
-          "date": "2026-08-15"
+          "title": "[예산 스플라스 리솜] 위터파크, 리조트 후기 (필수 준비물, 어트렉....",
+          "link": "https://blog.naver.com/heewonyy2/224366569489",
+          "blogger": "니원‘s",
+          "date": "2026-08-03"
         }
       ],
       "topNews": [
         {
-          "title": "이지훈, 뮤지컬 데뷔 10년차 \"최백호 컬래버 준비...악보까지 보내\"",
-          "link": "https://www.slist.kr/news/articleView.html?idxno=760547",
+          "title": "[B11 현장] '골 없는 에이스' 바사니… 포항전 앞둔 부천 이영민 감독, ...",
+          "link": "https://www.besteleven.com/news/articleView.html?idxno=311429",
           "press": "",
           "date": "2026-08-22"
         },
         {
-          "title": "영풍문고, 김동우 작가와 '독립운동 기록' 조명",
-          "link": "http://www.ikld.kr/news/articleView.html?idxno=339373",
+          "title": "[집은 거주용이라더니②] '가난해야 들어가는 집'…공공임대는 왜 '중산...",
+          "link": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=521544",
           "press": "",
           "date": "2026-08-22"
         },
         {
-          "title": "[14th 부코페] 마술·코미디의 만남…신비로운 '더블' 속으로(종합)",
-          "link": "https://news.tf.co.kr/read/entertain/2356820.htm",
+          "title": "김대중 전남광주교육감, 지방교육재정교부금 개편 공개 반대",
+          "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000058711",
           "press": "",
           "date": "2026-08-22"
         },
         {
-          "title": "美연방법원, 75개국 이민 비자 발급 중단 제동…백악관 침묵",
-          "link": "https://www.newsis.com/view/NISX20260822_0003758516",
+          "title": "민주당 김영배, 오세훈 시장과 회동…용산공원 활용·그린벨트 해제 ‘...",
+          "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8643455&ref=A",
           "press": "",
           "date": "2026-08-22"
         },
         {
-          "title": "김민수, 러시아를 안무하다",
-          "link": "https://www.thereport.co.kr/news/articleView.html?idxno=90678",
+          "title": "23일 충남·충북 15곳 폭염주의보…밤엔 열대야",
+          "link": "https://www.cctoday.co.kr/news/articleView.html?idxno=2235298",
           "press": "",
           "date": "2026-08-22"
         }
@@ -77,10 +77,10 @@
     },
     {
       "keyword": "대전광역시",
-      "traffic": "200+",
-      "blogTotal": 342474,
+      "traffic": "500+",
+      "blogTotal": 342475,
       "newsTotal": 250518,
-      "recentToday": 96,
+      "recentToday": 97,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -96,12 +96,6 @@
           "date": "2026-08-01"
         },
         {
-          "title": "대전 유성구 도룡동 한식 전문 식당 <녹원 간장게장> 후기",
-          "link": "https://blog.naver.com/qmffor03264/224378282481",
-          "blogger": "복춘이에게 복이 있나니~",
-          "date": "2026-08-14"
-        },
-        {
           "title": "[대전] 대전 유성구 성심당 DCC점 평일 오후 방문 후기",
           "link": "https://blog.naver.com/pqks9608/224369757805",
           "blogger": "나의 기록 장소",
@@ -111,6 +105,12 @@
           "title": "대전 관평동 맛집 팔공산엄마밥상 대전점",
           "link": "https://blog.naver.com/owol0407/224378946893",
           "blogger": "May,",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "대전 유성구 도룡동 한식 전문 식당 <녹원 간장게장> 후기",
+          "link": "https://blog.naver.com/qmffor03264/224378282481",
+          "blogger": "복춘이에게 복이 있나니~",
           "date": "2026-08-14"
         }
       ],
@@ -149,84 +149,11 @@
       "rank": 2
     },
     {
-      "keyword": "박신혜",
-      "traffic": "200+",
-      "blogTotal": 65905,
-      "newsTotal": 182795,
-      "recentToday": 76,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "\"반지하에서 톱배우까지\" 배우 박신혜, 부모님 향한 효심이 더 감동....",
-          "link": "https://blog.naver.com/sky5274949/224344855063",
-          "blogger": "스타뷰 매거진",
-          "date": "2026-07-13"
-        },
-        {
-          "title": "조승우 박신혜가 만났지만 멜로가 발목 잡은 200억 SF 드라마 | 시청....",
-          "link": "https://blog.naver.com/cjm03199/224374409854",
-          "blogger": "도파민 다이어리",
-          "date": "2026-08-11"
-        },
-        {
-          "title": "반지하에서 시작해 부모님을 건물주로… 아역스타 박신혜, 결혼 후....",
-          "link": "https://blog.naver.com/popcorn2999/224352261630",
-          "blogger": "오늘한장(TODAY ONE PAGE)",
-          "date": "2026-07-20"
-        },
-        {
-          "title": "박신혜 남편 최태준 프로필과 첫 만남 이야기",
-          "link": "https://blog.naver.com/nhc5782/224310916429",
-          "blogger": "nhc5782님의블로그",
-          "date": "2026-06-09"
-        },
-        {
-          "title": "\"그냥 친구예요\"라던 박신혜, 5년 만에 최태준과 결혼까지 골인한 사....",
-          "link": "https://blog.naver.com/blackdady76/224325398398",
-          "blogger": "아빠의 밤",
-          "date": "2026-06-24"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "“박신혜 뺨 몇 대나 때렸는지 모른다”…지금도 미안하다는 이휘향, 무...",
-          "link": "https://www.mk.co.kr/article/12133842",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "이휘향 \"'천국의 계단'서 첫 악역...아역 박신혜 뺨 때리는 연기, 지금도...",
-          "link": "https://www.tvreport.co.kr/breaking/article/1070367/",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "14살 박신혜 뺨 30대 때린 이휘향 “23년째 미안해, 얼마나 아팠겠어”...",
-          "link": "https://www.newsen.com/news_view.php?uid=202608221403142510",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "“박신혜한테 늘 미안해” 이휘향, ‘천국의 계단’ 전설적인 따귀 장면...",
-          "link": "http://enews.imbc.com/News/RetrieveNewsInfo/515542",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "이휘향 \"14살 박신혜에 따귀 서른 대…늘 미안하다\"",
-          "link": "https://www.newsis.com/view/NISX20260822_0003758353",
-          "press": "",
-          "date": "2026-08-22"
-        }
-      ],
-      "rank": 3
-    },
-    {
       "keyword": "베를린",
       "traffic": "200+",
       "blogTotal": 258369,
       "newsTotal": 510229,
-      "recentToday": 69,
+      "recentToday": 72,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -280,7 +207,7 @@
           "date": "2026-08-22"
         },
         {
-          "title": "\"한국이 낳았지만 독일이 키웠다\"…獨서 대박 난 '韓 화장품'",
+          "title": "한국이 낳았지만 독일이 키웠다…인기 폭발한 'K화장품' 뭐길래",
           "link": "https://www.hankyung.com/article/202608215079i",
           "press": "",
           "date": "2026-08-22"
@@ -292,14 +219,14 @@
           "date": "2026-08-22"
         }
       ],
-      "rank": 4
+      "rank": 3
     },
     {
       "keyword": "참교육",
       "traffic": "200+",
-      "blogTotal": 44899,
-      "newsTotal": 55954,
-      "recentToday": 31,
+      "blogTotal": 44900,
+      "newsTotal": 55955,
+      "recentToday": 32,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -335,6 +262,12 @@
       ],
       "topNews": [
         {
+          "title": "특수부대 출신 교사가 떴다?…현실판 ‘참교육’",
+          "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000546483",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
           "title": "드라마 ‘참교육’ 현실됐다…경기도, 교권보호전담관 출범",
           "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000005160&cp=nv",
           "press": "",
@@ -357,15 +290,9 @@
           "link": "https://biz.chosun.com/policy/policy_sub/2026/08/22/CJUJLVL2DRHIZGU6TDC4KVUMQA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
           "press": "",
           "date": "2026-08-22"
-        },
-        {
-          "title": "조용호 오산시장 “선생님이 존중받아야 아이들이 행복하게 배울 수 있...",
-          "link": "http://www.beyondpost.co.kr/view.php?ud=2026082215571160224c878f8fa1_30",
-          "press": "",
-          "date": "2026-08-22"
         }
       ],
-      "rank": 5
+      "rank": 4
     },
     {
       "keyword": "원태인",
@@ -438,7 +365,153 @@
           "date": "2026-08-21"
         }
       ],
+      "rank": 5
+    },
+    {
+      "keyword": "리벨리온",
+      "traffic": "100+",
+      "blogTotal": 7080,
+      "newsTotal": 22571,
+      "recentToday": 25,
+      "recentWeek": 63,
+      "topBlogs": [
+        {
+          "title": "리벨리온 주가, 미래를 움직이는 AI 칩의 현재와 미래",
+          "link": "https://blog.naver.com/cosefel33/224366663860",
+          "blogger": "NSORA",
+          "date": "2026-08-08"
+        },
+        {
+          "title": "리벨리온은 어떤 회사? SK가 투자한 이유",
+          "link": "https://blog.naver.com/mianbao08/224376201479",
+          "blogger": "다가온 미래",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "**리벨리온 박성현 대표 프로필: 엔비디아 잡을 한국의 천재 (사피온....",
+          "link": "https://blog.naver.com/50504301/224324840581",
+          "blogger": "착한식용유",
+          "date": "2026-06-23"
+        },
+        {
+          "title": "미즈노 웨이브 리벨리온 프로 로우 후기 및 사이즈 고르는 법(Mizuno W....",
+          "link": "https://blog.naver.com/daein304/224237197085",
+          "blogger": "꿈은 없구요 놀고 싶습니다",
+          "date": "2026-04-01"
+        },
+        {
+          "title": "SKT·KT·삼성이 모두 점찍었다! 5조 밸류 리벨리온 상장 분석 (박성현....",
+          "link": "https://blog.naver.com/point3414/224294423935",
+          "blogger": "가자! 미래로~~",
+          "date": "2026-05-23"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "엔비디아, 'K-엔비디아' 리벨리온스 투자·인수 검토",
+          "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=546802",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "엔비디아, 국내 NPU 스타트업 리벨리온과 인수 협상 중",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214241",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "스타처럼 ‘동맹’ 맺거나, 혼자 뛰거나…‘모두의 AI’ 판에 던진 승부...",
+          "link": "https://www.segye.com/newsView/20260821503517?OutUrl=naver",
+          "press": "",
+          "date": "2026-08-21"
+        },
+        {
+          "title": "[미국 특징주] \"엔비디아, 한국 반도체 스타트업 리벨리온과 잠재적 거...",
+          "link": "https://www.newspim.com/news/view/20260822000002",
+          "press": "",
+          "date": "2026-08-21"
+        },
+        {
+          "title": "'카카오·SKT 등 총 6곳 공모… '모두의 AI' 주인공이 될 곳은?",
+          "link": "https://www.ggilbo.com/news/articleView.html?idxno=1176081",
+          "press": "",
+          "date": "2026-08-21"
+        }
+      ],
       "rank": 6
+    },
+    {
+      "keyword": "경비원",
+      "traffic": "500+",
+      "blogTotal": 73371,
+      "newsTotal": 159216,
+      "recentToday": 25,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "◆ 일반경비원 현장  주요사항 지상 강의 ◆",
+          "link": "https://blog.naver.com/kingmin5976/224309906954",
+          "blogger": "대구 경비교육ㆍ신호수교육 포함ㅡ20년의 역사",
+          "date": "2026-06-08"
+        },
+        {
+          "title": "아파트 경비실은 언제 생겼을까｜관리인에서 CCTV 관제까지",
+          "link": "https://blog.naver.com/zipponet/224379458699",
+          "blogger": "아파트 생활정보 쉽게 정리",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "76세에 경비 서며 월 200 버는 어르신.. 연금 통장을 열어보니",
+          "link": "https://blog.naver.com/andtnl123/224351335523",
+          "blogger": "100억 자산가 남범",
+          "date": "2026-07-27"
+        },
+        {
+          "title": "문자 한 통으로 해고된 서울 노원구 상계보람아파트 아파트 경비원 ....",
+          "link": "https://blog.naver.com/hahakka/224324299771",
+          "blogger": "세상 주머니",
+          "date": "2026-06-23"
+        },
+        {
+          "title": "아파트 경비원 월급 300만 원 넘을까?",
+          "link": "https://blog.naver.com/dh6994/224319114434",
+          "blogger": "SBD",
+          "date": "2026-06-17"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "“욕망의 덫” 전혜원, 청마그룹 정면 돌파 선언…장서희 견제에도 자체...",
+          "link": "https://www.wikitree.co.kr/articles/1154130",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "\"초과 수당 2억4000만원 달라\"…경비원의 '치명적 실수' [사장님 고충백...",
+          "link": "https://www.hankyung.com/article/202608215344i",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "아파트 경비부터 제철소까지…IT서비스업계 ‘피지컬 AI’ 본격화",
+          "link": "https://www.sentv.co.kr/article/view/sentv202608210108",
+          "press": "",
+          "date": "2026-08-21"
+        },
+        {
+          "title": "[컬처N] 천선란 SF소설 첫 뮤지컬화...'이끼숲'이 꺼내는 공존의 메시지",
+          "link": "https://www.nc.press/news/articleView.html?idxno=624374",
+          "press": "",
+          "date": "2026-08-21"
+        },
+        {
+          "title": "놀이터 없애고 운동회도 중단... 아이들 뛰어놀 곳 쪼그라든다",
+          "link": "https://www.chosun.com/national/weekend/2026/08/22/NRL4CIDA7JBRTBXL25ELQNJDII/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+          "press": "",
+          "date": "2026-08-21"
+        }
+      ],
+      "rank": 7
     },
     {
       "keyword": "로카르노 영화제",
@@ -511,86 +584,13 @@
           "date": "2026-08-20"
         }
       ],
-      "rank": 7
-    },
-    {
-      "keyword": "경비원",
-      "traffic": "200+",
-      "blogTotal": 73370,
-      "newsTotal": 159216,
-      "recentToday": 24,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "◆ 일반경비원 현장  주요사항 지상 강의 ◆",
-          "link": "https://blog.naver.com/kingmin5976/224309906954",
-          "blogger": "대구 경비교육ㆍ신호수교육 포함ㅡ20년의 역사",
-          "date": "2026-06-08"
-        },
-        {
-          "title": "아파트 경비실은 언제 생겼을까｜관리인에서 CCTV 관제까지",
-          "link": "https://blog.naver.com/zipponet/224379458699",
-          "blogger": "아파트 생활정보 쉽게 정리",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "76세에 경비 서며 월 200 버는 어르신.. 연금 통장을 열어보니",
-          "link": "https://blog.naver.com/andtnl123/224351335523",
-          "blogger": "100억 자산가 남범",
-          "date": "2026-07-27"
-        },
-        {
-          "title": "문자 한 통으로 해고된 서울 노원구 상계보람아파트 아파트 경비원 ....",
-          "link": "https://blog.naver.com/hahakka/224324299771",
-          "blogger": "세상 주머니",
-          "date": "2026-06-23"
-        },
-        {
-          "title": "아파트 경비원 월급 300만 원 넘을까?",
-          "link": "https://blog.naver.com/dh6994/224319114434",
-          "blogger": "SBD",
-          "date": "2026-06-17"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "“욕망의 덫” 전혜원, 청마그룹 정면 돌파 선언…장서희 견제에도 자체...",
-          "link": "https://www.wikitree.co.kr/articles/1154130",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "\"초과 수당 2억4000만원 달라\"…경비원의 '치명적 실수' [사장님 고충백...",
-          "link": "https://www.hankyung.com/article/202608215344i",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "아파트 경비부터 제철소까지…IT서비스업계 ‘피지컬 AI’ 본격화",
-          "link": "https://www.sentv.co.kr/article/view/sentv202608210108",
-          "press": "",
-          "date": "2026-08-21"
-        },
-        {
-          "title": "[컬처N] 천선란 SF소설 첫 뮤지컬화...'이끼숲'이 꺼내는 공존의 메시지",
-          "link": "https://www.nc.press/news/articleView.html?idxno=624374",
-          "press": "",
-          "date": "2026-08-21"
-        },
-        {
-          "title": "놀이터 없애고 운동회도 중단... 아이들 뛰어놀 곳 쪼그라든다",
-          "link": "https://www.chosun.com/national/weekend/2026/08/22/NRL4CIDA7JBRTBXL25ELQNJDII/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-          "press": "",
-          "date": "2026-08-21"
-        }
-      ],
       "rank": 8
     },
     {
       "keyword": "도지",
       "traffic": "100+",
       "blogTotal": 77731,
-      "newsTotal": 108864,
+      "newsTotal": 108865,
       "recentToday": 18,
       "recentWeek": 100,
       "topBlogs": [
@@ -627,6 +627,12 @@
       ],
       "topNews": [
         {
+          "title": "밈코인 광풍에 도지코인(DOGE) 들썩…과매수 경고 속 급락 위험도",
+          "link": "http://coinreaders.com/254267",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
           "title": "[저녁 시세브리핑] 암호화폐 시장 상승세… 비트코인 77,483달러, 이더리...",
           "link": "https://www.tokenpost.kr/news/briefing/395605",
           "press": "",
@@ -649,83 +655,77 @@
           "link": "https://www.tokenpost.kr/news/briefing/395599",
           "press": "",
           "date": "2026-08-22"
-        },
-        {
-          "title": "[알트 현물 ETF] XRP·SOL 등 4종 순유입...BNB는 순유출",
-          "link": "https://www.tokenpost.kr/news/cryptocurrency/395573",
-          "press": "",
-          "date": "2026-08-22"
         }
       ],
       "rank": 9
     },
     {
-      "keyword": "버크셔 해서웨이",
+      "keyword": "인천e음",
       "traffic": "200+",
-      "blogTotal": 21132,
-      "newsTotal": 42010,
-      "recentToday": 14,
-      "recentWeek": 100,
+      "blogTotal": 9574,
+      "newsTotal": 19171,
+      "recentToday": 4,
+      "recentWeek": 50,
       "topBlogs": [
         {
-          "title": "버크셔 해서웨이 회사 분석-1. 뭐하는 회사일까?",
-          "link": "https://blog.naver.com/hb240331/224345814801",
-          "blogger": "곰남부부의 기록집",
-          "date": "2026-07-14"
+          "title": "인천시 고유가피해지원금 사용처인천e음부터 주유소까지 완전 정리",
+          "link": "https://blog.naver.com/socu2047/224303297723",
+          "blogger": "실시간 나라용돈",
+          "date": "2026-06-08"
         },
         {
-          "title": "버크셔해서웨이 A B 뭘 사는게 돈을 더 벌까",
-          "link": "https://blog.naver.com/humanresource/224337014651",
-          "blogger": "열달애비",
-          "date": "2026-07-05"
+          "title": "인천이음카드 주유소 캐시백 종료됐지만 e음카드 20% 적용되는 연매....",
+          "link": "https://blog.naver.com/duswnswlstlf/224323024614",
+          "blogger": "이기사 블로그",
+          "date": "2026-06-22"
         },
         {
-          "title": "워런버핏 없는 버크셔 해서웨이의 뜻밖의 전망",
-          "link": "https://blog.naver.com/alcmskfl17/224380617795",
-          "blogger": "피끄의 실험실",
-          "date": "2026-08-16"
+          "title": "인천 추석 민생지원금 \"인천e음 캐시백 10%·지자체 추가 총정리\"",
+          "link": "https://blog.naver.com/bunny3813/224378936892",
+          "blogger": "삼만리",
+          "date": "2026-08-14"
         },
         {
-          "title": "재파 미국 관심종목 분석하기 1. 버크셔 해서웨이",
-          "link": "https://blog.naver.com/bossmaeng1006/224341205611",
-          "blogger": "행복한 시간들",
-          "date": "2026-07-09"
+          "title": "인천e음 캐시백, 예산 조기 소진되면 일시 중단 — 이미 주유 캐시백....",
+          "link": "https://blog.naver.com/masteryoung/224342417110",
+          "blogger": "고래도시 뉴스룸",
+          "date": "2026-07-10"
         },
         {
-          "title": "버크셔 해서웨이 B VS S&P 500",
-          "link": "https://blog.naver.com/ejjhause/224373356426",
-          "blogger": "verified nonsense",
-          "date": "2026-08-09"
+          "title": "인천이음카드 캐시백 언제 다시 시작될까? 현재 상황과 재개 예상 ....",
+          "link": "https://blog.naver.com/van_pay_corp/224354805249",
+          "blogger": "인천정보통신네트워크 신용카드단말기 포스",
+          "date": "2026-07-22"
         }
       ],
       "topNews": [
         {
-          "title": "[서울데이터랩]미국 증시 상승 마감…다우 0.98% 올라 강세, 반도체는 차...",
-          "link": "https://www.seoul.co.kr/news/economy/securities/2026/08/22/20260822500008?wlog_tag3=naver",
+          "title": "[단독] 인천e음 캐시백 부활…9월21일 재개·지급률 10% 적용",
+          "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1330114",
           "press": "",
           "date": "2026-08-22"
         },
         {
-          "title": "\"살 만한 종목이 없다\"…美증시 최고가에도 버핏은 '한숨'",
-          "link": "https://www.newsis.com/view/NISX20260821_0003757716",
+          "title": "지역소멸 위험 가중 강화군, ‘사람이 머무는 동네’ 대전환 시동 [밀착...",
+          "link": "https://www.segye.com/newsView/20260821507754?OutUrl=naver",
           "press": "",
           "date": "2026-08-21"
         },
         {
-          "title": "20년째 아름다운 동행…브리지 대중화 이끄는 현대백화점",
-          "link": "https://www.mk.co.kr/article/12133613",
+          "title": "인천시의회, 9월 1~18일 임시회 열어 제2회 추경안 등 심의",
+          "link": "http://www.incheonin.com/news/articleView.html?idxno=120206",
           "press": "",
           "date": "2026-08-21"
         },
         {
-          "title": "스트라이브 7%대 상승, 미 가상자산주 프리마켓 강세",
-          "link": "https://www.tokenpost.kr/news/market/395111",
+          "title": "[22대 국회 후반기] 김교흥 \"인천 공공의료 취약, 공공의대 속도 내야\"",
+          "link": "https://www.incheontoday.com/news/articleView.html?idxno=322567",
           "press": "",
           "date": "2026-08-21"
         },
         {
-          "title": "“韓 하이닉스를 봐, 잘하잖아” 美 기업과 비교…외신이 자사주 매입 ...",
-          "link": "https://www.sedaily.com/article/20082067?ref=naver",
+          "title": "'고향' 돕자는데 중국산 도라지·수입 삼겹살?… 빗나간 고향기부제",
+          "link": "https://www.mhns.co.kr/news/articleView.html?idxno=757175",
           "press": "",
           "date": "2026-08-21"
         }
