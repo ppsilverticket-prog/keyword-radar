@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-08-23T19:22:10.805Z",
+  "updatedAt": "2026-08-23T19:44:32.112Z",
   "source": "live",
   "keywords": [
     {
       "keyword": "첼시",
       "traffic": "100+",
-      "blogTotal": 245632,
+      "blogTotal": 245634,
       "newsTotal": 428140,
       "recentToday": 78,
       "recentWeek": 100,
@@ -225,7 +225,7 @@
       "keyword": "로메로",
       "traffic": "100+",
       "blogTotal": 11464,
-      "newsTotal": 60610,
+      "newsTotal": 60611,
       "recentToday": 23,
       "recentWeek": 70,
       "topBlogs": [
@@ -262,6 +262,12 @@
       ],
       "topNews": [
         {
+          "title": "[laliga.review] '이강인 67분' 자멸할 뻔한 아틀레티코, 'PK 2회 헌납+퇴...",
+          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96824",
+          "press": "",
+          "date": "2026-08-23"
+        },
+        {
           "title": "이강인 나오자마자 AT 마드리드 초유의 사태, \"귀청 떨어질 듯한 야유, ...",
           "link": "https://www.sportschosun.com/football/2026-08-24/202608240100137930008829",
           "press": "",
@@ -282,12 +288,6 @@
         {
           "title": "[라리가 REVIEW] '이강인 슈팅 6회' 나왔음에도 승리 못 챙겼다...아틀레...",
           "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=693080",
-          "press": "",
-          "date": "2026-08-23"
-        },
-        {
-          "title": "이강인 나가고 역전골 실점 + 퇴장까지…‘아들 시메오네 극적 동점골’...",
-          "link": "https://www.mk.co.kr/article/12134311",
           "press": "",
           "date": "2026-08-23"
         }
@@ -536,72 +536,72 @@
       "rank": 9
     },
     {
-      "keyword": "newcastle vs liverpool",
-      "traffic": "500+",
-      "blogTotal": 29,
-      "newsTotal": 794,
+      "keyword": "atletico madrid",
+      "traffic": "200+",
+      "blogTotal": 936,
+      "newsTotal": 29661,
       "recentToday": 0,
-      "recentWeek": 0,
+      "recentWeek": 5,
       "topBlogs": [
         {
-          "title": "프리미어리그 중계 사이트 무료 - Happy Life Blog",
-          "link": "https://happylifeblog.tistory.com/890",
-          "blogger": "Happy Life Blog - Happy Life Blog",
-          "date": "2022-05-06"
+          "title": "[축구로 배우는 영어] Soccer English Series #27. Atletico Madrid sign South Korea m....",
+          "link": "https://blog.naver.com/givehyun/224360518298",
+          "blogger": "축구 좀 아는 여자",
+          "date": "2026-07-28"
         },
         {
-          "title": "외래어 표기 용례 :: Power to surprise.",
-          "link": "https://ppua.tistory.com/32",
-          "blogger": "Power to surprise. :: Power to surprise.",
-          "date": "2013-12-12"
+          "title": "품절대란 \"BTS슈가 X 이강인\" 아틀레티코마드리드 유니폼 구매해야 ....",
+          "link": "https://blog.naver.com/cocoleenice/224330489365",
+          "blogger": "매거진파리",
+          "date": "2026-06-29"
         },
         {
-          "title": "[18.10.2015] 잉글랜드 챔피언쉽리그 결과",
-          "link": "https://techno99.tistory.com/2207",
-          "blogger": "셜록홈즈의 시선 (Sight of Sherlock Holmes)",
-          "date": "2015-10-19"
+          "title": "Lee Kang-in Scores Winner 13 Minutes After Coming On for Atletico",
+          "link": "https://ttt77.tistory.com/472036",
+          "blogger": "??!!",
+          "date": "2026-08-20"
         },
         {
-          "title": "[18.10.2015] 독일 분데스리가 결과",
-          "link": "https://techno99.tistory.com/2209",
-          "blogger": "셜록홈즈의 시선 (Sight of Sherlock Holmes)",
-          "date": "2015-10-19"
+          "title": "2026 북중미 월드컵 출전하는 [아틀레티코 마드리드] 선수 명단 총정....",
+          "link": "https://blog.naver.com/rijikun/224314412995",
+          "blogger": "리지쿤의 맛집 여행 호텔 아틀레티코 마드리드",
+          "date": "2026-06-13"
         },
         {
-          "title": "\"Newcastle and Liverpool Clash in a High-Energy Premier League Showdown!\"",
-          "link": "https://lvup.tistory.com/495",
-          "blogger": "LvUp",
-          "date": "2023-02-19"
+          "title": "오늘의 이슈 'atlético madrid đấu với barcelona' 한눈에 보기 (04/05)",
+          "link": "https://muhanloop.tistory.com/1836",
+          "blogger": "易地思之",
+          "date": "2026-04-05"
         }
       ],
       "topNews": [
         {
-          "title": "BRITAIN SOCCER",
-          "link": "https://n.news.naver.com/mnews/article/091/0010289699?sid=104",
+          "title": "SPAIN SOCCER",
+          "link": "https://n.news.naver.com/mnews/article/091/0010289780?sid=104",
           "press": "",
           "date": "2026-08-23"
         },
         {
-          "title": "BRITAIN SOCCER",
-          "link": "https://n.news.naver.com/mnews/article/091/0010289703?sid=104",
+          "title": "SPAIN SOCCER",
+          "link": "https://n.news.naver.com/mnews/article/091/0010289781?sid=104",
           "press": "",
           "date": "2026-08-23"
         },
         {
-          "title": "BRITAIN SOCCER",
-          "link": "https://n.news.naver.com/mnews/article/091/0010289691?sid=104",
+          "title": "SPAIN SOCCER",
+          "link": "https://n.news.naver.com/mnews/article/091/0010289759?sid=104",
           "press": "",
           "date": "2026-08-23"
         },
         {
-          "title": "BRITAIN SOCCER",
-          "link": "https://n.news.naver.com/mnews/article/091/0010289692?sid=104",
+          "title": "SPAIN SOCCER",
+          "link": "https://n.news.naver.com/mnews/article/091/0010289760?sid=104",
           "press": "",
           "date": "2026-08-23"
         },
         {
-          "title": "BRITAIN SOCCER",
-          "link": "https://n.news.naver.com/mnews/article/091/0010289700?sid=104",
+          "title": "SPAIN SOCCER",
+          "link": "https://n.news.naver.com/mnews/article/091/0010289757?sid=104",
           "press": "",
           "date": "2026-08-23"
         }
