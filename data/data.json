@@ -1,86 +1,13 @@
 {
-  "updatedAt": "2026-08-23T17:17:43.309Z",
+  "updatedAt": "2026-08-23T17:44:39.714Z",
   "source": "live",
   "keywords": [
     {
-      "keyword": "수능 접수",
-      "traffic": "500+",
-      "blogTotal": 34302,
-      "newsTotal": 121603,
-      "recentToday": 89,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "2027 수능 원서접수 시작 - 접수 장소, 응시 수수료, 수능 사진, 사전....",
-          "link": "https://blog.naver.com/haoori/224381510607",
-          "blogger": "장문성의 입시팩토리",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "2027 수능 원서접수 8월 20일부터, 온라인 사전입력만 하면 끝일까?",
-          "link": "https://blog.naver.com/ansooa77/224380018992",
-          "blogger": "슬기로운 엄마생활",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "2027 수능원서 접수 기간 및 방법 준비물",
-          "link": "https://blog.naver.com/leegoon3000/224378750872",
-          "blogger": "수학에게 질수는없다.",
-          "date": "2026-08-18"
-        },
-        {
-          "title": "내일이 !!!!수능100일전!!!! 8월11일 . 2027 수능 원서접수 일정 총정리 ....",
-          "link": "https://blog.naver.com/hanurie1005/224373018550",
-          "blogger": "운전 잘하는 멋진 언니",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "2027학년도 수능 원서접수",
-          "link": "https://blog.naver.com/yeskim229/224380514247",
-          "blogger": "고르기 연구소",
-          "date": "2026-08-16"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "수능 원서접수 기간·방법·비용",
-          "link": "https://www.bntnews.co.kr/article/view/bnt202608200007",
-          "press": "",
-          "date": "2026-08-23"
-        },
-        {
-          "title": "9월 7일 수시 원서 접수 시작…학폭 기록 대입 반영",
-          "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2435646",
-          "press": "",
-          "date": "2026-08-23"
-        },
-        {
-          "title": "[2027 대학 수시]한국외대, 수시 '바이오·AI' 강화…송도캠퍼스 신설학...",
-          "link": "https://www.etnews.com/20260819000327",
-          "press": "",
-          "date": "2026-08-23"
-        },
-        {
-          "title": "[2027 大入 수시모집] 지원 학교 원서 접수 마감 시한·면접 일정 체크",
-          "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=557319",
-          "press": "",
-          "date": "2026-08-23"
-        },
-        {
-          "title": "경상국립대, 2027학년도 수시 3729명 선발",
-          "link": "https://www.gnnews.co.kr/news/articleView.html?idxno=643763",
-          "press": "",
-          "date": "2026-08-23"
-        }
-      ],
-      "rank": 1
-    },
-    {
       "keyword": "중계",
       "traffic": "200+",
-      "blogTotal": 636989,
+      "blogTotal": 636992,
       "newsTotal": 2502850,
-      "recentToday": 79,
+      "recentToday": 75,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -146,13 +73,13 @@
           "date": "2026-08-23"
         }
       ],
-      "rank": 2
+      "rank": 1
     },
     {
       "keyword": "살라",
       "traffic": "200+",
       "blogTotal": 73057,
-      "newsTotal": 104383,
+      "newsTotal": 104384,
       "recentToday": 34,
       "recentWeek": 100,
       "topBlogs": [
@@ -219,11 +146,11 @@
           "date": "2026-08-23"
         }
       ],
-      "rank": 3
+      "rank": 2
     },
     {
       "keyword": "로메로",
-      "traffic": "200+",
+      "traffic": "100+",
       "blogTotal": 11464,
       "newsTotal": 60608,
       "recentToday": 23,
@@ -262,14 +189,14 @@
       ],
       "topNews": [
         {
-          "title": "[라리가 REVIEW] '이강인 슈팅 6회' 나왔음에도 승리 못 챙겼다...아틀레...",
-          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=693080",
+          "title": "'이강인 선발 출전, 교체 후 동점골' 아틀레티코 마드리드, 비야레알과...",
+          "link": "https://www.mydaily.co.kr/page/view/2026082401594711404",
           "press": "",
           "date": "2026-08-23"
         },
         {
-          "title": "'이강인 선발 출전, 교체 후 동점골' 아틀레티코 마드리드, 비야레알과...",
-          "link": "https://www.mydaily.co.kr/page/view/2026082401594711404",
+          "title": "[라리가 REVIEW] '이강인 슈팅 6회' 나왔음에도 승리 못 챙겼다...아틀레...",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=693080",
           "press": "",
           "date": "2026-08-23"
         },
@@ -286,21 +213,21 @@
           "date": "2026-08-23"
         },
         {
-          "title": "'이강인 첫 선발 66분 활약' 아틀레티코, 수비 퇴장에 PK 2개 헌납에도 ...",
-          "link": "http://www.footballist.co.kr/news/articleView.html?idxno=213905",
+          "title": "'이강인 67분' 첫 선발부터 대혼전! 아틀레티코, PK 2번 내주고 1명 퇴장...",
+          "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553478972",
           "press": "",
           "date": "2026-08-23"
         }
       ],
-      "rank": 4
+      "rank": 3
     },
     {
       "keyword": "마르무시",
       "traffic": "200+",
-      "blogTotal": 455,
+      "blogTotal": 456,
       "newsTotal": 2317,
       "recentToday": 16,
-      "recentWeek": 68,
+      "recentWeek": 69,
       "topBlogs": [
         {
           "title": "EPL 스카우팅 리포트 26/27 시즌 전망 마르무시 맨체스터 시티 공격의 ....",
@@ -365,11 +292,84 @@
           "date": "2026-08-23"
         }
       ],
+      "rank": 4
+    },
+    {
+      "keyword": "훌리안 알바레스",
+      "traffic": "200+",
+      "blogTotal": 880,
+      "newsTotal": 7763,
+      "recentToday": 10,
+      "recentWeek": 52,
+      "topBlogs": [
+        {
+          "title": "FC바르셀로나 역대 최고 이적료 축구선수 순위 훌리안 알바레즈 포....",
+          "link": "https://blog.naver.com/wpals528/224362950070",
+          "blogger": "연제민",
+          "date": "2026-08-01"
+        },
+        {
+          "title": "아르헨티나 축구 국가대표 선수 훌리안 알바레스(프로필,경력,스타....",
+          "link": "https://blog.naver.com/mistermy18/224343504956",
+          "blogger": "H2의 스포츠와 여행",
+          "date": "2026-07-11"
+        },
+        {
+          "title": "“개막전 제외됐다”… 훌리안 알바레스, 그런데 시메오네는 바르....",
+          "link": "https://blog.naver.com/clutchtime_/224382572160",
+          "blogger": "캡틴클러치",
+          "date": "2026-08-18"
+        },
+        {
+          "title": "\"아스날은 NO, 바르샤만 간다!\" 0고백 1차임 당한 아스날? 훌리안 알바....",
+          "link": "https://blog.naver.com/trip_euum/224386043550",
+          "blogger": "스포츠&셀럽 이슈포인트",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "월드컵 결승골 넣더니 몸값 폭등, 아스날 훌리안 알바레스에게 1800....",
+          "link": "https://blog.naver.com/ssuggest/224346195876",
+          "blogger": "영군의 즐거운 세상",
+          "date": "2026-07-14"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "‘이적 후 첫 선발’ 이강인, 67분+팀내 최다 6차례 슈팅!…ATM, 수적 열...",
+          "link": "https://sports.khan.co.kr/article/202608240233003?pt=nv",
+          "press": "",
+          "date": "2026-08-23"
+        },
+        {
+          "title": "'오늘은 난사' 이강인, 슛 6개 중 유효슛 하나도 없었다! 환상적인 테크...",
+          "link": "http://www.footballist.co.kr/news/articleView.html?idxno=213906",
+          "press": "",
+          "date": "2026-08-23"
+        },
+        {
+          "title": "‘아깝다! 연속골’ 이강인, 팀 내 최다 6회 슛→비야레알 흔들었다, 첫...",
+          "link": "https://www.sportsseoul.com/news/read/1630267?ref=naver",
+          "press": "",
+          "date": "2026-08-23"
+        },
+        {
+          "title": "골 없어도 존재감은 컸다...이강인, 첫 선발 67분 ATM '전천후 공격수'",
+          "link": "https://news.tf.co.kr/read/soccer/2356942.htm",
+          "press": "",
+          "date": "2026-08-23"
+        },
+        {
+          "title": "이강인 나가고 역전골 실점 + 퇴장까지…‘아들 시메오네 극적 동점골’...",
+          "link": "https://www.mk.co.kr/article/12134311",
+          "press": "",
+          "date": "2026-08-23"
+        }
+      ],
       "rank": 5
     },
     {
       "keyword": "100 일 의 거짓말",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "blogTotal": 592,
       "newsTotal": 4212,
       "recentToday": 5,
@@ -442,7 +442,7 @@
     },
     {
       "keyword": "นิวคาสเซิล พบ ลิเวอร์พูล",
-      "traffic": "100+",
+      "traffic": "200+",
       "blogTotal": 0,
       "newsTotal": 0,
       "recentToday": 0,
@@ -453,7 +453,7 @@
     },
     {
       "keyword": "newcastle vs liverpool",
-      "traffic": "200+",
+      "traffic": "500+",
       "blogTotal": 29,
       "newsTotal": 772,
       "recentToday": 0,
@@ -505,19 +505,19 @@
         },
         {
           "title": "BRITAIN SOCCER",
-          "link": "https://n.news.naver.com/mnews/article/091/0010289656?sid=104",
+          "link": "https://n.news.naver.com/mnews/article/091/0010289662?sid=104",
           "press": "",
           "date": "2026-08-23"
         },
         {
           "title": "BRITAIN SOCCER",
-          "link": "https://n.news.naver.com/mnews/article/091/0010289664?sid=104",
+          "link": "https://n.news.naver.com/mnews/article/091/0010289658?sid=104",
           "press": "",
           "date": "2026-08-23"
         },
         {
           "title": "BRITAIN SOCCER",
-          "link": "https://n.news.naver.com/mnews/article/091/0010289657?sid=104",
+          "link": "https://n.news.naver.com/mnews/article/091/0010289659?sid=104",
           "press": "",
           "date": "2026-08-23"
         }
@@ -527,8 +527,8 @@
     {
       "keyword": "스포츠",
       "traffic": "200+",
-      "blogTotal": 4266861,
-      "newsTotal": 12531725,
+      "blogTotal": 4266891,
+      "newsTotal": 12531726,
       "recentToday": 0,
       "recentWeek": 100,
       "topBlogs": [
@@ -551,16 +551,16 @@
           "date": "2026-08-15"
         },
         {
+          "title": "[아마추어스포츠] 비인기 종목의 생존 공식: 왜 기업 대신 지자체가 ....",
+          "link": "https://blog.naver.com/hsyang1119/224377063994",
+          "blogger": "털보네 지식상담소",
+          "date": "2026-08-13"
+        },
+        {
           "title": "[경기도 수원] 수원 월드컵경기장 스포츠 아일랜드 프다이빙 잠수풀....",
           "link": "https://blog.naver.com/nanari86/224367868974",
           "blogger": "쩡이쿡",
           "date": "2026-08-04"
-        },
-        {
-          "title": "인천 일요일 수영장 추천! 주차 편리하고 가성비 대박인 송도스포츠....",
-          "link": "https://blog.naver.com/chgksrnr7/224352991625",
-          "blogger": "부동산투자달인",
-          "date": "2026-07-22"
         }
       ],
       "topNews": [
@@ -600,7 +600,7 @@
     {
       "keyword": "티비",
       "traffic": "200+",
-      "blogTotal": 1735373,
+      "blogTotal": 1735386,
       "newsTotal": 172667,
       "recentToday": 0,
       "recentWeek": 100,
