@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-23T17:44:39.714Z",
+  "updatedAt": "2026-08-23T18:24:59.311Z",
   "source": "live",
   "keywords": [
     {
       "keyword": "중계",
       "traffic": "200+",
-      "blogTotal": 636992,
-      "newsTotal": 2502850,
-      "recentToday": 75,
+      "blogTotal": 636996,
+      "newsTotal": 2502851,
+      "recentToday": 72,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -43,6 +43,12 @@
       ],
       "topNews": [
         {
+          "title": "리센느까지 합류… MBC 아시안게임 중계 '총력전'",
+          "link": "https://www.ggilbo.com/news/articleView.html?idxno=1176544",
+          "press": "",
+          "date": "2026-08-23"
+        },
+        {
           "title": "‘이강인 선발 데뷔전’ ATM, 2-2 무...쿠팡 접속 장애 팬들 분통",
           "link": "https://www.joongang.co.kr/article/25455513",
           "press": "",
@@ -65,12 +71,6 @@
           "link": "https://www.kyeonggi.com/article/20260824580002",
           "press": "",
           "date": "2026-08-23"
-        },
-        {
-          "title": "스포츠를 정치에 활용해온 트럼프, 오늘 워싱턴 D.C. 자동차 경주에 등...",
-          "link": "https://www.ytn.co.kr/_ln/0104_202608240051374883",
-          "press": "",
-          "date": "2026-08-23"
         }
       ],
       "rank": 1
@@ -78,8 +78,8 @@
     {
       "keyword": "살라",
       "traffic": "200+",
-      "blogTotal": 73057,
-      "newsTotal": 104384,
+      "blogTotal": 73058,
+      "newsTotal": 104385,
       "recentToday": 34,
       "recentWeek": 100,
       "topBlogs": [
@@ -149,10 +149,83 @@
       "rank": 2
     },
     {
+      "keyword": "유벤투스",
+      "traffic": "100+",
+      "blogTotal": 60036,
+      "newsTotal": 167155,
+      "recentToday": 23,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "세리에A 최다 우승팀, 유벤투스 FC는 어떻게 전설이 되었을까? 유벤....",
+          "link": "https://blog.naver.com/kimguni714/224297921770",
+          "blogger": "스마일 정보왕",
+          "date": "2026-05-27"
+        },
+        {
+          "title": "[구로디지털단지역] 유벤투스240 임장 후기 : 계약 안 한 솔직한 이유",
+          "link": "https://blog.naver.com/xo_xo0/224352300366",
+          "blogger": "하늘 아래 우리의 순간들",
+          "date": "2026-07-20"
+        },
+        {
+          "title": "유벤투스 240 후기 | 청년안심주택 당첨 계약 안한 이유는?",
+          "link": "https://blog.naver.com/zizi2411/224361034525",
+          "blogger": "지이예이",
+          "date": "2026-07-28"
+        },
+        {
+          "title": "구두 합의까지 했는데... 유벤투스가 제키 첼릭 하이제킹에 성공 그....",
+          "link": "https://blog.naver.com/ssuggest/224349236529",
+          "blogger": "영군의 즐거운 세상",
+          "date": "2026-07-17"
+        },
+        {
+          "title": "[축구 프리뷰]클럽 프렌들리 유벤투스 FCvs팔레르모 FC",
+          "link": "https://blog.naver.com/ilt9525/224373489960",
+          "blogger": "ilt9525님의블로그",
+          "date": "2026-08-10"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "HERE WE GO 컨펌! 맨유 '방출 1순위'인데 원하는 PL 클럽이 있다...\"빌라...",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=693082",
+          "press": "",
+          "date": "2026-08-23"
+        },
+        {
+          "title": "[오피셜] 사우디 탈출 후 유럽 복귀 실패… 누녜스, 알 힐랄 떠나 디리...",
+          "link": "https://www.besteleven.com/news/articleView.html?idxno=311455",
+          "press": "",
+          "date": "2026-08-23"
+        },
+        {
+          "title": "'아스널, 결국 영입 실패!'… 아르테타가 그토록 원했던 '2005년생 특급 ...",
+          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96806",
+          "press": "",
+          "date": "2026-08-23"
+        },
+        {
+          "title": "더브라위너, 부진은 끝났다! 이번 시즌 첫 경기부터 1골 1도움, 후배 베...",
+          "link": "http://www.footballist.co.kr/news/articleView.html?idxno=213886",
+          "press": "",
+          "date": "2026-08-23"
+        },
+        {
+          "title": "'손흥민이랑 동갑인데' 어쩌다 이렇게 됐나...'킹 파라오' 살라, 튀르키...",
+          "link": "https://mhnse.com/news/articleView.html?idxno=1498028",
+          "press": "",
+          "date": "2026-08-22"
+        }
+      ],
+      "rank": 3
+    },
+    {
       "keyword": "로메로",
       "traffic": "100+",
       "blogTotal": 11464,
-      "newsTotal": 60608,
+      "newsTotal": 60610,
       "recentToday": 23,
       "recentWeek": 70,
       "topBlogs": [
@@ -189,6 +262,18 @@
       ],
       "topNews": [
         {
+          "title": "이강인 나오자마자 AT 마드리드 초유의 사태, \"귀청 떨어질 듯한 야유, ...",
+          "link": "https://www.sportschosun.com/football/2026-08-24/202608240100137930008829",
+          "press": "",
+          "date": "2026-08-23"
+        },
+        {
+          "title": "'데뷔전 데뷔골' 이강인 첫 선발 경기에서는 침묵...슈팅 6회에도 골문 ...",
+          "link": "https://mhnse.com/news/articleView.html?idxno=1499778",
+          "press": "",
+          "date": "2026-08-23"
+        },
+        {
           "title": "'이강인 선발 출전, 교체 후 동점골' 아틀레티코 마드리드, 비야레알과...",
           "link": "https://www.mydaily.co.kr/page/view/2026082401594711404",
           "press": "",
@@ -205,21 +290,9 @@
           "link": "https://www.mk.co.kr/article/12134311",
           "press": "",
           "date": "2026-08-23"
-        },
-        {
-          "title": "'최다 슈팅 6회→66분 교체' 이강인, 아쉬운 선발 데뷔전...'아들 시메오...",
-          "link": "http://www.osen.co.kr/article/G1112862616",
-          "press": "",
-          "date": "2026-08-23"
-        },
-        {
-          "title": "'이강인 67분' 첫 선발부터 대혼전! 아틀레티코, PK 2번 내주고 1명 퇴장...",
-          "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553478972",
-          "press": "",
-          "date": "2026-08-23"
         }
       ],
-      "rank": 3
+      "rank": 4
     },
     {
       "keyword": "마르무시",
@@ -292,13 +365,13 @@
           "date": "2026-08-23"
         }
       ],
-      "rank": 4
+      "rank": 5
     },
     {
       "keyword": "훌리안 알바레스",
       "traffic": "200+",
       "blogTotal": 880,
-      "newsTotal": 7763,
+      "newsTotal": 7765,
       "recentToday": 10,
       "recentWeek": 52,
       "topBlogs": [
@@ -335,6 +408,18 @@
       ],
       "topNews": [
         {
+          "title": "이강인 나오자마자 AT 마드리드 초유의 사태, \"귀청 떨어질 듯한 야유, ...",
+          "link": "https://www.sportschosun.com/football/2026-08-24/202608240100137930008829",
+          "press": "",
+          "date": "2026-08-23"
+        },
+        {
+          "title": "'데뷔전 데뷔골' 이강인 첫 선발 경기에서는 침묵...슈팅 6회에도 골문 ...",
+          "link": "https://mhnse.com/news/articleView.html?idxno=1499778",
+          "press": "",
+          "date": "2026-08-23"
+        },
+        {
           "title": "‘이적 후 첫 선발’ 이강인, 67분+팀내 최다 6차례 슈팅!…ATM, 수적 열...",
           "link": "https://sports.khan.co.kr/article/202608240233003?pt=nv",
           "press": "",
@@ -347,33 +432,21 @@
           "date": "2026-08-23"
         },
         {
-          "title": "‘아깝다! 연속골’ 이강인, 팀 내 최다 6회 슛→비야레알 흔들었다, 첫...",
-          "link": "https://www.sportsseoul.com/news/read/1630267?ref=naver",
-          "press": "",
-          "date": "2026-08-23"
-        },
-        {
           "title": "골 없어도 존재감은 컸다...이강인, 첫 선발 67분 ATM '전천후 공격수'",
           "link": "https://news.tf.co.kr/read/soccer/2356942.htm",
           "press": "",
           "date": "2026-08-23"
-        },
-        {
-          "title": "이강인 나가고 역전골 실점 + 퇴장까지…‘아들 시메오네 극적 동점골’...",
-          "link": "https://www.mk.co.kr/article/12134311",
-          "press": "",
-          "date": "2026-08-23"
         }
       ],
-      "rank": 5
+      "rank": 6
     },
     {
       "keyword": "100 일 의 거짓말",
       "traffic": "2000+",
-      "blogTotal": 592,
+      "blogTotal": 593,
       "newsTotal": 4212,
       "recentToday": 5,
-      "recentWeek": 78,
+      "recentWeek": 79,
       "topBlogs": [
         {
           "title": "<100일의 거짓말> 특별전 다녀온 후기 경성 시대로의 감성 여행 서울....",
@@ -438,7 +511,7 @@
           "date": "2026-08-22"
         }
       ],
-      "rank": 6
+      "rank": 7
     },
     {
       "keyword": "นิวคาสเซิล พบ ลิเวอร์พูล",
@@ -449,7 +522,7 @@
       "recentWeek": 0,
       "topBlogs": [],
       "topNews": [],
-      "rank": 7
+      "rank": 8
     },
     {
       "keyword": "newcastle vs liverpool",
@@ -493,104 +566,31 @@
       "topNews": [
         {
           "title": "BRITAIN SOCCER",
-          "link": "https://n.news.naver.com/mnews/article/091/0010289660?sid=104",
+          "link": "https://n.news.naver.com/mnews/article/091/0010289656?sid=104",
           "press": "",
           "date": "2026-08-23"
         },
         {
           "title": "BRITAIN SOCCER",
-          "link": "https://n.news.naver.com/mnews/article/091/0010289661?sid=104",
+          "link": "https://n.news.naver.com/mnews/article/091/0010289664?sid=104",
+          "press": "",
+          "date": "2026-08-23"
+        },
+        {
+          "title": "BRITAIN SOCCER",
+          "link": "https://n.news.naver.com/mnews/article/091/0010289657?sid=104",
+          "press": "",
+          "date": "2026-08-23"
+        },
+        {
+          "title": "BRITAIN SOCCER",
+          "link": "https://n.news.naver.com/mnews/article/091/0010289663?sid=104",
           "press": "",
           "date": "2026-08-23"
         },
         {
           "title": "BRITAIN SOCCER",
           "link": "https://n.news.naver.com/mnews/article/091/0010289662?sid=104",
-          "press": "",
-          "date": "2026-08-23"
-        },
-        {
-          "title": "BRITAIN SOCCER",
-          "link": "https://n.news.naver.com/mnews/article/091/0010289658?sid=104",
-          "press": "",
-          "date": "2026-08-23"
-        },
-        {
-          "title": "BRITAIN SOCCER",
-          "link": "https://n.news.naver.com/mnews/article/091/0010289659?sid=104",
-          "press": "",
-          "date": "2026-08-23"
-        }
-      ],
-      "rank": 8
-    },
-    {
-      "keyword": "스포츠",
-      "traffic": "200+",
-      "blogTotal": 4266891,
-      "newsTotal": 12531726,
-      "recentToday": 0,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "쿠팡플레이 스포츠패스, 와우 회원인데 왜 또 결제창이 뜰까 — 가....",
-          "link": "https://blog.naver.com/m84vlog/224373214597",
-          "blogger": "M84",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "바르너 아치스본 스포츠 내돈내산 찐후기, 정말 교정에 효과 있을까....",
-          "link": "https://blog.naver.com/pppp0509/224360916100",
-          "blogger": "God生 : 청년의 기록",
-          "date": "2026-07-28"
-        },
-        {
-          "title": "동대문 스포츠 지하상가 올레스포츠 유니폼 구매 후기｜7개월 아기 ....",
-          "link": "https://blog.naver.com/ns3516/224379702778",
-          "blogger": "용한정보",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "[아마추어스포츠] 비인기 종목의 생존 공식: 왜 기업 대신 지자체가 ....",
-          "link": "https://blog.naver.com/hsyang1119/224377063994",
-          "blogger": "털보네 지식상담소",
-          "date": "2026-08-13"
-        },
-        {
-          "title": "[경기도 수원] 수원 월드컵경기장 스포츠 아일랜드 프다이빙 잠수풀....",
-          "link": "https://blog.naver.com/nanari86/224367868974",
-          "blogger": "쩡이쿡",
-          "date": "2026-08-04"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "승민, 올블랙 수트로 근황 공개…Stray Kids 활동 이어갈 준비",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16171069",
-          "press": "",
-          "date": "2026-08-23"
-        },
-        {
-          "title": "이강인 나가고 역전골 실점 + 퇴장까지…‘아들 시메오네 극적 동점골’...",
-          "link": "https://www.mk.co.kr/article/12134311",
-          "press": "",
-          "date": "2026-08-23"
-        },
-        {
-          "title": "‘이강인 선발 데뷔전’ ATM, 2-2 무...쿠팡 접속 장애 팬들 분통",
-          "link": "https://www.joongang.co.kr/article/25455513",
-          "press": "",
-          "date": "2026-08-23"
-        },
-        {
-          "title": "[LPL 돋보기] 스플릿3 정규시즌 마무리...BLG 1위",
-          "link": "http://www.dailyesports.com/view.php?ud=202608231449405204b91e133c1f_27",
-          "press": "",
-          "date": "2026-08-23"
-        },
-        {
-          "title": "영탁, \"아 심장아퍼\" 치명적 레이서로 완벽 변신…정규 3집 \"GOGO\" 첫 콘셉...",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16171051",
           "press": "",
           "date": "2026-08-23"
         }
@@ -600,7 +600,7 @@
     {
       "keyword": "티비",
       "traffic": "200+",
-      "blogTotal": 1735386,
+      "blogTotal": 1735409,
       "newsTotal": 172667,
       "recentToday": 0,
       "recentWeek": 100,
