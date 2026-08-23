@@ -1,12 +1,85 @@
 {
-  "updatedAt": "2026-08-23T09:53:30.790Z",
+  "updatedAt": "2026-08-23T10:20:48.138Z",
   "source": "live",
   "keywords": [
     {
-      "keyword": "부모",
+      "keyword": "1박2일",
       "traffic": "2000+",
-      "blogTotal": 8022700,
-      "newsTotal": 4543301,
+      "blogTotal": 2146553,
+      "newsTotal": 744694,
+      "recentToday": 100,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "통영 연대도 1박 2일 휴가 일기 연대도 스노쿨링 연대도 민박 달맞이....",
+          "link": "https://blog.naver.com/mki8585/224369371299",
+          "blogger": "묘진이네",
+          "date": "2026-08-06"
+        },
+        {
+          "title": "통영 비진도 1박 2일 여행 ｜배편, 맛집, 바다이야기 펜션, 비진도 해....",
+          "link": "https://blog.naver.com/jiyu951226/224367277680",
+          "blogger": "오늘의 지유",
+          "date": "2026-08-04"
+        },
+        {
+          "title": "동해/삼척 1박 2일 여행 | 반뚜벅이 여름휴가 코스️(장호해변 스노....",
+          "link": "https://blog.naver.com/jungmini73/224366975632",
+          "blogger": "미니로그",
+          "date": "2026-08-03"
+        },
+        {
+          "title": "SRT로 가기 좋은 국내 여행지 BEST 10 | 당일치기부터 1박 2일까지",
+          "link": "https://blog.naver.com/pjihye4728/224355433294",
+          "blogger": "아유니랑 지혜롭게❤",
+          "date": "2026-07-24"
+        },
+        {
+          "title": "1박2일 여행지 익산 가볼만한곳",
+          "link": "https://blog.naver.com/rsrs0930/224334770253",
+          "blogger": "일편이여행로드맵",
+          "date": "2026-07-03"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "이용진, 13시간째 정장 고수…\"이 캐릭터 계속 가는 게 맞나\"",
+          "link": "https://www.slist.kr/news/articleView.html?idxno=760671",
+          "press": "",
+          "date": "2026-08-23"
+        },
+        {
+          "title": "당내 통합 팔 걷은 李, 잇단 ‘스킨십’",
+          "link": "https://www.segye.com/newsView/20260823508256?OutUrl=naver",
+          "press": "",
+          "date": "2026-08-23"
+        },
+        {
+          "title": "\"정기국회 전북 예산-현안 성사시켜야\"",
+          "link": "http://www.jjn.co.kr/news/articleView.html?idxno=1050018",
+          "press": "",
+          "date": "2026-08-23"
+        },
+        {
+          "title": "'1박 2일' 딘딘, 이준 버리고 이기택 선택…\"차원이 다른 양아치\" 폭소",
+          "link": "https://www.slist.kr/news/articleView.html?idxno=760669",
+          "press": "",
+          "date": "2026-08-23"
+        },
+        {
+          "title": "李 대통령, 당 통합 잰걸음",
+          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000005296&cp=nv",
+          "press": "",
+          "date": "2026-08-23"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "keyword": "부모",
+      "traffic": "5000+",
+      "blogTotal": 8022822,
+      "newsTotal": 4543318,
       "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
@@ -43,43 +116,43 @@
       ],
       "topNews": [
         {
-          "title": "\"또 다른 차별, 정말 경솔했다\" 박위, KTX 낙상사고 CCTV 공개에 팬까지...",
-          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1003433",
+          "title": "[가고파] 집 없는 소라게-이지혜(정치부 차장대우)",
+          "link": "https://www.knnews.co.kr/news/articleView.php?idxno=1549150",
           "press": "",
           "date": "2026-08-23"
         },
         {
-          "title": "주말엔 아이와 '집콕 클래스'…창원시 직원 가족 17가정 참여",
-          "link": "https://www.mhns.co.kr/news/articleView.html?idxno=757365",
+          "title": "\"그 요원, 장애인일 수도..정말 경솔했다\" 자폐아 부모, 박위 논란에 일...",
+          "link": "https://www.starnewskorea.com/star/2026/08/23/2026082318282395020",
           "press": "",
           "date": "2026-08-23"
         },
         {
-          "title": "선거 앞둔 민주당, ‘비거주 세부담 완화’ 드라이브…당정 온도차",
-          "link": "https://www.hani.co.kr/arti/economy/economy_general/1274225.html",
+          "title": "당정, 비거주 1주택자 '실거주 인정 범위 확대' 공감대",
+          "link": "https://www.newsverse.kr/news/articleView.html?idxno=11257",
           "press": "",
           "date": "2026-08-23"
         },
         {
-          "title": "통영 낚시어선 전복·설악산 구조...사건사고 잇따라",
-          "link": "https://www.ytn.co.kr/_ln/0115_202608231845371744",
+          "title": "전대 후 첫 고위당정 \"비거주 1주택, 거주 인정범위 확대\"…'용산공원' ...",
+          "link": "https://news.tvchosun.com/site/data/html_dir/2026/08/23/2026082390087.html",
           "press": "",
           "date": "2026-08-23"
         },
         {
-          "title": "부동산 세제개편 파장...삼전닉스 역대급 주주환원",
-          "link": "https://www.ytn.co.kr/_ln/0102_202608231841463428",
+          "title": "대만 산업 폐기물 매립장 폭발에 15명 부상",
+          "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000546577",
           "press": "",
           "date": "2026-08-23"
         }
       ],
-      "rank": 1
+      "rank": 2
     },
     {
       "keyword": "철도",
       "traffic": "1000+",
-      "blogTotal": 818109,
-      "newsTotal": 2597887,
+      "blogTotal": 818123,
+      "newsTotal": 2597897,
       "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
@@ -116,42 +189,42 @@
       ],
       "topNews": [
         {
-          "title": "한남뉴타운에 '871억 청구서’… 보광역 분담비용 누가 내나",
-          "link": "http://www.fnnews.com/news/202608231846131090",
+          "title": "\"에스컬레이터 또 멈췄네\" 발목 잡힌 광복로 관광",
+          "link": "http://www.fnnews.com/news/202608231913482119",
           "press": "",
           "date": "2026-08-23"
         },
         {
-          "title": "[8·13 부동산대책 여파] “남양주 와부읍 광역교통망부터”… 국토장관...",
-          "link": "https://www.kyeongin.com/article/1769440",
+          "title": "[사설] 지역 여야 국회의원 16명 초당적 공조에 주목",
+          "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2296125",
           "press": "",
           "date": "2026-08-23"
         },
         {
-          "title": "박위, KTX 사고 CCTV 공개 여파…자폐아母·기관사까지 등판 [셀럽이슈]",
-          "link": "http://www.celuvmedia.com/article.php?aid=1787477170526199006",
+          "title": "전북지역 주요 9개 사업지구 '토지시장' 나왔다",
+          "link": "http://www.jjn.co.kr/news/articleView.html?idxno=1050000",
           "press": "",
           "date": "2026-08-23"
         },
         {
-          "title": "인천 서북부 철도 '명운'…시의회 '초당적 협력' 분투",
-          "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1330170",
+          "title": "푸틴 “판도라 상자 열었다”… 젤렌스키 고향 쇼핑몰 공격",
+          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000005320&cp=nv",
           "press": "",
           "date": "2026-08-23"
         },
         {
-          "title": "올 여름 휴가철 기차 이용객 730만명",
-          "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1095247",
+          "title": "산업·교통·학군 갖춘 장안 ‘중흥 S-클래스’…514세대 후분양 공급",
+          "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260824.22012006398",
           "press": "",
           "date": "2026-08-23"
         }
       ],
-      "rank": 2
+      "rank": 3
     },
     {
       "keyword": "지게차",
-      "traffic": "1000+",
-      "blogTotal": 362810,
+      "traffic": "2000+",
+      "blogTotal": 362819,
       "newsTotal": 103214,
       "recentToday": 100,
       "recentWeek": 100,
@@ -219,233 +292,14 @@
           "date": "2026-08-23"
         }
       ],
-      "rank": 3
-    },
-    {
-      "keyword": "반도체",
-      "traffic": "5000+",
-      "blogTotal": 1604204,
-      "newsTotal": 3744202,
-      "recentToday": 100,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "제주반도체, 장중 10% 급락에 VI 발동…반도체주 반등 속 왜 홀로 무....",
-          "link": "https://blog.naver.com/linsil1/224378945255",
-          "blogger": "H",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "삼성·SK 895조 서남권 투자 발표! 광주 전남 반도체 클러스터 호재와 ....",
-          "link": "https://blog.naver.com/bunny906/224336158778",
-          "blogger": "연안공인중개사사무소",
-          "date": "2026-07-04"
-        },
-        {
-          "title": "\"호남반도체 어디까지 왔나?\" 광주 군공항 2028년 하반기 기능 이전·....",
-          "link": "https://blog.naver.com/mywoogi79/224375106283",
-          "blogger": "담담이의 농업경제·지역경제 인사이트",
-          "date": "2026-08-11"
-        },
-        {
-          "title": "AI 반도체 다음은 '전력 인프라'? SMR 투자 전략, 데이터 센터 문제점",
-          "link": "https://blog.naver.com/ant2001e/224372155648",
-          "blogger": "음악의 에너지",
-          "date": "2026-08-08"
-        },
-        {
-          "title": "반도체 주주환원 시대, SK하이닉스가 쐈다",
-          "link": "https://blog.naver.com/pokara61/224384229776",
-          "blogger": "포카라의 실전투자",
-          "date": "2026-08-20"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "\"답은 언제나 현장에 있다… 역동적 대구경제 도약 위해 총력\" [로컬포커...",
-          "link": "http://www.fnnews.com/news/202608231851392549",
-          "press": "",
-          "date": "2026-08-23"
-        },
-        {
-          "title": "“신탁주택인 줄 몰랐다”…경기도, 공인중개사무소 527곳 점검해 69건 ...",
-          "link": "https://www.betanews.net/article/view/beta202608230003",
-          "press": "",
-          "date": "2026-08-23"
-        },
-        {
-          "title": "\"정기국회 전북 예산-현안 성사시켜야\"",
-          "link": "http://www.jjn.co.kr/news/articleView.html?idxno=1050018",
-          "press": "",
-          "date": "2026-08-23"
-        },
-        {
-          "title": "조국 “미래대응기금 불평등 대응에 사용해야”",
-          "link": "https://www.munhwa.com/article/11611318?ref=naver",
-          "press": "",
-          "date": "2026-08-23"
-        },
-        {
-          "title": "李 대통령, 당 통합 잰걸음",
-          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000005296&cp=nv",
-          "press": "",
-          "date": "2026-08-23"
-        }
-      ],
       "rank": 4
-    },
-    {
-      "keyword": "야구",
-      "traffic": "2000+",
-      "blogTotal": 1990861,
-      "newsTotal": 5638003,
-      "recentToday": 100,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "야구 용어 정리ㅣ야구 입문자들이 알면 좋은 경기 기본 룰",
-          "link": "https://blog.naver.com/bokchi2000/224374026648",
-          "blogger": "우나나야하의 덕질로그",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "잘 안알려진 잘생긴 야구선수 소개 2탄 / 기아 삼성 키움 두산 /저점....",
-          "link": "https://blog.naver.com/rani_12/224335538607",
-          "blogger": "사는게 취미모음.zip",
-          "date": "2026-07-03"
-        },
-        {
-          "title": "잠실야구장 먹거리 지도, 위치 2026년 최신 버전 총정리 | 김치말이국....",
-          "link": "https://blog.naver.com/bjjh0605/224323842532",
-          "blogger": "밤잴커플's log '◡'✿",
-          "date": "2026-07-01"
-        },
-        {
-          "title": "[잠실야구장 먹거리] 이쁜여우핫도그, 빙동댕, 스테이션 푸드트럭 ....",
-          "link": "https://blog.naver.com/mutal8687/224362143447",
-          "blogger": "일상의 쉼표",
-          "date": "2026-07-29"
-        },
-        {
-          "title": "고척 스카이돔 야구장 먹거리 추천ㅣ크림새우, 닭강정, 지지고 외부....",
-          "link": "https://blog.naver.com/jinny4540/224316118990",
-          "blogger": "Yeon",
-          "date": "2026-06-15"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "[인터뷰] ‘45년만에 대통령기 정상’ 인하대 야구부 정원배 감독",
-          "link": "https://www.kyeongin.com/article/1769443",
-          "press": "",
-          "date": "2026-08-23"
-        },
-        {
-          "title": "부산 청년예술인이 꾸린 인형극 ‘그의 하루’ 무대",
-          "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0500&key=20260824.22017006383",
-          "press": "",
-          "date": "2026-08-23"
-        },
-        {
-          "title": "이의리 만루홈런 맞자 환호한 롯데…“선수들이 KIA까지 생각하나?” 김...",
-          "link": "https://www.seoul.co.kr/news/sport/baseball/2026/08/23/20260823500092?wlog_tag3=naver",
-          "press": "",
-          "date": "2026-08-23"
-        },
-        {
-          "title": "김성근 감독, 승부수 던진다…‘불꽃야구2’ 선수 대거 교체",
-          "link": "https://isplus.com/article/view/isp202608230084",
-          "press": "",
-          "date": "2026-08-23"
-        },
-        {
-          "title": "'초비상' 롯데, 손성빈 오른손 중지 염좌 선발 제외…김태형 감독 \"타박...",
-          "link": "https://www.xportsnews.com/article/2187064",
-          "press": "",
-          "date": "2026-08-23"
-        }
-      ],
-      "rank": 5
-    },
-    {
-      "keyword": "기아 타이거즈",
-      "traffic": "200+",
-      "blogTotal": 74865,
-      "newsTotal": 56684,
-      "recentToday": 50,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "기아타이거즈 광복절 유니폼 후기 26시즌 어센틱 광복절 유니폼 168cm....",
-          "link": "https://blog.naver.com/eghals123/224377083269",
-          "blogger": "빙글빙글 돌아가는 일상",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "기아타이거즈 광복절 유니폼 출시ㅣ2026 어센틱 가격·판매처·마킹·....",
-          "link": "https://blog.naver.com/vvvvll0/224373993599",
-          "blogger": "Of Taste & Time",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "KIA 타이거즈 23 어센틱 광복절 유니폼 사이즈 100 노마킹 후기 | 기아 ....",
-          "link": "https://blog.naver.com/bsincerity/224373728086",
-          "blogger": "짱시리짱",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "기아타이거즈 이의리가 마무리 투수? 155, 156km 데뷔 첫 세이브, 반갑....",
-          "link": "https://blog.naver.com/caleb0901/224375707949",
-          "blogger": "이과장의 스포츠",
-          "date": "2026-08-12"
-        },
-        {
-          "title": "순천역 카페 조곡동 카페온이 라떼 맛집 기아 타이거즈 키링까지",
-          "link": "https://blog.naver.com/swj2636/224378873581",
-          "blogger": "쪼이로그",
-          "date": "2026-08-14"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "[한번에쓱]이거 쐐기포 맞지? '홈런 치고 맞으면 즐겁지!' 8회초 투런포...",
-          "link": "https://www.starnewskorea.com/sports/2026/08/23/2026082316442830318",
-          "press": "",
-          "date": "2026-08-23"
-        },
-        {
-          "title": "[2026 프로야구 경기일정] 8월 23일 선발투수와 생중계 채널",
-          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3671607",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "부상은 잊은 지 오래…타격감 오른 김도영 \"40홈런 꼭 치고 싶어\"",
-          "link": "https://news.jtbc.co.kr/article/NB12314582?influxDiv=NAVER",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "프로야구 인천·잠실·대전 경기 '우천 취소'...집중호우 영향",
-          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3671514",
-          "press": "",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "광주천에 수달 찾으러 간 KIA 김도영·박재현 나란히 타격 폭발…\"수달...",
-          "link": "https://news.jtbc.co.kr/article/NB12314557?influxDiv=NAVER",
-          "press": "",
-          "date": "2026-08-22"
-        }
-      ],
-      "rank": 6
     },
     {
       "keyword": "lck",
       "traffic": "2000+",
-      "blogTotal": 47733,
-      "newsTotal": 144163,
-      "recentToday": 41,
+      "blogTotal": 47734,
+      "newsTotal": 144170,
+      "recentToday": 42,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -481,32 +335,178 @@
       ],
       "topNews": [
         {
-          "title": "T1 '페이커' 이상혁 \"결과보다 경기 내용에 실망… 더 발전하지 못해 아...",
-          "link": "https://www.xportsnews.com/article/2187075",
+          "title": "[LCK] 한화생명 '딜라이트', \"PO 2R 올라올 팀? DK와 T1 예상\"",
+          "link": "https://www.inven.co.kr/webzine/news/?news=319815",
           "press": "",
           "date": "2026-08-23"
         },
         {
-          "title": "[LCK] 돌아온 ‘파괴전차’…한화생명, T1 2-0 셧아웃 PO 2R 직행(종합)",
-          "link": "http://www.osen.co.kr/article/G1112862369",
+          "title": "[LCK]정규 2위 한화생명, \"PO 2R 올라설 팀은 DK와 T1 예상\"",
+          "link": "https://www.fomos.kr/redirect/news_view?news_cate_id=39&entry_id=155342",
           "press": "",
           "date": "2026-08-23"
         },
         {
-          "title": "[LCK 현장] 천둥의 신 제우스 강림, 한화생명 T1에 2:0 완승",
-          "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=60232",
+          "title": "[오!쎈 종로] PO 2R 직행 무산된 T1…’톰’ 임재현 “준비 부족 인정, P...",
+          "link": "http://www.osen.co.kr/article/G1112862379",
           "press": "",
           "date": "2026-08-23"
         },
         {
-          "title": "T1 완파한 한화생명, 정규시즌 2위 확정…플레이오프 2라운드 직행 [쿠키...",
-          "link": "https://www.kukinews.com/article/view/kuk202608230022",
+          "title": "윤성영 “T1전, 오늘은 정폿이 정말 잘해줬다”",
+          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000005319&cp=nv",
           "press": "",
           "date": "2026-08-23"
         },
         {
-          "title": "한화생명, 정규 2위 결정전서 T1 완파…PO 2R 직행",
-          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000005290&cp=nv",
+          "title": "한화생명 '딜라이트' 유환중 \"4라운드 폼 올라와 다행… PO서 DK·T1 올라...",
+          "link": "https://www.xportsnews.com/article/2187078",
+          "press": "",
+          "date": "2026-08-23"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "keyword": "김동현",
+      "traffic": "500+",
+      "blogTotal": 61939,
+      "newsTotal": 322352,
+      "recentToday": 31,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "전 UFC 선수, 방송인 김동현이 10년간 총 300kg 감량하며 먹었다는 '이....",
+          "link": "https://blog.naver.com/thglth2/224332620992",
+          "blogger": "그냥 기록하고 남기는 곳.",
+          "date": "2026-07-01"
+        },
+        {
+          "title": "김동현 자녀 또?! 넷째 임신한 미모의 와이프와 애국자 인증했다(놀....",
+          "link": "https://blog.naver.com/treewg/224241372554",
+          "blogger": "나무처럼",
+          "date": "2026-04-05"
+        },
+        {
+          "title": "추성훈 물건이 왜 여기서? 김동현 집 공개 후 뜻밖의 에피소드 화제",
+          "link": "https://blog.naver.com/cisomvn452/224316780219",
+          "blogger": "부부동반 여행기록 포트폴리오랩",
+          "date": "2026-06-15"
+        },
+        {
+          "title": "김동현 집, 아이 클라이밍존 공개 왜 화제? 4남매 맞춤 인테리어 포....",
+          "link": "https://blog.naver.com/sphinx104/224315728664",
+          "blogger": "정보페이",
+          "date": "2026-06-14"
+        },
+        {
+          "title": "박주호·김동현 다둥이 경사 나란히 네 아이 부모로",
+          "link": "https://blog.naver.com/choyam20261/224378600994",
+          "blogger": "뚱이리스트",
+          "date": "2026-08-14"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "[K리그1 인터뷰] 정경호 감독 대신 지휘봉...박용호 코치 \"이기혁 부상 ...",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=693055",
+          "press": "",
+          "date": "2026-08-23"
+        },
+        {
+          "title": "“맨홀 공사” 입력하자, AI감독관이 위험요인 콕 짚어줬다",
+          "link": "https://www.hani.co.kr/arti/economy/it/1274231.html",
+          "press": "",
+          "date": "2026-08-23"
+        },
+        {
+          "title": "국수본부장 사과…'은폐 의혹' 경찰관 구속영장 검토",
+          "link": "http://www.yonhapnewstv.co.kr/news/MYH20260823181427qAY",
+          "press": "",
+          "date": "2026-08-23"
+        },
+        {
+          "title": "[K리그1 라인업] '연속 골' 주민규-'4달 만에 선발' 이순민 출격...홈 연...",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=693051",
+          "press": "",
+          "date": "2026-08-23"
+        },
+        {
+          "title": "제주관광공사 '관광 미담' 선행 6명에 감사패 전달",
+          "link": "http://www.samdailbo.com/news/articleView.html?idxno=269357",
+          "press": "",
+          "date": "2026-08-23"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "keyword": "김재중",
+      "traffic": "500+",
+      "blogTotal": 43934,
+      "newsTotal": 114786,
+      "recentToday": 18,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "“눈 마주치면 끌려갔다” 김재중 학폭 피해 고백, 산길로 등교한 ....",
+          "link": "https://blog.naver.com/a_shizuru/224383521313",
+          "blogger": "바닐라 에디트.",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "혼다 히토미 눈물로 '세이마이네임'의 컴백을 호소했고 뒤에는 소속....",
+          "link": "https://blog.naver.com/nadiatear0/224383132055",
+          "blogger": "☆*:.My Sweet Haven.:*☆",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "\"보기 싫습니다..\" 입양아 김재중 친아빠를 용서 못 하는 이유",
+          "link": "https://blog.naver.com/8winner/224312097749",
+          "blogger": "레슬리 매거진",
+          "date": "2026-06-10"
+        },
+        {
+          "title": "“눈 안 마주치려 땅만 봤다” 김재중 학폭 고백, 거북목까지 남은 ....",
+          "link": "https://blog.naver.com/dongneggoma/224383101953",
+          "blogger": "덕후양성소",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "김재중 친모 오서진 손절 도쿄 집 아파트",
+          "link": "https://blog.naver.com/dkffod123/224363041241",
+          "blogger": "달콤한 나의 맛집도시",
+          "date": "2026-07-30"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "김재중, 계단 위 여유 비주얼…'더 웨이브' 음방 소감",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16170847",
+          "press": "",
+          "date": "2026-08-23"
+        },
+        {
+          "title": "\"아날로그 인간\"…'편스토랑' 김용빈, 남승민 위해 키오스크 주문 첫 도...",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16170811",
+          "press": "",
+          "date": "2026-08-23"
+        },
+        {
+          "title": "'인기가요' 스트레이 키즈, 단 2점 차 접전 끝에 1위 [TV캡처]",
+          "link": "http://www.stoo.com/article.php?aid=108468978993",
+          "press": "",
+          "date": "2026-08-23"
+        },
+        {
+          "title": "'인기가요' 김재중·엔하이픈 등 컴백...23일 출연진 라인업",
+          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3671878",
+          "press": "",
+          "date": "2026-08-23"
+        },
+        {
+          "title": "'인기가요' 오늘(23일) 김재중·미미·앳하트·엔하이픈·원위·키키·Ax...",
+          "link": "http://www.celuvmedia.com/article.php?aid=1787454659526189007",
           "press": "",
           "date": "2026-08-23"
         }
@@ -514,82 +514,155 @@
       "rank": 7
     },
     {
-      "keyword": "원태인",
-      "traffic": "200+",
-      "blogTotal": 11901,
-      "newsTotal": 51537,
-      "recentToday": 38,
+      "keyword": "경향신문",
+      "traffic": "100+",
+      "blogTotal": 119307,
+      "newsTotal": 814641,
+      "recentToday": 12,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "원태인 MLB 600만 달러 전망, 공식 제안과 전혀 다른 결정적 이유는",
-          "link": "https://blog.naver.com/yfg7459/224376428952",
-          "blogger": "갓플베",
-          "date": "2026-08-12"
+          "title": "경향신문 구독 및 디지털 활용 총정리! 구독료 비교와 핵심 혜택 알....",
+          "link": "https://blog.naver.com/nstartkkh/224366315940",
+          "blogger": "nstart 지식",
+          "date": "2026-08-03"
         },
         {
-          "title": "원태인 MLB 600만 달러 제안? 삼성 에이스에게 진짜 벌어진 일",
-          "link": "https://blog.naver.com/estauce/224376677871",
-          "blogger": "골프여행♥인플루언서",
-          "date": "2026-08-12"
+          "title": "[과거 속 시사] 2009년 언론이 바라본 故 노무현 전 대통령: 미디어오....",
+          "link": "https://blog.naver.com/anrmrdufo/224354040730",
+          "blogger": "자유로운 일상",
+          "date": "2026-07-22"
         },
         {
-          "title": "“이러다 FA까지 간다” 원태인·구자욱 비FA 다년계약 무산, 삼성에 ....",
-          "link": "https://blog.naver.com/jspolog/224373555561",
-          "blogger": "동그란 스포츠",
-          "date": "2026-08-10"
+          "title": "경제신문 무료 구독하는 방법! 1년에 20만원 절약하기 (+ 매일경제, ....",
+          "link": "https://blog.naver.com/oct_xxviii/224364532069",
+          "blogger": "하고싶은 거 하기",
+          "date": "2026-08-01"
         },
         {
-          "title": "원태인 MLB 600만 달러 제안설의 솔직한 실체",
-          "link": "https://blog.naver.com/dudal0080/224375923059",
-          "blogger": "건강전도사 dudal",
-          "date": "2026-08-12"
+          "title": "[내돈내산] 매일경제 종이신문 구독 후기 매경 구독료",
+          "link": "https://blog.naver.com/su_essence/224378916038",
+          "blogger": "1일 전",
+          "date": "2026-08-14"
         },
         {
-          "title": "5이닝 2실점인데도 웃지 못했다… 원태인이 스스로에게 가장 실망한....",
-          "link": "https://blog.naver.com/doobidub77/224338768578",
-          "blogger": "새벽 부엉이",
-          "date": "2026-07-07"
+          "title": "서울아트시네마 / 경향신문사 구내식당",
+          "link": "https://blog.naver.com/beautypines/224298227224",
+          "blogger": "기억과 기록",
+          "date": "2026-05-27"
         }
       ],
       "topNews": [
         {
-          "title": "“이 선수 해외 가나요?” ML 스카우트도 삼성 원태인이 궁금하다",
-          "link": "https://sports.khan.co.kr/article/202608231219003?pt=nv",
+          "title": "‘본 구역 vs 주변 구역’···정부·서울시 용산공원 주택 공급, 택지...",
+          "link": "https://www.khan.co.kr/article/202608231813001",
           "press": "",
           "date": "2026-08-23"
         },
         {
-          "title": "‘영웅이 돌아온다’ 퓨처스서 2홈런 폭발→23일 1군 복귀…박진만 “타...",
-          "link": "https://www.sportsseoul.com/news/read/1630059?ref=naver",
+          "title": "[부고] 김성준(경향신문 광고국 부장)씨 부친상 외",
+          "link": "https://www.hankookilbo.com/news/article/A2026082314220000944?did=NA",
           "press": "",
-          "date": "2026-08-22"
+          "date": "2026-08-23"
         },
         {
-          "title": "'신분 상승' 삼성 좌승현, 선발 복귀전서 연패 빠진 '사자군단' 구해낼...",
-          "link": "https://www.xportsnews.com/article/2186627",
+          "title": "오늘의 부고 종합",
+          "link": "https://www.edaily.co.kr/News/Read?newsId=02076246645550272&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
           "press": "",
-          "date": "2026-08-22"
+          "date": "2026-08-23"
         },
         {
-          "title": "‘2안타+2득점+도루’ 김주원 펄펄…“지난시즌 9연승 해봤다, 올해도 ...",
-          "link": "https://www.sportsseoul.com/news/read/1630027?ref=naver",
+          "title": "“자본에 맞서면 ‘민사소송’ 처벌 ···‘살아있는 죽은 자’로 만들...",
+          "link": "https://www.khan.co.kr/article/202608231629001",
           "press": "",
-          "date": "2026-08-22"
+          "date": "2026-08-23"
         },
         {
-          "title": "원태인의 QS+ 호투에도 잔루 10개... NC에 무릎 꿇은 삼성",
-          "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003260999&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+          "title": "‘AI 편향’ 보도 4년 새 4배… 생성형 AI 시대, ‘편견 없는 AI’ 만들려...",
+          "link": "https://www.womennews.co.kr/news/articleView.html?idxno=281199",
           "press": "",
-          "date": "2026-08-22"
+          "date": "2026-08-23"
         }
       ],
       "rank": 8
     },
     {
-      "keyword": "윤이나",
+      "keyword": "신청사",
       "traffic": "200+",
-      "blogTotal": 10485,
+      "blogTotal": 32357,
+      "newsTotal": 194629,
+      "recentToday": 4,
+      "recentWeek": 89,
+      "topBlogs": [
+        {
+          "title": "부산 북항 해양수산부 신청사 부지 확정, 롯데캐슬 드메르 호재 될....",
+          "link": "https://blog.naver.com/itsmebonnie/224374170542",
+          "blogger": "Bon의 현실취향",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "해양수산부 신청사 북항 1단계 재개발부지 확정",
+          "link": "https://blog.naver.com/smallprg/224373048947",
+          "blogger": "이슈노트",
+          "date": "2026-08-09"
+        },
+        {
+          "title": "해수부 신청사 초량동 확정 - 초량동아파트 북항 월드메르디앙 도보....",
+          "link": "https://blog.naver.com/rjsgpem/224381029192",
+          "blogger": "죠니의 부산 연구소",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "부산 북항 돔야구장, 해수부 신청사 부지 확정 후 어떻게 되나",
+          "link": "https://blog.naver.com/turtle3728/224377826983",
+          "blogger": "성공 연구소님의 블로그",
+          "date": "2026-08-13"
+        },
+        {
+          "title": "해수부 신청사 8월 6일 발표, 다음 일정 보는 법",
+          "link": "https://blog.naver.com/ranis10/224370970490",
+          "blogger": "라니의팔도지도",
+          "date": "2026-08-07"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "민경선 고양시장 \"고양시 주교동 신청사, 2028년 상반기 착공 목표\"",
+          "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1534998",
+          "press": "",
+          "date": "2026-08-23"
+        },
+        {
+          "title": "원희룡 시작-오영훈 백지화-위성곤 재추진? 지방비만 수백 억 제주시 청...",
+          "link": "http://www.samdailbo.com/news/articleView.html?idxno=269355",
+          "press": "",
+          "date": "2026-08-23"
+        },
+        {
+          "title": "흉기 들고 전처 집 침입 시도…60대 현행범 체포",
+          "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2435609",
+          "press": "",
+          "date": "2026-08-23"
+        },
+        {
+          "title": "중도금 못 내고 매수인까지 교체…대백 매각 또 무산되나",
+          "link": "https://www.kbmaeil.com/article/20260823500466",
+          "press": "",
+          "date": "2026-08-23"
+        },
+        {
+          "title": "순천시 신청사 올해 입주…원도심 부흥 이끈다",
+          "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000058853",
+          "press": "",
+          "date": "2026-08-23"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "keyword": "윤이나",
+      "traffic": "500+",
+      "blogTotal": 10484,
       "newsTotal": 32895,
       "recentToday": 4,
       "recentWeek": 29,
@@ -655,79 +728,6 @@
           "link": "https://www.edaily.co.kr/News/Read?newsId=01108646645550272&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
           "press": "",
           "date": "2026-08-22"
-        }
-      ],
-      "rank": 9
-    },
-    {
-      "keyword": "이강준",
-      "traffic": "200+",
-      "blogTotal": 2030,
-      "newsTotal": 9961,
-      "recentToday": 1,
-      "recentWeek": 14,
-      "topBlogs": [
-        {
-          "title": "키움 이강준 팔꿈치 수술 후 복귀! 사이드암 158km 재현 가능할까?",
-          "link": "https://blog.naver.com/in__sight/224383327808",
-          "blogger": "더 스코어 (The Score)",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "\"롯데가 내준 40억 한현희 보상선수\" 158km 던진 파이어볼러 이강준은 ....",
-          "link": "https://blog.naver.com/dyts60/224380599073",
-          "blogger": "크보한입",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "\"426일을 버텼다\" 키움 이강준, 토미 존 끝에 다시 1군으로 돌아온 진....",
-          "link": "https://blog.naver.com/rlfehdud/224386809856",
-          "blogger": "두 아들 아빠의 아마추어 선수 도전기",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "\"롯데가 이강준 위해 보냈던 내야수\" 시즌 후 FA로 친정팀 복귀할까",
-          "link": "https://blog.naver.com/ryan901/224373352573",
-          "blogger": "스포츠에미친인간",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "\"44경기 중 42경기를 무실점으로 막았다고?\".. 키움 이강준, 한현희 대....",
-          "link": "https://blog.naver.com/baseballprince/224385079989",
-          "blogger": "baseballprince님의 블로그",
-          "date": "2026-08-21"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "마무의리 무너뜨렸다!…‘김재현 끝내기 만루포’ 키움, KIA에 2-7→8-7 대...",
-          "link": "https://www.mk.co.kr/article/12134254",
-          "press": "",
-          "date": "2026-08-23"
-        },
-        {
-          "title": "키움 김재현, 이의리 상대로 역대 3번째 3점차 역전 끝내기 만루포(종합...",
-          "link": "https://www.newsis.com/view/NISX20260823_0003759040",
-          "press": "",
-          "date": "2026-08-23"
-        },
-        {
-          "title": "'이런 드라마가 있나' KIA 상대 9회 대역전극 만든 키움, 사령탑도 웃었...",
-          "link": "https://www.xportsnews.com/article/2187065",
-          "press": "",
-          "date": "2026-08-23"
-        },
-        {
-          "title": "김재현, 이의리 상대 끝내기 만루포…키움, 이틀 연속 KIA 제압",
-          "link": "https://www.newsis.com/view/NISX20260823_0003758915",
-          "press": "",
-          "date": "2026-08-23"
-        },
-        {
-          "title": "'김재현 끝내기 만루포' 키움, 9회 6득점 대역전승…'김도영 38호포' KIA...",
-          "link": "http://www.stoo.com/article.php?aid=108469250532",
-          "press": "",
-          "date": "2026-08-23"
         }
       ],
       "rank": 10
