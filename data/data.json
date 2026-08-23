@@ -1,12 +1,85 @@
 {
-  "updatedAt": "2026-08-23T06:36:06.729Z",
+  "updatedAt": "2026-08-23T07:30:57.356Z",
   "source": "live",
   "keywords": [
     {
+      "keyword": "수영구",
+      "traffic": "200+",
+      "blogTotal": 567960,
+      "newsTotal": 148991,
+      "recentToday": 100,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "부산 수영 닭발 맛집ㅣ닭발의 지존",
+          "link": "https://blog.naver.com/johs1125/224373225483",
+          "blogger": "좋은것만 모아서",
+          "date": "2026-08-09"
+        },
+        {
+          "title": "부산 수영구 맛집 : 양가네양곱창 내돈내산 웨이팅",
+          "link": "https://blog.naver.com/nanuris2/224367551065",
+          "blogger": "ෆ",
+          "date": "2026-08-04"
+        },
+        {
+          "title": "[전국 재개발#106] 부산 수영구 재개발 ▪ 재건축 2026년 최신현황(남....",
+          "link": "https://blog.naver.com/jirihada/224340397533",
+          "blogger": "차 한잔과 세상",
+          "date": "2026-07-15"
+        },
+        {
+          "title": "부산 수영구 임산부 영유아 도서 택배 무료로 책 빌리는 방법",
+          "link": "https://blog.naver.com/hellokong99/224374418649",
+          "blogger": "나리네놀이시간",
+          "date": "2026-08-11"
+        },
+        {
+          "title": "수영구 광안동 상가 사무실 임대ㅣ광안리 생활권! [사무실·학원·공....",
+          "link": "https://blog.naver.com/jigollaid/224371972802",
+          "blogger": "서복어가 사는 세상",
+          "date": "2026-08-10"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "음주운전으로 환경미화원 숨지게 하곤 ‘운전자 바꿔치기’…구형보다...",
+          "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260823.99099006277",
+          "press": "",
+          "date": "2026-08-23"
+        },
+        {
+          "title": "금강주택, 광안리 생활권 하이퍼엔드 단지 '알티에로 광안'",
+          "link": "https://www.apnews.kr/news/articleView.html?idxno=3050619",
+          "press": "",
+          "date": "2026-08-23"
+        },
+        {
+          "title": "대형마트 휴무일, 이마트·롯데마트·홈플러스·코스트코 ‘쉬는 날?’",
+          "link": "https://www.bntnews.co.kr/article/view/bnt202608210292",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "부산 영도·수영구 국유지에 ‘고령자 주거 공간’ 조성",
+          "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8643500&ref=A",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "주말 전국 비·소나기 뒤 무더위…남부 체감 35도 안팎",
+          "link": "https://idsn.co.kr/news/view/1065590025394246",
+          "press": "",
+          "date": "2026-08-22"
+        }
+      ],
+      "rank": 1
+    },
+    {
       "keyword": "삼성",
       "traffic": "10000+",
-      "blogTotal": 8195504,
-      "newsTotal": 12729374,
+      "blogTotal": 8195874,
+      "newsTotal": 12729420,
       "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
@@ -29,119 +102,46 @@
           "date": "2026-07-16"
         },
         {
-          "title": "삼성케어플러스 중고폰도 가능할까 삼케플 명의변경 양도 월 비용 ....",
-          "link": "https://blog.naver.com/bus_mobile/224372035553",
-          "blogger": "BUSMOBILE",
-          "date": "2026-08-08"
-        },
-        {
           "title": "삼성 비스포크 AI콤보 세탁기 실사용 후기 | 건조기 따로 안 산 이유",
           "link": "https://blog.naver.com/jkzkan/224330652358",
           "blogger": "자유여행자의 블로그",
           "date": "2026-06-29"
+        },
+        {
+          "title": "삼성페이 교통카드 등록 방법 완벽정리 2026  지갑 없이 폰만 대면 끝....",
+          "link": "https://blog.naver.com/uulluu/224362199059",
+          "blogger": "트렌드 인 사이트 (Trend In Sight)",
+          "date": "2026-07-30"
         }
       ],
       "topNews": [
         {
-          "title": "[칼럼] '내가 조경희를 꿈꾸는 까닭'",
-          "link": "https://daily.hankooki.com/news/articleView.html?idxno=1398239",
+          "title": "‘모바일 칩 절대강자’ 넘었다… 삼성 엑시노스 2700의 절치부심",
+          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000005262&cp=nv",
           "press": "",
           "date": "2026-08-23"
         },
         {
-          "title": "'승격 경쟁자'들만 만나면 작아지는 대구FC",
-          "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=557293",
+          "title": "삼전 ‘최대 110조’ 주주환원 보따리 풀었지만…주주들 냉랭, 왜",
+          "link": "https://www.joongang.co.kr/article/25455424",
           "press": "",
           "date": "2026-08-23"
         },
         {
-          "title": "“바닥인가, 피크아웃인가”…삼전닉스에 다시 쌓이는 ‘빚투’",
-          "link": "http://www.metroseoul.co.kr/article/20260823500230",
+          "title": "‘7억 성과급에 자사주 60%’…SK하이닉스 노조 투표 통과할까",
+          "link": "https://www.dt.co.kr/article/12079647?ref=naver",
           "press": "",
           "date": "2026-08-23"
         },
         {
-          "title": "삼성전자, 상반기 특허 1만1000건 넘었다…2개 반기 연속 '1만건'",
-          "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=609288",
+          "title": "6위까지 찍었다…롯데, 방망이 살아나자 5연승",
+          "link": "https://www.busan.com/view/busan/view.php?code=2026082316191093982",
           "press": "",
           "date": "2026-08-23"
         },
         {
-          "title": "HLB, MSCI 8년 만에 퇴출…FDA 불발에 시총 2조 증발",
-          "link": "https://www.bloter.net/news/articleView.html?idxno=671563",
-          "press": "",
-          "date": "2026-08-23"
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "keyword": "카자흐스탄",
-      "traffic": "200+",
-      "blogTotal": 71503,
-      "newsTotal": 334566,
-      "recentToday": 100,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "전현무 따라 떠나는 카자흐스탄여행 알마티 무계획 코스",
-          "link": "https://blog.naver.com/yuhee0206/224381504990",
-          "blogger": "HEEBLOG",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "공항에서 여행지 고르기?! 나혼자산다 전현무 카자흐스탄 즉흥 여행....",
-          "link": "https://blog.naver.com/shushu9988/224379346949",
-          "blogger": "재린슈슈의 리뷰노트",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "카자흐스탄 콜사이호수 카인디호수 가는법 투어 나혼자산다 전현무....",
-          "link": "https://blog.naver.com/halosoy/224381842131",
-          "blogger": "또이빈의 내일도 여행중",
-          "date": "2026-08-18"
-        },
-        {
-          "title": "[나혼자산다] 전현무 카자흐스탄 알마티 양고기 맛집 '베네치아' 위....",
-          "link": "https://blog.naver.com/lovesbn7/224379829122",
-          "blogger": "다락방에디터",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "카자흐스탄 여행 패키지 NO, 알마티 자유 여행 4박 5일 코스 일정",
-          "link": "https://blog.naver.com/bian258/224379470627",
-          "blogger": "지구는 둥그니까",
-          "date": "2026-08-15"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "[김상욱의 중앙아시아 통신] 알타이에서 백중을 만나다",
-          "link": "https://www.kgnews.co.kr/news/article.html?no=908645",
-          "press": "",
-          "date": "2026-08-23"
-        },
-        {
-          "title": "아산시, 다국어 시정소식 안내 '위클리 아산' 운영",
-          "link": "https://www.dynews.co.kr/news/articleView.html?idxno=862535",
-          "press": "",
-          "date": "2026-08-23"
-        },
-        {
-          "title": "윤홍근 BBQ 회장, CEO 포럼서 31년 도전과 혁신 경험 공유",
-          "link": "https://www.sportsseoul.com/news/read/1630194?ref=naver",
-          "press": "",
-          "date": "2026-08-23"
-        },
-        {
-          "title": "아산시, AI로 외국인 시정정보 장벽 낮춘다…'위클리 아산' 본격 운영",
-          "link": "http://www.cctimes.kr/news/articleView.html?idxno=922984",
-          "press": "",
-          "date": "2026-08-23"
-        },
-        {
-          "title": "아산시,외국인 다국어 시정안내 서비스 본격 운영",
-          "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2435590",
+          "title": "삼성전자 110조원 푼다는데 주가는 왜 떨어졌나…'주당가치'가 갈랐다",
+          "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000058834",
           "press": "",
           "date": "2026-08-23"
         }
@@ -149,72 +149,72 @@
       "rank": 2
     },
     {
-      "keyword": "엔비디아",
+      "keyword": "성리",
       "traffic": "2000+",
-      "blogTotal": 359909,
-      "newsTotal": 533990,
-      "recentToday": 100,
+      "blogTotal": 18136,
+      "newsTotal": 21703,
+      "recentToday": 84,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "엔비디아의 스페이스X 지분 투자, 순환금융 덫일까?",
-          "link": "https://blog.naver.com/vitamin2230/224379422282",
-          "blogger": "REONE P&I",
-          "date": "2026-08-16"
+          "title": "\"무명전설 성리\" 본명 나이 고향 프로필 우승 근황",
+          "link": "https://blog.naver.com/coco_store/224376725298",
+          "blogger": "코코점빵",
+          "date": "2026-08-13"
         },
         {
-          "title": "\"엔비디아 목숨 건 도박\" 이거 성공하면, 코스피 천상계 갈 것 같다",
-          "link": "https://blog.naver.com/meaning87/224377486458",
-          "blogger": "은퇴연구소",
-          "date": "2026-08-14"
+          "title": "성리가 이끄는 '전설의사내' 6주 연속 1위! 시청률 신기록 터졌다",
+          "link": "https://blog.naver.com/bentttt/224384493251",
+          "blogger": "트로트리포트",
+          "date": "2026-08-20"
         },
         {
-          "title": "엔비디아 1000억 달러 투자의 함정 엔비디아 순환출자 논란",
-          "link": "https://blog.naver.com/nextar20/224359880779",
-          "blogger": "아무래도 우린 여행",
-          "date": "2026-07-28"
+          "title": "전설의 사내' 성리, 우승 특전 신곡 ‘새드 레인’ 최초 공개! (ft. 김....",
+          "link": "https://blog.naver.com/ksm9663/224383251636",
+          "blogger": "선매네 작은뜰",
+          "date": "2026-08-19"
         },
         {
-          "title": "엔비디아 베라 루빈 뜻, HBM4·NVLink 6세대 핵심 기술 한눈에",
-          "link": "https://blog.naver.com/sbn1024/224342616535",
-          "blogger": "경제 포커스",
-          "date": "2026-07-11"
+          "title": "성리 신곡 ‘Sad Rain’ 드디어 공개…김진룡 “깜짝 놀라실 것” 극....",
+          "link": "https://blog.naver.com/spssp8888/224383113798",
+          "blogger": "부자형님",
+          "date": "2026-08-19"
         },
         {
-          "title": "젝슨황 누구? 젠슨 황 엔비디아 CEO의 성공 신화와 자산 161조의 비밀",
-          "link": "https://blog.naver.com/tonnykim3999/224317379655",
-          "blogger": "맛살의 테크 스토리",
-          "date": "2026-06-16"
+          "title": "성리  트로트 넘어 얼터너티브 록까지, 장르 넘나드는 가수로.",
+          "link": "https://blog.naver.com/rich8507/224384557512",
+          "blogger": "트롯별",
+          "date": "2026-08-20"
         }
       ],
       "topNews": [
         {
-          "title": "[마켓 ING]코스피, 금리 부담 VS 주주환원 기대감",
-          "link": "https://view.asiae.co.kr/article/2026082315242575694",
+          "title": "\"우리 셋은 같이 있어도 되는 사이\"…'무명전설' 성리X하루X황윤성, 사주...",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16170800",
           "press": "",
           "date": "2026-08-23"
         },
         {
-          "title": "자율주행 승부 AI 모델로…현대차, 상용화 추격 속도",
-          "link": "https://www.g-enews.com/view.php?ud=202608211505182090112616b072_1",
+          "title": "성리 팬클럽, 거제·통영 수재민 위해 통 큰 기부",
+          "link": "https://www.mediapen.com/news/view/1118269",
           "press": "",
           "date": "2026-08-23"
         },
         {
-          "title": "삼성전자·SK하이닉스 존재감 얼마나 더 커지나...엔비디아, 메모리값 폭...",
-          "link": "https://www.joongangenews.com/news/articleView.html?idxno=541972",
+          "title": "성리 팬클럽 '성리학자', 수해 이웃 돕기에 5400만원 기부",
+          "link": "http://www.stoo.com/article.php?aid=108468354930",
           "press": "",
           "date": "2026-08-23"
         },
         {
-          "title": "이번 주 엔비디아 실적 영향 관심...기준금리도 주목",
-          "link": "https://www.ytn.co.kr/_ln/0102_202608231516112138",
+          "title": "성리 팬클럽, 수재민 위해 5400만원 기부…아티스트 닮은 훈훈 행보",
+          "link": "http://www.celuvmedia.com/article.php?aid=1787467150526192007",
           "press": "",
           "date": "2026-08-23"
         },
         {
-          "title": "메모리값 급등에 엔비디아도 백기…AI 서버값 15% 인상",
-          "link": "http://www.newstomato.com/ReadNews.aspx?no=1311082&inflow=N",
+          "title": "성리, 팬들 선행 직접 인증 “수재민 위해 5400만원 기부‥팬들 본받겠...",
+          "link": "https://www.newsen.com/news_view.php?uid=202608231215505710",
           "press": "",
           "date": "2026-08-23"
         }
@@ -222,72 +222,72 @@
       "rank": 3
     },
     {
-      "keyword": "타율",
+      "keyword": "상추",
       "traffic": "2000+",
-      "blogTotal": 49792,
-      "newsTotal": 806366,
-      "recentToday": 70,
+      "blogTotal": 512494,
+      "newsTotal": 131793,
+      "recentToday": 79,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "“타율 0.357 선두” 삼성 구자욱, KBO리그 평정이라 불리는 이유",
-          "link": "https://blog.naver.com/yfg7459/224381175344",
-          "blogger": "갓플베",
-          "date": "2026-08-17"
+          "title": "가을상추 키우기, 상추 심는 시기와 심는 방법",
+          "link": "https://blog.naver.com/darl23/224380029570",
+          "blogger": "달콤이네 사는이야기",
+          "date": "2026-08-16"
         },
         {
-          "title": "박주아 타율 0.381, 김현아·김라경 미국 여자프로야구 근황은?",
-          "link": "https://blog.naver.com/dkan59/224380940537",
-          "blogger": "오늘의 이슈를 쉽게",
-          "date": "2026-08-17"
+          "title": "떡먹고 싶을때 혈당 뚝! 상추버무리 요리 당뇨에 좋은 음식",
+          "link": "https://blog.naver.com/cook_happy/224374066460",
+          "blogger": "요리하기 좋은 오늘",
+          "date": "2026-08-10"
         },
         {
-          "title": "[KIA 타이거즈] \"수비는 최고인데 왜?\" FA 김호령,  타율 0.266 추락을 둘....",
-          "link": "https://blog.naver.com/leodao0330/224378425465",
-          "blogger": "몽엔스포츠 Mong EnSport",
-          "date": "2026-08-14"
+          "title": "가을 상추 심는 시기 언제일까? 8월, 9월 파종부터 수확까지",
+          "link": "https://blog.naver.com/ssmesme/224374480350",
+          "blogger": "초록한 하루",
+          "date": "2026-08-10"
         },
         {
-          "title": "타율 0.412, 아직도 깨지지 않았다…백인천 전 감독 별세",
-          "link": "https://blog.naver.com/hongyd3433/224378338955",
-          "blogger": "라이프 인사이트",
-          "date": "2026-08-14"
+          "title": "양상추 손질 후 샐러드용 소분 보관하는 방법",
+          "link": "https://blog.naver.com/dolce6644/224335049430",
+          "blogger": "돌레의 막무가내 블로그 (●'◡'●)",
+          "date": "2026-07-03"
         },
         {
-          "title": "타율 0.136로 끝난 줄 알았는데... KIA서 방출된 37세 서건창, 키움서 0.3....",
-          "link": "https://blog.naver.com/young2542/224378624237",
-          "blogger": "나의 작은 보금자리",
-          "date": "2026-08-14"
+          "title": "베란다 식물 근황 상추 바질 사과들과 율마 그리고 레몬밤인 줄 알....",
+          "link": "https://blog.naver.com/lmr0213/224331982722",
+          "blogger": "야망있는여자",
+          "date": "2026-07-01"
         }
       ],
       "topNews": [
         {
-          "title": "빅리그 콜업 불발… 김혜성, ‘빈자리’ 생겨도 다저스 선택 못 받았다",
-          "link": "https://www.sportsworldi.com/newsView/20260823507029",
+          "title": "\"무색해진 처서\"…폭염 속 피서객 발길 '북적'",
+          "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000058831",
           "press": "",
           "date": "2026-08-23"
         },
         {
-          "title": "'타율 0.066' 김하성, 7경기 연속 결장…애틀랜타는 밀워키에 1-4 패배",
-          "link": "http://www.stoo.com/article.php?aid=108468038706",
+          "title": "“마트 할인가보다 싸요”…치솟는 물가에 ‘골목 청과점’ 잘 나간다",
+          "link": "https://www.sedaily.com/article/20082238?ref=naver",
           "press": "",
           "date": "2026-08-23"
         },
         {
-          "title": "34도 폭염 속 땀흘리는 젊은 독수리들…68세 老감독도 뙤약볕 아래 함께...",
-          "link": "https://www.sportschosun.com/baseball/2026-08-23/202608230100134530008617",
+          "title": "\"처서 매직 어디에\"…전국 늦더위에 휴일 피서인파 북적",
+          "link": "https://www.yna.co.kr/view/AKR20260823031000064?input=1195m",
           "press": "",
           "date": "2026-08-23"
         },
         {
-          "title": "‘돌멩이’ 문현빈의 성장통에 끝이 보인다…“다음엔 더 잘 이겨낼게요...",
-          "link": "https://www.joongang.co.kr/article/25455410",
+          "title": "에티오피아의 새로운 꽃, 도시농업의 가능성",
+          "link": "https://www.inews365.com/news/article.html?no=932677",
           "press": "",
           "date": "2026-08-23"
         },
         {
-          "title": "사구 후유증 없었다… 김도영, 135m 대포 쾅! 개인 최다 ‘38홈런’ 타이",
-          "link": "https://www.sportsworldi.com/newsView/20260823506907",
+          "title": "상추, 제대로 씻으려면…식초·베이킹소다보다 중요한 것은 ‘○번 세척...",
+          "link": "https://www.khan.co.kr/article/202608231200001",
           "press": "",
           "date": "2026-08-23"
         }
@@ -297,9 +297,9 @@
     {
       "keyword": "장미란 시신",
       "traffic": "20000+",
-      "blogTotal": 101,
-      "newsTotal": 124,
-      "recentToday": 65,
+      "blogTotal": 108,
+      "newsTotal": 138,
+      "recentToday": 72,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -315,12 +315,6 @@
           "date": "2026-08-22"
         },
         {
-          "title": "장미란 씨 시신 발견설 오보 남자시신…그런데 그 시신은 같은 경찰....",
-          "link": "https://blog.naver.com/miyampuzzy/224387437543",
-          "blogger": "연예·K-pop 방송 이슈",
-          "date": "2026-08-23"
-        },
-        {
           "title": "제주 실종 장미란 추정 시신 수습, 담당 수사관 긴급체포 이유",
           "link": "https://blog.naver.com/makeupbyak/224386885333",
           "blogger": "깨알토커",
@@ -331,36 +325,42 @@
           "link": "https://blog.naver.com/gkirohamo/224387184770",
           "blogger": "Restart",
           "date": "2026-08-23"
+        },
+        {
+          "title": "장미란 씨 시신 발견설 오보 남자시신…그런데 그 시신은 같은 경찰....",
+          "link": "https://blog.naver.com/miyampuzzy/224387437543",
+          "blogger": "연예·K-pop 방송 이슈",
+          "date": "2026-08-23"
         }
       ],
       "topNews": [
         {
-          "title": "실종 신고에 경찰 \"무사하다\"며 '허위 종결'⋯51일 후 시신으로",
-          "link": "http://www.inews24.com/view/1997401",
+          "title": "제주서 허위 종결 뒤 시신으로 발견된 60대…유족 \"경찰 뭐했나\" 항의",
+          "link": "http://www.yonhapnewstv.co.kr/news/AKR20260823162534k1M",
           "press": "",
           "date": "2026-08-23"
         },
         {
-          "title": "[속보] 주검으로 발견된 실종자.. 유족 \"죽고 나서 찾으면 뭐하나\" 울분",
-          "link": "https://www.jibs.co.kr/news/articles/articlesDetail/64778?feed=na",
+          "title": "\"백골될 때까지 경찰은 뭘했나\"…제주 허위종결 실종자 유족 절규",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008717579&plink=ORI&cooper=NAVER",
           "press": "",
           "date": "2026-08-23"
         },
         {
-          "title": "실종신고 종결했는데 행방 묘연…51일 만에 숨진 채 발견",
-          "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000058824",
+          "title": "“죽은 다음에 찾으면 뭐해”… 경찰이 허위 종결한 제주 60대 실종자 유...",
+          "link": "https://www.hankookilbo.com/news/article/A2026082315520005745?did=NA",
           "press": "",
           "date": "2026-08-23"
         },
         {
-          "title": "실종 사건 잇단 ‘허위 종결’…가족 “시신 몇 구나 더 나와야 사죄할...",
-          "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8643644&ref=A",
+          "title": "“실종자 무사하다” 거짓말하고 사건 종결…경찰 허위조작에 국수본부...",
+          "link": "https://www.dt.co.kr/article/12079646?ref=naver",
           "press": "",
           "date": "2026-08-23"
         },
         {
-          "title": "제주 실종 사건 '허위 종결' 파문... 한성숙 총리 \"전반적 진상 조사·재...",
-          "link": "https://www.insight.co.kr/news/569598",
+          "title": "[속보] “백골될 때까지 경찰 뭘했나”…제주 허위종결 실종자 유족 절...",
+          "link": "https://www.dt.co.kr/article/12079644?ref=naver",
           "press": "",
           "date": "2026-08-23"
         }
@@ -368,12 +368,158 @@
       "rank": 5
     },
     {
+      "keyword": "비자금",
+      "traffic": "200+",
+      "blogTotal": 25283,
+      "newsTotal": 308839,
+      "recentToday": 54,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "노태우 비자금 904억 검찰 수사 착수…김옥숙 자택 압수수색, 재산분....",
+          "link": "https://blog.naver.com/eve747474/224386941769",
+          "blogger": "소소한일상 | 생활 꿀팁 & 이슈",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "김옥숙 자택 압수수색, 노태우 비자금이라는데 최태원 노소영 이혼 ....",
+          "link": "https://blog.naver.com/srown1324/224385427773",
+          "blogger": "데일리픽",
+          "date": "2026-08-21"
+        },
+        {
+          "title": "[속보] 노태우 비자금 김옥숙 자택 압수수색, ‘김옥숙 메모’ 904억....",
+          "link": "https://blog.naver.com/solee1440/224386112849",
+          "blogger": "까다로운 S",
+          "date": "2026-08-21"
+        },
+        {
+          "title": "세기의 이혼 소송이 불러온 대참사, 숨겨진 300억 비자금의 진실은?",
+          "link": "https://blog.naver.com/gostraight74/224386484644",
+          "blogger": "건강파수꾼",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "최태원·노소영 이혼 소송의 나비효과, 35년 숨겨진 '노태우 비자금 3....",
+          "link": "https://blog.naver.com/ektsn/224385771015",
+          "blogger": "별이진다네",
+          "date": "2026-08-21"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "역대 대통령 떠밀려 탈당…이번엔 다를까 [옛날신문보기]",
+          "link": "https://www.sisaon.co.kr/news/articleView.html?idxno=203728",
+          "press": "",
+          "date": "2026-08-23"
+        },
+        {
+          "title": "최태원·노소영 '세기의 이혼'이 남긴 것…부부 재산, 누구 돈까지 나눠...",
+          "link": "https://news.ifm.kr/news/articleView.html?idxno=477706",
+          "press": "",
+          "date": "2026-08-23"
+        },
+        {
+          "title": "SK 성장의 비밀…직물공장 선경, 재계 5위로 —최태원·노소영 이혼이 ...",
+          "link": "https://www.the-today.com/news/articleView.html?idxno=88797",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "SK 성장의 비밀?…최태원·노소영 이혼→300억 비자금 잔혹사 (1부)",
+          "link": "https://www.the-today.com/news/articleView.html?idxno=88796",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "[종합] ‘오싹한 연애’ 옹성우, 박은빈에 살인 누명…마지막회 천여리...",
+          "link": "https://enter.etoday.co.kr/news/view/301389",
+          "press": "",
+          "date": "2026-08-22"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "keyword": "메르세데스-마이바흐",
+      "traffic": "500+",
+      "blogTotal": 7359,
+      "newsTotal": 13362,
+      "recentToday": 15,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "2027 메르세데스 마이바흐 S클래스 가격 제원 옵션까지 총정리",
+          "link": "https://blog.naver.com/pocket5021/224385548323",
+          "blogger": "댄방이 IT",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "\"풀옵션이 무려 4억 6천만 원 이상\" 2027 더 뉴 메르세데스-마이바흐 S....",
+          "link": "https://blog.naver.com/bin8170/224386681135",
+          "blogger": "Car스케치",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "2027년형 메르세데스 마이바흐 GLS 680 - 더욱 강력해진 럭셔리 SUV의 귀....",
+          "link": "https://blog.naver.com/mcdeca/224354195548",
+          "blogger": "짜래의고고씽",
+          "date": "2026-07-22"
+        },
+        {
+          "title": "2027 메르세데스 마이바흐 GLS 680 달리는 7성급 호텔 603마력 슈퍼 V8 탑....",
+          "link": "https://blog.naver.com/sungwond8586/224373995466",
+          "blogger": "연성의 유연한 작업실",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "2027 메르세데스-마이바흐 S클래스, 뭐가 달라졌을까? 럭셔리 세단의 ....",
+          "link": "https://blog.naver.com/toughs12/224383763232",
+          "blogger": "무운행자동차담보",
+          "date": "2026-08-19"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "HS효성, 마이바흐 VIP 잡는다…'럭셔리 허브'로 승부",
+          "link": "https://www.hankyung.com/article/2026082366291",
+          "press": "",
+          "date": "2026-08-23"
+        },
+        {
+          "title": "[시승기] 더 똑똑해졌지만 강요하지 않는다…S클래스의 '관록'",
+          "link": "https://www.m-i.kr/news/articleView.html?idxno=1404927",
+          "press": "",
+          "date": "2026-08-23"
+        },
+        {
+          "title": "벤츠공식딜러사 한성자동차, 신형 마이바흐 S-클래스 첫 출고",
+          "link": "https://www.getnews.co.kr/news/articleView.html?idxno=878581",
+          "press": "",
+          "date": "2026-08-23"
+        },
+        {
+          "title": "[시승기] 진화한 '더 뉴 S-클래스', 특유의 안락함에 디지털 경험 강화",
+          "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260823010007333",
+          "press": "",
+          "date": "2026-08-23"
+        },
+        {
+          "title": "가격 2억 넘는데 벌써부터 불티…'회장님 차' 귀환에 '술렁' [신차털기]",
+          "link": "https://www.hankyung.com/article/202608202067g",
+          "press": "",
+          "date": "2026-08-23"
+        }
+      ],
+      "rank": 7
+    },
+    {
       "keyword": "수원 삼성 블루윙즈",
       "traffic": "2000+",
-      "blogTotal": 15226,
+      "blogTotal": 15227,
       "newsTotal": 26385,
-      "recentToday": 12,
-      "recentWeek": 79,
+      "recentToday": 13,
+      "recentWeek": 80,
       "topBlogs": [
         {
           "title": "[K리그2 2026] 수원삼성블루윙즈 vs 수원FC 직관 후기 _ 수원더비",
@@ -438,15 +584,15 @@
           "date": "2026-08-22"
         }
       ],
-      "rank": 6
+      "rank": 8
     },
     {
       "keyword": "김남준",
-      "traffic": "200+",
-      "blogTotal": 39472,
-      "newsTotal": 31721,
-      "recentToday": 6,
-      "recentWeek": 33,
+      "traffic": "500+",
+      "blogTotal": 39473,
+      "newsTotal": 31724,
+      "recentToday": 7,
+      "recentWeek": 34,
       "topBlogs": [
         {
           "title": "더불어민주당 홍보위원장, 김남준 의원 프로필",
@@ -473,13 +619,31 @@
           "date": "2021-05-05"
         },
         {
-          "title": "대통령 주재 수석보좌관회의 결과 관련 김남준 대변인 브리핑",
-          "link": "https://blog.naver.com/jaemyunglee/224039946879",
-          "blogger": "대한민국 제21대 대통령 이재명",
-          "date": "2025-10-13"
+          "title": "천재 컬렉터 <BTS의 RM(김남준) 기획 전시회> 미국 샌프란시스코 현대....",
+          "link": "https://blog.naver.com/irumi211/224374113682",
+          "blogger": "루미아트스페이스",
+          "date": "2026-08-10"
         }
       ],
       "topNews": [
+        {
+          "title": "김민석, ‘90도 인사’ 논란에 “좋은 인사법으로 다듬어달라” [자막뉴...",
+          "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000546543",
+          "press": "",
+          "date": "2026-08-23"
+        },
+        {
+          "title": "국힘 \"민주당 '90도 형님인사'할 시간에 90도 반성인사부터\"",
+          "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&news_seq_no=5214186",
+          "press": "",
+          "date": "2026-08-23"
+        },
+        {
+          "title": "국민의힘 \"민주당 낯 뜨거운 '90도 형님 인사' 어처구니없어\"",
+          "link": "https://www.news1.kr/politics/assembly/6266750",
+          "press": "",
+          "date": "2026-08-23"
+        },
         {
           "title": "與 김민석호 입법 시동…1호 법안 후보는 사법개혁법·용산공원법",
           "link": "https://www.etoday.co.kr/news/view/2617144",
@@ -491,31 +655,13 @@
           "link": "https://www.munhwa.com/article/11611282?ref=naver",
           "press": "",
           "date": "2026-08-23"
-        },
-        {
-          "title": "논란 터진 민주당 ‘90도 단체 인사’…김민석 “곧 다듬을 것”",
-          "link": "https://www.joongang.co.kr/article/25455400",
-          "press": "",
-          "date": "2026-08-23"
-        },
-        {
-          "title": "땀 흘려 번 돈에서 더 떼간다…근로소득 실효세율, 양도소득보다 12%p↑",
-          "link": "https://www.hankookilbo.com/news/article/A2026082312530003922?did=NA",
-          "press": "",
-          "date": "2026-08-23"
-        },
-        {
-          "title": "국힘 “민주당 낯뜨거운 ‘90도 형님 인사’ 어처구니없어”",
-          "link": "https://biz.heraldcorp.com/article/10849054?ref=naver",
-          "press": "",
-          "date": "2026-08-23"
         }
       ],
-      "rank": 7
+      "rank": 9
     },
     {
       "keyword": "장윤주",
-      "traffic": "500+",
+      "traffic": "1000+",
       "blogTotal": 29605,
       "newsTotal": 80328,
       "recentToday": 6,
@@ -582,152 +728,6 @@
           "link": "https://sports.donga.com/ent/article/all/20260822/134523513/1",
           "press": "",
           "date": "2026-08-22"
-        }
-      ],
-      "rank": 8
-    },
-    {
-      "keyword": "김주형",
-      "traffic": "200+",
-      "blogTotal": 13296,
-      "newsTotal": 77224,
-      "recentToday": 6,
-      "recentWeek": 78,
-      "topBlogs": [
-        {
-          "title": "김주형 프로 윈덤 챔피언십 이번에도 우승? 버디 폭발한 이유",
-          "link": "https://blog.naver.com/kkal28/224372953066",
-          "blogger": "그린워커",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "PGA 김주형 프로 프로필 - 국적 상금 총정리!",
-          "link": "https://blog.naver.com/worldplay13/224324640975",
-          "blogger": "월드플레이 전자담배 가산점",
-          "date": "2026-06-23"
-        },
-        {
-          "title": "김주형 골프선수 아내 누구 이서연 씨와의 결혼 첫 만남 이야기",
-          "link": "https://blog.naver.com/echo90/224345725274",
-          "blogger": "동화같은 삶~!",
-          "date": "2026-07-14"
-        },
-        {
-          "title": "김주형 윈덤 챔피언십, 최종 공동 5위…마이클 브레넌 우승",
-          "link": "https://blog.naver.com/hw020102/224373502437",
-          "blogger": "행간 읽는 뚜벅이",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "\"터지면 30홈런이라고 했는데...\" 19홈런치고도 결국 방출당한 기아 ....",
-          "link": "https://blog.naver.com/dyts60/224386149242",
-          "blogger": "크보한입",
-          "date": "2026-08-22"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "'이븐파' 임성재, PGA 투어 PO 2차전 3R서 마지노선인 7위로 밀려..마지막...",
-          "link": "http://www.thesportstimes.co.kr/news/articleView.html?idxno=375119",
-          "press": "",
-          "date": "2026-08-23"
-        },
-        {
-          "title": "임성재, 최종전 진출 아직 안갯속…BMW 챔피언십 3R 7위",
-          "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260823010007456",
-          "press": "",
-          "date": "2026-08-23"
-        },
-        {
-          "title": "임성재, PO 최종전 투어 챔피언십이 보인다",
-          "link": "https://www.munhwa.com/article/11611265?ref=naver",
-          "press": "",
-          "date": "2026-08-23"
-        },
-        {
-          "title": "'쩐의 전쟁' 벼랑 끝 선 임성재·김주형…피말리는 최종전 티켓 사투",
-          "link": "https://www.segye.com/newsView/20260823505008?OutUrl=naver",
-          "press": "",
-          "date": "2026-08-23"
-        },
-        {
-          "title": "임성재 마지막 홀에 발목 잡혔다…그래도 PO 2차전 7위, 8년 연속 투어 ...",
-          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1003306",
-          "press": "",
-          "date": "2026-08-23"
-        }
-      ],
-      "rank": 9
-    },
-    {
-      "keyword": "india vs sri lanka",
-      "traffic": "1000+",
-      "blogTotal": 0,
-      "newsTotal": 142,
-      "recentToday": 0,
-      "recentWeek": 0,
-      "topBlogs": [
-        {
-          "title": "외래어 표기 용례 :: Power to surprise.",
-          "link": "https://ppua.tistory.com/32",
-          "blogger": "Power to surprise. :: Power to surprise.",
-          "date": "2013-12-12"
-        },
-        {
-          "title": "2022년 카타르 월드컵 아시아 2차 예선 조편성 및 경기일정(한국,베트....",
-          "link": "https://preparefortmr.tistory.com/488",
-          "blogger": "디지털노마드를 꿈꾸며 여행 그리고 주식공부",
-          "date": "2019-07-18"
-        },
-        {
-          "title": "Happiest Countries in the World 2022",
-          "link": "https://wheecorea.tistory.com/17392241",
-          "blogger": "INSIDE REVOLUTION",
-          "date": "2022-03-19"
-        },
-        {
-          "title": "트럼프 관세 전쟁이 지정학 리스크 촉발 할 가능성",
-          "link": "https://ryueyes11.tistory.com/511464",
-          "blogger": "TB의 SNS 이야기",
-          "date": "2025-02-01"
-        },
-        {
-          "title": "Multi Life :: [넷플릭스] 한국에서 볼 수 있는 영화, TV 개수는??? 해외는....",
-          "link": "https://s-lucky.tistory.com/228",
-          "blogger": "Multi Life :: Multi Life",
-          "date": "2019-05-13"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "A Billion Eyes on One of Sports’ Fieriest Rivalries: India vs. Pakistan",
-          "link": "https://www.nytimes.com/2023/10/13/world/asia/india-pakistan-world-cup-cricket.html?partner=naver",
-          "press": "",
-          "date": "2023-10-14"
-        },
-        {
-          "title": "Read Your Way Through Kerala, India",
-          "link": "https://www.nytimes.com/2023/04/12/books/books-india-kerala.html?partner=naver",
-          "press": "",
-          "date": "2023-04-12"
-        },
-        {
-          "title": "쿠마르의 인도 이야기 2 : 뉴욕 타임스 기자는 왜 인도인의 적이 되었나",
-          "link": "http://www.ddanzi.com/758972068",
-          "press": "",
-          "date": "2022-12-19"
-        },
-        {
-          "title": "PAKISTAN CRICKET ASIA CUP",
-          "link": "https://n.news.naver.com/mnews/article/091/0009306796?sid=104",
-          "press": "",
-          "date": "2022-09-11"
-        },
-        {
-          "title": "PAKISTAN CRICKET ASIA CUP",
-          "link": "https://n.news.naver.com/mnews/article/091/0009306791?sid=104",
-          "press": "",
-          "date": "2022-09-11"
         }
       ],
       "rank": 10
