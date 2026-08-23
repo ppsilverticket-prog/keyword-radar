@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-23T18:56:41.193Z",
+  "updatedAt": "2026-08-23T19:22:10.805Z",
   "source": "live",
   "keywords": [
     {
       "keyword": "첼시",
       "traffic": "100+",
       "blogTotal": 245632,
-      "newsTotal": 428139,
+      "newsTotal": 428140,
       "recentToday": 78,
       "recentWeek": 100,
       "topBlogs": [
@@ -42,6 +42,12 @@
         }
       ],
       "topNews": [
+        {
+          "title": "'맨체스터 유나이티드, 세계 최고 이적료 경신하나!' 최우선 타깃 홀 영...",
+          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96829",
+          "press": "",
+          "date": "2026-08-23"
+        },
         {
           "title": "HERE WE GO 컨펌! 맨유 '방출 1순위'인데 원하는 PL 클럽이 있다...\"빌라...",
           "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=693082",
@@ -143,79 +149,6 @@
       "rank": 2
     },
     {
-      "keyword": "at마드리드 비야레알",
-      "traffic": "100+",
-      "blogTotal": 615,
-      "newsTotal": 1123,
-      "recentToday": 26,
-      "recentWeek": 36,
-      "topBlogs": [
-        {
-          "title": "AT마드리드 vs 비야레알 승리 확률 50%…이강인이 또 해결사 될까?(+라....",
-          "link": "https://blog.naver.com/fnt33/224387704179",
-          "blogger": "fnt33님의 블로그",
-          "date": "2026-08-23"
-        },
-        {
-          "title": "⚽ 2026년 8월 24일 AT마드리드 vs 비야레알 경기분석｜라리가 승부예....",
-          "link": "https://blog.naver.com/guidesyj/224387209172",
-          "blogger": "골든트리",
-          "date": "2026-08-23"
-        },
-        {
-          "title": "이강인 AT마드리드 경기 직관! 일정부터 유니폼·티켓 예매까지",
-          "link": "https://blog.naver.com/hyoneelet/224378556780",
-          "blogger": "효니렛, 맛있는게 제일 좋아♡",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "이강인 아틀레티코 다음 경기 언제? 비야레알전 중계 보는 방법",
-          "link": "https://blog.naver.com/kroos1990/224384234794",
-          "blogger": "1분 읽기",
-          "date": "2026-08-20"
-        },
-        {
-          "title": "2026년 8월 24일 AT마드리드 비야레알 라리가 축구분석",
-          "link": "https://blog.naver.com/hanryang0307/224387480916",
-          "blogger": "라텔 스포츠 분석",
-          "date": "2026-08-23"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "이강인 나오자마자 AT 마드리드 초유의 사태, \"귀청 떨어질 듯한 야유, ...",
-          "link": "https://www.sportschosun.com/football/2026-08-24/202608240100137930008829",
-          "press": "",
-          "date": "2026-08-23"
-        },
-        {
-          "title": "'슈팅 6회-키패스 2회' 공격 활기 불어넣은 이강인, 비야레알전 평점 6....",
-          "link": "https://www.mydaily.co.kr/page/view/2026082402120647648",
-          "press": "",
-          "date": "2026-08-23"
-        },
-        {
-          "title": "'첫 선발 이강인 67분' AT마드리드, 비야레알과 2대2 무승부",
-          "link": "https://imnews.imbc.com/news/2026/sports/article/6846730_36946.html",
-          "press": "",
-          "date": "2026-08-23"
-        },
-        {
-          "title": "'데뷔전 데뷔골' 이강인 첫 선발 경기에서는 침묵...슈팅 6회에도 골문 ...",
-          "link": "https://mhnse.com/news/articleView.html?idxno=1499778",
-          "press": "",
-          "date": "2026-08-23"
-        },
-        {
-          "title": "이강인 첫 선발 데뷔, ‘팀내 최다 슈팅’에도 침묵… 팀은 2대2 무승부",
-          "link": "https://www.chosun.com/sports/world-football/2026/08/24/43NGKJGYURDADCEL275EBNXSJM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-          "press": "",
-          "date": "2026-08-23"
-        }
-      ],
-      "rank": 3
-    },
-    {
       "keyword": "유벤투스",
       "traffic": "100+",
       "blogTotal": 60037,
@@ -286,7 +219,7 @@
           "date": "2026-08-22"
         }
       ],
-      "rank": 4
+      "rank": 3
     },
     {
       "keyword": "로메로",
@@ -341,14 +274,14 @@
           "date": "2026-08-23"
         },
         {
-          "title": "[라리가 REVIEW] '이강인 슈팅 6회' 나왔음에도 승리 못 챙겼다...아틀레...",
-          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=693080",
+          "title": "'이강인 선발 출전, 교체 후 동점골' 아틀레티코 마드리드, 비야레알과...",
+          "link": "https://www.mydaily.co.kr/page/view/2026082401594711404",
           "press": "",
           "date": "2026-08-23"
         },
         {
-          "title": "'이강인 선발 출전, 교체 후 동점골' 아틀레티코 마드리드, 비야레알과...",
-          "link": "https://www.mydaily.co.kr/page/view/2026082401594711404",
+          "title": "[라리가 REVIEW] '이강인 슈팅 6회' 나왔음에도 승리 못 챙겼다...아틀레...",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=693080",
           "press": "",
           "date": "2026-08-23"
         },
@@ -359,15 +292,15 @@
           "date": "2026-08-23"
         }
       ],
-      "rank": 5
+      "rank": 4
     },
     {
       "keyword": "마르무시",
       "traffic": "200+",
-      "blogTotal": 457,
-      "newsTotal": 2317,
+      "blogTotal": 458,
+      "newsTotal": 2318,
       "recentToday": 16,
-      "recentWeek": 70,
+      "recentWeek": 71,
       "topBlogs": [
         {
           "title": "EPL 스카우팅 리포트 26/27 시즌 전망 마르무시 맨체스터 시티 공격의 ....",
@@ -402,6 +335,12 @@
       ],
       "topNews": [
         {
+          "title": "'HERE WE GO' 4,732억 쓰고도 개막전 0-3 완패 토트넘, 돈 더 푼다...마르...",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=693084",
+          "press": "",
+          "date": "2026-08-23"
+        },
+        {
           "title": "'손흥민 공백' 결국 못 메웠다…'HERE WE GO' 토트넘, 개막전 0-3 충격패...",
           "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553478994",
           "press": "",
@@ -424,23 +363,17 @@
           "link": "https://isplus.com/article/view/isp202608230061",
           "press": "",
           "date": "2026-08-23"
-        },
-        {
-          "title": "토트넘 향한 송곳 비판! 이적료 4344억원 투자?…“돈으로만 루징 멘탈...",
-          "link": "https://www.mk.co.kr/article/12133996",
-          "press": "",
-          "date": "2026-08-23"
         }
       ],
-      "rank": 6
+      "rank": 5
     },
     {
       "keyword": "훌리안 알바레스",
       "traffic": "200+",
-      "blogTotal": 880,
-      "newsTotal": 7765,
+      "blogTotal": 881,
+      "newsTotal": 7766,
       "recentToday": 10,
-      "recentWeek": 52,
+      "recentWeek": 53,
       "topBlogs": [
         {
           "title": "FC바르셀로나 역대 최고 이적료 축구선수 순위 훌리안 알바레즈 포....",
@@ -475,6 +408,12 @@
       ],
       "topNews": [
         {
+          "title": "'이강인 패스→알바레스 골' 끝내 못 보나...시메오네 공개 잔류 선언에...",
+          "link": "https://mhnse.com/news/articleView.html?idxno=1499516",
+          "press": "",
+          "date": "2026-08-23"
+        },
+        {
           "title": "이강인 나오자마자 AT 마드리드 초유의 사태, \"귀청 떨어질 듯한 야유, ...",
           "link": "https://www.sportschosun.com/football/2026-08-24/202608240100137930008829",
           "press": "",
@@ -497,15 +436,9 @@
           "link": "http://www.footballist.co.kr/news/articleView.html?idxno=213906",
           "press": "",
           "date": "2026-08-23"
-        },
-        {
-          "title": "골 없어도 존재감은 컸다...이강인, 첫 선발 67분 ATM '전천후 공격수'",
-          "link": "https://news.tf.co.kr/read/soccer/2356942.htm",
-          "press": "",
-          "date": "2026-08-23"
         }
       ],
-      "rank": 7
+      "rank": 6
     },
     {
       "keyword": "100 일 의 거짓말",
@@ -578,6 +511,17 @@
           "date": "2026-08-22"
         }
       ],
+      "rank": 7
+    },
+    {
+      "keyword": "thứ hạng của man city gặp bournemouth",
+      "traffic": "200+",
+      "blogTotal": 0,
+      "newsTotal": 0,
+      "recentToday": 0,
+      "recentWeek": 0,
+      "topBlogs": [],
+      "topNews": [],
       "rank": 8
     },
     {
@@ -592,72 +536,72 @@
       "rank": 9
     },
     {
-      "keyword": "atletico madrid",
-      "traffic": "200+",
-      "blogTotal": 936,
-      "newsTotal": 29653,
+      "keyword": "newcastle vs liverpool",
+      "traffic": "500+",
+      "blogTotal": 29,
+      "newsTotal": 794,
       "recentToday": 0,
-      "recentWeek": 5,
+      "recentWeek": 0,
       "topBlogs": [
         {
-          "title": "[축구로 배우는 영어] Soccer English Series #27. Atletico Madrid sign South Korea m....",
-          "link": "https://blog.naver.com/givehyun/224360518298",
-          "blogger": "축구 좀 아는 여자",
-          "date": "2026-07-28"
+          "title": "프리미어리그 중계 사이트 무료 - Happy Life Blog",
+          "link": "https://happylifeblog.tistory.com/890",
+          "blogger": "Happy Life Blog - Happy Life Blog",
+          "date": "2022-05-06"
         },
         {
-          "title": "품절대란 \"BTS슈가 X 이강인\" 아틀레티코마드리드 유니폼 구매해야 ....",
-          "link": "https://blog.naver.com/cocoleenice/224330489365",
-          "blogger": "매거진파리",
-          "date": "2026-06-29"
+          "title": "외래어 표기 용례 :: Power to surprise.",
+          "link": "https://ppua.tistory.com/32",
+          "blogger": "Power to surprise. :: Power to surprise.",
+          "date": "2013-12-12"
         },
         {
-          "title": "Lee Kang-in Scores Winner 13 Minutes After Coming On for Atletico",
-          "link": "https://ttt77.tistory.com/472036",
-          "blogger": "??!!",
-          "date": "2026-08-20"
+          "title": "[18.10.2015] 잉글랜드 챔피언쉽리그 결과",
+          "link": "https://techno99.tistory.com/2207",
+          "blogger": "셜록홈즈의 시선 (Sight of Sherlock Holmes)",
+          "date": "2015-10-19"
         },
         {
-          "title": "2026 북중미 월드컵 출전하는 [아틀레티코 마드리드] 선수 명단 총정....",
-          "link": "https://blog.naver.com/rijikun/224314412995",
-          "blogger": "리지쿤의 맛집 여행 호텔 아틀레티코 마드리드",
-          "date": "2026-06-13"
+          "title": "[18.10.2015] 독일 분데스리가 결과",
+          "link": "https://techno99.tistory.com/2209",
+          "blogger": "셜록홈즈의 시선 (Sight of Sherlock Holmes)",
+          "date": "2015-10-19"
         },
         {
-          "title": "오늘의 이슈 'atlético madrid đấu với barcelona' 한눈에 보기 (04/05)",
-          "link": "https://muhanloop.tistory.com/1836",
-          "blogger": "易地思之",
-          "date": "2026-04-05"
+          "title": "\"Newcastle and Liverpool Clash in a High-Energy Premier League Showdown!\"",
+          "link": "https://lvup.tistory.com/495",
+          "blogger": "LvUp",
+          "date": "2023-02-19"
         }
       ],
       "topNews": [
         {
-          "title": "SPAIN SOCCER",
-          "link": "https://n.news.naver.com/mnews/article/091/0010289649?sid=104",
+          "title": "BRITAIN SOCCER",
+          "link": "https://n.news.naver.com/mnews/article/091/0010289699?sid=104",
           "press": "",
           "date": "2026-08-23"
         },
         {
-          "title": "SPAIN SOCCER",
-          "link": "https://n.news.naver.com/mnews/article/091/0010289651?sid=104",
+          "title": "BRITAIN SOCCER",
+          "link": "https://n.news.naver.com/mnews/article/091/0010289703?sid=104",
           "press": "",
           "date": "2026-08-23"
         },
         {
-          "title": "SPAIN SOCCER",
-          "link": "https://n.news.naver.com/mnews/article/091/0010289650?sid=104",
+          "title": "BRITAIN SOCCER",
+          "link": "https://n.news.naver.com/mnews/article/091/0010289691?sid=104",
           "press": "",
           "date": "2026-08-23"
         },
         {
-          "title": "SPAIN SOCCER",
-          "link": "https://n.news.naver.com/mnews/article/091/0010289652?sid=104",
+          "title": "BRITAIN SOCCER",
+          "link": "https://n.news.naver.com/mnews/article/091/0010289692?sid=104",
           "press": "",
           "date": "2026-08-23"
         },
         {
-          "title": "SPAIN SOCCER",
-          "link": "https://n.news.naver.com/mnews/article/091/0010289648?sid=104",
+          "title": "BRITAIN SOCCER",
+          "link": "https://n.news.naver.com/mnews/article/091/0010289700?sid=104",
           "press": "",
           "date": "2026-08-23"
         }
