@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-24T22:52:41.672Z",
+  "updatedAt": "2026-08-24T23:19:55.903Z",
   "source": "live",
   "keywords": [
     {
       "keyword": "나스닥 100",
       "traffic": "1000+",
-      "blogTotal": 66186,
-      "newsTotal": 106754,
-      "recentToday": 76,
+      "blogTotal": 66190,
+      "newsTotal": 106755,
+      "recentToday": 72,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -43,6 +43,12 @@
       ],
       "topNews": [
         {
+          "title": "환율 13달 만에 최저…환헤지·환노출 ETF 투자자 '희비' [분석+]",
+          "link": "https://www.hankyung.com/article/2026082492446",
+          "press": "",
+          "date": "2026-08-24"
+        },
+        {
           "title": "[금융 HOT 뉴스] KB자산운용 'RISE 데일리고정커버드콜' 시리즈, 순자산...",
           "link": "http://www.bizwnews.com/news/articleView.html?idxno=144098",
           "press": "",
@@ -65,83 +71,77 @@
           "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000059228",
           "press": "",
           "date": "2026-08-24"
-        },
-        {
-          "title": "[서울데이터랩]미국 증시, 다우만 강보합 마감…기술주·반도체 약세에...",
-          "link": "https://www.seoul.co.kr/news/economy/securities/2026/08/25/20260825500004?wlog_tag3=naver",
-          "press": "",
-          "date": "2026-08-24"
         }
       ],
       "rank": 1
     },
     {
-      "keyword": "광주광역시",
-      "traffic": "200+",
-      "blogTotal": 696205,
-      "newsTotal": 765361,
-      "recentToday": 69,
+      "keyword": "이상민",
+      "traffic": "2000+",
+      "blogTotal": 92807,
+      "newsTotal": 579702,
+      "recentToday": 48,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "광주 오치동 맛집 한미한식뷔페 점심 8천원 한식뷔페",
-          "link": "https://blog.naver.com/hyeonhui8928/224373066957",
-          "blogger": "파닥이의 하루조각",
-          "date": "2026-08-12"
+          "title": "피의 게임X 이상민 갑자기 하차한 진짜 이유는?",
+          "link": "https://blog.naver.com/lhswind2/224375030543",
+          "blogger": "우수아빠의 인생은",
+          "date": "2026-08-11"
         },
         {
-          "title": "[h에비뉴 호텔 광주 첨단점] 광주광역시 여행 업무 출장 h에비뉴 호....",
-          "link": "https://blog.naver.com/zxcvcxz357/224346123825",
-          "blogger": "얼렁뚱땅 뚜비의 하루",
-          "date": "2026-07-14"
+          "title": "'피의 게임X' 이상민 개인 사정으로 중도 하차, 결승 앞두고 기권한 ....",
+          "link": "https://blog.naver.com/tmzmfk010/224375068066",
+          "blogger": "힐스터K랑 오늘, 이거 볼래?",
+          "date": "2026-08-11"
         },
         {
-          "title": "[광주] 쌍촌동 웰로웰로",
-          "link": "https://blog.naver.com/seongaaa/224357255309",
-          "blogger": "똥아zip",
-          "date": "2026-07-25"
+          "title": "이상민 하차 피의게임 기권 이유 궁금하다면?",
+          "link": "https://blog.naver.com/joo8414/224371870704",
+          "blogger": "⛔상남자 열정 블로그⛔",
+          "date": "2026-08-08"
         },
         {
-          "title": "[광주광역시 동구 황금동] 광주 명물 상추튀김 맛집, '은성김밥'",
-          "link": "https://blog.naver.com/jyji0804/224365487544",
-          "blogger": "욤이랑 화니랑",
-          "date": "2026-08-05"
+          "title": "이상민 나이 논란 총정리, 프로필부터 최근 근황까지 한눈에",
+          "link": "https://blog.naver.com/kancurator1/224375501186",
+          "blogger": "트렌드 맛집",
+          "date": "2026-08-11"
         },
         {
-          "title": "[황금회포차 광주월산점]생새우와 쫄깃한 회가 맛있는 월산동 맛집 ....",
-          "link": "https://blog.naver.com/sju2454/224365960614",
-          "blogger": "밀밀쓰님의 블로그",
-          "date": "2026-08-02"
+          "title": "'아내와 병원에 가야해...' 이상민 하차 아쉬운 이유, 피의 게임 X 탈....",
+          "link": "https://blog.naver.com/above_cloud/224370949781",
+          "blogger": "과몰입 공간",
+          "date": "2026-08-07"
         }
       ],
       "topNews": [
         {
-          "title": "광주 부동산, 지표는 '온기'..시장은 '관망'",
-          "link": "https://kjmbc.co.kr/NewsArticle/1533738",
+          "title": "[이슈체크] ‘주가누르기 방지법’ 진짜 목적은 재벌 상속세 감세",
+          "link": "https://www.tfmedia.co.kr/news/article.html?no=206690",
           "press": "",
           "date": "2026-08-24"
         },
         {
-          "title": "[더벨]라인그룹, '모태' 광주서 사회공헌형 사업 신규 검토",
-          "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608211436472120107737",
+          "title": "종합특검의 180일, 한겨레 \"김태효 유병호 구속기소 등 성과\"",
+          "link": "https://www.mediatoday.co.kr/news/articleView.html?idxno=336673",
           "press": "",
           "date": "2026-08-24"
         },
         {
-          "title": "세 칸으로 시 짓기",
-          "link": "https://www.abcn.kr/news/articleView.html?idxno=90859",
+          "title": "종합특검 사건, 이제 '법정의 시간'…여인형·신용해 등 9월 첫 재판",
+          "link": "https://www.newsis.com/view/NISX20260824_0003760630",
           "press": "",
           "date": "2026-08-24"
         },
         {
-          "title": "지쿠 일자리 86.2%가 ‘서울 밖’···80대까지 시니어 일자리 확대",
-          "link": "https://sports.khan.co.kr/article/202608250623003?pt=nv",
+          "title": "유한양행‧알테오젠이 연 ‘로열티 시대’…다음 주자는?",
+          "link": "https://www.etoday.co.kr/news/view/2616441",
           "press": "",
           "date": "2026-08-24"
         },
         {
-          "title": "민형배 전남광주통합특별시장 “호남 반도체 팹 9기까지 가능… 전력·...",
-          "link": "https://www.segye.com/newsView/20260824513330?OutUrl=naver",
+          "title": "[종합특검 수사결과] ④ 관저 공사 14억→41억…김건희·윤한홍 개입에...",
+          "link": "https://www.newswhoplus.com/news/articleView.html?idxno=67807",
           "press": "",
           "date": "2026-08-24"
         }
@@ -149,302 +149,10 @@
       "rank": 2
     },
     {
-      "keyword": "qqq",
-      "traffic": "100+",
-      "blogTotal": 30047,
-      "newsTotal": 9201,
-      "recentToday": 42,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "미국 ETF 투자 필수 3종! QQQ·SPY·SCHD 완벽 비교",
-          "link": "https://blog.naver.com/cjsrhdtjd7/224372421950",
-          "blogger": "코어드 CORED",
-          "date": "2026-08-12"
-        },
-        {
-          "title": "QQQ 말고 QQQM 사는 이유, 장기투자자는 왜 QQQM을 살까?",
-          "link": "https://blog.naver.com/h1004i2/224337803625",
-          "blogger": "공부하는 엄마의 일상",
-          "date": "2026-07-06"
-        },
-        {
-          "title": "SCHD와 QQQ, 배당주와 성장주",
-          "link": "https://blog.naver.com/ohroseshop/224375976154",
-          "blogger": "bom의 블로그",
-          "date": "2026-08-12"
-        },
-        {
-          "title": "미국 ETF 장기투자, SCHD VOO QQQ 중 무엇이 좋을까?",
-          "link": "https://blog.naver.com/ivvlove/224374067154",
-          "blogger": "나엠제이의 투자맥잡기",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "SPMO ETF : QQQ 보다 성적이 좋은 이유가 뭘까?",
-          "link": "https://blog.naver.com/lmkek41/224381557267",
-          "blogger": "오디는 뭐하고 살까",
-          "date": "2026-08-17"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "미국증시 혼조마감, 엔비디아 실적 경계에 반도체주 매도 확대·다우 상...",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16172530",
-          "press": "",
-          "date": "2026-08-24"
-        },
-        {
-          "title": "아이온큐·리게티 등 양자 컴퓨팅 줄줄이 급락…‘깜짝 실적’ 착시였나",
-          "link": "https://www.g-enews.com/view.php?ud=2026082506492411e250e8e188_1",
-          "press": "",
-          "date": "2026-08-24"
-        },
-        {
-          "title": "삼전 8.7% 급락 뒤 美마이크론 -6.8%…외국인 '현물 3.7조 매도·선물 매...",
-          "link": "https://www.greened.kr/news/articleView.html?idxno=348313",
-          "press": "",
-          "date": "2026-08-24"
-        },
-        {
-          "title": "미국증시, 이란 제재·엔비디아 실적 경계에 기술주 약세…반도체 매도...",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16172324",
-          "press": "",
-          "date": "2026-08-24"
-        },
-        {
-          "title": "반도체주 하락하자 또 3배 레버리지 베팅…메모리주 비중 확대[서학픽]",
-          "link": "https://www.mt.co.kr/world/2026/08/24/2026082410435928320",
-          "press": "",
-          "date": "2026-08-24"
-        }
-      ],
-      "rank": 3
-    },
-    {
-      "keyword": "mu",
-      "traffic": "500+",
-      "blogTotal": 62729,
-      "newsTotal": 37344,
-      "recentToday": 36,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "마이크론 테크놀로지(MU) 투자 총정리",
-          "link": "https://blog.naver.com/animalland46/224367074249",
-          "blogger": "animalland46님의 블로그",
-          "date": "2026-08-03"
-        },
-        {
-          "title": "아이 입문용 전자피아노 추천! 뮤디스MU-8H PLUS 88 건반 솔직 후기",
-          "link": "https://blog.naver.com/yellow6177/224347912416",
-          "blogger": "뽁뽁쓰",
-          "date": "2026-07-15"
-        },
-        {
-          "title": "중국 동방항공 연태 MU5050편 탑승 후기｜기내식,수하물,체크인 시간",
-          "link": "https://blog.naver.com/hejdmswl/224383888196",
-          "blogger": "안녕한 여행 ' 헤이로그 '",
-          "date": "2026-08-20"
-        },
-        {
-          "title": "칭다오 여행 | 인천 - 칭다오 ☆중국동방항공 이코노미 탑승,기내식 ....",
-          "link": "https://blog.naver.com/ini0830/224326188351",
-          "blogger": "ini",
-          "date": "2026-06-24"
-        },
-        {
-          "title": "함평 파크골프장 방문 후기! MU 파크골프 대회 개최 코스를 둘러보다",
-          "link": "https://blog.naver.com/yeongam531/224328418473",
-          "blogger": "행복을 치는 파크골프",
-          "date": "2026-06-26"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "[인사] 세종시 2026년 하반기 정기인사 6급이하 인사발령",
-          "link": "http://www.breaknews.com/1231168",
-          "press": "",
-          "date": "2026-08-24"
-        },
-        {
-          "title": "SK하이닉스 경영진, 광주 군공항 현장 점검…‘호남권 반도체 클러스터...",
-          "link": "http://www.breaknews.com/1231190",
-          "press": "",
-          "date": "2026-08-24"
-        },
-        {
-          "title": "미국증시 반도체주 '출렁'..SMH·엔비디아·마이크론·광통신주 '뚝'",
-          "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=170366",
-          "press": "",
-          "date": "2026-08-24"
-        },
-        {
-          "title": "67% 손실 AI펀드, 레버리지 청산 압박 드러냈다",
-          "link": "https://www.tokenpost.kr/news/cryptocurrency/396926",
-          "press": "",
-          "date": "2026-08-24"
-        },
-        {
-          "title": "나스닥 0.76% 하락, 메모리주 동반 약세",
-          "link": "https://www.tokenpost.kr/news/market/396921",
-          "press": "",
-          "date": "2026-08-24"
-        }
-      ],
-      "rank": 4
-    },
-    {
-      "keyword": "soxl",
-      "traffic": "500+",
-      "blogTotal": 28166,
-      "newsTotal": 5076,
-      "recentToday": 29,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "미국 반도체 ETF(SOXL, SOXX, USD) 차이점 정리! 서학개미가 반도체 ETF에 ....",
-          "link": "https://blog.naver.com/sjtrend332/224377016517",
-          "blogger": "서른의 소식통 : 주식부터 부동산 라이프 스타일까지",
-          "date": "2026-08-13"
-        },
-        {
-          "title": "SOXL 투자해도 될까? 3배 레버리지 ETF 실전 투자법과 SOXX 비교 (2026 최....",
-          "link": "https://blog.naver.com/zhzkwm/224360195072",
-          "blogger": "소비와투자",
-          "date": "2026-07-28"
-        },
-        {
-          "title": "반도체 3배 레버리지 ETF 'SOXL' 최근 동향 및 향후 투자 전망",
-          "link": "https://blog.naver.com/animalland46/224367064729",
-          "blogger": "animalland46님의 블로그",
-          "date": "2026-08-03"
-        },
-        {
-          "title": "SOXL 매수 방법 총정리 | 증권사 선택부터 세금, ISA 편입 여부까지 한 ....",
-          "link": "https://blog.naver.com/csodam/224368071322",
-          "blogger": "엄마의 경제공부! 마더보드",
-          "date": "2026-08-04"
-        },
-        {
-          "title": "SOXL 장기투자 4년? 아내도 모르던 비밀 장기투자 결과",
-          "link": "https://blog.naver.com/saturn7702/224341706591",
-          "blogger": "느려도괜찮아",
-          "date": "2026-07-09"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "미국증시 혼조마감, 엔비디아 실적 경계에 반도체주 매도 확대·다우 상...",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16172530",
-          "press": "",
-          "date": "2026-08-24"
-        },
-        {
-          "title": "국내 투자자들, 실적 발표 앞둔 엔비디아 3조6400억 순매도",
-          "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000059228",
-          "press": "",
-          "date": "2026-08-24"
-        },
-        {
-          "title": "삼전 8.7% 급락 뒤 美마이크론 -6.8%…외국인 '현물 3.7조 매도·선물 매...",
-          "link": "https://www.greened.kr/news/articleView.html?idxno=348313",
-          "press": "",
-          "date": "2026-08-24"
-        },
-        {
-          "title": "‘엔비디아, 너마저’ 삼전닉스만 다가 아냐…어닝서프도 못 말리는 ‘...",
-          "link": "https://biz.heraldcorp.com/article/10850553?ref=naver",
-          "press": "",
-          "date": "2026-08-24"
-        },
-        {
-          "title": "반도체주 하락하자 또 3배 레버리지 베팅…메모리주 비중 확대[서학픽]",
-          "link": "https://www.mt.co.kr/world/2026/08/24/2026082410435928320",
-          "press": "",
-          "date": "2026-08-24"
-        }
-      ],
-      "rank": 5
-    },
-    {
-      "keyword": "필라델피아 반도체 지수",
-      "traffic": "500+",
-      "blogTotal": 22268,
-      "newsTotal": 68422,
-      "recentToday": 28,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "코스피 야간선물 3%, 필라델피아 반도체 지수 6% 급등 AI반도체 관련....",
-          "link": "https://blog.naver.com/sjay34/224368359541",
-          "blogger": "Becoming a Millionaire",
-          "date": "2026-08-05"
-        },
-        {
-          "title": "필라델피아반도체지수 급락 후 반등.. ETF 추가 매수해도 될까?",
-          "link": "https://blog.naver.com/mushroomj/224372413790",
-          "blogger": "루시's ETF & 연금10억 만들기 투자 노트",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "미국증시 마감시황｜3대 지수 반등했지만 반도체는 또 급락",
-          "link": "https://blog.naver.com/youno0728/224384045927",
-          "blogger": "나의 멋진 세상",
-          "date": "2026-08-20"
-        },
-        {
-          "title": "[미국증시 분석] 2026년 7월 30일 필라델피아 반도체 지수 8.19% 폭등... ....",
-          "link": "https://blog.naver.com/pride623/224363499151",
-          "blogger": "돈줄만드는 대장간 SMITH",
-          "date": "2026-07-31"
-        },
-        {
-          "title": "필라델피아 반도체지수 뜻, SOXX ETF 종류, 미국주식 반도체 지수 편입....",
-          "link": "https://blog.naver.com/tmishaha/224312448231",
-          "blogger": "Amazing BLOG",
-          "date": "2026-06-11"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "엔비디아 4년 만에 7거래일 연속 하락",
-          "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8645035&ref=A",
-          "press": "",
-          "date": "2026-08-24"
-        },
-        {
-          "title": "'7일 연속 하락'은 4년만...실적발표 앞두고 '휘청'",
-          "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608250304&t=NN",
-          "press": "",
-          "date": "2026-08-24"
-        },
-        {
-          "title": "엔비디아, 4년만에 7거래일 연속 하락…26일 실적이 관건",
-          "link": "https://biz.heraldcorp.com/article/10850710?ref=naver",
-          "press": "",
-          "date": "2026-08-24"
-        },
-        {
-          "title": "[넥스트-샷] 엔비디아 7일째 급락·AI 규제 공포에 나스닥 0.76% 털썩",
-          "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=257772",
-          "press": "",
-          "date": "2026-08-24"
-        },
-        {
-          "title": "[3분증시] 뉴욕증시, 혼조세 마감…기술주 약세",
-          "link": "http://www.yonhapnewstv.co.kr/news/MYH20260825074159y7y",
-          "press": "",
-          "date": "2026-08-24"
-        }
-      ],
-      "rank": 6
-    },
-    {
       "keyword": "vix",
       "traffic": "200+",
-      "blogTotal": 28394,
-      "newsTotal": 63273,
+      "blogTotal": 28398,
+      "newsTotal": 63274,
       "recentToday": 26,
       "recentWeek": 100,
       "topBlogs": [
@@ -481,6 +189,12 @@
       ],
       "topNews": [
         {
+          "title": "[뉴욕마켓워치] 반도체주 덮친 AI 비용 우려…달러↑주식·채권 혼조",
+          "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431572",
+          "press": "",
+          "date": "2026-08-24"
+        },
+        {
           "title": "미국증시 혼조마감, 엔비디아 실적 경계에 반도체주 매도 확대·다우 상...",
           "link": "https://www.topstarnews.net/news/articleView.html?idxno=16172530",
           "press": "",
@@ -503,20 +217,87 @@
           "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431560",
           "press": "",
           "date": "2026-08-24"
-        },
-        {
-          "title": "미국증시, 이란 제재·엔비디아 실적 경계에 기술주 약세…반도체 매도...",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16172324",
-          "press": "",
-          "date": "2026-08-24"
         }
       ],
-      "rank": 7
+      "rank": 3
+    },
+    {
+      "keyword": "tsla",
+      "traffic": "100+",
+      "blogTotal": 24081,
+      "newsTotal": 10516,
+      "recentToday": 21,
+      "recentWeek": 92,
+      "topBlogs": [
+        {
+          "title": "테슬라 주가전망, \"유럽 최초 FSD 승인\" TSLA 주식상승 이제 시작",
+          "link": "https://blog.naver.com/18alsrb/224249400784",
+          "blogger": "머니포랩 경제 엔지니어링",
+          "date": "2026-04-12"
+        },
+        {
+          "title": "[테슬라(TSLA) 주가 전망] 더 이상 단순한 자동차 기업이 아니다! 2026....",
+          "link": "https://blog.naver.com/akwldrktjsto/224369435239",
+          "blogger": "Feel So Good!!",
+          "date": "2026-08-06"
+        },
+        {
+          "title": "매달 50만 원씩 테슬라(TSLA) 적립식 투자, 10년 뒤 내 통장 잔고는?",
+          "link": "https://blog.naver.com/jil1882/224326267102",
+          "blogger": "아메의 자유로운 블로그",
+          "date": "2026-06-27"
+        },
+        {
+          "title": "테슬라(TSLA) 주가 지금 사야 하나, 말아야 하나…406달러 돌파 배경과....",
+          "link": "https://blog.naver.com/suitablehelper/224316556300",
+          "blogger": "탱구와사는탱자의 블로그",
+          "date": "2026-06-15"
+        },
+        {
+          "title": "구글 \"웨이모의 한국 진출\", 테슬라(TSLA) 투자자가 눈여겨봐야 할 핵....",
+          "link": "https://blog.naver.com/invest_eyes/224366356245",
+          "blogger": "아이즈의",
+          "date": "2026-08-03"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "[미국 특징주] 테슬라, 태양광 지붕 판매 중단...출시 10년 만",
+          "link": "https://www.newspim.com/news/view/20260825000060",
+          "press": "",
+          "date": "2026-08-24"
+        },
+        {
+          "title": "298만대 리콜 테슬라, 중국 브랜드 신뢰 시험대",
+          "link": "https://www.tokenpost.kr/news/market/396978",
+          "press": "",
+          "date": "2026-08-24"
+        },
+        {
+          "title": "테슬라, 300만 대 규모 리콜에도 美 네바다 로보택시 승인 주목-시티즌...",
+          "link": "https://www.edaily.co.kr/News/Read?newsId=04726486645550600&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+          "press": "",
+          "date": "2026-08-24"
+        },
+        {
+          "title": "[美 주간탑] 마이크론, 거래대금 38.9조원 1위... 거래대금 상위 20선",
+          "link": "https://www.itooza.com/common/iview.php?no=2026082409243652540",
+          "press": "",
+          "date": "2026-08-24"
+        },
+        {
+          "title": "테슬라(TSLA), 300달러 붕괴 뒤 400달러 재도전...사이버캡 타고 오를까...",
+          "link": "http://coinreaders.com/254342",
+          "press": "",
+          "date": "2026-08-23"
+        }
+      ],
+      "rank": 4
     },
     {
       "keyword": "weather",
       "traffic": "1000+",
-      "blogTotal": 61337,
+      "blogTotal": 61338,
       "newsTotal": 206706,
       "recentToday": 21,
       "recentWeek": 100,
@@ -561,13 +342,13 @@
         },
         {
           "title": "epaselect CZECH REPUBLIC DROUGHT",
-          "link": "https://n.news.naver.com/mnews/article/091/0010290847?sid=104",
+          "link": "https://n.news.naver.com/mnews/article/091/0010290848?sid=104",
           "press": "",
           "date": "2026-08-24"
         },
         {
           "title": "epaselect CZECH REPUBLIC DROUGHT",
-          "link": "https://n.news.naver.com/mnews/article/091/0010290848?sid=104",
+          "link": "https://n.news.naver.com/mnews/article/091/0010290847?sid=104",
           "press": "",
           "date": "2026-08-24"
         },
@@ -576,10 +357,223 @@
           "link": "https://n.news.naver.com/mnews/article/077/0007134887?sid=104",
           "press": "",
           "date": "2026-08-24"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "keyword": "로베르토 데 제르비",
+      "traffic": "200+",
+      "blogTotal": 700,
+      "newsTotal": 5642,
+      "recentToday": 10,
+      "recentWeek": 41,
+      "topBlogs": [
+        {
+          "title": "데 제르비 호 출격, 26-27 토트넘 개막전 브렌트포드전 예상 라인업 ....",
+          "link": "https://blog.naver.com/cofe/224382957127",
+          "blogger": "소리내어읽다",
+          "date": "2026-08-19"
         },
         {
-          "title": "California Extreme Weather Heat",
-          "link": "https://n.news.naver.com/mnews/article/077/0007134885?sid=104",
+          "title": "[오피셜]'토트넘 캡틴' 크리스티안 로메로, 4,000만 유로에 아틀레티....",
+          "link": "https://blog.naver.com/italy_lee/224383122408",
+          "blogger": "The KOP",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "월드컵 버프 받은 제드 스펜스 인테르행, 과연 레비의 역대급 매도....",
+          "link": "https://blog.naver.com/edwin9407/224376842431",
+          "blogger": "더블체커(DC)",
+          "date": "2026-08-12"
+        },
+        {
+          "title": "토트넘의 사생결단: 2031년까지 장기 계약, 데 제르비는 추락하는 팀....",
+          "link": "https://blog.naver.com/yyjj2814/224236343144",
+          "blogger": "열정의 그라운드",
+          "date": "2026-04-01"
+        },
+        {
+          "title": "토트넘 강등 시나리오 현실화, 데 제르비 데뷔 전 효과 없었던 이유",
+          "link": "https://blog.naver.com/mhm0977/224253111184",
+          "blogger": "마니의 이것저것, 일상의 공유",
+          "date": "2026-04-15"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "'78년 만의 굴욕→개막전부터 박살' 토트넘 레전드 분노...\"히샬리송 당...",
+          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96859",
+          "press": "",
+          "date": "2026-08-24"
+        },
+        {
+          "title": "'4,000억 넘게 쓰고도 옛날 토트넘 그대로!' 英 매체, 토트넘 향해 신랄...",
+          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96856",
+          "press": "",
+          "date": "2026-08-24"
+        },
+        {
+          "title": "'0-3 충격패' 7500억 쏟았는데…데 제르비 감독 소신 발언 \"토트넘은 아...",
+          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96842",
+          "press": "",
+          "date": "2026-08-24"
+        },
+        {
+          "title": "맨유·토트넘 충격패, 맨시티 극장승…프리미어리그 개막전 희비",
+          "link": "https://www.etoday.co.kr/news/view/2617216",
+          "press": "",
+          "date": "2026-08-23"
+        },
+        {
+          "title": "'토트넘 떠나겠다' 파격 결단, 히샬리송 이적 추진...문제는 이강인보다...",
+          "link": "https://www.sportschosun.com/football/2026-08-24/202608240100138060008838",
+          "press": "",
+          "date": "2026-08-23"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "keyword": "비트코인",
+      "traffic": "500+",
+      "blogTotal": 942625,
+      "newsTotal": 777883,
+      "recentToday": 0,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "비트코인 덕에 20대에 인생역전했습니다",
+          "link": "https://blog.naver.com/0613hottehotte/224382956874",
+          "blogger": "경제적 자유 찾기",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "코인원 가입 이벤트 비트코인 무료? 총정리, 8월 신규 회원 비트코인....",
+          "link": "https://blog.naver.com/economicfree11/224376193903",
+          "blogger": "삶의 key가 되는 IT 이야기",
+          "date": "2026-08-12"
+        },
+        {
+          "title": "\"1 비트코인 가격\" 곧 10년 주기로 2배 전망 확실하다는데",
+          "link": "https://blog.naver.com/ymi5025/224379732948",
+          "blogger": "대중과 멀어지는 삶",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "돈 받고 비트코인 하는법, 코인거래소 순위부터 매수까지",
+          "link": "https://blog.naver.com/ace_begins/224383492126",
+          "blogger": "웰쓰",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "비트코인 급등 이유는? 상승을 만든 4가지 요인 / 개인적인분석",
+          "link": "https://blog.naver.com/chochunja77/224384889909",
+          "blogger": "월급만으로 부족한 곰민의 생존라이프",
+          "date": "2026-08-21"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "2.5%p 높아진 비트코인 구매 확률, 정보가 갈랐다",
+          "link": "https://www.tokenpost.kr/news/cryptocurrency/397004",
+          "press": "",
+          "date": "2026-08-24"
+        },
+        {
+          "title": "비트코인 7만8000달러대 껑충…이더리움 소폭 상승",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695172",
+          "press": "",
+          "date": "2026-08-24"
+        },
+        {
+          "title": "8월 25일 출근길 팟캐스트 일본은행 9월 회의 변수 부상, 비트코인 강세...",
+          "link": "https://www.tokenpost.kr/news/insights/396931",
+          "press": "",
+          "date": "2026-08-24"
+        },
+        {
+          "title": "비트코인(BTC), 2021년 이후 두 번째 '폭발적 한 주'...약달러·ETF 쌍끌이...",
+          "link": "http://coinreaders.com/254594",
+          "press": "",
+          "date": "2026-08-24"
+        },
+        {
+          "title": "원화코인 9월 분수령···은행 51%룰 충돌",
+          "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=859054",
+          "press": "",
+          "date": "2026-08-24"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "keyword": "날씨",
+      "traffic": "100000+",
+      "blogTotal": 26815902,
+      "newsTotal": 3845787,
+      "recentToday": 0,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "오키나와 여름휴가 완벽 가이드! 8월 날씨부터 태풍 대비 실내 가볼....",
+          "link": "https://blog.naver.com/runtoyou808/224374131653",
+          "blogger": "당신을 위한 트래블 아카이브",
+          "date": "2026-08-11"
+        },
+        {
+          "title": "베트남 푸꾸옥 9월 날씨 우기 건기 여행 준비물",
+          "link": "https://blog.naver.com/dennis0525/224376856169",
+          "blogger": "칩칩이의 여행일기",
+          "date": "2026-08-13"
+        },
+        {
+          "title": "일본 양산 Wpc 오사카 8월 날씨 난바파크스 난바시티 PLAZA 쇼핑 후기",
+          "link": "https://blog.naver.com/psyche99/224380277865",
+          "blogger": "제리스텔라의 아름다운 미행",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "8월 베트남 다낭 여행 준비 중이라면?날씨 옷차림 필수 여행준비물 ....",
+          "link": "https://blog.naver.com/gam_log/224364200429",
+          "blogger": "감로그의 여행로그",
+          "date": "2026-08-04"
+        },
+        {
+          "title": "일본 도쿄 9월 10월 날씨 옷차림 항공권 여행 준비물 체크",
+          "link": "https://blog.naver.com/soojchun/224381060429",
+          "blogger": "칸쵸도우너표 멋따라맛따라",
+          "date": "2026-08-17"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "수도권·강원 소나기…비 그친 뒤 폭염, 낮 최고 36도",
+          "link": "https://www.cstimes.com/news/articleView.html?idxno=717861",
+          "press": "",
+          "date": "2026-08-24"
+        },
+        {
+          "title": "\"가상 D2C 회사 직무 체험\" … 안양대 등 경기서부 4개 대학, 연합취업캠...",
+          "link": "https://biz.newdaily.co.kr/site/data/html/2026/08/25/2026082500034.html",
+          "press": "",
+          "date": "2026-08-24"
+        },
+        {
+          "title": "신시아, \"좋은 노래와 함께해 행복\"…이수현 '푸른 산호초' MV 비하인드",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16172578",
+          "press": "",
+          "date": "2026-08-24"
+        },
+        {
+          "title": "서울 외식비 7월에도 상승…폭염에 식재료 부담",
+          "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=309591",
+          "press": "",
+          "date": "2026-08-24"
+        },
+        {
+          "title": "제주시 북부 ‘폭염경보’··모레(27일)부터 비 이어져요",
+          "link": "https://jejumbc.com/NewsArticle/858394",
           "press": "",
           "date": "2026-08-24"
         }
@@ -587,147 +581,147 @@
       "rank": 8
     },
     {
-      "keyword": "ionq",
+      "keyword": "엔비디아",
       "traffic": "500+",
-      "blogTotal": 9338,
-      "newsTotal": 3949,
-      "recentToday": 6,
-      "recentWeek": 76,
+      "blogTotal": 361672,
+      "newsTotal": 534804,
+      "recentToday": 0,
+      "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "아이온큐(IonQ)는 어떤 회사인가?",
-          "link": "https://blog.naver.com/aktkrl/224351968400",
-          "blogger": "PC",
-          "date": "2026-07-20"
-        },
-        {
-          "title": "IonQ vs Quantinuum(QNT) QCCD 비교, 이온트랩 FTQC 확장성 누가 앞설까? (ft. ....",
-          "link": "https://blog.naver.com/transcenter/224384632960",
-          "blogger": "블루오션",
-          "date": "2026-08-20"
-        },
-        {
-          "title": "아이온큐(IONQ) 최신 실적과 스카이워터 인수: 양자 독점 플랫폼 완성....",
-          "link": "https://blog.naver.com/jeongdla/224379945439",
-          "blogger": "정긍의 머니알짜정보",
+          "title": "엔비디아의 스페이스X 지분 투자, 순환금융 덫일까?",
+          "link": "https://blog.naver.com/vitamin2230/224379422282",
+          "blogger": "REONE P&I",
           "date": "2026-08-16"
         },
         {
-          "title": "아이온큐(IONQ) 주가 7% 급등 원인분석 (5월 29일 작성)",
-          "link": "https://blog.naver.com/aurora4949/224300126710",
-          "blogger": "퀀텀 점프 노트",
-          "date": "2026-05-29"
+          "title": "\"엔비디아 목숨 건 도박\" 이거 성공하면, 코스피 천상계 갈 것 같다",
+          "link": "https://blog.naver.com/meaning87/224377486458",
+          "blogger": "은퇴연구소",
+          "date": "2026-08-14"
         },
         {
-          "title": "아이온큐(IONQ) 지금은 매수 기회 -- 주가 바닥과 상승 전환 시점은?",
-          "link": "https://blog.naver.com/charlmong/224349302052",
-          "blogger": "charlmong",
-          "date": "2026-07-17"
+          "title": "엔비디아 1000억 달러 투자의 함정 엔비디아 순환출자 논란",
+          "link": "https://blog.naver.com/nextar20/224359880779",
+          "blogger": "아무래도 우린 여행",
+          "date": "2026-07-28"
+        },
+        {
+          "title": "엔비디아 베라 루빈 뜻, HBM4·NVLink 6세대 핵심 기술 한눈에",
+          "link": "https://blog.naver.com/sbn1024/224342616535",
+          "blogger": "경제 포커스",
+          "date": "2026-07-11"
+        },
+        {
+          "title": "젝슨황 누구? 젠슨 황 엔비디아 CEO의 성공 신화와 자산 161조의 비밀",
+          "link": "https://blog.naver.com/tonnykim3999/224317379655",
+          "blogger": "맛살의 테크 스토리",
+          "date": "2026-06-16"
         }
       ],
       "topNews": [
         {
-          "title": "아이온큐·리게티 등 양자 컴퓨팅 줄줄이 급락…‘깜짝 실적’ 착시였나",
-          "link": "https://www.g-enews.com/view.php?ud=2026082506492411e250e8e188_1",
+          "title": "삼성전자·SK하이닉스 프리마켓 2%대 약세…美 반도체주 하락 여파",
+          "link": "https://www.sedaily.com/article/20082819?ref=naver",
           "press": "",
           "date": "2026-08-24"
         },
         {
-          "title": "[서학!스타] 아이온큐 우주사업 확대…저궤도에 '레이저 통신망' 수십 기...",
-          "link": "https://www.cbci.co.kr/news/articleView.html?idxno=600820",
+          "title": "[굿모닝 증시]美 금리 급등세 진정…코스피, 반등 시도 전망",
+          "link": "https://view.asiae.co.kr/article/2026082508074618865",
           "press": "",
           "date": "2026-08-24"
         },
         {
-          "title": "양자 컴퓨팅 '샛별' 인플렉션, 아이온큐·리게티 아성 흔드나",
-          "link": "https://www.g-enews.com/view.php?ud=202608241105304000e250e8e188_1",
+          "title": "삼성전자 생산 엔비디아 추론칩 '그록3 LPX' 양산 돌입",
+          "link": "https://www.globale.co.kr/news/articleView.html?idxno=40026",
           "press": "",
           "date": "2026-08-24"
         },
         {
-          "title": "양자 컴퓨팅, 美 정부 지원 수혜 기대감에 폭등...아이온큐 8%↑",
-          "link": "https://www.g-enews.com/view.php?ud=20260822061348883e250e8e188_1",
+          "title": "엔비디아 경계에 반도체 약세…삼전·하닉, 프리마켓서 하락",
+          "link": "https://www.dt.co.kr/article/12079961?ref=naver",
           "press": "",
-          "date": "2026-08-21"
+          "date": "2026-08-24"
         },
         {
-          "title": "한국첨단소재, '코리아퀀텀'에 아이온큐 추가",
-          "link": "https://www.ggilbo.com/news/articleView.html?idxno=1176487",
+          "title": "뉴욕증시, AI·반도체주 약세에 혼조 마감",
+          "link": "http://www.issuenbiz.com/news/articleView.html?idxno=79000",
           "press": "",
-          "date": "2026-08-20"
+          "date": "2026-08-24"
         }
       ],
       "rank": 9
     },
     {
-      "keyword": "погода",
-      "traffic": "1000+",
-      "blogTotal": 249,
-      "newsTotal": 8,
+      "keyword": "보험",
+      "traffic": "200+",
+      "blogTotal": 4895629,
+      "newsTotal": 6235092,
       "recentToday": 0,
-      "recentWeek": 0,
+      "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "가물다, 가물대다, 가물치, 가뭄, 가뭇가뭇하다, 가미, 가미되다, 가....",
-          "link": "https://moen.tistory.com/0100",
-          "blogger": "Dictionary :: Dictionary",
-          "date": "2020-02-06"
+          "title": "하나은행 청년전월세 권리보험, 전세사기 최대 3억 보장",
+          "link": "https://blog.naver.com/vitamin2230/224377282712",
+          "blogger": "REONE P&I",
+          "date": "2026-08-13"
         },
         {
-          "title": "가을, 가을걷이, 가을걷이하다, 가을날, 가을맞이, 가을바람, 가을밤....",
-          "link": "https://moen.tistory.com/119",
-          "blogger": "Dictionary :: Dictionary",
-          "date": "2020-02-06"
+          "title": "아이폰17 보험 꼭 들어야 할까? 애플케어 vs 카카오보험 vs 쿠팡케어 ....",
+          "link": "https://blog.naver.com/kim_mymy/224353879517",
+          "blogger": "그냥 잘 먹고 잘 살기☀︎",
+          "date": "2026-07-22"
         },
         {
-          "title": "쌀가게, 쌀가루, 쌀뜨물, 쌀밥, 쌀보리, 쌀쌀맞다, 쌀쌀하다, 쌀알, ....",
-          "link": "https://moen.tistory.com/2896",
-          "blogger": "Dictionary :: Dictionary",
-          "date": "2020-02-06"
+          "title": "출산급여 신청방법, 고용보험 미적용자도 150만원 받는 조건",
+          "link": "https://blog.naver.com/hwre7774/224345003125",
+          "blogger": "워누공간의 블로그",
+          "date": "2026-07-13"
         },
         {
-          "title": "변덕, 변덕맞다, 변덕스럽다, 변덕쟁이, 변동, 변동되다, 변동시키다....",
-          "link": "https://moen.tistory.com/2075",
-          "blogger": "Dictionary :: Dictionary",
-          "date": "2020-02-06"
+          "title": "난임치료부터 산후조리원 보장까지, 임신출산 여성건강보험 정리!",
+          "link": "https://blog.naver.com/wldud416/224348371302",
+          "blogger": "EASY_YOUNG",
+          "date": "2026-07-16"
         },
         {
-          "title": "경치, 경치다, 경칩, 경칭, 경쾌하다, 경탄, 경탄스럽다, 경탄하다, ....",
-          "link": "https://moen.tistory.com/0368",
-          "blogger": "Dictionary :: Dictionary",
-          "date": "2020-02-06"
+          "title": "보험료 카드로 납부하기(한화,메리츠, 삼성, 현대)",
+          "link": "https://blog.naver.com/youtopia153/224304400336",
+          "blogger": "153의 꿈",
+          "date": "2026-06-03"
         }
       ],
       "topNews": [
         {
-          "title": "항일투쟁 동지 ‘트랴피친’의 죽음, 독립군 내홍으로 번지다",
-          "link": "https://h21.hani.co.kr/arti/culture/culture_general/58243.html",
+          "title": "당진시의회, 8월 중 의원출무일 개최",
+          "link": "https://daily.hankooki.com/news/articleView.html?idxno=1398712",
           "press": "",
-          "date": "2025-10-29"
+          "date": "2026-08-24"
         },
         {
-          "title": "[Global Language 러시아어] 317",
-          "link": "http://jedam15.koreafree.co.kr/news/view.html?section=1&category=80&item=&no=34677",
+          "title": "박희승 \"'의료'도 도로·철도 같은 국가 SOC...국립의전원·국립중앙의료...",
+          "link": "https://www.pressian.com/pages/articles/2026082506323543986?utm_source=naver&utm_medium=search",
           "press": "",
-          "date": "2017-11-02"
+          "date": "2026-08-24"
         },
         {
-          "title": "[Global Language 러시아어] 312",
-          "link": "http://weeklytrade.co.kr/news/view.html?section=1&category=80&item=&no=33536",
+          "title": "환자들의 외침이 바꾼 9개의 법… ‘환자샤우팅카페’ 13년의 기록",
+          "link": "https://www.munhwa.com/article/11611718?ref=naver",
           "press": "",
-          "date": "2017-09-21"
+          "date": "2026-08-24"
         },
         {
-          "title": "[Global Language 러시아어] 311",
-          "link": "http://weeklytrade.co.kr/news/view.html?section=1&category=80&item=&no=33378",
+          "title": "AI 대필 시대… 은행·보험·카드 분쟁조정 3만 6천건, 셋 중 하나 중복",
+          "link": "https://www.raonnews.com/news/article.html?no=60523",
           "press": "",
-          "date": "2017-09-18"
+          "date": "2026-08-24"
         },
         {
-          "title": "이 인형같은 동물은 진짜 인형이다(사진)",
-          "link": "http://www.huffingtonpost.kr/2016/02/14/story_n_9230354.html",
+          "title": "갈수록 늘고 있는 '황반변성'…단순 노안으로 치부하면 위험",
+          "link": "https://jhealthmedia.joins.com/news/articleView.html?idxno=33305",
           "press": "",
-          "date": "2016-02-14"
+          "date": "2026-08-24"
         }
       ],
       "rank": 10
