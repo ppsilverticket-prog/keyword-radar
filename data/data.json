@@ -1,159 +1,13 @@
 {
-  "updatedAt": "2026-08-24T18:51:37.423Z",
+  "updatedAt": "2026-08-24T19:26:36.394Z",
   "source": "live",
   "keywords": [
     {
-      "keyword": "롯데마트",
-      "traffic": "200+",
-      "blogTotal": 545958,
-      "newsTotal": 583950,
-      "recentToday": 90,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "천안 성정동 롯데마트 내 창고형약국 메가타운약국 방문 후기",
-          "link": "https://blog.naver.com/ygkim103/224375374347",
-          "blogger": "; 윤슬의 기록 ;",
-          "date": "2026-08-12"
-        },
-        {
-          "title": "롯데마트 수산대전 새우/장어 할인 행사 가격.  저녁 메뉴로 먹은 구....",
-          "link": "https://blog.naver.com/parksm2673/224373760326",
-          "blogger": "행복,소중한 일상 순간들 솔직한 리뷰",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "롯데마트 통큰데이 8월 전단지 분석, 장어·샤인머스캣·전복 뭐가 ....",
-          "link": "https://blog.naver.com/mandurihome/224380430833",
-          "blogger": "만듀리 홈 | 아이T 개발자 신혼부부의 F감성 리빙",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "베트남 나트랑 여행 쇼핑 기념품 리스트 롯데마트 골드코스트 짐보....",
-          "link": "https://blog.naver.com/minjeong1128/224369589062",
-          "blogger": "또? 또! 여행가는 또또행✈️",
-          "date": "2026-08-10"
-        },
-        {
-          "title": "베트남 나트랑 쇼핑리스트 추천 롯데마트 담시장",
-          "link": "https://blog.naver.com/parangusl_/224377762358",
-          "blogger": "당신의 일상은 안녕한가요?",
-          "date": "2026-08-14"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "중수청 수원청 청사 비용 부담 만만찮네",
-          "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1330302",
-          "press": "",
-          "date": "2026-08-24"
-        },
-        {
-          "title": "남양주시, 생활공간 곳곳에 기업 제품 알린다",
-          "link": "http://www.newstown.co.kr/news/articleView.html?idxno=713401",
-          "press": "",
-          "date": "2026-08-24"
-        },
-        {
-          "title": "중수청 수원청, 성남으로 옮겨진다",
-          "link": "https://www.joongboo.com/news/articleView.html?idxno=363734628",
-          "press": "",
-          "date": "2026-08-24"
-        },
-        {
-          "title": "꽃게값 1원 전쟁…이마트·쿠팡 '최저가 혈투'",
-          "link": "https://biz.sbs.co.kr/article_hub/20000330470?division=NAVER",
-          "press": "",
-          "date": "2026-08-24"
-        },
-        {
-          "title": "[포토뉴스] 첫 수확 홍로사과",
-          "link": "https://www.busan.com/view/busan/view.php?code=2026082418223125984",
-          "press": "",
-          "date": "2026-08-24"
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "keyword": "첼시",
-      "traffic": "200+",
-      "blogTotal": 245712,
-      "newsTotal": 428153,
-      "recentToday": 88,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "마카오 맛집 | 런더너 첼시가든 Chelsea Garden, 분위기 좋은 딤섬 맛집",
-          "link": "https://blog.naver.com/songhee_1/224376622906",
-          "blogger": "꽃송이 Log | Macau Life",
-          "date": "2026-08-12"
-        },
-        {
-          "title": "\"명품못지않은 아우라\" 코치 첼시 숄더백 30 가방 후기 (+36 사이즈비....",
-          "link": "https://blog.naver.com/merryeeun/224375618250",
-          "blogger": "메른 블로그",
-          "date": "2026-08-11"
-        },
-        {
-          "title": "뉴욕 첼시 트레이더조 기념품 추천, 미국 여행 가면 꼭 사와야할 5달....",
-          "link": "https://blog.naver.com/wou1103/224368749835",
-          "blogger": "피치인더월드",
-          "date": "2026-08-05"
-        },
-        {
-          "title": "피파4 첼시 스쿼드 금액별 8개 스쿼드",
-          "link": "https://blog.naver.com/ansthd2968/224373051089",
-          "blogger": "30분 전☆",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "첼시 레인부츠 양대산맥! 헌터 vs 락피쉬웨더웨어",
-          "link": "https://blog.naver.com/yeonju_hhh/224346808626",
-          "blogger": "쭈잉 패션 매거진",
-          "date": "2026-07-14"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "알론소의 첼시, 3-4-2-1 포메이션 가동...페드루-팔머-로저스 선발",
-          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96874",
-          "press": "",
-          "date": "2026-08-24"
-        },
-        {
-          "title": "'맨유&리버풀이 노렸던 포르투갈 특급!' 첼시, 네투 대체자로 콘세이상...",
-          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96871",
-          "press": "",
-          "date": "2026-08-24"
-        },
-        {
-          "title": "'맨유&리버풀 타깃 가로챈다!' 첼시, 엔조 대체자로 23세 英 MF 알렉스 스...",
-          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96870",
-          "press": "",
-          "date": "2026-08-24"
-        },
-        {
-          "title": "'韓 역대급 유망주' 이 정도로 원한다니! 레인저스, 김민수 영입에 '구단...",
-          "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553482330",
-          "press": "",
-          "date": "2026-08-24"
-        },
-        {
-          "title": "전 시즌 4위 팀의 끔찍한 개막전…사라진 주전 공격수는 어디로?→\"직접...",
-          "link": "https://isplus.com/article/view/isp202608240200",
-          "press": "",
-          "date": "2026-08-24"
-        }
-      ],
-      "rank": 2
-    },
-    {
       "keyword": "베센트",
       "traffic": "100+",
-      "blogTotal": 6360,
-      "newsTotal": 18573,
-      "recentToday": 84,
+      "blogTotal": 6361,
+      "newsTotal": 18575,
+      "recentToday": 83,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -175,19 +29,31 @@
           "date": "2026-08-23"
         },
         {
-          "title": "미국채 바이백 뜻? 미국국채30년물 5% 넘자 다급해진 이유",
-          "link": "https://blog.naver.com/yoonjuicy/224383909693",
-          "blogger": "전업주부 돈굴리기",
-          "date": "2026-08-20"
-        },
-        {
           "title": "'미국 트럼프 정부 재무장관' 스콧 베센트 학력 및 경력과 살아온 생....",
           "link": "https://blog.naver.com/pso164/224370820355",
           "blogger": "과학커뮤니케이터 박종현",
           "date": "2026-08-11"
+        },
+        {
+          "title": "미국채 바이백 뜻? 미국국채30년물 5% 넘자 다급해진 이유",
+          "link": "https://blog.naver.com/yoonjuicy/224383909693",
+          "blogger": "전업주부 돈굴리기",
+          "date": "2026-08-20"
         }
       ],
       "topNews": [
+        {
+          "title": "美 국채 바이백 후폭풍...헤지펀드, 달러 하락 베팅 확대",
+          "link": "https://biz.sbs.co.kr/article_hub/20000330491?division=NAVER",
+          "press": "",
+          "date": "2026-08-24"
+        },
+        {
+          "title": "美, '비상금 통장' 꺼내나...\"국채 바이백에 1조 달러 현금 잔고 활용 검...",
+          "link": "https://biz.sbs.co.kr/article_hub/20000330490?division=NAVER",
+          "press": "",
+          "date": "2026-08-24"
+        },
         {
           "title": "미국, 이란 ‘경제적 배제 작전’ 개시…제3국 거래도 제재",
           "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8644912&ref=A",
@@ -205,21 +71,9 @@
           "link": "https://www.news1.kr/world/usa-canada/6268149",
           "press": "",
           "date": "2026-08-24"
-        },
-        {
-          "title": "베센트, 이번 주 대형 금융기관 제재 가능성 거론",
-          "link": "https://www.tokenpost.kr/news/breaking/396861",
-          "press": "",
-          "date": "2026-08-24"
-        },
-        {
-          "title": "베센트 \"채권 아직 안 샀다…다음 운용 9월 9일\"",
-          "link": "https://www.tokenpost.kr/news/breaking/396858",
-          "press": "",
-          "date": "2026-08-24"
         }
       ],
-      "rank": 3
+      "rank": 1
     },
     {
       "keyword": "imdb",
@@ -248,16 +102,16 @@
           "date": "2026-07-05"
         },
         {
-          "title": "imdb 역대 좀비 영화 톱 20 / 부산행 역대 4위",
-          "link": "https://blog.naver.com/shapeofwater/224361058200",
-          "blogger": "shapeofwater님의블로그",
-          "date": "2026-07-30"
-        },
-        {
           "title": "추천 미드 40편 (로튼토마토, IMDb 평점 있음, 스포없음)",
           "link": "https://blog.naver.com/nobody1110/224370413026",
           "blogger": "나홀로 행성",
           "date": "2026-08-06"
+        },
+        {
+          "title": "imdb 역대 좀비 영화 톱 20 / 부산행 역대 4위",
+          "link": "https://blog.naver.com/shapeofwater/224361058200",
+          "blogger": "shapeofwater님의블로그",
+          "date": "2026-07-30"
         }
       ],
       "topNews": [
@@ -292,12 +146,12 @@
           "date": "2026-08-21"
         }
       ],
-      "rank": 4
+      "rank": 2
     },
     {
       "keyword": "한국거래소",
       "traffic": "200+",
-      "blogTotal": 86941,
+      "blogTotal": 86925,
       "newsTotal": 1496975,
       "recentToday": 72,
       "recentWeek": 100,
@@ -365,14 +219,14 @@
           "date": "2026-08-24"
         }
       ],
-      "rank": 5
+      "rank": 3
     },
     {
       "keyword": "유시민",
-      "traffic": "200+",
-      "blogTotal": 96875,
+      "traffic": "500+",
+      "blogTotal": 96878,
       "newsTotal": 167576,
-      "recentToday": 54,
+      "recentToday": 55,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -388,16 +242,16 @@
           "date": "2026-08-17"
         },
         {
-          "title": "[이슈] 맨날 뉴스 나오는 '유시민', 이름만 시민이고 지갑은 VVIP?  (증....",
-          "link": "https://blog.naver.com/sz3222/224354184582",
-          "blogger": "\"천사부자 투자 레시피\"",
-          "date": "2026-07-22"
-        },
-        {
           "title": "유시민 작가 발언에 대한 여론 반응 정리(16일)",
           "link": "https://blog.naver.com/intgens/224349454633",
           "blogger": "남양주타임즈",
           "date": "2026-07-17"
+        },
+        {
+          "title": "[이슈] 맨날 뉴스 나오는 '유시민', 이름만 시민이고 지갑은 VVIP?  (증....",
+          "link": "https://blog.naver.com/sz3222/224354184582",
+          "blogger": "\"천사부자 투자 레시피\"",
+          "date": "2026-07-22"
         },
         {
           "title": "유시민 이재명 대통령 저격 발언 논란, 여권 갈등의 3가지 핵심 쟁점....",
@@ -438,11 +292,11 @@
           "date": "2026-08-24"
         }
       ],
-      "rank": 6
+      "rank": 4
     },
     {
       "keyword": "신봉선",
-      "traffic": "100+",
+      "traffic": "200+",
       "blogTotal": 17961,
       "newsTotal": 87035,
       "recentToday": 24,
@@ -511,11 +365,11 @@
           "date": "2026-08-24"
         }
       ],
-      "rank": 7
+      "rank": 5
     },
     {
       "keyword": "경주마",
-      "traffic": "100+",
+      "traffic": "200+",
       "blogTotal": 18476,
       "newsTotal": 68581,
       "recentToday": 11,
@@ -584,27 +438,106 @@
           "date": "2026-08-24"
         }
       ],
-      "rank": 8
+      "rank": 6
+    },
+    {
+      "keyword": "풀럼 대 첼시",
+      "traffic": "2000+",
+      "blogTotal": 84,
+      "newsTotal": 2208,
+      "recentToday": 1,
+      "recentWeek": 2,
+      "topBlogs": [
+        {
+          "title": "스포츠 월드 - [축구승무패38회차 분석]상대전적,구매율,환급율등",
+          "link": "https://sposworld.tistory.com/334",
+          "blogger": "스포츠 월드",
+          "date": "2012-10-31"
+        },
+        {
+          "title": "스포츠 월드 - 프리미어리그 18라운드 예상,경기력분석,해외배당,중....",
+          "link": "https://sposworld.tistory.com/445",
+          "blogger": "스포츠 월드",
+          "date": "2012-12-22"
+        },
+        {
+          "title": "울브스의 이적시장 – 디아스, 산체스, 맥닐 주시 중 [디 애슬레틱]",
+          "link": "https://wsoccer-wbaseball-story.tistory.com/220",
+          "blogger": "European Soccer & MLB Story",
+          "date": "2020-08-21"
+        },
+        {
+          "title": "프로토 승부식 65회차 축구 해외예상 EPL 라리가 세리에A 분데스리가 ....",
+          "link": "https://lifeman.tistory.com/593",
+          "blogger": "상남자의 人生",
+          "date": "2022-08-13"
+        },
+        {
+          "title": "풀럼 첼시 26-27 프리미어리그 1라운드 프리뷰 / 예상 라인업, 모건 로....",
+          "link": "https://blog.naver.com/provemekicheol/224387396731",
+          "blogger": "최헙tv ‘일상의 모든 것이 소재다’",
+          "date": "2026-08-23"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "EPL 한국 선수 0명 위기…박지성부터 손흥민까지 이어온 계보 끊기나",
+          "link": "https://www.newsis.com/view/NISX20260821_0003757759",
+          "press": "",
+          "date": "2026-08-21"
+        },
+        {
+          "title": "[프리시즌 매치 리뷰]주앙 페드로 멀티골 폭발! 사비 알론소 첼시 홈 데...",
+          "link": "https://www.sportschosun.com/football/2026-08-16/202608160100092430005866",
+          "press": "",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "[AI프리뷰] 월드컵 1일 32강 멕시코-에콰도르전, '무실점 개최국' 멕시코...",
+          "link": "https://www.newspim.com/news/view/20260630001199",
+          "press": "",
+          "date": "2026-06-30"
+        },
+        {
+          "title": "“루카쿠는 대체불가”…부상·부진에도 최종명단 합류",
+          "link": "https://www.sedaily.com/article/20044798?ref=naver",
+          "press": "",
+          "date": "2026-05-16"
+        },
+        {
+          "title": "골대 강타! '정말 지독히도 안 풀린다' 강등 고배 황희찬, 석달만의 선발...",
+          "link": "https://www.sportschosun.com/football/2026-05-10/202605100100051270003458",
+          "press": "",
+          "date": "2026-05-09"
+        }
+      ],
+      "rank": 7
     },
     {
       "keyword": "돈",
-      "traffic": "5000+",
-      "blogTotal": 10147990,
-      "newsTotal": 7214090,
+      "traffic": "10000+",
+      "blogTotal": 10147992,
+      "newsTotal": 7214100,
       "recentToday": 0,
       "recentWeek": 100,
       "topBlogs": [
-        {
-          "title": "일본 다카마쓰 여행 돈키호테 쇼핑리스트 기념품 추천템",
-          "link": "https://blog.naver.com/hamy4407/224375677538",
-          "blogger": "하루한번 미식탐방",
-          "date": "2026-08-11"
-        },
         {
           "title": "[Osaka] 일본 돈키호테 쇼핑리스트 추천｜오사카 도톤보리 추천템 15....",
           "link": "https://blog.naver.com/lulluella/224377873986",
           "blogger": "리리 라잎프 (ว˙∇˙)ง ღ",
           "date": "2026-08-13"
+        },
+        {
+          "title": "케이뱅크 돈나무 키우기, 현금 10만원까지 준다고? 참여방법부터 최....",
+          "link": "https://blog.naver.com/manii83/224383855775",
+          "blogger": "“정보가 곧 돈이다”",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "일본 다카마쓰 여행 돈키호테 쇼핑리스트 기념품 추천템",
+          "link": "https://blog.naver.com/hamy4407/224375677538",
+          "blogger": "하루한번 미식탐방",
+          "date": "2026-08-11"
         },
         {
           "title": "\"클릭 몇 번으로 통장에 현금이 꽂히는...\" 케이뱅크 돈나무 영양제 ....",
@@ -617,42 +550,109 @@
           "link": "https://blog.naver.com/vkeo3136/224373801774",
           "blogger": "알리",
           "date": "2026-08-10"
-        },
-        {
-          "title": "지하 주차장이 돈을 번다? VRFB ESS 자산 유동화",
-          "link": "https://blog.naver.com/vitamin2230/224378371465",
-          "blogger": "REONE P&I",
-          "date": "2026-08-16"
         }
       ],
       "topNews": [
         {
-          "title": "미국, 대이란 제재 대폭 확대…돈줄·교역망 전면 차단(종합)",
-          "link": "https://www.news1.kr/world/usa-canada/6268151",
+          "title": "美, 이란과 거래하는 제3국 제재…\"경제적 왕따 작전 개시\"(종합)",
+          "link": "https://www.yna.co.kr/view/AKR20260825004651071?input=1195m",
           "press": "",
           "date": "2026-08-24"
         },
         {
-          "title": "트럼프 가상자산 정책, 베선트 국채전략과 맞물렸다",
-          "link": "https://www.g-enews.com/view.php?ud=2026082421464226619a1f309431_1",
+          "title": "美 국채 바이백 후폭풍...헤지펀드, 달러 하락 베팅 확대",
+          "link": "https://biz.sbs.co.kr/article_hub/20000330491?division=NAVER",
           "press": "",
           "date": "2026-08-24"
         },
         {
-          "title": "헤지펀드, 달러 하락 베팅 확대…상승 베팅보다 47% 많아",
-          "link": "https://www.g-enews.com/view.php?ud=2026082421505659789a1f309431_1",
+          "title": "美, '비상금 통장' 꺼내나...\"국채 바이백에 1조 달러 현금 잔고 활용 검...",
+          "link": "https://biz.sbs.co.kr/article_hub/20000330490?division=NAVER",
           "press": "",
           "date": "2026-08-24"
         },
         {
-          "title": "美, 이란 ‘경제 포위전’ 돌입…제3국까지 2차 제재 확대",
-          "link": "https://www.kbmaeil.com/article/20260825500011",
+          "title": "존 시나의 비트코인(BTC) 9년 전 사진, 다시 주목...\"그 때 샀으면 1,545%...",
+          "link": "http://coinreaders.com/254555",
           "press": "",
           "date": "2026-08-24"
         },
         {
-          "title": "피해 청소년 회복 가로막는 '학교·친구·사회' 단절",
-          "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000059148",
+          "title": "정지영 정지영커피로스터즈 대표 “수원 밖에서도 커피 품질은 지킨다”",
+          "link": "https://www.etnews.com/20260824000371",
+          "press": "",
+          "date": "2026-08-24"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "keyword": "화장실",
+      "traffic": "500+",
+      "blogTotal": 4998947,
+      "newsTotal": 1124456,
+      "recentToday": 0,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "여의도 cgv 리뉴얼 오픈 후기(영화관 분위기 밝아짐, 화장실 바뀜, 전....",
+          "link": "https://blog.naver.com/yscho0132/224365240051",
+          "blogger": "리뷰어의 일기장",
+          "date": "2026-08-02"
+        },
+        {
+          "title": "욕실 습기제거제 드와이 다습제 내돈내산 후기 / 화장실 제습제 일....",
+          "link": "https://blog.naver.com/guess2204/224372397253",
+          "blogger": "내일도맑음:)",
+          "date": "2026-08-08"
+        },
+        {
+          "title": "상가 화장실 환풍기 교체 방법, 초보자도 가능한 셀프 꿀팁",
+          "link": "https://blog.naver.com/living33house/224362536730",
+          "blogger": "리빙 꿀팁 하우스",
+          "date": "2026-07-30"
+        },
+        {
+          "title": "일본 돈키호테 화장실 탈취제 내돈내산 후기 | 고바야시 1방울 쇼슈....",
+          "link": "https://blog.naver.com/senman456/224358159779",
+          "blogger": "센만이의 뷰티탐구",
+          "date": "2026-07-26"
+        },
+        {
+          "title": "다이소 | 욕실용 배수구 트랩, 화장실 하수구 냄새 차단 트랩 솔직 ....",
+          "link": "https://blog.naver.com/44dnjf/224326424131",
+          "blogger": "곰곰이 재밌게 살자",
+          "date": "2026-06-25"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "[패트롤] 경기도-경기도의회-경기도교육청",
+          "link": "https://www.ekn.kr/web/view.php?key=20260825026396039",
+          "press": "",
+          "date": "2026-08-24"
+        },
+        {
+          "title": "여자 화장실 칸막이 위로 휴대폰 넣어 촬영…30대 남성 직원 구속",
+          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3673386",
+          "press": "",
+          "date": "2026-08-24"
+        },
+        {
+          "title": "장미란씨 실종사건 허위 종결 경찰, '여자화장실 침입'으로 이미 대기발...",
+          "link": "https://www.newsis.com/view/NISX20260824_0003760111",
+          "press": "",
+          "date": "2026-08-24"
+        },
+        {
+          "title": "인천공항 여객터미널 특별 안전점검 실시",
+          "link": "https://www.dongponews.net/news/articleView.html?idxno=60054",
+          "press": "",
+          "date": "2026-08-24"
+        },
+        {
+          "title": "[종합] '신병4' 베일 벗었다…하사 남태우 복귀→신병 이원정 등장",
+          "link": "https://enter.etoday.co.kr/news/view/301480",
           "press": "",
           "date": "2026-08-24"
         }
@@ -662,7 +662,7 @@
     {
       "keyword": "영화관",
       "traffic": "200+",
-      "blogTotal": 722019,
+      "blogTotal": 722029,
       "newsTotal": 717740,
       "recentToday": 0,
       "recentWeek": 100,
@@ -672,6 +672,12 @@
           "link": "https://blog.naver.com/daisy1241/224379121029",
           "blogger": "햄순씨의 행보",
           "date": "2026-08-15"
+        },
+        {
+          "title": "용산 템퍼시네마 후기 :: CGV 씨네드쉐프 영화관 가는법! A관 C열 7번 8....",
+          "link": "https://blog.naver.com/dokyy/224382867969",
+          "blogger": "HODO.zip",
+          "date": "2026-08-19"
         },
         {
           "title": "울산 삼산 CGV IMAX관에서 영화 오디세이 보고왔다 !",
@@ -684,12 +690,6 @@
           "link": "https://blog.naver.com/sunny_factory/224379834241",
           "blogger": "써니 육아 정보 창고 ❤️",
           "date": "2026-08-15"
-        },
-        {
-          "title": "용산 템퍼시네마 후기 :: CGV 씨네드쉐프 영화관 가는법! A관 C열 7번 8....",
-          "link": "https://blog.naver.com/dokyy/224382867969",
-          "blogger": "HODO.zip",
-          "date": "2026-08-19"
         },
         {
           "title": "여의도 cgv 리뉴얼 오픈 후기(영화관 분위기 밝아짐, 화장실 바뀜, 전....",
