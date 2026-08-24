@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-24T09:43:18.804Z",
+  "updatedAt": "2026-08-24T10:39:24.990Z",
   "source": "live",
   "keywords": [
     {
       "keyword": "조희대",
-      "traffic": "2000+",
-      "blogTotal": 17768,
-      "newsTotal": 67867,
+      "traffic": "5000+",
+      "blogTotal": 17754,
+      "newsTotal": 67883,
       "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
@@ -43,32 +43,32 @@
       ],
       "topNews": [
         {
-          "title": "정부 여당 검수완박 이어 법원 흔들기? 비대화된 경찰 행태만 봐도 법원...",
-          "link": "https://www.imaeil.com/page/view/2026082418103235202",
+          "title": "청와대 \"대통령 임명권 침해\"…조희대는 \"법의 지배 소중\"",
+          "link": "https://news.jtbc.co.kr/article/NB12314811?influxDiv=NAVER",
           "press": "",
           "date": "2026-08-24"
         },
         {
-          "title": "퇴임하는 정성호 법무장관 “대통령은 대법관 임명권자… 존중해 해결해...",
-          "link": "https://www.chosun.com/national/court_law/2026/08/24/EJ6NZU2VFZDU7GRQERR6VPET6E/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+          "title": "논란 속 조희대 \"국가권력 자의적 행사 통제하는 '법의 지배' 소중\"",
+          "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5214498",
           "press": "",
           "date": "2026-08-24"
         },
         {
-          "title": "김민석·장동혁 손잡았지만…대법관·부동산 '신경전'",
-          "link": "http://www.yonhapnewstv.co.kr/news/MYH20260824184012wkS",
+          "title": "청와대 \"대통령 임명권 일정 정도 침해\"…대법관 제청 여야 충돌",
+          "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5214518",
           "press": "",
           "date": "2026-08-24"
         },
         {
-          "title": "與, 2차 사법개혁 시동…법원행정처 폐지 등 전방위 압박",
-          "link": "http://www.yonhapnewstv.co.kr/news/MYH20260824183921Sw9",
+          "title": "조희대 “국가권력 자의적 행사 통제할 법의 지배 소중”",
+          "link": "https://www.segye.com/newsView/20260824514879?OutUrl=naver",
           "press": "",
           "date": "2026-08-24"
         },
         {
-          "title": "[시사플랫폼] 양부남 “의원들 실력 키워 ‘호남 정치’ 복원해야…‘시...",
-          "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8644435&ref=A",
+          "title": "[포토] 대법원장 지나치는 법사위원장",
+          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000005753&cp=nv",
           "press": "",
           "date": "2026-08-24"
         }
@@ -77,9 +77,9 @@
     },
     {
       "keyword": "공효진",
-      "traffic": "1000+",
-      "blogTotal": 86169,
-      "newsTotal": 174882,
+      "traffic": "2000+",
+      "blogTotal": 86177,
+      "newsTotal": 174884,
       "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
@@ -116,6 +116,18 @@
       ],
       "topNews": [
         {
+          "title": "'국민 엄마' 김미경, 막내딸 생겼다...김태희x장나라 보고 있니?",
+          "link": "https://www.starnewskorea.com/star/2026/08/24/2026082418570533043",
+          "press": "",
+          "date": "2026-08-24"
+        },
+        {
+          "title": "평범한 듯 평범하지 않은 네 모녀… 복수를 위해 경주로 가다",
+          "link": "https://www.fnnews.com/news/202608241849110143",
+          "press": "",
+          "date": "2026-08-24"
+        },
+        {
           "title": "'스파이더맨' 제쳤다…천만 배우 조합→파격 소재로 개봉 전부터 예매율...",
           "link": "https://www.tvreport.co.kr/movie/article/1070820/",
           "press": "",
@@ -128,20 +140,8 @@
           "date": "2026-08-24"
         },
         {
-          "title": "이정은·박소담·이연, '죽이는' 소통ing..'경주기행' 2주차 무대인사 출...",
-          "link": "http://www.osen.co.kr/article/G1112862961",
-          "press": "",
-          "date": "2026-08-24"
-        },
-        {
           "title": "'경주기행', 개봉 D-2…개봉주 특전은 시그니처 아트카드→스페셜 티켓",
           "link": "https://www.topstarnews.net/news/articleView.html?idxno=16172076",
-          "press": "",
-          "date": "2026-08-24"
-        },
-        {
-          "title": "공효진, 양평 세컨하우스 공개…이연 초대해 하룻밤",
-          "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=546991",
           "press": "",
           "date": "2026-08-24"
         }
@@ -149,72 +149,72 @@
       "rank": 2
     },
     {
-      "keyword": "피싱",
-      "traffic": "1000+",
-      "blogTotal": 492296,
-      "newsTotal": 471978,
-      "recentToday": 100,
+      "keyword": "대한축구협회",
+      "traffic": "200+",
+      "blogTotal": 37812,
+      "newsTotal": 397246,
+      "recentToday": 45,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "스마트피싱보호 월 1650원 부가서비스 해지 환불 신청 방법",
-          "link": "https://blog.naver.com/arteplace23/224379264275",
-          "blogger": "라이프 플러스",
-          "date": "2026-08-15"
+          "title": "대한축구협회 조직도와 회장·임원 명단 한눈에 정리",
+          "link": "https://blog.naver.com/psjnv2588/224329523934",
+          "blogger": "쭈니",
+          "date": "2026-06-28"
         },
         {
-          "title": "동해 피문어 선상낚시 후기. 강원도 고성 아야진항 [드래곤피싱호]",
-          "link": "https://blog.naver.com/qhgus109/224337279740",
-          "blogger": "뽀의 체험 삶의 현장",
-          "date": "2026-07-05"
+          "title": "대한축구협회 심판 접대 논란, 공소시효 끝났다…박지성도 충격받....",
+          "link": "https://blog.naver.com/ironicman8/224383371688",
+          "blogger": "솔직한 엔터노트",
+          "date": "2026-08-19"
         },
         {
-          "title": "2026 보이스피싱·스미싱 예방법｜문자 링크 눌렀을 때 대처·1394 신....",
-          "link": "https://blog.naver.com/xnara/224380090603",
-          "blogger": "알기 쉬운 휴대폰 설명서",
-          "date": "2026-08-16"
+          "title": "대한축구협회 성접대, 10년 전에도 사과문 냈던 거 기억하세요?",
+          "link": "https://blog.naver.com/flytorocket/224370291379",
+          "blogger": "점포가이드 | 프랜차이즈 창업·양도양수",
+          "date": "2026-08-06"
         },
         {
-          "title": "보이스피싱 신고 피해에 대응하려면 순서가 중요합니다",
-          "link": "https://blog.naver.com/luckyboy4616/224316548886",
-          "blogger": "삶은돈의 돈공부 기록장",
-          "date": "2026-06-15"
+          "title": "대한축구협회 외국인 심판 성접대 논란, ‘심판 마사지’ 결재가 부....",
+          "link": "https://blog.naver.com/kloi25/224373099132",
+          "blogger": "퍼블버블 킴-오늘을 사는 삶, 일상을 빚어내는 이야기",
+          "date": "2026-08-10"
         },
         {
-          "title": "유플러스 장기고객 혜택_피싱·해킹 안심서비스 무료 가입 방법",
-          "link": "https://blog.naver.com/happyhappy_sso/224345231201",
-          "blogger": "HAPPY HAPPY SSO DAY :D",
-          "date": "2026-07-13"
+          "title": "대한축구협회, 무너진 신뢰와 되찾아야 할 과제 — 한국 축구의 내....",
+          "link": "https://blog.naver.com/twostar7/224373229134",
+          "blogger": "재난극복범국민협의회",
+          "date": "2026-08-09"
         }
       ],
       "topNews": [
         {
-          "title": "권일용·한문철이 알려주는 '내 일상 지키는 법'…대구 청년법률특강",
-          "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4081987",
+          "title": "김병지, 박문성에 역공 \"협회 법카로 2차 안 갔나…민사소송할 것\"",
+          "link": "https://www.nocutnews.co.kr/news/6567295?utm_source=naver&utm_medium=article&utm_campaign=20260824073237",
           "press": "",
           "date": "2026-08-24"
         },
         {
-          "title": "“불법 도박자금 돈세탁”…대포통장 모집·관리 조직원 2심도 ‘실형’",
-          "link": "http://www.jndn.com/article.php?aid=1787563152438335005",
+          "title": "한국 축구 위해 발로 뛰는 박한동 대학축구연맹 회장 \"대학축구를 한국...",
+          "link": "https://www.mydaily.co.kr/page/view/2026082418261101587",
           "press": "",
           "date": "2026-08-24"
         },
         {
-          "title": "구글 광고 하이퍼리퀴드 피싱 피해 730억원 보도",
-          "link": "https://www.tokenpost.kr/news/breaking/396545",
+          "title": "'진흙탕 싸움'으로 번지나 김병지, 유튜브 이어 SNS로도 공개 저격...\"박...",
+          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1003706",
           "press": "",
           "date": "2026-08-24"
         },
         {
-          "title": "BNK경남은행 태화동지점 청원경찰, 현금 1500만원 보이스피싱 피해 막아",
-          "link": "https://www.thepublic.kr/news/articleView.html?idxno=316020",
+          "title": "이번주 경주서 국내 최대 유소년 축구대회 열린다",
+          "link": "https://www.hankyung.com/article/2026082495841",
           "press": "",
           "date": "2026-08-24"
         },
         {
-          "title": "다크웹서 구독제 AI 해킹도구 활개… 챗GPT 안전망도 우회",
-          "link": "https://www.fnnews.com/news/202608241806343578",
+          "title": "\"박문성, 국회의원 출마하냐\"…김병지, 법정 공방 예고에 폭로까지",
+          "link": "https://www.imaeil.com/page/view/2026082417471275663",
           "press": "",
           "date": "2026-08-24"
         }
@@ -222,72 +222,72 @@
       "rank": 3
     },
     {
-      "keyword": "코스피",
-      "traffic": "5000+",
-      "blogTotal": 1044931,
-      "newsTotal": 2873170,
-      "recentToday": 100,
+      "keyword": "홍혜걸",
+      "traffic": "200+",
+      "blogTotal": 6288,
+      "newsTotal": 11337,
+      "recentToday": 45,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "\"코스피 코스닥 뜻\" 승강제 활성화 제도 무엇일까?",
-          "link": "https://blog.naver.com/92happywoo/224374376216",
-          "blogger": "꿈꾸는에릭의 경제스터디",
-          "date": "2026-08-10"
+          "title": "압도적 1위 홍혜걸, 여에스더가 도우미 아줌마에 강남 집 사준 이유(....",
+          "link": "https://blog.naver.com/treewg/224384189870",
+          "blogger": "나무처럼",
+          "date": "2026-08-20"
         },
         {
-          "title": "코스피 7천 임박! 코스피 7천 전에 염두해야 할 사항 ?",
-          "link": "https://blog.naver.com/nullsheet/224379395003",
-          "blogger": "ASH LIKE MONEY",
-          "date": "2026-08-16"
+          "title": "홍혜걸 직업 의사? 프로필 및 자녀 유무는",
+          "link": "https://blog.naver.com/everythingforyou/224383605956",
+          "blogger": "투데이 스타 이슈♡",
+          "date": "2026-08-19"
         },
         {
-          "title": "코스피 18% 폭등했는데 개미는 10조 원 팔았다…국내 증시를 떠나는 ....",
-          "link": "https://blog.naver.com/beat9090/224364684392",
-          "blogger": "경매하는직딩아빠 부자의 길",
-          "date": "2026-08-01"
+          "title": "여에스더 홍혜걸 가사도우미에게 강남 집 사줬다는데 재산이 얼마....",
+          "link": "https://blog.naver.com/yacho1225/224384756357",
+          "blogger": "오늘의 시선",
+          "date": "2026-08-20"
         },
         {
-          "title": "키움증권 영웅문 코스피 코스닥 지수 차트 설정 및 보는 법 가이드",
-          "link": "https://blog.naver.com/skshwodud/224341209514",
-          "blogger": "하늘바라기",
-          "date": "2026-07-09"
+          "title": "“제가 압도적 1등입니다” 홍혜걸, 장항준·이상순·도경완 제친 뜻....",
+          "link": "https://blog.naver.com/shqueen233/224386861377",
+          "blogger": "솔로나라 1번지",
+          "date": "2026-08-22"
         },
         {
-          "title": "코스피의 미친 변동성에서도 돈을 번 투자자들의 정체가 궁금하다",
-          "link": "https://blog.naver.com/develop-your-life/224378893604",
-          "blogger": "평안하고 행복한 인생",
-          "date": "2026-08-16"
+          "title": "여에스더, 10년 함께한 가사 도우미에게 강남 집 선물...홍혜걸 년 150....",
+          "link": "https://blog.naver.com/koolap/224384131070",
+          "blogger": "뉴스 한상",
+          "date": "2026-08-20"
         }
       ],
       "topNews": [
         {
-          "title": "코스피 3% 급락했는데 579개 종목 올랐다…삼성전자 8.7%↓",
-          "link": "https://www.kbmaeil.com/article/20260824500740",
+          "title": "홍혜걸, 여에스더 화교설 일축…3대 가족사·독립 사료 공개 [투데이픽...",
+          "link": "http://enews.imbc.com/News/RetrieveNewsInfo/515776",
           "press": "",
           "date": "2026-08-24"
         },
         {
-          "title": "코스피 6700선 무너졌다…삼성전자 8.69% 급락",
-          "link": "https://www.seoultimes.news/news/article.html?no=2000099098",
+          "title": "홍혜걸, 아내 여에스더 '화교설' 반박… \"증조부 민족교육 후원자\"",
+          "link": "https://www.hidomin.com/news/articleView.html?idxno=718278",
           "press": "",
           "date": "2026-08-24"
         },
         {
-          "title": "[증시 오늘] 코스피 3.1% 하락",
-          "link": "https://www.bigtanews.co.kr/article/view/big202608240020",
+          "title": "[뮤즈이슈]여에스더, 황당한 화교설‥알고 보니 민족교육 후원 집안",
+          "link": "https://www.heraldmuse.com/article/10850102?ref=naver",
           "press": "",
           "date": "2026-08-24"
         },
         {
-          "title": "[외환-마감] 네고·역외 매도에 또 연저점…4.10원↓",
-          "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431537",
+          "title": "홍혜걸, 여에스더 '화교설' 직접 해명 \"독립운동가·언론인 가문\"",
+          "link": "http://www.tvdaily.co.kr/read.php3?aid=17875371831798806002",
           "press": "",
           "date": "2026-08-24"
         },
         {
-          "title": "[전문가가 본 세제개편 ①] 곽상준 \"생산적금융 ISA, 정책취지‧상품설...",
-          "link": "https://www.tfmedia.co.kr/news/article.html?no=206688",
+          "title": "홍혜걸, 아내 여에스더 '화교설' 반박…\"민족교육 후원 집안\"",
+          "link": "http://www.yonhapnewstv.co.kr/news/AKR20260824113709VSP",
           "press": "",
           "date": "2026-08-24"
         }
@@ -297,16 +297,22 @@
     {
       "keyword": "특별감찰관",
       "traffic": "500+",
-      "blogTotal": 2430,
-      "newsTotal": 53193,
-      "recentToday": 30,
-      "recentWeek": 42,
+      "blogTotal": 2431,
+      "newsTotal": 53204,
+      "recentToday": 31,
+      "recentWeek": 43,
       "topBlogs": [
         {
           "title": "최길수 변호사 프로필 고향 성향 특별감찰관 후보",
           "link": "https://blog.naver.com/dydghks3250/224363945240",
           "blogger": "❤️ ✅kGn뉴스 ✅❤️",
           "date": "2026-07-31"
+        },
+        {
+          "title": "이재명 대통령 특별감찰관 최길수 변호사 학력 고향 검사 10년 만에 ....",
+          "link": "https://blog.naver.com/rentdoctor/224388672310",
+          "blogger": "벌써1년렌트",
+          "date": "2026-08-24"
         },
         {
           "title": "특별감찰관 후보 최길수 변호사는 누구? (프로필)",
@@ -325,42 +331,36 @@
           "link": "https://blog.naver.com/kim6352p/224364722280",
           "blogger": "소소한 정보통",
           "date": "2026-08-01"
-        },
-        {
-          "title": "특별감찰관 후보 추천 타결, 10년 공백 깨지고 부활하는 진짜 이유",
-          "link": "https://blog.naver.com/solee1440/224364908288",
-          "blogger": "까다로운 S",
-          "date": "2026-08-01"
         }
       ],
       "topNews": [
         {
-          "title": "정점식 \"최길수 특감 후보자 아쉽지만 철저히 검증\"",
-          "link": "https://www.ytn.co.kr/_ln/0101_202608241833305091",
+          "title": "李, \"되게 불편할 것\"이라 한 특감 후보자 지명... 김혜경 여사·강훈식...",
+          "link": "https://www.hankookilbo.com/news/article/A2026082415040001804?did=NA",
           "press": "",
           "date": "2026-08-24"
         },
         {
-          "title": "[사설] 10년만에 지명된 특별감찰관, 성역없는 활동 보장돼야",
-          "link": "https://www.khan.co.kr/article/202608241831001",
+          "title": "특별감찰관에 최길수 지명…정성호 사의 수리",
+          "link": "http://www.yonhapnewstv.co.kr/news/MYH20260824192130DI3",
           "press": "",
           "date": "2026-08-24"
         },
         {
-          "title": "국힘 \"李, 최길수 특별감찰관 후보 지명…정치적 우군 추천 감시자 선택...",
-          "link": "https://www.newsis.com/view/NISX20260824_0003760648",
+          "title": "국힘, 최길수 특감 후보자 송곳 검증 예고…\"중립성 증명해야\"",
+          "link": "https://www.news1.kr/politics/assembly/6268027",
           "press": "",
           "date": "2026-08-24"
         },
         {
-          "title": "이재명 대통령, 지지율 하락 속 특감 지명…\"40% 깨지면 진짜 위기\"",
-          "link": "https://www.sidae.com/article/2026082416005446494",
+          "title": "박근혜정부 이석수 이후 두 번째… 靑과 충돌 넘어서야",
+          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000005745&cp=nv",
           "press": "",
           "date": "2026-08-24"
         },
         {
-          "title": "정점식 \"특별감찰관 최길수 철저 검증…與 추천 인사 중립 주장 실소\"",
-          "link": "https://www.mt.co.kr/politics/2026/08/24/2026082418232625087",
+          "title": "특별감찰관제 10년 만에 부활",
+          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000005740&cp=nv",
           "press": "",
           "date": "2026-08-24"
         }
@@ -368,72 +368,72 @@
       "rank": 5
     },
     {
-      "keyword": "튜이드",
-      "traffic": "200+",
-      "blogTotal": 475,
-      "newsTotal": 1129,
+      "keyword": "천궁",
+      "traffic": "5000+",
+      "blogTotal": 45645,
+      "newsTotal": 37234,
       "recentToday": 26,
-      "recentWeek": 76,
+      "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "하이브 신인 걸그룹 튜이드 멤버, 지효 동생 서연이 보다 관심x4 이....",
-          "link": "https://blog.naver.com/nadiatear0/224382127741",
-          "blogger": "☆*:.My Sweet Haven.:*☆",
+          "title": "한국 천궁2 미사일의 치명적인 약점이 드러난 충격적인 상황",
+          "link": "https://blog.naver.com/absolutecfo/224362885891",
+          "blogger": "돋보기랩",
+          "date": "2026-07-30"
+        },
+        {
+          "title": "[방산맨 분석 LIG] 천궁-II, 중동 3개국 뚫었다…다음 수출국은 어디? L....",
+          "link": "https://blog.naver.com/economy1221/224376316875",
+          "blogger": "방산맨이 알려주는 우리나라 방산 이야기",
+          "date": "2026-08-12"
+        },
+        {
+          "title": "유용원 의원이 우크라이나 천궁2 지원 검토 주장한 진짜 이유 북한....",
+          "link": "https://blog.naver.com/red597/224382292550",
+          "blogger": "실시간 트렌드 익스프레스",
           "date": "2026-08-18"
         },
         {
-          "title": "요즘 자꾸 보이는 ‘튜이드’, 대체 어떤 그룹일까? 지효 동생부터 7....",
-          "link": "https://blog.naver.com/honhan23/224380691515",
-          "blogger": "AngelRecorder Story",
-          "date": "2026-08-17"
+          "title": "순천 중식 뷔페 천궁, 12000원 가성비 좋은 중국집 뷔페 단골 예정",
+          "link": "https://blog.naver.com/freesihwa/224368637915",
+          "blogger": "은화수목금토일",
+          "date": "2026-08-05"
         },
         {
-          "title": "하이브 신인 걸그룹 튜이드  SUN KISS’로 출격 데뷔 앨범 베일 벗었다",
-          "link": "https://blog.naver.com/chs3595/224382129270",
-          "blogger": "올리비아 아름다운 일상",
-          "date": "2026-08-18"
-        },
-        {
-          "title": "\"트와이스 지효 동생이 하이브에서 데뷔?!\" 7인조 신인 걸그룹 '튜이....",
-          "link": "https://blog.naver.com/union219/224367481055",
-          "blogger": "유나의 보물섬",
-          "date": "2026-08-04"
-        },
-        {
-          "title": "하이브 새 걸그룹 ‘튜이드(TUIDE)’, 8월 24일 정식 데뷔",
-          "link": "https://blog.naver.com/kims1717/224385279977",
-          "blogger": "한국가요사연구소",
-          "date": "2026-08-21"
+          "title": "천궁2 어떤 회사가 만들었을까? 제조사 및 생산업체",
+          "link": "https://blog.naver.com/1992wjddhr/224205942220",
+          "blogger": "소옴탕이의 잡(Job)학사전",
+          "date": "2026-03-06"
         }
       ],
       "topNews": [
         {
-          "title": "[포토] 튜이드 '신나는 무대'",
-          "link": "https://www.segye.com/newsView/20260824516602?OutUrl=naver",
+          "title": "한화시스템, 방산 R&D CMMI 최고 '레벨 5' 획득",
+          "link": "http://www.finomy.com/news/articleView.html?idxno=259810",
           "press": "",
           "date": "2026-08-24"
         },
         {
-          "title": "[HD포토] 튜이드 서연, '시선 사로잡는 RED' (TUNE & PLAY 쇼케이스)",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16172147",
+          "title": "펜스 전 부통령 “한국산 요격미사일 우크라 배치해야”",
+          "link": "https://www.sedaily.com/article/20082707?ref=naver",
           "press": "",
           "date": "2026-08-24"
         },
         {
-          "title": "하이브 신인 걸그룹 튜이드, 오늘 데뷔…\"목표는 신인상\"",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008719452&plink=ORI&cooper=NAVER",
+          "title": "[정승환의 재계프리즘] 50년 이어진 기업가 DNA, 천궁 쏘아 올렸다",
+          "link": "https://www.mk.co.kr/article/12134982",
           "press": "",
           "date": "2026-08-24"
         },
         {
-          "title": "[포토] 수록곡 GRLS 무대 선보이는 하이브 신예 튜이드",
-          "link": "https://www.newdaily.co.kr/site/data/html/2026/08/24/2026082400375.html",
+          "title": "[영상] 펜스가 콕 집은 \"한국산 요격미사일\"…우크라에 '천궁-Ⅱ' 지원?",
+          "link": "https://www.yna.co.kr/view/AKR20260824137800704?input=1195m",
           "press": "",
           "date": "2026-08-24"
         },
         {
-          "title": "[포토] 이하늬, ‘튜이드’ 지켜봐 주세요",
-          "link": "https://www.mk.co.kr/article/12135170",
+          "title": "방한 우크라 전략고문, 최신 미국산 요격미사일 패트리엇 지원 요청",
+          "link": "https://www.hani.co.kr/arti/politics/politics_general/1274360.html",
           "press": "",
           "date": "2026-08-24"
         }
@@ -441,11 +441,84 @@
       "rank": 6
     },
     {
+      "keyword": "최영중",
+      "traffic": "100+",
+      "blogTotal": 1304,
+      "newsTotal": 1930,
+      "recentToday": 20,
+      "recentWeek": 25,
+      "topBlogs": [
+        {
+          "title": "최영중 프로필 청주 시의원 나무위키 인스타",
+          "link": "https://blog.naver.com/dydghks3250/224363530983",
+          "blogger": "❤️ ✅kGn뉴스 ✅❤️",
+          "date": "2026-07-31"
+        },
+        {
+          "title": "최영중 전 시의원 성매매 파문, 추가 범행 정황과 최영중 아버지 뒷....",
+          "link": "https://blog.naver.com/unknown__log/224357803860",
+          "blogger": "세상의 모든 이야기.zip",
+          "date": "2026-07-25"
+        },
+        {
+          "title": "최영중 시의원 프로필/청주/미성년자 성매매/궁금한이야기Y",
+          "link": "https://blog.naver.com/0miyoung/224356708700",
+          "blogger": "noble story❤",
+          "date": "2026-07-24"
+        },
+        {
+          "title": "청주시의원에서 피의자로... 최영중 전 시의원 사건, 처음부터 현재....",
+          "link": "https://blog.naver.com/dktlskdy107/224361010316",
+          "blogger": "'세계이슈'와 '맛집'에 진심인 붕로그",
+          "date": "2026-07-28"
+        },
+        {
+          "title": "최영중 최영준 의원 청주시의원 국회의원 나무위키 프로필",
+          "link": "https://blog.naver.com/yazeyazasu/224349278500",
+          "blogger": "화장품, 그리고 사람 이야기",
+          "date": "2026-07-17"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "‘아동 성범죄’ 최영중 전 시의원, 10대 피해자 2명 추가 확인",
+          "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8644537&ref=A",
+          "press": "",
+          "date": "2026-08-24"
+        },
+        {
+          "title": "‘아동 성범죄’ 최영중 전 시의원, 10대 피해자 2명 추가 확인",
+          "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8644517&ref=A",
+          "press": "",
+          "date": "2026-08-24"
+        },
+        {
+          "title": "‘아동 성매매 혐의’ 최영중 피해자 2명 추가 발견",
+          "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000546706",
+          "press": "",
+          "date": "2026-08-24"
+        },
+        {
+          "title": "'미성년자 성매매' 최영중 피해자 2명 추가 확인…통신내역 수사서 드러...",
+          "link": "https://www.nocutnews.co.kr/news/6567277?utm_source=naver&utm_medium=article&utm_campaign=20260824070737",
+          "press": "",
+          "date": "2026-08-24"
+        },
+        {
+          "title": "'아동 성매매 혐의' 최영중 피해자 2명 추가 발견…총 4명",
+          "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1095462",
+          "press": "",
+          "date": "2026-08-24"
+        }
+      ],
+      "rank": 7
+    },
+    {
       "keyword": "페이블",
       "traffic": "200+",
-      "blogTotal": 5314,
-      "newsTotal": 6667,
-      "recentToday": 9,
+      "blogTotal": 5312,
+      "newsTotal": 6669,
+      "recentToday": 7,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -461,16 +534,16 @@
           "date": "2026-07-02"
         },
         {
-          "title": "이 게임을 아시나요? - 페이블 3",
-          "link": "https://blog.naver.com/eeuu1133/224317408711",
-          "blogger": "게임이 밥이라면 취미는 반찬이라구욧!",
-          "date": "2026-06-16"
-        },
-        {
           "title": "클로드 세 모델 완전 정복 — 미소스5·페이블5·Opus 4.8 차이점 한 번....",
           "link": "https://blog.naver.com/yeontan9/224359830895",
           "blogger": "불꽃남자님의 블로그",
           "date": "2026-07-28"
+        },
+        {
+          "title": "이 게임을 아시나요? - 페이블 3",
+          "link": "https://blog.naver.com/eeuu1133/224317408711",
+          "blogger": "게임이 밥이라면 취미는 반찬이라구욧!",
+          "date": "2026-06-16"
         },
         {
           "title": "클로드 페이블 5(Claude Fable 5) 완벽 정리 - 기능·요금·사용법 2026",
@@ -480,6 +553,18 @@
         }
       ],
       "topNews": [
+        {
+          "title": "낙태 종용 vs 스토킹…자택 소란→경찰 연행, 홍민기-전여친 '진흙탕 싸...",
+          "link": "https://www.tvreport.co.kr/breaking/article/1070831/",
+          "press": "",
+          "date": "2026-08-24"
+        },
+        {
+          "title": "최고 대신 가성비… 눈덩이 사용료에 AI 성능경쟁 제동 걸리나",
+          "link": "https://www.dt.co.kr/article/12079937?ref=naver",
+          "press": "",
+          "date": "2026-08-24"
+        },
         {
           "title": "성능보다 가성비?…앤트로픽 ‘클로드 페이블5’ 주춤 왜",
           "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000005690&cp=nv",
@@ -497,99 +582,81 @@
           "link": "https://www.sedaily.com/article/20082706?ref=naver",
           "press": "",
           "date": "2026-08-24"
-        },
-        {
-          "title": "'앤트로픽 상장'에 SKT 지분가치 7조? 메모리·SI도 '훈풍' 기대",
-          "link": "https://www.newspim.com/news/view/20260824001138",
-          "press": "",
-          "date": "2026-08-24"
-        },
-        {
-          "title": "'페이블 5' 주춤하는 새 오픈AI 기업 시장 맹추격...\"7월부터 성장률 추...",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214280",
-          "press": "",
-          "date": "2026-08-24"
-        }
-      ],
-      "rank": 7
-    },
-    {
-      "keyword": "영종구청장",
-      "traffic": "200+",
-      "blogTotal": 478,
-      "newsTotal": 1791,
-      "recentToday": 4,
-      "recentWeek": 8,
-      "topBlogs": [
-        {
-          "title": "인천시 학교 운동장 개방 시설 정보",
-          "link": "https://elwlsek.tistory.com/2447",
-          "blogger": "어짜고 저짜고 뭐라고",
-          "date": "2022-12-07"
-        },
-        {
-          "title": "전국 야영장, 캠핑장, 오토캠핑장, 글램핑장 총정리",
-          "link": "https://topsell.tistory.com/229",
-          "blogger": "탑셀",
-          "date": "2024-05-13"
-        },
-        {
-          "title": "티맵 인천 지역 사람들이 많이 찾은 음식점은?(미식로드)",
-          "link": "https://elwlsek.tistory.com/1849",
-          "blogger": "어짜고 저짜고 뭐라고",
-          "date": "2020-10-17"
-        },
-        {
-          "title": "인천광역시 제조업 도매 소매 공장 등록현황 주형 윤활유 1~1654",
-          "link": "https://assunas.tistory.com/197",
-          "blogger": "국민생활의힘",
-          "date": "2024-01-08"
-        },
-        {
-          "title": "2024년 고용노동부 선정 강소기업 4001 ~ 6000",
-          "link": "https://assunas.tistory.com/269",
-          "blogger": "국민생활의힘",
-          "date": "2025-02-14"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "‘위장전입·경력 부풀리기 의혹’ 손화정 인천 영종구청장, 경찰 본격...",
-          "link": "https://www.hani.co.kr/arti/area/capital/1274376.html",
-          "press": "",
-          "date": "2026-08-24"
-        },
-        {
-          "title": "경찰, 손화정 인천 영종구청장 선거법 위반 혐의 수사",
-          "link": "https://www.newspim.com/news/view/20260824000996",
-          "press": "",
-          "date": "2026-08-24"
-        },
-        {
-          "title": "경찰, 손화정 인천 영종구청장 ‘공직선거법 위반’ 혐의 수사",
-          "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8644340&ref=A",
-          "press": "",
-          "date": "2026-08-24"
-        },
-        {
-          "title": "'위장전입 의혹' 손화정 영종구청장 수사 착수",
-          "link": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3032457",
-          "press": "",
-          "date": "2026-08-24"
-        },
-        {
-          "title": "‘공직선거법 위반’ 혐의… 경찰, 손화정 인천 영종구청장 수사",
-          "link": "https://www.chosun.com/national/incident/2026/08/24/DHONGSZLYRDRDBBLXVOT7UC4XY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-          "press": "",
-          "date": "2026-08-24"
         }
       ],
       "rank": 8
     },
     {
+      "keyword": "마르코스 로드리게스 판토하",
+      "traffic": "200+",
+      "blogTotal": 0,
+      "newsTotal": 8,
+      "recentToday": 0,
+      "recentWeek": 0,
+      "topBlogs": [
+        {
+          "title": "늑대들에게 길러진 ‘현실판 모글리’… “다시 돌아가고파”",
+          "link": "https://blog.naver.com/coffee241/221249396134",
+          "blogger": "coffee241님의 블로그",
+          "date": "2018-04-10"
+        },
+        {
+          "title": "원작에 기댄 구성과 방점 없는 압축 과정이 아쉬웠던 영화, <모글리 ....",
+          "link": "https://blog.naver.com/msnfan/221580935853",
+          "blogger": "이거 볼까, 저거 볼까? 콘텐츠 고민 해결사!!",
+          "date": "2019-07-08"
+        },
+        {
+          "title": "늑대들에게 길러진 ‘현실판 모글리’… “다시 돌아가고파”",
+          "link": "https://blog.naver.com/cjseong123/221249875624",
+          "blogger": "천국보화",
+          "date": "2018-04-10"
+        },
+        {
+          "title": "인생 커리어 플랜의 각 단계에 맞춰 자신이 생각하는 커리어 플랜",
+          "link": "https://blog.naver.com/k83jo11h/221360542914",
+          "blogger": "디엘에듀 교육블로그 :)",
+          "date": "2018-09-17"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "12년간 늑대와 살았던 스페인 ‘늑대소년’ 80세로 별세",
+          "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000546698",
+          "press": "",
+          "date": "2026-08-24"
+        },
+        {
+          "title": "12년간 늑대와 살았던 스페인 '늑대 소년', 80세로 세상 떠나",
+          "link": "http://www.yonhapnewstv.co.kr/news/AKR20260824140412cAO",
+          "press": "",
+          "date": "2026-08-24"
+        },
+        {
+          "title": "산에서 12년 살았던 스페인 '늑대소년' 별세…향년 80세",
+          "link": "https://www.newsis.com/view/NISX20260824_0003759278",
+          "press": "",
+          "date": "2026-08-24"
+        },
+        {
+          "title": "스페인 '늑대 소년' 마르코스, 80세로 별세 [KDF World]",
+          "link": "http://www.kdfnews.com/news/articleView.html?idxno=186928",
+          "press": "",
+          "date": "2026-08-23"
+        },
+        {
+          "title": "12년간 늑대와 함께 산 '늑대소년' 판토하…향년 80세로 별세",
+          "link": "https://www.hankyung.com/article/2026082372997",
+          "press": "",
+          "date": "2026-08-23"
+        }
+      ],
+      "rank": 9
+    },
+    {
       "keyword": "이범수",
-      "traffic": "500+",
-      "blogTotal": 24020,
+      "traffic": "1000+",
+      "blogTotal": 24021,
       "newsTotal": 104967,
       "recentToday": 0,
       "recentWeek": 18,
@@ -655,79 +722,6 @@
           "link": "https://news.tf.co.kr/read/national/2356584.htm",
           "press": "",
           "date": "2026-08-21"
-        }
-      ],
-      "rank": 9
-    },
-    {
-      "keyword": "l g 에너지 솔루션",
-      "traffic": "500+",
-      "blogTotal": 3,
-      "newsTotal": 125,
-      "recentToday": 0,
-      "recentWeek": 0,
-      "topBlogs": [
-        {
-          "title": "경기지역화폐 사용처 전체 리스트 (용인시)",
-          "link": "https://9111.tistory.com/153",
-          "blogger": "러브래빗",
-          "date": "2020-05-03"
-        },
-        {
-          "title": "파주시 지역화폐 가맹점 알아보기",
-          "link": "https://kt99.tistory.com/357",
-          "blogger": "그냥사는거지",
-          "date": "2020-04-25"
-        },
-        {
-          "title": "남양주 지역화폐 가맹점 알아보기",
-          "link": "https://kt99.tistory.com/385",
-          "blogger": "그냥사는거지",
-          "date": "2020-04-26"
-        },
-        {
-          "title": "7월 가볼만한 전국행사-축제",
-          "link": "https://dukyong15.tistory.com/3109",
-          "blogger": "DY-매거진",
-          "date": "2020-07-02"
-        },
-        {
-          "title": "평택시 지역화폐 가맹점 알아보기",
-          "link": "https://kt99.tistory.com/355",
-          "blogger": "그냥사는거지",
-          "date": "2020-04-25"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "LG엔솔·혼다 35억 달러 배터리 합작공장, 美 페이엣 카운티 허가 심사 ...",
-          "link": "https://www.g-enews.com/view.php?ud=2026080508123922480c8c1c064d_1",
-          "press": "",
-          "date": "2026-08-04"
-        },
-        {
-          "title": "엔비디아·테슬라 너머를 보라…휴머노이드 종착역은 '피지컬과 심장' ...",
-          "link": "https://magazine.hankyung.com/business/article/202607304292b",
-          "press": "",
-          "date": "2026-08-04"
-        },
-        {
-          "title": "L﻿G에너지솔루션-중소벤처기업진흥공단, 유망 중소벤처기업 발굴 나선...",
-          "link": "https://www.ccreview.co.kr/news/articleView.html?idxno=348300",
-          "press": "",
-          "date": "2026-05-13"
-        },
-        {
-          "title": "Fox ESS, 그린에너지엑스포서 한국형 통합 에너지 솔루션 공개",
-          "link": "https://www.joongang.co.kr/article/25422247",
-          "press": "",
-          "date": "2026-04-22"
-        },
-        {
-          "title": "금융당국 왜 이러나... 하이닉스·현대차가 2028년에 겪게될 일 [ESG 세상...",
-          "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003224743&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
-          "press": "",
-          "date": "2026-04-19"
         }
       ],
       "rank": 10
