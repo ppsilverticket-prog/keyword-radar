@@ -1,86 +1,13 @@
 {
-  "updatedAt": "2026-08-25T17:59:00.190Z",
+  "updatedAt": "2026-08-25T18:49:20.323Z",
   "source": "live",
   "keywords": [
     {
-      "keyword": "이재명 지지율",
-      "traffic": "2000+",
-      "blogTotal": 17911,
-      "newsTotal": 230793,
-      "recentToday": 88,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "[속보] 이재명 지지율 44% 취임 후 최저, 부정 46% 첫 역전…부동산·보....",
-          "link": "https://blog.naver.com/solee1440/224379798757",
-          "blogger": "까다로운 S",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "이재명 지지율 폭락에 중임제 꺼내든 이유 총정리",
-          "link": "https://blog.naver.com/keheehee2/224379345492",
-          "blogger": "세상을 읽는 눈",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "이재명 대통령 지지율 43.0% 취임 후 최저｜부정평가 54.1%, 민주당은 4....",
-          "link": "https://blog.naver.com/hyorim7607/224381203680",
-          "blogger": "zzingccong",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "이재명 대통령 지지율 데드크로스와 개헌 카드, 동시에 터진 두 파....",
-          "link": "https://blog.naver.com/yanuseksk/224379995219",
-          "blogger": "블스페이퍼",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "'이재명 지지율 43.3%로 하락' 취임 후 최저, 이유와 이후 전망은?",
-          "link": "https://blog.naver.com/pso164/224377238449",
-          "blogger": "과학커뮤니케이터 박종현",
-          "date": "2026-08-13"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "‘이준석표 여론조사’ 고군분투에도 개혁신당 존재감·지지율 제고 실...",
-          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000006202&cp=nv",
-          "press": "",
-          "date": "2026-08-25"
-        },
-        {
-          "title": "별로 영향력 없다고 무시할 때는 언제고 하루종일 멘트 하나하나 쪼개 ...",
-          "link": "https://www.segye.com/newsView/20260826500300?OutUrl=naver",
-          "press": "",
-          "date": "2026-08-25"
-        },
-        {
-          "title": "[이정호 칼럼] 2018년 데자뷔 '트럼프 쇼 외교'",
-          "link": "https://www.hankyung.com/article/2026082521691",
-          "press": "",
-          "date": "2026-08-25"
-        },
-        {
-          "title": "LH, 비아파트 ‘닥공’… 설계 도면 없어도 매입임대 받아줘",
-          "link": "https://www.chosun.com/economy/real_estate/2026/08/26/4CH5RYF7XNDVVIPBIZ3PAZJHUQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-          "press": "",
-          "date": "2026-08-25"
-        },
-        {
-          "title": "與지도부 만난 李 “다른 점 찾기 시작하면 원수의 길”",
-          "link": "https://www.chosun.com/politics/blue_house/2026/08/26/GQLYAXSAUZG77OMBS7H6LYNQXY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-          "press": "",
-          "date": "2026-08-25"
-        }
-      ],
-      "rank": 1
-    },
-    {
       "keyword": "수능접수",
       "traffic": "200+",
-      "blogTotal": 34722,
+      "blogTotal": 34726,
       "newsTotal": 121961,
-      "recentToday": 84,
+      "recentToday": 83,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -134,26 +61,26 @@
           "date": "2026-08-25"
         },
         {
-          "title": "'N수생 최다' 사탐런·지역의사제 변수까지… 수능최저 눈높이 낮춰 수...",
-          "link": "https://www.fnnews.com/news/202608251851311691",
-          "press": "",
-          "date": "2026-08-25"
-        },
-        {
           "title": "충남대, 거점국립대 취업률 1위... 2027학년도 수시전형은?",
           "link": "https://www.goodmorningcc.com/news/articleView.html?idxno=451202",
           "press": "",
           "date": "2026-08-25"
+        },
+        {
+          "title": "'N수생 최다' 사탐런·지역의사제 변수까지… 수능최저 눈높이 낮춰 수...",
+          "link": "https://www.fnnews.com/news/202608251851311691",
+          "press": "",
+          "date": "2026-08-25"
         }
       ],
-      "rank": 2
+      "rank": 1
     },
     {
       "keyword": "장원영",
-      "traffic": "1000+",
-      "blogTotal": 108763,
+      "traffic": "2000+",
+      "blogTotal": 108767,
       "newsTotal": 98522,
-      "recentToday": 82,
+      "recentToday": 78,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -219,14 +146,14 @@
           "date": "2026-08-25"
         }
       ],
-      "rank": 3
+      "rank": 2
     },
     {
       "keyword": "유재석",
       "traffic": "1000+",
-      "blogTotal": 194010,
-      "newsTotal": 644932,
-      "recentToday": 78,
+      "blogTotal": 194015,
+      "newsTotal": 644933,
+      "recentToday": 77,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -262,6 +189,12 @@
       ],
       "topNews": [
         {
+          "title": "[스브스夜] '틈만나면' 어린이 징크스 깨고 '미션 올 클리어'···차태현...",
+          "link": "https://ent.sbs.co.kr/news/article.do?article_id=E10010321140&plink=ORI&cooper=NAVER",
+          "press": "",
+          "date": "2026-08-25"
+        },
+        {
           "title": "차태현, 유연석 연기 극찬하더니 \"김부장 때문에 올해 나가리\" 찬물",
           "link": "https://www.mt.co.kr/entertainment/2026/08/26/2026082602285553663",
           "press": "",
@@ -284,93 +217,14 @@
           "link": "https://ent.sbs.co.kr/news/article.do?article_id=E10010321139&plink=ORI&cooper=NAVER",
           "press": "",
           "date": "2026-08-25"
-        },
-        {
-          "title": "차태현, 진기주 합류 후 섭외 증가 언급…넷플릭스 '참교육' 흥행 배경",
-          "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=609634",
-          "press": "",
-          "date": "2026-08-25"
         }
       ],
-      "rank": 4
-    },
-    {
-      "keyword": "재벌x형사 2",
-      "traffic": "2000+",
-      "blogTotal": 2956,
-      "newsTotal": 6738,
-      "recentToday": 61,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "재벌x형사2 5회 : 화이트데이 호텔 직원 살인사건_드라마 추천",
-          "link": "https://blog.naver.com/zephyros0/224386672521",
-          "blogger": "꿀잼보장 리뷰, 삵쾡이언니의 감상실",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "재벌X형사2 5회 정은채, 유승호 '귀국 전시회' 찾은 진짜 목적",
-          "link": "https://blog.naver.com/newsmeter/224384732889",
-          "blogger": "뉴스미터",
-          "date": "2026-08-20"
-        },
-        {
-          "title": "재벌X형사2 5회 예고｜709호 호텔 살인사건 범인은? 유승호 등장 주목",
-          "link": "https://blog.naver.com/happydr29/224382380164",
-          "blogger": "바나나",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "SBS 금토드라마 재벌X형사2 인물관계도 등장인물 총정리",
-          "link": "https://blog.naver.com/shushu9988/224371407014",
-          "blogger": "재린슈슈의 리뷰노트",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "재벌X형사2 유승호 역할 유성원 누구? 빌런일까 진이수 관계까지 정....",
-          "link": "https://blog.naver.com/gobyt/224385057662",
-          "blogger": "디자인 인테리어에 담다",
-          "date": "2026-08-21"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "낮엔 엄마 밤엔 킬러… 형사가 된 재벌… 뻔함 대신 통쾌함 더! 권선징...",
-          "link": "https://www.segye.com/newsView/20260825514481?OutUrl=naver",
-          "press": "",
-          "date": "2026-08-25"
-        },
-        {
-          "title": "SBS 판 뒤집었다…시청률 9.4% 자체 '최고'→거침없는 상승세로 시청자...",
-          "link": "https://www.tvreport.co.kr/breaking/article/1071115/",
-          "press": "",
-          "date": "2026-08-25"
-        },
-        {
-          "title": "시청률 상승세 제대로 탔다…공효진 쫓는 안보현, 시즌제 이끈 열연 ('재...",
-          "link": "https://www.tenasia.co.kr/article/2026082510254",
-          "press": "",
-          "date": "2026-08-25"
-        },
-        {
-          "title": "안보현, 트라우마 앞 흔들리는 꺼드럭 (재벌X형사2)",
-          "link": "https://sports.khan.co.kr/article/202608251720003?pt=nv",
-          "press": "",
-          "date": "2026-08-25"
-        },
-        {
-          "title": "안보현의 진이수는 다르다…‘재벌X형사2’서 허세부터 내면의 상처까지",
-          "link": "https://www.sportsworldi.com/newsView/20260825515354",
-          "press": "",
-          "date": "2026-08-25"
-        }
-      ],
-      "rank": 5
+      "rank": 3
     },
     {
       "keyword": "에어부산",
       "traffic": "100+",
-      "blogTotal": 87260,
+      "blogTotal": 87261,
       "newsTotal": 124892,
       "recentToday": 58,
       "recentWeek": 100,
@@ -438,12 +292,12 @@
           "date": "2026-08-25"
         }
       ],
-      "rank": 6
+      "rank": 4
     },
     {
       "keyword": "하석진",
       "traffic": "2000+",
-      "blogTotal": 14369,
+      "blogTotal": 14370,
       "newsTotal": 75011,
       "recentToday": 55,
       "recentWeek": 100,
@@ -511,15 +365,88 @@
           "date": "2026-08-25"
         }
       ],
-      "rank": 7
+      "rank": 5
+    },
+    {
+      "keyword": "리그컵",
+      "traffic": "200+",
+      "blogTotal": 8582,
+      "newsTotal": 64944,
+      "recentToday": 21,
+      "recentWeek": 36,
+      "topBlogs": [
+        {
+          "title": "손흥민경기일정 해외 프로 축구 리그컵에서의 활약은?",
+          "link": "https://blog.naver.com/nicefama/224370860180",
+          "blogger": "버디가 이글이글",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "LAFC 리그컵 일정 언제? 손흥민 우승 도전 마지막 상대까지 정리",
+          "link": "https://blog.naver.com/greenworldcup/224377305604",
+          "blogger": "오늘 건강 이슈 한눈에",
+          "date": "2026-08-13"
+        },
+        {
+          "title": "손흥민 리그컵 8강 베스트11 선정 코너킥 골로 팀 승리 이끌어",
+          "link": "https://blog.naver.com/to_jinwoo/223701540319",
+          "blogger": "빌딩의 정석",
+          "date": "2024-12-22"
+        },
+        {
+          "title": "축구팬도 몰랐던 '리그컵'의 정체, 8월 5일과 10월 24일에 답이 있습니....",
+          "link": "https://blog.naver.com/geulnyang/224369333939",
+          "blogger": "글냥이",
+          "date": "2026-08-05"
+        },
+        {
+          "title": "리그컵 검색량 폭발했는데, 오늘 서울월드컵경기장 경기는 리그컵....",
+          "link": "https://blog.naver.com/mkim90023/224369967486",
+          "blogger": "구르미",
+          "date": "2026-08-06"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "토트넘 깜짝 영입→'2시즌 EPL 단 2골' 윙어에게 이적료 1400억원 투입",
+          "link": "https://isplus.com/article/view/isp202608250228",
+          "press": "",
+          "date": "2026-08-25"
+        },
+        {
+          "title": "'24경기 1골'→이적료 '무려 1315억', 기어이 토트넘 합류 오피셜 \"1년 넘...",
+          "link": "https://www.starnewskorea.com/sports/2026/08/25/2026082519524490480",
+          "press": "",
+          "date": "2026-08-25"
+        },
+        {
+          "title": "[공식발표]\"데 제르비 감독 믿고 결정했다\" 토트넘, 맨체스터 시티 브라...",
+          "link": "https://www.sportschosun.com/football/2026-08-25/202608250100149270009513",
+          "press": "",
+          "date": "2026-08-25"
+        },
+        {
+          "title": "지로나 유망주 김민수, 스코틀랜드 명문 레인저스행 '초읽기'",
+          "link": "https://www.newsis.com/view/NISX20260825_0003762036",
+          "press": "",
+          "date": "2026-08-25"
+        },
+        {
+          "title": "‘살라 이어 파비뉴도’ 트라브존스포르의 여름이 심상찮다···‘3강’...",
+          "link": "https://sports.khan.co.kr/article/202608251031003?pt=nv",
+          "press": "",
+          "date": "2026-08-25"
+        }
+      ],
+      "rank": 6
     },
     {
       "keyword": "불량연애2 2기",
       "traffic": "100+",
-      "blogTotal": 94,
+      "blogTotal": 95,
       "newsTotal": 19,
       "recentToday": 21,
-      "recentWeek": 88,
+      "recentWeek": 89,
       "topBlogs": [
         {
           "title": "불량 연애 2 카즈군 성형 전 과거 파묘",
@@ -584,12 +511,12 @@
           "date": "2023-10-13"
         }
       ],
-      "rank": 8
+      "rank": 7
     },
     {
       "keyword": "대한상공회의소",
       "traffic": "100+",
-      "blogTotal": 43645,
+      "blogTotal": 43646,
       "newsTotal": 531319,
       "recentToday": 18,
       "recentWeek": 91,
@@ -657,7 +584,7 @@
           "date": "2026-08-25"
         }
       ],
-      "rank": 9
+      "rank": 8
     },
     {
       "keyword": "누리호",
@@ -728,6 +655,79 @@
           "link": "https://www.edaily.co.kr/News/Read?newsId=05047926645550928&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
           "press": "",
           "date": "2026-08-25"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "keyword": "휴 민트",
+      "traffic": "2000+",
+      "blogTotal": 1239,
+      "newsTotal": 174,
+      "recentToday": 0,
+      "recentWeek": 5,
+      "topBlogs": [
+        {
+          "title": "파주시 지역화폐 가맹점 알아보기",
+          "link": "https://kt99.tistory.com/357",
+          "blogger": "그냥사는거지",
+          "date": "2020-04-25"
+        },
+        {
+          "title": "경기지역화폐 사용처 전체 리스트 (용인시)",
+          "link": "https://9111.tistory.com/153",
+          "blogger": "러브래빗",
+          "date": "2020-05-03"
+        },
+        {
+          "title": "고양시 덕양구 지역화폐 가맹점 알아보기",
+          "link": "https://kt99.tistory.com/378",
+          "blogger": "그냥사는거지",
+          "date": "2020-04-26"
+        },
+        {
+          "title": "포천 캠핑장, 야영장, 글램핑장, 오토캠핑장 업체, 주소 총정리",
+          "link": "https://koreavisit.tistory.com/1421",
+          "blogger": "한국관광 공식블로그",
+          "date": "2023-09-09"
+        },
+        {
+          "title": "유통전문판매업체 목록 : 16001-17000",
+          "link": "https://richcat.tistory.com/13336",
+          "blogger": "리치캣의 현재 그리고 미래",
+          "date": "2022-10-19"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "총천연색으로 빛나는 각양각색의 전시",
+          "link": "https://www.vogue.co.kr/2026/05/22/%ec%b4%9d%ec%b2%9c%ec%97%b0%ec%83%89%ec%9c%bc%eb%a1%9c-%eb%b9%9b%eb%82%98%eb%8a%94-%ea%b0%81%ec%96%91%ea%b0%81%ec%83%89%ec%9d%98-%ec%a0%84%ec%8b%9c/?utm_source=naver&utm_medium=partnership",
+          "press": "",
+          "date": "2026-05-22"
+        },
+        {
+          "title": "오존, 단독공연 ‘휴’서 미공개 신곡 최초 공개…관객과 호흡한 파격 ...",
+          "link": "https://www.sportsworldi.com/newsView/20260518510103",
+          "press": "",
+          "date": "2026-05-18"
+        },
+        {
+          "title": "오존, 단독 공연 ‘휴 : ( )’ 성황",
+          "link": "https://sports.khan.co.kr/article/202605181036003?pt=nv",
+          "press": "",
+          "date": "2026-05-18"
+        },
+        {
+          "title": "오존, 단독 공연 '휴 : ( )'에서 미공개 정규 앨범 신곡 선보였다",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16063463",
+          "press": "",
+          "date": "2026-05-17"
+        },
+        {
+          "title": "[생활경제 이슈] 브리타, 필터 하나로 과불화화합물 제거…美 NSF 기준 ...",
+          "link": "http://www.lawissue.co.kr/view.php?ud=202510171226135779204ead0791_12",
+          "press": "",
+          "date": "2025-10-17"
         }
       ],
       "rank": 10
