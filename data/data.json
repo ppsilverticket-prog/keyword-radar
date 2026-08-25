@@ -1,21 +1,161 @@
 {
-  "updatedAt": "2026-08-25T05:28:58.669Z",
+  "updatedAt": "2026-08-25T06:00:04.405Z",
   "source": "live",
   "keywords": [
     {
-      "keyword": "보조금",
-      "traffic": "200+",
-      "blogTotal": 383703,
-      "newsTotal": 1389975,
+      "keyword": "화환",
+      "traffic": "500+",
+      "blogTotal": 904014,
+      "newsTotal": 120111,
       "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "전기차보조금 100% 받는 차종은? 2026년 추천 전기차 5종",
-          "link": "https://blog.naver.com/fortune537/224374281796",
-          "blogger": "내가 보는 세상",
-          "date": "2026-08-10"
+          "title": "성공적인 축하화환 주문 위해 꼭 따져봐야 할 3가지 체크리스트",
+          "link": "https://blog.naver.com/mdflower4342/224335910837",
+          "blogger": "MD Flower",
+          "date": "2026-07-04"
         },
+        {
+          "title": "[데일리위듀 강아지 화환리본+파티모자] 특별한 날을 위한 강아지 ....",
+          "link": "https://blog.naver.com/dkqkxk0707/224325928179",
+          "blogger": "BBIBI ૮₍ •̀ ⩊ •́ ₎ა",
+          "date": "2026-06-24"
+        },
+        {
+          "title": "‘개미들 피눈물’ 삼전닉스 레버리지 폐지” 국회 앞 근조화환...",
+          "link": "https://blog.naver.com/cricket4/224362745875",
+          "blogger": "행복한 전진",
+          "date": "2026-07-30"
+        },
+        {
+          "title": "이진숙 국민의힘 의원의 배재고 응원화환, 왜 이 장면이 더 크게 번....",
+          "link": "https://blog.naver.com/kkombee/224337648736",
+          "blogger": "초록미도리",
+          "date": "2026-07-06"
+        },
+        {
+          "title": "‘축 발전’ 뜻, 개업화환 문구로 써도 될까? 축 개업·축 성업 차이",
+          "link": "https://blog.naver.com/en_story/224373802763",
+          "blogger": "플라워브릿지 | 꽃·선물·기념일 라이프 콘텐츠",
+          "date": "2026-08-10"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "\"화환 1000원에 팔아라\"…유족 울린 장례 관행에 칼 빼든 공정위",
+          "link": "https://www.newsis.com/view/NISX20260825_0003761837",
+          "press": "",
+          "date": "2026-08-25"
+        },
+        {
+          "title": "조문 화환, 이제는 유족 동의 있어야 처분된다",
+          "link": "https://www.imaeil.com/page/view/2026082514523851682",
+          "press": "",
+          "date": "2026-08-25"
+        },
+        {
+          "title": "장례식장에 과일·주류 등 반입 가능…화환은 유족 뜻대로 처리",
+          "link": "http://www.seouleconews.com/news/articleView.html?idxno=93290",
+          "press": "",
+          "date": "2026-08-25"
+        },
+        {
+          "title": "장례식장 표준약관 개정…화환 처분·음식물 반입 기준 명확화",
+          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4102570",
+          "press": "",
+          "date": "2026-08-25"
+        },
+        {
+          "title": "\"화환 멋대로 처분하고, 외부 음식 금지시키고\"... 공정위, 장례식장 관...",
+          "link": "https://www.insight.co.kr/news/569965",
+          "press": "",
+          "date": "2026-08-25"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "keyword": "꽃게",
+      "traffic": "200+",
+      "blogTotal": 451812,
+      "newsTotal": 103531,
+      "recentToday": 100,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "2026 서천 홍원항 자연산 전어 꽃게 축제 일정 가볼만한곳 총정리",
+          "link": "https://blog.naver.com/lamb811/224377083081",
+          "blogger": "근방갈걸의 2시간이내 수도권여행",
+          "date": "2026-08-13"
+        },
+        {
+          "title": "오이도 거북섬 맛집 ‘연평도 꽃게 품은 닭볶음탕 드럼통 솥뚜껑 오....",
+          "link": "https://blog.naver.com/yellow12k/224377527492",
+          "blogger": "노랑이의 즐거운 하루",
+          "date": "2026-08-13"
+        },
+        {
+          "title": "꽃게 해루질, 꽃게금어기, 꽃게금어기해제, 꽃게금어기 해제 전 꼭 ....",
+          "link": "https://blog.naver.com/cwpac/224383387387",
+          "blogger": "인하준하아빠의 낚시&캠핑",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "꽃게탕 끓이는법, 냉동 절단꽃게 로 간단 꽃게탕 레시피",
+          "link": "https://blog.naver.com/ksl47wn1/224349316967",
+          "blogger": "유하와 떠나는 맛있는 여행",
+          "date": "2026-07-22"
+        },
+        {
+          "title": "목포 장터식당 본점, 평일에도 웨이팅하는 꽃게살, 꽃게무침, 꽃게....",
+          "link": "https://blog.naver.com/clover9272/224378550040",
+          "blogger": "유랑하는 청춘로그",
+          "date": "2026-08-14"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "탐라육해, 해산물·육회 선택형 메뉴로 외식 프랜차이즈 확대",
+          "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5054582",
+          "press": "",
+          "date": "2026-08-25"
+        },
+        {
+          "title": "K-푸드 미식 대열에",
+          "link": "http://www.jeollailbo.com/news/articleView.html?idxno=809087",
+          "press": "",
+          "date": "2026-08-25"
+        },
+        {
+          "title": "부산·강릉 전부 제쳤다… 사람들이 올여름 가장 많이 검색한 해수욕장...",
+          "link": "https://www.wikitree.co.kr/articles/1154712",
+          "press": "",
+          "date": "2026-08-25"
+        },
+        {
+          "title": "홍원항 일대서' 자연산 전어ㆍ꽃게 축제'",
+          "link": "https://www.kidshankook.kr/news/articleView.html?idxno=18049",
+          "press": "",
+          "date": "2026-08-25"
+        },
+        {
+          "title": "[뉴스톡톡] 꽃게 1원 싸움, 자존심 경쟁 아니다…유통사의 숨은 셈법",
+          "link": "https://www.news1.kr/industry/distribution/6267915",
+          "press": "",
+          "date": "2026-08-24"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "keyword": "보조금",
+      "traffic": "500+",
+      "blogTotal": 383724,
+      "newsTotal": 1389999,
+      "recentToday": 100,
+      "recentWeek": 100,
+      "topBlogs": [
         {
           "title": "린클 그래비티 음식물처리기 5개월 사용후기 내돈내산 인천 보조금",
           "link": "https://blog.naver.com/alsdl3710/224341209025",
@@ -29,71 +169,71 @@
           "date": "2026-08-15"
         },
         {
-          "title": "2026 추석 민생지원금 50만 원? 대상자, 신청 방법 지역별 총정리~",
-          "link": "https://blog.naver.com/lss2632/224375386055",
-          "blogger": "싱어송마케터 경제적 자유",
-          "date": "2026-08-11"
+          "title": "\"너도 받을 수 있어?\" 2026 추석 민생지원금 1인당 급액과 지금 대상 ....",
+          "link": "https://blog.naver.com/s87boyo/224381546967",
+          "blogger": "아라",
+          "date": "2026-08-17"
         },
         {
           "title": "4차 민생지원금 전국민 지급 아닙니다, 진짜 지원되는 지역만 정리....",
           "link": "https://blog.naver.com/10get/224380318461",
           "blogger": "은행원부부의 재테크",
           "date": "2026-08-16"
+        },
+        {
+          "title": "2026 추석 민생지원금 50만 원? 대상자, 신청 방법 지역별 총정리~",
+          "link": "https://blog.naver.com/lss2632/224375386055",
+          "blogger": "싱어송마케터 경제적 자유",
+          "date": "2026-08-11"
         }
       ],
       "topNews": [
         {
-          "title": "전진선 양평군수, 민간위원장들과 군정 공유…소통행정 본격 강화",
-          "link": "https://www.tournews21.com/news/articleView.html?idxno=141788",
+          "title": "[위클리오늘] 박영림 강원도의원, 장애인직업재활시설협회 춘천시지부...",
+          "link": "http://www.weeklytoday.com/news/articleView.html?idxno=791539",
           "press": "",
           "date": "2026-08-25"
         },
         {
-          "title": "인천 검단구, \"청렴정책 추진 상황 점검\"…부서별 실천과제 실행력 높인...",
-          "link": "https://www.newstnt.com/news/articleView.html?idxno=715122",
+          "title": "여주시, 식품접객업소 도자식기 구입비 지원",
+          "link": "http://www.metroseoul.co.kr/article/20260825500250",
           "press": "",
           "date": "2026-08-25"
         },
         {
-          "title": "인천 계양구, \"3개 금융기관과 업무협약\"…지방보조금 계좌 선택권 넓힌...",
-          "link": "https://www.newstnt.com/news/articleView.html?idxno=715115",
+          "title": "원주시, 민선9기 첫 추경 2조1058억…미래산업·민생 방점",
+          "link": "https://www.newsis.com/view/NISX20260825_0003761848",
           "press": "",
           "date": "2026-08-25"
         },
         {
-          "title": "제10대 진주시의원 22명 겸직 신고…3명은 보수 받는 직책 신고",
-          "link": "http://www.dandinews.com/news/articleView.html?idxno=17396",
+          "title": "수원시, '2026년 경기 임산부 친환경 농산물 지원사업' 2차 신청 접수",
+          "link": "https://www.newspim.com/news/view/20260825000726",
           "press": "",
           "date": "2026-08-25"
         },
         {
-          "title": "인천유나이티드FC 등 인천·경기 시·도민 프로축구단 '감사' 받는다",
-          "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1330345",
+          "title": "목포시, 재정안정화기금 742억→46억…93.8% 감소",
+          "link": "https://www.cnbnews.com/news/articleView.html?idxno=1012752",
           "press": "",
           "date": "2026-08-25"
         }
       ],
-      "rank": 1
+      "rank": 3
     },
     {
       "keyword": "청소",
       "traffic": "2000+",
-      "blogTotal": 9307594,
-      "newsTotal": 1553707,
+      "blogTotal": 9307722,
+      "newsTotal": 1553719,
       "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "[내돈내산] 비쎌 스팀청소기 사용 후기｜바닥 얼룩 제거부터 아기 ....",
-          "link": "https://blog.naver.com/syr3925/224376268441",
-          "blogger": "손로그 ⋆*·ﾟ:⋆",
-          "date": "2026-08-12"
-        },
-        {
-          "title": "비쎌 스팀청소기 내돈내산 / 비쎌 살말? 청소 덕후가 직접 써본 리얼....",
-          "link": "https://blog.naver.com/dhdyj7/224342736280",
-          "blogger": "직접 경험하고 기록합니다",
-          "date": "2026-07-10"
+          "title": "프린터 노즐 청소, 잉크젯 프린터 줄 생길 때 순서",
+          "link": "https://blog.naver.com/dean4001/224366226534",
+          "blogger": "고양이집사 리샤's 포스트 IT",
+          "date": "2026-08-03"
         },
         {
           "title": "드리미 X50 마스터 솔직 후기 | 직배수 셀프 설치, 로봇청소기 추천",
@@ -102,57 +242,63 @@
           "date": "2026-07-22"
         },
         {
-          "title": "바닥 찌든 때와 걸레 냄새까지? 다이소 로봇청소기 세제로 해결!",
-          "link": "https://blog.naver.com/namok76/224363984418",
-          "blogger": "센스있는 살림팁 구매톡",
-          "date": "2026-07-31"
+          "title": "화장실 변기 청소 누런 물때 자국 제거 구연산 사용법",
+          "link": "https://blog.naver.com/irene741/224329636690",
+          "blogger": "온기 담은 살림",
+          "date": "2026-06-28"
         },
         {
-          "title": "욕실 화장실 락스청소, 이 행동 큰일나요",
-          "link": "https://blog.naver.com/gustnr9390/224361306117",
-          "blogger": "다유홈",
-          "date": "2026-07-29"
+          "title": "다이소 방충망 청소솔 청소방법, 반만 성공한 후기",
+          "link": "https://blog.naver.com/hatoochotoo/224325699370",
+          "blogger": "살랑투투 하우스",
+          "date": "2026-06-24"
+        },
+        {
+          "title": "로보락 청소 방법 | S8 MaxV Ultra 워터필터·세척 브러시·더스트백 관....",
+          "link": "https://blog.naver.com/haluyeoseos/224382649447",
+          "blogger": "신혼·돈·회사 | 기획자의 생존 전략",
+          "date": "2026-08-18"
         }
       ],
       "topNews": [
         {
-          "title": "[경남은 오늘] 경상남도·창원시·김해시",
-          "link": "http://www.iminju.net/news/articleView.html?idxno=168517",
+          "title": "이병래 인천 남동구청장, 20개 동 현장 행보 완료… \"남동 대전환 속도...",
+          "link": "https://www.greened.kr/news/articleView.html?idxno=348382",
           "press": "",
           "date": "2026-08-25"
         },
         {
-          "title": "제10대 진주시의원 22명 겸직 신고…3명은 보수 받는 직책 신고",
-          "link": "http://www.dandinews.com/news/articleView.html?idxno=17396",
+          "title": "중국 휴머노이드 ‘베를린 공습’…가전 넘어 로봇판 된 IFA 2026",
+          "link": "https://www.etoday.co.kr/news/view/2617932",
           "press": "",
           "date": "2026-08-25"
         },
         {
-          "title": "[시니어그룹] 말하는 대로 척척 해주는 엄마, 그런데 왜 수상하지",
-          "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003261733&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+          "title": "\"화환 1000원에 팔아라\"…유족 울린 장례 관행에 칼 빼든 공정위",
+          "link": "https://www.newsis.com/view/NISX20260825_0003761837",
           "press": "",
           "date": "2026-08-25"
         },
         {
-          "title": "홀로 살던 70대 노점상, 이웃 주민 눈길로 위기 넘겼다",
-          "link": "https://www.segye.com/newsView/20260825510618?OutUrl=naver",
+          "title": "조문 화환, 이제는 유족 동의 있어야 처분된다",
+          "link": "https://www.imaeil.com/page/view/2026082514523851682",
           "press": "",
           "date": "2026-08-25"
         },
         {
-          "title": "케어링, 2026 APEC 인구정책 포럼서 'K-돌봄 AI 기술' 사례 공유",
-          "link": "https://www.datanet.co.kr/news/articleView.html?idxno=213993",
+          "title": "흡입력 넘어 보안 경쟁…로봇청소기 시장 '데이터 전쟁'",
+          "link": "https://www.thepublic.kr/news/articleView.html?idxno=316117",
           "press": "",
           "date": "2026-08-25"
         }
       ],
-      "rank": 2
+      "rank": 4
     },
     {
       "keyword": "로봇",
       "traffic": "2000+",
-      "blogTotal": 1474054,
-      "newsTotal": 2373551,
+      "blogTotal": 1474081,
+      "newsTotal": 2373603,
       "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
@@ -189,178 +335,32 @@
       ],
       "topNews": [
         {
-          "title": "中 샤오펑 휴머노이드 로봇 자회사 '도고틱스', 9억달러 투자 유치",
-          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48086",
+          "title": "\"AI시대, 신앙생활·교회공동체에 큰 변화 온다\"",
+          "link": "https://www.nocutnews.co.kr/news/6567706?utm_source=naver&utm_medium=article&utm_campaign=20260825025847",
           "press": "",
           "date": "2026-08-25"
         },
         {
-          "title": "바디프랜드 생성형 AI 마사지 기술, 한국표준협회 'AI+' 인증 획득",
-          "link": "https://www.ajunews.com/view/20260825142105977",
+          "title": "코스-36케이알코리아, 피지컬 AI 구축 업무협약 체결",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48093",
           "press": "",
           "date": "2026-08-25"
         },
         {
-          "title": "[포토] 화물운송 로봇헬기인 '카고맥스'",
-          "link": "https://www.etnews.com/20260825000278",
+          "title": "울산엘리야병원, 개원 30주년 기념 온·오프라인 이벤트 진행",
+          "link": "https://www.edaily.co.kr/News/Read?newsId=03673606645550928&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
           "press": "",
           "date": "2026-08-25"
         },
         {
-          "title": "방산 띄운 한화 인적분할…18조 가치 깨울 열쇠는 '주주환원'",
-          "link": "https://www.newsmap.co.kr/news/articleView.html?idxno=2547",
+          "title": "아르코썸페스타, 9월 전국서 문화 향연",
+          "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=663096",
           "press": "",
           "date": "2026-08-25"
         },
         {
-          "title": "[대구시의회 상임위원장을 만나다] 박종필 경제환경위원장 \"청년 떠나는...",
-          "link": "https://www.idaegu.com/news/articleView.html?idxno=665220",
-          "press": "",
-          "date": "2026-08-25"
-        }
-      ],
-      "rank": 3
-    },
-    {
-      "keyword": "사회복무요원",
-      "traffic": "200+",
-      "blogTotal": 23802,
-      "newsTotal": 108138,
-      "recentToday": 85,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "[2026] 사회복무요원(공익) 제복 신청, 사이즈 표",
-          "link": "https://blog.naver.com/ldja2435/224334681332",
-          "blogger": "k-army119",
-          "date": "2026-07-11"
-        },
-        {
-          "title": "2026년 하반기 달라지는 병역제도 7가지｜입영일자·예비군·사회복....",
-          "link": "https://blog.naver.com/nestory_home/224375055300",
-          "blogger": "네스토리님의 블로그",
-          "date": "2026-08-11"
-        },
-        {
-          "title": "2026 사회복무요원 월급 총정리｜봉급·교통비·중식비 한눈에",
-          "link": "https://blog.naver.com/ktfans/224351731965",
-          "blogger": "링크플래닛",
-          "date": "2026-07-27"
-        },
-        {
-          "title": "[대구경북지방병무청] 따뜻한 헌신이 만들어낸 빛나는 순간! 2026년 ....",
-          "link": "https://blog.naver.com/mma9090/224381813279",
-          "blogger": "대한민국 병무청(청춘예찬)",
-          "date": "2026-08-18"
-        },
-        {
-          "title": "“사회복무요원은 해외여행 항공권부터 사면 안 된다고?” 국외여....",
-          "link": "https://blog.naver.com/bet1ch/224375565247",
-          "blogger": "건강한지원생활",
-          "date": "2026-08-11"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "박위, 특강 줄줄이 취소…낙상 CCTV 공개 논란 탓",
-          "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000546881",
-          "press": "",
-          "date": "2026-08-25"
-        },
-        {
-          "title": "[뮤즈이슈] “동정으로 구독자 늘릴 필요 없어” ‘전신마비’ 김혁건,...",
-          "link": "https://www.heraldmuse.com/article/10851520?ref=naver",
-          "press": "",
-          "date": "2026-08-25"
-        },
-        {
-          "title": "'CCTV 공개' 박위, 결국 댓글창 폐쇄",
-          "link": "http://www.tvdaily.co.kr/read.php3?aid=17876340771799079002",
-          "press": "",
-          "date": "2026-08-25"
-        },
-        {
-          "title": "“골절 없다는데...” 박위, ‘엑스레이 30번’ 후폭풍…과장 논란까지",
-          "link": "https://www.sportsseoul.com/news/read/1630691?ref=naver",
-          "press": "",
-          "date": "2026-08-25"
-        },
-        {
-          "title": "박위, KTX 사고 영상 공개 후폭풍… 강연 취소·구독자 100만 붕괴",
-          "link": "https://www.hidomin.com/news/articleView.html?idxno=718445",
-          "press": "",
-          "date": "2026-08-25"
-        }
-      ],
-      "rank": 4
-    },
-    {
-      "keyword": "가상화폐",
-      "traffic": "200+",
-      "blogTotal": 283082,
-      "newsTotal": 725184,
-      "recentToday": 77,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "플루언트 코인 급등 배경 가상화폐 시장 분석",
-          "link": "https://blog.naver.com/vitamin2230/224343656636",
-          "blogger": "REONE P&I",
-          "date": "2026-07-11"
-        },
-        {
-          "title": "비트코인 암호화폐 과세 3년 유예 법안 발의! 핵심 내용 및 쟁점 정....",
-          "link": "https://blog.naver.com/choi2ing/224380990608",
-          "blogger": "수도권 임장부터 청약까지",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "너무 떨어진 가상화폐 시장은 언제 회복될수 있을까?",
-          "link": "https://blog.naver.com/eiderman/224328708768",
-          "blogger": "단도비즈",
-          "date": "2026-06-29"
-        },
-        {
-          "title": "가상화폐 가입 방법 및 거래 수수료 할인 혜택 비트코인 보안 압류 ....",
-          "link": "https://blog.naver.com/youthful282/224351736383",
-          "blogger": "Mint glace",
-          "date": "2026-07-21"
-        },
-        {
-          "title": "가상화폐 비트코인 세금 과세 시기와 세율 완벽 정리",
-          "link": "https://blog.naver.com/chang_banjang/224359282695",
-          "blogger": "노하우만점휘날리며",
-          "date": "2026-07-29"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "업비트 거래소에서 금일 가장 주목 받는 가상화폐는…",
-          "link": "https://www.khgames.co.kr/news/articleView.html?idxno=307677",
-          "press": "",
-          "date": "2026-08-25"
-        },
-        {
-          "title": "비트코인 3개월 만에 8만 달러 돌파…업비트· 빗썸에서도 1.1억 웃돌아",
-          "link": "https://www.theguru.co.kr/news/article.html?no=106225",
-          "press": "",
-          "date": "2026-08-25"
-        },
-        {
-          "title": "중국에 콜센터 차려두고 “체크카드 발급”…고령층에 100억 뜯어낸 일당...",
-          "link": "https://www.nongmin.com/article/20260825500252",
-          "press": "",
-          "date": "2026-08-25"
-        },
-        {
-          "title": "미국 “경제적 왕따 작전 개시”…이란 “허풍, 유조선 제재”",
-          "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8645439&ref=A",
-          "press": "",
-          "date": "2026-08-25"
-        },
-        {
-          "title": "112 신고도 가로챘다…중국 콜센터 차려 100억대 피싱한 조직",
-          "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5214663",
+          "title": "경북도, K-푸드 산업화 선도···정책·기술 교류회 개최",
+          "link": "https://www.cnbnews.com/news/articleView.html?idxno=1012753",
           "press": "",
           "date": "2026-08-25"
         }
@@ -369,10 +369,10 @@
     },
     {
       "keyword": "박하선",
-      "traffic": "2000+",
-      "blogTotal": 28592,
-      "newsTotal": 125100,
-      "recentToday": 44,
+      "traffic": "5000+",
+      "blogTotal": 28595,
+      "newsTotal": 125101,
+      "recentToday": 47,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -408,6 +408,12 @@
       ],
       "topNews": [
         {
+          "title": "연예계 연일 저격 중인 고영욱, '복귀'에 입 열었다…\"이변이 없는 한 불...",
+          "link": "https://mhnse.com/news/articleView.html?idxno=1501158",
+          "press": "",
+          "date": "2026-08-25"
+        },
+        {
           "title": "'미성년자 성폭행' 고영욱, \"방송 복귀? 불가능…이변이 없는 한\" 심경 ...",
           "link": "https://www.topstarnews.net/news/articleView.html?idxno=16172958",
           "press": "",
@@ -430,22 +436,16 @@
           "link": "https://www.newsen.com/news_view.php?uid=202608251158002110",
           "press": "",
           "date": "2026-08-25"
-        },
-        {
-          "title": "고영욱 \"방송 복귀 불가능, 이변 없는 한 바뀌지 않는 사실\"",
-          "link": "https://www.newsis.com/view/NISX20260825_0003761648",
-          "press": "",
-          "date": "2026-08-25"
         }
       ],
       "rank": 6
     },
     {
       "keyword": "박원숙",
-      "traffic": "1000+",
-      "blogTotal": 13999,
+      "traffic": "2000+",
+      "blogTotal": 14001,
       "newsTotal": 45102,
-      "recentToday": 41,
+      "recentToday": 43,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -514,150 +514,77 @@
       "rank": 7
     },
     {
-      "keyword": "신라젠",
-      "traffic": "200+",
-      "blogTotal": 13228,
-      "newsTotal": 79527,
-      "recentToday": 28,
-      "recentWeek": 62,
-      "topBlogs": [
-        {
-          "title": "신라젠 상한가, FDA 승인의 진짜 의미는?",
-          "link": "https://blog.naver.com/songpuro/224383234484",
-          "blogger": "Care Smile | 보험·투자 전략",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "신라젠 주가 전망, 거래정지 이력이 지금 시세까지 가른다",
-          "link": "https://blog.naver.com/lsjis123/224377099359",
-          "blogger": "오히든의 1인 비즈니스",
-          "date": "2026-08-13"
-        },
-        {
-          "title": "신라젠 주가 전망, 2,285원 반등보다 먼저 봐야 할 세 가지",
-          "link": "https://blog.naver.com/orangekd7vf/224384063762",
-          "blogger": "천만다행 맘카페 블로그체험단 육아 핫딜 세일",
-          "date": "2026-08-20"
-        },
-        {
-          "title": "바이오 대장주 신라젠의 몰락과 기적 같은 생존기",
-          "link": "https://blog.naver.com/dhormfo2030/224286225774",
-          "blogger": "부자가 된다",
-          "date": "2026-05-15"
-        },
-        {
-          "title": "신라젠, 그 3상에서 무슨 일이 있었나 — '진짜 과학'도 무너질 수 있....",
-          "link": "https://blog.naver.com/gillchance/224360019964",
-          "blogger": "별내 연세편한재활의학과 - 홍진오 대표원장",
-          "date": "2026-07-28"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "신라젠 'BAL0891' 美 FDA 희귀의약품 지정",
-          "link": "https://www.etnews.com/20260825000277",
-          "press": "",
-          "date": "2026-08-25"
-        },
-        {
-          "title": "신라젠 주가, 8월 25일 장중 상한가 기록, 2,960원 29.82% 상승",
-          "link": "https://www.joongangenews.com/news/articleView.html?idxno=542571",
-          "press": "",
-          "date": "2026-08-25"
-        },
-        {
-          "title": "신라젠 항암 후보 ‘BAL0891’, 美 FDA 희귀의약품 지정",
-          "link": "https://www.sedaily.com/article/20083017?ref=naver",
-          "press": "",
-          "date": "2026-08-25"
-        },
-        {
-          "title": "신라젠 'BAL0891', FDA 희귀의약품 지정 \"AML 신약 개발 탄력\"",
-          "link": "https://www.fnnews.com/news/202608251416010860",
-          "press": "",
-          "date": "2026-08-25"
-        },
-        {
-          "title": "신라젠 2960원 상한가…FDA 희귀의약품 지정에 매수세 폭발",
-          "link": "https://www.job-post.co.kr/news/articleView.html?idxno=225006",
-          "press": "",
-          "date": "2026-08-25"
-        }
-      ],
-      "rank": 8
-    },
-    {
-      "keyword": "고려아연",
-      "traffic": "200+",
-      "blogTotal": 25700,
-      "newsTotal": 143393,
-      "recentToday": 17,
+      "keyword": "원태인",
+      "traffic": "1000+",
+      "blogTotal": 11965,
+      "newsTotal": 51545,
+      "recentToday": 30,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "고려아연 경영권 분쟁의 숨겨진 진실, 왜 고래들의 싸움은 끝나지 ....",
-          "link": "https://blog.naver.com/sylphjm/224335655806",
-          "blogger": "무한삽질도전",
-          "date": "2026-07-03"
+          "title": "원태인 MLB 600만 달러 전망, 공식 제안과 전혀 다른 결정적 이유는",
+          "link": "https://blog.naver.com/yfg7459/224376428952",
+          "blogger": "갓플베",
+          "date": "2026-08-12"
         },
         {
-          "title": "고려아연은 어떤 회사인가, 최근 주가 상승 이유와 핵심 이슈 정리",
-          "link": "https://blog.naver.com/elly002/224374926718",
-          "blogger": "일상 - 그 시절의 기록장",
-          "date": "2026-08-11"
+          "title": "원태인 MLB 600만 달러 제안? 삼성 에이스에게 진짜 벌어진 일",
+          "link": "https://blog.naver.com/estauce/224376677871",
+          "blogger": "골프여행♥인플루언서",
+          "date": "2026-08-12"
         },
         {
-          "title": "고려아연 주가전망 목표주가 영풍 관계",
-          "link": "https://blog.naver.com/43coffee/224313305742",
-          "blogger": "호평동 찐",
-          "date": "2026-06-11"
+          "title": "원태인 MLB 600만 달러설, 어느 정도 금액일까? 김광현 계약과 비교해....",
+          "link": "https://blog.naver.com/jspolog/224378117408",
+          "blogger": "동그란 스포츠",
+          "date": "2026-08-14"
         },
         {
-          "title": "고려아연주가 200만원대 황제주, 펀더멘털은 견고하지만 주식 희석 ....",
-          "link": "https://blog.naver.com/prettydaezi/224301998805",
-          "blogger": "쪼꼬바",
-          "date": "2026-05-31"
+          "title": "원태인 MLB 600만 달러 제안설의 솔직한 실체",
+          "link": "https://blog.naver.com/dudal0080/224375923059",
+          "blogger": "건강전도사 dudal",
+          "date": "2026-08-12"
         },
         {
-          "title": "세계가 탐내는 '전략광물' 기업 고려아연 주가(feat. 희토류와 방산 ....",
-          "link": "https://blog.naver.com/vipro/224320775803",
-          "blogger": "서울 자가에 사는 지델롱의 주담대 갚는 이야기",
-          "date": "2026-06-19"
+          "title": "\"둘 중 하나는 무조건 버린다\" 삼성 구자욱 원태인 충격 FA 대참사설!....",
+          "link": "https://blog.naver.com/gamdle1009/224384691065",
+          "blogger": "스포츠 알려주는 남자",
+          "date": "2026-08-20"
         }
       ],
       "topNews": [
         {
-          "title": "고려아연 온산제련소, 울산 이주배경 학생 한국어 교육에 8000만원 지원",
-          "link": "https://www.businessplus.kr/news/articleView.html?idxno=115895",
+          "title": "'MVP·신인왕 구도' 끝날때까지 아무도 모른다",
+          "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003261549&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
           "press": "",
           "date": "2026-08-25"
         },
         {
-          "title": "고려아연, 울산 이주배경 학생 한국어 교육에 8000만원 지원",
-          "link": "https://www.eroun.net/news/articleView.html?idxno=88320",
+          "title": "'307억원 노시환보다 많이 준다면야'...원태인, 삼성 떠날 이유 사라진다",
+          "link": "https://www.maniareport.com/view.php?ud=20260825065622212491b55a0d56_19",
           "press": "",
-          "date": "2026-08-25"
+          "date": "2026-08-24"
         },
         {
-          "title": "고려아연 주가, 8월 25일 장중 1,414,000원 5.21% 상승",
-          "link": "https://www.joongangenews.com/news/articleView.html?idxno=542565",
+          "title": "제구 되는 159km 강속구를 뿌린다고? 그런데 왜 KBO에 있나...곽빈, 메이...",
+          "link": "https://www.sportschosun.com/baseball/2026-08-24/202608250100142080009076",
           "press": "",
-          "date": "2026-08-25"
+          "date": "2026-08-24"
         },
         {
-          "title": "고려아연 온산제련소, 울산 이주배경학생 한국어 교육 지원..초록우산에...",
-          "link": "https://kpenews.com/View.aspx?No=4198426",
+          "title": "[Opinion] 이게 진정한 야구지 [운동/건강]",
+          "link": "https://www.artinsight.co.kr/news/view.php?no=82167",
           "press": "",
-          "date": "2026-08-25"
+          "date": "2026-08-24"
         },
         {
-          "title": "고려아연 온산제련소, 울산 이주배경 학생 한국어 학습 돕는다",
-          "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2462759",
+          "title": "홈런 치는 호랑이 김도영, 마운드 지배하는 곰 곽빈… 왕관 세 개가 보...",
+          "link": "https://www.sportsworldi.com/newsView/20260824509912",
           "press": "",
-          "date": "2026-08-25"
+          "date": "2026-08-24"
         }
       ],
-      "rank": 9
+      "rank": 8
     },
     {
       "keyword": "조상우",
@@ -726,6 +653,79 @@
         {
           "title": "[무등의 아침] 고척 참사 부른 KIA 불펜…롯데·SSG 6연전서 3위 탈환 정...",
           "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8645343&ref=A",
+          "press": "",
+          "date": "2026-08-25"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "keyword": "동학농민운동",
+      "traffic": "500+",
+      "blogTotal": 7075,
+      "newsTotal": 23456,
+      "recentToday": 3,
+      "recentWeek": 24,
+      "topBlogs": [
+        {
+          "title": "유네스코 기록유산 Ⅰ 조선을 뒤흔든 불꽃 같은 평등 선언, 동학 농....",
+          "link": "https://blog.naver.com/ejrvkf0423/224380445378",
+          "blogger": "민블라♡",
+          "date": "2026-08-20"
+        },
+        {
+          "title": "[2022개정 한국사] 동학 농민 운동 - 동학농민운동의 배경(고부농민봉....",
+          "link": "https://blog.naver.com/y7971/224344421212",
+          "blogger": "드래곤볼쌤과 즐거운 사회공부!",
+          "date": "2026-07-12"
+        },
+        {
+          "title": "공주여행 가볼만한곳 동학농민운동 유적지 공주우금치전적",
+          "link": "https://blog.naver.com/star080911/224244426989",
+          "blogger": "별들이네",
+          "date": "2026-04-09"
+        },
+        {
+          "title": "동학 농민 운동 순서",
+          "link": "https://blog.naver.com/sport_112/224304304420",
+          "blogger": "한국사 유물과 유적(지)",
+          "date": "2026-06-02"
+        },
+        {
+          "title": "동학농민운동으로 본 김구와 안중근",
+          "link": "https://blog.naver.com/mg419/224377447451",
+          "blogger": "[비타충전소]수민's orchard",
+          "date": "2026-08-13"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "\"임진왜란 수당도 주지 왜\"…전북 '동학농민혁명' 수당 연 120만원, 반응...",
+          "link": "https://www.ajunews.com/view/20260825143254019",
+          "press": "",
+          "date": "2026-08-25"
+        },
+        {
+          "title": "동학농민혁명 유족에 '수당 지급' 결정한 전북도",
+          "link": "https://www.fnnews.com/news/202608251415347733",
+          "press": "",
+          "date": "2026-08-25"
+        },
+        {
+          "title": "‘동학혁명’ 참여자 유족들 수당 받는다…연 120만원",
+          "link": "https://www.segye.com/newsView/20260825510802?OutUrl=naver",
+          "press": "",
+          "date": "2026-08-25"
+        },
+        {
+          "title": "전북, 132년전 동학농민혁명 유족에 年120만원씩 준다",
+          "link": "https://www.donga.com/news/Politics/article/all/20260825/134539094/1",
+          "press": "",
+          "date": "2026-08-25"
+        },
+        {
+          "title": "전북, 동학농민혁명 참여자 유족 723명에 연 120만원 수당 지급",
+          "link": "https://www.kyeonggi.com/article/20260825580150",
           "press": "",
           "date": "2026-08-25"
         }
