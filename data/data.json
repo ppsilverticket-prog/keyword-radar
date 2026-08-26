@@ -1,12 +1,158 @@
 {
-  "updatedAt": "2026-08-26T12:54:39.271Z",
+  "updatedAt": "2026-08-26T13:52:24.424Z",
   "source": "live",
   "keywords": [
     {
+      "keyword": "pce",
+      "traffic": "200+",
+      "blogTotal": 29866,
+      "newsTotal": 59920,
+      "recentToday": 100,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "(주)엠이티 취급품목리스트 P",
+          "link": "https://metservice.kr/83163",
+          "blogger": "엠이티 블로그 | M.E.T",
+          "date": "2024-04-30"
+        },
+        {
+          "title": "Fed's favored inflation indicator shows cooling price increases",
+          "link": "https://www.fastcompany.com/91182422/fed-inflation-indicator-price-increases-cooling-low-july",
+          "blogger": "https://www.fastcompany.com/",
+          "date": "2024-08-31"
+        },
+        {
+          "title": "[M.E.T 단종품 가이드] 답은 엠이티, 단종품! 답은 정해져있다_SANYO DENK....",
+          "link": "https://metservice.kr/20500",
+          "blogger": "엠이티 블로그 | M.E.T",
+          "date": "2018-09-19"
+        },
+        {
+          "title": "취급품목 리스트 / 메모리,반도체 취급품목",
+          "link": "https://microworkskorea.tistory.com/2163",
+          "blogger": "마이크로웍스 코리아 (주)",
+          "date": "2024-05-10"
+        },
+        {
+          "title": "매주 세상 공부 일기 25.3-4",
+          "link": "https://engineerparkbro.tistory.com/345",
+          "blogger": "일상 박형",
+          "date": "2025-04-01"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "미 달러화 강세…美 인플레이션 지표 앞두고 경계",
+          "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431972",
+          "press": "",
+          "date": "2026-08-26"
+        },
+        {
+          "title": "미국 7월 PCE 물가 3.7% 상승…예상치 소폭 상회",
+          "link": "https://www.sedaily.com/article/20083767?ref=naver",
+          "press": "",
+          "date": "2026-08-26"
+        },
+        {
+          "title": "뉴욕증시, PCE·엔비디아 실적 발표 앞두고 소폭 하락 출발",
+          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3675958",
+          "press": "",
+          "date": "2026-08-26"
+        },
+        {
+          "title": "미 7월 PCE 3.7%, 9월 인상확률 42%",
+          "link": "https://www.tokenpost.kr/news/breaking/398293",
+          "press": "",
+          "date": "2026-08-26"
+        },
+        {
+          "title": "달러-원, 뉴욕장서 1,380원 중반대 거래",
+          "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431971",
+          "press": "",
+          "date": "2026-08-26"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "keyword": "재혼 황후",
+      "traffic": "1000+",
+      "blogTotal": 4851,
+      "newsTotal": 4785,
+      "recentToday": 100,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "고종황제의 고명딸 \"복녕당 아기\"에서 비운의 황녀가 된 덕혜 옹주....",
+          "link": "https://ass4907.tistory.com/1109",
+          "blogger": "고장난 벽시계",
+          "date": "2016-09-21"
+        },
+        {
+          "title": "성경 장별정리[66권,1,189장]",
+          "link": "https://sermon-jesus.tistory.com/17961705",
+          "blogger": "(Chrome사용방문) 명설교 총48,170편(Google'고동엽'검색)",
+          "date": "2022-02-21"
+        },
+        {
+          "title": "2016-0511.지역부총재 예정자 초청(오찬)",
+          "link": "https://0204mpcho.tistory.com/640",
+          "blogger": "늘빛사랑 조흥식",
+          "date": "2023-04-19"
+        },
+        {
+          "title": "[알라딘서재][100자평] 마담 보바리",
+          "link": "https://blog.aladin.co.kr/786740217/12881585",
+          "blogger": "https://blog.aladin.co.kr/",
+          "date": "2021-08-22"
+        },
+        {
+          "title": "[알라딘서재][100자평] 안나 카레니나",
+          "link": "https://blog.aladin.co.kr/786740217/12805408",
+          "blogger": "https://blog.aladin.co.kr/",
+          "date": "2021-07-24"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "'34세' 이세영, 단발에 염색까지 하더니…기존 청순 이미지 다 벗었다",
+          "link": "https://www.tenasia.co.kr/article/2026082650364",
+          "press": "",
+          "date": "2026-08-26"
+        },
+        {
+          "title": "차주완, 대본 올린 눈웃음으로 현장 근황…'자매전쟁' 이어 활발 행보",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16174396",
+          "press": "",
+          "date": "2026-08-26"
+        },
+        {
+          "title": "이세영, 헤드폰 걸친 캐주얼 비주얼…'재혼 황후' 앞두고 근황",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16174395",
+          "press": "",
+          "date": "2026-08-26"
+        },
+        {
+          "title": "'브리저튼'인가 '서프라이즈'인가…'재혼황후' 티저에 엇갈린 반응 [MD이...",
+          "link": "https://www.mydaily.co.kr/page/view/2026082615454971608",
+          "press": "",
+          "date": "2026-08-26"
+        },
+        {
+          "title": "현빈·정우성 '메인코2', 9월 9일 공개…신민아 '재혼 황후'까지 디즈니...",
+          "link": "https://www.xportsnews.com/article/2188320",
+          "press": "",
+          "date": "2026-08-26"
+        }
+      ],
+      "rank": 2
+    },
+    {
       "keyword": "투표",
-      "traffic": "100+",
-      "blogTotal": 962053,
-      "newsTotal": 3827871,
+      "traffic": "200+",
+      "blogTotal": 962087,
+      "newsTotal": 3827880,
       "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
@@ -43,178 +189,32 @@
       ],
       "topNews": [
         {
-          "title": "단 2표 차 급 ‘50.1% 가결’⋯ 르노코리아 노사, 4개월 진통 털고 손잡...",
-          "link": "https://www.viva100.com/article/20260826501379",
+          "title": "르노코리아 2026년 임금·단체협상 완전 타결",
+          "link": "https://www.fnnews.com/news/202608262242169605",
           "press": "",
           "date": "2026-08-26"
         },
         {
-          "title": "당정, 경찰개혁 드라이브…신현영 \"경찰 문제를 보완수사권과 연결? 검...",
-          "link": "https://www.natv.go.kr/natv/news/newsView.do?newsId=514056",
+          "title": "예천군, '대한민국 명소발굴 100×100 프로젝트' 7개 관광명소 10개 테마...",
+          "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=309802",
           "press": "",
           "date": "2026-08-26"
         },
         {
-          "title": "르노코리아 노사, 4개월 협상 임단협 가결…50.1% '턱걸이 통과'",
-          "link": "http://www.newscape.co.kr/news/articleView.html?idxno=124152",
+          "title": "르노코리아 임단협 50.1% 찬성…4개월 만에 최종 타결",
+          "link": "https://www.ekn.kr/web/view.php?key=20260826023027062",
           "press": "",
           "date": "2026-08-26"
         },
         {
-          "title": "진보당 \"2028년 총선 울산 6개 선거구 모두 공천\"",
-          "link": "https://www.ulsanpress.net/news/articleView.html?idxno=581785",
+          "title": "부산시, 돼지국밥 20곳서 3곳 가린다…추천 29일 마감",
+          "link": "http://www.newstown.co.kr/news/articleView.html?idxno=713766",
           "press": "",
           "date": "2026-08-26"
         },
         {
-          "title": "금속노조, 울산 등 전국 8곳서 2차 공동파업",
-          "link": "https://www.ulsanpress.net/news/articleView.html?idxno=581741",
-          "press": "",
-          "date": "2026-08-26"
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "keyword": "해변",
-      "traffic": "500+",
-      "blogTotal": 2206428,
-      "newsTotal": 645532,
-      "recentToday": 100,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "필름 이야기 : 날씨가 좋았던 사천해변",
-          "link": "https://madpanda.com/300",
-          "blogger": "我是疯熊猫!",
-          "date": "2022-06-07"
-        },
-        {
-          "title": "[알라딘서재][100자평] 해변의 카프카 -상 (양장본)",
-          "link": "https://blog.aladin.co.kr/762772169/7507503",
-          "blogger": "https://blog.aladin.co.kr/",
-          "date": "2015-04-29"
-        },
-        {
-          "title": "운여해변 해넘이",
-          "link": "https://suji-in.tistory.com/2285",
-          "blogger": "Sujiin's Photo Diary",
-          "date": "2014-12-21"
-        },
-        {
-          "title": "광치기해변에서 아침을...",
-          "link": "https://suji-in.tistory.com/3638",
-          "blogger": "Sujiin's Photo Diary",
-          "date": "2019-02-19"
-        },
-        {
-          "title": "운여해변",
-          "link": "https://suji-in.tistory.com/2284",
-          "blogger": "Sujiin's Photo Diary",
-          "date": "2014-12-20"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "관광 변화 뚜렷, 해수욕장 4계절 수요 관리로 전환해야",
-          "link": "https://www.mbceg.co.kr/post/139548",
-          "press": "",
-          "date": "2026-08-26"
-        },
-        {
-          "title": "[섬, 하다] ⑬ 덕적도 \"여름은 왔는데 사람은 오지 않았다\"",
-          "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1330543",
-          "press": "",
-          "date": "2026-08-26"
-        },
-        {
-          "title": "올 여름 거제 해수욕장 피서객 98만명 찾아",
-          "link": "https://www.gnnews.co.kr/news/articleView.html?idxno=644074",
-          "press": "",
-          "date": "2026-08-26"
-        },
-        {
-          "title": "류경수, 바닷가 낚시로 보낸 여유로운 하루…넷플릭스 '딜러' 기대감",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16174422",
-          "press": "",
-          "date": "2026-08-26"
-        },
-        {
-          "title": "[포토뉴스] 폭염 속 피서객들로 북적이는 해변",
-          "link": "https://www.jemin.com/news/articleView.html?idxno=842177",
-          "press": "",
-          "date": "2026-08-26"
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "keyword": "스마트폰",
-      "traffic": "2000+",
-      "blogTotal": 3992648,
-      "newsTotal": 3591808,
-      "recentToday": 100,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "전북민언련회원특강-스마트폰 활용교육/ 9월 24일 저녁 7시 30분",
-          "link": "https://www.malhara.or.kr/1326",
-          "blogger": "전북민주언론시민연합",
-          "date": "2012-09-19"
-        },
-        {
-          "title": "'LTE스마트폰' 태그의 글 목록 - Raycat",
-          "link": "https://raycat.net/tag/LTE%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8F%B0",
-          "blogger": "Raycat : Photo and Story",
-          "date": "1990-01-01"
-        },
-        {
-          "title": "스마트폰 중독 위험성 건강에 해로울까? 원인",
-          "link": "https://blog.naver.com/duzo328/223760454892",
-          "blogger": "건강하고 행복한 미래를 위해",
-          "date": "2025-02-14"
-        },
-        {
-          "title": "[스마트폰] LG 통화 자동 녹음 기능",
-          "link": "https://knowhowbank.tistory.com/148",
-          "blogger": "노하우 저장소",
-          "date": "2021-04-05"
-        },
-        {
-          "title": "스마트폰 없이 살아볼까요 디지털디톡스 이야기",
-          "link": "https://novabrave.tistory.com/6",
-          "blogger": "낭만여행",
-          "date": "2025-11-07"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "[패트롤] 구리시-남양주시-양평군-포천시-하남시",
-          "link": "https://www.ekn.kr/web/view.php?key=20260826024227043",
-          "press": "",
-          "date": "2026-08-26"
-        },
-        {
-          "title": "울산도서관, 9월 독서문화 행사",
-          "link": "https://www.ulsanpress.net/news/articleView.html?idxno=581743",
-          "press": "",
-          "date": "2026-08-26"
-        },
-        {
-          "title": "“게임 하드웨어 시장 잡는다”… 삼성 ‘속도’·LG ‘화질’로 격돌",
-          "link": "https://www.segye.com/newsView/20260826515810?OutUrl=naver",
-          "press": "",
-          "date": "2026-08-26"
-        },
-        {
-          "title": "교내 스마트폰 사용 주제로 토론했죠",
-          "link": "http://www.gnmaeil.com/news/articleView.html?idxno=593492",
-          "press": "",
-          "date": "2026-08-26"
-        },
-        {
-          "title": "이중정 계명대 의대 교수 \"질환 관리에 AI 접목 시, 치료서 예방으로 패...",
-          "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=557745",
+          "title": "[사설]장동혁號 1년, 총체적 위기인데 당권에만 몰두하나",
+          "link": "https://www.sidae.com/article/2026082615065593066",
           "press": "",
           "date": "2026-08-26"
         }
@@ -222,72 +222,72 @@
       "rank": 3
     },
     {
-      "keyword": "유학생",
-      "traffic": "10000+",
-      "blogTotal": 277678,
-      "newsTotal": 508870,
-      "recentToday": 100,
+      "keyword": "예비타당성조사",
+      "traffic": "200+",
+      "blogTotal": 22356,
+      "newsTotal": 325974,
+      "recentToday": 53,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "온누리교회 문화전도집회-유학생",
-          "link": "https://culturemission.tistory.com/130",
-          "blogger": "믿 음 선 교",
-          "date": "2011-08-18"
+          "title": "학습(공부)하는 블로그 :: 그래픽뉴스(5월 10일)",
+          "link": "https://kiyoo.tistory.com/1340",
+          "blogger": "학습(공부)하는 블로그 :: 학습(공부)하는 블로그",
+          "date": "2023-05-10"
         },
         {
-          "title": "#외국인중고차 #몽골중고차 #용인대학교유학생 #포터2 구입후기",
-          "link": "https://car6022.com/4233",
-          "blogger": "즐거운자동차.com",
-          "date": "2019-09-24"
+          "title": "건설 인력 양성방안 요약 및 교육과정 (정부기관 정책기반 현황조사....",
+          "link": "https://hk-environment.tistory.com/177",
+          "blogger": "홍&강 Environment :: 홍&강 Environment",
+          "date": "2025-08-09"
         },
         {
-          "title": "아반떼MD, 충북대학교, 유학생사역, 행복한가정, 무한신뢰",
-          "link": "https://car6022.com/4141",
-          "blogger": "즐거운자동차.com",
-          "date": "2019-06-21"
+          "title": "남북철도 연결사업 재추진 관련주-동해북부선 예비타당성 면제 계....",
+          "link": "https://preparefortmr.tistory.com/806",
+          "blogger": "디지털노마드를 꿈꾸며 여행 그리고 주식공부",
+          "date": "2020-04-20"
         },
         {
-          "title": "미녀 골퍼 박예빈 / 주니어 골프 출신 / 유학생골린이 / 🤍ᴬᴱᴮᴵ....",
-          "link": "https://gori7544.tistory.com/1630",
-          "blogger": "프렌즈",
-          "date": "2024-03-18"
+          "title": "2019 결산 주요논점",
+          "link": "https://watchman7.tistory.com/2909",
+          "blogger": "나라살림연구소_구 홈페이지입니다",
+          "date": "2020-08-28"
         },
         {
-          "title": "고통하는 미얀마 노동자와 유학생들",
-          "link": "https://jubileekorea.tistory.com/219",
-          "blogger": "희년선교회",
-          "date": "2022-07-28"
+          "title": "GTX-C노선 '23.下 착공, '28년 개통 :: Civil Engineering",
+          "link": "https://civileng7.tistory.com/3715",
+          "blogger": "Civil Engineering :: Civil Engineering",
+          "date": "2023-05-12"
         }
       ],
       "topNews": [
         {
-          "title": "미국, 전 세계 비자 심사 일시 중단…유학생·취업자 당장 비상",
-          "link": "https://www.wikitree.co.kr/articles/1155202",
+          "title": "민형배 광주전남시장, 반도체 중심 성장모델 제시",
+          "link": "https://www.ekn.kr/web/view.php?key=20260826024297060",
           "press": "",
           "date": "2026-08-26"
         },
         {
-          "title": "'통 큰 부영' 이중근 회장, 외국인 유학생에 장학금",
-          "link": "https://www.fnnews.com/news/202608262134121870",
+          "title": "이상일 용인시장 \"반도체 클러스터 적기 가동, 전력·용수 공급부터 챙...",
+          "link": "https://www.tournews21.com/news/articleView.html?idxno=141911",
           "press": "",
           "date": "2026-08-26"
         },
         {
-          "title": "피의자는 대학 강사...\"여장해 완전 범죄 노렸다\"",
-          "link": "https://www.tbc.co.kr/news/view?pno=20260826171634AE04584&id=210266",
+          "title": "경산 하양 ‘노선 변경’ 반발 확산…경북도, 예타 통과안 다시 검토",
+          "link": "https://tk.newdaily.co.kr/site/data/html/2026/08/26/2026082600361.html",
           "press": "",
           "date": "2026-08-26"
         },
         {
-          "title": "\"실패해도 괜찮아… 아이 마음 살필 선제 교육체계 만들죠\"",
-          "link": "http://www.gnmaeil.com/news/articleView.html?idxno=593578",
+          "title": "대구·경북 광역철도 예타 통과…별내선 연장 예타 대상 선정",
+          "link": "https://www.electimes.com/news/articleView.html?idxno=371697",
           "press": "",
           "date": "2026-08-26"
         },
         {
-          "title": "졸업하러 한국 온 유학생 살해한 30대…알고 보니 피해자 다니던 '대학...",
-          "link": "https://news.tvchosun.com/site/data/html_dir/2026/08/26/2026082690213.html",
+          "title": "이상일 용인특례시장 \"삼성전자·SK하이닉스 팹 가동 차질 없도록 정부...",
+          "link": "http://www.newstown.co.kr/news/articleView.html?idxno=713771",
           "press": "",
           "date": "2026-08-26"
         }
@@ -295,145 +295,145 @@
       "rank": 4
     },
     {
-      "keyword": "소방관",
-      "traffic": "2000+",
-      "blogTotal": 133946,
-      "newsTotal": 506405,
-      "recentToday": 74,
+      "keyword": "테슬라 사이버캡",
+      "traffic": "500+",
+      "blogTotal": 1891,
+      "newsTotal": 2773,
+      "recentToday": 14,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "[알라딘서재]도서관2차-신청들어온것",
-          "link": "https://blog.aladin.co.kr/763709193/5944334",
-          "blogger": "https://blog.aladin.co.kr/",
-          "date": "2012-11-06"
+          "title": "9월 5일-주식시세 상한가 특징주 시간외단일가",
+          "link": "https://1-s00.tistory.com/447",
+          "blogger": "아름드리",
+          "date": "2023-09-06"
         },
         {
-          "title": "경일대학교 - 소방방재학과",
-          "link": "https://1708h.tistory.com/285",
-          "blogger": "수하리 한몸살이 -공의, 사랑, 화평, 안식",
-          "date": "2014-05-15"
+          "title": "★2023년 2월 21일 특징주식★",
+          "link": "https://brotherinvestment.tistory.com/881",
+          "blogger": "BrotherInvestment",
+          "date": "2023-02-21"
         },
         {
-          "title": "2024년 소방공무원 봉급표",
-          "link": "https://finkorea.tistory.com/1267",
-          "blogger": "카롤의 블로그",
-          "date": "2024-08-17"
+          "title": "2024년 11월 8일 오늘의 상승률 TOP30 이슈정리",
+          "link": "https://timeli.tistory.com/1124",
+          "blogger": "주식공부",
+          "date": "2024-11-08"
         },
         {
-          "title": "소방관 진입창 기준",
-          "link": "https://sharemyinformation.tistory.com/77",
-          "blogger": "정보를 공유하다",
-          "date": "2023-02-12"
+          "title": "2024년 12월 19일 오늘의 상승률 TOP30 이슈정리",
+          "link": "https://timeli.tistory.com/1244",
+          "blogger": "주식공부",
+          "date": "2024-12-19"
         },
         {
-          "title": "macOS 이야기 :: 절망하는 소방관들...",
-          "link": "https://osx86.tistory.com/4100",
-          "blogger": "macOS 이야기 :: macOS 이야기",
-          "date": "2023-11-09"
+          "title": "[25-04-28.월] 테마종목 및 리포트 요약 정리 | © Kakao",
+          "link": "https://minitoy.tistory.com/561565",
+          "blogger": "MY.SECRET.NOTE❤ | © Kakao",
+          "date": "2025-04-29"
         }
       ],
       "topNews": [
         {
-          "title": "퇴근길에, 휴가 중에...시민 구조한 소방관들",
-          "link": "https://www.chosun.com/national/people/2026/08/26/4X42XEFYQBCNFMWDEIYMVVTP5Y/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+          "title": "[FSD 온로드] 사이버캡 투입 임박…현대차는 '데이터' 승부",
+          "link": "https://www.bloter.net/news/articleView.html?idxno=671831",
           "press": "",
           "date": "2026-08-26"
         },
         {
-          "title": "아파트 14층서 떨어진 7세 '극적 생존'",
-          "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=557771",
+          "title": "그린파워, 25㎾급 고출력 전기차 무선충전 기술 개발",
+          "link": "https://www.etnews.com/20260826000076",
           "press": "",
           "date": "2026-08-26"
         },
         {
-          "title": "퇴근길 소방관, 세심한 관찰로 실종자 찾다",
-          "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=557753",
+          "title": "뉴욕증시, 국채금리 하락에 상승⋯유가, 3%대 급락 [글로벌마켓 모닝 브...",
+          "link": "https://www.etoday.co.kr/news/view/2618104",
           "press": "",
-          "date": "2026-08-26"
+          "date": "2026-08-25"
         },
         {
-          "title": "[유통家소식] 상미당홀딩스·동서식품·농심…경남 수해 복구에 온정",
-          "link": "https://sateconomy.co.kr/news/view/1065596198317368",
+          "title": "美 증시 일제히 상승…유가·국채금리 하락에 기술주 반등-[글로벌 마감...",
+          "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608260255&t=NN",
           "press": "",
-          "date": "2026-08-26"
+          "date": "2026-08-25"
         },
         {
-          "title": "‘저 가방이 기억나’…퇴근하다 길 걷던 실종 여성 찾은 소방관",
-          "link": "https://www.khan.co.kr/article/202608262042015",
+          "title": "뉴욕증시, 국채금리 하락ㆍ반도체주 반등에 상승⋯나스닥 0.66%↑[종합]",
+          "link": "https://www.etoday.co.kr/news/view/2618082",
           "press": "",
-          "date": "2026-08-26"
+          "date": "2026-08-25"
         }
       ],
       "rank": 5
     },
     {
-      "keyword": "김시아",
-      "traffic": "200+",
-      "blogTotal": 4678,
-      "newsTotal": 11001,
-      "recentToday": 39,
-      "recentWeek": 100,
+      "keyword": "k리그1 순위",
+      "traffic": "100+",
+      "blogTotal": 4614,
+      "newsTotal": 94979,
+      "recentToday": 9,
+      "recentWeek": 66,
       "topBlogs": [
         {
-          "title": "고요의 바다",
-          "link": "https://2013x613.tistory.com/2152",
-          "blogger": "love + hope",
-          "date": "2021-12-27"
+          "title": "[맨체스터시티]2011/12 EPL 28R, 스완지 1 - 0 맨시티 :: 맨체스터시티FC 넘....",
+          "link": "https://mcfc.tistory.com/854",
+          "blogger": "맨체스터시티FC 넘버원 :: 맨체스터시티FC 넘버원",
+          "date": "2012-03-12"
         },
         {
-          "title": "2014 부산국제모터쇼 - 주다하",
-          "link": "https://soopia.net/130",
-          "blogger": "사진한장..추억하나..",
-          "date": "2014-06-03"
+          "title": "[맨체스터시티]2011/12 EPL 29R, 맨시티 2 - 1 첼시 :: 맨체스터시티FC 넘버....",
+          "link": "https://mcfc.tistory.com/866",
+          "blogger": "맨체스터시티FC 넘버원 :: 맨체스터시티FC 넘버원",
+          "date": "2012-03-22"
         },
         {
-          "title": "[알라딘서재][100자평] [세트] 아듀, 백설 공주 + 북펀드 굿즈 (미니북)",
-          "link": "https://blog.aladin.co.kr/758845133/15272414",
-          "blogger": "https://blog.aladin.co.kr/",
-          "date": "2024-02-01"
+          "title": "[맨체스터시티]2011/12 EPL 30R, 스토크 1 - 1 맨시티 :: 맨체스터시티FC 넘....",
+          "link": "https://mcfc.tistory.com/868",
+          "blogger": "맨체스터시티FC 넘버원 :: 맨체스터시티FC 넘버원",
+          "date": "2012-03-25"
         },
         {
-          "title": "DalMoon",
-          "link": "https://dal-and-moon.tistory.com/572",
-          "blogger": "DalMoon",
-          "date": "2024-07-22"
+          "title": "[맨체스터시티]2011/12 EPL 14R, 맨시티 5 - 1 노리치 :: 맨체스터시티FC 넘....",
+          "link": "https://mcfc.tistory.com/744",
+          "blogger": "맨체스터시티FC 넘버원 :: 맨체스터시티FC 넘버원",
+          "date": "2011-12-04"
         },
         {
-          "title": "[2019.08.27] 영화 우리집 (The House of Us) 메가토크 #4 - 고아성",
-          "link": "https://bban-photo.tistory.com/910",
-          "blogger": "뺀's Photo",
-          "date": "2019-08-28"
+          "title": "[맨체스터시티]2011/12 EPL 15R, 첼시 2 - 1 맨시티 :: 맨체스터시티FC 넘버....",
+          "link": "https://mcfc.tistory.com/756",
+          "blogger": "맨체스터시티FC 넘버원 :: 맨체스터시티FC 넘버원",
+          "date": "2011-12-13"
         }
       ],
       "topNews": [
         {
-          "title": "스릴러? 누아르? 가족 영화라고 따뜻함만 있나요…‘경주기행’과 ‘비...",
-          "link": "https://www.khan.co.kr/article/202608262049005",
+          "title": "4연패서 팀 구한 FC안양 마테우스…멀티골로 '승리 약속' 지켰다",
+          "link": "https://www.yna.co.kr/view/AKR20260826188900007?input=1195m",
           "press": "",
           "date": "2026-08-26"
         },
         {
-          "title": "강기영, 영화 '부활남: 더 레드' 영하로 부활한 코믹 에너지",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16174408",
+          "title": "4연패 탈출한 FC안양, 인천 무패 끊고 순위 역전",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16174490",
           "press": "",
           "date": "2026-08-26"
         },
         {
-          "title": "구교환 '부활남: 더 레드', 4인4색 캐릭터",
-          "link": "https://www.maxmovie.com/news/articleView.html?idxno=501470",
+          "title": "4연패 끊은 FC안양 유병훈 감독 \"한 경기로 만족할 때 아냐\"",
+          "link": "https://www.yna.co.kr/view/AKR20260826186800007?input=1195m",
           "press": "",
           "date": "2026-08-26"
         },
         {
-          "title": "“액션 합? 멜로 하듯이 바라봐”…구교환→신승호 ‘부활남: 더 레드’...",
-          "link": "https://swtvnews.com/news/newsview.php?ncode=1065606956705528",
+          "title": "[프로축구 중간순위] 26일",
+          "link": "https://www.yna.co.kr/view/AKR20260825177451007?input=1195m",
           "press": "",
           "date": "2026-08-26"
         },
         {
-          "title": "'부활남: 더 레드' 강렬한 4인 포스터 공개…구교환·신승호의 대립 속...",
-          "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=547427",
+          "title": "'추가시간의 기적' 황선홍호 대전, 울산에 2-1 대역전 드라마... 정재희...",
+          "link": "https://www.starnewskorea.com/sports/2026/08/26/2026082620584844097",
           "press": "",
           "date": "2026-08-26"
         }
@@ -441,293 +441,262 @@
       "rank": 6
     },
     {
-      "keyword": "부아디",
-      "traffic": "100+",
-      "blogTotal": 302,
-      "newsTotal": 372,
-      "recentToday": 12,
-      "recentWeek": 55,
+      "keyword": "이수민",
+      "traffic": "200+",
+      "blogTotal": 18941,
+      "newsTotal": 85177,
+      "recentToday": 5,
+      "recentWeek": 40,
       "topBlogs": [
         {
-          "title": "2025 NxGn 50 발표, 축구계 50명의 원더키드, 양민혁 43위",
-          "link": "https://blog.naver.com/pm2447/223802979686",
-          "blogger": "시커의 스포츠",
-          "date": "2025-03-20"
+          "title": "[알라딘서재][100자평] 초보 엄마 숨통 터지는 유모차 여행",
+          "link": "https://blog.aladin.co.kr/776991125/8609491",
+          "blogger": "https://blog.aladin.co.kr/",
+          "date": "2016-07-07"
         },
         {
-          "title": "주) 야곱여행사 성지순례 (가톨릭) :: 폴란드세계자비심 대회",
-          "link": "https://isdol.tistory.com/44",
-          "blogger": "주) 야곱여행사 성지순례 (가톨릭) :: 주) 야곱여행사 성지순례 (가톨릭)",
-          "date": "2011-07-02"
+          "title": "[알라딘서재]유대인들의 성경해석 방법에 대하여",
+          "link": "https://blog.aladin.co.kr/742171154/3111324",
+          "blogger": "https://blog.aladin.co.kr/",
+          "date": "2009-09-20"
         },
         {
-          "title": "맨유 3선의 희망, 말리의 초신성 'Sékou Koné' 세쿠 코네 유망주 스카....",
-          "link": "https://blog.naver.com/oofc_football/223972495152",
-          "blogger": "우리가 만드는 축구 커뮤니티",
-          "date": "2025-08-16"
+          "title": "[알라딘서재][100자평] 여성과 전쟁",
+          "link": "https://blog.aladin.co.kr/795080195/16666309",
+          "blogger": "https://blog.aladin.co.kr/",
+          "date": "2025-08-14"
         },
         {
-          "title": "무에서 창조된 향 엑스니힐로(EX NIHILO) 프랑스 니치 향수의 새로운 ....",
-          "link": "https://blog.naver.com/beautyfragrance/223875864400",
-          "blogger": "향이 들려주는 이야기",
-          "date": "2025-05-24"
+          "title": "사망권세 이기신 예수(9)/사도신경/",
+          "link": "https://faith-hope.tistory.com/15856790",
+          "blogger": "평강이네",
+          "date": "2014-04-14"
         },
         {
-          "title": "세계의 검은 성모 마리아상",
-          "link": "https://duaworld.tistory.com/15723213",
-          "blogger": "세포네",
-          "date": "2020-05-18"
+          "title": "[알라딘서재]2018년 2차희망",
+          "link": "https://blog.aladin.co.kr/736009156/9941123",
+          "blogger": "https://blog.aladin.co.kr/",
+          "date": "2018-03-05"
         }
       ],
       "topNews": [
         {
-          "title": "[오피셜] \"세계 최고의 클럽, 꿈만 같은 일\"… 맨시티, 2007년생 '모로코...",
-          "link": "https://www.besteleven.com/news/articleView.html?idxno=311528",
+          "title": "‘5·18 토론회’ 이진숙 ‘제명 촉구 결의안’ 가결…이진숙 “민주당...",
+          "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8647055&ref=A",
           "press": "",
           "date": "2026-08-26"
         },
         {
-          "title": "맨시티가 찜한 이적료 '1억 유로'의 주인공은... '19세 신성' 부아디",
-          "link": "https://www.hankookilbo.com/news/article/A2026082415000003632?did=NA",
+          "title": "\"너 정통삐? 내 남친은 삐바삐\"…SNS 휩쓴 '피에로 밈' 뭐길래",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008722265&plink=ORI&cooper=NAVER",
           "press": "",
-          "date": "2026-08-24"
+          "date": "2026-08-26"
         },
         {
-          "title": "\"HERE WE GO\" 맨시티, '바르셀로나 이적' 로드리 대체자 찾았다...07년생...",
-          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1003510",
+          "title": "[자막뉴스] \"숙소 나온 직후\" '결정적' 단서…\"진짜 했어\" 부 경장 핵심...",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008723129&plink=ORI&cooper=NAVER",
           "press": "",
-          "date": "2026-08-24"
+          "date": "2026-08-26"
         },
         {
-          "title": "로드리 떠난 맨시티의 구세주!...'2007년생 모로코 핵심' 아유브 부아디...",
-          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=693112",
+          "title": "[자막뉴스] \"결혼 2주 전인데 예식장이 사라졌어요\"…서강대 예비부부 ...",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008722877&plink=ORI&cooper=NAVER",
           "press": "",
-          "date": "2026-08-24"
+          "date": "2026-08-26"
         },
         {
-          "title": "파격 결단! 무려 1621억 투자로, 세대교체 작업 박차...로드리 떠난 맨시...",
-          "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553479618",
+          "title": "'광주출입국 유착' 사실로…법무부 전국 '외국인 배달기사 단속' 점검",
+          "link": "https://www.news1.kr/local/gwangju-jeonnam/6270105",
           "press": "",
-          "date": "2026-08-24"
+          "date": "2026-08-26"
         }
       ],
       "rank": 7
     },
     {
-      "keyword": "난징 지하철",
+      "keyword": "베트남 대 태국",
       "traffic": "2000+",
-      "blogTotal": 3494,
-      "newsTotal": 1150,
-      "recentToday": 6,
-      "recentWeek": 49,
+      "blogTotal": 211,
+      "newsTotal": 22749,
+      "recentToday": 2,
+      "recentWeek": 8,
       "topBlogs": [
         {
-          "title": "다시 만난 친구들과 SHANGHAI :: 위시빈",
-          "link": "https://wishbeen.tistory.com/878",
-          "blogger": "위시빈 :: 위시빈",
-          "date": "2019-11-14"
+          "title": "베트남 북부 고산지대 싸파",
+          "link": "https://jjongphoto.com/13",
+          "blogger": "JJONG",
+          "date": "2009-01-31"
         },
         {
-          "title": "대만 비용 여행 가계부",
-          "link": "https://huiyoi.tistory.com/249",
-          "blogger": "하고 싶은 건 뭐든",
-          "date": "2023-11-28"
+          "title": "2019 SEA 동남아시안게임 싱가폴 VS 베트남",
+          "link": "https://pk0025.tistory.com/719",
+          "blogger": "온종일 스토리",
+          "date": "2019-12-02"
         },
         {
-          "title": "[중국] 6박 7일 - 상하이 4일, 우전 1일, 항저우 1일 여행 일정 공유",
-          "link": "https://somgle.tistory.com/703",
-          "blogger": "솜글",
-          "date": "2021-12-30"
+          "title": "세계에서 가장 뜨거운 베트남 주식시장과 긴장하는 앙숙 태국 - 20210....",
+          "link": "https://dgb17.tistory.com/395",
+          "blogger": "돈공부",
+          "date": "2021-06-14"
         },
         {
-          "title": "중국 상해, 난징, 광저우 여행기 (상해)",
-          "link": "https://hklee1111.tistory.com/266",
-          "blogger": "도전 ! 나홀로 세계여행",
-          "date": "2025-04-05"
+          "title": "* 베트남,캄보디아 여행기(3)ㅡ세계7대불가사의 앙코르왓 *",
+          "link": "https://skh7678.tistory.com/631",
+          "blogger": "아름다운 삶을 영유하기 위함",
+          "date": "2013-02-26"
         },
         {
-          "title": "여자혼자 난징(南京 남경)자유 2박3일 여행, 차안열색 茶颜悦色, Chaya....",
-          "link": "https://loveartlove.tistory.com/781",
-          "blogger": "미래의 게스트 하우스 CEO",
-          "date": "2025-08-24"
+          "title": "해외여행 준비물 - 태국, 베트남 등",
+          "link": "https://s740.tistory.com/485",
+          "blogger": "오늘은",
+          "date": "2019-01-12"
         }
       ],
       "topNews": [
         {
-          "title": "바닥에 쏟아진 수십 마리 뱀?…순식간에 아수라장 된 中 지하철 알고보...",
-          "link": "https://view.asiae.co.kr/article/2026082610402158560",
+          "title": "‘차이나+1’ 올라탄 태국…HMM, 아시아 역내망 확 키운다",
+          "link": "https://www.busan.com/view/busan/view.php?code=2026082610004752711",
           "press": "",
           "date": "2026-08-26"
         },
         {
-          "title": "지하철 바닥 한가득 '꿈틀'…쏟아진 민물장어에 '아수라장'",
-          "link": "http://www.yonhapnewstv.co.kr/news/AKR20260824092216WmK",
+          "title": "유엔 \"미얀마 인권 사상 최악\"…아세안은 잇단 군정 접촉",
+          "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260826010008938",
           "press": "",
-          "date": "2026-08-25"
+          "date": "2026-08-26"
         },
         {
-          "title": "\"뱀이야?\" 대혼란... 지하철 바닥 꿈틀대는 검은 생명체의 정체",
-          "link": "https://www.insight.co.kr/news/569340",
+          "title": "경기도 유통 열대과일 10개 품목 129건 잔류농약 검사 '안전'",
+          "link": "https://www.news1.kr/local/gyeonggi/6270114",
           "press": "",
-          "date": "2026-08-21"
+          "date": "2026-08-26"
         },
         {
-          "title": "지하철 바닥에 \"뱀이야~\"…수십마리 꿈틀꿈틀 대소동, 정체는 '○○'",
-          "link": "https://www.news1.kr/world/global-topic/6264515",
+          "title": "[K-농식품 싱가포르 열풍] “동남아 테스트베드서 프리미엄 푸드 승부”",
+          "link": "https://www.etnews.com/20260826000194",
           "press": "",
-          "date": "2026-08-20"
+          "date": "2026-08-26"
         },
         {
-          "title": "지하철서 꿈틀꿈틀 \"뱀 아냐?\"…수십 마리 장어 쏟아져 승객들 경악",
-          "link": "https://www.sportschosun.com/life/2026-08-20/202608200100118280007511",
+          "title": "'상식 매직' 김상식 감독 밑에서 \"일본 축구 정말 좋아한다\"...베트남 에...",
+          "link": "https://www.sportschosun.com/football/2026-08-26/202608260100154210009869",
           "press": "",
-          "date": "2026-08-20"
+          "date": "2026-08-26"
         }
       ],
       "rank": 8
     },
     {
-      "keyword": "제임스 매디슨",
-      "traffic": "200+",
-      "blogTotal": 2185,
-      "newsTotal": 21196,
-      "recentToday": 4,
-      "recentWeek": 11,
+      "keyword": "việt nam đấu với thái lan",
+      "traffic": "500+",
+      "blogTotal": 1,
+      "newsTotal": 0,
+      "recentToday": 0,
+      "recentWeek": 1,
       "topBlogs": [
         {
-          "title": "아미티빌 호러 (The Amityville Horror, 2005)",
-          "link": "https://zauberin.tistory.com/4965026",
-          "blogger": "빅마우스 배고파~!",
-          "date": "2018-08-19"
+          "title": "⚽ PSG vs Arsenal: Trận Cầu Đỉnh Cao Được Người Hâm Mộ Mong Chờ Nhất....",
+          "link": "https://longrun-longlearn.tistory.com/734",
+          "blogger": "수스라이프",
+          "date": "2025-05-08"
         },
         {
-          "title": "The Steve Miller Band - Winter Time",
-          "link": "https://1202sok.tistory.com/22191",
-          "blogger": "아우렐리우스의 명상록",
-          "date": "2015-09-03"
+          "title": "sự báo động, lời cảnh tỉnh, hồi chuông cảnh tỉnh - sự bại lộ :: D....",
+          "link": "https://moen.tistory.com/8486",
+          "blogger": "Dictionary :: Dictionary",
+          "date": "2020-03-27"
         },
         {
-          "title": "[알라딘서재][마이리뷰] 매디슨 카운티의 다리",
-          "link": "https://blog.aladin.co.kr/718239169/14359766",
-          "blogger": "https://blog.aladin.co.kr/",
-          "date": "2023-02-18"
+          "title": "sự mập mờ, sự lưỡng lự, sự ba phải, sự thiếu quyết đoán - sự ng....",
+          "link": "https://moen.tistory.com/8526",
+          "blogger": "Dictionary :: Dictionary",
+          "date": "2020-03-28"
         },
         {
-          "title": "소속팀을 떠나는 축구선수들의 감동적인 작별인사",
-          "link": "https://matchday.tistory.com/499",
-          "blogger": "매치데이",
-          "date": "2025-07-19"
+          "title": "Thi-thiên [Psalms]",
+          "link": "https://optic.tistory.com/196",
+          "blogger": "https://optic.tistory.com/",
+          "date": "2011-08-30"
         },
         {
-          "title": "[알라딘서재]시민대학 강의자료",
-          "link": "https://blog.aladin.co.kr/755529193/7340671",
-          "blogger": "https://blog.aladin.co.kr/",
-          "date": "2015-01-19"
+          "title": "được định sẵn trong nội bộ, được sắp đặt trong nội bộ - đại h....",
+          "link": "https://moen.tistory.com/8821",
+          "blogger": "Dictionary :: Dictionary",
+          "date": "2020-04-06"
         }
       ],
-      "topNews": [
-        {
-          "title": "\"또 부상이다\" 매디슨, 이번엔 어깨 골절…토트넘 복귀 직후 다시 이탈",
-          "link": "https://mhnse.com/news/articleView.html?idxno=1502525",
-          "press": "",
-          "date": "2026-08-26"
-        },
-        {
-          "title": "또 다친 매디슨, 어깨 미세 골절…복귀까지 최대 2주",
-          "link": "https://www.etoday.co.kr/news/view/2618419",
-          "press": "",
-          "date": "2026-08-26"
-        },
-        {
-          "title": "'유리몸' 매디슨 또 부상! 어깨 골절 2주 결장, 토트넘 시작부터 '공미'...",
-          "link": "http://www.footballist.co.kr/news/articleView.html?idxno=214030",
-          "press": "",
-          "date": "2026-08-26"
-        },
-        {
-          "title": "'쏘니 나 어떡해'...'절친 MF' 또 쓰러졌다! 개막전서 어깨 골절로 2주 O...",
-          "link": "https://www.mydaily.co.kr/page/view/2026082609502554502",
-          "press": "",
-          "date": "2026-08-26"
-        },
-        {
-          "title": "손흥민과 뛰던 시절로 돌아올 수 없다...매디슨, 또 부상→2주 출전 불가...",
-          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=693250",
-          "press": "",
-          "date": "2026-08-26"
-        }
-      ],
+      "topNews": [],
       "rank": 9
     },
     {
-      "keyword": "정정용",
-      "traffic": "100+",
-      "blogTotal": 1871,
-      "newsTotal": 28064,
-      "recentToday": 3,
-      "recentWeek": 66,
+      "keyword": "보잉 f-15ex 이글 ii",
+      "traffic": "1000+",
+      "blogTotal": 18,
+      "newsTotal": 15,
+      "recentToday": 0,
+      "recentWeek": 0,
       "topBlogs": [
         {
-          "title": "즐겨라~대한의 아들들아!!",
-          "link": "https://binjari2116.tistory.com/8005045",
-          "blogger": "홀로걷는 소풍길 이야기",
-          "date": "2019-06-13"
+          "title": "[Defense World] KF-21 보라매를 Su-35, 다쏘 라팔, F-15EX와 비교한 디펜스 월....",
+          "link": "https://kkmd.tistory.com/239",
+          "blogger": "Kevin's Military Channel: KKMD",
+          "date": "2022-06-28"
         },
         {
-          "title": "벤투호 A 축구대표팀 3월 친선경기 2연전 명단발표 :: 온종일 스토리",
-          "link": "https://pk0025.tistory.com/116",
-          "blogger": "온종일 스토리",
-          "date": "2019-03-11"
+          "title": "F-47 전투기 생산시설, 2030년까지 준비 완료",
+          "link": "https://blog.naver.com/orangeshirts/223895529646",
+          "blogger": "이성찬 블로그 - Warfare Systems & Issues",
+          "date": "2025-06-14"
         },
         {
-          "title": "AFC U-23 챔피언십 1차예선 대한민국 일정 :: 온종일 스토리",
-          "link": "https://pk0025.tistory.com/128",
-          "blogger": "온종일 스토리",
-          "date": "2019-03-19"
+          "title": "보잉 F-47? 달라진건 행정부 뿐이다",
+          "link": "https://blog.naver.com/naljava69/223805786409",
+          "blogger": "쿵디담의 다람쥐우리",
+          "date": "2025-03-23"
         },
         {
-          "title": "EPL 프리미어리그 21라운드 사우스햄튼 VS 토트넘 :: 온종일 스토리",
-          "link": "https://pk0025.tistory.com/790",
-          "blogger": "온종일 스토리",
-          "date": "2019-12-30"
+          "title": "동아시아 최강 ‘F-15K 슬램이글’···4조원 투입 美 ‘F-15EX급’ 환....",
+          "link": "https://tkdhan1212.tistory.com/8013254",
+          "blogger": "health",
+          "date": "2024-07-03"
         },
         {
-          "title": "2022 항저우 아시안게임 남자축구 8강 대한민국 VS 중국",
-          "link": "https://pk0025.tistory.com/3396",
-          "blogger": "온종일 스토리",
-          "date": "2023-09-30"
+          "title": "라팔, F-15, KF-21: 우수한 전투기만 사면 끝인가? 인도네시아 공군의 ....",
+          "link": "https://kkmd.tistory.com/511",
+          "blogger": "Kevin's Military Channel: KKMD",
+          "date": "2023-12-29"
         }
       ],
       "topNews": [
         {
-          "title": "경기 마다 쏟아지는 \"나가\" 팬 콜, 전북 현대가 줄곧 상위권인데 정정용...",
-          "link": "https://www.sportschosun.com/football/2026-08-26/202608260100156390010009",
+          "title": "BAE시스템즈, 한국 공군 F-15K에 첨단 전자전 시스템 공급",
+          "link": "https://www.segye.com/newsView/20260717509321?OutUrl=naver",
           "press": "",
-          "date": "2026-08-26"
+          "date": "2026-07-17"
         },
         {
-          "title": "이승우-김현석 감독 언쟁, 추가 징계 없다…발단 놓고 양측 입장차",
-          "link": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=432890",
+          "title": "한국 공군 F-15K 최신형 전자전 장비 장착…BAE 시스템즈, 보잉과 EPAWSS ...",
+          "link": "https://www.theguru.co.kr/news/article.html?no=104437",
           "press": "",
-          "date": "2026-08-26"
+          "date": "2026-07-15"
         },
         {
-          "title": "이승우·김현석 감독 충돌에…설기현 “유럽에서도 흔치 않은 상황”",
-          "link": "https://biz.heraldcorp.com/article/10852709?ref=naver",
+          "title": "F-16은 ‘하늘의 제왕’ F-15 보다 왜 판매량이 많을까[이현호의 밀리터...",
+          "link": "https://www.sedaily.com/article/20047401?ref=naver",
           "press": "",
-          "date": "2026-08-26"
+          "date": "2026-05-22"
         },
         {
-          "title": "'따라가지 못한다'... 승점 1점에 그친 전북현대, 반 시즌 만에 사라진 ...",
-          "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003261866&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+          "title": "‘KF-21 공동개발국’ 인니, 라팔 인도 속 F-15EX 도입 취소 [밀리터리+]",
+          "link": "https://nownews.seoul.co.kr/news/newsView.php?id=20260204601025&wlog_tag3=naver",
           "press": "",
-          "date": "2026-08-26"
+          "date": "2026-02-04"
         },
         {
-          "title": "\"이게 축구\"였다는 이승우, 설기현은 고개 저었다…김현석과 충돌에 “...",
-          "link": "https://mhnse.com/news/articleView.html?idxno=1501521",
+          "title": "\"슬램이글의 부활\"…韓 F-15K, 4조 원 투입해 최강 '슈퍼 이글'로 환골탈...",
+          "link": "https://www.g-enews.com/view.php?ud=202602010620488026533107c202_1",
           "press": "",
-          "date": "2026-08-26"
+          "date": "2026-01-31"
         }
       ],
       "rank": 10
