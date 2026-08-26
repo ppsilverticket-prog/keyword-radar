@@ -1,86 +1,232 @@
 {
-  "updatedAt": "2026-08-25T23:48:28.250Z",
+  "updatedAt": "2026-08-26T01:08:07.804Z",
   "source": "live",
   "keywords": [
     {
-      "keyword": "에코프로",
-      "traffic": "200+",
-      "blogTotal": 81957,
-      "newsTotal": 240441,
-      "recentToday": 50,
+      "keyword": "판결",
+      "traffic": "100+",
+      "blogTotal": 810127,
+      "newsTotal": 2706350,
+      "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "[주식 분석] 에코프로 연저점 경신, 유상증자 쇼크와 향후 전망은?",
-          "link": "https://blog.naver.com/cokehan/224334858712",
-          "blogger": "하고 싶은 건 지금 해라!지금이 내 인생 중 가장 젊다",
-          "date": "2026-07-03"
+          "title": "수입차 대차료에 대한 대법원 판결 나왔다!",
+          "link": "https://blog.naver.com/inmotion99/224378491581",
+          "blogger": "(주)인모션렌터카 :: 보험사고대차 전문기업",
+          "date": "2026-08-18"
         },
         {
-          "title": "에코프로 주가 분석",
-          "link": "https://blog.naver.com/rurxn8585/224376941246",
-          "blogger": "경제 이슈 부동산,주식 투자동향",
-          "date": "2026-08-13"
+          "title": "최태원 결국 재상고! 노소영에 9440억 원 지급 판결, 다시 대법원으로....",
+          "link": "https://blog.naver.com/jsj3462/224379276117",
+          "blogger": "원네스 24",
+          "date": "2026-08-15"
         },
         {
-          "title": "2차전지 에코프로 세계최대손 블랙록 지분 5% 돌파의 의미",
-          "link": "https://blog.naver.com/vlich/224360147834",
-          "blogger": "유희로그",
-          "date": "2026-07-28"
+          "title": "최태원 노소영 재산분할 9440억 판결 이유는",
+          "link": "https://blog.naver.com/dhel751/224357468484",
+          "blogger": "뽀또네집",
+          "date": "2026-07-25"
         },
         {
-          "title": "에코프로 실적 발표 8월 4일, 주가 5%대 뛰었는데 2차전지 반등 신호 ....",
-          "link": "https://blog.naver.com/rlawodnjs2622/224367735719",
-          "blogger": "파계승 김토토",
-          "date": "2026-08-04"
+          "title": "나는솔로 16기 영숙 벌금형 확정, 상철 명예훼손 판결 이유",
+          "link": "https://blog.naver.com/snyclassy/224348793810",
+          "blogger": "투데이엔터판",
+          "date": "2026-07-16"
         },
         {
-          "title": "에코프로비엠 시간외 급락이유는??? 주주배정 유상증자 총정리, 신....",
-          "link": "https://blog.naver.com/jung-bjtv/224332602409",
-          "blogger": "JBJ GOLF&STOCK [Enjoy Your Life™]",
-          "date": "2026-07-01"
+          "title": "SK 최태원 회장·노소영 관장 최종 판결…1조원  재산분할, 쇼킹 쇼킹....",
+          "link": "https://blog.naver.com/pumum2401/224356643161",
+          "blogger": "@바른해피",
+          "date": "2026-07-24"
         }
       ],
       "topNews": [
         {
-          "title": "[애프터마켓 리뷰] AI 전력수요에 원전주 '활활'…한전기술 급등",
-          "link": "https://biz.sbs.co.kr/article_hub/20000330755?division=NAVER",
+          "title": "\"성추행 고소 취하 안 하면 죽인다\"…여학생 불태워 살해한 교장 '사형...",
+          "link": "https://www.mt.co.kr/world/2026/08/26/2026082609155391237",
           "press": "",
-          "date": "2026-08-25"
+          "date": "2026-08-26"
         },
         {
-          "title": "[더벨][Company Watch] 에코프로비엠, 헝가리 400억 투자…재무부담 '최소...",
-          "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608241430414920101370",
+          "title": "경찰, 세종호텔 복직 요구 농성 16명 송치…\"업무방해 혐의\"",
+          "link": "https://news.tvchosun.com/site/data/html_dir/2026/08/26/2026082690086.html",
           "press": "",
-          "date": "2026-08-25"
+          "date": "2026-08-26"
         },
         {
-          "title": "에코프로·맥쿼리도 베팅한 K뷰티..제조생태계에 몰리는 자금줄 [K뷰티공...",
-          "link": "https://economist.co.kr/article/view/ecn202608180028",
+          "title": "김민석, 이진숙에 “여자 전두환으로 통일해서 부르는 게 어떻겠나”",
+          "link": "https://www.chosun.com/politics/assembly/2026/08/26/DA6N65ZSMRFNLBUSDSTXIMSF6U/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
           "press": "",
-          "date": "2026-08-25"
+          "date": "2026-08-26"
         },
         {
-          "title": "코스피, 반도체 순매수세 확대...강보합마감",
-          "link": "https://www.betanews.net/article/view/beta202608250086",
+          "title": "퇴사 직후 400m 옆에 학원 차리고 학생 빼간 강사…\"2600만원 배상\"",
+          "link": "https://news.tvchosun.com/site/data/html_dir/2026/08/26/2026082690085.html",
           "press": "",
-          "date": "2026-08-25"
+          "date": "2026-08-26"
         },
         {
-          "title": "청주 기업·기관, 지역문제 해결 사회공헌 협력 강화",
-          "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2436230",
+          "title": "이란 조이고 중국·캐나다 때린다…트럼프발 관세전쟁 확산",
+          "link": "https://www.sedaily.com/article/20083332?ref=naver",
           "press": "",
-          "date": "2026-08-25"
+          "date": "2026-08-26"
         }
       ],
       "rank": 1
     },
     {
+      "keyword": "이준석",
+      "traffic": "500+",
+      "blogTotal": 106681,
+      "newsTotal": 556390,
+      "recentToday": 64,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "'박근혜 키즈가 당대표 국회의원으로' 이준석 생애 및 정치 경력 정....",
+          "link": "https://blog.naver.com/pso164/224321612130",
+          "blogger": "과학커뮤니케이터 박종현",
+          "date": "2026-06-24"
+        },
+        {
+          "title": "“친한계만으론 대권 어렵다”…배종찬, 한동훈·오세훈·이준석 연....",
+          "link": "https://blog.naver.com/somang2015/224340119523",
+          "blogger": "에디션 모먼트",
+          "date": "2026-07-08"
+        },
+        {
+          "title": "리센느 원이 \"무섭노\" 사투리에 일베 낙인?! 조국·이준석까지 나선 ....",
+          "link": "https://blog.naver.com/allday_everyday/224339784452",
+          "blogger": "올데이톡톡 | 매일 보는 트렌드",
+          "date": "2026-07-08"
+        },
+        {
+          "title": "\"애초에 어머니가 중국인이 아니다\"... 이준석 엄마 중국인 루머 팩....",
+          "link": "https://blog.naver.com/pan6606/224313048628",
+          "blogger": "아윌리치 Y",
+          "date": "2026-06-11"
+        },
+        {
+          "title": "[충격] 이준석·조민 11월 결혼에 임신 8개월? 직접 밝힌 황당한 진실",
+          "link": "https://blog.naver.com/syp121/224319034518",
+          "blogger": "정보광장",
+          "date": "2026-06-17"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "이준석, 당대표 전격 사퇴…보수 지형 변화 꿈틀 [이런정치]",
+          "link": "https://biz.heraldcorp.com/article/10852389?ref=naver",
+          "press": "",
+          "date": "2026-08-26"
+        },
+        {
+          "title": "이준석 대표, 지방선거 패배 책임지고 대표직 사직…개혁신당 지도부 총...",
+          "link": "https://www.lecturernews.com/news/articleView.html?idxno=209373",
+          "press": "",
+          "date": "2026-08-26"
+        },
+        {
+          "title": "제3지대 돌풍은 '순간'…조국 이어 이준석도 퇴진",
+          "link": "http://www.suwonilbo.kr/news/articleView.html?idxno=317711",
+          "press": "",
+          "date": "2026-08-26"
+        },
+        {
+          "title": "'지선패배 책임' 이준석, 당 대표 사퇴…천하람 대행 체제",
+          "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000059652",
+          "press": "",
+          "date": "2026-08-26"
+        },
+        {
+          "title": "이준석, '지방선거 책임'·'자강·쇄신 부족'에 당 대표직 사퇴",
+          "link": "http://www.metroseoul.co.kr/article/20260826500060",
+          "press": "",
+          "date": "2026-08-26"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "keyword": "돌리 파튼",
+      "traffic": "200+",
+      "blogTotal": 987,
+      "newsTotal": 1167,
+      "recentToday": 47,
+      "recentWeek": 52,
+      "topBlogs": [
+        {
+          "title": "돌리 파튼(Dolly Parton) 별세, 향년 80세…미국 전역이 그녀를 추모하는....",
+          "link": "https://blog.naver.com/rokpolice1/224390422552",
+          "blogger": "BNCW partners",
+          "date": "2026-08-26"
+        },
+        {
+          "title": "돌리 파튼, 80세 컨트리 여왕 별세 소식 남편 떠난 지 1년여 만에…사....",
+          "link": "https://blog.naver.com/kimsa0210/224390468564",
+          "blogger": "아, 그럴 수도 있지",
+          "date": "2026-08-26"
+        },
+        {
+          "title": "돌리 파튼, 컨트리 여왕 80세 별세 소식 컨트리 역사상 앨범 판매량 ....",
+          "link": "https://blog.naver.com/ljs1214mn/224390463823",
+          "blogger": "1Click1",
+          "date": "2026-08-26"
+        },
+        {
+          "title": "돌리 파튼(Dolly Parton) 80세 별세 - Jolene과 I Will Always Love You를 남긴 컨....",
+          "link": "https://blog.naver.com/ryc3030/224390448426",
+          "blogger": "밍기적사운드",
+          "date": "2026-08-26"
+        },
+        {
+          "title": "돌리 파튼 별세, 향년 80세…‘I Will Always Love You’ 원곡자의 삶과 음....",
+          "link": "https://blog.naver.com/sbg2022/224390498610",
+          "blogger": "봉인사이트 | 경제·증시 인사이트",
+          "date": "2026-08-26"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "'컨트리 여왕' 돌리 파튼, 암 투병 끝에 별세···향년 80세",
+          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3674899",
+          "press": "",
+          "date": "2026-08-26"
+        },
+        {
+          "title": "트럼프, 훈장 제안 2차례 거절한 파튼 별세에 “상실감 커”",
+          "link": "https://www.segye.com/newsView/20260826504961?OutUrl=naver",
+          "press": "",
+          "date": "2026-08-26"
+        },
+        {
+          "title": "'컨트리의 여왕' 돌리 파튼 별세…향년 80세",
+          "link": "https://view.asiae.co.kr/article/2026082609312238674",
+          "press": "",
+          "date": "2026-08-26"
+        },
+        {
+          "title": "\"태양이 빛을 일었다\" 美, 돌리 파튼 애도 물결…일주일 조기 게양",
+          "link": "https://www.news1.kr/world/usa-canada/6269659",
+          "press": "",
+          "date": "2026-08-26"
+        },
+        {
+          "title": "‘美 컨트리 여왕’ 돌리 파튼 암투병 끝 별세…향년 80세",
+          "link": "https://sports.donga.com/ent/article/all/20260826/134545465/1",
+          "press": "",
+          "date": "2026-08-26"
+        }
+      ],
+      "rank": 3
+    },
+    {
       "keyword": "베라 루빈",
-      "traffic": "100+",
-      "blogTotal": 3140,
-      "newsTotal": 11273,
-      "recentToday": 48,
+      "traffic": "500+",
+      "blogTotal": 3154,
+      "newsTotal": 11326,
+      "recentToday": 27,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -116,251 +262,105 @@
       ],
       "topNews": [
         {
-          "title": "[모닝 리포트] \"심텍 2742억 규모 증설은 부담 아닌 수요 증거\"",
-          "link": "https://www.newspim.com/news/view/20260826000076",
+          "title": "LG CNS, 액체냉각 인프라 구축…네이버클라우드와 협력",
+          "link": "https://www.dt.co.kr/article/12080231?ref=naver",
           "press": "",
-          "date": "2026-08-25"
+          "date": "2026-08-26"
         },
         {
-          "title": "디에스앤지, 네이버클라우드에 엔비디아 B300 GPU 서버 389대 공급",
-          "link": "https://www.etnews.com/20260826000011",
+          "title": "LG CNS, 삼송 데이터센터에 ‘액체냉각’ 도입⋯ “AI 팩토리 인프라 시...",
+          "link": "https://www.viva100.com/article/20260826500135",
           "press": "",
-          "date": "2026-08-25"
+          "date": "2026-08-26"
         },
         {
-          "title": "엔비디아 '그록3' 양산…삼성 파운드리 반등 신호",
-          "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=859589",
+          "title": "LG CNS, 삼송 데이터센터에 ‘차세대 액체냉각’ 도입…AI 팩토리 가속화",
+          "link": "https://www.etoday.co.kr/news/view/2618211",
           "press": "",
-          "date": "2026-08-25"
+          "date": "2026-08-26"
         },
         {
-          "title": "美반도체 반등에 코스피 힘받나…엔비디아 실적 분수령[뉴스새벽배송]",
-          "link": "https://www.edaily.co.kr/News/Read?newsId=02574806645551256&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+          "title": "LG CNS, 삼송 데이터센터에 액체냉각 도입…AI 팩토리 선점",
+          "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431825",
           "press": "",
-          "date": "2026-08-25"
+          "date": "2026-08-26"
         },
         {
-          "title": "엔비디아에 쏠린 눈…\"실적 자체보다 컨퍼런스콜 메시지\"",
-          "link": "https://www.yna.co.kr/view/AKR20260826019800009?input=1195m",
+          "title": "LG CNS, 삼송 데이터센터에 차세대 액체냉각 적용…AI 팩토리 공략",
+          "link": "https://www.koit.co.kr/news/articleView.html?idxno=208650",
           "press": "",
-          "date": "2026-08-25"
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "keyword": "이다현",
-      "traffic": "1000+",
-      "blogTotal": 4024,
-      "newsTotal": 21210,
-      "recentToday": 48,
-      "recentWeek": 86,
-      "topBlogs": [
-        {
-          "title": "\"배우인 줄 알았다\" 일본 팬들이 반해버린 24세 이다현, 대체 왜?",
-          "link": "https://blog.naver.com/unknown__log/224389508788",
-          "blogger": "세상의 모든 이야기.zip",
-          "date": "2026-08-25"
-        },
-        {
-          "title": "\"여자배구 이다현 일본도 탐낸다\" 한일전 완패에도 현지 인기 한몸....",
-          "link": "https://blog.naver.com/climbscene/224390050893",
-          "blogger": "클라이밍의 모든 순간, 클라임씬",
-          "date": "2026-08-25"
-        },
-        {
-          "title": "이다현 일본행 선택한 진짜 이유, 연봉 깎이는 걸 알고도 떠난 3가지....",
-          "link": "https://blog.naver.com/plansh/224360614199",
-          "blogger": "인생꿀팁",
-          "date": "2026-07-28"
-        },
-        {
-          "title": "\"실력도 외모도 인정\" 일본팬들 난리났다, 여자배구 한일전 지고도 ....",
-          "link": "https://blog.naver.com/gytjd4624/224389590027",
-          "blogger": "짱핏터의 맛동산 ✅️",
-          "date": "2026-08-25"
-        },
-        {
-          "title": "경기 끝나자 일본 반응 폭발…‘배우급 외모’ 이다현, 실력도 압도....",
-          "link": "https://blog.naver.com/finally6318/224389861469",
-          "blogger": "finally6318님의 블로그",
-          "date": "2026-08-25"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "달릴 땐 주행정보, 멈추면 ‘시네마’…삼성D OLED, GV90 탑재",
-          "link": "https://www.g-enews.com/view.php?ud=2026082608192993623084322ec9_1",
-          "press": "",
-          "date": "2026-08-25"
-        },
-        {
-          "title": "\"엄청난 미인, 한국의 가장 큰 벽\"...日도 경악 금지 못 한 이다현의 존...",
-          "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553485770",
-          "press": "",
-          "date": "2026-08-25"
-        },
-        {
-          "title": "\"185㎝에 배우 같은 외모\"…日 팬들에 제대로 눈도장 찍은 한국 배구선...",
-          "link": "https://www.newsis.com/view/NISX20260825_0003761525",
-          "press": "",
-          "date": "2026-08-25"
-        },
-        {
-          "title": "일본이 홀딱 반했다!…\"여배우 같은 외모, 큰 벽이 되고 있어\"→\"한국에...",
-          "link": "https://www.xportsnews.com/article/2187925",
-          "press": "",
-          "date": "2026-08-25"
-        },
-        {
-          "title": "'배구 스타' 이다현 실제 모습은?...일본 팬들 사로잡은 미모 화제",
-          "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160310590855931",
-          "press": "",
-          "date": "2026-08-25"
-        }
-      ],
-      "rank": 3
-    },
-    {
-      "keyword": "김숙",
-      "traffic": "10000+",
-      "blogTotal": 39876,
-      "newsTotal": 212928,
-      "recentToday": 40,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "김숙 유명 MC 폭로설 확산, 원본에서 확인되는 사실은?",
-          "link": "https://blog.naver.com/bluejuan/224381878401",
-          "blogger": "한눈픽 | 모든 정보를 한눈에",
-          "date": "2026-08-18"
-        },
-        {
-          "title": "김숙 “본성 더럽다고 느낀 톱스타”…유명 MC까지 소환된 정체 추....",
-          "link": "https://blog.naver.com/zini5530/224381640998",
-          "blogger": "야옹이화장대",
-          "date": "2026-08-18"
-        },
-        {
-          "title": "김숙 “본성이 더럽구나” 발언 무슨 일? 유명 연예인 인성 폭로 논....",
-          "link": "https://blog.naver.com/ebs1007/224381935823",
-          "blogger": "오늘도 난 아무것도 하지 않는다.",
-          "date": "2026-08-18"
-        },
-        {
-          "title": "\"인기 떨어지니 착해졌다\" 김숙 폭로가 유명 MC 논란으로?",
-          "link": "https://blog.naver.com/lhswind2/224383106812",
-          "blogger": "우수아빠의 인생은",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "\"도대체 누구길래?\" 김숙이 밝힌 '본성 못된 연예인' 정체와 결정적 ....",
-          "link": "https://blog.naver.com/ilovekangstar/224382127850",
-          "blogger": "뉴스스타⭐️",
-          "date": "2026-08-18"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "'홈즈' 이현이 남편, 삼성전자 반도체 부문 엔지니어…\"서울 VS 동탄\" 중...",
-          "link": "https://www.slist.kr/news/articleView.html?idxno=761369",
-          "press": "",
-          "date": "2026-08-25"
-        },
-        {
-          "title": "봉태규 \"'야르' 원조는 나\"..문소리와 러브신 화제 영화 '직접 시범' (비...",
-          "link": "http://www.osen.co.kr/article/G1112863798",
-          "press": "",
-          "date": "2026-08-25"
-        },
-        {
-          "title": "이현이, 동탄 이주 고민했었다…“직접 임장까지 다녀와” (홈즈)",
-          "link": "https://sports.donga.com/ent/article/all/20260826/134544862/1",
-          "press": "",
-          "date": "2026-08-25"
-        },
-        {
-          "title": "'서초동 사는' 이현이, '삼성맨' ♥남편 위해서라면 \"동탄으로 이사갈까...",
-          "link": "http://www.atstar1.com/news/articleView.html?idxno=6037986",
-          "press": "",
-          "date": "2026-08-25"
-        },
-        {
-          "title": "봉태규, \"야르의 원조는 나\"…'비밀보장'서 시범까지 선보인다",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16173585",
-          "press": "",
-          "date": "2026-08-25"
+          "date": "2026-08-26"
         }
       ],
       "rank": 4
     },
     {
-      "keyword": "mu",
+      "keyword": "한겨레",
       "traffic": "100+",
-      "blogTotal": 62770,
-      "newsTotal": 37363,
-      "recentToday": 40,
+      "blogTotal": 228989,
+      "newsTotal": 994169,
+      "recentToday": 12,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "마이크론 테크놀로지(MU) 투자 총정리",
-          "link": "https://blog.naver.com/animalland46/224367074249",
-          "blogger": "animalland46님의 블로그",
-          "date": "2026-08-03"
+          "title": "한겨레 구독 해지 방법 구독취소 고객센터 전화번호",
+          "link": "https://blog.naver.com/qta14/224367682541",
+          "blogger": "따뜻한 공간",
+          "date": "2026-08-04"
         },
         {
-          "title": "아이 입문용 전자피아노 추천! 뮤디스MU-8H PLUS 88 건반 솔직 후기",
-          "link": "https://blog.naver.com/yellow6177/224347912416",
-          "blogger": "뽁뽁쓰",
-          "date": "2026-07-15"
+          "title": "한겨레 신문 구독료 및 PDF 지면보기 서비스 완벽 가이드",
+          "link": "https://blog.naver.com/nstartkkh/224363880910",
+          "blogger": "nstart 지식",
+          "date": "2026-07-31"
         },
         {
-          "title": "칭다오 여행 | 인천 - 칭다오 ☆중국동방항공 이코노미 탑승,기내식 ....",
-          "link": "https://blog.naver.com/ini0830/224326188351",
-          "blogger": "ini",
-          "date": "2026-06-24"
+          "title": "말뚝들 김홍 장편소설, 배우 박정민 추천도서 한겨레문학상 수상작",
+          "link": "https://blog.naver.com/jyh7122/224380382954",
+          "blogger": "일상, 나의 작은 서재",
+          "date": "2026-08-16"
         },
         {
-          "title": "제1회 함평 MU배 파크골프대회 개최!",
-          "link": "https://blog.naver.com/jaegwan0333/224349409828",
-          "blogger": "파크골프 우승 도전단",
-          "date": "2026-07-17"
+          "title": "[과거 속 시사] 2009년 언론이 바라본 故 노무현 전 대통령: 미디어오....",
+          "link": "https://blog.naver.com/anrmrdufo/224354040730",
+          "blogger": "자유로운 일상",
+          "date": "2026-07-22"
         },
         {
-          "title": "함평 파크골프장 방문 후기! MU 파크골프 대회 개최 코스를 둘러보다",
-          "link": "https://blog.naver.com/yeongam531/224328418473",
-          "blogger": "행복을 치는 파크골프",
-          "date": "2026-06-26"
+          "title": "나혼자 광주 여행｜맛집 한겨레 (혼밥식당,1인분 오리탕, 존맛,, 친....",
+          "link": "https://blog.naver.com/qkrth5978/224303140016",
+          "blogger": "todayis__Ss",
+          "date": "2026-06-01"
         }
       ],
       "topNews": [
         {
-          "title": "엔비디아·AMD 또 쐈다…나스닥에 계좌 불어난 서학개미",
-          "link": "https://www.wikitree.co.kr/articles/1154958",
+          "title": "비평의 곁과 결",
+          "link": "https://www.kyosu.net/news/articleView.html?idxno=209306",
           "press": "",
-          "date": "2026-08-25"
+          "date": "2026-08-26"
         },
         {
-          "title": "반도체지수 10% 추가 하락 가능성, 뱅크오브아메리카 거론",
-          "link": "https://www.tokenpost.kr/news/market/397791",
+          "title": "[조간브리핑]AI 도입 기업 24%만 성과···승부는 '개발' 아닌 '활용 역...",
+          "link": "http://www.hellodd.com/news/articleView.html?idxno=112938",
           "press": "",
-          "date": "2026-08-25"
+          "date": "2026-08-26"
         },
         {
-          "title": "BofA \"필리지수 10% 추가 하락 전망…악재 중첩에 단기 조정 연장\"",
-          "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431772",
+          "title": "서울의료원 심뇌혈관센터 “심뇌질환의 원인은 하나, 예방부터 치료·관...",
+          "link": "https://www.hani.co.kr/arti/hanihealth/medical/1274670.html",
           "press": "",
-          "date": "2026-08-25"
+          "date": "2026-08-26"
         },
         {
-          "title": "장중 미국증시에선...엔비디아·마이크론·반도체ETF '활짝'",
-          "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=170437",
+          "title": "[뷰리핑] 이 대통령 “다른 점 찾으면 원수 돼”",
+          "link": "https://www.hani.co.kr/arti/politics/politics_general/1274666.html",
           "press": "",
-          "date": "2026-08-25"
+          "date": "2026-08-26"
         },
         {
-          "title": "짐 크레이머 \"데이터센터 규제 칼바람, 빅테크에는 축복\"",
-          "link": "http://coinreaders.com/254753",
+          "title": "[오늘의 사설] \" 내년 '슈퍼예산',돈잔치 돼선 안돼\"",
+          "link": "http://www.nongaek.com/news/articleView.html?idxno=96525",
           "press": "",
           "date": "2026-08-25"
         }
@@ -368,74 +368,74 @@
       "rank": 5
     },
     {
-      "keyword": "스코티 셰플러",
+      "keyword": "이요원",
       "traffic": "1000+",
-      "blogTotal": 2492,
-      "newsTotal": 23738,
-      "recentToday": 11,
-      "recentWeek": 52,
+      "blogTotal": 17883,
+      "newsTotal": 67261,
+      "recentToday": 8,
+      "recentWeek": 83,
       "topBlogs": [
         {
-          "title": "[PGA Tour] \"세계 1위의 압도적 독주!\" 스코티 셰플러",
-          "link": "https://blog.naver.com/audtn0735/224380870205",
-          "blogger": "스포츠기자 지망생",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "PGA투어 보너스 상금이 이정도였어? 스코티 셰플러, 김시우 선수가 ....",
-          "link": "https://blog.naver.com/jung-bjtv/224377560209",
-          "blogger": "JBJ GOLF&STOCK [Enjoy Your Life™]",
+          "title": "이요원 고졸인 줄 알고 있는데… 숨겨진 반전 스펙 프로필",
+          "link": "https://blog.naver.com/brooch3/224377060191",
+          "blogger": "연예뉴스",
           "date": "2026-08-13"
         },
         {
-          "title": "세계 1위 스코티 셰플러는 왜 무너지지 않을까…아마추어가 배울 3....",
-          "link": "https://blog.naver.com/teeoffenter/224379039196",
-          "blogger": "Tee-off enter BLOG",
-          "date": "2026-08-15"
+          "title": "지상렬 이요원 피처링 거절, 5만원 계약금에도 선 그은 이유",
+          "link": "https://blog.naver.com/bluejuan/224387519047",
+          "blogger": "한눈픽 | 모든 정보를 한눈에",
+          "date": "2026-08-23"
         },
         {
-          "title": "2026 스코티셰플러 사용 골프채 총정리",
-          "link": "https://blog.naver.com/5805dydtn/224362622270",
-          "blogger": "곰프로와 함께하는 골프정보!",
-          "date": "2026-07-30"
+          "title": "“47세 맞아?” 세 아이 엄마 이요원, 여전히 믿기 힘든 동안 비주얼",
+          "link": "https://blog.naver.com/gustj228/224389621671",
+          "blogger": "잠깐 보고 갈래?",
+          "date": "2026-08-25"
         },
         {
-          "title": "페덱스 세인트 주드 챔피언십 우승 스코티 셰플러 임성재 공동 2위",
-          "link": "https://blog.naver.com/no_myway/224380876638",
-          "blogger": "다른길은 없어요",
-          "date": "2026-08-17"
+          "title": "\"45세 동안의 비결이... 이거였어?\" 이요원 세안 후 수건 대신 이걸 쓴....",
+          "link": "https://blog.naver.com/alcyalcy77/224390292713",
+          "blogger": "쵸코쵸코의 이슈모아",
+          "date": "2026-08-26"
+        },
+        {
+          "title": "그 시절 쎄씨 모델 이요원 사복 패션, 나이 안 믿기는 실버 링 귀걸....",
+          "link": "https://blog.naver.com/skmkea/224305697545",
+          "blogger": "소소한 하루하루님의블로그",
+          "date": "2026-06-04"
         }
       ],
       "topNews": [
         {
-          "title": "상금 973만달러·톱10 11회…김시우, 퍼트 개선으로 최고 시즌",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16173577",
+          "title": "명문대 나온 딸에게 고시원 같은 방 내어준, 수십억 자산가 이요원의 원...",
+          "link": "https://www.segye.com/newsView/20260722520833?OutUrl=naver",
           "press": "",
           "date": "2026-08-25"
         },
         {
-          "title": "‘황제의 26년 아성 깨진다’ 셰플러-매킬로이, ‘통산 상금 1위’ 도전",
-          "link": "https://sports.donga.com/sports/article/all/20260826/134544748/1",
+          "title": "이요원, 흑백 포트레이트로 담은 차분한 근황",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16171916",
           "press": "",
-          "date": "2026-08-25"
+          "date": "2026-08-24"
         },
         {
-          "title": "AP통신 \"김시우, 우승 없이도 최고의 한해…퍼트 개선이 핵심\"",
-          "link": "https://www.yna.co.kr/view/AKR20260826024800007?input=1195m",
+          "title": "'46세' 이요원, 20대 딸과 친구 같다더니 이유 있었네…세월 비껴간 미모",
+          "link": "https://www.tenasia.co.kr/article/2026082487394",
           "press": "",
-          "date": "2026-08-25"
+          "date": "2026-08-24"
         },
         {
-          "title": "우즈 '26년 천하' 막내리나…셰플러·매킬로이, 통산 상금 1위 도전",
-          "link": "https://www.news1.kr/sports/golf/6269440",
+          "title": "박서진 \"보람 누나도 알아요?\" 지상렬 당황시킨 돌직구",
+          "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=546915",
           "press": "",
-          "date": "2026-08-25"
+          "date": "2026-08-24"
         },
         {
-          "title": "“빚내서 골프장 보냈더니 1660억 벌었다”…세계 1위 셰플러 키운 ‘부...",
-          "link": "https://www.segye.com/newsView/20260821508448?OutUrl=naver",
+          "title": "'살림남' 박현호 \"아이돌 포기 후 창문에서 뛰어내리려…母가 붙잡아\"",
+          "link": "http://enews.imbc.com/News/RetrieveNewsInfo/515625",
           "press": "",
-          "date": "2026-08-25"
+          "date": "2026-08-23"
         }
       ],
       "rank": 6
@@ -443,10 +443,10 @@
     {
       "keyword": "한국고속철도",
       "traffic": "200+",
-      "blogTotal": 5555,
-      "newsTotal": 121078,
-      "recentToday": 9,
-      "recentWeek": 31,
+      "blogTotal": 5558,
+      "newsTotal": 121081,
+      "recentToday": 7,
+      "recentWeek": 34,
       "topBlogs": [
         {
           "title": "대만 여행 타이베이에서 가오슝 가는 법 기차 고속철도 예매 교환처",
@@ -481,6 +481,24 @@
       ],
       "topNews": [
         {
+          "title": "코레일-프랑스 CSEE 'AI 기반 철도 유지보수 기술교류회' 개최",
+          "link": "https://www.jbnews.com/news/articleView.html?idxno=1510149",
+          "press": "",
+          "date": "2026-08-26"
+        },
+        {
+          "title": "코레일-CSEE, AI 기반 철도 전기설비 유지보수 기술협력 강화",
+          "link": "http://www.dtnews24.com/news/articleView.html?idxno=814578",
+          "press": "",
+          "date": "2026-08-26"
+        },
+        {
+          "title": "‘용산 대신 강남 1.3만호’ 탄천 가보니 “입지 좋지만, 악취 해결해야...",
+          "link": "https://biz.heraldcorp.com/article/10852303?ref=naver",
+          "press": "",
+          "date": "2026-08-26"
+        },
+        {
           "title": "\"인구 소멸, 철도만 놓으면 해결될까? 핵심은 '콘텐츠'\" [철도이야기]",
           "link": "https://www.redaily.co.kr/news/articleView.html?idxno=17409",
           "press": "",
@@ -491,104 +509,159 @@
           "link": "https://www.redaily.co.kr/news/articleView.html?idxno=17417",
           "press": "",
           "date": "2026-08-25"
-        },
-        {
-          "title": "강릉컨벤션센터 오늘 개관… 관광 넘어 마이스 도시 첫발 뗀 '강릉'",
-          "link": "https://www.edaily.co.kr/News/Read?newsId=02115606645551256&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-          "press": "",
-          "date": "2026-08-25"
-        },
-        {
-          "title": "(민선 9기 한 달)⑩행정통합 첫발 뗀 민형배…조직 안정화→성과내기 '...",
-          "link": "http://www.newstomato.com/ReadNews.aspx?no=1311387&inflow=N",
-          "press": "",
-          "date": "2026-08-25"
-        },
-        {
-          "title": "KTX, 9월 1일부터 평균 10% 가격 인하…SRT도 마일리지 적립",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16173274",
-          "press": "",
-          "date": "2026-08-25"
         }
       ],
       "rank": 7
     },
     {
-      "keyword": "돌리 파튼",
-      "traffic": "200+",
-      "blogTotal": 967,
-      "newsTotal": 1157,
-      "recentToday": 1,
-      "recentWeek": 33,
+      "keyword": "스코티 셰플러",
+      "traffic": "2000+",
+      "blogTotal": 2495,
+      "newsTotal": 23743,
+      "recentToday": 5,
+      "recentWeek": 45,
       "topBlogs": [
         {
-          "title": "돌리 파튼(Dolly Parton) 별세, 향년 80세…미국 전역이 그녀를 추모하는....",
-          "link": "https://blog.naver.com/rokpolice1/224390422552",
-          "blogger": "BNCW partners",
-          "date": "2026-08-26"
+          "title": "[PGA Tour] \"세계 1위의 압도적 독주!\" 스코티 셰플러",
+          "link": "https://blog.naver.com/audtn0735/224380870205",
+          "blogger": "스포츠기자 지망생",
+          "date": "2026-08-17"
         },
         {
-          "title": "돌리 파튼(Dolly Parton) 80세 별세 - Jolene과 I Will Always Love You를 남긴 컨....",
-          "link": "https://blog.naver.com/ryc3030/224390448426",
-          "blogger": "밍기적사운드",
-          "date": "2026-08-26"
+          "title": "PGA투어 보너스 상금이 이정도였어? 스코티 셰플러, 김시우 선수가 ....",
+          "link": "https://blog.naver.com/jung-bjtv/224377560209",
+          "blogger": "JBJ GOLF&STOCK [Enjoy Your Life™]",
+          "date": "2026-08-13"
         },
         {
-          "title": "돌리 파튼(Dolly Parton) 향년 80세 별세, 컨트리 여왕이 남긴 마지막 이....",
-          "link": "https://blog.naver.com/sungbin3346/224390432343",
-          "blogger": "아랑이 집사의 OTT 다이어리",
-          "date": "2026-08-26"
+          "title": "세계 1위 스코티 셰플러는 왜 무너지지 않을까…아마추어가 배울 3....",
+          "link": "https://blog.naver.com/teeoffenter/224379039196",
+          "blogger": "Tee-off enter BLOG",
+          "date": "2026-08-15"
         },
         {
-          "title": "(영화 이야기) ‘돌리 파튼(Dolly Parton)’과 ‘나인 투 파이브(9 to 5)’....",
-          "link": "https://blog.naver.com/pessimo/224342219929",
-          "blogger": "엔터놀로지 ENTERNOLOGY",
-          "date": "2026-07-10"
+          "title": "2026 스코티셰플러 사용 골프채 총정리",
+          "link": "https://blog.naver.com/5805dydtn/224362622270",
+          "blogger": "곰프로와 함께하는 골프정보!",
+          "date": "2026-07-30"
         },
         {
-          "title": "영화음악 베스트",
-          "link": "https://allori.tistory.com/1137",
-          "blogger": "알지 못해도 언제나",
-          "date": "2023-03-25"
+          "title": "페덱스 세인트 주드 챔피언십 우승 스코티 셰플러 임성재 공동 2위",
+          "link": "https://blog.naver.com/no_myway/224380876638",
+          "blogger": "다른길은 없어요",
+          "date": "2026-08-17"
         }
       ],
       "topNews": [
         {
-          "title": "‘컨트리 여왕’ 돌리 파튼 별세…트럼프 대통령 “일주일간 조기 게양...",
-          "link": "https://www.mk.co.kr/article/12136369",
+          "title": "AP \"올해 김시우 활약은 셰플러 이어 2위...퍼트 좋아진 덕\"",
+          "link": "https://www.newspim.com/news/view/20260826000308",
           "press": "",
-          "date": "2026-08-25"
+          "date": "2026-08-26"
         },
         {
-          "title": "미국인이 사랑한 '컨트리 전설' 돌리 파튼 별세..향년 80세",
-          "link": "https://www.sportschosun.com/entertainment/2026-08-26/202608260100153070009801",
+          "title": "AP통신 \"김시우, 우승 없이도 최고의 한 해\"…퍼트 개선 주목",
+          "link": "http://www.yonhapnewstv.co.kr/news/AKR20260826093620Ft5",
           "press": "",
-          "date": "2026-08-25"
+          "date": "2026-08-26"
         },
         {
-          "title": "美 전역에 조기까지 내렸다…미국이 사랑한 '국민가수' 돌리 파튼 별세",
-          "link": "http://weekly.chosun.com/news/articleView.html?idxno=54652",
+          "title": "PGA PO 최종전 앞둔 김시우 향한 찬사…\"우승 없지만 최고의 해\"",
+          "link": "https://www.newsis.com/view/NISX20260826_0003762603",
           "press": "",
-          "date": "2026-08-25"
+          "date": "2026-08-26"
         },
         {
-          "title": "'美 컨트리 음악 여왕' 돌리 파튼 별세…향년 80세",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16173594",
+          "title": "“우승 없이도 커리어 하이”…AP통신, ‘상금 1000만 달러 대박’ 김시...",
+          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000006277&cp=nv",
           "press": "",
-          "date": "2026-08-25"
+          "date": "2026-08-26"
         },
         {
-          "title": "'컨트리 여왕' 돌리 파튼 별세…美전역 조기게양",
-          "link": "http://www.yonhapnewstv.co.kr/news/MYH20260826083809psk",
+          "title": "우승 없이 134억!…김시우 'PGA 인생 시즌'에 외신도 깜놀",
+          "link": "https://www.nocutnews.co.kr/news/6568089?utm_source=naver&utm_medium=article&utm_campaign=20260826091757",
           "press": "",
-          "date": "2026-08-25"
+          "date": "2026-08-26"
         }
       ],
       "rank": 8
     },
     {
+      "keyword": "yeouido",
+      "traffic": "500+",
+      "blogTotal": 2891,
+      "newsTotal": 12579,
+      "recentToday": 0,
+      "recentWeek": 33,
+      "topBlogs": [
+        {
+          "title": "Yeouido Investment Group 사기 사칭에 대한 주의사항과 대응 방법",
+          "link": "https://blog.naver.com/rfgistut/224384998362",
+          "blogger": "IN인체인지│누적시공 350 건 이상, 주거전문인테리어",
+          "date": "2026-08-20"
+        },
+        {
+          "title": "Yeouido Investment Group 사기 사칭 피해 예방과 대응 방법",
+          "link": "https://blog.naver.com/tarqrnvko/224384274845",
+          "blogger": "급하고 강한 바람처럼...",
+          "date": "2026-08-20"
+        },
+        {
+          "title": "평안교회(平安敎會, 1967) : 서울 중구 순화동 대한예수교장로회 소속....",
+          "link": "https://sfeelbug.tistory.com/8613222",
+          "blogger": "https://sfeelbug.tistory.com/",
+          "date": "2017-09-17"
+        },
+        {
+          "title": "시티클럽(City Club) 이용실 : 제15대 대통령 헤어디자이너 - 여의도 국....",
+          "link": "https://sfeelbug.tistory.com/8612860",
+          "blogger": "https://sfeelbug.tistory.com/",
+          "date": "2017-02-21"
+        },
+        {
+          "title": "북악 스카이웨이 팔각정 / Bugak Skyway Palgakjeong Pavilion In Seoul city",
+          "link": "https://photoguide.com/253",
+          "blogger": "photoguide :: 포토가이드",
+          "date": "2014-12-20"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "Spurred by public outcry over Ha Young's ancestry, Korea once again recko...",
+          "link": "https://www.koreajoongangdaily.com/korea/spurred-by-public-outcry-over-ha-youngs-ancestry-korea-once-again-reckons-with-projapanese-collaborators-from-its-past/12842643",
+          "press": "",
+          "date": "2026-08-25"
+        },
+        {
+          "title": "대구대학교, ‘F&B 경영시뮬레이션 캠프’로 실무형 인재 양성 박차",
+          "link": "http://www.breaknews.com/1231359",
+          "press": "",
+          "date": "2026-08-25"
+        },
+        {
+          "title": "Seoul mayor slams push to shift redevelopment authority as ‘dangerous a...",
+          "link": "https://www.koreajoongangdaily.com/korea/seoul-mayor-slams-push-to-shift-redevelopment-authority-as-dangerous-armchair-policymaking/12842849",
+          "press": "",
+          "date": "2026-08-25"
+        },
+        {
+          "title": "Higher prices, falling stocks dent consumer sentiment",
+          "link": "https://www.koreatimes.co.kr/path/A2026082513460004692",
+          "press": "",
+          "date": "2026-08-25"
+        },
+        {
+          "title": "Seoul invites 500 dog families to walk the Han River at autumn festival",
+          "link": "https://www.koreatimes.co.kr/path/A2026082512110002352",
+          "press": "",
+          "date": "2026-08-25"
+        }
+      ],
+      "rank": 9
+    },
+    {
       "keyword": "서식 스 공작부 인 메건",
-      "traffic": "2000+",
+      "traffic": "5000+",
       "blogTotal": 1,
       "newsTotal": 0,
       "recentToday": 0,
@@ -602,79 +675,6 @@
         }
       ],
       "topNews": [],
-      "rank": 9
-    },
-    {
-      "keyword": "트렌드",
-      "traffic": "200+",
-      "blogTotal": 2260697,
-      "newsTotal": 4394856,
-      "recentToday": 0,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "2026 남자 헤어 트렌드, 손질 5분 컷 시스루 댄디부터 드롭컷까지",
-          "link": "https://blog.naver.com/bodabstore/224372543275",
-          "blogger": "지혜의식 | 오늘의 취향, 오늘의 라이프",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "2026년 FW 패션 트렌드",
-          "link": "https://blog.naver.com/jayuyu/224356501615",
-          "blogger": "제인 블로그",
-          "date": "2026-07-24"
-        },
-        {
-          "title": "주우재가 바라보는 2026 FW 하반기 패션 트렌드",
-          "link": "https://blog.naver.com/sad619/224350501103",
-          "blogger": "정루크 패션블로그",
-          "date": "2026-07-18"
-        },
-        {
-          "title": "마시모두띠 & 자라 가을 신상 엿보기 + 올가을 패션 트렌드 예측",
-          "link": "https://blog.naver.com/chaenniey/224381136189",
-          "blogger": "Shoppinglog",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "신혼부부 주방 타일 인테리어 트렌드와 시공 팁",
-          "link": "https://blog.naver.com/masamiya/224375635204",
-          "blogger": "좋은날❤",
-          "date": "2026-08-18"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "\"피지컬 AI, 선제적 대규모 투자 필요\"…에이티넘·산은, 유망 스타트업...",
-          "link": "https://www.m-i.kr/news/articleView.html?idxno=1406034",
-          "press": "",
-          "date": "2026-08-25"
-        },
-        {
-          "title": "“MD 발품 끝났다”… 롯데百, ‘감’ 대신 ‘AI 데이터’로 트렌드 낚...",
-          "link": "https://www.dt.co.kr/article/12080240?ref=naver",
-          "press": "",
-          "date": "2026-08-25"
-        },
-        {
-          "title": "제네시스 'GV90' 공개에 외신 호평…\"꿈을 현실로 만들 준비 마쳐\"",
-          "link": "http://www.econonews.co.kr/news/articleView.html?idxno=443340",
-          "press": "",
-          "date": "2026-08-25"
-        },
-        {
-          "title": "“롤스로이스·벤틀리 잡는다”…제네시스 GV90 글로벌 매체 호평이 이...",
-          "link": "https://sports.donga.com/economy/article/all/20260826/134544846/1",
-          "press": "",
-          "date": "2026-08-25"
-        },
-        {
-          "title": "4000개 브랜드 AI가 분석한다…롯데百, MD 전략도 'AI로'",
-          "link": "https://www.edaily.co.kr/News/Read?newsId=02673206645551256&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-          "press": "",
-          "date": "2026-08-25"
-        }
-      ],
       "rank": 10
     }
   ]
