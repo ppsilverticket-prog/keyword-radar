@@ -1,735 +1,125 @@
 {
-  "updatedAt": "2026-08-29T17:30:58.482Z",
+  "updatedAt": "2026-08-29T20:25:05.297Z",
   "source": "live",
   "keywords": [
     {
-      "keyword": "제주특별자치도",
-      "traffic": "500+",
-      "blogTotal": 246692,
-      "newsTotal": 552375,
-      "recentToday": 84,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "제주도 조천읍 함덕리 제라진밥상 한식뷔페",
-          "link": "https://lovedom.tistory.com/2617",
-          "blogger": "Love dom",
-          "date": "2024-01-27"
-        },
-        {
-          "title": "제주도 남원읍 위미리 바가텔",
-          "link": "https://lovedom.tistory.com/2759",
-          "blogger": "Love dom",
-          "date": "2025-06-17"
-        },
-        {
-          "title": "제주 왁싱 제주시 리본테라피 남자 팔다리 왁싱 가격",
-          "link": "https://jjyface.tistory.com/1306",
-          "blogger": "설이오빠 : 제주 여행 맛집 전문 블로그",
-          "date": "2025-05-07"
-        },
-        {
-          "title": "제주 혼술바 제주시 이자카야 술집 가치 은갈치 후라이",
-          "link": "https://jjyface.tistory.com/1416",
-          "blogger": "설이오빠 : 제주 여행 맛집 전문 블로그",
-          "date": "2025-11-03"
-        },
-        {
-          "title": "제주시 가볼만한곳 제주 민오름 한라산 보이는 산책로",
-          "link": "https://jjyface.tistory.com/1227",
-          "blogger": "설이오빠 : 제주 여행 맛집 전문 블로그",
-          "date": "2024-11-27"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "[여행산업 HOT 뉴스] \"제주서 두 달 동안 펼쳐지는 '장벽 없는 여행'\"…...",
-          "link": "http://www.bizwnews.com/news/articleView.html?idxno=144622",
-          "press": "",
-          "date": "2026-08-29"
-        },
-        {
-          "title": "강동훈 제주관광협회장, 관광객 기다리지 않고 찾아갔다...전국 5개 도시...",
-          "link": "https://www.ajunews.com/view/20260829235618378",
-          "press": "",
-          "date": "2026-08-29"
-        },
-        {
-          "title": "1239회 로또 1·2등 동시 배출 명당… 1등 13곳·2등 66곳 주소 총정리",
-          "link": "https://www.econovill.com/news/articleView.html?idxno=749282",
-          "press": "",
-          "date": "2026-08-29"
-        },
-        {
-          "title": "로또 당첨번호 조회 1239회",
-          "link": "https://www.bntnews.co.kr/article/view/bnt202608290174",
-          "press": "",
-          "date": "2026-08-29"
-        },
-        {
-          "title": "누리호 5차 발사에 제2우주센터 입지 결정까지…10월, 고흥군 우주산업...",
-          "link": "https://www.geconomy.co.kr/news/article.html?no=323155",
-          "press": "",
-          "date": "2026-08-29"
-        }
-      ],
+      "keyword": "유벤투스 대 파르마",
+      "traffic": "100+",
+      "blogTotal": 0,
+      "newsTotal": 0,
+      "recentToday": 0,
+      "recentWeek": 0,
+      "topBlogs": [],
+      "topNews": [],
+      "error": "fetch failed",
       "rank": 1
     },
     {
-      "keyword": "황석정",
-      "traffic": "100+",
-      "blogTotal": 5622,
-      "newsTotal": 31141,
-      "recentToday": 55,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "181031 베르나르다 알바 :: come closer",
-          "link": "https://jjampunks.tistory.com/550",
-          "blogger": "come closer :: come closer",
-          "date": "2018-11-01"
-        },
-        {
-          "title": "직장인 코칭 | 서울대학교 입시 합격 출신 연예인 누가 있을까",
-          "link": "https://waterpark.tistory.com/598",
-          "blogger": "직장인 코칭 | 직장인 코칭",
-          "date": "2021-10-30"
-        },
-        {
-          "title": "20240703 연극 일리아드 커튼콜",
-          "link": "https://alljey.tistory.com/1003",
-          "blogger": "All's Space",
-          "date": "2024-07-05"
-        },
-        {
-          "title": "HOT TOPIC 100 - 2015년 18주차",
-          "link": "https://mygooddata.tistory.com/30",
-          "blogger": "mygooddata 님의 블로그",
-          "date": "2015-05-15"
-        },
-        {
-          "title": "라디오스타 방영정보 / 게스트 / MC / 출연정보 총정리(2019년 ~ 2021년)",
-          "link": "https://trend-search.tistory.com/666",
-          "blogger": "https://trend-search.tistory.com/",
-          "date": "2024-03-07"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "전원주는 대박났는데…임현식 \"25만원에 손절한 주식, 270만원 됐다\" (데...",
-          "link": "https://www.xportsnews.com/article/2189713",
-          "press": "",
-          "date": "2026-08-29"
-        },
-        {
-          "title": "황석정 \"3살 때부터 母만 보면 경기.. 돈 못 버는 아버지 향한 분노 내게...",
-          "link": "https://www.tvreport.co.kr/broadcast/article/1072001/",
-          "press": "",
-          "date": "2026-08-29"
-        },
-        {
-          "title": "“40년간 대화 NO”… ‘서울대’ 황석정, 교육열 뛰어났던 母 갈등 토로...",
-          "link": "https://www.mk.co.kr/article/12139580",
-          "press": "",
-          "date": "2026-08-29"
-        },
-        {
-          "title": "81세 임현식, 건강 이상설에 입 열었다 \"스텐트 시술 받아\"",
-          "link": "https://www.newsis.com/view/NISX20260829_0003768050",
-          "press": "",
-          "date": "2026-08-29"
-        },
-        {
-          "title": "임현식, '건강 이상설' 직접 언급 \"스텐트 시술 받고 8kg 빠져..지금도 ...",
-          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1004671",
-          "press": "",
-          "date": "2026-08-29"
-        }
-      ],
+      "keyword": "세비야 대 아틀레티코",
+      "traffic": "5000+",
+      "blogTotal": 0,
+      "newsTotal": 0,
+      "recentToday": 0,
+      "recentWeek": 0,
+      "topBlogs": [],
+      "topNews": [],
+      "error": "fetch failed",
       "rank": 2
     },
     {
-      "keyword": "로또 당첨지역",
-      "traffic": "200+",
-      "blogTotal": 16588,
-      "newsTotal": 38362,
-      "recentToday": 46,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "로또당첨지역 낙서판 - NO.1 재테크포탈 MONETA",
-          "link": "http://blog.moneta.co.kr/blog.log.view.screen?blogId=wlod31fa&logId=6555889",
-          "blogger": "http://blog.moneta.co.kr/",
-          "date": "2012-09-04"
-        },
-        {
-          "title": "1014회 로또 당첨번호 및 로또 당첨지역(바로보기)",
-          "link": "https://doraemone.tistory.com/451",
-          "blogger": "현명한 인생을 위한 helper",
-          "date": "2022-05-07"
-        },
-        {
-          "title": "1001회 로또 당첨 번호 로또 당첨 지역 확인하기",
-          "link": "https://doraemone.tistory.com/382",
-          "blogger": "현명한 인생을 위한 helper",
-          "date": "2022-02-06"
-        },
-        {
-          "title": "983회 로또 당첨 번호 로또 당첨 지역 1등,2등 판매점",
-          "link": "https://doraemone.tistory.com/241",
-          "blogger": "현명한 인생을 위한 helper",
-          "date": "2021-10-03"
-        },
-        {
-          "title": "979회 로또 당첨 번호 로또 당첨 지역",
-          "link": "https://doraemone.tistory.com/205",
-          "blogger": "현명한 인생을 위한 helper",
-          "date": "2021-09-04"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "1239회 로또 1등 당첨번호 '11·13·22·32·33·36'번…1등 당첨지역 어디...",
-          "link": "https://www.dailian.co.kr/news/view/1684073/?sc=Naver",
-          "press": "",
-          "date": "2026-08-29"
-        },
-        {
-          "title": "로또 당첨번호 조회 1239회",
-          "link": "https://www.bntnews.co.kr/article/view/bnt202608290174",
-          "press": "",
-          "date": "2026-08-29"
-        },
-        {
-          "title": "1239회 로또 1등 당첨자 13명, 각 22억씩…'자동 명당' 알아보니",
-          "link": "https://www.wikitree.co.kr/articles/1155870",
-          "press": "",
-          "date": "2026-08-29"
-        },
-        {
-          "title": "로또 1239회 1등당첨번호조회 공식발표",
-          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3678616",
-          "press": "",
-          "date": "2026-08-29"
-        },
-        {
-          "title": "1239회 로또, 전남광주 서구·목포에서 ‘30억 9096만원’",
-          "link": "http://www.kwangju.co.kr/article.php?aid=1788006720802783339",
-          "press": "",
-          "date": "2026-08-29"
-        }
-      ],
+      "keyword": "한반도",
+      "traffic": "500+",
+      "blogTotal": 0,
+      "newsTotal": 0,
+      "recentToday": 0,
+      "recentWeek": 0,
+      "topBlogs": [],
+      "topNews": [],
+      "error": "fetch failed",
       "rank": 3
     },
     {
-      "keyword": "김진욱",
+      "keyword": "pl",
       "traffic": "200+",
-      "blogTotal": 15820,
-      "newsTotal": 125051,
-      "recentToday": 30,
-      "recentWeek": 90,
-      "topBlogs": [
-        {
-          "title": "강릉협동사회경제네트워크 정책기획위원회_2016.04.12",
-          "link": "https://gnsenet.kr/166",
-          "blogger": "강릉협동사회경제네트워크 사회적협동조합",
-          "date": "2016-04-12"
-        },
-        {
-          "title": "주간아이돌...살펴보기(출연진등..) NO.95",
-          "link": "https://soso789.tistory.com/153",
-          "blogger": "슬기로운 TV탐구생활",
-          "date": "2021-03-14"
-        },
-        {
-          "title": "불세출 - 장단",
-          "link": "https://kmlee361.tistory.com/13344725",
-          "blogger": "밤나무 숲",
-          "date": "2024-12-09"
-        },
-        {
-          "title": "[알라딘서재]2010 독서계획- 고전 한번제대로 읽어볼까",
-          "link": "https://blog.aladin.co.kr/764161113/3426311",
-          "blogger": "https://blog.aladin.co.kr/",
-          "date": "2010-02-18"
-        },
-        {
-          "title": "[알라딘서재][100자평] 아쿠타가와 작품선",
-          "link": "https://blog.aladin.co.kr/765255163/5804523",
-          "blogger": "https://blog.aladin.co.kr/",
-          "date": "2012-08-21"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "'끝내기 만루포→8실점→7실점' 롯데 마운드 대체 왜 이러나... 믿었던 ...",
-          "link": "https://www.starnewskorea.com/sports/2026/08/30/2026082912450370632",
-          "press": "",
-          "date": "2026-08-29"
-        },
-        {
-          "title": "170㎞ 총알 타구가 승부 갈랐다! '3안타 폭발' LG 송찬의 뜻밖의 비결 밝...",
-          "link": "https://www.starnewskorea.com/sports/2026/08/30/2026082922540755460",
-          "press": "",
-          "date": "2026-08-29"
-        },
-        {
-          "title": "스트라이크 안 던지나 못 던지나? 롯데 밀어내기로 3점이나 주다니",
-          "link": "https://www.sportschosun.com/baseball/2026-08-29/202608290100176530011447",
-          "press": "",
-          "date": "2026-08-29"
-        },
-        {
-          "title": "9일 만에 뒤집힌 선두…삼성, KT 꺾고 1위 탈환",
-          "link": "https://www.edaily.co.kr/News/Read?newsId=02686326645552240&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-          "press": "",
-          "date": "2026-08-29"
-        },
-        {
-          "title": "정부, 네팔 현지 한국인 수색 본격 개시...'초유의 재제청' 정치권 공방",
-          "link": "https://www.ytn.co.kr/_ln/0101_202608292305154967",
-          "press": "",
-          "date": "2026-08-29"
-        }
-      ],
+      "blogTotal": 0,
+      "newsTotal": 0,
+      "recentToday": 0,
+      "recentWeek": 0,
+      "topBlogs": [],
+      "topNews": [],
+      "error": "fetch failed",
       "rank": 4
     },
     {
-      "keyword": "인플루언서",
-      "traffic": "500+",
-      "blogTotal": 1428323,
-      "newsTotal": 433434,
-      "recentToday": 14,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "츄정/아프리카tv/유튜버/인플루언서/인스타/스튜어디스st (4) - 짤방....",
-          "link": "https://kokisajuseyo.tistory.com/1347",
-          "blogger": "짤방방공호 - 짤방방공호",
-          "date": "2022-01-05"
-        },
-        {
-          "title": "인스타그램 인기 인플루언서 #3 이서아",
-          "link": "https://kkong1003.tistory.com/310",
-          "blogger": "행복더하기",
-          "date": "2019-09-05"
-        },
-        {
-          "title": "물놀이 즐기는 엄청난 매력의 인플루언서 02",
-          "link": "https://gori7544.tistory.com/1432",
-          "blogger": "프렌즈",
-          "date": "2023-05-17"
-        },
-        {
-          "title": "물놀이 즐기는 엄청난 매력의 인플루언서 03",
-          "link": "https://gori7544.tistory.com/1433",
-          "blogger": "프렌즈",
-          "date": "2023-05-17"
-        },
-        {
-          "title": "일본 레코드 대상, 노기자카46 「인플루언서(インフルエンサー)」가....",
-          "link": "https://anigamenews.tistory.com/10628",
-          "blogger": "애니나겜이나",
-          "date": "2017-12-30"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "20불 스무디의 에레혼, 벤투라카운티 첫 진출",
-          "link": "https://www.koreadaily.com/article/20260829090004145",
-          "press": "",
-          "date": "2026-08-29"
-        },
-        {
-          "title": "[서병기의 문화인사이트]박위, 순식간의 이미지 하락에서 살펴볼 점",
-          "link": "http://www.inews24.com/view/1999659",
-          "press": "",
-          "date": "2026-08-29"
-        },
-        {
-          "title": "“꾸준히 챙겨 먹으니, 8주 만에 9kg 빠졌다”… 무슨 음식?",
-          "link": "https://health.chosun.com/site/data/html_dir/2026/08/28/2026082802074.html",
-          "press": "",
-          "date": "2026-08-29"
-        },
-        {
-          "title": "카퍼이누 개발자, 토큰 40% 인플루언서 지갑 이전 관측",
-          "link": "https://www.tokenpost.kr/news/breaking/400383",
-          "press": "",
-          "date": "2026-08-29"
-        },
-        {
-          "title": "41kg 최준희, ‘먹뱉’ 논란에 결국 라이브 먹방⋯무슨 일?",
-          "link": "https://kormedi.com/?p=2853787",
-          "press": "",
-          "date": "2026-08-29"
-        }
-      ],
+      "keyword": "fotmob",
+      "traffic": "100+",
+      "blogTotal": 0,
+      "newsTotal": 0,
+      "recentToday": 0,
+      "recentWeek": 0,
+      "topBlogs": [],
+      "topNews": [],
+      "error": "fetch failed",
       "rank": 5
     },
     {
-      "keyword": "꽃파당",
-      "traffic": "200+",
-      "blogTotal": 10723,
-      "newsTotal": 10961,
-      "recentToday": 5,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "정지윤 프로필 :: 보물상자",
-          "link": "https://diy10004.tistory.com/5455",
-          "blogger": "보물상자 :: 보물상자",
-          "date": "2021-04-30"
-        },
-        {
-          "title": "Peakboy (픽보이)-애매해 (MMM)《가사/듣기》 :: 난, 다몰라",
-          "link": "https://fa4563.tistory.com/2304",
-          "blogger": "난, 다몰라",
-          "date": "2019-11-05"
-        },
-        {
-          "title": "나의 흑역사 오답노트 박성훈 전소민",
-          "link": "https://twoa-d.tistory.com/193",
-          "blogger": "ever after",
-          "date": "2020-09-07"
-        },
-        {
-          "title": "배우 이고은 나이 아역 프로필 고향 소속사 인스타",
-          "link": "https://gooday5882.tistory.com/990",
-          "blogger": "좋은소식",
-          "date": "2024-05-05"
-        },
-        {
-          "title": "배우 김민재 프로필 및 필모그래피/작품활동 - 나이, 생일, 키, 학력,....",
-          "link": "https://movielupe.tistory.com/759",
-          "blogger": "LUPE",
-          "date": "2025-01-02"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "[퇴근길이슈] 민경훈 아는형님·JTBC 회생 절차·김수현 시상식·네팔 타...",
-          "link": "http://www.joynews24.com/view/1999591",
-          "press": "",
-          "date": "2026-08-28"
-        },
-        {
-          "title": "'회생절차' JTBC \"편성된 드라마·예능 변동 없다\"",
-          "link": "http://www.joynews24.com/view/1999378",
-          "press": "",
-          "date": "2026-08-28"
-        },
-        {
-          "title": "“코리아드라마어워즈” 변우석 4개 부문 1위 싹쓸이…아이유와 커플상...",
-          "link": "https://www.wikitree.co.kr/articles/1155492",
-          "press": "",
-          "date": "2026-08-27"
-        },
-        {
-          "title": "“꽃파당” 창고서 꺼냈더니 통했다…재정난 JTBC 구한 7년 전 구작의 반...",
-          "link": "https://www.wikitree.co.kr/articles/1155475",
-          "press": "",
-          "date": "2026-08-27"
-        },
-        {
-          "title": "JTBC 살길 열렸다…재정난 속 '재편성' 도박→종편 '1위' 찍고 민심 뒤집...",
-          "link": "https://www.tvreport.co.kr/breaking/article/1071448/",
-          "press": "",
-          "date": "2026-08-26"
-        }
-      ],
+      "keyword": "헐크",
+      "traffic": "100+",
+      "blogTotal": 0,
+      "newsTotal": 0,
+      "recentToday": 0,
+      "recentWeek": 0,
+      "topBlogs": [],
+      "topNews": [],
+      "error": "fetch failed",
       "rank": 6
     },
     {
-      "keyword": "더중앙플러스",
-      "traffic": "1000+",
-      "blogTotal": 2089,
-      "newsTotal": 84517,
-      "recentToday": 3,
-      "recentWeek": 12,
-      "topBlogs": [
-        {
-          "title": "[알라딘서재]✒️ 둘레길 걷는 시간보다 수다떠는 시간이 더 긴 모......",
-          "link": "https://blog.aladin.co.kr/741206186/16572337",
-          "blogger": "https://blog.aladin.co.kr/",
-          "date": "2025-07-05"
-        },
-        {
-          "title": "Q. 씨유플러스상조 회원인데 여디서 전화가 와서 180만원만 더 내면 3....",
-          "link": "https://sangjocc.tistory.com/2034",
-          "blogger": "상조이야기 ; 안전한 후불상조를 이용하세요",
-          "date": "2025-11-06"
-        },
-        {
-          "title": "[알라딘서재]20",
-          "link": "https://blog.aladin.co.kr/724818203/10399320",
-          "blogger": "https://blog.aladin.co.kr/",
-          "date": "2018-10-14"
-        },
-        {
-          "title": "[알라딘서재]자기계발",
-          "link": "https://blog.aladin.co.kr/742726173/7524775",
-          "blogger": "https://blog.aladin.co.kr/",
-          "date": "2015-05-08"
-        },
-        {
-          "title": "[알라딘서재]좋은부모_신간_0908",
-          "link": "https://blog.aladin.co.kr/717975182/8753057",
-          "blogger": "https://blog.aladin.co.kr/",
-          "date": "2016-09-08"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "[인터뷰] 김홍열 군수 \"지천댐 찬반보다 주민 갈등 해소가 먼저, 청양군...",
-          "link": "http://www.newsprime.co.kr/news/article.html?no=745657",
-          "press": "",
-          "date": "2026-08-29"
-        },
-        {
-          "title": "A 받았는데 수능 4등급? 중1 첫 성적표서 볼 ‘세 숫자’ [중등 전략 대...",
-          "link": "https://www.joongang.co.kr/article/25457240",
-          "press": "",
-          "date": "2026-08-28"
-        },
-        {
-          "title": "[전시] 오승언 개인전 《조금이라도, 찰나라도, 더》",
-          "link": "https://www.goodmorningcc.com/news/articleView.html?idxno=451398",
-          "press": "",
-          "date": "2026-08-28"
-        },
-        {
-          "title": "[미스터리경제]'무려 240억 원?' 포켓몬 카드 한 장이 이렇게까지 비싸...",
-          "link": "https://news.tf.co.kr/read/video/2359353.htm",
-          "press": "",
-          "date": "2026-08-28"
-        },
-        {
-          "title": "배우 이정현, '숨바꼭질2' 스토리텔러로 제로베이스원 만난다",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16176545",
-          "press": "",
-          "date": "2026-08-28"
-        }
-      ],
+      "keyword": "빙하 붕괴",
+      "traffic": "5000+",
+      "blogTotal": 0,
+      "newsTotal": 0,
+      "recentToday": 0,
+      "recentWeek": 0,
+      "topBlogs": [],
+      "topNews": [],
+      "error": "fetch failed",
       "rank": 7
     },
     {
-      "keyword": "bournemouth vs everton",
-      "traffic": "100+",
-      "blogTotal": 11,
-      "newsTotal": 76,
-      "recentToday": 1,
-      "recentWeek": 1,
-      "topBlogs": [
-        {
-          "title": "프리미어리그｜프리뷰",
-          "link": "https://blog.naver.com/nana2325/222840706582",
-          "blogger": "Once A Gooner Always A Gooner",
-          "date": "2022-08-05"
-        },
-        {
-          "title": "EPL 프리미어리그 19/20 우리가 미처 알지 못했던 흥미로운 사실들?",
-          "link": "https://the-regista.tistory.com/3",
-          "blogger": "더 레지스타",
-          "date": "2020-04-13"
-        },
-        {
-          "title": "[Squawka] 프리미어리그에서 가장 찬스를 못살린 공격수들",
-          "link": "https://lifetechnicolor.tistory.com/3306",
-          "blogger": "유럽축구 이적시장 뉴스",
-          "date": "2018-08-25"
-        },
-        {
-          "title": "[프리미어리그 번역] <토트넘 vs 에버튼> - 휴고 요리스 경기 후 인터....",
-          "link": "https://blog.naver.com/to_sy86/222024890248",
-          "blogger": "언어의 숲",
-          "date": "2020-07-08"
-        },
-        {
-          "title": "[League] England _ English Premier League's Club _ Emblem/Crest",
-          "link": "https://urbany.tistory.com/246",
-          "blogger": "내멋대로 하는 아일랜드",
-          "date": "2013-01-30"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "USA SOCCER",
-          "link": "https://n.news.naver.com/mnews/article/091/0009961645?sid=104",
-          "press": "",
-          "date": "2025-07-26"
-        },
-        {
-          "title": "USA SOCCER",
-          "link": "https://n.news.naver.com/mnews/article/091/0009961644?sid=104",
-          "press": "",
-          "date": "2025-07-26"
-        },
-        {
-          "title": "[오피셜] FA컵 64강 대진 확정…아스널vs뉴캐슬-마린vs토트넘",
-          "link": "http://www.stnsports.co.kr/news/articleView.html?idxno=127972",
-          "press": "",
-          "date": "2020-12-01"
-        },
-        {
-          "title": "BRITAIN SOCCER ENGLISH PREMIER LEAGUE",
-          "link": "https://n.news.naver.com/mnews/article/091/0008142127?sid=104",
-          "press": "",
-          "date": "2020-07-26"
-        },
-        {
-          "title": "BRITAIN SOCCER ENGLISH PREMIER LEAGUE",
-          "link": "https://n.news.naver.com/mnews/article/091/0008142094?sid=104",
-          "press": "",
-          "date": "2020-07-26"
-        }
-      ],
+      "keyword": "해외축구",
+      "traffic": "2000+",
+      "blogTotal": 0,
+      "newsTotal": 0,
+      "recentToday": 0,
+      "recentWeek": 0,
+      "topBlogs": [],
+      "topNews": [],
+      "error": "fetch failed",
       "rank": 8
     },
     {
-      "keyword": "나마디 조엘 진",
-      "traffic": "200+",
-      "blogTotal": 340,
-      "newsTotal": 2697,
-      "recentToday": 1,
-      "recentWeek": 3,
-      "topBlogs": [
-        {
-          "title": "KB국민은행, 캄보디아 심장병 환아 의료 지원",
-          "link": "https://sl-20007.tistory.com/5368",
-          "blogger": "서울일보 공식블로그",
-          "date": "2025-09-18"
-        },
-        {
-          "title": "계주 첫 금메달 주역의 \"반전 이력\" 태양의 후예 출연자였다고? 조엘....",
-          "link": "https://blog.naver.com/lhswind2/223952306382",
-          "blogger": "우수아빠의 인생은",
-          "date": "2025-07-30"
-        },
-        {
-          "title": "부산 전국체전 성황리에 종료! 내 고향, 거주지의 순위는?",
-          "link": "https://blog.naver.com/ckablog/224051866026",
-          "blogger": "참블록 스포츠로그",
-          "date": "2025-10-24"
-        },
-        {
-          "title": "역사적인 순간! 한국 남자 400m 계주, 하계 U대회 사상 첫 우승 쾌거!",
-          "link": "https://blog.naver.com/dnfls231/223950005351",
-          "blogger": "우리 뜨개방 /뜨개와 일상",
-          "date": "2025-07-28"
-        },
-        {
-          "title": "조엘진 부모 국적 등 태양의 후예 아역배우에서서 국가대표가 된 소....",
-          "link": "https://blog.naver.com/doctortales/223991538812",
-          "blogger": "BEAU PEAK ㅣ 뷰티로그",
-          "date": "2025-09-01"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "나란히 10초13…조엘진·비웨사, '마의 10초' 벽 넘는다",
-          "link": "https://www.sisajournal.com/news/articleView.html?idxno=384962",
-          "press": "",
-          "date": "2026-08-29"
-        },
-        {
-          "title": "\"불고기 먹고 한국 신기록 깬다\"...아시안게임 대표들이 반한 CJ '비비고...",
-          "link": "https://www.insight.co.kr/news/570752",
-          "press": "",
-          "date": "2026-08-29"
-        },
-        {
-          "title": "[유통·식음료] 오뚜기 저당잼 2종 / 이마트 5K프라이스 1주년 / CJ 국가...",
-          "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2282057",
-          "press": "",
-          "date": "2026-08-28"
-        },
-        {
-          "title": "아시안게임 앞둔 국가대표에 '밥심'···CJ제일제당, 특식 지원",
-          "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2464336",
-          "press": "",
-          "date": "2026-08-28"
-        },
-        {
-          "title": "CJ제일제당, 아시안게임 앞둔 국가대표 800명에 '비비고 밥심' 지원",
-          "link": "https://www.cstimes.com/news/articleView.html?idxno=718445",
-          "press": "",
-          "date": "2026-08-28"
-        }
-      ],
+      "keyword": "spurs vs newcastle",
+      "traffic": "500+",
+      "blogTotal": 0,
+      "newsTotal": 0,
+      "recentToday": 0,
+      "recentWeek": 0,
+      "topBlogs": [],
+      "topNews": [],
+      "error": "fetch failed",
       "rank": 9
     },
     {
-      "keyword": "토트넘 대 뉴캐슬",
-      "traffic": "10000+",
-      "blogTotal": 377,
-      "newsTotal": 6254,
+      "keyword": "오마르 마르무시",
+      "traffic": "500+",
+      "blogTotal": 0,
+      "newsTotal": 0,
       "recentToday": 0,
-      "recentWeek": 3,
-      "topBlogs": [
-        {
-          "title": "1. 12. 리버풀",
-          "link": "https://vieri.tistory.com/938",
-          "blogger": "Perspectivism",
-          "date": "2012-01-13"
-        },
-        {
-          "title": "EPL 프리미어리그 4라운드 맨유 VS 토트넘",
-          "link": "https://pk0025.tistory.com/1393",
-          "blogger": "온종일 스토리",
-          "date": "2020-10-02"
-        },
-        {
-          "title": "손흥민 무료중계 2021년9월11일 크리스탈 팰리스 FC 토트넘 홋스퍼 FC",
-          "link": "https://crow402.tistory.com/306",
-          "blogger": "crow",
-          "date": "2021-09-10"
-        },
-        {
-          "title": "류현진의 길 걷는 문동주, 소년 가장 벗어날까",
-          "link": "https://uir.kr/entry/%EB%A5%98%ED%98%84%EC%A7%84%EC%9D%98-%EA%B8%B8-%EA%B1%B7%EB%8A%94-%EB%AC%B8%EB%8F%99%EC%A3%BC-%EC%86%8C%EB%85%84-%EA%B0%80%EC%9E%A5-%EB%B2%97%EC%96%B4%EB%82%A0%EA%B9%8C",
-          "blogger": "뜸부기의 인생여행",
-          "date": "2023-11-29"
-        },
-        {
-          "title": "손흥민 유럽 축구 통산 토트넘 연봉 골 정리 2020-2021시즌 기록",
-          "link": "https://tol6560.tistory.com/310",
-          "blogger": "로마리우",
-          "date": "2021-05-04"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "'초대박!' 8500만 파운드 토트넘 '손흥민 후계자' 데뷔전 폭발…英 BBC '...",
-          "link": "https://www.sportschosun.com/football/2026-08-27/202608270100162860010479",
-          "press": "",
-          "date": "2026-08-27"
-        },
-        {
-          "title": "\"만수르 구단주님, 혹시 맨시티 해체하나요?\" 로드리 백업 MF 마저 뉴캐...",
-          "link": "https://www.sportschosun.com/football/2026-08-27/202608270100161630010380",
-          "press": "",
-          "date": "2026-08-26"
-        },
-        {
-          "title": "사비뉴, 데뷔전서 골·도움 동시에…토트넘, 찰턴 5-1 대파 견인",
-          "link": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=432907",
-          "press": "",
-          "date": "2026-08-26"
-        },
-        {
-          "title": "'비싼 이적생, 11분 만에 데뷔골' 개명한 사비우 1골-1도움 폭발! 토트넘...",
-          "link": "https://www.sportschosun.com/football/2026-08-27/202608270100161430010367",
-          "press": "",
-          "date": "2026-08-26"
-        },
-        {
-          "title": "[오피셜]'김민재, 굿바이' 토트넘 EPL 잔류 주인공 '임대생' 주앙 팔리냐...",
-          "link": "https://www.sportschosun.com/football/2026-08-26/202608270100160720010322",
-          "press": "",
-          "date": "2026-08-26"
-        }
-      ],
+      "recentWeek": 0,
+      "topBlogs": [],
+      "topNews": [],
+      "error": "fetch failed",
       "rank": 10
     }
   ]
