@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-05T19:19:03.598Z",
+  "updatedAt": "2026-09-05T21:29:02.195Z",
   "source": "live",
   "keywords": [
     {
       "keyword": "분데스리가",
       "traffic": "200+",
-      "blogTotal": 78776,
+      "blogTotal": 78779,
       "newsTotal": 244055,
-      "recentToday": 91,
+      "recentToday": 88,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -76,84 +76,11 @@
       "rank": 1
     },
     {
-      "keyword": "agi",
-      "traffic": "500+",
-      "blogTotal": 17886,
-      "newsTotal": 22005,
-      "recentToday": 88,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "[알라딘서재][100자평] AI 초강국의 조건",
-          "link": "https://blog.aladin.co.kr/788498189/16873737",
-          "blogger": "https://blog.aladin.co.kr/",
-          "date": "2025-11-13"
-        },
-        {
-          "title": "[알라딘서재][100자평] AI 초강국의 조건",
-          "link": "https://blog.aladin.co.kr/756308171/16869383",
-          "blogger": "https://blog.aladin.co.kr/",
-          "date": "2025-11-11"
-        },
-        {
-          "title": "KTemoc Konsiders : Eastern Secession (s)???",
-          "link": "http://ktemoc.blogspot.com/2024/01/eastern-secession-s.html",
-          "blogger": "KTemoc Konsiders ........",
-          "date": "2024-01-23"
-        },
-        {
-          "title": "[한국산림복지진흥원] 안전관리 채용 공고(~5/15)",
-          "link": "https://enjoymyhobbys.tistory.com/1646",
-          "blogger": "보건 안전 환경 분야 채용공고",
-          "date": "2023-05-12"
-        },
-        {
-          "title": "[알라딘서재]정기추가ㅓ",
-          "link": "https://blog.aladin.co.kr/779359136/16717039",
-          "blogger": "https://blog.aladin.co.kr/",
-          "date": "2025-09-03"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "GPT-6 아스트라, 깃허브 코파일럿엔 순조롭게 배포…챗GPT는 “엉망진창...",
-          "link": "https://www.wikitree.co.kr/articles/1157482",
-          "press": "",
-          "date": "2026-09-05"
-        },
-        {
-          "title": "“AGI 시대가 왔다”…인간 수준 AI, 정말 등장했나 [핫 IT(잇)슈]",
-          "link": "https://www.segye.com/newsView/20260904512760?OutUrl=naver",
-          "press": "",
-          "date": "2026-09-05"
-        },
-        {
-          "title": "How Scared Should We Be of A.I. Right Now?",
-          "link": "https://www.nytimes.com/2026/09/05/opinion/ai-silicon-valley.html?partner=naver",
-          "press": "",
-          "date": "2026-09-05"
-        },
-        {
-          "title": "오픈AI, GPT-6 아스트라 출시…AGI 성능 99.9% 찍었다",
-          "link": "https://www.sedaily.com/article/20087493?ref=naver",
-          "press": "",
-          "date": "2026-09-05"
-        },
-        {
-          "title": "美 반도체·에너지 기업 4곳, 한국에 2.8조 투자",
-          "link": "https://www.sedaily.com/article/20087495?ref=naver",
-          "press": "",
-          "date": "2026-09-05"
-        }
-      ],
-      "rank": 2
-    },
-    {
       "keyword": "석유",
-      "traffic": "200+",
-      "blogTotal": 353055,
-      "newsTotal": 2137968,
-      "recentToday": 85,
+      "traffic": "500+",
+      "blogTotal": 353064,
+      "newsTotal": 2137986,
+      "recentToday": 77,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -181,65 +108,65 @@
           "date": "2020-05-02"
         },
         {
-          "title": "[알라딘서재][100자평] 처음 공부하는 석유·가스 산업",
-          "link": "https://blog.aladin.co.kr/742162217/16088193",
+          "title": "[알라딘서재][100자평] 석유의 종말은 없다",
+          "link": "https://blog.aladin.co.kr/783588163/14235253",
           "blogger": "https://blog.aladin.co.kr/",
-          "date": "2024-12-21"
+          "date": "2023-01-02"
         }
       ],
       "topNews": [
         {
-          "title": "트럼프의 베네수엘라 유전 '국가 자본주의' 실험, 성공할까",
-          "link": "https://www.fnnews.com/news/202609060312416133",
+          "title": "석화재편 1년인데 정부 감축 목표량 미달…무임승차 방관 논란도",
+          "link": "https://www.yna.co.kr/view/AKR20260905021500003?input=1195m",
           "press": "",
           "date": "2026-09-05"
         },
         {
-          "title": "9월 초 수출누계 7천억달러 돌파…“올해 1조 달러 달성 전망”",
-          "link": "https://www.tfmedia.co.kr/news/article.html?no=207006",
+          "title": "“2척 노렸으니 3척 때린다”…美, 하르그섬 연안 이란 유조선 타격",
+          "link": "https://www.joongang.co.kr/article/25459383",
           "press": "",
           "date": "2026-09-05"
         },
         {
-          "title": "미, 이란 유조선 3척 공격...호르무즈 긴장 고조",
-          "link": "https://www.fnnews.com/news/202609060237297543",
+          "title": "[이란 전쟁] 호르무즈 교착상태를 '관리'하려는 미국 vs '돌파'하려는 이...",
+          "link": "http://www.wikileaks-kr.org/news/articleView.html?idxno=191690",
           "press": "",
           "date": "2026-09-05"
         },
         {
-          "title": "석유관리원, 지역사회 상생 · 나눔 방식 다각화",
-          "link": "https://www.todayenergy.kr/news/articleView.html?idxno=302550",
+          "title": "석유공사 자원개발 기능 사라지나…자원 안보 역행 지적",
+          "link": "https://www.yna.co.kr/view/AKR20260905038000003?input=1195m",
           "press": "",
           "date": "2026-09-05"
         },
         {
-          "title": "美 중부사령부 \"이란 유조선 3척 타격…운항 불능으로 만들어\"",
-          "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4433595",
+          "title": "경기지역 8월 소비자물가 3.2% 상승…휴대전화비·석유류 영향",
+          "link": "https://www.news1.kr/local/gyeonggi/6281137",
           "press": "",
           "date": "2026-09-05"
         }
       ],
-      "rank": 3
+      "rank": 2
     },
     {
       "keyword": "f1",
       "traffic": "500+",
-      "blogTotal": 188568,
-      "newsTotal": 137874,
-      "recentToday": 74,
+      "blogTotal": 188576,
+      "newsTotal": 137834,
+      "recentToday": 75,
       "recentWeek": 100,
       "topBlogs": [
-        {
-          "title": "LM270WQ1(SD)(F1) LED바 :: 모니터.LED-TV&모든PC&노트북&산업장비수리",
-          "link": "https://hjstcokr.tistory.com/15815502",
-          "blogger": "모니터.LED-TV&모든PC&노트북&산업장비수리 :: 모니터.LED-TV&모든PC&노트북&산업장비수리",
-          "date": "2023-05-06"
-        },
         {
           "title": "SOPWITH F1 - CAMEL",
           "link": "https://nexp.tistory.com/717",
           "blogger": "Engineer's LAB",
           "date": "2009-01-01"
+        },
+        {
+          "title": "LM270WQ1(SD)(F1) LED바 :: 모니터.LED-TV&모든PC&노트북&산업장비수리",
+          "link": "https://hjstcokr.tistory.com/15815502",
+          "blogger": "모니터.LED-TV&모든PC&노트북&산업장비수리 :: 모니터.LED-TV&모든PC&노트북&산업장비수리",
+          "date": "2023-05-06"
         },
         {
           "title": "[Python] 10. confusion matrix : precision,recall,f1,ROC",
@@ -254,10 +181,10 @@
           "date": "2020-12-02"
         },
         {
-          "title": "F1 25 스포츠 레이싱 PC 게임 (스팀 한글패치)",
-          "link": "https://blog.naver.com/strawons/224014931836",
-          "blogger": "마니꿀게임 종합게임정보",
-          "date": "2025-09-20"
+          "title": "F1 도심을 달리다~!! :: SmileMAX PhotoBlog",
+          "link": "https://photo.smilemax.co.kr/1400",
+          "blogger": "SmileMAX PhotoBlog :: SmileMAX PhotoBlog",
+          "date": "2012-10-07"
         }
       ],
       "topNews": [
@@ -292,7 +219,7 @@
           "date": "2026-09-05"
         }
       ],
-      "rank": 4
+      "rank": 3
     },
     {
       "keyword": "샬케 대 바이에른",
@@ -365,13 +292,13 @@
           "date": "2026-09-01"
         }
       ],
-      "rank": 5
+      "rank": 4
     },
     {
       "keyword": "실시간스포츠",
       "traffic": "100+",
       "blogTotal": 2324,
-      "newsTotal": 311081,
+      "newsTotal": 311082,
       "recentToday": 1,
       "recentWeek": 13,
       "topBlogs": [
@@ -394,10 +321,10 @@
           "date": "2023-10-22"
         },
         {
-          "title": "한화vs롯데 야구 중계 보는곳 스포츠 무료 인터넷중계",
-          "link": "https://woomsa.tistory.com/318",
-          "blogger": "움사",
-          "date": "2019-06-06"
+          "title": "kbs 실시간 TV 무료보기",
+          "link": "https://lucytm.tistory.com/373",
+          "blogger": "LUCY",
+          "date": "2023-04-18"
         },
         {
           "title": "SBS 온에어 실시간 TV 다시보기 무료채널",
@@ -407,6 +334,12 @@
         }
       ],
       "topNews": [
+        {
+          "title": "영암서 ‘전남광주GT’ 개최…에이핑크 공연·전 좌석 무료",
+          "link": "https://isplus.com/article/view/isp202609050028",
+          "press": "",
+          "date": "2026-09-05"
+        },
         {
           "title": "대우건설, '두정역 푸르지오 그랑피크' 분양…3.3㎡당 1485만원",
           "link": "https://www.apnews.kr/news/articleView.html?idxno=3051026",
@@ -430,15 +363,179 @@
           "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008739274&plink=ORI&cooper=NAVER",
           "press": "",
           "date": "2026-09-05"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "keyword": "아들",
+      "traffic": "2000+",
+      "blogTotal": 5437448,
+      "newsTotal": 4025537,
+      "recentToday": 0,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "[알라딘서재][100자평] 엄마 친구 아들이 다 잘해 3 (완결)",
+          "link": "https://blog.aladin.co.kr/721455128/16534938",
+          "blogger": "https://blog.aladin.co.kr/",
+          "date": "2025-06-20"
         },
         {
-          "title": "한류의 민들레 홀씨 태권도, 이제 '태권AI'로 전북에서 새로 시작하자",
-          "link": "https://www.dongponews.net/news/articleView.html?idxno=60332",
+          "title": "[알라딘서재]아들을 파멸로 몰아간 것은 잘못된 신념",
+          "link": "https://blog.aladin.co.kr/706350120/10875671",
+          "blogger": "https://blog.aladin.co.kr/",
+          "date": "2019-05-24"
+        },
+        {
+          "title": "[알라딘서재]재벌집 좀비 아들",
+          "link": "https://blog.aladin.co.kr/705484258/15895663",
+          "blogger": "https://blog.aladin.co.kr/",
+          "date": "2024-10-02"
+        },
+        {
+          "title": "[알라딘서재][100자평] 아들! 엄마 좀 나갔다 올게",
+          "link": "https://blog.aladin.co.kr/701321168/15606498",
+          "blogger": "https://blog.aladin.co.kr/",
+          "date": "2024-06-11"
+        },
+        {
+          "title": "[알라딘서재][마이리뷰] 아들과 아버지의 시간",
+          "link": "https://blog.aladin.co.kr/marasong/12003784",
+          "blogger": "https://blog.aladin.co.kr/",
+          "date": "2020-09-16"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "환희, 홍석천 스킨십에 당황→권은비 “나 말고 내 매니저만 관심” 폭...",
+          "link": "https://www.newsen.com/news_view.php?uid=202609060617432110",
+          "press": "",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "송창식, 부친 사망-모친 가출 후 2년간 노숙 “쎄시봉 밥 준대서 들어가...",
+          "link": "https://www.newsen.com/news_view.php?uid=202609060344196110",
+          "press": "",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "‘포핸즈’ 윤세아, 송강 위해 김주헌 유혹 키스 무서운 엄마 [결정적장...",
+          "link": "https://www.newsen.com/news_view.php?uid=202609060531491710",
+          "press": "",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "“7년 전 송강 찍어 눌러” 이준영 정체알고 윤세아 분노 (포핸즈)[결정...",
+          "link": "https://www.newsen.com/news_view.php?uid=202609060530521710",
+          "press": "",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "백일섭, 수술 4회+응급실 가도 “졸혼 더 빨리할걸, 집 나와 맑아져” ...",
+          "link": "https://www.newsen.com/news_view.php?uid=202609060601241710",
           "press": "",
           "date": "2026-09-05"
         }
       ],
       "rank": 6
+    },
+    {
+      "keyword": "샤오 미",
+      "traffic": "500+",
+      "blogTotal": 505,
+      "newsTotal": 1084,
+      "recentToday": 0,
+      "recentWeek": 0,
+      "topBlogs": [
+        {
+          "title": "风中的承诺(펑쭝더청눠, 바람 속의 약속) - 李翊君(리이쥔)",
+          "link": "https://hsjin85.tistory.com/7616",
+          "blogger": "https://hsjin85.tistory.com/",
+          "date": "2024-12-03"
+        },
+        {
+          "title": "蜀道向天开(슈따오썅턘카이, 촉도로 가는 길 하늘을 향해 열렸네) - ....",
+          "link": "https://hsjin85.tistory.com/7861",
+          "blogger": "https://hsjin85.tistory.com/",
+          "date": "2025-06-05"
+        },
+        {
+          "title": "夜雾下的姑娘(예우쌰더꾸니앙, 밤안개 속의 아가씨) - 邓丽君(떵리....",
+          "link": "https://hsjin85.tistory.com/7894",
+          "blogger": "https://hsjin85.tistory.com/",
+          "date": "2025-06-23"
+        },
+        {
+          "title": "[알라딘서재]만화.202101.마냐",
+          "link": "https://blog.aladin.co.kr/767205173/12401700",
+          "blogger": "https://blog.aladin.co.kr/",
+          "date": "2021-02-18"
+        },
+        {
+          "title": "ONE OK ROCK: Stand Out Fit In [듣기/가사]",
+          "link": "https://601135.tistory.com/756",
+          "blogger": "샤오 아지트",
+          "date": "2020-12-31"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "美 30년물 국채금리 5%대 고공행진…2006년 이후 최장기",
+          "link": "https://biz.heraldcorp.com/article/10859047?ref=naver",
+          "press": "",
+          "date": "2026-09-01"
+        },
+        {
+          "title": "30년물 미 국채금리 5%대 고공행진…2006년 이후 최장기",
+          "link": "https://www.yna.co.kr/view/AKR20260901142000009?input=1195m",
+          "press": "",
+          "date": "2026-09-01"
+        },
+        {
+          "title": "‘탕웨이도 드러냈는데~’ 겨드랑이 털 염색하는 中 여성들 왜? [차이나...",
+          "link": "https://biz.heraldcorp.com/article/10850296?ref=naver",
+          "press": "",
+          "date": "2026-08-24"
+        },
+        {
+          "title": "“칭찬 덕에 외모 자신감 생겼다”…중국서 인기라는 ‘겨털 염색’, 경...",
+          "link": "https://www.mk.co.kr/article/12133763",
+          "press": "",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "[부산 전시] 이번주에뭐볼까 [2026년 8월 15일~ ]",
+          "link": "https://www.busan.com/view/busan/view.php?code=2026080302062641040",
+          "press": "",
+          "date": "2026-08-16"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "keyword": "athletic bilbao vs atlético madrid standings",
+      "traffic": "100+",
+      "blogTotal": 0,
+      "newsTotal": 0,
+      "recentToday": 0,
+      "recentWeek": 0,
+      "topBlogs": [
+        {
+          "title": "라리가 2025-26: 4라운드 경기 결과 예측 심층 분석 보고서  -2025년 9월1....",
+          "link": "https://blog.naver.com/camelpro/224006679149",
+          "blogger": "세상을 놓고 맘껏 즐겨라!",
+          "date": "2025-09-13"
+        },
+        {
+          "title": "우루과이의 핵심들은 왜 스페인에서 뛸까? 스페인 vs 우루과이, 비엘....",
+          "link": "https://blog.naver.com/dbdefault/224319036942",
+          "blogger": "JnsJoons",
+          "date": "2026-06-17"
+        }
+      ],
+      "topNews": [],
+      "rank": 8
     },
     {
       "keyword": "nottm forest vs spurs",
@@ -462,7 +559,7 @@
         }
       ],
       "topNews": [],
-      "rank": 7
+      "rank": 9
     },
     {
       "keyword": "athletic vs atlético madrid",
@@ -504,67 +601,6 @@
         }
       ],
       "topNews": [],
-      "rank": 8
-    },
-    {
-      "keyword": "로또 1240",
-      "traffic": "2000+",
-      "blogTotal": 0,
-      "newsTotal": 0,
-      "recentToday": 0,
-      "recentWeek": 0,
-      "topBlogs": [],
-      "topNews": [],
-      "error": "HTTP 429 https://openapi.naver.com/v1/search/news.json?query=%EB%A1%9C%EB%98%90+1240&display=5&sort=date",
-      "rank": 9
-    },
-    {
-      "keyword": "man city vs coventry",
-      "traffic": "500+",
-      "blogTotal": 0,
-      "newsTotal": 1,
-      "recentToday": 0,
-      "recentWeek": 0,
-      "topBlogs": [
-        {
-          "title": "10/12 Links Pt2: Publish the Names of Students and Professors Who Support Hamas Lynching a....",
-          "link": "https://elderofziyon.blogspot.com/2023/10/1012-links-pt2-publish-names-of.html",
-          "blogger": "Elder Of Ziyon - Israel News",
-          "date": "2023-10-12"
-        },
-        {
-          "title": "01/19 Links Pt1: Israel must draw a red line in Gaza; The Great Jackass-Terrorist Alliance....",
-          "link": "https://elderofziyon.blogspot.com/2024/01/0119-links-pt1-israel-must-draw-red.html",
-          "blogger": "Elder Of Ziyon - Israel News",
-          "date": "2024-01-19"
-        },
-        {
-          "title": "Unorthodox-Jew A Critical View of Orthodox Judaism: What I Would Say At This Year's Agudat....",
-          "link": "http://theunorthodoxjew.blogspot.com/2011/11/what-i-would-say-at-this-years-agudah.html",
-          "blogger": "Unorthodox-Jew A Critical View of Orthodox Judaism",
-          "date": "2015-11-10"
-        },
-        {
-          "title": "[League] England _ English Premier League's Club _ Emblem/Crest",
-          "link": "https://urbany.tistory.com/246",
-          "blogger": "내멋대로 하는 아일랜드",
-          "date": "2013-01-30"
-        },
-        {
-          "title": "2010년 주목을 받은 프록 앨범 200선",
-          "link": "https://blog.naver.com/chedragon/50101706868",
-          "blogger": "progutopia",
-          "date": "2010-12-21"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "BRITAIN SOCCER",
-          "link": "https://n.news.naver.com/mnews/article/091/0009632751?sid=104",
-          "press": "",
-          "date": "2024-04-21"
-        }
-      ],
       "rank": 10
     }
   ]
