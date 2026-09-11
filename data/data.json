@@ -1,93 +1,543 @@
 {
-  "updatedAt": "2026-09-10T22:16:46.403Z",
+  "updatedAt": "2026-09-11T00:20:44.055Z",
   "source": "live",
   "keywords": [
     {
-      "keyword": "성과급",
-      "traffic": "200+",
-      "blogTotal": 72262,
-      "newsTotal": 327662,
-      "recentToday": 78,
+      "keyword": "기사",
+      "traffic": "500+",
+      "blogTotal": 6743966,
+      "newsTotal": 14278879,
+      "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "[알라딘서재]성과관리",
-          "link": "https://blog.aladin.co.kr/twchoi/1139502",
+          "title": "[알라딘서재][100자평] 2026 에듀윌 에너지관리기사 필기 한권끝장 + ....",
+          "link": "https://blog.aladin.co.kr/791317141/16567994",
           "blogger": "https://blog.aladin.co.kr/",
-          "date": "2004-01-01"
+          "date": "2025-07-03"
         },
         {
-          "title": "자격증 수당과 경영평가 성과급을 비정규직이라는 이유로 지급받지....",
-          "link": "https://whallaw.com/1281",
-          "blogger": "활로닷컴 : 판례, 행정해석 :: 활로닷컴 : 판례, 행정해석",
-          "date": "2013-11-30"
-        },
-        {
-          "title": "[지란라이프_이벤트] 2022 JIRAN 하반기 TMI",
-          "link": "https://blog.jiran.com/1529",
-          "blogger": "지란지교소프트",
-          "date": "2022-08-17"
-        },
-        {
-          "title": "[알라딘서재]구멍가게 CEO2",
-          "link": "https://blog.aladin.co.kr/711623175/16800061",
+          "title": "[알라딘서재][100자평] 2025 건축산업기사 필기 4주완성 - 전3권",
+          "link": "https://blog.aladin.co.kr/779059174/16068256",
           "blogger": "https://blog.aladin.co.kr/",
-          "date": "2025-10-11"
+          "date": "2024-12-12"
         },
         {
-          "title": "[알라딘서재]2000년생이온다를 추천한다",
-          "link": "https://blog.aladin.co.kr/723354273/16592110",
+          "title": "[알라딘서재][100자평] 2026 에듀윌 산업위생관리기사 실기 2주끝장+무....",
+          "link": "https://blog.aladin.co.kr/790050143/16771456",
           "blogger": "https://blog.aladin.co.kr/",
-          "date": "2025-07-14"
+          "date": "2025-09-28"
+        },
+        {
+          "title": "[알라딘서재][100자평] 2025 건축산업기사필기 7개년 기출문제",
+          "link": "https://blog.aladin.co.kr/704600237/16355476",
+          "blogger": "https://blog.aladin.co.kr/",
+          "date": "2025-04-03"
+        },
+        {
+          "title": "[알라딘서재]2025 전기기사 단기완성 세트 교재",
+          "link": "https://blog.aladin.co.kr/791383270/16232742",
+          "blogger": "https://blog.aladin.co.kr/",
+          "date": "2025-02-16"
         }
       ],
       "topNews": [
         {
-          "title": "성과급 현금비중 늘린 SK하이닉스…이번엔 임단협 넘을까[biz-플러스]",
-          "link": "https://www.sedaily.com/article/20089666?ref=naver",
+          "title": "인천 영흥도 김 양식장서 작업 중 20대 외국인 노동자 바다에 빠져 실종",
+          "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1331774",
           "press": "",
-          "date": "2026-09-10"
+          "date": "2026-09-11"
         },
         {
-          "title": "[통화신용정책보고서②] 집값 뛰고 대출도 늘었다…한은 \"금융불균형 위...",
-          "link": "http://www.newsian.co.kr/news/articleView.html?idxno=95148",
+          "title": "엔하이픈 선우·아일릿 원희, '베스트 스킨케어 모델' 경쟁",
+          "link": "https://www.slist.kr/news/articleView.html?idxno=765365",
           "press": "",
-          "date": "2026-09-10"
+          "date": "2026-09-11"
         },
         {
-          "title": "[심층기획 : 이재명의 주4.5일제, 1년 후②] AI가 줄인 노동시간, 노동자...",
-          "link": "https://www.news2day.co.kr/article/20260910500143",
+          "title": "로빈후드 밈코인, 상장도 아닌데 500% 질주...착시 꺼지면 폭락 경고등",
+          "link": "http://coinreaders.com/257696",
           "press": "",
-          "date": "2026-09-10"
+          "date": "2026-09-11"
         },
         {
-          "title": "[산업계 이중고] ‘영업이익 N%’ 산업계 표준되나",
-          "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609101503004590511",
+          "title": "곽시양·유지애 결혼식, 축가는 러블리즈 아닌 류수정… \"사랑이 많은 사...",
+          "link": "https://www.hankookilbo.com/news/article/A2026091106300002421?did=NA",
           "press": "",
-          "date": "2026-09-10"
+          "date": "2026-09-11"
         },
         {
-          "title": "'월세 70만원' 핑계로 직원 자르겠다는 삼성전자…변호사들 “절대 자진...",
-          "link": "https://realty.chosun.com/site/data/html_dir/2026/09/10/2026091002392.html",
+          "title": "크리스토퍼 놀란 ‘오디세이’, 37일 연속 박스오피스 1위..2위 ‘옵세션...",
+          "link": "http://www.breaknews.com/1235890",
           "press": "",
-          "date": "2026-09-10"
+          "date": "2026-09-11"
         }
       ],
       "rank": 1
     },
     {
-      "keyword": "이더리움",
+      "keyword": "911",
       "traffic": "100+",
-      "blogTotal": 198987,
-      "newsTotal": 474091,
-      "recentToday": 72,
+      "blogTotal": 136401,
+      "newsTotal": 74453,
+      "recentToday": 28,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "이더리움(Ethereum) Homestead Documentation 백서링크 :: 프리러닝 - Free Learnin....",
-          "link": "https://freelearning.tistory.com/286",
-          "blogger": "프리러닝 - Free Learning :: 프리러닝 - Free Learning",
-          "date": "2017-10-12"
+          "title": "Behind The Blue Wall: [TN] Fired 911 Official, Norwood, threatens to kill wife and himself",
+          "link": "http://behindthebluewall.blogspot.com/2008/08/tn-fired-911-official-norwood-threatens.html",
+          "blogger": "Behind The Blue Wall",
+          "date": "2008-08-25"
+        },
+        {
+          "title": "© Automotiveblogz: Porsche 911 Classic Club Coupe",
+          "link": "https://automotiveblogz.blogspot.com/2023/02/porsche-911-classic-club-coupe.html",
+          "blogger": "© Automotiveblogz",
+          "date": "1990-01-01"
+        },
+        {
+          "title": "© Automotiveblogz: Porsche 911 GTS Le Mans Centenaire Edition 2023",
+          "link": "https://automotiveblogz.blogspot.com/2023/05/porsche-911-gts-le-mans-centenaire.html",
+          "blogger": "© Automotiveblogz",
+          "date": "1990-01-01"
+        },
+        {
+          "title": "율곡조경_ landart/정기수의 사진 생활 :: [맨하탄] 911",
+          "link": "https://landart.tistory.com/34",
+          "blogger": "율곡조경_ landart/정기수의 사진 생활 :: 율곡조경_ landart/정기수의 사진 생활",
+          "date": "2011-10-13"
+        },
+        {
+          "title": "© Automotiveblogz: Porsche 911 S/T 2023",
+          "link": "https://automotiveblogz.blogspot.com/2023/06/porsche-911-st-2023.html",
+          "blogger": "© Automotiveblogz",
+          "date": "1990-01-01"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "지소연, ♥송재희에 포르쉐 911 선물 후 열일 \"사업 연매출 10억\"",
+          "link": "https://www.starnewskorea.com/star/2026/09/11/2026091107364735867",
+          "press": "",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "경악 사건!...\"아이 낳지 못하게 하려고\" 코카인 섞어 임신 5개월 여친·...",
+          "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553530991",
+          "press": "",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "트럼프, ‘공화당 승리시 5천달러 배당’…민주당 ‘생활비 문제 외면’",
+          "link": "https://www.voakorea.com/a/trump-midterms-rnc-091026/8196473.html",
+          "press": "",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "지소연, ♥송재희에 포르쉐 911 통 큰 선물..\"열심히 돈 갚는 중\"[스타이...",
+          "link": "https://www.starnewskorea.com/star/2026/09/10/2026091018124558136",
+          "press": "",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "지소연, ♥송재희에 억대 스포츠카 선물…\"돈 없지만 믿음으로 질러\"",
+          "link": "https://www.news1.kr/entertain/broadcast-tv/6286786",
+          "press": "",
+          "date": "2026-09-10"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "keyword": "장교",
+      "traffic": "1000+",
+      "blogTotal": 117252,
+      "newsTotal": 349345,
+      "recentToday": 23,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "[알라딘서재]♧만화.202109.마냐",
+          "link": "https://blog.aladin.co.kr/767205173/13039201",
+          "blogger": "https://blog.aladin.co.kr/",
+          "date": "2021-10-23"
+        },
+        {
+          "title": "[알라딘서재]23년 4분기 국방",
+          "link": "https://blog.aladin.co.kr/757065192/15045315",
+          "blogger": "https://blog.aladin.co.kr/",
+          "date": "2023-11-09"
+        },
+        {
+          "title": "방치함대 취임목표 가이드 및 공략 / 각단계 미리 알아보기",
+          "link": "https://shylian.tistory.com/903",
+          "blogger": "샤이리 티스토리",
+          "date": "2020-02-13"
+        },
+        {
+          "title": "3군 장교합동 임관식 블랙이글 축하비행",
+          "link": "https://yys1019.tistory.com/16153465",
+          "blogger": "아름다움을 간직하고......",
+          "date": "2012-11-20"
+        },
+        {
+          "title": "문대통령 대구에 투입될 이번에 합격한 간호장교찾아갔는데 뭔가 ....",
+          "link": "https://cod-eng.tistory.com/7458",
+          "blogger": "코영(CE) - 코영(CE)",
+          "date": "2020-03-03"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "해사 생도들, 130여일 7개국 순항훈련",
+          "link": "https://view.asiae.co.kr/article/2026091109121062534",
+          "press": "",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "'친명' 김병주 \"호르무즈 파병 안 된다…조사단 파견 시간벌기용\"",
+          "link": "https://www.mt.co.kr/politics/2026/09/11/2026091108161197003",
+          "press": "",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "\"이란, 후티에 무기·자금·인력 지원…모카항 장악으로 이어져\"",
+          "link": "https://www.news1.kr/world/middleeast-africa/6287097",
+          "press": "",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "해사 81기 생도들, 130여일 대장정 떠나…7개국 10개항 순항훈련",
+          "link": "https://www.news1.kr/diplomacy/defense-diplomacy/6287143",
+          "press": "",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "이스라엘군, ‘헤즈볼라의 펜타곤’ 레바논 알리 타헤르 터널 폭파",
+          "link": "https://www.khan.co.kr/article/202609110852001",
+          "press": "",
+          "date": "2026-09-10"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "keyword": "시위",
+      "traffic": "200+",
+      "blogTotal": 322221,
+      "newsTotal": 1714226,
+      "recentToday": 20,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "추미애퇴출차량시위",
+          "link": "https://pyo9191.tistory.com/7090629",
+          "blogger": "대한예수교장로회 주양교회",
+          "date": "2020-10-10"
+        },
+        {
+          "title": "차량시위안내",
+          "link": "https://pyo9191.tistory.com/7090647",
+          "blogger": "죽도록 충성!",
+          "date": "2020-10-15"
+        },
+        {
+          "title": "macOS 이야기 :: 관광객 면전에 \"꺼져라\"…혐중시위 얼룩진 '관광1번지....",
+          "link": "https://osx86.tistory.com/420206",
+          "blogger": "macOS 이야기 :: macOS 이야기",
+          "date": "2025-09-02"
+        },
+        {
+          "title": "[알라딘서재][100자평] [루비] 사랑의 활시위는 놓을 수 없어",
+          "link": "https://blog.aladin.co.kr/764454109/15123597",
+          "blogger": "https://blog.aladin.co.kr/",
+          "date": "2023-12-09"
+        },
+        {
+          "title": "추미애퇴출차량시위",
+          "link": "https://pyo9191.tistory.com/7090612",
+          "blogger": "죽도록 충성!",
+          "date": "2020-10-03"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "천안시의회 건설도시위, AI 기반 스마트도시 전략 모색",
+          "link": "https://daily.hankooki.com/news/articleView.html?idxno=1405060",
+          "press": "",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "나경원 \"기본소득당, 보조금 사냥꾼이자 1인 가족 기업\" 주장",
+          "link": "https://news.cpbc.co.kr/article/1175672?division=NAVER",
+          "press": "",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "용혜인 \"제 정치적 결정에 여러 의견 잘 알아…무겁게 듣고 있다\"",
+          "link": "https://www.news1.kr/politics/assembly/6287165",
+          "press": "",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "[오늘의 사설]\"'맹탕 청문회', 국민 눈높이에 맞지 않다\"",
+          "link": "http://www.nongaek.com/news/articleView.html?idxno=96743",
+          "press": "",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "전대 마지막 날…파격 공약 또 내놓을까",
+          "link": "http://www.yonhapnewstv.co.kr/news/MYH20260911084913OIH",
+          "press": "",
+          "date": "2026-09-10"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "keyword": "김연정",
+      "traffic": "2000+",
+      "blogTotal": 8564,
+      "newsTotal": 29142,
+      "recentToday": 16,
+      "recentWeek": 42,
+      "topBlogs": [
+        {
+          "title": "2016.10.02 부산 바다 마라톤 후기 및 치어리더 공연 사진 :: 생각하는 ....",
+          "link": "https://gogd.tistory.com/1291",
+          "blogger": "생각하는 사람 :: 생각하는 사람",
+          "date": "2016-10-02"
+        },
+        {
+          "title": "엑시즈 (X IS )",
+          "link": "https://c65hoi.tistory.com/2552704",
+          "blogger": "20C K-POP Archive",
+          "date": "2023-01-16"
+        },
+        {
+          "title": "[KBO] 2025년 8월 한화이글스 응원단 라인업(치어리더)",
+          "link": "https://hyeonsik0523.tistory.com/10773",
+          "blogger": "Expert",
+          "date": "2025-07-31"
+        },
+        {
+          "title": "고도현-선택과 집중 [뮤비/가사]",
+          "link": "https://gun593132.tistory.com/23869",
+          "blogger": "나리나리",
+          "date": "2021-05-23"
+        },
+        {
+          "title": "빌린책-3",
+          "link": "https://poemtotime.tistory.com/12382191",
+          "blogger": "정령의 詩詩때때로",
+          "date": "2019-11-07"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "\"노시환·하지원 열애설? 맹세코 아냐\"…김연정, 대신 해명 [엑's 이슈]",
+          "link": "https://www.xportsnews.com/article/2194519",
+          "press": "",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "\"노시환-하지원 열애설, 하늘에 맹세코 아니다\" 김연정이 밝힌 진실, 야...",
+          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1006864",
+          "press": "",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "홍성의 춤, 굿판을 만나다…추석 앞둔 무료 초대",
+          "link": "https://www.newscj.com/news/articleView.html?idxno=3431754",
+          "press": "",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "정점식 \"제2의 용혜인 안 보려면 준연동형 비례대표제 폐지해야\"",
+          "link": "https://www.yna.co.kr/view/AKR20260910048700001?input=1195m",
+          "press": "",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "장동혁 \"하자가 많아야 말 잘들을 테니 김승원 지명한 것\"",
+          "link": "https://www.yna.co.kr/view/AKR20260910042000001?input=1195m",
+          "press": "",
+          "date": "2026-09-10"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "keyword": "요르단",
+      "traffic": "500+",
+      "blogTotal": 63815,
+      "newsTotal": 235620,
+      "recentToday": 7,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "성지순례길/요르단 암만 데카볼리유적지 제라쉬 암몬성",
+          "link": "https://yeonhee6233.tistory.com/4177",
+          "blogger": "환희 의 정원/은퇴후의삶,빛나는서귀포살이",
+          "date": "2019-01-31"
+        },
+        {
+          "title": "중동(이집트&요르단&아랍에밀레이트)여행 2018.07.30~08.11,",
+          "link": "https://skylovejeje.tistory.com/1014",
+          "blogger": "대자연과 함께 하는 삶!!",
+          "date": "2018-08-17"
+        },
+        {
+          "title": "요르단 암만지도/Amman Map",
+          "link": "https://thaistart.tistory.com/18312093",
+          "blogger": "태초의 태국정보/Taecho's Thai Info",
+          "date": "2009-11-12"
+        },
+        {
+          "title": "성지순례 요르단 마지막날",
+          "link": "https://yeonhee6233.tistory.com/4190",
+          "blogger": "환희 의 정원/은퇴후의삶,빛나는서귀포살이",
+          "date": "2019-02-06"
+        },
+        {
+          "title": "[성지 성경강의] 16강 요르단-1",
+          "link": "https://hui-jae.tistory.com/2482",
+          "blogger": "주전담백 主前淡白",
+          "date": "2023-06-30"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "영국 주도 '이스라엘 정착촌 지원 기업 제재' 본격화 수순 : 유엔이 1년...",
+          "link": "https://www.huffingtonpost.kr/article/260383",
+          "press": "",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "한국 농구, 사우디 완파... 금빛 도전 첫발",
+          "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003266428&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+          "press": "",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "호르무즈 이어 홍해까지 장악되나···후티, 홍해 연안의 주요 도시 모...",
+          "link": "https://dgmbc.com/NewsArticle/861829",
+          "press": "",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "5042만원 모은 충주 청소년 기부 프로젝트… 100명에게 희망장학금",
+          "link": "https://www.edaily.co.kr/News/Read?newsId=02883126645579136&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+          "press": "",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "이란 \"미 무인정찰정 공격\"…구호대 2진 네팔로 출국",
+          "link": "http://www.yonhapnewstv.co.kr/news/MYH20260911083709Czt",
+          "press": "",
+          "date": "2026-09-10"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "keyword": "엘링 홀란",
+      "traffic": "200+",
+      "blogTotal": 2922,
+      "newsTotal": 24186,
+      "recentToday": 1,
+      "recentWeek": 65,
+      "topBlogs": [
+        {
+          "title": "축구잡지 베스트일레븐 2021년 3월호 (340호)",
+          "link": "https://afraid.tistory.com/2367",
+          "blogger": "유투보이의 블로그",
+          "date": "2021-03-06"
+        },
+        {
+          "title": "용산구 김선영 의원 프로필, ‘김어준의 겸손은힘들다’ 민주당 안....",
+          "link": "https://nodam.tistory.com/9697",
+          "blogger": "nodam1",
+          "date": "2023-10-31"
+        },
+        {
+          "title": "[피파온라인4] 22TOTS LIST (리스트 목록)",
+          "link": "https://danasn.tistory.com/2167",
+          "blogger": "하하",
+          "date": "2022-07-01"
+        },
+        {
+          "title": "2024년 전세계 스포츠 스타 수익 순위",
+          "link": "https://magazine-k.tistory.com/3546",
+          "blogger": "매거진K",
+          "date": "2024-07-04"
+        },
+        {
+          "title": "[피파온라인4] 23 TOTY Nominees 100인",
+          "link": "https://danasn.tistory.com/4378",
+          "blogger": "하하",
+          "date": "2023-01-12"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "쿠팡플레이, '맨체스터 더비' 생중계…박종윤·임형철 호흡",
+          "link": "https://www.slist.kr/news/articleView.html?idxno=765363",
+          "press": "",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "엘링 홀란드, 초희귀템 슈프림 카라반을 샀다",
+          "link": "https://www.gqkorea.co.kr/2026/09/11/%ec%97%98%eb%a7%81-%ed%99%80%eb%9e%80%eb%93%9c-%ec%b4%88%ed%9d%ac%ea%b7%80%ed%85%9c-%ec%8a%88%ed%94%84%eb%a6%bc-%ec%b9%b4%eb%9d%bc%eb%b0%98%ec%9d%84-%ec%83%80%eb%8b%a4/?utm_source=naver&utm_medium=partnership",
+          "press": "",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "\"상대가 내 엉덩이를 잡았다\" 홀란 충격 증언...포르투전 멀티골 폭발→...",
+          "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553531397",
+          "press": "",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "챔스 리그페이즈 1차전 종료…경기 결과",
+          "link": "https://www.etoday.co.kr/news/view/2624276",
+          "press": "",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "3경기 5골’ 홀란이 온다…수비 흔들리는 맨유, 맨체스터 더비가 첫 시...",
+          "link": "https://sports.khan.co.kr/article/202609110502013?pt=nv",
+          "press": "",
+          "date": "2026-09-10"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "keyword": "도지코인",
+      "traffic": "100+",
+      "blogTotal": 49589,
+      "newsTotal": 56514,
+      "recentToday": 1,
+      "recentWeek": 55,
+      "topBlogs": [
+        {
+          "title": "[알라딘서재]밈코인 하고 자빠졌네",
+          "link": "https://blog.aladin.co.kr/780418289/16001509",
+          "blogger": "https://blog.aladin.co.kr/",
+          "date": "2024-11-14"
+        },
+        {
+          "title": "도지코인 이래서 오른거였어? 오픈AI 전 CEO 일론 머스크와 샘 알트먼....",
+          "link": "https://bbshinny.tistory.com/2696",
+          "blogger": "블링블링 샤이니 :: 블링블링 샤이니",
+          "date": "2024-03-03"
+        },
+        {
+          "title": "블링블링 샤이니 :: 도지코인 오른 이유가 업데이트 때문? 이제 개떡....",
+          "link": "https://bbshinny.tistory.com/2693",
+          "blogger": "블링블링 샤이니 :: 블링블링 샤이니",
+          "date": "2024-02-29"
         },
         {
           "title": "[업비트] 비트코인, 이더리움, 솔라나, 리플, 에이다, 도지코인 가격(....",
@@ -96,490 +546,40 @@
           "date": "2022-05-19"
         },
         {
-          "title": "[업비트] 비트코인, 이더리움, 솔라나, 리플, 에이다 가격 현황(11:8pm,....",
-          "link": "https://justinys-corp.tistory.com/583",
-          "blogger": "Justiny의 잡다한 이야기",
-          "date": "2022-03-12"
-        },
-        {
-          "title": "#메타마스크 지갑 #이더리움",
-          "link": "https://e55850941.tistory.com/3192",
-          "blogger": "#다이음기획그룹(주)",
-          "date": "2021-10-25"
-        },
-        {
-          "title": "이더리움 VS 클레이튼 :: Dowon",
-          "link": "https://isnow.tistory.com/546",
-          "blogger": "Dowon :: Dowon",
-          "date": "2020-07-15"
+          "title": "알트코인 섹터별 분류(feat upbit)",
+          "link": "https://hohoka.tistory.com/107",
+          "blogger": "잡학상점",
+          "date": "2024-12-04"
         }
       ],
       "topNews": [
         {
-          "title": "美 PPI 급등에 금리 인상 공포…비트코인·이더리움·XRP 급락",
-          "link": "https://www.g-enews.com/view.php?ud=202609110710332549e250e8e188_1",
+          "title": "도지코인 왜 비트코인보다 더 빠졌나?…0.083달러 지지선 시험대",
+          "link": "http://coinreaders.com/257695",
+          "press": "",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "비트코인 1억497만 원대 하락, 미국 금리인상 가능성에 위험자산 투심 ...",
+          "link": "https://www.businesspost.co.kr/BP?command=article_view&num=446959",
           "press": "",
           "date": "2026-09-10"
         },
         {
-          "title": "비트코인 ETF 이틀째 돈 빠졌다…기관 자금 이더리움으로 움직이나?",
-          "link": "http://coinreaders.com/257675",
+          "title": "비트코인 ETF 자금 이탈에도 알트시즌 불발…ETH·XRP·SOL에 수요 집중",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=699860",
           "press": "",
           "date": "2026-09-10"
         },
         {
-          "title": "비트코인(BTC) 펀드 유출 속 홀로 버틴 리플(XRP), 8주 연속 자금 유입의...",
-          "link": "http://coinreaders.com/257676",
+          "title": "도지코인 현물 ETF BWOW 청산…상장 11개월 만에 퇴장",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=699850",
           "press": "",
           "date": "2026-09-10"
         },
         {
-          "title": "[더벨]미래에셋 품 안긴 디지털엑스, 웹3 대신 금융 연계에 무게",
-          "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609081744459840107254",
-          "press": "",
-          "date": "2026-09-10"
-        },
-        {
-          "title": "비트코인 급락에도 나홀로 버틴 이더리움, 본격 반등의 신호탄일까",
-          "link": "http://coinreaders.com/257669",
-          "press": "",
-          "date": "2026-09-10"
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "keyword": "정년",
-      "traffic": "500+",
-      "blogTotal": 210123,
-      "newsTotal": 421868,
-      "recentToday": 65,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "대전한밭대심재명교수정년퇴임",
-          "link": "https://djl8855.tistory.com/7582",
-          "blogger": "정허(定虛)",
-          "date": "2017-04-23"
-        },
-        {
-          "title": "정년이,소유나",
-          "link": "https://animatorkim2.tistory.com/2356",
-          "blogger": "스케치",
-          "date": "2024-11-09"
-        },
-        {
-          "title": "현대모비스 정년퇴임패,울산상패,울산정년퇴임패,울산크리스탈상....",
-          "link": "https://usgift.tistory.com/1166",
-          "blogger": "보라매판촉물",
-          "date": "2018-01-11"
-        },
-        {
-          "title": "정년이",
-          "link": "https://animatorkim2.tistory.com/2333",
-          "blogger": "스케치",
-          "date": "2024-10-18"
-        },
-        {
-          "title": "【판례 2001다12669】정년퇴직 전의 대기발령 기간의 일수와 그 기간 ....",
-          "link": "https://whallaw.com/762",
-          "blogger": "활로닷컴 : 판례, 행정해석 :: 활로닷컴 : 판례, 행정해석",
-          "date": "2013-11-12"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "[경찰25시] 중수청에 심드렁한 경찰관들, 왜?",
-          "link": "https://www.chosun.com/national/national_general/2026/09/11/5CIW7NXXKVBO3JA3GV2DQNQJFA/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-          "press": "",
-          "date": "2026-09-10"
-        },
-        {
-          "title": "학생신문 '압수·폐기' 학교…서울교육청 인권센터 \"자유 침해\"",
-          "link": "https://www.newsis.com/view/NISX20260910_0003784927",
-          "press": "",
-          "date": "2026-09-10"
-        },
-        {
-          "title": "임금안 없는 삼성중공업, 노동자들 삼성 본사로",
-          "link": "https://www.labortoday.co.kr/news/articleView.html?idxno=236729",
-          "press": "",
-          "date": "2026-09-10"
-        },
-        {
-          "title": "'정년연장' 강조한 한국노총, 모호한 민주당에 '화들짝'",
-          "link": "https://www.labortoday.co.kr/news/articleView.html?idxno=236726",
-          "press": "",
-          "date": "2026-09-10"
-        },
-        {
-          "title": "[이정식의 시대의 창] 노동시장 이중 구조, '큰 결단'보다 '작은 성공'부...",
-          "link": "https://www.imaeil.com/page/view/2026083114171440964",
-          "press": "",
-          "date": "2026-09-10"
-        }
-      ],
-      "rank": 3
-    },
-    {
-      "keyword": "손태진",
-      "traffic": "500+",
-      "blogTotal": 16127,
-      "newsTotal": 41753,
-      "recentToday": 49,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "여자 체조 신수지, 태권도등 21일 경기일정, 시간표 - 베이징 올림픽 ....",
-          "link": "https://3sun.tistory.com/1010",
-          "blogger": "3sun 블로그",
-          "date": "2008-08-21"
-        },
-        {
-          "title": "2025년8월 금영노래방 신곡 업데이트 KY노래방 노래번호 찾기",
-          "link": "https://myturn2.tistory.com/893",
-          "blogger": "턴마이",
-          "date": "2025-07-19"
-        },
-        {
-          "title": "백만송이 장미",
-          "link": "https://1661-9706.tistory.com/139",
-          "blogger": "실행이 답이다",
-          "date": "2023-02-24"
-        },
-        {
-          "title": "#16 Alone",
-          "link": "https://muhaksan.tistory.com/707",
-          "blogger": "산에사는 꽃사랑",
-          "date": "2017-03-28"
-        },
-        {
-          "title": "📸 찬또그래퍼 📸 행복한 토요일 더 행복하게 보내는 법 ㄴ <불후....",
-          "link": "https://2012kiss.tistory.com/8438",
-          "blogger": "어덕행덕합니다. ^^",
-          "date": "2025-02-08"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "앤톤 이어 윤상 둘째 아들도 아이돌 준비 “우리 집엔 춤 없는데”(편스...",
-          "link": "https://www.newsen.com/news_view.php?uid=202609102254132510",
-          "press": "",
-          "date": "2026-09-10"
-        },
-        {
-          "title": "손태진 할머니, 독학 영어로 종군기자→아나운서 섭렵한 '사기캐'('편스...",
-          "link": "http://www.celuvmedia.com/article.php?aid=1789074000527418010",
-          "press": "",
-          "date": "2026-09-10"
-        },
-        {
-          "title": "손태진, 논란 걱정없는 집안 자랑 “할머니 종군기자→인간문화재 3명”...",
-          "link": "https://www.newsen.com/news_view.php?uid=202609110132092510",
-          "press": "",
-          "date": "2026-09-10"
-        },
-        {
-          "title": "손태진, 루프탑 수영장까지..호텔 못지 않은 럭셔리 하우스 공개 [편스...",
-          "link": "https://www.starnewskorea.com/broadcast-show/2026/09/11/2026091022011494280",
-          "press": "",
-          "date": "2026-09-10"
-        },
-        {
-          "title": "이찬원, 'MC이자 가수로 출격'→'불후의 명곡-2026 뉴웨이브 페스티벌 i...",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16189410",
-          "press": "",
-          "date": "2026-09-10"
-        }
-      ],
-      "rank": 4
-    },
-    {
-      "keyword": "대한체육회",
-      "traffic": "200+",
-      "blogTotal": 28690,
-      "newsTotal": 317632,
-      "recentToday": 15,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "[알라딘서재]제31회 전국장애인체육대회 응원이벤트!!",
-          "link": "https://blog.aladin.co.kr/751538194/5153832",
-          "blogger": "https://blog.aladin.co.kr/",
-          "date": "2011-10-19"
-        },
-        {
-          "title": "제6회 울산북구 노인건강 체육대회 실황",
-          "link": "https://kdo7070.tistory.com/7600511",
-          "blogger": "울산 활 이야기 와 노후활동",
-          "date": "2022-11-13"
-        },
-        {
-          "title": "제10회 노원구 장애인 생활체육대회",
-          "link": "https://lej515.tistory.com/2893",
-          "blogger": "정의당 국회의원 이은주",
-          "date": "2023-06-13"
-        },
-        {
-          "title": "MowG :: 제10회 안산시장배생활체육인라인스케이팅대회",
-          "link": "https://mowg.tistory.com/3018",
-          "blogger": "MowG :: MowG",
-          "date": "2015-08-18"
-        },
-        {
-          "title": "제54회 전국소년체육대회 조정경기 - 진주 남강",
-          "link": "https://spp5908.tistory.com/19113",
-          "blogger": "즐긴다는것이란~~~",
-          "date": "2025-05-25"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "세라젬, 아시안게임 앞둔 국가대표 선수단 응원 행사 진행",
-          "link": "https://www.sedaily.com/article/20089658?ref=naver",
-          "press": "",
-          "date": "2026-09-10"
-        },
-        {
-          "title": "이상현 선수단장 “선수는 태극마크의 품격 드높이고, 국민은 즐기시며...",
-          "link": "https://www.sportsseoul.com/news/read/1634275?ref=naver",
-          "press": "",
-          "date": "2026-09-10"
-        },
-        {
-          "title": "학생 선수와 일반 학생이 한 코트에…'스쿼시 청스한' 11월 청주서 열린...",
-          "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=549773",
-          "press": "",
-          "date": "2026-09-10"
-        },
-        {
-          "title": "‘효자 종목→항저우 노메달’ 金빛 질주 끊긴 한국 승마, 나고야서 명...",
-          "link": "https://www.sportsseoul.com/news/read/1634363?ref=naver",
-          "press": "",
-          "date": "2026-09-10"
-        },
-        {
-          "title": "대한체육회장 '총임기 제한' 추진…배경은 李대통령의 주문",
-          "link": "https://www.nocutnews.co.kr/news/6576374?utm_source=naver&utm_medium=article&utm_campaign=20260911060017",
-          "press": "",
-          "date": "2026-09-10"
-        }
-      ],
-      "rank": 5
-    },
-    {
-      "keyword": "김요한",
-      "traffic": "200+",
-      "blogTotal": 23926,
-      "newsTotal": 76709,
-      "recentToday": 11,
-      "recentWeek": 63,
-      "topBlogs": [
-        {
-          "title": "[알라딘서재][100자평] X1(엑스원) - 미니 1집 비상 : QUANTUM LEAP [비상 Ver....",
-          "link": "https://blog.aladin.co.kr/736262131/11135661",
-          "blogger": "https://blog.aladin.co.kr/",
-          "date": "2019-09-27"
-        },
-        {
-          "title": "[알라딘서재]프리드리히 니체",
-          "link": "https://blog.aladin.co.kr/729919132/15664651",
-          "blogger": "https://blog.aladin.co.kr/",
-          "date": "2024-07-03"
-        },
-        {
-          "title": "삼성화재 한국전력 잡고 연승",
-          "link": "https://nomark502.tistory.com/12571",
-          "blogger": "BV파크(Baseball park-Volleyball park)",
-          "date": "2025-03-08"
-        },
-        {
-          "title": "[알라딘서재][100자평] 결코 나의 운명을 원망하지 않으리라",
-          "link": "https://blog.aladin.co.kr/729852147/15705654",
-          "blogger": "https://blog.aladin.co.kr/",
-          "date": "2024-07-19"
-        },
-        {
-          "title": "[알라딘서재][100자평] 아레나 옴므 플러스 Arena Homme+ 2020.6 (표지 : 뉴....",
-          "link": "https://blog.aladin.co.kr/720253173/11722860",
-          "blogger": "https://blog.aladin.co.kr/",
-          "date": "2020-05-17"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "‘신랑수업2’ 김요한·오연희 단골 고기집",
-          "link": "https://www.bntnews.co.kr/article/view/bnt202609100137",
-          "press": "",
-          "date": "2026-09-10"
-        },
-        {
-          "title": "'신랑수업2' 라이머 집·루틴 공개",
-          "link": "https://www.bntnews.co.kr/article/view/bnt202609100210",
-          "press": "",
-          "date": "2026-09-10"
-        },
-        {
-          "title": "'인턴', 추석 연휴 무대인사 라인업 추가…개봉 앞두고 예매율 3위",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16189062",
-          "press": "",
-          "date": "2026-09-10"
-        },
-        {
-          "title": "김요한♥오연희, 이 정도면 연인 아냐?…\"몸 나한테 더 기대\" 과감한 커...",
-          "link": "https://www.xportsnews.com/article/2194348",
-          "press": "",
-          "date": "2026-09-10"
-        },
-        {
-          "title": "연예계 11살 차이 커플 탄생하나…김요한, ♥오연희와 밀착 스킨십 눈길...",
-          "link": "https://www.tenasia.co.kr/article/2026091060864",
-          "press": "",
-          "date": "2026-09-10"
-        }
-      ],
-      "rank": 6
-    },
-    {
-      "keyword": "비트코인",
-      "traffic": "100+",
-      "blogTotal": 958529,
-      "newsTotal": 782769,
-      "recentToday": 9,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "[알라딘서재][100자평] 리얼 머니, 더 비트코인",
-          "link": "https://blog.aladin.co.kr/freehn/15972954",
-          "blogger": "https://blog.aladin.co.kr/",
-          "date": "2024-11-03"
-        },
-        {
-          "title": "[알라딘서재][100자평] 달러는 왜 비트코인을 싫어하는가",
-          "link": "https://blog.aladin.co.kr/747037161/16609167",
-          "blogger": "https://blog.aladin.co.kr/",
-          "date": "2025-07-22"
-        },
-        {
-          "title": "[알라딘서재]모든 돈의 미래 비트코인",
-          "link": "https://blog.aladin.co.kr/783595174/16182403",
-          "blogger": "https://blog.aladin.co.kr/",
-          "date": "2025-01-27"
-        },
-        {
-          "title": "비트코인 시간문제다 (발라지)",
-          "link": "https://ddolkong.tistory.com/28421",
-          "blogger": "DDOLKONG",
-          "date": "2025-09-02"
-        },
-        {
-          "title": "[알라딘서재][100자평] 비트코인 백서 해설",
-          "link": "https://blog.aladin.co.kr/747037161/16609173",
-          "blogger": "https://blog.aladin.co.kr/",
-          "date": "2025-07-22"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "국제유가 7% 급등…전쟁 발발 이후 최장 상승세 [글로벌 머니플로우]",
-          "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609110272&t=NN",
-          "press": "",
-          "date": "2026-09-10"
-        },
-        {
-          "title": "비트코인(BTC) 펀드 유출 속 홀로 버틴 리플(XRP), 8주 연속 자금 유입의...",
-          "link": "http://coinreaders.com/257676",
-          "press": "",
-          "date": "2026-09-10"
-        },
-        {
-          "title": "비트코인 ETF 이틀째 돈 빠졌다…기관 자금 이더리움으로 움직이나?",
-          "link": "http://coinreaders.com/257675",
-          "press": "",
-          "date": "2026-09-10"
-        },
-        {
-          "title": "비트코인(BTC), 7만 7,000달러 붕괴...美 물가에 시장 '휘청'",
-          "link": "http://coinreaders.com/257674",
-          "press": "",
-          "date": "2026-09-10"
-        },
-        {
-          "title": "거래 수수료 316% 폭증에도 밀린 솔라나(SOL), 100달러 지지선 지켜낼까",
-          "link": "http://coinreaders.com/257671",
-          "press": "",
-          "date": "2026-09-10"
-        }
-      ],
-      "rank": 7
-    },
-    {
-      "keyword": "김수미",
-      "traffic": "200+",
-      "blogTotal": 46664,
-      "newsTotal": 111828,
-      "recentToday": 6,
-      "recentWeek": 38,
-      "topBlogs": [
-        {
-          "title": "서효림♥김수미 아들 “열애 중…내년 1월 결혼설 사실무근” [공식....",
-          "link": "https://story0121.tistory.com/96",
-          "blogger": "정보스토리",
-          "date": "2019-10-24"
-        },
-        {
-          "title": "김수미-너도 가끔 내가 [가사/듣기]",
-          "link": "https://gun593132.tistory.com/24170",
-          "blogger": "나리나리",
-          "date": "2021-06-04"
-        },
-        {
-          "title": "수미네반찬 김수미 노각무침 레시피",
-          "link": "https://mylovegae.tistory.com/5166",
-          "blogger": "🟠 내가 누구개🟠",
-          "date": "2018-08-10"
-        },
-        {
-          "title": "!꿀잼각! 라디오스타-가족끼리 왜 이래 (with 김수미, 신현준, 김태진,....",
-          "link": "https://smallplacelive0218.tistory.com/145",
-          "blogger": "작은공간에서의 생활",
-          "date": "2020-05-25"
-        },
-        {
-          "title": "[배우 김수미] 김수미 티스탬 및 싸인",
-          "link": "https://hyejung114.tistory.com/243",
-          "blogger": "달래 블로그",
-          "date": "2010-12-07"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "김영옥 “아이유가 나와 나문희 선택”…MV 출연 비화",
-          "link": "https://news.jtbc.co.kr/article/NB12317822?influxDiv=NAVER",
-          "press": "",
-          "date": "2026-09-10"
-        },
-        {
-          "title": "김영욱, 식사 중 떠올린 故 김수미⋯\"다 갈 건데도 아쉬워\"",
-          "link": "https://www.etoday.co.kr/news/view/2624267",
-          "press": "",
-          "date": "2026-09-10"
-        },
-        {
-          "title": "김영옥, 故 김수미 그리움에 \"못 해준 것 같아 아쉬워\"",
-          "link": "http://www.osen.co.kr/article/G1112873604",
-          "press": "",
-          "date": "2026-09-10"
-        },
-        {
-          "title": "‘88세’ 김영옥, 풀치 볶음에 故 김수미 떠올리다 울컥...“다 갈 건데...",
-          "link": "https://www.tenasia.co.kr/article/2026091075844",
-          "press": "",
-          "date": "2026-09-10"
-        },
-        {
-          "title": "김영옥, 故 김수미 떠올리다 울컥 \"다 갈 건데도 못해준 것 같고 아쉬워...",
-          "link": "https://www.sportschosun.com/entertainment/2026-09-10/202609100100076260004935",
+          "title": "美 국채 바이백에도… 비트코인, 7만6000달러대로 ‘뚝’",
+          "link": "https://biz.chosun.com/stock/finance/2026/09/11/QSUDXVG3VJGZDGSZE2TKATU3PA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
           "press": "",
           "date": "2026-09-10"
         }
@@ -587,147 +587,147 @@
       "rank": 8
     },
     {
-      "keyword": "토트넘 홋스퍼 fc",
+      "keyword": "양민혁",
       "traffic": "200+",
-      "blogTotal": 9095,
-      "newsTotal": 41554,
-      "recentToday": 3,
-      "recentWeek": 21,
+      "blogTotal": 6098,
+      "newsTotal": 26351,
+      "recentToday": 1,
+      "recentWeek": 86,
       "topBlogs": [
         {
-          "title": "쿠팡플레이 토트넘 vs 팀K리그 / 토트넘 vs 세비야 FC 티켓오픈 6월 티....",
-          "link": "https://eunseon1.tistory.com/243",
-          "blogger": "𝗮 𝗳𝗹𝗲𝗲𝘁𝗶𝗻𝗴 𝗺𝗼𝗺𝗲𝗻𝘁 𝗼𝗳 𝗵𝗮𝗽𝗽𝗶𝗻𝗲𝘀𝘀",
-          "date": "2022-06-06"
+          "title": "프리시즌 친선경기 비셀고베 VS 토트넘",
+          "link": "https://pk0025.tistory.com/3606",
+          "blogger": "온종일 스토리",
+          "date": "2024-07-25"
         },
         {
-          "title": "K리그 올스타 vs 토트넘 홋스퍼 경기 리뷰",
-          "link": "https://ttt77.tistory.com/1031",
-          "blogger": "??!!",
-          "date": "2022-07-14"
+          "title": "[한국축구] 2024년 12월 16일 한국축구일기",
+          "link": "https://rossoneri-ego.tistory.com/1071",
+          "blogger": "박스투박스_스포츠",
+          "date": "2024-12-16"
         },
         {
-          "title": "프리미어리그 31R 토트넘 홋스퍼 vs 웨스트햄 유나이티드 분석 및 예....",
-          "link": "https://chukaremott.tistory.com/170",
-          "blogger": "나초 스토리",
-          "date": "2020-06-21"
+          "title": "프리미어리그 1라운드 레스터시티 VS 토트넘",
+          "link": "https://pk0025.tistory.com/3612",
+          "blogger": "온종일 스토리",
+          "date": "2024-08-14"
         },
         {
-          "title": "양민혁 강원FC에서 토트넘 이적",
-          "link": "https://mysunshine2.tistory.com/77",
-          "blogger": "홍씨상회",
-          "date": "2024-10-12"
+          "title": "프리미어리그 24라운드 브렌트포드 VS 토트넘",
+          "link": "https://pk0025.tistory.com/3682",
+          "blogger": "온종일 스토리",
+          "date": "2025-01-31"
         },
         {
-          "title": "토트넘 내한 K리그 세비야FC 무료중계 시청방법 티켓예매",
-          "link": "https://pitlab.tistory.com/733",
-          "blogger": "피트연구소",
-          "date": "2022-06-04"
+          "title": "9월의 고해(1)",
+          "link": "https://xuronghao.tistory.com/3968",
+          "blogger": "https://xuronghao.tistory.com/",
+          "date": "2024-09-01"
         }
       ],
       "topNews": [
         {
-          "title": "이강인, 라리가 신입생 베스트 11 선정... 로드리·고든 포함",
-          "link": "https://www.ggilbo.com/news/articleView.html?idxno=1180263",
+          "title": "이민성호 ‘이영준·엄지성·배준호 3각편대’ 4연속 금 시동",
+          "link": "https://www.hani.co.kr/arti/sports/sportstemp/asiangame/1277312.html",
           "press": "",
           "date": "2026-09-10"
         },
         {
-          "title": "이적 위해 '법적 대응'도 불사한다… EPL 명단 제외된 히샬리송, 브라질...",
-          "link": "https://www.besteleven.com/news/articleView.html?idxno=312071",
+          "title": "손흥민과 뛰다 최악의 이별 앞둬...이적 거부→PL 스쿼드 제외→계약 해...",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=694293",
           "press": "",
           "date": "2026-09-10"
         },
         {
-          "title": "도핑 징계 2년 버티고 겨우 돌아왔는데 또 악재… 토트넘 무드리크, 복...",
-          "link": "https://www.besteleven.com/news/articleView.html?idxno=312047",
+          "title": "일본 AG 감독이 '양민혁'을 뽑지 않을 이유, \"한번 국대 선수는 영원한...",
+          "link": "https://www.sportschosun.com/football/2026-09-11/202609110100076530004953",
           "press": "",
-          "date": "2026-09-09"
+          "date": "2026-09-10"
         },
         {
-          "title": "\"쏘니 영입은 대성공\"...'MLS 최고 이적료' 손흥민, LA FC 입단 후 '마케...",
-          "link": "https://www.mydaily.co.kr/page/view/2026090921085044323",
+          "title": "토트넘 떠나려 ‘법원’까지 간다…히샬리송, 법적 절차 밟아 ‘계약 해...",
+          "link": "https://sports.khan.co.kr/article/202609101513003?pt=nv",
           "press": "",
-          "date": "2026-09-09"
+          "date": "2026-09-10"
         },
         {
-          "title": "스포츠스타 성장부터 르네상스까지… 강원체육 역사적 순간 34년 동행",
-          "link": "https://www.kado.net/news/articleView.html?idxno=2071681",
+          "title": "'압도적' 이강인 독주 체제, 무려 26주 연속 1위... '손흥민 제쳤다' 허...",
+          "link": "https://www.starnewskorea.com/sports/2026/09/10/2026091014593922969",
           "press": "",
-          "date": "2026-09-09"
+          "date": "2026-09-10"
         }
       ],
       "rank": 9
     },
     {
-      "keyword": "주식시장",
-      "traffic": "100+",
-      "blogTotal": 807635,
-      "newsTotal": 1322187,
+      "keyword": "앤 트로픽",
+      "traffic": "200+",
+      "blogTotal": 109,
+      "newsTotal": 122,
       "recentToday": 0,
-      "recentWeek": 100,
+      "recentWeek": 0,
       "topBlogs": [
         {
-          "title": "[알라딘서재][100자평] 주식시장을 이기는 작은 책",
-          "link": "https://blog.aladin.co.kr/728497134/7196957",
-          "blogger": "https://blog.aladin.co.kr/",
-          "date": "2014-11-07"
+          "title": "서양의 같은 배우 다른 느낌",
+          "link": "https://starphoto.tistory.com/1911",
+          "blogger": "알아두면 좋은 정보",
+          "date": "2020-03-03"
         },
         {
-          "title": "[홍장원의 불앤베어] 주식시장에서 모르면 죽는 단 하나의 이 문장",
-          "link": "https://ddolkong.tistory.com/28588",
-          "blogger": "DDOLKONG",
-          "date": "2025-10-07"
+          "title": "타이라 뱅크스 고화질 바탕화면 1920*1200 사이즈 다운로드 / Tyra Banks W....",
+          "link": "https://elifelog.tistory.com/168",
+          "blogger": "IIXVIIIVIVIII 디에스이라이",
+          "date": "2013-03-04"
         },
         {
-          "title": "[알라딘서재][100자평] 주식시장은 어떻게 반복되는가",
-          "link": "https://blog.aladin.co.kr/752895105/13937245",
-          "blogger": "https://blog.aladin.co.kr/",
-          "date": "2022-09-17"
+          "title": "C언어 영상처리 최종 정리 - filter, padding, upsampling",
+          "link": "https://yoonschallenge.tistory.com/422",
+          "blogger": "공대생 도전 일지",
+          "date": "2024-04-18"
         },
         {
-          "title": "[정보] 2024 미국 주식시장(NYSE, NASDAQ) 휴장일 총정리",
-          "link": "https://more-dividend.tistory.com/566",
-          "blogger": "경제적 자유를 위한 투자, morediv",
-          "date": "2023-12-16"
+          "title": "디펜바키아 트로픽스노우",
+          "link": "https://blog.naver.com/flowerstoryd/221994783124",
+          "blogger": "대신플라워앤데코 스토리",
+          "date": "2020-06-09"
         },
         {
-          "title": "롤러코스터로 변한 미국주식시장에 대한 개인적인 생각",
-          "link": "https://blog.naver.com/wkwn70/223792312695",
-          "blogger": "베가스풍류객 미국투자",
-          "date": "2025-03-11"
+          "title": "발리 추천 올인클루시브 리조트 [인도네시아, 발리 추천 숙소]",
+          "link": "https://travfotos.tistory.com/1041",
+          "blogger": "트레브의 방랑",
+          "date": "2017-08-20"
         }
       ],
       "topNews": [
         {
-          "title": "9월엔 조정, 12월엔 반등?…코스피 계절 법칙 통할까",
-          "link": "https://www.dailian.co.kr/news/view/1688913/?sc=Naver",
+          "title": "[유통브리핑] 롯데홈쇼핑, 'ALV' 단독 출시 외",
+          "link": "https://www.seoulfn.com/news/articleView.html?idxno=637239",
           "press": "",
-          "date": "2026-09-10"
+          "date": "2026-09-05"
         },
         {
-          "title": "벨론, 유럽 IPO 포함 소수주주 지분 처리 방안 검토",
-          "link": "https://www.tokenpost.kr/news/market/406074",
+          "title": "한예종 AT랩 제작 '트로픽', 세계 3대 장르 영화제서 촬영상 수상",
+          "link": "https://www.nc.press/news/articleView.html?idxno=622008",
           "press": "",
-          "date": "2026-09-10"
+          "date": "2026-07-29"
         },
         {
-          "title": "[더벨][Company Watch] 두산, DLS 매각금 사후정산 '방어막' 1000억 예금 ...",
-          "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609091000558760107538",
+          "title": "실패 없는 만능 수영복 트렌드 6",
+          "link": "https://woman.donga.com/3/all/12/6288292/1",
           "press": "",
-          "date": "2026-09-10"
+          "date": "2026-07-07"
         },
         {
-          "title": "'백투백 인상'에도 저축은행은 금리 내렸다…예금 경쟁 '시들'",
-          "link": "https://www.dailian.co.kr/news/view/1688921/?sc=Naver",
+          "title": "씨엔티테크·한양대기술지주, 스포츠 스타트업 투자 연계 행사 개최…1...",
+          "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5034806",
           "press": "",
-          "date": "2026-09-10"
+          "date": "2026-06-28"
         },
         {
-          "title": "AI 수요에 오라클 순익 60% 급증…주가 6%↑",
-          "link": "https://www.edaily.co.kr/News/Read?newsId=02509206645579136&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+          "title": "\"스포츠 모태펀드·시드투자 하나로\"…씨엔티-한양대, '스케일업 매치'",
+          "link": "https://www.news1.kr/industry/sb-founded/6207139",
           "press": "",
-          "date": "2026-09-10"
+          "date": "2026-06-24"
         }
       ],
       "rank": 10
