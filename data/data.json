@@ -1,74 +1,74 @@
 {
-  "updatedAt": "2026-09-13T19:11:04.285Z",
+  "updatedAt": "2026-09-13T21:33:13.630Z",
   "source": "live",
   "keywords": [
     {
-      "keyword": "프리미어리그",
-      "traffic": "500+",
-      "blogTotal": 263816,
-      "newsTotal": 930117,
-      "recentToday": 78,
+      "keyword": "태풍",
+      "traffic": "2000+",
+      "blogTotal": 1508644,
+      "newsTotal": 1310515,
+      "recentToday": 82,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "EPL 프리미어리그 20라운드 사우스햄튼 VS 토트넘",
-          "link": "https://pk0025.tistory.com/2306",
-          "blogger": "온종일 스토리",
-          "date": "2021-12-27"
+          "title": "[알라딘서재][100자평] 제11호 태풍 힌남노",
+          "link": "https://blog.aladin.co.kr/700449163/16645340",
+          "blogger": "https://blog.aladin.co.kr/",
+          "date": "2025-08-05"
         },
         {
-          "title": "EPL 프리미어리그 17라운드 브렌트포드 VS 토트넘",
-          "link": "https://pk0025.tistory.com/2888",
-          "blogger": "온종일 스토리",
-          "date": "2022-12-21"
+          "title": "태풍 지난후 두물머리",
+          "link": "https://daekeuncho.tistory.com/3666",
+          "blogger": "▶ 상록수 초원의 빛",
+          "date": "2018-08-27"
         },
         {
-          "title": "EPL 프리미어리그 25라운드 리버풀 VS 사우스햄튼",
-          "link": "https://pk0025.tistory.com/856",
-          "blogger": "온종일 스토리",
-          "date": "2020-01-31"
+          "title": "20호 태풍 부알로이 진로 정보-필리핀 관통 후 베트남 방향으로(2025.0....",
+          "link": "https://typhoon-air.tistory.com/1104",
+          "blogger": "의솔아빠의 야매 태풍정보 + 국내 여행이야기",
+          "date": "2025-09-27"
         },
         {
-          "title": "잉글랜드 프리미어리그 4월30일까지 리그 일정 추가 연기",
-          "link": "https://pk0025.tistory.com/989",
-          "blogger": "온종일 스토리",
-          "date": "2020-03-20"
+          "title": "12호 태풍 링링 후보들 - 아직은 열대요란 단계(2025.08.17. 15:00 기준)",
+          "link": "https://typhoon-air.tistory.com/1090",
+          "blogger": "의솔아빠의 야매 태풍정보 + 국내 여행이야기",
+          "date": "2025-08-17"
         },
         {
-          "title": "EPL 프리미어리그 18라운드 아스톤빌라 VS 토트넘",
-          "link": "https://pk0025.tistory.com/1583",
-          "blogger": "온종일 스토리",
-          "date": "2021-01-11"
+          "title": "2호 태풍 스팟 발생 및 진로정보(2025.06.23. 21:00 기준)",
+          "link": "https://typhoon-air.tistory.com/1065",
+          "blogger": "의솔아빠의 야매 태풍정보 + 국내 여행이야기",
+          "date": "2025-06-23"
         }
       ],
       "topNews": [
         {
-          "title": "\"영입 기조에 완벽하게 부합해\" 맨체스터 유나이티드 3년 리빌딩 '마지...",
-          "link": "https://mhnse.com/news/articleView.html?idxno=1542403",
+          "title": "[경주지진 10년…대한민국은 안전한가] (1) 민간건축 ‘사각지대’…내...",
+          "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609111823339720693",
           "press": "",
           "date": "2026-09-13"
         },
         {
-          "title": "'은퇴 3개월 만에 리버풀로 돌아왔다!' 프리미어리그 658경기 '철인' 제...",
-          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=97830",
+          "title": "정문철 KB라이프 대표, CSM 확대·건강보험 시장 진출…시니어 사업 확장...",
+          "link": "https://www.fntimes.com/html/view.php?ud=202609111051548506ed56b8e1f8_18",
           "press": "",
           "date": "2026-09-13"
         },
         {
-          "title": "[PL REVIEW] 포든 23분 다이렉트 퇴장에도...맨시티, 맨유 홈에서 굴욕 안...",
-          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=694469",
+          "title": "[르포] 신안 바다 위 ‘63빌딩’ 높이 바람개비… 호남 전력 핵심 전남...",
+          "link": "https://biz.chosun.com/industry/company/2026/09/14/U5XM4RJTZZAAJDRLAPVYP2WERA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
           "press": "",
           "date": "2026-09-13"
         },
         {
-          "title": "'이럴 수가' 캐릭볼 최악의 굴욕! 67분간 수적 우위에도 '무득점'...래시...",
-          "link": "https://mhnse.com/news/articleView.html?idxno=1542603",
+          "title": "자본력 키운 KB증권…강진두·이홍구, 비은행 수익성 강화 증명 임무 [새...",
+          "link": "https://www.fntimes.com/html/view.php?ud=202609122139103909179ad43907_18",
           "press": "",
           "date": "2026-09-13"
         },
         {
-          "title": "토트넘 vs 에버튼, 프리미어리그 런던 격돌",
-          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3693848",
+          "title": "[김지욱 저작권썰.zip](59) WIPO조차 답 못 낸 ‘AI 음악 저작권’",
+          "link": "https://isplus.com/article/view/isp202609130153",
           "press": "",
           "date": "2026-09-13"
         }
@@ -76,72 +76,72 @@
       "rank": 1
     },
     {
-      "keyword": "pl",
-      "traffic": "100+",
-      "blogTotal": 100409,
-      "newsTotal": 111435,
-      "recentToday": 30,
+      "keyword": "하석진",
+      "traffic": "200+",
+      "blogTotal": 16347,
+      "newsTotal": 75426,
+      "recentToday": 51,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "[오라클]테이블 구조 조회+제약조건 확인",
-          "link": "https://dolphwtsanta.tistory.com/5388",
-          "blogger": "너 알 나 알 mOnEy 파이프라인",
-          "date": "2024-03-12"
+          "title": "원스 어폰 어 타임 인 생초리(2010), Once Upon a Time in Saeng Cho-ri",
+          "link": "https://alienbeing.tistory.com/938",
+          "blogger": "외계인 지구별을 탐하다",
+          "date": "2017-02-15"
         },
         {
-          "title": "Java Cloud Service: Scheduling - CLOUD_SCHEDULER (Fusion Applications Developer Relations)",
-          "link": "https://blogs.oracle.com/fadevrel/entry/java_cloud_service_scheduling_cloud",
-          "blogger": "Oracle Blogs",
-          "date": "1990-01-01"
+          "title": "드라마 키스신",
+          "link": "https://jjaltheqoo.tistory.com/8434",
+          "blogger": "짤방더쿠",
+          "date": "2020-07-24"
         },
         {
-          "title": "Use Repository APIs to Manage and Schedule Workflows to run | Oracle Data Mining (ODM) Blo....",
-          "link": "https://blogs.oracle.com/datamining/use-repository-apis-to-manage-and-schedule-workflows-to-run",
-          "blogger": "Oracle Blogs",
-          "date": "2015-03-29"
+          "title": "내일이 오면(2011), If Tomorrow Comes",
+          "link": "https://alienbeing.tistory.com/873",
+          "blogger": "외계인 지구별을 탐하다",
+          "date": "2017-02-12"
         },
         {
-          "title": "A tool to decode hs_err files | Oracle David Dice's Blog",
-          "link": "https://blogs.oracle.com/dave/a-tool-to-decode-hserr-files",
-          "blogger": "Oracle Blogs",
-          "date": "2006-09-11"
+          "title": "상어(2013), 치명적 사랑에 빠진 그들이 온다",
+          "link": "https://alienbeing.tistory.com/569",
+          "blogger": "외계인 지구별을 탐하다",
+          "date": "2016-12-01"
         },
         {
-          "title": "K-PL-FH1 4702-2PLFH1-A4231B01 :: 모니터.LED-TV&모든PC&노트북&산업장비수리",
-          "link": "https://hjstcokr.tistory.com/15813315",
-          "blogger": "모니터.LED-TV&모든PC&노트북&산업장비수리 :: 모니터.LED-TV&모든PC&노트북&산업장비수리",
-          "date": "2022-01-02"
+          "title": "문제적남자 이수린 신준하 케임브리지 입학 꿀팁 서울대 대통령 과....",
+          "link": "https://sometv.tistory.com/2086",
+          "blogger": "썸타는티비 :: 썸타는티비",
+          "date": "2019-01-08"
         }
       ],
       "topNews": [
         {
-          "title": "'은퇴 3개월 만에 리버풀로 돌아왔다!' 프리미어리그 658경기 '철인' 제...",
-          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=97830",
+          "title": "[사랑이 온다] 하석진, “아무도 모르는 데 가서 셋이 살까?” 안희연+윤...",
+          "link": "https://kstar.kbs.co.kr/list_view.html?idx=409961",
           "press": "",
           "date": "2026-09-13"
         },
         {
-          "title": "[PL REVIEW] 포든 23분 다이렉트 퇴장에도...맨시티, 맨유 홈에서 굴욕 안...",
-          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=694469",
+          "title": "‘사랑이 온다’ 자매 갈퉁 심상찮다…하석진 “우리 셋이 살까” 폭탄...",
+          "link": "https://www.wikitree.co.kr/articles/1159236",
           "press": "",
           "date": "2026-09-13"
         },
         {
-          "title": "[pl.review] '10명이 싸우고도 맨유 잡았다!' 포든 퇴장→홀란드 결승골...",
-          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=97828",
+          "title": "'사랑이 온다' 하석진, 윤하빈에 \"셋이 살까?\"…안희연과 재결합?",
+          "link": "http://enews.imbc.com/News/RetrieveNewsInfo/518143",
           "press": "",
           "date": "2026-09-13"
         },
         {
-          "title": "'4경기 연속 무득점' 구단 최초 굴욕에도 당장 경질 계획 없다…\"상황을...",
-          "link": "https://www.mydaily.co.kr/page/view/2026091315142985306",
+          "title": "'사랑이 온다' 하석진, 안희연에 \"셋이 살까\"…17회 예고",
+          "link": "https://www.bntnews.co.kr/article/view/bnt202609130072",
           "press": "",
           "date": "2026-09-13"
         },
         {
-          "title": "'맨체스터 유나이티드 또 초대형 영입 준비한다!' 지난여름 MF 3명 샀는...",
-          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=97825",
+          "title": "[종합] '사랑이 온다' 하석진, 하니 母子 태우고 \"셋이 살까\" 깜짝 제안",
+          "link": "https://enter.etoday.co.kr/news/view/302370",
           "press": "",
           "date": "2026-09-13"
         }
@@ -149,72 +149,72 @@
       "rank": 2
     },
     {
-      "keyword": "김민재",
-      "traffic": "500+",
-      "blogTotal": 74770,
-      "newsTotal": 299988,
-      "recentToday": 23,
-      "recentWeek": 100,
+      "keyword": "오스틴 딘",
+      "traffic": "200+",
+      "blogTotal": 2058,
+      "newsTotal": 22298,
+      "recentToday": 47,
+      "recentWeek": 86,
       "topBlogs": [
         {
-          "title": "도시경찰 KCSI 3회 줄거리 재방송시간 편성표 천정명 조재윤 김민재 ....",
-          "link": "https://yummy1225.tistory.com/225",
-          "blogger": "맛있는 정보",
-          "date": "2019-08-12"
+          "title": "쏠퀴즈 365일 즐기는 야구 / 상식 퀴즈 2023년 3월 28일",
+          "link": "https://kyworld2.tistory.com/808",
+          "blogger": "용권이세상",
+          "date": "2023-03-28"
         },
         {
-          "title": "김민재 손흥민 인스타 언팔.jpg",
-          "link": "https://thesummary.tistory.com/307",
-          "blogger": "내가 정리해 줄게",
-          "date": "2023-03-29"
+          "title": "[2023년 12월 14일] 신한 위비 리브메이트 네이버 포인트 줍기",
+          "link": "https://yoosfully.tistory.com/473",
+          "blogger": "유즈풀리",
+          "date": "2023-12-14"
         },
         {
-          "title": "김민재 말에 바로 공감하는 박지성",
-          "link": "https://hunter486.tistory.com/1520",
-          "blogger": "하이엔드UP",
-          "date": "2024-02-19"
+          "title": "[알라딘서재]너무 좋아요~~~",
+          "link": "https://blog.aladin.co.kr/729713268/13698747",
+          "blogger": "https://blog.aladin.co.kr/",
+          "date": "2022-06-21"
         },
         {
-          "title": "김민재X박규영 움짤 GIF",
-          "link": "https://zero-gif.tistory.com/127",
-          "blogger": "제로",
-          "date": "2021-08-17"
+          "title": "(완료)2026 KBO 외국인 - HANWHA EAGLES / 윌켈 에르난데스, 오웬 화이트, 요....",
+          "link": "https://srhn2020.tistory.com/5995",
+          "blogger": "추억그아름다운이름",
+          "date": "2025-11-13"
         },
         {
-          "title": "UEFA 챔피언스리그 조추첨 확정 손흥민,김민재 활약상 기대 :: 온종일....",
-          "link": "https://pk0025.tistory.com/2729",
-          "blogger": "온종일 스토리",
-          "date": "2022-08-26"
+          "title": "(완료)2026 KBO 외국인 - KIWOOM HEROES / 라울 알칸타라, 네이선 와일스, 트....",
+          "link": "https://srhn2020.tistory.com/5992",
+          "blogger": "추억그아름다운이름",
+          "date": "2025-11-13"
         }
       ],
       "topNews": [
         {
-          "title": "'김민재 풀타임, 케인 월드클래스 결승골' 바이에른 승리, '1부는 실전'...",
-          "link": "http://www.footballist.co.kr/news/articleView.html?idxno=214786",
+          "title": "최원준 “타격왕은 욕심 없고, 골든글러브는 살짝…” KT 이적 뒤 최고 ...",
+          "link": "https://sports.khan.co.kr/article/202609140600006?pt=nv",
           "press": "",
           "date": "2026-09-13"
         },
         {
-          "title": "[분데스 LINE UP] 김민재, 돌풍의 팀 '창단 119년 만에 1부' 엘버스베르...",
-          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=694468",
+          "title": "삼성 1위 안 하고 싶어? 만원 관중 앞 참사…구자욱+이재현 없는데, 투수...",
+          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1007274",
           "press": "",
           "date": "2026-09-13"
         },
         {
-          "title": "‘꽃파당’ 13~14회, 공승연 김민재 청혼 받고도 결국 이별 선택해 놀랐...",
-          "link": "https://www.wikitree.co.kr/articles/1159237",
+          "title": "\"임찬규 100승 하는 소리 하네? 이야기도 들었지만... 너무 영광\" 실제 ...",
+          "link": "https://www.starnewskorea.com/sports/2026/09/14/2026091320521594110",
           "press": "",
           "date": "2026-09-13"
         },
         {
-          "title": "2년 만에 분데스리가 선두 내준 바이에른 뮌헨, 김민재 선발 명단 복귀...",
-          "link": "https://www.mydaily.co.kr/page/view/2026091323454485000",
+          "title": "[현장 포커스] 타선은 식고 구자욱은 다쳤다…선두 싸움 최대 고비 맞은...",
+          "link": "https://www.newspim.com/news/view/20260914000002",
           "press": "",
           "date": "2026-09-13"
         },
         {
-          "title": "한국에서 대박나자 유럽에서…계급장 없는 서바이벌 '예능'",
-          "link": "https://www.wikitree.co.kr/articles/1159212",
+          "title": "역대 최연소 달성! 그래도 '아홉수'가 야속하다…'고작 1개 차' 이제 떠...",
+          "link": "https://www.sportschosun.com/baseball/2026-09-14/202609140100091950006015",
           "press": "",
           "date": "2026-09-13"
         }
@@ -222,145 +222,145 @@
       "rank": 3
     },
     {
-      "keyword": "at마드리드",
-      "traffic": "100+",
-      "blogTotal": 18727,
-      "newsTotal": 20610,
-      "recentToday": 11,
+      "keyword": "이동국",
+      "traffic": "500+",
+      "blogTotal": 28120,
+      "newsTotal": 183258,
+      "recentToday": 29,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "2018 러시아월드컵 우루과이 대표팀 명단",
-          "link": "https://bebeng86.tistory.com/120",
-          "blogger": "배뱅이의 일상다반사",
-          "date": "2018-06-12"
+          "title": "이만기 아들",
+          "link": "https://jjaltheqoo.tistory.com/7705",
+          "blogger": "짤방더쿠",
+          "date": "2020-06-30"
         },
         {
-          "title": "주말 해외축구 TV 중계 일정(맨시티, 맨유, 첼시, 뮌헨, 도르트문트, ....",
-          "link": "https://ews1016.tistory.com/1320",
-          "blogger": "테츠의 잡동사니",
-          "date": "2014-04-05"
+          "title": "[뉴스모음] 2011년 11월 14일 월요일",
+          "link": "https://venhuh.tistory.com/692",
+          "blogger": "cityman",
+          "date": "2011-11-15"
         },
         {
-          "title": "2018 러시아월드컵 크로아티아 대표팀 명단",
-          "link": "https://bebeng86.tistory.com/131",
-          "blogger": "배뱅이의 일상다반사",
-          "date": "2018-06-12"
+          "title": "2015 K리그 대상 수상자",
+          "link": "https://chappira.tistory.com/684",
+          "blogger": "차삐라의 축구기록",
+          "date": "2015-12-01"
         },
         {
-          "title": "* 마드리드 사인 표지판 [ Brut Deluxe Architecture + Design ] Totem de.dos",
-          "link": "https://5osa.com/2736",
-          "blogger": "5osA_오사",
-          "date": "2011-01-23"
+          "title": "[알라딘서재]정기3차 예술",
+          "link": "https://blog.aladin.co.kr/708578164/15567751",
+          "blogger": "https://blog.aladin.co.kr/",
+          "date": "2024-05-27"
         },
         {
-          "title": "마드리드 4개의 넓은 안뜰 주택[SFJ6 Building] - MARMOLBRAVO + MADhel",
-          "link": "https://4901.tistory.com/279",
-          "blogger": "4901_사구공일",
-          "date": "2023-11-24"
+          "title": "월드컵 예비선수 30명 발표",
+          "link": "https://martial-arts.tistory.com/555",
+          "blogger": "SomaResearch/MartialartsReport",
+          "date": "2010-04-30"
         }
       ],
       "topNews": [
         {
-          "title": "'망했다' 이강인 '또' 독박축구 확정...AT마드리드 에이스 알바레스 훈련...",
-          "link": "https://mhnse.com/news/articleView.html?idxno=1542351",
+          "title": "'이동국 딸' 재시, 뉴욕행 포기…母 이수진이 눈물 쏟은 이유",
+          "link": "https://www.xportsnews.com/article/2194228",
           "press": "",
           "date": "2026-09-13"
         },
         {
-          "title": "AT마드리드 이강인, 내일 소시에다드 원정…3경기 만에 공격P 도전",
-          "link": "https://www.newsis.com/view/NISX20260912_0003786851",
+          "title": "이동경, 토종 K리거 최초… 2시즌 연속 ‘10-10 클럽’",
+          "link": "https://www.segye.com/newsView/20260913509413?OutUrl=naver",
           "press": "",
-          "date": "2026-09-12"
+          "date": "2026-09-13"
         },
         {
-          "title": "'벌써 두 번째 수상'…'이강인은 아틀레티코 최고의 영입' 시즌 초반 활...",
-          "link": "https://www.mydaily.co.kr/page/view/2026091209321677473",
+          "title": "악재 반복에도 무패는 멈추지 않는다…강원FC, 김천상무와 극적 무승부",
+          "link": "https://www.kado.net/news/articleView.html?idxno=2072334",
           "press": "",
-          "date": "2026-09-12"
+          "date": "2026-09-13"
         },
         {
-          "title": "토트넘 떠나고 '우리 아이가 달라졌어요'…로메로 대활약에 흡족한 AT 마...",
-          "link": "https://www.goal.com/kr/뉴스/a/blte9c18a972e71b022",
+          "title": "진천군청 육상팀, 군민 생활체육 '일일 지도자' 변신",
+          "link": "https://www.inews365.com/news/article.html?no=935482",
           "press": "",
-          "date": "2026-09-12"
+          "date": "2026-09-13"
         },
         {
-          "title": "\"그리즈만과 다른 이강인, 같이 쓸 수 있어?\"...AT 팬들의 의문, 리버풀...",
-          "link": "https://www.mydaily.co.kr/page/view/2026091117103610377",
+          "title": "\"방송 출연하기 싫어\"…연예인 자녀 고충→방송 후폭풍에 덩달아 눈물 ...",
+          "link": "https://www.tvreport.co.kr/star/article/1075304/",
           "press": "",
-          "date": "2026-09-11"
+          "date": "2026-09-13"
         }
       ],
       "rank": 4
     },
     {
-      "keyword": "nfl",
-      "traffic": "200+",
-      "blogTotal": 25672,
-      "newsTotal": 86958,
-      "recentToday": 11,
+      "keyword": "알테오젠",
+      "traffic": "100+",
+      "blogTotal": 40627,
+      "newsTotal": 119695,
+      "recentToday": 28,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "Idea Log: Cardinals StadiumIdea Log: Cardinals StadiumIdea Log: Cardinals Stadium",
-          "link": "https://www.fastcompany.com/77169/idea-log-cardinals-stadium",
-          "blogger": "https://www.fastcompany.com/",
-          "date": "2007-12-19"
+          "title": "2021.06.18 장 마감 대량거래",
+          "link": "https://jking.tistory.com/131",
+          "blogger": "길봉테크┃GB-Tech",
+          "date": "2021-06-18"
         },
         {
-          "title": "What Taylor Swift and Travis Kelce's romance can teach about marketing",
-          "link": "https://www.fastcompany.com/90986060/what-taylor-swift-and-travis-kelces-romance-can-teach-us-about-marketing?partner=rss",
-          "blogger": "https://www.fastcompany.com/",
-          "date": "2023-11-21"
+          "title": "20200318_코스피/코스닥 일거래현황 및 피봇데이터",
+          "link": "https://ddoddoing.tistory.com/232",
+          "blogger": "여기저기 이것저것",
+          "date": "2020-03-18"
         },
         {
-          "title": "지누바라기",
-          "link": "https://jinoo0918.tistory.com/303",
-          "blogger": "지누바라기",
-          "date": "2023-01-08"
+          "title": "달공이 2024년 4월 18일 KRX 100 주식 종목 등락율 정보 :: 달공이의 주식....",
+          "link": "https://dal02stock.tistory.com/60527",
+          "blogger": "달공이의 주식 투자 이야기 :: 달공이의 주식 투자 이야기",
+          "date": "2024-04-18"
         },
         {
-          "title": "Taylor Swift's Kamala endorsement shows the line between politics and entertainment is blu....",
-          "link": "https://www.fastcompany.com/91192555/how-politics-became-the-new-entertainment",
-          "blogger": "https://www.fastcompany.com/",
-          "date": "2024-09-18"
+          "title": "달공이 2024년 5월 17일 KRX 100 주식 종목 등락율 정보 :: 달공이의 주식....",
+          "link": "https://dal02stock.tistory.com/60959",
+          "blogger": "달공이의 주식 투자 이야기 :: 달공이의 주식 투자 이야기",
+          "date": "2024-05-17"
         },
         {
-          "title": "Why you shouldn't be surprised by A24's Thrive Capital deal",
-          "link": "https://www.fastcompany.com/91150195/a24-thrive-capital-wall-street-roots",
-          "blogger": "https://www.fastcompany.com/",
-          "date": "2024-07-02"
+          "title": "시장 주도주 11월14일",
+          "link": "https://dalkong2rang.tistory.com/1068",
+          "blogger": "달콩이랑 눈누난나🐾",
+          "date": "2025-11-15"
         }
       ],
       "topNews": [
         {
-          "title": "Bills Texans Football",
-          "link": "https://n.news.naver.com/mnews/article/077/0007162027?sid=104",
+          "title": "바이오니아, 분자진단 자동화 기술 '프리 갈리앵' 수상",
+          "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=864560",
           "press": "",
           "date": "2026-09-13"
         },
         {
-          "title": "Bills Texans Football",
-          "link": "https://n.news.naver.com/mnews/article/077/0007162026?sid=104",
+          "title": "병원서 몇 시간 맞던 항암 치료제, 집에서 5분이면 끝… '홈 투약시대' ...",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092169942",
           "press": "",
           "date": "2026-09-13"
         },
         {
-          "title": "Bills Texans Football",
-          "link": "https://n.news.naver.com/mnews/article/077/0007162010?sid=104",
+          "title": "[주간수급리포트] 3% 랠리에도 무너진 7천피…주 후반 쏟아진 매물에 코...",
+          "link": "https://www.etoday.co.kr/news/view/2624679",
           "press": "",
           "date": "2026-09-13"
         },
         {
-          "title": "Falcons Steelers Football",
-          "link": "https://n.news.naver.com/mnews/article/077/0007162009?sid=104",
+          "title": "바이오니아, 분자진단 플랫폼 '프리 갈리앵 코리아' 최우수 의료기술상",
+          "link": "http://www.hellodd.com/news/articleView.html?idxno=113157",
           "press": "",
           "date": "2026-09-13"
         },
         {
-          "title": "Ravins Colts Football",
-          "link": "https://n.news.naver.com/mnews/article/077/0007162004?sid=104",
+          "title": "허태정 '한가위 구상' … 민생 현안 두마리 토끼 잡는다",
+          "link": "https://www.joongdo.co.kr/web/view.php?key=20260913010004095",
           "press": "",
           "date": "2026-09-13"
         }
@@ -368,309 +368,364 @@
       "rank": 5
     },
     {
-      "keyword": "김원효",
-      "traffic": "500+",
-      "blogTotal": 8220,
-      "newsTotal": 42922,
-      "recentToday": 6,
-      "recentWeek": 33,
+      "keyword": "김주애",
+      "traffic": "200+",
+      "blogTotal": 4236,
+      "newsTotal": 19091,
+      "recentToday": 14,
+      "recentWeek": 58,
       "topBlogs": [
         {
-          "title": "개승자 14회 다시보기 재방송 시간 14화",
-          "link": "https://harrysinfo.tistory.com/265",
-          "blogger": "해리스",
-          "date": "2022-02-26"
+          "title": "이재명 사면초가...곳곳서 \"물러나라\"아우성? [오전LIVE]",
+          "link": "https://namsarang.tistory.com/9074775",
+          "blogger": "남사랑",
+          "date": "2023-11-29"
         },
         {
-          "title": "2016.10.02 부산 바다 마라톤 후기 및 치어리더 공연 사진 :: 생각하는 ....",
-          "link": "https://gogd.tistory.com/1291",
-          "blogger": "생각하는 사람 :: 생각하는 사람",
-          "date": "2016-10-02"
+          "title": "1월 20일 실시간 스트리밍 | 이현종 정혁진 진행",
+          "link": "https://namsarang.tistory.com/9075104",
+          "blogger": "남사랑",
+          "date": "2024-01-20"
         },
         {
-          "title": "우리 경산 2022년 12월호 Vol. 286",
-          "link": "https://whang1600.tistory.com/17965821",
-          "blogger": "daegu universty",
-          "date": "2022-12-07"
+          "title": "의자부터 마신 컵까지… ‘김정은 흔적’ 족족 지운다-북",
+          "link": "https://jeongsimkim.tistory.com/57173",
+          "blogger": "글 과 사진",
+          "date": "2025-09-04"
         },
         {
-          "title": "개(그로) 승(부하는) 자(들) 9회 다시보기",
-          "link": "https://yoonbba.tistory.com/3294",
-          "blogger": "윤해파파",
-          "date": "2022-01-16"
+          "title": "북중 정상회담서 사라진 '비핵화'…더 꼬여버린 대북 접근",
+          "link": "https://jeongsimkim.tistory.com/57197",
+          "blogger": "글 과 사진",
+          "date": "2025-09-07"
         },
         {
-          "title": "알토란 포항 별미 한 상 대게찜 만드는 법 포항초찌개 만들기 레시....",
-          "link": "https://pirin888.tistory.com/5768",
-          "blogger": "nirip :: nirip",
-          "date": "2024-01-13"
+          "title": "[알라딘서재]25년 7차 D존",
+          "link": "https://blog.aladin.co.kr/777843102/16264850",
+          "blogger": "https://blog.aladin.co.kr/",
+          "date": "2025-02-28"
         }
       ],
       "topNews": [
         {
-          "title": "'김원효♥' 심진화, 살 빠지더니 여배우 아우라…\"개그계 송혜교 맞네\"",
-          "link": "http://www.osen.co.kr/article/G1112875181",
+          "title": "[이영종의 통일 오디세이] '아들 있다'→'있다 하더라도'...국정원, 판단...",
+          "link": "https://www.newspim.com/news/view/20260914000001",
           "press": "",
           "date": "2026-09-13"
         },
         {
-          "title": "경북도, '2026 경북 청년 이음 페스타' 개최…청년 1만명 방문 '성황'",
-          "link": "https://www.eroun.net/news/articleView.html?idxno=89959",
+          "title": "“모피 걸친 김주애 본 아이들, 분노했다”…탈북민 전한 北민심",
+          "link": "https://www.joongang.co.kr/article/25461447",
           "press": "",
           "date": "2026-09-13"
         },
         {
-          "title": "[단독]'아는 형님' 민경훈 빈자리, 김원효가 채운다..10월 일일 형님 출...",
-          "link": "https://www.starnewskorea.com/broadcast-show/2026/09/13/2026091306525891283",
+          "title": "\"주애 보면 화날 수밖에\"…북한 청년들은 상대적 박탈감?",
+          "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5218887",
           "press": "",
-          "date": "2026-09-12"
+          "date": "2026-09-13"
         },
         {
-          "title": "'김원효♥' 심진화, 15살 때부터 신문 배달→설거지…\"그것만 했겠나\" (...",
-          "link": "https://www.tvreport.co.kr/broadcast/article/1075053/",
+          "title": "“김주애 화려한 후계 행보에 북한 청년층 반발”",
+          "link": "https://weekly.khan.co.kr/article/202609131556001",
           "press": "",
-          "date": "2026-09-11"
+          "date": "2026-09-13"
         },
         {
-          "title": "하하, 방송 3사 돌며 ‘텅텅 콘서트’ 홍보→3일 앞두고 매진 “믿기지...",
-          "link": "https://www.newsen.com/news_view.php?uid=202609101754100310",
+          "title": "\"지 딸만 편애하는 김정은에 민심 요동\"…장교 출신 탈북민 분석",
+          "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&news_seq_no=5218863",
           "press": "",
-          "date": "2026-09-10"
+          "date": "2026-09-13"
         }
       ],
       "rank": 6
     },
     {
-      "keyword": "로드리",
-      "traffic": "100+",
-      "blogTotal": 6222,
-      "newsTotal": 16858,
-      "recentToday": 6,
-      "recentWeek": 87,
+      "keyword": "대한민국의 대법관",
+      "traffic": "500+",
+      "blogTotal": 1796,
+      "newsTotal": 35740,
+      "recentToday": 1,
+      "recentWeek": 21,
       "topBlogs": [
         {
-          "title": "[오피셜] 라리가 이적시장 오피셜 - 아틀레티코 마드리드",
-          "link": "https://lifetechnicolor.tistory.com/3258",
-          "blogger": "유럽축구 이적시장 뉴스",
-          "date": "2018-08-12"
+          "title": "2025.06.10(화) 21개 언론사 사설 모음 [새벽창] 대통령,이재명,미국,실....",
+          "link": "https://early-bird-news.tistory.com/1193",
+          "blogger": "새벽창",
+          "date": "2025-06-10"
         },
         {
-          "title": "[오피셜] 2019 여름 이적시장 라리가 20개 구단 오피셜 총 정리",
-          "link": "https://lifetechnicolor.tistory.com/4298",
-          "blogger": "유럽축구 이적시장 뉴스",
-          "date": "2019-09-11"
+          "title": "갭투자·재건축 수십억 차익 민심 불지른 '부동산 4인방'",
+          "link": "https://easyroad.tistory.com/15739390",
+          "blogger": "권영구의 비즈니스 정보 나눔터 (easyroad)",
+          "date": "2025-10-22"
         },
         {
-          "title": "[BA] 2020년 메이저리그 유망주 Top 100",
-          "link": "https://ladodgers.tistory.com/27265",
-          "blogger": "Los Angeles Dodgers",
-          "date": "2020-01-24"
+          "title": "대법관은 왜 재검표를 하지 않는가?",
+          "link": "https://hahacho113.tistory.com/11312080",
+          "blogger": "언덕 위의 교회",
+          "date": "2020-09-04"
         },
         {
-          "title": "2022년 7월19일 화요일 케이블스포츠 tv편성표 다시보기",
-          "link": "https://tvinfotong.tistory.com/8017",
-          "blogger": "TV정보통",
-          "date": "2022-07-18"
+          "title": "대한민국 의전서열",
+          "link": "https://jonghwa.tistory.com/1858",
+          "blogger": "無爲而化",
+          "date": "2013-02-05"
         },
         {
-          "title": "[MLB] 2009년 5월 2일의 메이저리그 결과",
-          "link": "https://hyunby1986.tistory.com/463",
-          "blogger": "턴오버1위",
-          "date": "2009-05-02"
+          "title": "신문사설 2025년 5월 26일 월요일 - 정책 경쟁보다 네거티브 공방, 민....",
+          "link": "https://articlever.tistory.com/5066",
+          "blogger": "신문사설",
+          "date": "2025-05-26"
         }
       ],
       "topNews": [
         {
-          "title": "'하피냐 2도움, 아데예미 원더골, 5경기 21골' 바르셀로나표 '닥공', 레반...",
-          "link": "http://www.footballist.co.kr/news/articleView.html?idxno=214785",
+          "title": "재제청 충돌에… 김성수 “서로의 권한 존중해야”",
+          "link": "https://www.seoul.co.kr/news/society/law/2026/09/14/20260914012005?wlog_tag3=naver",
           "press": "",
           "date": "2026-09-13"
         },
         {
-          "title": "[PL LINE UP] 래시포드 또 선발vs엔조-앤더슨 중원 가동...시즌 첫 번째 ...",
-          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=694467",
+          "title": "[오늘의 국회일정] 국회의장·상임위·세미나·기자회견·주요 정당 - 9월...",
+          "link": "https://www.newspim.com/news/view/20260913000189",
           "press": "",
           "date": "2026-09-13"
         },
         {
-          "title": "[오피셜] 케인? 음바페? 발롱도르 선정 기준 3가지 발표, '개인 활약+팀...",
-          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=97809",
+          "title": "[오늘의 국회일정] (14일, 월)",
+          "link": "https://www.news1.kr/politics/assembly/6288952",
           "press": "",
           "date": "2026-09-13"
         },
         {
-          "title": "클린스만·홍명보와 정반대…모레노의 '디테일 축구' 한국 살릴까",
-          "link": "https://www.sisajournal.com/news/articleView.html?idxno=386609",
+          "title": "[오늘의 주요일정]국회(9월14일 월요일)",
+          "link": "https://www.newsis.com/view/NISX20260913_0003787526",
           "press": "",
           "date": "2026-09-13"
         },
         {
-          "title": "'방출 후보→맨유 중원의 중심으로!' 이적 고민하던 성골 유스의 대반전...",
-          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=97794",
+          "title": "[김정기의 소통카페] 괴물은 영화에만 있지 않다",
+          "link": "https://www.joongang.co.kr/article/25461508",
           "press": "",
-          "date": "2026-09-12"
+          "date": "2026-09-13"
         }
       ],
       "rank": 7
     },
     {
-      "keyword": "라민 야말",
-      "traffic": "100+",
-      "blogTotal": 3665,
-      "newsTotal": 12433,
-      "recentToday": 2,
+      "keyword": "드라마",
+      "traffic": "200+",
+      "blogTotal": 5448965,
+      "newsTotal": 10081424,
+      "recentToday": 0,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "[공홈] 라민 야말, 라리가 최연소 도움 기록",
-          "link": "https://bsj2055.tistory.com/4694",
-          "blogger": "축구하는 블로그",
-          "date": "2023-08-28"
+          "title": "[알라딘서재]역사드라마 DVD",
+          "link": "https://blog.aladin.co.kr/712139133/3217244",
+          "blogger": "https://blog.aladin.co.kr/",
+          "date": "2009-11-20"
         },
         {
-          "title": "FC 바르셀로나 역사상 최고의 스트라이커 Top 10",
-          "link": "https://footballpediahistory.tistory.com/391",
-          "blogger": "풋볼피디아 FootballpediA - 축구 백과사전",
-          "date": "2025-08-20"
+          "title": "'드라마촬영지' 태그의 글 목록 - Raycat",
+          "link": "https://raycat.net/tag/%EB%93%9C%EB%9D%BC%EB%A7%88%EC%B4%AC%EC%98%81%EC%A7%80",
+          "blogger": "Raycat : Photo and Story",
+          "date": "1990-01-01"
         },
         {
-          "title": "FM26 원더키드 완전 정복! 포지션별 최고 유망주 & 영입 리스트 — ONE",
-          "link": "https://oneanimation.tistory.com/442",
-          "blogger": "ONE — ONE",
-          "date": "2025-10-26"
+          "title": "[알라딘서재]드라마극본,시나리오,희곡 등",
+          "link": "https://blog.aladin.co.kr/Noir_Moon/7487979",
+          "blogger": "https://blog.aladin.co.kr/",
+          "date": "2015-04-23"
         },
         {
-          "title": "바르셀로나, 니코 윌리암스 영입 위해 페란 토레스 판매 준비한다",
-          "link": "https://fukkifootball.tistory.com/7050",
-          "blogger": "푸키FootBall",
-          "date": "2024-07-30"
+          "title": "더욱 재밌어진 영화 이야기! '무비빅 영화 읽어주는 남자' 제 123화 (....",
+          "link": "https://blog.skbroadband.com/3852",
+          "blogger": "SK브로드밴드 공식 블로그",
+          "date": "2020-10-29"
         },
         {
-          "title": "하피냐(축구선수)에 대해알아보자",
-          "link": "https://zhskah.tistory.com/1847",
-          "blogger": "뤼케",
-          "date": "2024-09-01"
+          "title": "대구 드라마 영화 촬영명소 사진 수기 스토리텔링 공모전 대구광역....",
+          "link": "https://www.walkview.co.kr/3077",
+          "blogger": "워크뷰의 맛있는 도보여행 :: 워크뷰의 맛있는 도보여행",
+          "date": "2014-12-03"
         }
       ],
       "topNews": [
         {
-          "title": "'하피냐 2도움, 아데예미 원더골, 5경기 21골' 바르셀로나표 '닥공', 레반...",
-          "link": "http://www.footballist.co.kr/news/articleView.html?idxno=214785",
+          "title": "K-OTT, 몸집보다 ‘신뢰’가 먼저…티빙·웨이브 합병 딜레마[Ce:포커스...",
+          "link": "http://www.celuvmedia.com/article.php?aid=1789335000527521006",
           "press": "",
           "date": "2026-09-13"
         },
         {
-          "title": "[오피셜] 케인? 음바페? 발롱도르 선정 기준 3가지 발표, '개인 활약+팀...",
-          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=97809",
+          "title": "23년 전 영화가 8부작으로…극장 흥행작 다시 꺼내는 OTT[SS연예프리즘]",
+          "link": "https://www.sportsseoul.com/news/read/1634698?ref=naver",
           "press": "",
           "date": "2026-09-13"
         },
         {
-          "title": "'충격, 이강인 연봉 1000만유로 아니었나' 아틀레티코 연봉 톱10에도 못...",
-          "link": "https://www.sportschosun.com/football/2026-09-12/202609130100085010005556",
+          "title": "'36세'에 떠난 ★ 故 오인혜, 어느덧 6주기…사망 하루 전까지 소통→안...",
+          "link": "https://mhnse.com/news/articleView.html?idxno=1538171",
           "press": "",
-          "date": "2026-09-12"
+          "date": "2026-09-13"
         },
         {
-          "title": "초대박이다! 520억 '연봉 2패' 파격 제안...아스널vs첼시 영입 경쟁! 정...",
-          "link": "https://www.mydaily.co.kr/page/view/2026091212315100193",
+          "title": "[공식] 장영남, '매각 절차' JTBC 새 드라마 합류 확정…안효섭·홍화연...",
+          "link": "https://www.tenasia.co.kr/article/2026091187024",
           "press": "",
-          "date": "2026-09-12"
+          "date": "2026-09-13"
         },
         {
-          "title": "이런 선수가 발롱도르 후보에 못 들다니...'라리가, UCL 개인상 싹쓸이...",
-          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=694396",
+          "title": "신동엽, 소지섭 '1억 순금 선물' 듣더니 깜짝 발언…\"미우새 마지막 날...",
+          "link": "http://www.osen.co.kr/article/G1112875340",
           "press": "",
-          "date": "2026-09-12"
+          "date": "2026-09-13"
         }
       ],
       "rank": 8
     },
     {
-      "keyword": "levante ud vs fc barcelona standings",
+      "keyword": "테슬라",
       "traffic": "200+",
-      "blogTotal": 0,
-      "newsTotal": 0,
-      "recentToday": 0,
-      "recentWeek": 0,
-      "topBlogs": [
-        {
-          "title": "라리가 2025-26: 4라운드 경기 결과 예측 심층 분석 보고서  -2025년 9월1....",
-          "link": "https://blog.naver.com/camelpro/224006679149",
-          "blogger": "세상을 놓고 맘껏 즐겨라!",
-          "date": "2025-09-13"
-        }
-      ],
-      "topNews": [],
-      "rank": 9
-    },
-    {
-      "keyword": "남자",
-      "traffic": "20000+",
-      "blogTotal": 11216557,
-      "newsTotal": 7139958,
+      "blogTotal": 678884,
+      "newsTotal": 580552,
       "recentToday": 0,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "[알라딘서재]절박함을 버린 남자들 을 읽고",
-          "link": "https://blog.aladin.co.kr/758300168/16051871",
-          "blogger": "https://blog.aladin.co.kr/",
-          "date": "2024-12-04"
+          "title": "TESLA,TSLL,TSL3◇테슬라 NEWS 시장 NEWS 정리(10/21)",
+          "link": "https://teslaspacex.tistory.com/38",
+          "blogger": "keep going",
+          "date": "2022-10-22"
         },
         {
-          "title": "[알라딘서재][100자평] [고화질] 광고회사, 남자기숙사의 오카즈 5",
-          "link": "https://blog.aladin.co.kr/710214156/16744247",
-          "blogger": "https://blog.aladin.co.kr/",
-          "date": "2025-09-15"
+          "title": "[테슬라코리아] Charging Intern 모집",
+          "link": "https://careerbrdg.tistory.com/2844",
+          "blogger": "커리어브릿지 블로그",
+          "date": "2021-06-02"
         },
         {
-          "title": "[알라딘서재]남자를 말하다",
-          "link": "https://blog.aladin.co.kr/naomi/1142029",
-          "blogger": "https://blog.aladin.co.kr/",
-          "date": "2004-02-14"
+          "title": "[테슬라코리아] Recruitment Intern (3 Months Contract) 채용",
+          "link": "https://careerbrdg.tistory.com/2958",
+          "blogger": "커리어브릿지 블로그",
+          "date": "2021-12-16"
         },
         {
-          "title": "2023년에 가장 많이 사랑받은 남자 아기 영어 이름 순위 100",
-          "link": "https://beautifulhappylife.tistory.com/1173",
-          "blogger": "행복한 달토끼의 소소한 행복",
-          "date": "2023-12-30"
+          "title": "[테슬라 코리아] HR Coordinator 채용",
+          "link": "https://careerbrdg.tistory.com/3038",
+          "blogger": "커리어브릿지 블로그",
+          "date": "2022-08-04"
         },
         {
-          "title": "여자들이 남자를 첫인상으로 판단하는 기준",
-          "link": "https://blog.naver.com/duzo328/224014462932",
-          "blogger": "건강하고 행복한 미래를 위해",
-          "date": "2025-09-19"
+          "title": "테슬라,테슬라1.5배,테슬라3배/테슬라 뉴스,시장 상황(10/04) 일론 트....",
+          "link": "https://teslaspacex.tistory.com/17",
+          "blogger": "keep going",
+          "date": "2022-10-05"
         }
       ],
       "topNews": [
         {
-          "title": "\"도저히 용서할 수 없다!\" 세계 랭킹 3위 경기 도중 날벼락, SNS 팬들 저...",
-          "link": "https://www.sportschosun.com/sports-news/2026-09-14/202609140100092160006027",
+          "title": "내가 맞춘 주파수에 따라 전파가 들립니다!",
+          "link": "https://www.abcn.kr/news/articleView.html?idxno=91756",
           "press": "",
           "date": "2026-09-13"
         },
         {
-          "title": "알리손 도스 산토스, 세계 육상 얼티밋 챔피언십 400m 허들 우승",
-          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3693847",
+          "title": "[외신 헤드라인] 아모데이 \"AI 속도조절에 中이 가장 큰 난제\"",
+          "link": "https://biz.sbs.co.kr/article_hub/20000334336?division=NAVER",
           "press": "",
           "date": "2026-09-13"
         },
         {
-          "title": "프랑스 마티외-이탈리아 팔라티, 부다페스트서 90kg급 맞대결",
-          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3693844",
+          "title": "현대차그룹, 자율주행 ‘투 트랙 전략’ 추진",
+          "link": "https://www.segye.com/newsView/20260913509625?OutUrl=naver",
           "press": "",
           "date": "2026-09-13"
         },
         {
-          "title": "헤이든 와일드, 아이언맨 70.3 세계선수권 남자부 우승",
-          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3693840",
+          "title": "GBC 105층 꿈 접고 49층 선택…12년 간 초고층 저주 갇힌 현대차 결말",
+          "link": "https://realty.chosun.com/site/data/html_dir/2026/09/11/2026091101662.html",
           "press": "",
           "date": "2026-09-13"
         },
         {
-          "title": "칼데라노 vs 칼베리, 2026 세계탁구 남자 단식 준결승전 격돌",
-          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3693831",
+          "title": "자동차 화면이 '新영토'…현대차·벤츠·BMW 플랫폼 전쟁",
+          "link": "http://www.inews24.com/view/2004838",
+          "press": "",
+          "date": "2026-09-13"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "keyword": "개",
+      "traffic": "500+",
+      "blogTotal": 2830674,
+      "newsTotal": 1382571,
+      "recentToday": 0,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "[알라딘서재]개에게 철학을 가르치는 완벽한 방법",
+          "link": "https://blog.aladin.co.kr/730059113/14679450",
+          "blogger": "https://blog.aladin.co.kr/",
+          "date": "2023-06-21"
+        },
+        {
+          "title": "[알라딘서재][100자평] 믿음의 개는 시간을 저버리지 않으며",
+          "link": "https://blog.aladin.co.kr/749888123/14291614",
+          "blogger": "https://blog.aladin.co.kr/",
+          "date": "2023-01-24"
+        },
+        {
+          "title": "[알라딘서재][100자평] 개같은 열애 3 (완결)",
+          "link": "https://blog.aladin.co.kr/727142299/15734250",
+          "blogger": "https://blog.aladin.co.kr/",
+          "date": "2024-07-31"
+        },
+        {
+          "title": "[알라딘서재]개 같은 계절",
+          "link": "https://blog.aladin.co.kr/725069113/16545599",
+          "blogger": "https://blog.aladin.co.kr/",
+          "date": "2025-06-24"
+        },
+        {
+          "title": "[알라딘서재]개의 가면",
+          "link": "https://blog.aladin.co.kr/781384265/14548171",
+          "blogger": "https://blog.aladin.co.kr/",
+          "date": "2023-04-30"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "10차선 반포대로가 거대한 공연장으로…19~20일 ‘서리풀뮤직페스티벌’",
+          "link": "https://www.munhwa.com/article/11616647?ref=naver",
+          "press": "",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "[르포] 계란 산업을 무너뜨린 9년의 기록",
+          "link": "https://www.farminsight.net/news/articleView.html?idxno=16873",
+          "press": "",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "[AI] 오늘의 띠별 운세...2026.9.14(월요일)",
+          "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=64219",
+          "press": "",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "[오늘의 운세] 2026년 9월 14일 (월) 띠별운세 '서두르지 말고 하나씩 밟...",
+          "link": "http://www.dailypop.kr/news/articleView.html?idxno=101889",
+          "press": "",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "한동훈 “김승원은 당시 '듣보잡'…누가 표적수사하나”",
+          "link": "https://www.edaily.co.kr/News/Read?newsId=01689206645580120&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
           "press": "",
           "date": "2026-09-13"
         }
