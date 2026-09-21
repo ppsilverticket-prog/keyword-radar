@@ -1,159 +1,13 @@
 {
-  "updatedAt": "2026-09-21T10:57:29.647Z",
+  "updatedAt": "2026-09-21T16:52:08.451Z",
   "source": "live",
   "keywords": [
     {
-      "keyword": "아시안게임",
-      "traffic": "500+",
-      "blogTotal": 156876,
-      "newsTotal": 1051512,
-      "recentToday": 100,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "아시안게임 LED풍선조명",
-          "link": "https://lavita07.tistory.com/8921284",
-          "blogger": "라비코리아(주)",
-          "date": "2014-09-22"
-        },
-        {
-          "title": "[알라딘서재]2022 항저우아시안게임 일본과 축구 결승전 보고 ...",
-          "link": "https://blog.aladin.co.kr/783035146/14965718",
-          "blogger": "[향기로운이끼] : 알라딘",
-          "date": "2023-10-07"
-        },
-        {
-          "title": "중국 항저우 아시안게임 개회식",
-          "link": "https://dlwhdg.tistory.com/566",
-          "blogger": "이종하의 세상사는 이야기",
-          "date": "2023-09-25"
-        },
-        {
-          "title": "2018년 자카르타, 팔렘방 아시안게임 - 여러 사이트들의 로고들...",
-          "link": "https://motivation.tistory.com/1089",
-          "blogger": "Present",
-          "date": "2018-08-18"
-        },
-        {
-          "title": "항저우 아시안 게임 축구 토너먼트 ( 16강 8강 4강 결승 ) 대한민국 결....",
-          "link": "https://kimta.tistory.com/585",
-          "blogger": "류바류바의 축구여행",
-          "date": "2023-10-04"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "'日 경찰 화들짝' 남북전에 '김정은'이 떴다…미사일까지 들고 나타난 ...",
-          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1008811",
-          "press": "",
-          "date": "2026-09-21"
-        },
-        {
-          "title": "韓 女축구, 北과 조별리그 최종전서 1-1 무승부",
-          "link": "https://www.donga.com/news/Sports/article/all/20260921/134711375/1",
-          "press": "",
-          "date": "2026-09-21"
-        },
-        {
-          "title": "여자축구 남북 대결 1-1…한국, 골 득실 밀려 조 2위",
-          "link": "https://www.slist.kr/news/articleView.html?idxno=767879",
-          "press": "",
-          "date": "2026-09-21"
-        },
-        {
-          "title": "5회까지 1실점 대만 선발 린이웨이",
-          "link": "https://www.newsis.com/view/NISI20260921_0021449663",
-          "press": "",
-          "date": "2026-09-21"
-        },
-        {
-          "title": "[아시안게임] 2연패는 놓쳤어도…지유찬 \"영범이 덕에 애국가 들어서 다...",
-          "link": "https://www.yna.co.kr/view/AKR20260921165051007?input=1195m",
-          "press": "",
-          "date": "2026-09-21"
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "keyword": "dmz",
-      "traffic": "100+",
-      "blogTotal": 118076,
-      "newsTotal": 318794,
-      "recentToday": 100,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "고성 DMZ 통일의길 도보",
-          "link": "https://rlawogur119.tistory.com/8503442",
-          "blogger": "털보아찌 블로그입니다",
-          "date": "2019-06-17"
-        },
-        {
-          "title": "DMZ 남북미 정상회담",
-          "link": "https://hsun0203.tistory.com/1119",
-          "blogger": "빛 과 소금",
-          "date": "2019-07-01"
-        },
-        {
-          "title": "DMZ 중, 서부 연천지역 투어 1박 2일 동영상 전편",
-          "link": "https://rudrleh0009.tistory.com/15711439",
-          "blogger": "세상은 넓다",
-          "date": "2019-01-17"
-        },
-        {
-          "title": "DMZ",
-          "link": "https://as8694.tistory.com/11311762",
-          "blogger": "대비마마 티스토리",
-          "date": "2019-05-13"
-        },
-        {
-          "title": "DMZ박물관 그리고 통일전망대",
-          "link": "https://cwh9361.tistory.com/831",
-          "blogger": "느낌표가 있는 여행",
-          "date": "2018-07-28"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "\"혈세 낭비\"vs\"다큐 수호\"…DMZ 다큐 영화제 갈등",
-          "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1332639",
-          "press": "",
-          "date": "2026-09-21"
-        },
-        {
-          "title": "추미애 면전서 작심 발언 쏟아낸 김민석 대표…'중수청장·예산' 놓고 직...",
-          "link": "https://www.nocutnews.co.kr/news/6581657?utm_source=naver&utm_medium=article&utm_campaign=20260921074924",
-          "press": "",
-          "date": "2026-09-21"
-        },
-        {
-          "title": "(3rd LD) 3 military officers injured in suspected landmine explosion duri...",
-          "link": "https://en.yna.co.kr/view/AEN20260921006153315?input=2106m",
-          "press": "",
-          "date": "2026-09-21"
-        },
-        {
-          "title": "DMZ 지뢰 추정 폭발로 간부 3명 부상…북한군 매설 가능성은?",
-          "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5220692",
-          "press": "",
-          "date": "2026-09-21"
-        },
-        {
-          "title": "[미리보는 이데일리 신문]시동 건 대미투자, 꽉 막힌 실무채널",
-          "link": "https://www.edaily.co.kr/News/Read?newsId=04536246645582416&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-          "press": "",
-          "date": "2026-09-21"
-        }
-      ],
-      "rank": 2
-    },
-    {
       "keyword": "양승혜",
       "traffic": "200+",
-      "blogTotal": 258,
-      "newsTotal": 654,
-      "recentToday": 100,
+      "blogTotal": 309,
+      "newsTotal": 656,
+      "recentToday": 89,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -181,13 +35,25 @@
           "date": "2020-12-03"
         },
         {
-          "title": "[크로스핏러쉬] 크로스핏러쉬 탈로스역도대회 수상!",
-          "link": "https://blog.naver.com/cfrush/223260928376",
-          "blogger": "크로스핏 러쉬(CROSSFIT RUSH)",
-          "date": "2023-11-10"
+          "title": "\"진정성 있는 소통으로 가치를 만들어 내는 사람\" - VCNC 안자영",
+          "link": "https://blog.naver.com/wantedlab/222128815467",
+          "blogger": "원티드 공식 블로그",
+          "date": "2020-10-28"
         }
       ],
       "topNews": [
+        {
+          "title": "“AI로 만든 이미지인 줄” 해외에서 미모로 화제 모으는 양승혜, 경기...",
+          "link": "https://sports.khan.co.kr/article/202609220102003?pt=nv",
+          "press": "",
+          "date": "2026-09-21"
+        },
+        {
+          "title": "\"AI처럼 완벽한 미모\" 韓 펜싱 국대, '아이돌급 외모'로 일본까지 홀렸...",
+          "link": "https://www.sportschosun.com/sports-news/2026-09-21/202609210100147700009629",
+          "press": "",
+          "date": "2026-09-21"
+        },
         {
           "title": "\"AI 미녀 아냐, 기량도 뛰어나\"… '韓 펜싱 국대' 양승혜에 해외도 주목",
           "link": "https://www.hankookilbo.com/news/article/A2026092116430002518?did=NA",
@@ -195,7 +61,7 @@
           "date": "2026-09-21"
         },
         {
-          "title": "“AI처럼 아름답지만 실존한다” 외신도 반한 韓펜싱 국대",
+          "title": "“AI가 만든 이미지인줄” 외신도 반한 韓펜싱 국대",
           "link": "https://www.donga.com/news/Sports/article/all/20260921/134713093/1",
           "press": "",
           "date": "2026-09-21"
@@ -205,28 +71,16 @@
           "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1008756",
           "press": "",
           "date": "2026-09-21"
-        },
-        {
-          "title": "“AI도 놀랄 완벽”…외신도 감탄한 韓 '펜싱 국대' 비주얼",
-          "link": "https://www.etnews.com/20260921000430",
-          "press": "",
-          "date": "2026-09-21"
-        },
-        {
-          "title": "\"AI가 만든 이미지 아냐?\"…외신도 깜짝 놀란 韓펜싱선수",
-          "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609210158&t=NN",
-          "press": "",
-          "date": "2026-09-21"
         }
       ],
-      "rank": 3
+      "rank": 1
     },
     {
       "keyword": "최지만",
       "traffic": "1000+",
-      "blogTotal": 8293,
-      "newsTotal": 46799,
-      "recentToday": 100,
+      "blogTotal": 8388,
+      "newsTotal": 46821,
+      "recentToday": 79,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -262,32 +116,178 @@
       ],
       "topNews": [
         {
-          "title": "\"이승원만 기다렸다\" 그런데 최지만까지? 사실상 1R 지명 두 번! KT 위즈...",
-          "link": "http://www.spochoo.com/news/articleView.html?idxno=130334",
+          "title": "나도현, 이강철과 긴히 통화했다 왜?…이 선수 얻기 위해 \"2R까지 남으면...",
+          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1008852",
           "press": "",
           "date": "2026-09-21"
         },
         {
-          "title": "‘최대어’ 하현승 1순위, 두지우, '다크호스' 이호민 KIA…최지만 KT 2R...",
-          "link": "https://mhnse.com/news/articleView.html?idxno=1556390",
+          "title": "2027 KBO 신인 드래프트 전 라운드 결과 발표",
+          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3702755",
           "press": "",
           "date": "2026-09-21"
         },
         {
-          "title": "'KT의 파격 선택' 메이저리그 출신 최지만, 2라운드 전체 15순위 KBO행",
-          "link": "https://www.nocutnews.co.kr/news/6581659?utm_source=naver&utm_medium=article&utm_campaign=20260921074724",
+          "title": "190㎝대 거구 파이어볼러 득세→1R부터 야수 집중…10팀10色 드래프트, ...",
+          "link": "https://www.sportschosun.com/baseball/2026-09-21/202609220100148080009655",
           "press": "",
           "date": "2026-09-21"
         },
         {
-          "title": "역시나…‘고교 대어’ 하현승, 1순위로 키움행",
-          "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0600&key=20260922.22013007303",
+          "title": "하이리스크 하이리턴? 아니면 넘치는 자신감…수원의 시선은 어디로 향...",
+          "link": "https://www.sportschosun.com/baseball/2026-09-21/202609210100146430009523",
           "press": "",
           "date": "2026-09-21"
         },
         {
-          "title": "'이도류' 하현승 1순위로 키움행...중고 신인 최지만은 kt 유니폼",
-          "link": "https://www.ytn.co.kr/_ln/0107_202609211945240964",
+          "title": "[2027 드래프트] 입담꾼 차 단장이 백기 들었다...롯데 박근서 아버지, ...",
+          "link": "https://isplus.com/article/view/isp202609210174",
+          "press": "",
+          "date": "2026-09-21"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "keyword": "김영범",
+      "traffic": "200+",
+      "blogTotal": 3432,
+      "newsTotal": 17910,
+      "recentToday": 75,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "아빠 진도북춤 공연 경기국악당에서",
+          "link": "https://hi2010.tistory.com/137",
+          "blogger": "별이네 이야기",
+          "date": "2012-12-21"
+        },
+        {
+          "title": "[사회학 평론] 이문열과 아나키스트 자유주의 -- 김성국",
+          "link": "https://sophia1949.tistory.com/2229",
+          "blogger": "청고료확(靑臯廖廓)_푸른 언덕, 쓸쓸한 둘레",
+          "date": "2016-07-25"
+        },
+        {
+          "title": "[알라딘서재][마이리뷰] 20세기 가장 완벽한 인간 체게바라 VS 대륙의....",
+          "link": "https://blog.aladin.co.kr/718239169/13905413",
+          "blogger": "https://blog.aladin.co.kr/",
+          "date": "2022-09-05"
+        },
+        {
+          "title": "[알라딘서재][100자평] 새로운 사회철학",
+          "link": "https://blog.aladin.co.kr/796306190/11957093",
+          "blogger": "https://blog.aladin.co.kr/",
+          "date": "2020-08-29"
+        },
+        {
+          "title": "제주여행 1일차 - 강정마을과 정방폭포",
+          "link": "https://hi2010.tistory.com/138",
+          "blogger": "별이네 이야기",
+          "date": "2013-01-08"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "전날 아쉬움 씻었다",
+          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000014253&cp=nv",
+          "press": "",
+          "date": "2026-09-21"
+        },
+        {
+          "title": "하루에 신기록 두 번… “한국 수영 에이스 될래요”",
+          "link": "https://www.chosun.com/sports/sports_special/2026/09/22/PQNAB4PSSNHMLKMQ3NIXZ6OQ3M/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+          "press": "",
+          "date": "2026-09-21"
+        },
+        {
+          "title": "'신예' 김영범, 대회 신기록…한국 수영 첫 금메달",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008764676&plink=ORI&cooper=NAVER",
+          "press": "",
+          "date": "2026-09-21"
+        },
+        {
+          "title": "中 놀랐다 \"한국 수영 대참사 수준…너무 뒤에 있더라\"→'2년 전 세계 2...",
+          "link": "https://www.xportsnews.com/article/2198586",
+          "press": "",
+          "date": "2026-09-21"
+        },
+        {
+          "title": "강원전사 김영범 신기록만 두 번 쓰며 '금빛 역영'",
+          "link": "https://www.kado.net/news/articleView.html?idxno=2074276",
+          "press": "",
+          "date": "2026-09-21"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "keyword": "dmz",
+      "traffic": "200+",
+      "blogTotal": 118329,
+      "newsTotal": 318830,
+      "recentToday": 71,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "DMZ 중, 서부 연천지역 투어 1박 2일 동영상 전편",
+          "link": "https://rudrleh0009.tistory.com/15711439",
+          "blogger": "세상은 넓다",
+          "date": "2019-01-17"
+        },
+        {
+          "title": "고성 DMZ 통일의길 도보",
+          "link": "https://rlawogur119.tistory.com/8503442",
+          "blogger": "털보아찌 블로그입니다",
+          "date": "2019-06-17"
+        },
+        {
+          "title": "DMZ 남북미 정상회담",
+          "link": "https://hsun0203.tistory.com/1119",
+          "blogger": "빛 과 소금",
+          "date": "2019-07-01"
+        },
+        {
+          "title": "DMZ",
+          "link": "https://as8694.tistory.com/11311762",
+          "blogger": "대비마마 티스토리",
+          "date": "2019-05-13"
+        },
+        {
+          "title": "DMZ박물관 그리고 통일전망대",
+          "link": "https://cwh9361.tistory.com/831",
+          "blogger": "느낌표가 있는 여행",
+          "date": "2018-07-28"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "북한이 지뢰 묻은 DMZ서 폭발사고로 간부 3명 부상",
+          "link": "https://www.chosun.com/politics/diplomacy-defense/2026/09/22/WOCFKAUN5NCRBCP5TR3YI55BSQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+          "press": "",
+          "date": "2026-09-21"
+        },
+        {
+          "title": "'지뢰 폭발' 장병 3명 부상…북한군 지뢰 가능성",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008764678&plink=ORI&cooper=NAVER",
+          "press": "",
+          "date": "2026-09-21"
+        },
+        {
+          "title": "[사설] DMZ 지뢰 참사, 최근 北 동향과 무관한가",
+          "link": "https://www.chosun.com/opinion/editorial/2026/09/22/MOIRH5II6VEOLN5LLV62POOYIU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+          "press": "",
+          "date": "2026-09-21"
+        },
+        {
+          "title": "[국감 프리뷰] 서부전선 폭발사고… 수색로 선정·작전 승인 책임 규명...",
+          "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=64715",
+          "press": "",
+          "date": "2026-09-21"
+        },
+        {
+          "title": "스틸 美대사·여야 지도부 관저만찬…'DMZ 사고' 놓고 동맹 교감(종합2보...",
+          "link": "https://www.yna.co.kr/view/AKR20260921142452001?input=1195m",
           "press": "",
           "date": "2026-09-21"
         }
@@ -295,72 +295,72 @@
       "rank": 4
     },
     {
-      "keyword": "드래프트",
-      "traffic": "2000+",
-      "blogTotal": 80562,
-      "newsTotal": 352103,
-      "recentToday": 100,
+      "keyword": "업비트",
+      "traffic": "100+",
+      "blogTotal": 127848,
+      "newsTotal": 249323,
+      "recentToday": 66,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "2013년 메이저리그 드래프트-3",
-          "link": "https://ladodgers.tistory.com/3203",
-          "blogger": "Los Angeles Dodgers",
-          "date": "2013-06-07"
+          "title": "[업비트 API] 비트코인 현재가 가져오기",
+          "link": "https://meisterjw.tistory.com/269",
+          "blogger": "Life is now",
+          "date": "2023-07-27"
         },
         {
-          "title": "[알라딘서재]하지만 1999년 드래프트에서 마침내 몇 가지 희망의...",
-          "link": "https://blog.aladin.co.kr/jwk/16475011",
-          "blogger": "https://blog.aladin.co.kr/",
-          "date": "2025-05-26"
+          "title": "[Python] pyupbit를 활용한 업비트 스토캐스틱(stochastic) 적용",
+          "link": "https://inspireman.tistory.com/53",
+          "blogger": "PC-Diary",
+          "date": "2021-08-18"
         },
         {
-          "title": "AKB48 드래프트3기후보생 합숙 동영상━━━━━━(°∀°)━━━━━....",
-          "link": "https://akb48news.tistory.com/1957",
-          "blogger": "AKB48 뉴스 정리",
-          "date": "2018-01-19"
+          "title": "업비트 캔들 보는 법! 비트코인의 기초입니다",
+          "link": "https://goongdam.tistory.com/532",
+          "blogger": "궁담이네 유익한 스토리",
+          "date": "2021-04-26"
         },
         {
-          "title": "드래프트 둘째날 지명할 수 있는 대어들",
-          "link": "https://ladodgers.tistory.com/5790",
-          "blogger": "Los Angeles Dodgers",
-          "date": "2014-06-07"
+          "title": "[ 업비트 ] 한국 시간 서울(KST) UTC +09:00 차트 설정",
+          "link": "https://tttap.tistory.com/190",
+          "blogger": "TAP 소프트",
+          "date": "2021-05-17"
         },
         {
-          "title": "2017년 메이저리그 드래프트 보상픽 순서확정",
-          "link": "https://ladodgers.tistory.com/9137",
-          "blogger": "Los Angeles Dodgers",
-          "date": "2016-12-14"
+          "title": "240327_업비트 솔라나 스테이킹 보상 현황",
+          "link": "https://pringli.tistory.com/903",
+          "blogger": "수선화향기",
+          "date": "2024-03-28"
         }
       ],
       "topNews": [
         {
-          "title": "‘리틀 이대호’ 이호민, 광주로 간다…KIA 총 11명 지명, “상위에 내야...",
-          "link": "https://www.sportsseoul.com/news/read/1636872?ref=naver",
+          "title": "빗썸, 상반기 1087억 순손실…금융권 중심 거래소 지분 투자 잇따라",
+          "link": "http://www.nongaek.com/news/articleView.html?idxno=96884",
           "press": "",
           "date": "2026-09-21"
         },
         {
-          "title": "\"이승원만 기다렸다\" 그런데 최지만까지? 사실상 1R 지명 두 번! KT 위즈...",
-          "link": "http://www.spochoo.com/news/articleView.html?idxno=130334",
+          "title": "업비트, 스포츠 ESG에서 금융교육까지... 서울청년주간 '금융골든벨'에...",
+          "link": "https://www.stnsports.co.kr/news/articleView.html?idxno=323070",
           "press": "",
           "date": "2026-09-21"
         },
         {
-          "title": "\"투입 48초 만에 북한 골문 갈랐다\"…번외지명 윤수정의 반전",
-          "link": "https://www.hankyung.com/article/2026092192087",
+          "title": "일주일 앞으로 다가온 'KBW 2026' 기관 금융 미래를 놓고 머리 맞댄다",
+          "link": "https://www.fnnews.com/news/202609211904271582",
           "press": "",
           "date": "2026-09-21"
         },
         {
-          "title": "‘최대어’ 하현승 1순위, 두지우, '다크호스' 이호민 KIA…최지만 KT 2R...",
-          "link": "https://mhnse.com/news/articleView.html?idxno=1556390",
+          "title": "100일 앞둔 가상자산 과세… \"이대로면 투자자 다 해외 간다\"",
+          "link": "https://www.fnnews.com/news/202609211904335330",
           "press": "",
           "date": "2026-09-21"
         },
         {
-          "title": "KIA, 이호민 등 ‘아기 호랑이’ 11명 품었다",
-          "link": "http://www.kjdaily.com/article.php?aid=1789987240687408007",
+          "title": "'비트코인 8만달러 회복'에 가상화폐 관련주 급등...우리기술투자 7.92%↑",
+          "link": "https://www.betanews.net/article/view/beta202609210153",
           "press": "",
           "date": "2026-09-21"
         }
@@ -368,72 +368,72 @@
       "rank": 5
     },
     {
-      "keyword": "김다현",
-      "traffic": "1000+",
-      "blogTotal": 24208,
-      "newsTotal": 59231,
-      "recentToday": 100,
+      "keyword": "윤동희",
+      "traffic": "200+",
+      "blogTotal": 4559,
+      "newsTotal": 27025,
+      "recentToday": 44,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "[웃대유머]전설의 육개장 10원 사건 :: 안드로이드Trail",
-          "link": "https://ajaxis.tistory.com/993",
-          "blogger": "안드로이드Trail",
-          "date": "2017-03-02"
+          "title": "기아 vs 롯데 롯데 기아 9회말 종료 15:15 연장전 확정",
+          "link": "https://tranday.tistory.com/6443",
+          "blogger": "K-Trends",
+          "date": "2024-06-25"
         },
         {
-          "title": "[알라딘서재][100자평] [세트] 로잔의 가시덤불 (총9권/완결)",
-          "link": "https://blog.aladin.co.kr/777407124/13473978",
+          "title": "[알라딘서재][100자평] 안으로 멀리 뛰기",
+          "link": "https://blog.aladin.co.kr/739177198/8752983",
           "blogger": "https://blog.aladin.co.kr/",
-          "date": "2022-03-31"
+          "date": "2016-09-08"
         },
         {
-          "title": "멤버들 목도리 떠준 지효",
-          "link": "https://mymyhobbyis.tistory.com/2509",
-          "blogger": "트와이스 정리정돈",
-          "date": "2018-02-11"
-        },
-        {
-          "title": "BTS ,Dynamite&미스트롯2, 7회 메들리팀미션/코스피 3000선 무너져",
-          "link": "https://kydong77.tistory.com/20179",
-          "blogger": "김영동교수의 고전 & Life :: 김영동교수의 고전 & Life",
-          "date": "2021-01-30"
-        },
-        {
-          "title": "[알라딘서재]헌법 관련",
-          "link": "https://blog.aladin.co.kr/mspaper/7232099",
+          "title": "[알라딘서재][100자평] 안으로 멀리 뛰기",
+          "link": "https://blog.aladin.co.kr/700223149/8681627",
           "blogger": "https://blog.aladin.co.kr/",
-          "date": "2014-11-28"
+          "date": "2016-08-09"
+        },
+        {
+          "title": "4월 4일 쏠퀴즈 이틀 전 대전 한화 이글스 신구장의 명물인 높이 8미....",
+          "link": "https://jobpedia.tistory.com/931",
+          "blogger": "잡과사전",
+          "date": "2025-04-04"
+        },
+        {
+          "title": "JINA PARK :: 전시리뷰_art in culture 2005.12",
+          "link": "https://jinapark.com/18",
+          "blogger": "JINA PARK :: JINA PARK",
+          "date": "2009-04-21"
         }
       ],
       "topNews": [
         {
-          "title": "17세 김다현에 \"노래 함부로 하는 것 아냐\"…심수봉 \"입이 열 개라도 할...",
-          "link": "https://www.imaeil.com/page/view/2026092119315107597",
+          "title": "롯데 2군선수 국대 승선 논란, 대타 쐐기포 폭발→솔직 심경 밝혔다 “...",
+          "link": "http://www.osen.co.kr/article/G1112879830",
           "press": "",
           "date": "2026-09-21"
         },
         {
-          "title": "김다현 부모의 눈물 “내 딸이 심수봉 선생님 말에 펑펑 울었다”[연예...",
-          "link": "http://www.osen.co.kr/article/G1112879507",
+          "title": "'전격 2군행' 상동 있다가 AG 합류라니, 롯데 국제용 거포 마음 무거웠다...",
+          "link": "https://www.mydaily.co.kr/page/view/2026092122090668960",
           "press": "",
           "date": "2026-09-21"
         },
         {
-          "title": "동래읍성역사축제 10월 16일 개막…실경 뮤지컬·미디어아트로 역사 재...",
-          "link": "https://www.ziksir.com/news/articleView.html?idxno=147148",
+          "title": "[2026 AG] 곽빈 KKKKKKKKKK 로 잠근 대만 방망이, 윤동희가 쐐기포... 한국...",
+          "link": "https://www.stnsports.co.kr/news/articleView.html?idxno=323102",
           "press": "",
           "date": "2026-09-21"
         },
         {
-          "title": "“누군지 몰랐다” 심수봉, 3년전 김다현 심사도…“뱉은 말은 못 주워...",
-          "link": "https://www.sportsseoul.com/news/read/1636868?ref=naver",
+          "title": "곽빈 역투에 땅만 친 대만 타선",
+          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000014255&cp=nv",
           "press": "",
           "date": "2026-09-21"
         },
         {
-          "title": "\"입이 열 개라도 할 말 없다\" 심수봉, 김다현 향한 '공개 면박' 사과…여...",
-          "link": "https://www.mydaily.co.kr/page/view/2026092118485816968",
+          "title": "\"아찔했던 노히터 위기, 15K로 완전히 압도 당했다\"…韓 마운드 이렇게...",
+          "link": "http://www.osen.co.kr/article/G1112879708",
           "press": "",
           "date": "2026-09-21"
         }
@@ -441,72 +441,72 @@
       "rank": 6
     },
     {
-      "keyword": "강훈식",
-      "traffic": "1000+",
-      "blogTotal": 7927,
-      "newsTotal": 108660,
-      "recentToday": 100,
+      "keyword": "치지직",
+      "traffic": "500+",
+      "blogTotal": 16919,
+      "newsTotal": 26277,
+      "recentToday": 39,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "#7월 31일(일) 방송 4사 저녁 메인뉴스 종합 보고",
-          "link": "https://e55850941.tistory.com/3797",
-          "blogger": "#다이음기획그룹(주)",
-          "date": "2022-08-01"
+          "title": "시- 風浴[문학미디어 2012년간집 봄의 계단 수록 작품] :: 김대근시인....",
+          "link": "https://roadtour.tistory.com/17465281",
+          "blogger": "김대근시인의 블로그 \"반디불의 똥꼬\" :: 김대근시인의 블로그 \"반디불의 똥꼬\"",
+          "date": "2012-12-19"
         },
         {
-          "title": "#제19차 최고위원회의 결과",
-          "link": "https://e55850941.tistory.com/2817",
-          "blogger": "#다이음기획그룹(주)",
-          "date": "2021-06-21"
+          "title": "정동원 아이돌 AI 제이디원 [컴백응원단] 아이돌로서의 덕목🖤이미 ....",
+          "link": "https://2012kiss.tistory.com/5873",
+          "blogger": "어덕행덕합니다. ^^",
+          "date": "2024-01-24"
         },
         {
-          "title": "✨ 2025년 6월 18일 하루 요약.zip",
-          "link": "https://sosoingkr.tistory.com/419",
-          "blogger": "소소ing",
-          "date": "2025-06-18"
+          "title": "2023년12월26일 상한가,특징주,주도주,메이슨캐피탈,디티앤씨알오,파....",
+          "link": "https://1-s00.tistory.com/520",
+          "blogger": "아름드리",
+          "date": "2023-12-27"
         },
         {
-          "title": "[22대 총선 충남 당선자 모음]천안 갑을병, 공주부여청양, 보령서천, ....",
-          "link": "https://garuda.tistory.com/3684",
-          "blogger": "세상살기",
-          "date": "2024-04-10"
+          "title": "[더 인플루언서] 출연진 리스트 - 02 (업데이트 240801)",
+          "link": "https://naranim-say.tistory.com/178",
+          "blogger": "나랏님말씀",
+          "date": "2024-08-01"
         },
         {
-          "title": "9초 만에 9명 덮쳐… 울산 발전소의 비극 [속보] 2명 구조… 매몰자 7....",
-          "link": "https://easyroad.tistory.com/15739478",
-          "blogger": "권영구의 비즈니스 정보 나눔터 (easyroad)",
-          "date": "2025-11-07"
+          "title": "Enshrouded (인슈라오디드) (No.13) (No Commentary) - 쉬는 시간에 하는 게임",
+          "link": "https://willeeproject.tistory.com/313",
+          "blogger": "Willee Project",
+          "date": "2024-02-12"
         }
       ],
       "topNews": [
         {
-          "title": "이재명 대통령 “깊이 고민하고 더 낮은 자세로 국정 다듬어가겠다”",
-          "link": "https://www.kyeongin.com/article/1771299",
+          "title": "한국 사우디전 아시안게임 축구 중계 일정·시간은",
+          "link": "https://www.bntnews.co.kr/article/view/bnt202609210288",
           "press": "",
           "date": "2026-09-21"
         },
         {
-          "title": "국힘, 광주반도체 클러스터 때리기 언제까지…",
-          "link": "http://www.kwangju.co.kr/article.php?aid=1789987800803587372",
+          "title": "한국 홍콩전 아시안게임 야구 중계 일정·시간은",
+          "link": "https://www.bntnews.co.kr/article/view/bnt202609210287",
           "press": "",
           "date": "2026-09-21"
         },
         {
-          "title": "‘부실검증 후폭풍’에 정국전환 고육지책…청 개편 빨라질듯",
-          "link": "https://www.hani.co.kr/arti/politics/bluehouse/1278936.html",
+          "title": "'더 파이널스' e스포츠 대회 APAC 대표팀 확정",
+          "link": "https://www.maniareport.com/view.php?ud=202609212339093083cecffa9387_19",
           "press": "",
           "date": "2026-09-21"
         },
         {
-          "title": "강훈식 비서실장 사의… \"종합적 책임\"",
-          "link": "https://www.fnnews.com/news/202609211942331458",
+          "title": "​넥슨 '더 파이널스', e스포츠 글로벌 본선 APAC 대표 3팀 확정… 11월 ...",
+          "link": "https://www.onews.tv/news/articleView.html?idxno=287667",
           "press": "",
           "date": "2026-09-21"
         },
         {
-          "title": "[미리보는 이데일리 신문]시동 건 대미투자, 꽉 막힌 실무채널",
-          "link": "https://www.edaily.co.kr/News/Read?newsId=04536246645582416&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+          "title": "넥슨 '더 파이널스', e스포츠 영토 확장… '그랜드 메이저 2026' APAC 라인...",
+          "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=359418",
           "press": "",
           "date": "2026-09-21"
         }
@@ -514,158 +514,12 @@
       "rank": 7
     },
     {
-      "keyword": "부산국제영화제",
-      "traffic": "1000+",
-      "blogTotal": 85171,
-      "newsTotal": 371865,
-      "recentToday": 100,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "[알라딘서재]2011 한국예술영화의 별들 (6.16~29)",
-          "link": "https://blog.aladin.co.kr/ilovemovie/4851038",
-          "blogger": "https://blog.aladin.co.kr/",
-          "date": "2011-06-13"
-        },
-        {
-          "title": "영화의 전당과 해운대 야경을 담아 봅니다",
-          "link": "https://www.walkview.co.kr/935",
-          "blogger": "워크뷰의 맛있는 도보여행 :: 워크뷰의 맛있는 도보여행",
-          "date": "2011-11-17"
-        },
-        {
-          "title": "제 29회 부산국제영화제 개막식",
-          "link": "https://igirls.tistory.com/4420",
-          "blogger": "girls",
-          "date": "2024-11-05"
-        },
-        {
-          "title": "제 29회 부산국제영화제 개막식",
-          "link": "https://igirls.tistory.com/4422",
-          "blogger": "girls",
-          "date": "2024-11-05"
-        },
-        {
-          "title": "제 29회 부산국제영화제 개막식",
-          "link": "https://igirls.tistory.com/4421",
-          "blogger": "girls",
-          "date": "2024-11-05"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "신민아 주연 '재혼 황후', 부산국제영화제 예매 오픈 후 전석 매진",
-          "link": "http://www.interview365.com/news/articleView.html?idxno=112124",
-          "press": "",
-          "date": "2026-09-21"
-        },
-        {
-          "title": "심수빈, ‘첫세계’로 제51회 토론토 매료시켰다..글로벌 영화인 ‘눈도...",
-          "link": "https://www.heraldmuse.com/article/10881162?ref=naver",
-          "press": "",
-          "date": "2026-09-21"
-        },
-        {
-          "title": "이병헌·박지훈·맷 데이먼과 추석을…안방으로 찾아오는 영화들",
-          "link": "https://news.jtbc.co.kr/article/NB12319448?influxDiv=NAVER",
-          "press": "",
-          "date": "2026-09-21"
-        },
-        {
-          "title": "수지 내레이션·OST 참여 '긴긴밤', 토론토 영화제서 호평 \"놀라운 데뷔...",
-          "link": "https://www.news1.kr/entertain/movie/6297938",
-          "press": "",
-          "date": "2026-09-21"
-        },
-        {
-          "title": "베네치아영화제 화제작 '와일드 호스 나인', 11월 4일 국내 개봉",
-          "link": "https://www.edaily.co.kr/News/Read?newsId=04204966645582416&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-          "press": "",
-          "date": "2026-09-21"
-        }
-      ],
-      "rank": 8
-    },
-    {
-      "keyword": "25사단",
-      "traffic": "2000+",
-      "blogTotal": 2967,
-      "newsTotal": 10620,
-      "recentToday": 100,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "[알라딘서재]1",
-          "link": "https://blog.aladin.co.kr/738669156/12032349",
-          "blogger": "https://blog.aladin.co.kr/",
-          "date": "2020-09-28"
-        },
-        {
-          "title": "[알라딘서재]호승",
-          "link": "https://blog.aladin.co.kr/721682144/1894558",
-          "blogger": "https://blog.aladin.co.kr/",
-          "date": "2008-02-09"
-        },
-        {
-          "title": "[알라딘서재]과학독후감대회",
-          "link": "https://blog.aladin.co.kr/765368163/13782129",
-          "blogger": "https://blog.aladin.co.kr/",
-          "date": "2022-07-21"
-        },
-        {
-          "title": "[알라딘서재]2024역사",
-          "link": "https://blog.aladin.co.kr/756331189/15199648",
-          "blogger": "https://blog.aladin.co.kr/",
-          "date": "2024-01-04"
-        },
-        {
-          "title": "[알라딘서재]0513",
-          "link": "https://blog.aladin.co.kr/sogano/10852265",
-          "blogger": "https://blog.aladin.co.kr/",
-          "date": "2019-05-12"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "DMZ 지뢰 추정 폭발로 간부 3명 부상…북한군 매설 가능성은?",
-          "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5220692",
-          "press": "",
-          "date": "2026-09-21"
-        },
-        {
-          "title": "서부전선 최전방서 지뢰 폭발 추정…군인 3명 부상",
-          "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000551621",
-          "press": "",
-          "date": "2026-09-21"
-        },
-        {
-          "title": "DMZ 수색로 개척 중 지뢰 추정 폭발… 간부 1명 발목 절단",
-          "link": "https://www.newscj.com/news/articleView.html?idxno=3434544",
-          "press": "",
-          "date": "2026-09-21"
-        },
-        {
-          "title": "李대통령, DMZ 폭발사고에 \"마음 무거워…치료·회복 지원\"",
-          "link": "https://www.thepublic.kr/news/articleView.html?idxno=319596",
-          "press": "",
-          "date": "2026-09-21"
-        },
-        {
-          "title": "DMZ 수색작전 軍간부 3명, 지뢰 폭발 추정 부상…생명 지장 없어(종합3보...",
-          "link": "https://www.newsis.com/view/NISX20260921_0003799151",
-          "press": "",
-          "date": "2026-09-21"
-        }
-      ],
-      "rank": 9
-    },
-    {
       "keyword": "발로란트 추석 이벤트",
-      "traffic": "1000+",
-      "blogTotal": 32,
+      "traffic": "2000+",
+      "blogTotal": 59,
       "newsTotal": 170,
-      "recentToday": 12,
-      "recentWeek": 15,
+      "recentToday": 35,
+      "recentWeek": 42,
       "topBlogs": [
         {
           "title": "발로란트 1주년 기념 VAL조각 플렉스 이벤트 실시!",
@@ -728,6 +582,152 @@
           "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202602050827561040728",
           "press": "",
           "date": "2026-02-05"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "keyword": "조병현",
+      "traffic": "200+",
+      "blogTotal": 2057,
+      "newsTotal": 24348,
+      "recentToday": 11,
+      "recentWeek": 27,
+      "topBlogs": [
+        {
+          "title": "롯데 김창훈 나이 연봉 등번호 고향 계약금",
+          "link": "https://yayalmot.tistory.com/201",
+          "blogger": "야알못",
+          "date": "2021-05-05"
+        },
+        {
+          "title": "[알라딘서재][100자평] 회계와 재무의 정석",
+          "link": "https://blog.aladin.co.kr/749605158/15578329",
+          "blogger": "https://blog.aladin.co.kr/",
+          "date": "2024-05-31"
+        },
+        {
+          "title": "다시 부각되는 중국 부채리스크",
+          "link": "https://ardc.tistory.com/582",
+          "blogger": "국경없는 금융포럼",
+          "date": "2019-03-18"
+        },
+        {
+          "title": "롯데 송재영 나이 연봉 계약금 등번호 정보",
+          "link": "https://yayalmot.tistory.com/214",
+          "blogger": "야알못",
+          "date": "2021-05-17"
+        },
+        {
+          "title": "2024 KBO 프로야구 6월 14일 ~ 6월 16일 25차 시리즈 (시즌 072~074차전) 경....",
+          "link": "https://herr-kwak.tistory.com/1758",
+          "blogger": "꽉형의 쓰포츠생생통",
+          "date": "2024-06-18"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "[2026 AG] 곽빈 KKKKKKKKKK 로 잠근 대만 방망이, 윤동희가 쐐기포... 한국...",
+          "link": "https://www.stnsports.co.kr/news/articleView.html?idxno=323102",
+          "press": "",
+          "date": "2026-09-21"
+        },
+        {
+          "title": "곽빈 역투에 땅만 친 대만 타선",
+          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000014255&cp=nv",
+          "press": "",
+          "date": "2026-09-21"
+        },
+        {
+          "title": "\"아찔했던 노히터 위기, 15K로 완전히 압도 당했다\"…韓 마운드 이렇게...",
+          "link": "http://www.osen.co.kr/article/G1112879708",
+          "press": "",
+          "date": "2026-09-21"
+        },
+        {
+          "title": "'두산 원투펀치 총출동' 20살 韓 다승 1위 출격 대기, 157km KKKKKKKKKK 에이...",
+          "link": "https://www.mydaily.co.kr/page/view/2026092200431562498",
+          "press": "",
+          "date": "2026-09-21"
+        },
+        {
+          "title": "'차세대 에이스' 최민석, 홍콩전 선발 등판…국가대표 데뷔 무대[AG]",
+          "link": "https://www.news1.kr/sports/baseball/6298125",
+          "press": "",
+          "date": "2026-09-21"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "keyword": "아시안게임",
+      "traffic": "1000+",
+      "blogTotal": 158247,
+      "newsTotal": 1052582,
+      "recentToday": 0,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "아시안게임 LED풍선조명",
+          "link": "https://lavita07.tistory.com/8921284",
+          "blogger": "라비코리아(주)",
+          "date": "2014-09-22"
+        },
+        {
+          "title": "[알라딘서재]2022 항저우아시안게임 일본과 축구 결승전 보고 ...",
+          "link": "https://blog.aladin.co.kr/783035146/14965718",
+          "blogger": "[향기로운이끼] : 알라딘",
+          "date": "2023-10-07"
+        },
+        {
+          "title": "중국 항저우 아시안게임 개회식",
+          "link": "https://dlwhdg.tistory.com/566",
+          "blogger": "이종하의 세상사는 이야기",
+          "date": "2023-09-25"
+        },
+        {
+          "title": "2018년 자카르타, 팔렘방 아시안게임 - 여러 사이트들의 로고들...",
+          "link": "https://motivation.tistory.com/1089",
+          "blogger": "Present",
+          "date": "2018-08-18"
+        },
+        {
+          "title": "항저우 아시안 게임 축구 토너먼트 ( 16강 8강 4강 결승 ) 대한민국 결....",
+          "link": "https://kimta.tistory.com/585",
+          "blogger": "류바류바의 축구여행",
+          "date": "2023-10-04"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "롯데 2군선수 국대 승선 논란, 대타 쐐기포 폭발→솔직 심경 밝혔다 “...",
+          "link": "http://www.osen.co.kr/article/G1112879830",
+          "press": "",
+          "date": "2026-09-21"
+        },
+        {
+          "title": "\"韓 상대전적 102승 48패\" 차상현호 침물시켰다, 日 열도 기쁨 만끽 \"또...",
+          "link": "https://www.mydaily.co.kr/page/view/2026092122483897692",
+          "press": "",
+          "date": "2026-09-21"
+        },
+        {
+          "title": "'전격 2군행' 상동 있다가 AG 합류라니, 롯데 국제용 거포 마음 무거웠다...",
+          "link": "https://www.mydaily.co.kr/page/view/2026092122090668960",
+          "press": "",
+          "date": "2026-09-21"
+        },
+        {
+          "title": "'韓日 결승전 쾌승→금메달 탈환' 이현중, '버스 노쇼 사건'에도 \"일본 ...",
+          "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553558004",
+          "press": "",
+          "date": "2026-09-21"
+        },
+        {
+          "title": "\"日 2.5군 유망주 상대로도 완패\" 여자 배구 '한일전 패배'에 사실 무근...",
+          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1008853",
+          "press": "",
+          "date": "2026-09-21"
         }
       ],
       "rank": 10
