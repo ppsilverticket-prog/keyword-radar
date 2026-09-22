@@ -1,68 +1,74 @@
 {
-  "updatedAt": "2026-09-22T08:43:53.138Z",
+  "updatedAt": "2026-09-22T13:53:15.152Z",
   "source": "live",
   "keywords": [
     {
-      "keyword": "타자",
-      "traffic": "200+",
-      "blogTotal": 410508,
-      "newsTotal": 2040720,
+      "keyword": "대통령",
+      "traffic": "500+",
+      "blogTotal": 3327524,
+      "newsTotal": 16977032,
       "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "EastRain's gallery :: 타자치는 곤",
-          "link": "https://eastrain.co.kr/223",
-          "blogger": "EastRain's gallery :: EastRain's gallery",
-          "date": "2007-06-11"
+          "title": "<청남대-대통령기념관별관본관오각정대통령기념관>11/19 :: 흐르는 ....",
+          "link": "https://86464144.tistory.com/13785529",
+          "blogger": "흐르는 강물처럼 :: 흐르는 강물처럼",
+          "date": "2021-11-19"
         },
         {
-          "title": "괌프라자/타자워터파크",
-          "link": "https://yscbr.tistory.com/840",
-          "blogger": "떠나는 거야 어디든",
-          "date": "2022-12-19"
-        },
-        {
-          "title": "[알라딘서재]<주식타자>",
-          "link": "https://blog.aladin.co.kr/718026164/15027418",
+          "title": "[알라딘서재][100자평] 대통령 윤석열 탄핵 사건 선고 결정문",
+          "link": "https://blog.aladin.co.kr/746900170/16589231",
           "blogger": "https://blog.aladin.co.kr/",
-          "date": "2023-11-01"
+          "date": "2025-07-13"
         },
         {
-          "title": "KBO, 대한민국 프로야구 역대 최고기록 선수 명단 - 타자 부문",
-          "link": "https://alegria0702.tistory.com/532",
-          "blogger": "Alegria",
-          "date": "2022-12-10"
+          "title": "[알라딘서재][100자평] 대통령 탄핵과 체제전쟁",
+          "link": "https://blog.aladin.co.kr/745696121/16812810",
+          "blogger": "https://blog.aladin.co.kr/",
+          "date": "2025-10-17"
         },
         {
-          "title": "08/12 타자연습 :: COPAN",
-          "link": "https://copan.tistory.com/681",
-          "blogger": "COPAN :: COPAN",
-          "date": "2019-08-12"
+          "title": "[알라딘서재][100자평] 대통령 윤석열 탄핵 사건 선고 결정문",
+          "link": "https://blog.aladin.co.kr/738640186/16358275",
+          "blogger": "https://blog.aladin.co.kr/",
+          "date": "2025-04-05"
+        },
+        {
+          "title": "[알라딘서재][100자평] 대통령 윤석열 탄핵 사건 선고 결정문",
+          "link": "https://blog.aladin.co.kr/738959127/16357513",
+          "blogger": "https://blog.aladin.co.kr/",
+          "date": "2025-04-04"
         }
       ],
       "topNews": [
         {
-          "title": "리센느 미나미, '라디오스타' 첫 단독 예능에 TV-OTT 화제성 1위",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16207221",
+          "title": "李와 정면충돌한 조희대…與 '탄핵' 만지작, 野 적극 '엄호'",
+          "link": "https://www.sisajournal.com/news/articleView.html?idxno=388173",
           "press": "",
           "date": "2026-09-22"
         },
         {
-          "title": "'윤동희 2번-김도영 DH' 류지현호, 홍콩전 선발 라인업 발표[AG 야구]",
-          "link": "https://sports.hankooki.com/news/articleView.html?idxno=6940199",
+          "title": "\"트럼프, 조건 맞으면 뉴욕서 이란측과 회담하고 싶어해\"",
+          "link": "https://www.yna.co.kr/view/AKR20260922196951071?input=1195m",
           "press": "",
           "date": "2026-09-22"
         },
         {
-          "title": "'대만전 홈런' 윤동희 선발 출격! 김주원과 테이블세터 배치…김도영 3...",
-          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1009021",
+          "title": "조희대, 재제청 거부…대통령과 정면충돌",
+          "link": "https://www.hani.co.kr/arti/society/society_general/1279155.html",
           "press": "",
           "date": "2026-09-22"
         },
         {
-          "title": "'전체 1순위' 하현승 \"키움 오고 싶었다\"",
-          "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=867640",
+          "title": "'호르무즈 재개방' 제안한 이란…유엔총회서 종전 돌파구 열리나",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008766649&plink=ORI&cooper=NAVER",
+          "press": "",
+          "date": "2026-09-22"
+        },
+        {
+          "title": "이형일 \"국부펀드 도입 추진…리스크 원점 재점검\"",
+          "link": "https://news.tvchosun.com/site/data/html_dir/2026/09/22/2026092290296.html",
           "press": "",
           "date": "2026-09-22"
         }
@@ -70,72 +76,72 @@
       "rank": 1
     },
     {
-      "keyword": "메타 뮤즈",
+      "keyword": "편의점",
       "traffic": "100+",
-      "blogTotal": 1003,
-      "newsTotal": 1881,
+      "blogTotal": 2700137,
+      "newsTotal": 1337927,
       "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "40위 鍵のない箱 / 카기노나이하코 / KinKi Kids / 킨키키즈 / J-POP HIT SONG....",
-          "link": "https://virtualtokyo.tistory.com/11040",
-          "blogger": "버추얼도쿄 / 알아야 돈번다 !!",
-          "date": "2015-02-06"
+          "title": "[알라딘서재][100자평] 불편한 편의점 (벚꽃 에디션)",
+          "link": "https://blog.aladin.co.kr/humanus/14588105",
+          "blogger": "https://blog.aladin.co.kr/",
+          "date": "2023-05-16"
         },
         {
-          "title": "Les contes d'Hoffmann",
-          "link": "https://foneclassic.tistory.com/815",
-          "blogger": "포네클래식",
-          "date": "2025-04-30"
+          "title": "[알라딘서재][100자평] 편의점의 시마 아저씨 3",
+          "link": "https://blog.aladin.co.kr/738301164/16659007",
+          "blogger": "https://blog.aladin.co.kr/",
+          "date": "2025-08-11"
         },
         {
-          "title": "Sacrifice Love - 桜川めぐ(사쿠라가와 메구)",
-          "link": "https://10032.tistory.com/125",
-          "blogger": "OPED 창고",
-          "date": "2015-02-25"
+          "title": "[알라딘서재][100자평] 불편한 편의점 (벚꽃 에디션)",
+          "link": "https://blog.aladin.co.kr/bootoyou/14402986",
+          "blogger": "https://blog.aladin.co.kr/",
+          "date": "2023-03-05"
         },
         {
-          "title": "잡다한 기록 보관소 - 러브라이브! 선샤인!! 2기 13화 (완)",
-          "link": "https://alkaid-sp.tistory.com/3104",
-          "blogger": "잡다한 기록 보관소 - 잡다한 기록 보관소",
-          "date": "2017-12-30"
+          "title": "편의점 얼박 판매 1800원",
+          "link": "https://jidoman.tistory.com/670",
+          "blogger": "밥지도",
+          "date": "2025-02-25"
         },
         {
-          "title": "Flow Veo3 사용법 │한국어 음성 생성 방법 │구글 비디오 무료 사용법",
-          "link": "https://e-datanews.tistory.com/851",
-          "blogger": "이데이터뉴스",
-          "date": "2025-09-03"
+          "title": "CU편의점 도시락 - 백종원 완전한판 정식 도시락가격",
+          "link": "https://lovedom.tistory.com/2517",
+          "blogger": "Love dom",
+          "date": "2023-03-30"
         }
       ],
       "topNews": [
         {
-          "title": "[단독] LG도 'AI 글라스' 만든다…\"XR 기술 탑재\"",
-          "link": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609220110&t=NNv",
+          "title": "“티타임 때 침묵한 조희대, 대통령 피고인으로 보고 인정하지 않아”",
+          "link": "https://weekly.khan.co.kr/article/202609222227001",
           "press": "",
           "date": "2026-09-22"
         },
         {
-          "title": "[마감시황] AI 훈풍보다 강했던 차익실현···코스피 7017 턱걸이",
-          "link": "https://www.polinews.co.kr/news/articleView.html?idxno=743876",
+          "title": "日 세븐일레븐 패션 사업 본격 전개",
+          "link": "http://www.apparelnews.co.kr/news/news_view/?idx=227850",
           "press": "",
           "date": "2026-09-22"
         },
         {
-          "title": "'쑥 올랐다 멈춤' 코스피, 국제유가·UN총회 향방 주목",
-          "link": "https://www.mt.co.kr/stock/2026/09/22/2026092217015329737",
+          "title": "코레일, 기차가 블록·키링 됐다…철도 굿즈 총출동 [PS]",
+          "link": "https://sports.donga.com/life/article/all/20260922/134723804/1",
           "press": "",
           "date": "2026-09-22"
         },
         {
-          "title": "메타 ‘뮤즈’ 열풍에 돌아온 매그니피센트7 ETF",
-          "link": "https://www.sedaily.com/article/20094128?ref=naver",
+          "title": "UN 김정훈, 한국 떠나 뭐하나 봤더니..日서 전한 근황 “오늘의 식사\"",
+          "link": "http://www.osen.co.kr/article/G1112880371",
           "press": "",
           "date": "2026-09-22"
         },
         {
-          "title": "AI 회의론 누그러졌지만…코스피, 2%대 상승분 반납",
-          "link": "https://www.seoul.co.kr/news/economy/finance/2026/09/22/20260922500262?wlog_tag3=naver",
+          "title": "프로축구 흥행 열기 품은 상주, 체류형 스포츠 메가시티 속도",
+          "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=560448",
           "press": "",
           "date": "2026-09-22"
         }
@@ -143,72 +149,72 @@
       "rank": 2
     },
     {
-      "keyword": "제미나이",
-      "traffic": "10000+",
-      "blogTotal": 112498,
-      "newsTotal": 70438,
+      "keyword": "신병",
+      "traffic": "100+",
+      "blogTotal": 76218,
+      "newsTotal": 362077,
       "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "GEMINI (제미나이)-She lives in Paris [가사/듣기]",
-          "link": "https://gun593132.tistory.com/31169",
-          "blogger": "나리나리",
-          "date": "2022-05-09"
+          "title": "[원신] '다이루크' 돌파재료, 특성재료",
+          "link": "https://danasn.tistory.com/2474",
+          "blogger": "하하",
+          "date": "2022-07-25"
         },
         {
-          "title": "제미나이 2.0 ai api로 할 수 있는 것들 - 1.기본 API 사용법",
-          "link": "https://pagichacha.tistory.com/378",
-          "blogger": "파기차차",
-          "date": "2024-12-22"
+          "title": "울 아들은 신병훈련중",
+          "link": "https://dong134.tistory.com/16120489",
+          "blogger": "강릉 꽁지네",
+          "date": "2008-11-05"
         },
         {
-          "title": "GEMINI (제미나이)-하나둘셋 (Feat. BIG Naughty) [가사/듣기]",
-          "link": "https://gun593132.tistory.com/32831",
-          "blogger": "나리나리",
-          "date": "2022-08-10"
+          "title": "동생 고아원에 맡기고 군대 온 신병",
+          "link": "https://moluv.tistory.com/1921",
+          "blogger": "꺄르르꺄르르",
+          "date": "2023-10-01"
         },
         {
-          "title": "GEMINI(제미나이) - 하나둘셋 (Feat. BIG Naughty(빅나티)) (듣기/가사)",
-          "link": "https://kjgsb.com/5874",
-          "blogger": "kjgsb",
-          "date": "2022-08-10"
+          "title": "[원신] '야란' 돌파재료, 특성재료",
+          "link": "https://danasn.tistory.com/2545",
+          "blogger": "하하",
+          "date": "2023-02-05"
         },
         {
-          "title": "GPT·제미나이도 뚫린 ‘연쇄 사고 탈취’ ㅡ 똑똑할수록 해킹에 약....",
-          "link": "https://wis-almighty.tistory.com/1277",
-          "blogger": "위즈올마이티",
-          "date": "2025-11-09"
+          "title": "[원신] '미카' 돌파재료, 특성재료",
+          "link": "https://danasn.tistory.com/4644",
+          "blogger": "하하",
+          "date": "2023-02-18"
         }
       ],
       "topNews": [
         {
-          "title": "[위클리AI] 구글·스페이스XAI, 서비스 확장 나섰다···코히어 합병 확...",
-          "link": "https://it.donga.com/109581/",
+          "title": "\"30대 여성 속옷 안에서도 나왔다\"…흩어진 단서 끈질기게 쫓아 줄줄이...",
+          "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609220222&t=NN",
           "press": "",
           "date": "2026-09-22"
         },
         {
-          "title": "AI 추천 브랜드, 질문 따라 달라진다...퍼실, 세탁세제 평가 1위",
-          "link": "https://www.womentimes.co.kr/news/articleView.html?idxno=106424",
+          "title": "[R]'당원 불법 모집' 안동시청 압수수색..올해만 3번째",
+          "link": "http://andongmbc.co.kr/adboard/NewsView84912",
           "press": "",
           "date": "2026-09-22"
         },
         {
-          "title": "호주, AI 데이터센터 전력 규제 강화…재생에너지·ESS 자체 확보 의무화",
-          "link": "https://www.joongangenews.com/news/articleView.html?idxno=550181",
+          "title": "‘신병4’ 중대장 오대환, 마지막 진급 심사 향방은?",
+          "link": "https://enter.etoday.co.kr/news/view/302794",
           "press": "",
           "date": "2026-09-22"
         },
         {
-          "title": "내 취향 분석해 음식 추천하고 결제까지",
-          "link": "https://www.mk.co.kr/article/12159530",
+          "title": "속옷서도 마약 나왔다…비행기 좌석 밑 ‘하얀 가루’ 추적했더니",
+          "link": "https://www.edaily.co.kr/News/Read?newsId=05789206645582744&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
           "press": "",
           "date": "2026-09-22"
         },
         {
-          "title": "오픈AI 이어 제미나이도 외부기관 해킹…구글 “공개할 사안 아냐”",
-          "link": "https://www.munhwa.com/article/11619010?ref=naver",
+          "title": "‘사랑이 온다’ 하니·하석진 통했다…9월 선호도 1위, 자체 최고 16.6%...",
+          "link": "https://www.wikitree.co.kr/articles/1161449",
           "press": "",
           "date": "2026-09-22"
         }
@@ -216,72 +222,72 @@
       "rank": 3
     },
     {
-      "keyword": "게임",
+      "keyword": "혼인",
       "traffic": "2000+",
-      "blogTotal": 8277692,
-      "newsTotal": 8194088,
+      "blogTotal": 488885,
+      "newsTotal": 455651,
       "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "스팀무료게임 지뢰 찾기 러시",
-          "link": "https://blog.naver.com/strawons/223933944742",
-          "blogger": "마니꿀게임 종합게임정보",
-          "date": "2025-08-17"
-        },
-        {
-          "title": "[알라딘서재]게임만 하고 싶은 아이와 게임만 하지 말라는 엄마의 ....",
-          "link": "https://blog.aladin.co.kr/753284178/13871852",
+          "title": "[알라딘서재][100자평] 청부혼인 1",
+          "link": "https://blog.aladin.co.kr/725962180/16450719",
           "blogger": "https://blog.aladin.co.kr/",
-          "date": "2022-08-24"
+          "date": "2025-05-14"
         },
         {
-          "title": "[알라딘서재]오늘 읽은 부분에서는 게임업계의 역사를 간접적으로....",
-          "link": "https://blog.aladin.co.kr/765045244/14577023",
-          "blogger": "http://blog.aladin.co.kr/town/contents/paper",
-          "date": "2023-05-11"
+          "title": "지노캔들Gino Art Candle(양초를연구하는사람들) :: 분당성마르코성당 ....",
+          "link": "https://gino.co.kr/575",
+          "blogger": "지노캔들Gino Art Candle(양초를연구하는사람들) :: 지노캔들Gino Art Candle(양초를연구하는사람들)",
+          "date": "2013-07-01"
         },
         {
-          "title": "황새게임(황새날리기) 완전정복 플래시게임의 레전드, 다시 떠오르....",
-          "link": "https://hinetp.tistory.com/272",
-          "blogger": "화제의 판례와 도시계획",
-          "date": "2025-07-12"
+          "title": "지노캔들Gino Art Candle(양초를연구하는사람들) :: 양산성당 혼인50주년....",
+          "link": "https://gino.co.kr/2130",
+          "blogger": "지노캔들Gino Art Candle(양초를연구하는사람들) :: 지노캔들Gino Art Candle(양초를연구하는사람들)",
+          "date": "2017-09-18"
         },
         {
-          "title": "[모바일] 게임 쿠폰",
-          "link": "https://jeongchul.tistory.com/154",
-          "blogger": "Jeongchul Kim — Jeongchul Kim",
-          "date": "2015-12-23"
+          "title": "지노캔들Gino Art Candle(양초를연구하는사람들) :: 성북동성당 혼인갱....",
+          "link": "https://gino.co.kr/2267",
+          "blogger": "지노캔들Gino Art Candle(양초를연구하는사람들) :: 지노캔들Gino Art Candle(양초를연구하는사람들)",
+          "date": "2017-12-24"
+        },
+        {
+          "title": "카나의 혼인잔치",
+          "link": "https://magis.tistory.com/159",
+          "blogger": "보다 더 가까이",
+          "date": "2013-01-20"
         }
       ],
       "topNews": [
         {
-          "title": "일단 7연패부터 끊자! 천재환 1번 승부수…이호준 감독 “오늘 계기로 ...",
-          "link": "http://www.osen.co.kr/article/G1112880179",
+          "title": "유부남 전 남친, 숙행 요청에도 재판 증인 불출석?…\"뒤통수 맞은 거\"",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16207672",
           "press": "",
           "date": "2026-09-22"
         },
         {
-          "title": "여자배구, 타이에 0-3 완패…4위로 아시안게임 마쳐",
-          "link": "https://www.hani.co.kr/arti/sports/sportstemp/asiangame/1279109.html",
+          "title": "“치매 남편이 ‘로맨스 스캠’에 재산 탕진”…이혼 고민하는 아내",
+          "link": "https://biz.heraldcorp.com/article/10882649?ref=naver",
           "press": "",
           "date": "2026-09-22"
         },
         {
-          "title": "[게임 NOW] 엔씨·카카오게임즈·크래프톤",
-          "link": "http://www.wikileaks-kr.org/news/articleView.html?idxno=192376",
+          "title": "\"죽을 때까지 즐겁게 살라\"…'네팔 슈바이처' 이근후 교수 별세",
+          "link": "https://www.yna.co.kr/view/AKR20260922194500704?input=1195m",
           "press": "",
           "date": "2026-09-22"
         },
         {
-          "title": "'노메달' 고개 숙인 女 배구, 태국에 완패…2회 연속 메달 획득 실패",
-          "link": "https://www.nocutnews.co.kr/news/6582291?utm_source=naver&utm_medium=article&utm_campaign=20260922054124",
+          "title": "“나도 속았다”던 숙행, 3000만 원 배상 판결…전남친의 ‘증인 거부’...",
+          "link": "https://www.mk.co.kr/article/12159796",
           "press": "",
           "date": "2026-09-22"
         },
         {
-          "title": "[ETF NOW] 미래에셋자산운용·KB자산운용·한국투자신탁운용·신한자산운...",
-          "link": "http://www.wikileaks-kr.org/news/articleView.html?idxno=192359",
+          "title": "“25년 만에 결혼?” 박정수♥정을영, 웨딩화보 공개",
+          "link": "https://www.sportsseoul.com/news/read/1637140?ref=naver",
           "press": "",
           "date": "2026-09-22"
         }
@@ -289,72 +295,72 @@
       "rank": 4
     },
     {
-      "keyword": "달력",
+      "keyword": "노원구",
       "traffic": "200+",
-      "blogTotal": 779622,
-      "newsTotal": 163607,
+      "blogTotal": 818272,
+      "newsTotal": 425967,
       "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "[알라딘서재][100자평] 2022년 고래별 탁상 달력",
-          "link": "https://blog.aladin.co.kr/790228205/13214589",
-          "blogger": "https://blog.aladin.co.kr/",
-          "date": "2021-12-30"
+          "title": "노원구유소년야구단(리틀야구단) 실내훈련모습 [노원구유소년야구....",
+          "link": "https://llsy0933.tistory.com/1100",
+          "blogger": "대한유소년야구연맹",
+          "date": "2013-05-16"
         },
         {
-          "title": "[알라딘서재][100자평] [알라딘 사은품] 2022 알라딘 BEST 달력",
-          "link": "https://blog.aladin.co.kr/yourcat/13459078",
-          "blogger": "https://blog.aladin.co.kr/",
-          "date": "2022-03-27"
+          "title": "제2회 LK배 전국유소년야구대회 영광의 수상자와 이노근 국회의원님....",
+          "link": "https://llsy0933.tistory.com/1220",
+          "blogger": "대한유소년야구연맹",
+          "date": "2013-06-24"
         },
         {
-          "title": "티스토리달력",
-          "link": "https://neoteny.tistory.com/222",
-          "blogger": "Neoteny",
-          "date": "2007-12-02"
+          "title": "노원구꽃배달 노원웨딩의전당 건영옴니백화잠 6층웨딩홀 화환문의0....",
+          "link": "https://chungsong5708.tistory.com/12152519",
+          "blogger": "청송화원 상봉역꽃집 중랑구꽃집",
+          "date": "2013-06-29"
         },
         {
-          "title": "[알라딘서재]헤르만 헤세의 정원 탁상달력",
-          "link": "https://blog.aladin.co.kr/746073170/13972863",
-          "blogger": "https://blog.aladin.co.kr/",
-          "date": "2022-09-30"
+          "title": "노원구유소년야구단(리틀야구단)vs 남양주 오남유소년야구단(리틀....",
+          "link": "https://llsy0933.tistory.com/1131",
+          "blogger": "대한유소년야구연맹",
+          "date": "2013-05-29"
         },
         {
-          "title": "[알라딘서재]달력이야기",
-          "link": "https://blog.aladin.co.kr/732392264/10212861",
-          "blogger": "https://blog.aladin.co.kr/",
-          "date": "2018-07-13"
+          "title": "노원구유소년야구단(리틀야구단)vs천안아산파워 유소년야구단 [제4....",
+          "link": "https://llsy0933.tistory.com/1005",
+          "blogger": "대한유소년야구연맹",
+          "date": "2013-04-19"
         }
       ],
       "topNews": [
         {
-          "title": "한가위를 더 풍성하게…온 가족 함께하는 ‘문화 나들이’",
-          "link": "http://www.jndn.com/article.php?aid=1790065411440121006",
+          "title": "허각, 마음으로 부른다",
+          "link": "https://www.dailian.co.kr/news/view/1693818/?sc=Naver",
           "press": "",
           "date": "2026-09-22"
         },
         {
-          "title": "첫사랑의 실루엣 [조남대의 은퇴일기(108)]",
-          "link": "https://www.dailian.co.kr/news/view/1693723/?sc=Naver",
+          "title": "허각, 믿고 듣는 목소리",
+          "link": "https://www.dailian.co.kr/news/view/1693817/?sc=Naver",
           "press": "",
           "date": "2026-09-22"
         },
         {
-          "title": "[AI 세컷뉴스] 동물도 장례를 치를까? 죽은 동료를 대하는 동물들",
-          "link": "http://www.sisunnews.co.kr/news/articleView.html?idxno=245966",
+          "title": "한요한, 열정 가득한 무대",
+          "link": "https://www.dailian.co.kr/news/view/1693815/?sc=Naver",
           "press": "",
           "date": "2026-09-22"
         },
         {
-          "title": "10월 개천절·한글날 임시공휴일 가능성은?",
-          "link": "https://www.ggilbo.com/news/articleView.html?idxno=1183381",
+          "title": "한요한, 무대 장악",
+          "link": "https://www.dailian.co.kr/news/view/1693814/?sc=Naver",
           "press": "",
           "date": "2026-09-22"
         },
         {
-          "title": "온 가족 함께하는 추석 명절…보름달 아래 '문화 한마당' 펼쳐진다",
-          "link": "https://www.namdonews.com/news/articleView.html?idxno=924134",
+          "title": "한요한, 제대로 놀아보자",
+          "link": "https://www.dailian.co.kr/news/view/1693813/?sc=Naver",
           "press": "",
           "date": "2026-09-22"
         }
@@ -362,72 +368,72 @@
       "rank": 5
     },
     {
-      "keyword": "하이닉스 주가",
-      "traffic": "100+",
-      "blogTotal": 106072,
-      "newsTotal": 61509,
+      "keyword": "삼성전기",
+      "traffic": "500+",
+      "blogTotal": 75886,
+      "newsTotal": 274330,
       "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "20071115 [디지털산업] 우영, LPL, 하이닉스, 독자적 기술 국산화 성공",
-          "link": "https://thebasis.tistory.com/7",
-          "blogger": "The basis",
-          "date": "2007-11-19"
+          "title": "삼성에스디에스 '25년 주가전망, 배당금, 배당일 (30년간 재무제표,배....",
+          "link": "https://easy-start1.tistory.com/2310",
+          "blogger": "배당과 투자",
+          "date": "2025-03-10"
         },
         {
-          "title": "🚀 SK하이닉스(000660)",
-          "link": "https://yuyu100.tistory.com/1128",
-          "blogger": "생각따라",
-          "date": "2025-06-27"
+          "title": "09월05일(화) 내일승부주10선 = 스마트레이더.대동기어.삼성전기.솔트....",
+          "link": "https://kalse.tistory.com/3265",
+          "blogger": "상한문(上限門)",
+          "date": "2023-09-05"
         },
         {
-          "title": "SK하이닉스 배당금 총정리",
-          "link": "https://aircloud.tistory.com/227",
-          "blogger": "에어클라우드",
-          "date": "2023-02-07"
+          "title": "삼성전자 '25년 주가전망, 배당금, 배당일 (30년간 재무제표,배당정보....",
+          "link": "https://easy-start1.tistory.com/2281",
+          "blogger": "배당과 투자",
+          "date": "2025-03-09"
         },
         {
-          "title": "FCF 자유현금흐름과 적정주가",
-          "link": "https://eddm.tistory.com/162",
-          "blogger": "으뜸이네 파이썬",
-          "date": "2024-11-18"
+          "title": "2016년 상반기 삼성 공채 임박! 15년 TOEIC Speaking 성적 활용 현황",
+          "link": "https://www.toeicstory.co.kr/137",
+          "blogger": "한국토익위원회 토익스토리 :: 토익스토리",
+          "date": "2015-12-28"
         },
         {
-          "title": "삼성전자의 주가는 내년에 어떻게 될것인가? (반도체 내년 업황)",
-          "link": "https://exportpatriot.tistory.com/34",
-          "blogger": "한국, 미국 주식 공부방",
-          "date": "2020-12-30"
+          "title": "2023년 하반기 삼성 공채 시작! 토익스피킹은 필수라고?",
+          "link": "https://www.toeicstory.co.kr/2122",
+          "blogger": "한국토익위원회 토익스토리 :: 토익스토리",
+          "date": "2023-09-11"
         }
       ],
       "topNews": [
         {
-          "title": "코스피, '자사주 매입'에 7000선 사수…기관·개인·외인 수급 이탈",
-          "link": "https://www.g-enews.com/view.php?ud=2026092217002977923c501012_1",
+          "title": "코스피, 소폭 상승에 7000선 유지...삼성전자, 삼성전기 상승 VS SK하이닉...",
+          "link": "http://www.econonews.co.kr/news/articleView.html?idxno=444748",
           "press": "",
           "date": "2026-09-22"
         },
         {
-          "title": "[마감시황]코스피, 2%대 출발 후 급제동…7000선 간신히 지켰다",
-          "link": "https://www.namdonews.com/news/articleView.html?idxno=924264",
+          "title": "KB자산운용, 삼성·SK 대표기업 담은 ETF 출시",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=489752",
           "press": "",
           "date": "2026-09-22"
         },
         {
-          "title": "[속보]삼전 0.91%↑·하닉 1.50%↓…외인·기관이 향방 갈랐다",
-          "link": "https://www.edaily.co.kr/News/Read?newsId=04106566645582744&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+          "title": "[주식마감] '퀄컴 NPU서 로봇 AI 최적화' 노타 상한가... 셀리드, 더블유...",
+          "link": "https://www.ggilbo.com/news/articleView.html?idxno=1183438",
           "press": "",
           "date": "2026-09-22"
         },
         {
-          "title": "SK하이닉스 주가 약보합…186만1000원",
-          "link": "https://www.job-post.co.kr/news/articleView.html?idxno=228789",
+          "title": "코스피, 장중 2% 급등 후 강보합…'7천피' 사수",
+          "link": "https://www.koreareport.co.kr/news/articleView.html?idxno=53171",
           "press": "",
           "date": "2026-09-22"
         },
         {
-          "title": "[오늘의 삼전닉스] 배당 기대감에 AI 낙관론까지 '호재'만 가득한 하루",
-          "link": "https://economist.co.kr/article/view/ecn202609220023",
+          "title": "한국투자증권, 대학생 모의투자대회 '한투모투배틀' 개최 外",
+          "link": "https://www.rcast.co.kr/news/articleView.html?idxno=31701",
           "press": "",
           "date": "2026-09-22"
         }
@@ -435,72 +441,72 @@
       "rank": 6
     },
     {
-      "keyword": "삼성전자 주가",
+      "keyword": "교통 사고",
       "traffic": "200+",
-      "blogTotal": 172574,
-      "newsTotal": 704082,
+      "blogTotal": 1657935,
+      "newsTotal": 1416638,
       "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "삼성전자 주가 및 재무제표 분석 2023년03월31일",
-          "link": "https://jisungs.tistory.com/883",
-          "blogger": "Jisung's Story",
-          "date": "2023-03-31"
+          "title": "교통사고조사교육(교통조사관과정) 교육과목, 교육시간 등 안내",
+          "link": "https://share1.tistory.com/2868",
+          "blogger": "지식 대장간",
+          "date": "2025-02-21"
         },
         {
-          "title": "삼성전자 주식시세표, 실시간 주식 정보와 활용법 바로 확인하세요",
-          "link": "https://elrics.tistory.com/2041",
-          "blogger": "라이프로그",
-          "date": "2025-03-02"
+          "title": "교통사고 [척추골절 부위별 맥브라이드 장해율]",
+          "link": "https://nameuntree.tistory.com/348",
+          "blogger": "꿈꾸는 나무의 행복이야기...",
+          "date": "2025-02-20"
         },
         {
-          "title": "[알라딘서재]📘『 2030 삼성전자 시나리오 』",
-          "link": "https://blog.aladin.co.kr/775054279/14982524",
-          "blogger": "https://blog.aladin.co.kr/",
-          "date": "2023-10-15"
+          "title": "교통사고 실비보험 중복청구 최대 보상받는 방법",
+          "link": "https://churry0510.tistory.com/381",
+          "blogger": "쓰다",
+          "date": "2024-11-21"
         },
         {
-          "title": "2021년 3분기 삼성전자 밴드차트(PBR PER 배당수익률)",
-          "link": "https://xassets.tistory.com/774",
-          "blogger": "누군가의 부채는 누군가의 자산이다",
-          "date": "2021-11-22"
+          "title": "교통법규위반 교통사고 벌점 부과 기준 자세하게 알아보기",
+          "link": "https://handnail.tistory.com/439",
+          "blogger": "라이프타임",
+          "date": "2023-11-16"
         },
         {
-          "title": "삼성전자-테슬라 23조 계약! 놓치면 안 될 진짜 수혜주 3곳은?",
-          "link": "https://run8806.tistory.com/2048",
-          "blogger": "청로엔 소액 투자",
-          "date": "2025-08-04"
+          "title": "[공공데이터] 시간대별 교통사고 통계",
+          "link": "https://kwonpolice.tistory.com/150",
+          "blogger": "추억은 방울방울",
+          "date": "2021-09-03"
         }
       ],
       "topNews": [
         {
-          "title": "‘삼전닉스 ETF’가 수익률 1~10위 싹쓸이…메모리 이어 MLCC까지 영토 확...",
-          "link": "https://biz.heraldcorp.com/article/10881760?ref=naver",
+          "title": "전남 경찰, 음주운전 등 비위로 검찰 기소 101건",
+          "link": "https://www.ikbc.co.kr/article/view/kbc202609220076",
           "press": "",
           "date": "2026-09-22"
         },
         {
-          "title": "[오늘증시] 코스피, AI 반도체 훈풍에도 상승폭 반납…간신히 7000선 지켜",
-          "link": "http://www.queen.co.kr/news/articleView.html?idxno=463819",
+          "title": "\"다 왔다고 왜 깨워\"…고속도로 달리던 택시기사 무차별 폭행한 30대",
+          "link": "https://www.fnnews.com/news/202609222220540498",
           "press": "",
           "date": "2026-09-22"
         },
         {
-          "title": "[마감시황] AI 훈풍보다 강했던 차익실현···코스피 7017 턱걸이",
-          "link": "https://www.polinews.co.kr/news/articleView.html?idxno=743876",
+          "title": "횡단보도 건너던 80대 차에 치여 사망…운전자 입건",
+          "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8669909&ref=A",
           "press": "",
           "date": "2026-09-22"
         },
         {
-          "title": "'쑥 올랐다 멈춤' 코스피, 국제유가·UN총회 향방 주목",
-          "link": "https://www.mt.co.kr/stock/2026/09/22/2026092217015329737",
+          "title": "[9월 23일] 동방정사의 오늘의 운세",
+          "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=560389",
           "press": "",
           "date": "2026-09-22"
         },
         {
-          "title": "AI 회의론 누그러졌지만…코스피, 2%대 상승분 반납",
-          "link": "https://www.seoul.co.kr/news/economy/finance/2026/09/22/20260922500262?wlog_tag3=naver",
+          "title": "경기도, \"추석 연휴 시외버스 80대 증차·철도 심야 연장운행\"",
+          "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2473384",
           "press": "",
           "date": "2026-09-22"
         }
@@ -508,72 +514,72 @@
       "rank": 7
     },
     {
-      "keyword": "청약홈",
-      "traffic": "1000+",
-      "blogTotal": 36432,
-      "newsTotal": 78025,
-      "recentToday": 63,
+      "keyword": "죽도시장",
+      "traffic": "200+",
+      "blogTotal": 92479,
+      "newsTotal": 37137,
+      "recentToday": 48,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "[알라딘서재][100자평] 주택청약의 모든 것",
-          "link": "https://blog.aladin.co.kr/koobfrom/15729460",
-          "blogger": "https://blog.aladin.co.kr/",
-          "date": "2024-07-29"
+          "title": "타닌시장에서 점심으로 카파오무쌉을...",
+          "link": "https://jjongphoto.com/166",
+          "blogger": "JJONG",
+          "date": "2010-11-12"
         },
         {
-          "title": "[알라딘서재][100자평] 주택청약의 모든 것",
-          "link": "https://blog.aladin.co.kr/791642121/15754701",
-          "blogger": "https://blog.aladin.co.kr/",
-          "date": "2024-08-07"
+          "title": "포항 죽도어시장",
+          "link": "https://blackbg.tistory.com/83",
+          "blogger": "포토 폴리오 (bgwoo_foto)",
+          "date": "2012-10-02"
         },
         {
-          "title": "[알라딘서재][100자평] 주택청약의 모든 것",
-          "link": "https://blog.aladin.co.kr/714500160/14110846",
-          "blogger": "https://blog.aladin.co.kr/",
-          "date": "2022-11-20"
+          "title": "2018년 11월 충남 여행(서산 국화축제 & 홍성군 광천 토굴젓갈시장 & ....",
+          "link": "https://myarea1472.tistory.com/8369679",
+          "blogger": "만들어 가는 나의 공간",
+          "date": "2018-11-03"
         },
         {
-          "title": "뉴홈 공공 사전청약 신청 자격과 공급 유형 확인",
-          "link": "https://breve.tistory.com/2102",
-          "blogger": "현명한 금융 소비 생활",
-          "date": "2023-11-06"
+          "title": "해파랑길 3ㅡ2. 죽성항 죽성드림세트장~대변시장~대변항~죽도~오시....",
+          "link": "https://iupark1.tistory.com/1610",
+          "blogger": "푸른솔이 살아가는 세상이야기",
+          "date": "2021-04-09"
         },
         {
-          "title": "청약홈 홈페이지 (https://www.applyhome.co.kr)",
-          "link": "https://ggoggodekyo.tistory.com/250",
-          "blogger": "꼬꼬닭이운다",
-          "date": "2022-01-06"
+          "title": "포항, 환여횟집의 물회 & 죽도어시장의 대게상차림 :: 다른異 색깔彩....",
+          "link": "https://ytzsche.tistory.com/2044",
+          "blogger": "다른異 색깔彩을 지켜낼 자유. :: 다른異 색깔彩을 지켜낼 자유.",
+          "date": "2013-02-06"
         }
       ],
       "topNews": [
         {
-          "title": "재원·매입가·아파트 확보…공적주택 '3대 난제'",
-          "link": "https://www.hankyung.com/article/2026092215721",
+          "title": "[르포] 추석 대목 맞은 포항 죽도시장 가보니",
+          "link": "https://www.ksmnews.co.kr/news/view.php?idx=623190",
           "press": "",
           "date": "2026-09-22"
         },
         {
-          "title": "\"시세는 14억인데 7억에 분양\"… 광명에 '로또 줍줍' 떴다",
-          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=489629",
+          "title": "추석 앞둔 죽도시장…제수용품 장보기 '분주'",
+          "link": "https://www.dkilbo.com/news/articleView.html?idxno=555397",
           "press": "",
           "date": "2026-09-22"
         },
         {
-          "title": "앉아서 마포 초역세권…'공덕역 이서' 청약, 보증금은?",
-          "link": "https://www.wikitree.co.kr/articles/1161341",
+          "title": "추석 준비 나선 포항 읍면동…시장 살리고 이웃 챙기고",
+          "link": "https://www.dkilbo.com/news/articleView.html?idxno=555370",
           "press": "",
           "date": "2026-09-22"
         },
         {
-          "title": "국평 30억 '더샵 분당하이스트', 특공 경쟁률 2.9대1",
-          "link": "https://www.newsis.com/view/NISX20260922_0003800307",
+          "title": "추석특집/ 서해안으로 떠나는 가을 로드트립",
+          "link": "https://www.dynews.co.kr/news/articleView.html?idxno=867118",
           "press": "",
           "date": "2026-09-22"
         },
         {
-          "title": "“당첨되면 최대 7억 번다”…광명 철산자이 ‘줍줍’ 물량 떴다",
-          "link": "https://www.wikitree.co.kr/articles/1161352",
+          "title": "포항북부서, 추석 특별교통관리 ‘총력’…죽도시장서 교통안전 캠페인",
+          "link": "https://www.kbmaeil.com/article/20260922500709",
           "press": "",
           "date": "2026-09-22"
         }
@@ -581,72 +587,72 @@
       "rank": 8
     },
     {
-      "keyword": "조선일보",
-      "traffic": "100+",
-      "blogTotal": 369217,
-      "newsTotal": 377576,
-      "recentToday": 43,
-      "recentWeek": 100,
+      "keyword": "이대역 화재",
+      "traffic": "200+",
+      "blogTotal": 28,
+      "newsTotal": 286,
+      "recentToday": 15,
+      "recentWeek": 15,
       "topBlogs": [
         {
-          "title": "조선일보가 반정부데모에 앞장서다",
-          "link": "https://y5561786.tistory.com/15521071",
-          "blogger": "달빛 이야기",
-          "date": "2016-11-06"
+          "title": "뉴삼성렌터카 마포구렌트카 영등포렌트카 강서구렌트카 용산렌트....",
+          "link": "https://jyum1536.tistory.com/12",
+          "blogger": "전국지점망-단기렌트 뉴삼성렌터카 070-4763-1133",
+          "date": "2011-01-10"
         },
         {
-          "title": "조선일보 기고문",
-          "link": "https://jasoseo.tistory.com/23",
-          "blogger": "최이권쌤의 진로진학연구소",
-          "date": "2015-08-23"
+          "title": "고맙습니다. 이제 털고 일어서겠습니다. :: 인사동 사람들",
+          "link": "https://mun6144.tistory.com/5987",
+          "blogger": "인사동 사람들 :: 인사동 사람들",
+          "date": "2021-05-08"
         },
         {
-          "title": "조선일보의 굴욕",
-          "link": "https://hanil5.tistory.com/4665130",
-          "blogger": "희망연속",
-          "date": "2008-06-11"
+          "title": "119. 鳥 새 조",
+          "link": "https://hanzischool.tistory.com/126",
+          "blogger": "설문서당",
+          "date": "2021-07-02"
         },
         {
-          "title": "크리스마스 조선일보 기사들(1924-1932)",
-          "link": "https://religio.tistory.com/51",
-          "blogger": "종교학 벌레",
-          "date": "2007-12-02"
+          "title": "이지옥션 경매 :: ##부산 해운대구 콘도(호텔)경매 중동 엘시티랜드....",
+          "link": "https://1easy.tistory.com/5469",
+          "blogger": "이지옥션 경매 :: 이지옥션 경매",
+          "date": "2023-09-25"
         },
         {
-          "title": "조선일보 : 본사, 광화문 빌딩",
-          "link": "https://sfeelbug.tistory.com/8614879",
-          "blogger": "https://sfeelbug.tistory.com/",
-          "date": "2022-09-08"
+          "title": "스타벅스 선릉역 주소 영업시간 전화번호 주차 매장 찾기",
+          "link": "https://majorplaces.tistory.com/6023",
+          "blogger": "Major Places",
+          "date": "2022-06-21"
         }
       ],
       "topNews": [
         {
-          "title": "[명동백작들의 영화 이야 ㊱] 볼수록 흥미로운 박인환의 시대, 찬란하고...",
-          "link": "https://www.news2day.co.kr/article/20260922500267",
+          "title": "2호선 이대역 무정차 통과 종료…정상 운행 시작(종합)",
+          "link": "https://www.nocutnews.co.kr/news/6582393?utm_source=naver&utm_medium=article&utm_campaign=20260922104127",
           "press": "",
           "date": "2026-09-22"
         },
         {
-          "title": "국가 차원 진상조사 후 한국 개신교가 쓴 반성문",
-          "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003269413&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+          "title": "[속보]2호선 이대역 무정차 통과 종료···정상 운행 재개",
+          "link": "https://www.khan.co.kr/article/202609222239001",
           "press": "",
           "date": "2026-09-22"
         },
         {
-          "title": "아시안게임 북한 선수단 2명, 일본에 망명 의사 전달…41년 만",
-          "link": "https://www.wikitree.co.kr/articles/1161423",
+          "title": "2호선 이대역 무정차 통과 종료…정상 운행",
+          "link": "http://www.yonhapnewstv.co.kr/news/AKR20260922223635Ent",
           "press": "",
           "date": "2026-09-22"
         },
         {
-          "title": "대법관 자리는 203일째 비어 있다, 두 권력은 헌법 조문을 들고 마주 섰...",
-          "link": "https://newscham.net/articles/117226",
+          "title": "2호선 이대역 화재로 인한 무정차 통과 종료…정상 운행 재개(종합)",
+          "link": "https://www.mk.co.kr/article/12159858",
           "press": "",
           "date": "2026-09-22"
         },
         {
-          "title": "자꾸 아픈 발바닥, 단순 피로 아닙니다 ‘노화성 평발’ 위험 신호입니...",
-          "link": "https://www.chosun.com/medical/2026/09/22/74PWOJQL7JHEXN6QE4AVYBJ7Y4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+          "title": "2호선 이대역 'UPS실 연기'로 무정차 통과… 40분 만에 정상화",
+          "link": "https://www.newscj.com/news/articleView.html?idxno=3434979",
           "press": "",
           "date": "2026-09-22"
         }
@@ -654,74 +660,74 @@
       "rank": 9
     },
     {
-      "keyword": "기상청 날씨누리",
-      "traffic": "1000+",
-      "blogTotal": 3518,
-      "newsTotal": 10907,
-      "recentToday": 17,
-      "recentWeek": 39,
+      "keyword": "england vs sri lanka",
+      "traffic": "500+",
+      "blogTotal": 0,
+      "newsTotal": 111,
+      "recentToday": 0,
+      "recentWeek": 0,
       "topBlogs": [
         {
-          "title": "2023.7.9.일.~7.18.화. 서울 대전 날씨: 습한 공기와 비가 어우러진 다음 ....",
-          "link": "https://pcgeeks.tistory.com/23559",
-          "blogger": "PC Geek's",
-          "date": "2023-07-08"
+          "title": "Rex Parker Does the NYT Crossword Puzzle: Harmful algal blooms / SUN 7-14-24 / Early invad....",
+          "link": "https://rexwordpuzzle.blogspot.com/2024/07/harmful-algal-blooms-sun-7-14-24-early.html",
+          "blogger": "Rex Parker Does the NYT Crossword Puzzle",
+          "date": "1990-01-01"
         },
         {
-          "title": "날씨 : 2023년 07월 26일",
-          "link": "https://84888488.tistory.com/157",
-          "blogger": "건강, 돈, 행복의 비밀",
-          "date": "2023-07-26"
+          "title": "KTemoc Konsiders : China to USA: We are rice eaters lah, not hot dogs gobblers",
+          "link": "http://ktemoc.blogspot.com/2021/04/china-to-usa-we-are-rice-eaters-lah-not.html",
+          "blogger": "KTemoc Konsiders ........",
+          "date": "2021-04-29"
         },
         {
-          "title": "서울·대전 3월 강수량, 전국 건조주의보",
-          "link": "https://pcgeeks.tistory.com/22715",
-          "blogger": "PC Geek's",
-          "date": "2023-03-20"
+          "title": "VANISHED EMPIRES: 2016- 2017 Books",
+          "link": "http://catdirtsez.blogspot.com/2023/12/2017-books.html",
+          "blogger": "VANISHED EMPIRES",
+          "date": "2026-07-17"
         },
         {
-          "title": "네이버 재해재난정보 및 Daum 기상특보(8.29-20시 현재)",
-          "link": "https://parkjj327.tistory.com/159",
-          "blogger": "Lovestory In Memories",
-          "date": "2018-08-29"
+          "title": "해외뉴스 이슈 태그 - Israel, Gaza, Hamas, Roma, Paris, World, Lyon, Cordoba, Milan....",
+          "link": "https://issuelink.tistory.com/2607",
+          "blogger": "모두의 관심사 :: 모두의 관심사",
+          "date": "2023-10-17"
         },
         {
-          "title": "2023.2.24.토. ~ 3.4.월. 일기예보(중기날씨): 평년과 비슷",
-          "link": "https://pcgeeks.tistory.com/24972",
-          "blogger": "PC Geek's",
-          "date": "2024-02-24"
+          "title": "Number of Federal holidays in the USA vs Korea 미국과 비교해 보는 한국 공휴일",
+          "link": "https://blog.naver.com/sukiwhere/222929430439",
+          "blogger": "half Tour half Travel",
+          "date": "2022-11-15"
         }
       ],
       "topNews": [
         {
-          "title": "충남권, 추석 당일 늦은 밤부터 비…보름달 보기 어려울 듯",
-          "link": "https://www.nocutnews.co.kr/news/6582281?utm_source=naver&utm_medium=article&utm_campaign=20260922053624",
+          "title": "AUSTRALIA CRICKET T20 WORLD CUP",
+          "link": "https://n.news.naver.com/mnews/article/091/0009342563?sid=104",
           "press": "",
-          "date": "2026-09-22"
+          "date": "2022-11-05"
         },
         {
-          "title": "기상청, 전 세계 날씨 한눈에 보는 '날씨지도' 개편",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16207077",
+          "title": "AUSTRALIA CRICKET WARM-UP TWENTY20",
+          "link": "https://n.news.naver.com/mnews/article/091/0007832174?sid=104",
           "press": "",
-          "date": "2026-09-22"
+          "date": "2020-02-18"
         },
         {
-          "title": "\"추석 보름달 보기 힘들다\"…전북, 연휴 구름 많고 흐림",
-          "link": "https://www.newsis.com/view/NISX20260922_0003800463",
+          "title": "AUSTRALIA CRICKET WARM-UP TWENTY20",
+          "link": "https://n.news.naver.com/mnews/article/091/0007832173?sid=104",
           "press": "",
-          "date": "2026-09-22"
+          "date": "2020-02-18"
         },
         {
-          "title": "한반도 넘어 ‘전 세계 날씨’가 한눈에 쏙···확 바뀐 기상청 ‘날씨...",
-          "link": "https://www.khan.co.kr/article/202609221455001",
+          "title": "AUSTRALIA CRICKET WARM-UP TWENTY20",
+          "link": "https://n.news.naver.com/mnews/article/091/0007832172?sid=104",
           "press": "",
-          "date": "2026-09-22"
+          "date": "2020-02-18"
         },
         {
-          "title": "보름달 보기 힘들다···연휴 내내 구름·비",
-          "link": "https://www.thereport.co.kr/news/articleView.html?idxno=91667",
+          "title": "AUSTRALIA CRICKET WARM-UP TWENTY20",
+          "link": "https://n.news.naver.com/mnews/article/091/0007832171?sid=104",
           "press": "",
-          "date": "2026-09-22"
+          "date": "2020-02-18"
         }
       ],
       "rank": 10
