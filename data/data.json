@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-25T15:25:06.081Z",
+  "updatedAt": "2026-09-25T19:25:11.049Z",
   "source": "live",
   "keywords": [
     {
       "keyword": "이승철",
       "traffic": "500+",
-      "blogTotal": 66120,
+      "blogTotal": 66206,
       "newsTotal": 175337,
-      "recentToday": 91,
+      "recentToday": 45,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -76,229 +76,10 @@
       "rank": 1
     },
     {
-      "keyword": "중산층",
-      "traffic": "5000+",
-      "blogTotal": 74962,
-      "newsTotal": 334467,
-      "recentToday": 85,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "[알라딘서재]동아리",
-          "link": "https://blog.aladin.co.kr/edurevolt/12200009",
-          "blogger": "https://blog.aladin.co.kr/",
-          "date": "2020-12-07"
-        },
-        {
-          "title": "[알라딘서재]사회학",
-          "link": "https://blog.aladin.co.kr/767553285/12148387",
-          "blogger": "https://blog.aladin.co.kr/",
-          "date": "2020-11-18"
-        },
-        {
-          "title": "[알라딘서재]마이 코리안델리",
-          "link": "https://blog.aladin.co.kr/734875185/4956296",
-          "blogger": "https://blog.aladin.co.kr/",
-          "date": "2011-07-27"
-        },
-        {
-          "title": "[알라딘서재]이슈테마 복본",
-          "link": "https://blog.aladin.co.kr/780268133/8162902",
-          "blogger": "https://blog.aladin.co.kr/",
-          "date": "2016-01-19"
-        },
-        {
-          "title": "노후에도 중산층으로 살아남는 방법",
-          "link": "http://blog.moneta.co.kr/blog.log.view.screen?blogId=ejongy&logId=8303720",
-          "blogger": "http://blog.moneta.co.kr/",
-          "date": "2018-01-03"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "[김대호 인물] 샘 올트먼 OpenAI ... 챗GPT 아스트라 아버지",
-          "link": "https://www.g-enews.com/view.php?ud=202609220845018510906806b77b_1",
-          "press": "",
-          "date": "2026-09-25"
-        },
-        {
-          "title": "시대를 뒤흔든 원조 '악동' 패션 5",
-          "link": "https://www.esquirekorea.co.kr/article/1910385",
-          "press": "",
-          "date": "2026-09-25"
-        },
-        {
-          "title": "'순자산 4억원'도 부족하다…'진짜 중산층' 6가지 조건 따져보니",
-          "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609250041&t=NN",
-          "press": "",
-          "date": "2026-09-25"
-        },
-        {
-          "title": "정조의 ‘신도시’ 수원 화성… 200년 전 양반들도 ‘알박기’ 했다",
-          "link": "https://www.kyeongin.com/article/1771479",
-          "press": "",
-          "date": "2026-09-25"
-        },
-        {
-          "title": "\"강남 집값 위축, 강북은 고점 미회복에 상승 여지\"…서울대 교수의 내...",
-          "link": "https://www.newsis.com/view/NISX20260922_0003799856",
-          "press": "",
-          "date": "2026-09-25"
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "keyword": "기사",
-      "traffic": "200+",
-      "blogTotal": 7171697,
-      "newsTotal": 14297364,
-      "recentToday": 75,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "[알라딘서재][100자평] 2026 에듀윌 에너지관리기사 필기 한권끝장 + ....",
-          "link": "https://blog.aladin.co.kr/791317141/16567994",
-          "blogger": "https://blog.aladin.co.kr/",
-          "date": "2025-07-03"
-        },
-        {
-          "title": "[알라딘서재][100자평] 2025 건축산업기사필기 7개년 기출문제",
-          "link": "https://blog.aladin.co.kr/704600237/16355476",
-          "blogger": "https://blog.aladin.co.kr/",
-          "date": "2025-04-03"
-        },
-        {
-          "title": "[알라딘서재][100자평] 2026 에듀윌 산업위생관리기사 실기 2주끝장+무....",
-          "link": "https://blog.aladin.co.kr/790050143/16771456",
-          "blogger": "https://blog.aladin.co.kr/",
-          "date": "2025-09-28"
-        },
-        {
-          "title": "[알라딘서재]2025 전기기사 단기완성 세트 교재",
-          "link": "https://blog.aladin.co.kr/791383270/16232742",
-          "blogger": "https://blog.aladin.co.kr/",
-          "date": "2025-02-16"
-        },
-        {
-          "title": "[알라딘서재][100자평] 2026 에듀윌 에너지관리기사 필기 한권끝장 + ....",
-          "link": "https://blog.aladin.co.kr/756157266/16565739",
-          "blogger": "https://blog.aladin.co.kr/",
-          "date": "2025-07-02"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "금(금값, 금시세) 18K 14K 등 얼마?",
-          "link": "https://www.cbci.co.kr/news/articleView.html?idxno=609985",
-          "press": "",
-          "date": "2026-09-25"
-        },
-        {
-          "title": "[자정 시세브리핑] 암호화폐 시장 혼조세… 비트코인 84,027달러, 이더리...",
-          "link": "https://www.tokenpost.kr/news/briefing/414172",
-          "press": "",
-          "date": "2026-09-25"
-        },
-        {
-          "title": "쏠퀴즈 정답 9월 26일",
-          "link": "https://www.bntnews.co.kr/article/view/bnt202609250175",
-          "press": "",
-          "date": "2026-09-25"
-        },
-        {
-          "title": "대형마트 휴무일? 이마트·롯데마트·홈플러스·코스트코 ‘추석연휴 할...",
-          "link": "https://www.bntnews.co.kr/article/view/bnt202609250158",
-          "press": "",
-          "date": "2026-09-25"
-        },
-        {
-          "title": "곳곳 비… 낮 최고 28도 [오늘날씨]",
-          "link": "https://www.bntnews.co.kr/article/view/bnt202609250150",
-          "press": "",
-          "date": "2026-09-25"
-        }
-      ],
-      "rank": 3
-    },
-    {
-      "keyword": "금",
-      "traffic": "5000+",
-      "blogTotal": 8255506,
-      "newsTotal": 3564610,
-      "recentToday": 38,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "금이 간 꽃병 - 쉴리 프리돔",
-          "link": "https://az4312.tistory.com/14852",
-          "blogger": "빛으로 보는 세상",
-          "date": "2024-04-16"
-        },
-        {
-          "title": "금정챌린지 금백종주(2025년 10월8일)",
-          "link": "https://bjongm11.tistory.com/18068327",
-          "blogger": "윤회를 아는가?",
-          "date": "2025-10-11"
-        },
-        {
-          "title": "남자금목걸이디자인,순금20돈목걸이모양,신랑금목걸이,체인10돈목....",
-          "link": "https://petitfee0.tistory.com/261",
-          "blogger": "종로 쁘띠페주얼리",
-          "date": "2014-06-06"
-        },
-        {
-          "title": "베트남의 금시장에 대해 알아보겠습니다.",
-          "link": "https://copy.or.kr/1447",
-          "blogger": "Foxlife",
-          "date": "2017-02-14"
-        },
-        {
-          "title": "택시유가보조금 통합관리시스템 (https://www.taxicard.co.kr)",
-          "link": "https://londonguardian.tistory.com/94",
-          "blogger": "런던가디언",
-          "date": "2022-07-18"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "'군필남' 이영준은 금메달에 진심이다...'멀티골' 폭발 후 \"핑계댈 생각...",
-          "link": "https://www.sportschosun.com/football/2026-09-25/202609250100171330011270",
-          "press": "",
-          "date": "2026-09-25"
-        },
-        {
-          "title": "지금 채권시장에서 무슨 일이?…美 국채 금리 급등에 암호화폐 압박",
-          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=702989",
-          "press": "",
-          "date": "2026-09-25"
-        },
-        {
-          "title": "'아무도 예상 못한 미친 드라마' 대한민국 역대급 기적, 하승진보다 큰...",
-          "link": "https://www.sportschosun.com/sports-news/2026-09-26/202609260100171610011286",
-          "press": "",
-          "date": "2026-09-25"
-        },
-        {
-          "title": "조엘진, 육상 남자 100m 4위…3위와 0.06초 차로 메달 불발",
-          "link": "http://www.stoo.com/article.php?aid=109060163027",
-          "press": "",
-          "date": "2026-09-25"
-        },
-        {
-          "title": "한국야구 이게 무슨 망신인가, 20년 만에 日사회인에 참패→한가위 참사...",
-          "link": "http://www.osen.co.kr/article/G1112882079",
-          "press": "",
-          "date": "2026-09-25"
-        }
-      ],
-      "rank": 4
-    },
-    {
       "keyword": "이은결",
       "traffic": "1000+",
-      "blogTotal": 8685,
-      "newsTotal": 20928,
+      "blogTotal": 8704,
+      "newsTotal": 20930,
       "recentToday": 36,
       "recentWeek": 100,
       "topBlogs": [
@@ -309,31 +90,43 @@
           "date": "2003-09-10"
         },
         {
-          "title": "2020년 12월27일 일요일 tvn tv편성표 다시보기",
-          "link": "https://tvinfotong.tistory.com/6851",
-          "blogger": "TV정보통",
-          "date": "2020-12-27"
-        },
-        {
           "title": "비바연예인",
           "link": "https://vivacity.tistory.com/135",
           "blogger": "비바연예인",
           "date": "2008-06-09"
         },
         {
-          "title": "SBS 더 매직스타 . 온가족을 한 자리에 모으는 마법같은 오디션 프로....",
-          "link": "https://candyboy.tistory.com/892",
-          "blogger": "달콤한 인생을 그리는 남자",
-          "date": "2024-06-01"
+          "title": "민트의 맛 18탄 - 웰치스 라임민트의 맛",
+          "link": "https://runhbm.tistory.com/345",
+          "blogger": "홀롱롱의 맛",
+          "date": "2015-08-13"
         },
         {
           "title": "오버워치 5월24일 출시 완료! 블리자드 기대작 대박 이벤트",
           "link": "https://finesfc.tistory.com/36",
           "blogger": "뽀 일기장",
           "date": "2016-05-24"
+        },
+        {
+          "title": "SBS 더 매직스타 . 온가족을 한 자리에 모으는 마법같은 오디션 프로....",
+          "link": "https://candyboy.tistory.com/892",
+          "blogger": "달콤한 인생을 그리는 남자",
+          "date": "2024-06-01"
         }
       ],
       "topNews": [
+        {
+          "title": "'THE 이은결' 방구석에서 세계로…30년 마술 인생 집대성 \"상상하게 하는...",
+          "link": "http://www.stoo.com/article.php?aid=109060343738",
+          "press": "",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "이은결 \"전 마술사 아닌 일루셔니스트, 즐거움 넘어 상상케 할 것\" (더 ...",
+          "link": "http://www.tvdaily.co.kr/read.php3?aid=17903496151803486002",
+          "press": "",
+          "date": "2026-09-25"
+        },
         {
           "title": "SBS편성표 '비서진' 오늘(25일) 결방한다",
           "link": "https://www.gukjenews.com/news/articleView.html?idxno=3705887",
@@ -351,29 +144,17 @@
           "link": "http://www.celuvmedia.com/article.php?aid=1790344623528268010",
           "press": "",
           "date": "2026-09-25"
-        },
-        {
-          "title": "“돈이 다야” 이서진, 리센느 원이에 현실 조언…오늘(25일) ‘비서진’...",
-          "link": "http://enews.imbc.com/News/RetrieveNewsInfo/519255",
-          "press": "",
-          "date": "2026-09-25"
-        },
-        {
-          "title": "이은결 30주년 마술쇼, 'THE 이은결 추석특집 매직콘서트' 방송",
-          "link": "https://enter.etoday.co.kr/news/view/302890",
-          "press": "",
-          "date": "2026-09-25"
         }
       ],
-      "rank": 5
+      "rank": 2
     },
     {
       "keyword": "정은혜",
       "traffic": "2000+",
-      "blogTotal": 10562,
+      "blogTotal": 10568,
       "newsTotal": 22291,
       "recentToday": 31,
-      "recentWeek": 42,
+      "recentWeek": 45,
       "topBlogs": [
         {
           "title": "'2019년 수락산 약초마을 신년음악회",
@@ -400,10 +181,10 @@
           "date": "2022-05-30"
         },
         {
-          "title": "이지민 2017 서울모터쇼 04/09",
-          "link": "https://toponslr-t.tistory.com/6951",
+          "title": "임지우 2017 서울모터쇼 04/06",
+          "link": "https://toponslr-t.tistory.com/6562",
           "blogger": "TopOnSLR's Photo World",
-          "date": "2021-05-22"
+          "date": "2020-12-31"
         }
       ],
       "topNews": [
@@ -438,22 +219,16 @@
           "date": "2026-09-25"
         }
       ],
-      "rank": 6
+      "rank": 3
     },
     {
       "keyword": "내일 날씨",
       "traffic": "500000+",
-      "blogTotal": 503882,
-      "newsTotal": 729151,
+      "blogTotal": 504627,
+      "newsTotal": 729152,
       "recentToday": 23,
       "recentWeek": 100,
       "topBlogs": [
-        {
-          "title": "2024년 5월 14일 현재/서울 어제 날씨",
-          "link": "https://bosshippy.tistory.com/491",
-          "blogger": "행복인",
-          "date": "2024-05-14"
-        },
         {
           "title": "2024년 5월 12일 현재/부산 어제 날씨",
           "link": "https://bosshippy.tistory.com/488",
@@ -461,25 +236,37 @@
           "date": "2024-05-12"
         },
         {
-          "title": "2024년 5월 8일 현재/서울 어제 날씨",
-          "link": "https://bosshippy.tistory.com/479",
+          "title": "2024년 5월 14일 현재/서울 어제 날씨",
+          "link": "https://bosshippy.tistory.com/491",
           "blogger": "행복인",
-          "date": "2024-05-08"
+          "date": "2024-05-14"
         },
         {
-          "title": "2024년 5월 4일 현재/서울 어제 날씨",
-          "link": "https://bosshippy.tistory.com/473",
+          "title": "2024년 5월 11일 현재/부산 어제 날씨",
+          "link": "https://bosshippy.tistory.com/486",
           "blogger": "행복인",
-          "date": "2024-05-04"
+          "date": "2024-05-11"
         },
         {
-          "title": "2024년 5월 2일 현재/서울 어제 날씨",
-          "link": "https://bosshippy.tistory.com/469",
+          "title": "2024년 5월 7일 현재/서울 어제 날씨",
+          "link": "https://bosshippy.tistory.com/477",
           "blogger": "행복인",
-          "date": "2024-05-02"
+          "date": "2024-05-07"
+        },
+        {
+          "title": "2024년 5월 3일 현재/부산 어제 날씨",
+          "link": "https://bosshippy.tistory.com/472",
+          "blogger": "행복인",
+          "date": "2024-05-03"
         }
       ],
       "topNews": [
+        {
+          "title": "[날씨] 수도권, 5~10mmmm 안팎 이슬비· · ·귀경길 안전거리 확보",
+          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3705897",
+          "press": "",
+          "date": "2026-09-25"
+        },
         {
           "title": "[날씨] 경남권, 서부 10~40mm 비· · ·해안 만조 시간대 해수면 상승",
           "link": "https://www.gukjenews.com/news/articleView.html?idxno=3705896",
@@ -503,213 +290,444 @@
           "link": "https://www.gukjenews.com/news/articleView.html?idxno=3705893",
           "press": "",
           "date": "2026-09-25"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "keyword": "맨시티",
+      "traffic": "1000+",
+      "blogTotal": 100484,
+      "newsTotal": 197531,
+      "recentToday": 16,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "[맨체스터시티]맨시티 이적설, 알베르토 아퀼라니 :: 맨체스터시티FC....",
+          "link": "https://mcfc.tistory.com/575",
+          "blogger": "맨체스터시티FC 넘버원 :: 맨체스터시티FC 넘버원",
+          "date": "2011-07-19"
         },
         {
-          "title": "[날씨] 대구/경북, 귀경길 5~30mm 물폭탄· · ·동해안 너울성 파도 유입",
-          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3705892",
+          "title": "[맨체스터시티]맨시티 이적설,레나토 아우구스토 :: 맨체스터시티FC ....",
+          "link": "https://mcfc.tistory.com/242",
+          "blogger": "맨체스터시티FC 넘버원 :: 맨체스터시티FC 넘버원",
+          "date": "2010-11-04"
+        },
+        {
+          "title": "[맨체스터시티]맨시티 이적설, 대니 잉스 :: 맨체스터시티FC 넘버원",
+          "link": "https://mcfc.tistory.com/580",
+          "blogger": "맨체스터시티FC 넘버원 :: 맨체스터시티FC 넘버원",
+          "date": "2011-07-22"
+        },
+        {
+          "title": "[맨체스터시티]맨시티 이적설, 베슬러이 스네이더(네번째) :: 맨체스....",
+          "link": "https://mcfc.tistory.com/577",
+          "blogger": "맨체스터시티FC 넘버원 :: 맨체스터시티FC 넘버원",
+          "date": "2011-07-20"
+        },
+        {
+          "title": "[맨체스터시티]맨시티 이적설, 파브레가스(세번째) :: 맨체스터시티F....",
+          "link": "https://mcfc.tistory.com/509",
+          "blogger": "맨체스터시티FC 넘버원 :: 맨체스터시티FC 넘버원",
+          "date": "2011-05-22"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "이럴 수가, 맨체스터 시티 '강등+우승 박탈' 초유의 사태 벌어지나...115...",
+          "link": "https://mhnse.com/news/articleView.html?idxno=1559964",
           "press": "",
           "date": "2026-09-25"
+        },
+        {
+          "title": "EPL 대충격! '승점 삭감·우승 박탈·강등 가능성까지'… 맨시티, 115개 ...",
+          "link": "https://www.besteleven.com/news/articleView.html?idxno=312562",
+          "press": "",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "\"우승 박탈까지 가능\" 맨시티, 115개 혐의 중 114개 '유죄' 판정...프리미...",
+          "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553567720",
+          "press": "",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "맨체스터 시티 초대형 위기! '115개 혐의 중 114개 유죄' 판정…승점 삭...",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=695234",
+          "press": "",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "'이강인 대체자' 향한 역대급 찬사! PSG 이적 후 6경기 7골 '폭격'...즐라...",
+          "link": "https://www.mydaily.co.kr/page/view/2026092510504492809",
+          "press": "",
+          "date": "2026-09-25"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "keyword": "사회적 고립",
+      "traffic": "100+",
+      "blogTotal": 25967,
+      "newsTotal": 137588,
+      "recentToday": 14,
+      "recentWeek": 90,
+      "topBlogs": [
+        {
+          "title": "복지사 1급 및 복지학과, 복지직 등 노인복지론 요점 정리 2. 고령사....",
+          "link": "https://kona.tistory.com/754",
+          "blogger": "nuna의정보바다",
+          "date": "2022-08-12"
+        },
+        {
+          "title": "[노인과문화] 문화 속 노인과 정보화 - 정보화 사회와 노인",
+          "link": "https://itsme-impov.tistory.com/180",
+          "blogger": "말이 하고 싶어서",
+          "date": "2021-11-07"
+        },
+        {
+          "title": "[사회문제] 대한민국 은둔 중년 보고서(한국 사회 정말 이대로 괜찮....",
+          "link": "https://kangsy85.tistory.com/1347",
+          "blogger": "Nothing, Everything _ Soli Deo Gloria :: Nothing, Everything _ Soli Deo Gloria",
+          "date": "2025-05-27"
+        },
+        {
+          "title": "[알라딘서재]여론(Public Opinion)",
+          "link": "https://blog.aladin.co.kr/795442141/15367715",
+          "blogger": "https://blog.aladin.co.kr/",
+          "date": "2024-03-09"
+        },
+        {
+          "title": "사회복지사 & 복지직 공무원 등 청소년 복지론 33장. 군인청소년 Ⅲ",
+          "link": "https://toyota.tistory.com/548",
+          "blogger": "toyota",
+          "date": "2022-08-12"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "[주간政談<상>] '깜짝' 한미회담…대미투자 진전에 '현안 보따리' 풀렸다...",
+          "link": "https://news.tf.co.kr/read/ptoday/2369740.htm",
+          "press": "",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "제주시, 하반기 고독·고립 위험군 실태조사 착수",
+          "link": "https://jejumbc.com/NewsArticle/864240",
+          "press": "",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "배달의민족, 고독가구의 외출을 유도하는 고객 참여형 이벤트 열어",
+          "link": "http://www.metroseoul.co.kr/article/20260925500073",
+          "press": "",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "“연락 안 되면 직접 방문”…서울시 복지안전망 ‘이상無’",
+          "link": "https://www.dt.co.kr/article/12085807?ref=naver",
+          "press": "",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "“참, 오글거리네!” 연인과 함께 밥 먹으면⋯식후 혈당, 훨씬 덜 오른다...",
+          "link": "https://kormedi.com/?p=2873370",
+          "press": "",
+          "date": "2026-09-25"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "keyword": "하주석",
+      "traffic": "1000+",
+      "blogTotal": 7256,
+      "newsTotal": 42709,
+      "recentToday": 14,
+      "recentWeek": 48,
+      "topBlogs": [
+        {
+          "title": "KBO NC 다이노스 나성범 연봉 응원가 투수 기록 근육 결혼 스페셜 부....",
+          "link": "https://is602.tistory.com/243",
+          "blogger": "올댓 스포츠 - 올댓 스포츠",
+          "date": "2016-05-10"
+        },
+        {
+          "title": "어제 한화 KT 벤치클리어링 사건 정리",
+          "link": "https://tranday.tistory.com/6309",
+          "blogger": "K-Trends",
+          "date": "2024-06-06"
+        },
+        {
+          "title": "2016시즌 초반부까지 한화이글스 야구를 본 소감",
+          "link": "https://boombest.tistory.com/38094",
+          "blogger": "붐베스트추억창고",
+          "date": "2016-05-10"
+        },
+        {
+          "title": "한국에 묻히고 싶다 던 캐나다 6·25 참전용사, 부산에 영면",
+          "link": "https://tranday.tistory.com/1878",
+          "blogger": "K-Trends",
+          "date": "2022-06-20"
+        },
+        {
+          "title": "2018 골든 글러브 '유격수' - 김하성 넥센",
+          "link": "https://srhn2020.tistory.com/3498",
+          "blogger": "추억그아름다운이름",
+          "date": "2018-12-11"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "“(박)찬호 아니었으면 지금도 서산에…” 하주석 자폭개그? 덕분에 KIA...",
+          "link": "https://www.mydaily.co.kr/page/view/2026092510335948812",
+          "press": "",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "\"박찬호 아니었으면 지금도 서산에…\" KIA 트레이드 보물도 인정, 80억 F...",
+          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1009357",
+          "press": "",
+          "date": "2026-09-24"
+        },
+        {
+          "title": "박찬호 울린 박민·김규성 미친 수비…꽃범호가 이래서 기다렸구나, 유...",
+          "link": "https://www.mydaily.co.kr/page/view/2026092412174110223",
+          "press": "",
+          "date": "2026-09-24"
+        },
+        {
+          "title": "“3루 시켜본다, 마무리훈련 가고 싶네요” 꽃범호가 김도영 후계자 점...",
+          "link": "https://www.mydaily.co.kr/page/view/2026092410094086929",
+          "press": "",
+          "date": "2026-09-24"
+        },
+        {
+          "title": "\"1점 이상의 호수비였다\" 1군 콜업→유격수 선발→슈퍼 캐치, 호주 유학...",
+          "link": "http://www.osen.co.kr/article/G1112880935",
+          "press": "",
+          "date": "2026-09-23"
         }
       ],
       "rank": 7
     },
     {
-      "keyword": "박현호",
-      "traffic": "2000+",
-      "blogTotal": 3981,
-      "newsTotal": 17775,
-      "recentToday": 12,
-      "recentWeek": 40,
+      "keyword": "olympia",
+      "traffic": "500+",
+      "blogTotal": 4407,
+      "newsTotal": 5520,
+      "recentToday": 2,
+      "recentWeek": 10,
       "topBlogs": [
         {
-          "title": "[천일야사]내 남자와 세여인 이방원과 바람이 난 여인 민다경 민씨 ....",
-          "link": "https://pirin888.tistory.com/3583",
-          "blogger": "nirip :: nirip",
-          "date": "2021-03-23"
+          "title": "CDR Salamander: Fullbore Friday",
+          "link": "http://cdrsalamander.blogspot.com/2011/04/fullbore-friday_15.html",
+          "blogger": "CDR Salamander",
+          "date": "1990-01-01"
         },
         {
-          "title": "[천일야사]복수 비밀은 없다 단죄 피로 물든 제사상 이영지 김동식 ....",
-          "link": "https://pirin888.tistory.com/3688",
-          "blogger": "nirip :: nirip",
-          "date": "2021-04-27"
+          "title": "V.A. - Metallica: Metallic Attack/The Ultimate Tribute (2004)",
+          "link": "https://nbn4.tistory.com/50",
+          "blogger": "all about nuno",
+          "date": "2015-12-11"
         },
         {
-          "title": "천일야사 양재 벽서사건 사약을 물처럼 마시는 불사신 임형수 윤원....",
-          "link": "https://pirin888.tistory.com/3751",
-          "blogger": "nirip :: nirip",
-          "date": "2021-05-18"
+          "title": "smiling faces sometimes: Ceskoslovenska mesta (19)",
+          "link": "http://smilingfacessometimesbutonlysometimes.blogspot.com/2020/09/ceskoslovenska-mesta-19.html",
+          "blogger": "smiling faces sometimes",
+          "date": "1990-01-01"
         },
         {
-          "title": "천일야사 조선x파일 빛 속으로 사라진 사람들 조선 하늘에 뜬 괴물....",
-          "link": "https://pirin888.tistory.com/3793",
-          "blogger": "nirip :: nirip",
-          "date": "2021-06-01"
+          "title": "눈이 즐겁다(7.31-2)",
+          "link": "https://kjh109.tistory.com/16875996",
+          "blogger": "쥬니 블로그",
+          "date": "2012-07-31"
         },
         {
-          "title": "불트23회",
-          "link": "https://kstby.tistory.com/7364151",
-          "blogger": "네겐 보일수 없었던 세상",
-          "date": "2023-09-20"
+          "title": "극장판 헌터X헌터 : 더 라스트 미션 ost (HUNTERxHUNTER The Last Mission Origina....",
+          "link": "https://wowgag.tistory.com/1527",
+          "blogger": "말랑카우",
+          "date": "2020-04-17"
         }
       ],
       "topNews": [
         {
-          "title": "은지원, 재혼 후 달라진 명절 “아내와 둘이 아버지 산소 찾아 제사”",
-          "link": "https://www.sportsseoul.com/news/read/1637491?ref=naver",
-          "press": "",
-          "date": "2026-09-25"
-        },
-        {
-          "title": "신민아·은가은·김승윤…시댁 애정 듬뿍 받는 연예계 '사랑 받는 며느...",
-          "link": "https://mhnse.com/news/articleView.html?idxno=1544290",
-          "press": "",
-          "date": "2026-09-25"
-        },
-        {
-          "title": "'살림남' 박서진, '흥 DNA' 물려준 할머니 추억...아버지와 바다 위 제사",
-          "link": "https://hbnpress.com/news/view/1065571087469033",
-          "press": "",
-          "date": "2026-09-25"
-        },
-        {
-          "title": "[단독]은가은♥박현호, 육아가 제일 쉬웠어요..\"딸 없인 못 살아, 둘째 ...",
-          "link": "https://www.starnewskorea.com/music/2026/09/25/2026092315081195488",
+          "title": "Hiker Is Found Dead on Washington Trail After Fall",
+          "link": "https://www.nytimes.com/2026/09/24/us/sauk-mountain-hiker-dead.html?partner=naver",
           "press": "",
           "date": "2026-09-24"
         },
         {
-          "title": "[단독]\"임신 후 무대 줄어\"..은가은♥박현호, 트로트 1호 부부의 진심 [...",
-          "link": "https://www.starnewskorea.com/music/2026/09/25/2026092315072783981",
+          "title": "이더리움클래식 1만2800원…올림피아 업그레이드는 2027년 목표",
+          "link": "https://www.job-post.co.kr/news/articleView.html?idxno=229028",
           "press": "",
-          "date": "2026-09-24"
+          "date": "2026-09-23"
+        },
+        {
+          "title": "Which $500,000 Home Would You Pick?",
+          "link": "https://www.nytimes.com/2026/09/16/realestate/which-500000-home-would-you-pick.html?partner=naver",
+          "press": "",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "The Incredible Art of Being Jeff Koons",
+          "link": "https://www.nytimes.com/2026/09/11/t-magazine/jeff-koons-sculpture-art.html?partner=naver",
+          "press": "",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "How Things Changed in the TWA Hotel Lobby",
+          "link": "https://www.nytimes.com/2026/09/11/style/adriana-fernandez-jordan-langer-wedding.html?partner=naver",
+          "press": "",
+          "date": "2026-09-11"
         }
       ],
       "rank": 8
     },
     {
-      "keyword": "thời tiết ngày mai",
-      "traffic": "2000+",
-      "blogTotal": 8,
-      "newsTotal": 2,
+      "keyword": "윌스미스",
+      "traffic": "100+",
+      "blogTotal": 25306,
+      "newsTotal": 32070,
       "recentToday": 0,
-      "recentWeek": 1,
+      "recentWeek": 26,
       "topBlogs": [
         {
-          "title": "[베트남어] 필수단어 100가지",
-          "link": "https://longrun-longlearn.tistory.com/462",
-          "blogger": "수스라이프",
-          "date": "2023-06-28"
+          "title": "[알라딘서재]영화 굿윌헌팅을 떠올리게 하는 앨범",
+          "link": "https://blog.aladin.co.kr/778648103/2295393",
+          "blogger": "https://blog.aladin.co.kr/",
+          "date": "2008-09-11"
         },
         {
-          "title": "Công-vụ Các Sứ-đồ [Acts]",
-          "link": "https://optic.tistory.com/171",
-          "blogger": "https://optic.tistory.com/",
-          "date": "2011-05-15"
+          "title": "파워 유튜버 :: 잭스미스(Jacksmith) 플레시게임 하기",
+          "link": "https://bota.tistory.com/213",
+          "blogger": "파워 유튜버 :: 파워 유튜버",
+          "date": "2017-07-21"
         },
         {
-          "title": "Thi-thiên [Psalms]",
-          "link": "https://optic.tistory.com/196",
-          "blogger": "https://optic.tistory.com/",
-          "date": "2011-08-30"
+          "title": "나는 전설이다 사언절구",
+          "link": "https://chenjy.tistory.com/220",
+          "blogger": "초하류의 SonEAGari",
+          "date": "2007-12-17"
         },
         {
-          "title": "2 Phi-e-rơ [2 Peter]",
-          "link": "https://optic.tistory.com/154",
-          "blogger": "https://optic.tistory.com/",
-          "date": "2011-05-03"
+          "title": "Will Smith - Just The Two Of Us (Official Video)",
+          "link": "https://yolga.tistory.com/2050",
+          "blogger": "잊혀진 시간 ... 세 대륙의 이야기",
+          "date": "2021-09-13"
         },
         {
-          "title": "진단·치료법",
-          "link": "https://vietnamlaw.tistory.com/46",
-          "blogger": "베트남 생활정보",
-          "date": "2020-12-15"
+          "title": "[영화기록] #292 나쁜 녀석들 / Bad Boys",
+          "link": "https://kayallseasoner.tistory.com/4682",
+          "blogger": "Kay's Log",
+          "date": "2021-11-02"
         }
       ],
       "topNews": [
         {
-          "title": "Bộ Quốc phòng Hàn Quốc bác cáo buộc lộ bí mật, nhưng v",
-          "link": "https://vn.asiatoday.co.kr/view.php?key=20260602001609511",
+          "title": "[오늘의 운세] (2026년 9월 25일 띠별 운세) 뱀띠, 과유불급",
+          "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=90485",
           "press": "",
-          "date": "2026-06-02"
+          "date": "2026-09-24"
         },
         {
-          "title": "Tổng thống Hàn Quốc cam kết không tăng giá điện, kêu gọi ng",
-          "link": "https://vn.asiatoday.co.kr/view.php?key=20260326001130087",
+          "title": "'드디어 부상에서 돌아왔다' PS는 문제없다, 오타니 복귀전 1안타...'마차...",
+          "link": "http://www.osen.co.kr/article/G1112881233",
           "press": "",
-          "date": "2026-03-26"
+          "date": "2026-09-24"
+        },
+        {
+          "title": "역시 오타니…부상 복귀 첫 타석서 안타 쾅! 하지만 다저스는 SD에 1:5 패...",
+          "link": "https://www.sportschosun.com/baseball/2026-09-24/202609240100165070010805",
+          "press": "",
+          "date": "2026-09-24"
+        },
+        {
+          "title": "'만신창이' 오타니 드디어 돌아왔다! 다저스 완전체 라인업 출격...\"라인...",
+          "link": "http://www.osen.co.kr/article/G1112881074",
+          "press": "",
+          "date": "2026-09-24"
+        },
+        {
+          "title": "[MLB] LA 다저스, 샌디에이고 7-0 완파하며 5연승 질주...송성문은 결장",
+          "link": "https://www.newspim.com/news/view/20260923000852",
+          "press": "",
+          "date": "2026-09-23"
         }
       ],
       "rank": 9
     },
     {
-      "keyword": "weather tomorrow",
-      "traffic": "2000+",
-      "blogTotal": 436,
-      "newsTotal": 8261,
+      "keyword": "금",
+      "traffic": "5000+",
+      "blogTotal": 8259435,
+      "newsTotal": 3564655,
       "recentToday": 0,
-      "recentWeek": 1,
+      "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "An Ignoble Experiment: Meteorologist Jon Rivas explains when precipitation could arrive in....",
-          "link": "https://ignoble-experiment.blogspot.com/2024/03/meteorologist-jon-rivas-explains-when_21.html",
-          "blogger": "An Ignoble Experiment",
-          "date": "1990-01-01"
+          "title": "금이 간 꽃병 - 쉴리 프리돔",
+          "link": "https://az4312.tistory.com/14852",
+          "blogger": "빛으로 보는 세상",
+          "date": "2024-04-16"
         },
         {
-          "title": "cleveland854321: TWO WEEKS LEFT IN THE YEAR 2016",
-          "link": "http://cleveland854321.blogspot.com/2016/12/two-weeks-left-in-year-2016.html",
-          "blogger": "cleveland854321",
-          "date": "1990-01-01"
+          "title": "금정챌린지 금백종주(2025년 10월8일)",
+          "link": "https://bjongm11.tistory.com/18068327",
+          "blogger": "윤회를 아는가?",
+          "date": "2025-10-11"
         },
         {
-          "title": "Can it happen here?: Saturday scenery: the chill deepens",
-          "link": "http://happening-here.blogspot.com/2019/11/saturday-scenery-chill-deepens.html",
-          "blogger": "Can it happen here?",
-          "date": "1990-01-01"
+          "title": "남자금목걸이디자인,순금20돈목걸이모양,신랑금목걸이,체인10돈목....",
+          "link": "https://petitfee0.tistory.com/261",
+          "blogger": "종로 쁘띠페주얼리",
+          "date": "2014-06-06"
         },
         {
-          "title": "비관련 영어표현 / 🌧️ It will be rainy.",
-          "link": "https://lifetraveler.tistory.com/620",
-          "blogger": "우연,필연",
-          "date": "2025-04-17"
+          "title": "베트남의 금시장에 대해 알아보겠습니다.",
+          "link": "https://copy.or.kr/1447",
+          "blogger": "Foxlife",
+          "date": "2017-02-14"
         },
         {
-          "title": "Cat Eyes---A Cat Woman's Photos: Weather Bummer",
-          "link": "https://catwomanflix.blogspot.com/2024/06/weather-bummer.html",
-          "blogger": "Cat Eyes---A Cat Woman's Photos",
-          "date": "2024-06-27"
+          "title": "금 한돈 시세 3월 6일 오늘의 금시세 금가격 역대 최고가 갱신",
+          "link": "https://life1981.tistory.com/442",
+          "blogger": "Life 1981",
+          "date": "2024-03-06"
         }
       ],
       "topNews": [
         {
-          "title": "At the U.N., Iran Says It Will Not Give Up Its Nuclear Program",
-          "link": "https://www.nytimes.com/2026/09/23/briefing/at-the-un-iran-says-it-will-not-give-up-its-nuclear-program.html?partner=naver",
+          "title": "카미노, 솔라나에 파운드 스테이블코인 대출 시장",
+          "link": "https://www.tokenpost.kr/news/cryptocurrency/414245",
           "press": "",
-          "date": "2026-09-23"
+          "date": "2026-09-25"
         },
         {
-          "title": "Another summer-like afternoon before big shift on Chuseok",
-          "link": "https://www.arirang.com/news/view?id=301211",
+          "title": "'와 역대 최초' 金金金金金金金 미쳤다!…中 수영 괴물 새 역사 썼다 \"계...",
+          "link": "https://www.xportsnews.com/article/2200432",
           "press": "",
-          "date": "2026-09-23"
+          "date": "2026-09-25"
         },
         {
-          "title": "Trump Uses U.N. Address to Threaten Annihilation of Iran",
-          "link": "https://www.nytimes.com/2026/09/22/briefing/trump-un-speech-iran-unions-ai-threats.html?partner=naver",
+          "title": "\"이게 세계 1위? 나가라\" 中 탁구팬 극대노…왕추친 0-3 완패→36년 만의...",
+          "link": "https://www.xportsnews.com/article/2200387",
           "press": "",
-          "date": "2026-09-22"
+          "date": "2026-09-25"
         },
         {
-          "title": "The Local: MSP soars",
-          "link": "https://www.nytimes.com/2026/09/21/briefing/the-local-msp-soars.html?partner=naver",
+          "title": "2014년 이후 끊긴 아시안게임 금맥을 누가 다시 이을까",
+          "link": "http://www.tennispeople.kr/news/articleView.html?idxno=19563",
           "press": "",
-          "date": "2026-09-21"
+          "date": "2026-09-25"
         },
         {
-          "title": "Let’s Talk Climate",
-          "link": "https://www.nytimes.com/2026/09/20/world/climate-change-trump-xi-germany.html?partner=naver",
+          "title": "카누·기계체조·농구, 한가위 효자종목 [2026 아시안게임]",
+          "link": "https://www.newsq.co.kr/news/articleView.html?idxno=500256",
           "press": "",
-          "date": "2026-09-20"
+          "date": "2026-09-25"
         }
       ],
       "rank": 10
