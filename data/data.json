@@ -1,178 +1,26 @@
 {
-  "updatedAt": "2026-10-04T17:16:49.551Z",
+  "updatedAt": "2026-10-04T20:19:48.117Z",
   "source": "live",
   "keywords": [
     {
-      "keyword": "김혜자",
-      "traffic": "200+",
-      "blogTotal": 84662,
-      "newsTotal": 54362,
-      "recentToday": 93,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "[알라딘서재][100자평] [블루레이] 마더 : 일반판",
-          "link": "https://blog.aladin.co.kr/781313101/15321046",
-          "blogger": "https://blog.aladin.co.kr/",
-          "date": "2024-02-21"
-        },
-        {
-          "title": "[알라딘서재][100자평] [USB] 100인의 배우, 세계 문학을 읽다 (오디오북....",
-          "link": "https://blog.aladin.co.kr/780146146/12777589",
-          "blogger": "https://blog.aladin.co.kr/",
-          "date": "2021-07-15"
-        },
-        {
-          "title": "[알라딘서재]에세이+엠용",
-          "link": "https://blog.aladin.co.kr/765852169/14176708",
-          "blogger": "https://blog.aladin.co.kr/",
-          "date": "2022-12-14"
-        },
-        {
-          "title": "[알라딘서재]연예인",
-          "link": "https://blog.aladin.co.kr/730927175/16340895",
-          "blogger": "https://blog.aladin.co.kr/",
-          "date": "2025-03-30"
-        },
-        {
-          "title": "[알라딘서재]우리학교 1학기 내가 선정한 도서목록",
-          "link": "https://blog.aladin.co.kr/mira95/1147441",
-          "blogger": "https://blog.aladin.co.kr/",
-          "date": "2004-06-08"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "다큐 '김혜자의 안부' 김혜자 나이 85세 삶 조명",
-          "link": "https://www.bntnews.co.kr/article/view/bnt202610040076",
-          "press": "",
-          "date": "2026-10-04"
-        },
-        {
-          "title": "'김혜자의 안부' 김혜자 나이 85세 삶 조명…내레이션 이병헌",
-          "link": "https://enter.etoday.co.kr/news/view/303279",
-          "press": "",
-          "date": "2026-10-04"
-        },
-        {
-          "title": "배우 이병헌·이정은·한지민·최강희 출연 특집다큐 ‘김혜자의 안부:...",
-          "link": "https://www.christiantoday.co.kr/news/377706",
-          "press": "",
-          "date": "2026-10-04"
-        },
-        {
-          "title": "\"죽지 마세요\"…'85세' 김혜자, 빛나는 65년 연기 인생→영화계 총출동...",
-          "link": "https://www.tvreport.co.kr/broadcast/article/1080447/",
-          "press": "",
-          "date": "2026-10-04"
-        },
-        {
-          "title": "85세 김혜자의 상처-봉준호·이병헌 증언 '국민 배우'의 진짜 얼굴",
-          "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=91584",
-          "press": "",
-          "date": "2026-10-03"
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "keyword": "과즙세연",
-      "traffic": "2000+",
-      "blogTotal": 6829,
-      "newsTotal": 2700,
-      "recentToday": 92,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "Gwagjeup Seyeon (In Se-yeon): Spotlight on a Rising Korean Female Streamer",
-          "link": "https://kinemati.tistory.com/93",
-          "blogger": "모든뉴스 이모저모",
-          "date": "2025-10-25"
-        },
-        {
-          "title": "코미디언 이수지 :: 韜光養晦 &",
-          "link": "https://lawnin.tistory.com/904",
-          "blogger": "韜光養晦 & :: 韜光養晦 &",
-          "date": "2024-09-25"
-        },
-        {
-          "title": "BJ 과즙세연",
-          "link": "https://jkimdev.tistory.com/1329",
-          "blogger": "NO NAME",
-          "date": "2024-08-08"
-        },
-        {
-          "title": "2025년 10월 22일 수요일, HeadlineNews",
-          "link": "https://rainbow8342.tistory.com/9185",
-          "blogger": "달콤 쵸콜렛",
-          "date": "2025-10-22"
-        },
-        {
-          "title": "BTS 방시혁 프로필 나이 학력 고향 약력 군대(병역) 하이브 방시혁 재....",
-          "link": "https://xoaox.tistory.com/496",
-          "blogger": "Raptor",
-          "date": "2024-09-17"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "과즙세연 ‘1억 2천’, MC몽은 ‘3억’…유튜브 장악한 엑셀 방송",
-          "link": "https://www.sportsseoul.com/news/read/1639317?ref=naver",
-          "press": "",
-          "date": "2026-10-04"
-        },
-        {
-          "title": "과즙세연, 마약 논란도 못막은 팬덤…경찰수사중 복귀 강행에도 ‘억대...",
-          "link": "https://www.sportsseoul.com/news/read/1639316?ref=naver",
-          "press": "",
-          "date": "2026-10-04"
-        },
-        {
-          "title": "'마약 조사' 과즙세연, 엑셀 방송 론칭…첫날 후원금 1억 터졌다",
-          "link": "http://www.celuvmedia.com/article.php?aid=1791104476528760005",
-          "press": "",
-          "date": "2026-10-04"
-        },
-        {
-          "title": "‘마약류 위반 혐의’ 과즙세연, 엑셀 방송 대표 되더니… 하루 만에 ‘...",
-          "link": "https://sports.khan.co.kr/article/202610041719003?pt=nv",
-          "press": "",
-          "date": "2026-10-04"
-        },
-        {
-          "title": "억소리 난다...'마약 혐의' 과즙세연, 복귀 하루 만에 무려 '이만큼' 벌...",
-          "link": "https://www.wikitree.co.kr/articles/1163874",
-          "press": "",
-          "date": "2026-10-04"
-        }
-      ],
-      "rank": 2
-    },
-    {
       "keyword": "허미미",
       "traffic": "1000+",
-      "blogTotal": 6042,
+      "blogTotal": 6045,
       "newsTotal": 7125,
-      "recentToday": 92,
+      "recentToday": 90,
       "recentWeek": 100,
       "topBlogs": [
+        {
+          "title": "최민호 유도 결혼 근황 나이 부인 아내 프로필 :: lerond-o",
+          "link": "https://ert3465.tistory.com/220",
+          "blogger": "lerond-o :: lerond-o",
+          "date": "2024-08-10"
+        },
         {
           "title": "✨ 2025년 6월 16일 하루 요약.zip",
           "link": "https://sosoingkr.tistory.com/417",
           "blogger": "소소ing",
           "date": "2025-06-16"
-        },
-        {
-          "title": "안바울, 전국체전 남자 유도 66㎏급 우승…3년 만에 금메달 복귀",
-          "link": "https://koreaesp.tistory.com/4042",
-          "blogger": "한국연예스포츠신문",
-          "date": "2025-10-19"
-        },
-        {
-          "title": "훗카이도 삿포로 카레 스프 맛집 Algo",
-          "link": "https://ingyeoking13.tistory.com/355",
-          "blogger": "welcome!",
-          "date": "2024-09-04"
         },
         {
           "title": "[스포츠트렌드] 2024 프랑스 파리 올림픽-대회2일차, 대한민국 경기현....",
@@ -185,6 +33,12 @@
           "link": "https://rmfjaaj.tistory.com/299",
           "blogger": "행복의삶",
           "date": "2024-10-16"
+        },
+        {
+          "title": "훗카이도 삿포로 카레 스프 맛집 Algo",
+          "link": "https://ingyeoking13.tistory.com/355",
+          "blogger": "welcome!",
+          "date": "2024-09-04"
         }
       ],
       "topNews": [
@@ -219,14 +73,160 @@
           "date": "2026-10-04"
         }
       ],
+      "rank": 1
+    },
+    {
+      "keyword": "김혜자",
+      "traffic": "200+",
+      "blogTotal": 84668,
+      "newsTotal": 54362,
+      "recentToday": 86,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "[알라딘서재][100자평] [블루레이] 마더 : 일반판",
+          "link": "https://blog.aladin.co.kr/781313101/15321046",
+          "blogger": "https://blog.aladin.co.kr/",
+          "date": "2024-02-21"
+        },
+        {
+          "title": "[알라딘서재][100자평] [USB] 100인의 배우, 세계 문학을 읽다 (오디오북....",
+          "link": "https://blog.aladin.co.kr/780146146/12777589",
+          "blogger": "https://blog.aladin.co.kr/",
+          "date": "2021-07-15"
+        },
+        {
+          "title": "[알라딘서재]에세이+엠용",
+          "link": "https://blog.aladin.co.kr/765852169/14176708",
+          "blogger": "https://blog.aladin.co.kr/",
+          "date": "2022-12-14"
+        },
+        {
+          "title": "[알라딘서재]우리학교 1학기 내가 선정한 도서목록",
+          "link": "https://blog.aladin.co.kr/mira95/1147441",
+          "blogger": "https://blog.aladin.co.kr/",
+          "date": "2004-06-08"
+        },
+        {
+          "title": "[알라딘서재]연예인",
+          "link": "https://blog.aladin.co.kr/730927175/16340895",
+          "blogger": "https://blog.aladin.co.kr/",
+          "date": "2025-03-30"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "다큐 '김혜자의 안부' 김혜자 나이 85세 삶 조명",
+          "link": "https://www.bntnews.co.kr/article/view/bnt202610040076",
+          "press": "",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "'김혜자의 안부' 김혜자 나이 85세 삶 조명…내레이션 이병헌",
+          "link": "https://enter.etoday.co.kr/news/view/303279",
+          "press": "",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "배우 이병헌·이정은·한지민·최강희 출연 특집다큐 ‘김혜자의 안부:...",
+          "link": "https://www.christiantoday.co.kr/news/377706",
+          "press": "",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "\"죽지 마세요\"…'85세' 김혜자, 빛나는 65년 연기 인생→영화계 총출동...",
+          "link": "https://www.tvreport.co.kr/broadcast/article/1080447/",
+          "press": "",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "85세 김혜자의 상처-봉준호·이병헌 증언 '국민 배우'의 진짜 얼굴",
+          "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=91584",
+          "press": "",
+          "date": "2026-10-03"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "keyword": "과즙세연",
+      "traffic": "2000+",
+      "blogTotal": 6834,
+      "newsTotal": 2700,
+      "recentToday": 85,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "Gwagjeup Seyeon (In Se-yeon): Spotlight on a Rising Korean Female Streamer",
+          "link": "https://kinemati.tistory.com/93",
+          "blogger": "모든뉴스 이모저모",
+          "date": "2025-10-25"
+        },
+        {
+          "title": "BJ 과즙세연",
+          "link": "https://jkimdev.tistory.com/1329",
+          "blogger": "NO NAME",
+          "date": "2024-08-08"
+        },
+        {
+          "title": "2025년 10월 22일 수요일, HeadlineNews",
+          "link": "https://rainbow8342.tistory.com/9185",
+          "blogger": "달콤 쵸콜렛",
+          "date": "2025-10-22"
+        },
+        {
+          "title": "슈가 음주운전, 민희진이 설계하고 경찰 밀고? 해외 아미들 확산 :: ....",
+          "link": "https://yygassj.tistory.com/890",
+          "blogger": "연예가 알쓸신잡 :: 연예가 알쓸신잡",
+          "date": "2024-08-09"
+        },
+        {
+          "title": "르세라핌 에스파 표절? 크레이지 컴백 티저 공개후 팬들 반응이 :: ....",
+          "link": "https://yygassj.tistory.com/908",
+          "blogger": "연예가 알쓸신잡 :: 연예가 알쓸신잡",
+          "date": "2024-08-19"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "과즙세연 ‘1억 2천’, MC몽은 ‘3억’…유튜브 장악한 엑셀 방송",
+          "link": "https://www.sportsseoul.com/news/read/1639317?ref=naver",
+          "press": "",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "과즙세연, 마약 논란도 못막은 팬덤…경찰수사중 복귀 강행에도 ‘억대...",
+          "link": "https://www.sportsseoul.com/news/read/1639316?ref=naver",
+          "press": "",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "'마약 조사' 과즙세연, 엑셀 방송 론칭…첫날 후원금 1억 터졌다",
+          "link": "http://www.celuvmedia.com/article.php?aid=1791104476528760005",
+          "press": "",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "‘마약류 위반 혐의’ 과즙세연, 엑셀 방송 대표 되더니… 하루 만에 ‘...",
+          "link": "https://sports.khan.co.kr/article/202610041719003?pt=nv",
+          "press": "",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "억소리 난다...'마약 혐의' 과즙세연, 복귀 하루 만에 무려 '이만큼' 벌...",
+          "link": "https://www.wikitree.co.kr/articles/1163874",
+          "press": "",
+          "date": "2026-10-04"
+        }
+      ],
       "rank": 3
     },
     {
       "keyword": "이희진",
       "traffic": "200+",
-      "blogTotal": 30738,
-      "newsTotal": 55784,
-      "recentToday": 73,
+      "blogTotal": 30752,
+      "newsTotal": 55785,
+      "recentToday": 60,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -262,6 +262,12 @@
       ],
       "topNews": [
         {
+          "title": "'미운우리새끼' 서울 이대역 막창구이 맛집 위치는? \"임원희·이희진의...",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16238146",
+          "press": "",
+          "date": "2026-10-04"
+        },
+        {
           "title": "“내 생일에 또 볼 수 있을까요?” 임원희 ‘♥이희진’에 100일 기념 직...",
           "link": "https://www.mk.co.kr/article/12168232",
           "press": "",
@@ -284,95 +290,16 @@
           "link": "https://www.gukjenews.com/news/articleView.html?idxno=3713021",
           "press": "",
           "date": "2026-10-04"
-        },
-        {
-          "title": "'미운우리새끼' 임원희·이희진 롤러장→막창 맛집 (미우새)",
-          "link": "https://www.bntnews.co.kr/article/view/bnt202610040074",
-          "press": "",
-          "date": "2026-10-04"
         }
       ],
       "rank": 4
     },
     {
-      "keyword": "정년",
-      "traffic": "5000+",
-      "blogTotal": 1286544,
-      "newsTotal": 423449,
-      "recentToday": 64,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "대전중고차, 뉴모닝매입, 중고차친구의우정, 직업전문교육상담, 정....",
-          "link": "https://car6022.com/2860",
-          "blogger": "즐거운자동차.com",
-          "date": "2017-01-24"
-        },
-        {
-          "title": "대전한밭대심재명교수정년퇴임",
-          "link": "https://djl8855.tistory.com/7582",
-          "blogger": "정허(定虛)",
-          "date": "2017-04-23"
-        },
-        {
-          "title": "현대모비스 정년퇴임패,울산상패,울산정년퇴임패,울산크리스탈상....",
-          "link": "https://usgift.tistory.com/1166",
-          "blogger": "보라매판촉물",
-          "date": "2018-01-11"
-        },
-        {
-          "title": "정년이",
-          "link": "https://animatorkim2.tistory.com/2351",
-          "blogger": "스케치",
-          "date": "2024-11-04"
-        },
-        {
-          "title": "정년이",
-          "link": "https://animatorkim2.tistory.com/2333",
-          "blogger": "스케치",
-          "date": "2024-10-18"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "대기업, 정년 퇴직자 재고용↑...청년 일자리는 걱정",
-          "link": "https://www.ytn.co.kr/_ln/0103_202610042332558288",
-          "press": "",
-          "date": "2026-10-04"
-        },
-        {
-          "title": "[단독] ‘소득공백’ 정년퇴직 공무원, 3년새 2배↑",
-          "link": "https://www.segye.com/newsView/20261004506958?OutUrl=naver",
-          "press": "",
-          "date": "2026-10-04"
-        },
-        {
-          "title": "'166cm 46kg' 김태리, 뼈말라 됐다…가녀린 팔뚝 돋보이는 튜브톱 드레스...",
-          "link": "https://www.tenasia.co.kr/article/2026100169404",
-          "press": "",
-          "date": "2026-10-04"
-        },
-        {
-          "title": "신예은, 올백 머리에도 살아남았다‥신이 빚은 듯한 소두에 이목구비",
-          "link": "https://www.newsen.com/news_view.php?uid=202610041611375710",
-          "press": "",
-          "date": "2026-10-04"
-        },
-        {
-          "title": "\"조희대 대법원장…국민 세금 앞에서 사법부 치외법권일 수 없다\"",
-          "link": "https://www.lawleader.co.kr/news/articleView.html?idxno=20085",
-          "press": "",
-          "date": "2026-10-04"
-        }
-      ],
-      "rank": 5
-    },
-    {
       "keyword": "김희애",
       "traffic": "2000+",
-      "blogTotal": 121516,
+      "blogTotal": 121533,
       "newsTotal": 122288,
-      "recentToday": 62,
+      "recentToday": 46,
       "recentWeek": 100,
       "topBlogs": [
         {
@@ -438,15 +365,88 @@
           "date": "2026-10-04"
         }
       ],
+      "rank": 5
+    },
+    {
+      "keyword": "정년",
+      "traffic": "5000+",
+      "blogTotal": 1286573,
+      "newsTotal": 423450,
+      "recentToday": 40,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "대전중고차, 뉴모닝매입, 중고차친구의우정, 직업전문교육상담, 정....",
+          "link": "https://car6022.com/2860",
+          "blogger": "즐거운자동차.com",
+          "date": "2017-01-24"
+        },
+        {
+          "title": "대전한밭대심재명교수정년퇴임",
+          "link": "https://djl8855.tistory.com/7582",
+          "blogger": "정허(定虛)",
+          "date": "2017-04-23"
+        },
+        {
+          "title": "정년이",
+          "link": "https://animatorkim2.tistory.com/2351",
+          "blogger": "스케치",
+          "date": "2024-11-04"
+        },
+        {
+          "title": "현대모비스 정년퇴임패,울산상패,울산정년퇴임패,울산크리스탈상....",
+          "link": "https://usgift.tistory.com/1166",
+          "blogger": "보라매판촉물",
+          "date": "2018-01-11"
+        },
+        {
+          "title": "정년이",
+          "link": "https://animatorkim2.tistory.com/2333",
+          "blogger": "스케치",
+          "date": "2024-10-18"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "[역경의 열매] 조규남 (22) 74명 지원한 후임 목사 청빙… 교인 모두 한...",
+          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000019802&cp=nv",
+          "press": "",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "대기업, 정년 퇴직자 재고용↑...청년 일자리는 걱정",
+          "link": "https://www.ytn.co.kr/_ln/0103_202610042332558288",
+          "press": "",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "[단독] ‘소득공백’ 정년퇴직 공무원, 3년새 2배↑",
+          "link": "https://www.segye.com/newsView/20261004506958?OutUrl=naver",
+          "press": "",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "'166cm 46kg' 김태리, 뼈말라 됐다…가녀린 팔뚝 돋보이는 튜브톱 드레스...",
+          "link": "https://www.tenasia.co.kr/article/2026100169404",
+          "press": "",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "신예은, 올백 머리에도 살아남았다‥신이 빚은 듯한 소두에 이목구비",
+          "link": "https://www.newsen.com/news_view.php?uid=202610041611375710",
+          "press": "",
+          "date": "2026-10-04"
+        }
+      ],
       "rank": 6
     },
     {
       "keyword": "thời tiết ngày mai",
       "traffic": "1000+",
-      "blogTotal": 5129,
+      "blogTotal": 5130,
       "newsTotal": 2,
       "recentToday": 12,
-      "recentWeek": 81,
+      "recentWeek": 82,
       "topBlogs": [
         {
           "title": "[베트남어] 필수단어 100가지",
@@ -496,10 +496,83 @@
       "rank": 7
     },
     {
+      "keyword": "portugal vs norway",
+      "traffic": "500+",
+      "blogTotal": 355,
+      "newsTotal": 247,
+      "recentToday": 1,
+      "recentWeek": 5,
+      "topBlogs": [
+        {
+          "title": "외통인생 :: 세계의 국경 50군데",
+          "link": "https://yoonsang33.tistory.com/12669",
+          "blogger": "외통인생 :: 외통인생",
+          "date": "2015-07-29"
+        },
+        {
+          "title": "[15회 세계 검도 선수권대회] :: 공처럼 둥글게",
+          "link": "https://gongdoo.tistory.com/211",
+          "blogger": "공처럼 둥글게 :: 공처럼 둥글게",
+          "date": "2012-03-26"
+        },
+        {
+          "title": "Multi Life :: [넷플릭스] 한국에서 볼 수 있는 영화, TV 개수는??? 해외는....",
+          "link": "https://s-lucky.tistory.com/228",
+          "blogger": "Multi Life :: Multi Life",
+          "date": "2019-05-13"
+        },
+        {
+          "title": "세계관광 명소의 특이한 국경관광",
+          "link": "https://joslove40.tistory.com/1811",
+          "blogger": "Nice & Fun",
+          "date": "2018-07-20"
+        },
+        {
+          "title": "OZahir :: 국내 아이폰 나오긴 나올듯",
+          "link": "https://ozahir.tistory.com/726",
+          "blogger": "OZahir :: OZahir",
+          "date": "2009-06-17"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "PORTUGAL SOCCER",
+          "link": "https://n.news.naver.com/mnews/article/091/0010329683?sid=104",
+          "press": "",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "PORTUGAL SOCCER",
+          "link": "https://n.news.naver.com/mnews/article/091/0010329665?sid=104",
+          "press": "",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "PORTUGAL SOCCER",
+          "link": "https://n.news.naver.com/mnews/article/091/0010329667?sid=104",
+          "press": "",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "PORTUGAL SOCCER",
+          "link": "https://n.news.naver.com/mnews/article/091/0010329666?sid=104",
+          "press": "",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "PORTUGAL SOCCER",
+          "link": "https://n.news.naver.com/mnews/article/091/0010329637?sid=104",
+          "press": "",
+          "date": "2026-10-04"
+        }
+      ],
+      "rank": 8
+    },
+    {
       "keyword": "넷플릭스",
-      "traffic": "20000+",
-      "blogTotal": 4323129,
-      "newsTotal": 1001266,
+      "traffic": "10000+",
+      "blogTotal": 4323360,
+      "newsTotal": 1001268,
       "recentToday": 0,
       "recentWeek": 100,
       "topBlogs": [
@@ -522,19 +595,31 @@
           "date": "2023-04-10"
         },
         {
+          "title": "넷플릭스 한국어 더빙 영상 목록 보는 방법",
+          "link": "https://jun7222.tistory.com/599",
+          "blogger": "leverage",
+          "date": "2019-10-01"
+        },
+        {
           "title": "넷플릭스 오리지날 드라마 <D.P.> 감상평",
           "link": "https://edeungood.tistory.com/156",
           "blogger": "R만한 R첨지",
           "date": "2021-09-03"
-        },
-        {
-          "title": "선셋 스튜디오 :: 넷플릭스 드라마 판타스틱하이스쿨",
-          "link": "https://sunsetstudio.tistory.com/156",
-          "blogger": "선셋 스튜디오 :: 선셋 스튜디오",
-          "date": "2018-02-20"
         }
       ],
       "topNews": [
+        {
+          "title": "영화 속 실제 모델 해고자 부부 \"엉엉 울면서 봤다\"... '가능한 사랑'은...",
+          "link": "https://www.hankookilbo.com/news/article/A2026100414260003325?did=NA",
+          "press": "",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "넷플릭스(NFLX), 1년 사이 주가 '반토막'...빅테크 공세에 부진",
+          "link": "http://coinreaders.com/261522",
+          "press": "",
+          "date": "2026-10-04"
+        },
         {
           "title": "블랙핑크 리사, 'Always Lalisa'로 인생 전환점 고백…TIFF 감동 여운",
           "link": "https://www.topstarnews.net/news/articleView.html?idxno=16238138",
@@ -552,26 +637,14 @@
           "link": "https://www.starnewskorea.com/star/2026/10/05/2026100423582148412",
           "press": "",
           "date": "2026-10-04"
-        },
-        {
-          "title": "클로드 에이전트, 하버드 연구실서 3개월 만에 논문 원고 36편 썼다…업...",
-          "link": "https://www.wikitree.co.kr/articles/1163923",
-          "press": "",
-          "date": "2026-10-04"
-        },
-        {
-          "title": "기안84, 김연경 '기안장' 출연 안 하길 바랐다…\"안 바쁜가?\"",
-          "link": "https://www.tenasia.co.kr/article/2026100427764",
-          "press": "",
-          "date": "2026-10-04"
         }
       ],
-      "rank": 8
+      "rank": 9
     },
     {
       "keyword": "기능사",
       "traffic": "2000+",
-      "blogTotal": 15724705,
+      "blogTotal": 15725837,
       "newsTotal": 82994,
       "recentToday": 0,
       "recentWeek": 100,
@@ -581,12 +654,6 @@
           "link": "https://blog.aladin.co.kr/704105146/16752633",
           "blogger": "https://blog.aladin.co.kr/",
           "date": "2025-09-19"
-        },
-        {
-          "title": "[알라딘서재][100자평] 2025 지적기능사 필기+실기 3주완성",
-          "link": "https://blog.aladin.co.kr/726701222/16203426",
-          "blogger": "https://blog.aladin.co.kr/",
-          "date": "2025-02-04"
         },
         {
           "title": "[알라딘서재][100자평] 2026 에듀윌 가스기능사 필기 2주끝장+무료특강",
@@ -605,6 +672,12 @@
           "link": "https://blog.aladin.co.kr/756157266/16761359",
           "blogger": "https://blog.aladin.co.kr/",
           "date": "2025-09-24"
+        },
+        {
+          "title": "[100자평] 2026 에듀윌 가스기능사 필기 2주끝장+무료특강",
+          "link": "https://blog.aladin.co.kr/767356101/16715629",
+          "blogger": "https://blog.aladin.co.kr/",
+          "date": "2025-09-02"
         }
       ],
       "topNews": [
@@ -637,79 +710,6 @@
           "link": "https://www.joongang.co.kr/article/25466942",
           "press": "",
           "date": "2026-10-03"
-        }
-      ],
-      "rank": 9
-    },
-    {
-      "keyword": "내일 날씨",
-      "traffic": "100000+",
-      "blogTotal": 4529678,
-      "newsTotal": 730177,
-      "recentToday": 0,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "2024년 5월 14일 현재/서울 어제 날씨",
-          "link": "https://bosshippy.tistory.com/491",
-          "blogger": "행복인",
-          "date": "2024-05-14"
-        },
-        {
-          "title": "2024년 5월 12일 현재/부산 어제 날씨",
-          "link": "https://bosshippy.tistory.com/488",
-          "blogger": "행복인",
-          "date": "2024-05-12"
-        },
-        {
-          "title": "2024년 5월 10일 현재/서울 어제 날씨",
-          "link": "https://bosshippy.tistory.com/483",
-          "blogger": "행복인",
-          "date": "2024-05-10"
-        },
-        {
-          "title": "2024년 5월 4일 현재/서울 어제 날씨",
-          "link": "https://bosshippy.tistory.com/473",
-          "blogger": "행복인",
-          "date": "2024-05-04"
-        },
-        {
-          "title": "2024년 5월 1일 현재/서울 어제 날씨",
-          "link": "https://bosshippy.tistory.com/467",
-          "blogger": "행복인",
-          "date": "2024-05-01"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "[날씨] 수도권, 초겨울 날씨 진입· · ·오늘 5~30mm 비온 뒤 싸락우박",
-          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3713044",
-          "press": "",
-          "date": "2026-10-04"
-        },
-        {
-          "title": "[날씨] 경남권, 5mm 미만 빗방울· · ·차량 운행시 안전거리 확보",
-          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3713042",
-          "press": "",
-          "date": "2026-10-04"
-        },
-        {
-          "title": "[날씨] 충청북도, 5mm 안팎 비· · ·북쪽 찬 공기 유입 냉동고 한파",
-          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3713040",
-          "press": "",
-          "date": "2026-10-04"
-        },
-        {
-          "title": "[날씨] 강원도, 전지역 강풍 동반 내륙 5~30mm, 동해안 5mm 비",
-          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3713039",
-          "press": "",
-          "date": "2026-10-04"
-        },
-        {
-          "title": "[날씨] 호남권, 북쪽 찬 공기 유입· · ·낮과 밤 기온차 10℃ 안팎",
-          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3713037",
-          "press": "",
-          "date": "2026-10-04"
         }
       ],
       "rank": 10
