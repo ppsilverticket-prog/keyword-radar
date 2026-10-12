@@ -1,627 +1,652 @@
 {
-  "updatedAt": "2026-10-11T22:15:49.454Z",
+  "updatedAt": "2026-10-12T01:31:53.968Z",
   "source": "live",
   "keywords": [
     {
-      "keyword": "thời tiết",
-      "traffic": "500+",
-      "blogTotal": 6319,
-      "newsTotal": 231,
-      "recentToday": 18,
-      "recentWeek": 75,
-      "topBlogs": [
-        {
-          "title": "[ES CONSULTING] ES Voca 10 - Sinh nhật (#01: Từ vựng về sinh nhật)",
-          "link": "https://hihyen.tistory.com/119",
-          "blogger": "Hihyen",
-          "date": "2021-02-26"
-        },
-        {
-          "title": "[ES CONSULTING] ES Voca 10 - Sinh nhật (#02: Từ vựng về quà cáp)",
-          "link": "https://hihyen.tistory.com/120",
-          "blogger": "Hihyen",
-          "date": "2021-02-26"
-        },
-        {
-          "title": "[Trung tâm ngoại ngữ ES] Bạn là “người chơi hệ” TOPIK ? 💁♀️ (TOPI....",
-          "link": "https://hihyen.tistory.com/536",
-          "blogger": "Hihyen",
-          "date": "2021-05-28"
-        },
-        {
-          "title": "[ES CONSULTING] THƯ VIỆN SÁCH TIẾNG HÀN MIỄN PHÍ - Trung tâm ngoại ngữ ES",
-          "link": "https://hihyen.tistory.com/512",
-          "blogger": "Hihyen",
-          "date": "2021-05-25"
-        },
-        {
-          "title": "[Ngữ pháp 🇰🇷] -자마자 và -던데 – 👊 𝕄𝕚𝕟𝕘.ℤ𝕚𝕡 #𝟎....",
-          "link": "https://minhtuyet.tistory.com/212",
-          "blogger": "Tuyet's Story",
-          "date": "2021-12-14"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "JTBC đang trong quá trình phục hồi doanh nghiệp, bắt đầu đượ...",
-          "link": "https://vn.asiatoday.co.kr/view.php?key=20261008000937362",
-          "press": "",
-          "date": "2026-10-08"
-        },
-        {
-          "title": "Tên lửa Nuri phóng lúc 12h25 ngày 7, Cơ quan Hàng không Vũ trụ:...",
-          "link": "https://vn.asiatoday.co.kr/view.php?key=20261007000927575",
-          "press": "",
-          "date": "2026-10-07"
-        },
-        {
-          "title": "Tên lửa Nuri-5 bắt đầu được đưa tới bệ phóng, sẵn sàn",
-          "link": "https://vn.asiatoday.co.kr/view.php?key=20261006000936337",
-          "press": "",
-          "date": "2026-10-06"
-        },
-        {
-          "title": "Hàn Quốc - Trung Quốc xích lại gần, Chủ tịch Ủy ban Trung Quố...",
-          "link": "https://vn.asiatoday.co.kr/view.php?key=20261001000926492",
-          "press": "",
-          "date": "2026-10-01"
-        },
-        {
-          "title": "Công tố viên vẫn đề nghị giữ nguyên án có tội trong phi",
-          "link": "https://vn.asiatoday.co.kr/view.php?key=20261001000950538",
-          "press": "",
-          "date": "2026-10-01"
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "keyword": "天气",
-      "traffic": "500+",
-      "blogTotal": 18752,
-      "newsTotal": 21,
-      "recentToday": 6,
-      "recentWeek": 65,
-      "topBlogs": [
-        {
-          "title": "하루 한 문장[1] - \"오늘 날씨가 참 좋네요\"",
-          "link": "https://turtle-dennis.tistory.com/160",
-          "blogger": "ggoboogi_house",
-          "date": "2023-12-14"
-        },
-        {
-          "title": "The Imaginary World of Monika: Lee Min Ho's Social Network Updates 02.04.2012",
-          "link": "http://monika-leeminho.blogspot.com/2012/04/lee-min-hos-social-network-updates.html",
-          "blogger": "The Imaginary World of Monika",
-          "date": "2012-04-03"
-        },
-        {
-          "title": "长蛇岛海上公园장사도해상공원",
-          "link": "https://trip-kor-info.tistory.com/1220",
-          "blogger": "Trip Info",
-          "date": "2021-06-01"
-        },
-        {
-          "title": "韩剧 \"请回答1994\"，\"阳光满溢\" 明星同款 Builford 时尚背包 - Life is wonde....",
-          "link": "https://www.lifelogger.co.kr/761?category=287157",
-          "blogger": "Life is wonderful, happy. LIFE LOGGER",
-          "date": "2014-03-27"
-        },
-        {
-          "title": "[스크랩] 맹해 1800년 파달 야생차수왕 서거",
-          "link": "https://antolee.tistory.com/16031941",
-          "blogger": "청원의 블로그",
-          "date": "2016-10-23"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "2000亿美元投资落地：燃电·核电·LNG并设“风险共担”机制",
-          "link": "https://cn.asiatoday.co.kr/view.php?key=20261001000920289",
-          "press": "",
-          "date": "2026-10-01"
-        },
-        {
-          "title": "K-뷰티 단기 인기 보다 장기적 신뢰 구축 필요",
-          "link": "https://www.thebk.co.kr/news/articleView.html?idxno=301226",
-          "press": "",
-          "date": "2025-07-28"
-        },
-        {
-          "title": "제왕이란 하늘과 땅, 그리고 사람이 만드는 것!",
-          "link": "http://www.breaknews.com/846402",
-          "press": "",
-          "date": "2021-11-09"
-        },
-        {
-          "title": "在“疯狂的射箭”背后，是现代汽车集团的尖端技术力量",
-          "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202107280917585529c4c1a19e2e_10/article.html",
-          "press": "",
-          "date": "2021-07-28"
-        },
-        {
-          "title": "주균한의 ‘톡톡 중국어’ 157",
-          "link": "http://weeklytrade.co.kr/news/view.html?section=1&category=80&item=&no=49112",
-          "press": "",
-          "date": "2019-01-25"
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "keyword": "제민일보",
-      "traffic": "200+",
-      "blogTotal": 42173,
-      "newsTotal": 23198,
-      "recentToday": 4,
+      "keyword": "하이닉스",
+      "traffic": "100+",
+      "blogTotal": 2131671,
+      "newsTotal": 1307097,
+      "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "21.08.05_결혼식 빼곤 화장 안 했다…이런 의원 보정하느라 바쁜 비서 ....",
-          "link": "https://lej515.tistory.com/1060",
-          "blogger": "정의당 국회의원 이은주",
-          "date": "2021-08-09"
+          "title": "SK하이닉스 - 연결재무제표기준영업(잠정)실적(공정공시)",
+          "link": "https://dark602.tistory.com/291",
+          "blogger": "인터넷유목민",
+          "date": "2025-10-29"
         },
         {
-          "title": "[세계일보] '詩의 뜨락' 아프리카 (2013.05.31)",
-          "link": "https://prun21c.tistory.com/252",
-          "blogger": "푸른사상 출판사",
-          "date": "2013-06-01"
+          "title": "SK하이닉스 곽노정 사장 27년 사상 최악의 메모리 반도체 공급난 전....",
+          "link": "https://blog.naver.com/sjay34/224347907107",
+          "blogger": "Becoming a Millionaire",
+          "date": "2026-07-15"
         },
         {
-          "title": "[울산신문] 정라헬 소설집, 『랭보의 권유』",
-          "link": "https://prun21c.tistory.com/2692",
-          "blogger": "푸른사상 출판사",
-          "date": "2025-09-25"
+          "title": "SK하이닉스 ADR 상장하면 주가 오를까? 주주라면 꼭 봐야 할 공모가와....",
+          "link": "https://blog.naver.com/healthtalkmentaltalk/224325484615",
+          "blogger": "FREEDOM",
+          "date": "2026-06-24"
         },
         {
-          "title": "21.07.31_물건 취급받던 반려동물, 처벌 바뀔까? [팍스넷]",
-          "link": "https://lej515.tistory.com/1057",
-          "blogger": "정의당 국회의원 이은주",
-          "date": "2021-08-09"
-        },
-        {
-          "title": "반지의 제왕에서 배우는 탁월함의 조건",
-          "link": "https://deepinsight.tistory.com/17",
-          "blogger": "Steve-Lee's Deep Insight",
-          "date": "2018-09-27"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "\"제주 문화자원 발굴·전문인력 양성 함께\"",
-          "link": "https://www.jemin.com/news/articleView.html?idxno=844199",
-          "press": "",
-          "date": "2026-10-11"
-        },
-        {
-          "title": "제주도, 첨단 친환경양식 전환 실증 추진",
-          "link": "https://www.jemin.com/news/articleView.html?idxno=844192",
-          "press": "",
-          "date": "2026-10-11"
-        },
-        {
-          "title": "[전국 주요 신문 톱뉴스](8일 조간)",
-          "link": "https://www.yna.co.kr/view/AKR20261008018300011?input=1195m",
-          "press": "",
-          "date": "2026-10-07"
-        },
-        {
-          "title": "제주 반영 못한 인구감소정책",
-          "link": "https://www.jemin.com/news/articleView.html?idxno=844027",
-          "press": "",
-          "date": "2026-10-07"
-        },
-        {
-          "title": "[전국 주요 신문 톱뉴스](7일 조간)",
-          "link": "https://www.yna.co.kr/view/AKR20261007017800011?input=1195m",
-          "press": "",
-          "date": "2026-10-06"
-        }
-      ],
-      "rank": 3
-    },
-    {
-      "keyword": "สภาพอากาศ",
-      "traffic": "500+",
-      "blogTotal": 56,
-      "newsTotal": 0,
-      "recentToday": 0,
-      "recentWeek": 0,
-      "topBlogs": [
-        {
-          "title": "khít khao, sít sao - khó nhọc :: Dictionary",
-          "link": "https://moen.tistory.com/8202",
-          "blogger": "Dictionary :: Dictionary",
-          "date": "2020-03-17"
-        },
-        {
-          "title": "รุนแรง, ร้ายกาจ, หนักหนา - รับตำแห....",
-          "link": "https://moen.tistory.com/9593",
-          "blogger": "Dictionary :: Dictionary",
-          "date": "2020-04-23"
-        },
-        {
-          "title": "pookao :: 태국어공부 태국어로 계절, 자연, 날씨에 대해서 배워보세요....",
-          "link": "https://kothai555.tistory.com/35",
-          "blogger": "pookao :: pookao",
-          "date": "2020-12-20"
-        },
-        {
-          "title": "2004 대한민국 창업대전 - 2",
-          "link": "https://richcat.tistory.com/4516",
-          "blogger": "리치캣의 현재 그리고 미래",
-          "date": "2020-12-04"
-        },
-        {
-          "title": "청록색, 청룡, 청명, 청명하다, 청문회, 청바지, 청백리, 청빈, 청빈....",
-          "link": "https://moen.tistory.com/4354",
-          "blogger": "Dictionary :: Dictionary",
-          "date": "2020-02-07"
-        }
-      ],
-      "topNews": [],
-      "rank": 4
-    },
-    {
-      "keyword": "삼성전자",
-      "traffic": "2000+",
-      "blogTotal": 7492931,
-      "newsTotal": 4489341,
-      "recentToday": 0,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "[삼성전자DID(LFD)MD스펙]MD32B,MD32MDBPLGA,MD40B,MD40MDBPLGA,MD46B,MD46MDBPLGA,MD",
-          "link": "https://samsungdid.tistory.com/94",
-          "blogger": "비디오월 멀티비전 LED전광판 특가문의 : 010-3889-3624",
-          "date": "2012-04-04"
+          "title": "SK하이닉스 배당금 지급 정보 (2004년~현재)",
+          "link": "https://xassets.tistory.com/250",
+          "blogger": "누군가의 부채는 누군가의 자산이다",
+          "date": "2019-04-07"
         },
         {
           "title": "삼성전자 SK하이닉스 자사주 매입 조기 종료 속내와 코스피 전망",
           "link": "https://blog.naver.com/peacebok117/224424082966",
           "blogger": "정보가 까득까득",
           "date": "2026-09-27"
-        },
-        {
-          "title": "삼성전자 성과급 상한 금액, 1인당 5억 받으면 연봉 실수령액은? (ft. ....",
-          "link": "https://blog.naver.com/healthtalkmentaltalk/224245354715",
-          "blogger": "FREEDOM",
-          "date": "2026-04-08"
-        },
-        {
-          "title": "\"애플도 결국 GG\" 삼성전자 주가 30만원 금방 가겠는데?",
-          "link": "https://blog.naver.com/blueshw/224412713338",
-          "blogger": "보노의 투자 생존기",
-          "date": "2026-09-15"
-        },
-        {
-          "title": "\"60만전자 가려고 작정했나\" 오늘 뒤집어진 삼성전자 깜짝 전망",
-          "link": "https://blog.naver.com/loonshots88/224428858426",
-          "blogger": "비아이의 투자 인문학",
-          "date": "2026-10-02"
         }
       ],
       "topNews": [
         {
-          "title": "텐센트, 9조원 들여 美 규제 밖 오라클 칩 빌리자 한국 메모리 공급망 ...",
-          "link": "https://www.g-enews.com/view.php?ud=202610120701146726fbbec65dfb_1",
+          "title": "'좋은 대학=성공' 공식 깨졌다…문세윤→이미주, '삼전닉스' 열풍에 교...",
+          "link": "https://www.sportschosun.com/entertainment/2026-10-12/202610120100073110004734",
           "press": "",
-          "date": "2026-10-11"
+          "date": "2026-10-12"
         },
         {
-          "title": "삼전 107조 이익도 못 붙잡았다…외국인, K반도체 비중 줄인다",
-          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1727334",
+          "title": "[줌인] 'AI 시대' 앞둔 SK의 선택…반도체 생산능력 늘리고 인재는 직접...",
+          "link": "http://www.dailypop.kr/news/articleView.html?idxno=103242",
           "press": "",
-          "date": "2026-10-11"
+          "date": "2026-10-12"
         },
         {
-          "title": "107조 벌어도 떠나는 외국인…삼전 외인 지분 46%대로 '뚝'",
-          "link": "https://biz.sbs.co.kr/article_hub/20000339237?division=NAVER",
+          "title": "중흥건설그룹, 호남권 반도체 메가프로젝트에 100억원 기부",
+          "link": "https://www.etoday.co.kr/news/view/2634566",
           "press": "",
-          "date": "2026-10-11"
+          "date": "2026-10-12"
         },
         {
-          "title": "[Who Is ?] 권혁빈 스마일게이트홀딩스 최고비전제시책임자",
-          "link": "https://www.businesspost.co.kr/BP?command=article_view&num=447396",
+          "title": "코스피, 6500선 내줘...美 기술주 약세 여파[fn오전시황]",
+          "link": "https://www.fnnews.com/news/202610121002148457",
           "press": "",
-          "date": "2026-10-11"
+          "date": "2026-10-12"
         },
         {
-          "title": "[Invest]앤트로픽·오픈AI 치솟은 몸값…상장 지연에 국내 투자자들도 '...",
-          "link": "https://www.investchosun.com/site/data/html_dir/2026/10/08/2026100880173.html",
+          "title": "최태원 “광주 반도체공장 최대한 빨리 짓겠다”",
+          "link": "https://news.mtn.co.kr/news-detail/2026101210153477657",
           "press": "",
-          "date": "2026-10-11"
+          "date": "2026-10-12"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "keyword": "기업은행",
+      "traffic": "1000+",
+      "blogTotal": 5639953,
+      "newsTotal": 798639,
+      "recentToday": 100,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "[IBK기업은행카드] 기업은행 IBK컴퍼니카드(일반) 혜택 정리",
+          "link": "https://card-data.tistory.com/207",
+          "blogger": "세상의 모든 신용카드",
+          "date": "2023-08-02"
+        },
+        {
+          "title": "기업은행 공인인증서 PC에서 모바일로 복사방법",
+          "link": "https://flatsun.tistory.com/1222",
+          "blogger": "Flat Sun",
+          "date": "2020-03-22"
+        },
+        {
+          "title": "기업은행 공인인증서 갱신방법",
+          "link": "https://flatsun.tistory.com/1221",
+          "blogger": "Flat Sun",
+          "date": "2020-03-22"
+        },
+        {
+          "title": "IBK기업은행 GS칼텍스 잡고 4연패 탈출",
+          "link": "https://nomark502.tistory.com/12392",
+          "blogger": "BV파크(Baseball park-Volleyball park)",
+          "date": "2024-12-18"
+        },
+        {
+          "title": "현대건설 IBK기업은행에 승리하며 연패는 없다",
+          "link": "https://nomark502.tistory.com/12250",
+          "blogger": "BV파크(Baseball park-Volleyball park)",
+          "date": "2024-10-23"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "\"은퇴 후 만난 이 일... 주 3일 하는데, 10점 만점입니다\"",
+          "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003274110&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+          "press": "",
+          "date": "2026-10-12"
+        },
+        {
+          "title": "\"가까우니 손잡기 쉽다\"…부산 문현금융단지 '집적의 힘' 재조명",
+          "link": "https://www.nocutnews.co.kr/news/6589740?utm_source=naver&utm_medium=article&utm_campaign=20261012103021",
+          "press": "",
+          "date": "2026-10-12"
+        },
+        {
+          "title": "[2026국감] 한은·국책은행 해킹 시도 100만건 돌파…공격 빈도 매년 늘...",
+          "link": "http://www.srtimes.kr/news/articleView.html?idxno=214440",
+          "press": "",
+          "date": "2026-10-12"
+        },
+        {
+          "title": "신임 경제부총리·경제 6단체장 만남… \"규제 완화·투자 지원\" 건의",
+          "link": "http://www.kbiznews.co.kr/news/articleView.html?idxno=114936",
+          "press": "",
+          "date": "2026-10-12"
+        },
+        {
+          "title": "국책은행 해킹 시도 매년 급증···올해 9개월 새 102만건",
+          "link": "https://www.thereport.co.kr/news/articleView.html?idxno=92163",
+          "press": "",
+          "date": "2026-10-12"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "keyword": "경찰청",
+      "traffic": "200+",
+      "blogTotal": 2392325,
+      "newsTotal": 3124619,
+      "recentToday": 100,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "충청북도경찰청 :: 충북경찰청 치안소식지 행복한 동행 제32호",
+          "link": "https://cbpolice.tistory.com/2882",
+          "blogger": "충청북도경찰청",
+          "date": "2019-06-28"
+        },
+        {
+          "title": "충청북도경찰청 :: 충북지방경찰청 치안소식지 2019년 제48호",
+          "link": "https://cbpolice.tistory.com/2975",
+          "blogger": "충청북도경찰청",
+          "date": "2019-11-04"
+        },
+        {
+          "title": "경찰청 경비교육 경찰행정학과 교수님과 사회복지실습팀",
+          "link": "https://seogangcollegedongamusic.tistory.com/277",
+          "blogger": "서강직업전문학교 경찰행정학과 의전경호 일반경비원신임교육 사회복지현장실습",
+          "date": "2018-08-16"
+        },
+        {
+          "title": "해양경찰청 임직원을 위한 복리 후생관 - 세상으로본블랙박스",
+          "link": "https://worldwindowsblackbox.tistory.com/98",
+          "blogger": "세상으로본블랙박스 - 세상으로본블랙박스",
+          "date": "2022-04-18"
+        },
+        {
+          "title": "[알라딘서재]총과 도넛으로 이해하는 미국 경찰",
+          "link": "https://blog.aladin.co.kr/700564149/12447954",
+          "blogger": "https://blog.aladin.co.kr/",
+          "date": "2021-03-07"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "작년 국정감사서 받은 시정 요구…금융위·금감원, 얼마나 이행했나",
+          "link": "https://www.raonnews.com/news/article.html?no=61781",
+          "press": "",
+          "date": "2026-10-12"
+        },
+        {
+          "title": "국정감사 인사말하는 김종철 경찰청장 직무대행",
+          "link": "https://www.newsis.com/view/NISI20261012_0021484743",
+          "press": "",
+          "date": "2026-10-12"
+        },
+        {
+          "title": "국정감사 인사말하는 김종철 경찰청장 직무대행",
+          "link": "https://www.newsis.com/view/NISI20261012_0021484742",
+          "press": "",
+          "date": "2026-10-12"
+        },
+        {
+          "title": "경찰청장 대행 \"어떠한 경우에도 정치적 중립, 부실·편파 수사 차단\"",
+          "link": "https://www.edaily.co.kr/News/Read?newsId=02584646645612264&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+          "press": "",
+          "date": "2026-10-12"
+        },
+        {
+          "title": "국정감사 인사말하는 김종철 경찰청장 직무대행",
+          "link": "https://www.newsis.com/view/NISI20261012_0021484738",
+          "press": "",
+          "date": "2026-10-12"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "keyword": "국민카드",
+      "traffic": "200+",
+      "blogTotal": 2798358,
+      "newsTotal": 1326332,
+      "recentToday": 100,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "국민카드 현금서비스 수수료 이자",
+          "link": "https://zzang1222.tistory.com/420",
+          "blogger": "김셰프의 잡학사전",
+          "date": "2022-02-05"
+        },
+        {
+          "title": "[생활경제] SK에너지 러브유 KB국민카드 혜택 총정리 2025｜리터당 100....",
+          "link": "https://blog.naver.com/ddonnyjerry/224045436218",
+          "blogger": "VERAPUNK365",
+          "date": "2025-10-18"
+        },
+        {
+          "title": "국민카드 결제일별 이용기간 정리",
+          "link": "https://mcmlxxiv.tistory.com/582",
+          "blogger": "白夜行: 하얀 어둠 속을 걷다.",
+          "date": "2014-12-10"
+        },
+        {
+          "title": "국민카드 민생안정 소비쿠폰 신청",
+          "link": "https://fall2004.tistory.com/306",
+          "blogger": "초코파이의 꼬물꼬물",
+          "date": "2025-07-22"
+        },
+        {
+          "title": "국민카드 분실신고 쉽게하는법",
+          "link": "https://linguist79.tistory.com/1212",
+          "blogger": "파미유의 IT LIFE",
+          "date": "2016-10-24"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "대출·카드 심사 핵심 전산망, 10년 만에 전면 개편",
+          "link": "https://www.mk.co.kr/article/12173380",
+          "press": "",
+          "date": "2026-10-12"
+        },
+        {
+          "title": "카카오뱅크, 외국인 금융서비스 출시···5분 비대면 계좌 개설",
+          "link": "http://www.finomy.com/news/articleView.html?idxno=263294",
+          "press": "",
+          "date": "2026-10-12"
+        },
+        {
+          "title": "'계곡살인' 이은해, 유족연금 1300만원 챙겼다…\"환수 못해\" 왜",
+          "link": "https://www.mt.co.kr/society/2026/10/12/2026101210091443969",
+          "press": "",
+          "date": "2026-10-12"
+        },
+        {
+          "title": "카카오뱅크, 외국인 금융서비스 출시…계좌 개설부터 해외송금까지",
+          "link": "https://www.ziksir.com/news/articleView.html?idxno=148942",
+          "press": "",
+          "date": "2026-10-12"
+        },
+        {
+          "title": "털려도 못 바꾸는 '온라인 주민번호' CI…최형두 의원 \"유출 시 즉각 폐...",
+          "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&news_seq_no=5224292",
+          "press": "",
+          "date": "2026-10-12"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "keyword": "claude",
+      "traffic": "2000+",
+      "blogTotal": 289311,
+      "newsTotal": 36477,
+      "recentToday": 100,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "Claude Monet's Paintings / The Place Monet Called Home",
+          "link": "https://yeopoong2.tistory.com/1347",
+          "blogger": "yeopoong2",
+          "date": "2017-07-10"
+        },
+        {
+          "title": "hawgblawg: Claude François twists, in Arabic",
+          "link": "http://swedenburg.blogspot.com/2014/04/claude-francois-twists-in-arabic.html",
+          "blogger": "hawgblawg",
+          "date": "1990-01-01"
+        },
+        {
+          "title": "클로드(Claude) 계정 정지, 사용도 못 해보고 비활성화화된 썰(다중 로....",
+          "link": "https://blog.naver.com/starbuuck/223894893404",
+          "blogger": "주린이의 사소한 행복노트",
+          "date": "2025-06-10"
+        },
+        {
+          "title": "Claude Skills 을 활용한 Codex 코드 리뷰",
+          "link": "https://kangdanne.tistory.com/345",
+          "blogger": "Hello, Dan:d World!",
+          "date": "2025-10-25"
+        },
+        {
+          "title": "Claude Code",
+          "link": "https://thewavelet.tistory.com/183",
+          "blogger": "thewavelet",
+          "date": "2025-04-22"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "AI 활용 능력이 사회적 격차를 만든다?",
+          "link": "https://zdnet.co.kr/view/?no=20261012093543",
+          "press": "",
+          "date": "2026-10-12"
+        },
+        {
+          "title": "\"클로드, 챗GPT 쓸 줄 아세요?\"… AI 툴 키워드 공고 170% 증가",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42255",
+          "press": "",
+          "date": "2026-10-12"
+        },
+        {
+          "title": "\"인터넷 랜선 다 뽑았다\"… 앤트로픽, AI 모델 돌발 행동에 '실시간 인터...",
+          "link": "http://coinreaders.com/262604",
+          "press": "",
+          "date": "2026-10-12"
+        },
+        {
+          "title": "클로드, 챗GPT 쓸 줄 아세요? 잡코리아, AI 툴 키워드 공고 170% 증가",
+          "link": "https://ditoday.com/%ed%81%b4%eb%a1%9c%eb%93%9c-%ec%b1%97gpt-%ec%93%b8-%ec%a4%84-%ec%95%84%ec%84%b8%ec%9a%94-%ec%9e%a1%ec%bd%94%eb%a6%ac%ec%95%84-ai-%ed%88%b4-%ed%82%a4%ec%9b%8c%eb%93%9c-%ea%b3%b5/",
+          "press": "",
+          "date": "2026-10-12"
+        },
+        {
+          "title": "기업 채용시장서 '클로드' 급부상...관련 공고 770% 급증",
+          "link": "https://www.womentimes.co.kr/news/articleView.html?idxno=106916",
+          "press": "",
+          "date": "2026-10-12"
         }
       ],
       "rank": 5
     },
     {
-      "keyword": "기상청",
-      "traffic": "200+",
-      "blogTotal": 963511,
-      "newsTotal": 1560008,
-      "recentToday": 0,
+      "keyword": "우리은행",
+      "traffic": "1000+",
+      "blogTotal": 8002695,
+      "newsTotal": 1120078,
+      "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "[2022국감] 10.07 오늘의 국감_기상청",
-          "link": "https://lej515.tistory.com/2212",
-          "blogger": "정의당 국회의원 이은주",
-          "date": "2022-10-07"
+          "title": "우리은행 휴면계좌 조회 복구 살리기 :: 마이러브",
+          "link": "https://vuddks777.tistory.com/595",
+          "blogger": "마이러브 :: 마이러브",
+          "date": "2025-02-04"
         },
         {
-          "title": "“지금부터는 상황 살피러 나가지도 말라”…기상청의 경고",
-          "link": "https://marooner.tistory.com/204",
-          "blogger": "HOMIEDADDY PRIVATE PLACE",
-          "date": "2022-09-05"
+          "title": "“박지수는 남고 강이슬은 떠났다” 이제 시작된 WKBL 진짜 전쟁, KB·....",
+          "link": "https://blog.naver.com/sde77/224288212964",
+          "blogger": "스포츠에 스며든 이슬",
+          "date": "2026-05-17"
         },
         {
-          "title": "기상청 API 좌표 위도경도 변환하기",
-          "link": "https://dulki.tistory.com/101",
-          "blogger": "둘기의 삽질일기",
-          "date": "2019-12-17"
+          "title": "우리은행 신한은행 잡고 1라운드 5전전승",
+          "link": "https://nomark502.tistory.com/11898",
+          "blogger": "BV파크(Baseball park-Volleyball park)",
+          "date": "2023-11-22"
         },
         {
-          "title": "기상현상증명서, 등본 떼던 정부24에서도 발급받을 수 있어요!",
-          "link": "https://blog.naver.com/kma_131/224320889463",
-          "blogger": "대한민국 기상청",
-          "date": "2026-06-19"
+          "title": "[25하반기] 우리은행 체험형인턴 채용! 기업분석 및 자소서 작성법!(~....",
+          "link": "https://blog.naver.com/darddong/224099066774",
+          "blogger": "스펙을 뛰어넘는 자소서",
+          "date": "2025-12-05"
         },
         {
-          "title": "the Desirable Garfield :: 노르웨이 기상청 날씨가 더 정확하다고 하네",
-          "link": "https://yougome.tistory.com/681",
-          "blogger": "the Desirable Garfield :: the Desirable Garfield",
-          "date": "2020-08-11"
+          "title": "우리은행 BNK썸 잡고 시즌 첫 공동선두",
+          "link": "https://nomark502.tistory.com/12467",
+          "blogger": "BV파크(Baseball park-Volleyball park)",
+          "date": "2025-01-24"
         }
       ],
       "topNews": [
         {
-          "title": "[날씨] 전국에 내일까지 비·소나기...주 중반 기온 '뚝'",
-          "link": "https://www.womennews.co.kr/news/articleView.html?idxno=283181",
+          "title": "털려도 못 바꾸는 '온라인 주민번호' CI…최형두 의원 \"유출 시 즉각 폐...",
+          "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&news_seq_no=5224292",
           "press": "",
-          "date": "2026-10-11"
+          "date": "2026-10-12"
         },
         {
-          "title": "10월 맞나 싶은 늦더위…오늘 오후 ‘이곳’ 갑자기 비 온다",
-          "link": "https://www.wikitree.co.kr/articles/1165369",
+          "title": "악뮤 TOP4 싹쓸이…조용필 3개 지역 TOP20 동시 진입 [10월 11일 공연 예...",
+          "link": "https://www.econovill.com/news/articleView.html?idxno=753245",
           "press": "",
-          "date": "2026-10-11"
+          "date": "2026-10-12"
         },
         {
-          "title": "재난문자 끄면 경보도 놓칠 수 있다…소리·진동 설정 먼저 확인",
-          "link": "https://www.wikitree.co.kr/articles/1165371",
+          "title": "[2026국감] 한은·국책은행 해킹 시도 100만건 돌파…공격 빈도 매년 늘...",
+          "link": "http://www.srtimes.kr/news/articleView.html?idxno=214440",
           "press": "",
-          "date": "2026-10-11"
+          "date": "2026-10-12"
         },
         {
-          "title": "[날씨]'다시 여름' 낮 최고기온 29도…오후 곳곳 소나기",
-          "link": "https://view.asiae.co.kr/article/2026101207032504485",
+          "title": "우리은행 '보안투자' 뒷전 … 예산 줄이고 집행도 최하위",
+          "link": "https://www.safetimes.co.kr/news/articleView.html?idxno=246371",
           "press": "",
-          "date": "2026-10-11"
+          "date": "2026-10-12"
         },
         {
-          "title": "“출근길 우산 챙기세요” 오후 전국 곳곳 소나기…아침 최저 13도",
-          "link": "https://www.sedaily.com/article/20100257?ref=naver",
+          "title": "해킹에 뚫린 금융권…전산장애 상위 20개사 보안예산 집행률 고작 69.6%",
+          "link": "http://www.intn.co.kr/news/articleView.html?idxno=2053932",
           "press": "",
-          "date": "2026-10-11"
+          "date": "2026-10-12"
         }
       ],
       "rank": 6
     },
     {
-      "keyword": "오늘날씨",
-      "traffic": "200+",
-      "blogTotal": 35514,
-      "newsTotal": 1088160,
-      "recentToday": 0,
+      "keyword": "하나은행",
+      "traffic": "1000+",
+      "blogTotal": 8314146,
+      "newsTotal": 1344403,
+      "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "퀵 서비스 요금 조회 및 전국 요금표 (오토바이, 다마스) | 부산 | 인....",
-          "link": "https://seoulwelfare.tistory.com/949",
-          "blogger": "서울여행",
-          "date": "2026-10-11"
+          "title": "하나은행 모바일OTP 발급 및 재발급 비대면 방법 안내",
+          "link": "https://lifesolomon.tistory.com/1120",
+          "blogger": "생활 자료실",
+          "date": "2024-12-14"
         },
         {
-          "title": "삼천포에서 사량도 가는 배 시간표 최신 정보!",
-          "link": "https://lefthusband.tistory.com/802",
-          "blogger": "fgwaff",
-          "date": "2026-10-11"
+          "title": "하나은행 프리미엄 직장인론: 공무원을 위한 신용대출의 새로운 길",
+          "link": "https://hof0323.tistory.com/372",
+          "blogger": "hof0323",
+          "date": "2025-01-28"
         },
         {
-          "title": "2025년 초보자를 위한 시골한달살기 7가지 팁",
-          "link": "https://dwqn.tistory.com/69",
-          "blogger": "여행 가용",
-          "date": "2026-10-11"
+          "title": "하나은행 마이너스통장 개설: 대출 한도와 금리 확인하기",
+          "link": "https://changdoc.tistory.com/201",
+          "blogger": "changdoc",
+          "date": "2024-11-27"
         },
         {
-          "title": "2025년 초보자를 위한 일본 겨울 료칸 5곳 추천",
-          "link": "https://kyla104.tistory.com/176",
-          "blogger": "일본 여행",
-          "date": "2026-10-11"
+          "title": "하나은행 청년 월세대출 자격, 금리 및 한도 총정리",
+          "link": "https://hyunina.tistory.com/690",
+          "blogger": "혀니라여의 세상이야기",
+          "date": "2020-10-12"
         },
         {
-          "title": "양산 취업 성공의 지름길, 알짜배기 구인구직 정보!",
-          "link": "https://sibauchi.tistory.com/730",
-          "blogger": "Falconer's Teatime :: 이제는 말하고 말겠다-라멘토 비평",
-          "date": "2026-10-11"
+          "title": "하나은행 아파트 담보대출 자격, 금리 및 한도 총정리",
+          "link": "https://hyunina.tistory.com/650",
+          "blogger": "혀니라여의 세상이야기",
+          "date": "2020-08-22"
         }
       ],
       "topNews": [
         {
-          "title": "10월 맞나 싶은 늦더위…오늘 오후 ‘이곳’ 갑자기 비 온다",
-          "link": "https://www.wikitree.co.kr/articles/1165369",
+          "title": "하나은행, 자녀 올바른 성장·금융 습관 위한 '자녀교육신탁' 출시",
+          "link": "http://www.queen.co.kr/news/articleView.html?idxno=464498",
           "press": "",
-          "date": "2026-10-11"
+          "date": "2026-10-12"
         },
         {
-          "title": "[오늘의 날씨 및 내일날씨]29호 태풍 고구마 경로,오늘 밤~내일 전국 가...",
-          "link": "http://www.economytalk.kr/news/articleView.html?idxno=424575",
+          "title": "하나은행, 글로벌파이낸스 선정 2026 베스트 서브커스터디언 영예",
+          "link": "https://www.pointe.co.kr/news/articleView.html?idxno=85900",
           "press": "",
-          "date": "2026-10-11"
+          "date": "2026-10-12"
         },
         {
-          "title": "[날씨] 오늘도 한낮 늦더위…오후부터 내륙 소나기",
-          "link": "http://www.yonhapnewstv.co.kr/news/MYH20261012070119Ti8",
+          "title": "하나은행, 자녀 성장 돕는 '자녀교육신탁' 출시…목표 달성 시 금액 지...",
+          "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=302377",
           "press": "",
-          "date": "2026-10-11"
+          "date": "2026-10-12"
         },
         {
-          "title": "[오늘날씨] 오후 중부 내륙 소나기…낮 최고 29도로 올라 늦더위",
-          "link": "https://www.jasm.co.kr/news/articleView.html?idxno=321052",
+          "title": "'울산전 승리 주역' 바 루아 \"이제 적응…앞으로 더 잘 풀릴 것\"",
+          "link": "https://www.ikbc.co.kr/article/view/kbc202610120019",
           "press": "",
-          "date": "2026-10-11"
-        },
-        {
-          "title": "[오늘 날씨] 대구·경북 구름 많고 내륙 소나기…낮 최고 28도",
-          "link": "https://www.kbsm.net/news/view.php?idx=537124",
-          "press": "",
-          "date": "2026-10-11"
+          "date": "2026-10-12"
         }
       ],
       "rank": 7
     },
     {
-      "keyword": "부산날씨",
-      "traffic": "100+",
-      "blogTotal": 4361315,
-      "newsTotal": 534848,
-      "recentToday": 0,
+      "keyword": "부산은행",
+      "traffic": "200+",
+      "blogTotal": 1550194,
+      "newsTotal": 377717,
+      "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "2024년 5월 13일 발표/부산 어제 날씨",
-          "link": "https://bosshippy.tistory.com/490",
-          "blogger": "행복인",
-          "date": "2024-05-14"
+          "title": "부산은행 고금리 대환 대출 자격조건 금리 한도",
+          "link": "https://kamsworld2.tistory.com/250",
+          "blogger": "테크테크재테크",
+          "date": "2021-06-09"
         },
         {
-          "title": "2024년 5월 2일 현재/부산 어제 날씨",
-          "link": "https://bosshippy.tistory.com/470",
-          "blogger": "행복인",
-          "date": "2024-05-02"
+          "title": "[중단] 부산은행 포인트 적금 해지 후기 (feat. 엘포인트 현금화)",
+          "link": "https://allthedata.tistory.com/78",
+          "blogger": "나혼자 재테크",
+          "date": "2020-02-29"
         },
         {
-          "title": "2024년 5월 14일 현재/부산 어제 날씨",
-          "link": "https://bosshippy.tistory.com/492",
-          "blogger": "행복인",
-          "date": "2024-05-14"
+          "title": "[공모전] 부산은행 썸패스 QR결제 대학생 UCC 공모전",
+          "link": "https://urain-edu.tistory.com/966",
+          "blogger": "유레인에듀(논문ppt작성,제작/논문발표자료작성,대행/논문포스터작성,제작/논문교정/논문컨설팅/포트폴리오작성,제작/에듀팟관리/공모전컨설팅)",
+          "date": "2019-01-07"
         },
         {
-          "title": "무더운 날씨 부산 여행 후기",
-          "link": "https://blog.naver.com/happyfang-/223552157079",
-          "blogger": "해피팡이랑 떠나는 여행",
-          "date": "2024-08-18"
+          "title": "[공모전] 부산은행 썸패스 QR결제 대학생 UCC 공모전",
+          "link": "https://urain-edu.tistory.com/964",
+          "blogger": "유레인에듀(논문ppt작성,제작/논문발표자료작성,대행/논문포스터작성,제작/논문교정/논문컨설팅/포트폴리오작성,제작/에듀팟관리/공모전컨설팅)",
+          "date": "2019-01-03"
         },
         {
-          "title": "부산 흰여울문화마을 챗gpt가 추천한 이유",
-          "link": "https://blog.naver.com/sasaae/223914489598",
-          "blogger": "최고와 최선의 미학...",
-          "date": "2025-06-28"
+          "title": "JB우리캐피탈 중고차 자동차리스와 BNK부산은행 중고차 오토론",
+          "link": "https://dltnsdud60.tistory.com/763",
+          "blogger": "세잎클로버",
+          "date": "2025-01-08"
         }
       ],
       "topNews": [
         {
-          "title": "10월 맞나 싶은 늦더위…오늘 오후 ‘이곳’ 갑자기 비 온다",
-          "link": "https://www.wikitree.co.kr/articles/1165369",
+          "title": "\"가까우니 손잡기 쉽다\"…부산 문현금융단지 '집적의 힘' 재조명",
+          "link": "https://www.nocutnews.co.kr/news/6589740?utm_source=naver&utm_medium=article&utm_campaign=20261012103021",
           "press": "",
-          "date": "2026-10-11"
+          "date": "2026-10-12"
         },
         {
-          "title": "[오늘의 날씨 및 내일날씨]29호 태풍 고구마 경로,오늘 밤~내일 전국 가...",
-          "link": "http://www.economytalk.kr/news/articleView.html?idxno=424575",
+          "title": "해킹에 뚫린 금융권…전산장애 상위 20개사 보안예산 집행률 고작 69.6%",
+          "link": "http://www.intn.co.kr/news/articleView.html?idxno=2053932",
           "press": "",
-          "date": "2026-10-11"
+          "date": "2026-10-12"
         },
         {
-          "title": "[날씨]'다시 여름' 낮 최고기온 29도…오후 곳곳 소나기",
-          "link": "https://view.asiae.co.kr/article/2026101207032504485",
+          "title": "[부산 브리핑 모음(10월12일)] 부산항만공사(BPA), 유럽 진출 기업 돕는...",
+          "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610101009228480991",
           "press": "",
-          "date": "2026-10-11"
+          "date": "2026-10-12"
         },
         {
-          "title": "[날씨] 오늘도 한낮 늦더위…오후부터 내륙 소나기",
-          "link": "http://www.yonhapnewstv.co.kr/news/MYH20261012070119Ti8",
+          "title": "정부 주문은 늘고 은행 셈법은 제각각…차기 은행연합회장 ‘조정력’...",
+          "link": "https://economist.co.kr/article/view/ecn202610070069",
           "press": "",
-          "date": "2026-10-11"
+          "date": "2026-10-12"
         },
         {
-          "title": "[날씨] 계절 감각 잊은 늦더위...오후 내륙 곳곳에 소나기",
-          "link": "https://www.delighti.co.kr/news/articleView.html?idxno=123073",
+          "title": "“속수무책 해킹에 예산 삭감까지”..주요 은행 정보보호 투자 ‘빨간불...",
+          "link": "http://www.breaknews.com/1242141",
           "press": "",
-          "date": "2026-10-11"
+          "date": "2026-10-12"
         }
       ],
       "rank": 8
     },
     {
-      "keyword": "인천광역시",
-      "traffic": "100+",
-      "blogTotal": 7026628,
-      "newsTotal": 525255,
-      "recentToday": 0,
+      "keyword": "국민신문고",
+      "traffic": "200+",
+      "blogTotal": 143165,
+      "newsTotal": 99246,
+      "recentToday": 34,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "인천광역시 어린이집 관리시스템 (https://aincheon.co.kr)",
-          "link": "https://iwantajob.tistory.com/171",
-          "blogger": "아이워너잡",
-          "date": "2022-08-12"
+          "title": "국민콜110(정부민원안내) :: 110콜센터 이동신문고와 함께 충청남도(....",
+          "link": "https://110callcenter.tistory.com/1929",
+          "blogger": "국민콜110(정부민원안내) :: 국민콜110(정부민원안내)",
+          "date": "2013-01-29"
         },
         {
-          "title": "인천광역시 8급ㆍ9급공무원시험 합격선 및 통계(2015년)",
-          "link": "https://sweetyun.tistory.com/146",
-          "blogger": "달콤양의 이야기",
-          "date": "2015-12-13"
+          "title": "국민콜110(정부민원안내) :: 선거관리위원회 부패행위 등 집중신고 ....",
+          "link": "https://110callcenter.tistory.com/4903",
+          "blogger": "국민콜110(정부민원안내) :: 국민콜110(정부민원안내)",
+          "date": "2023-06-29"
         },
         {
-          "title": "인천광역시교육청 산업안전보건교육 (http://ice.esosc.co.kr)",
-          "link": "https://osakabigchoi.tistory.com/219",
-          "blogger": "오사카사거리에서",
-          "date": "2023-05-17"
+          "title": "국민콜110(정부민원안내) :: 땅꺼짐 미리 알 수 있다?! 국민권익위원....",
+          "link": "https://110callcenter.tistory.com/514631",
+          "blogger": "국민콜110(정부민원안내) :: 국민콜110(정부민원안내)",
+          "date": "2025-05-21"
         },
         {
-          "title": "설비내화채움-인천광역시 서구 가좌동-기숙사4",
-          "link": "https://hunger.tistory.com/1156",
-          "blogger": "파이어스탑 FIRE-STOP",
-          "date": "2023-02-20"
+          "title": "국민콜110(정부민원안내) :: 31조 4,035억 원 규모 '통합재정안정화기금....",
+          "link": "https://110callcenter.tistory.com/5006",
+          "blogger": "국민콜110(정부민원안내) :: 국민콜110(정부민원안내)",
+          "date": "2023-11-17"
         },
         {
-          "title": "[인천광역시] 국화축제를 준비중인 드림파크.",
-          "link": "https://fisher0099.tistory.com/1116",
-          "blogger": "사진과화폐이야기",
-          "date": "2024-09-29"
+          "title": "국민콜110(정부민원안내) :: 장애인 전용 주차 관련 국민 불편을 개선....",
+          "link": "https://110callcenter.tistory.com/4985",
+          "blogger": "국민콜110(정부민원안내) :: 국민콜110(정부민원안내)",
+          "date": "2023-10-19"
         }
       ],
       "topNews": [
         {
-          "title": "허정한, 2026 경남고성군수배 전국당구대회 우승...올 시즌 4관왕 달성",
-          "link": "https://www.sportsworldi.com/newsView/20261011515400",
+          "title": "\"페라리 타면서 주차비는 없나?\"…도로 '길막'한 주차에 '부글' [포크뉴...",
+          "link": "http://www.mbn.co.kr/pages/vod/programContents.php?progCode=683&menuCode=4385&bcastSeqNo=1430977",
           "press": "",
-          "date": "2026-10-11"
+          "date": "2026-10-12"
         },
         {
-          "title": "인천시, 시민의 날 기념 '인천시민 대축제' 열고 새 슬로건 공개",
-          "link": "https://www.m-i.kr/news/articleView.html?idxno=2004441",
+          "title": "[단독]HD현대삼호, 30년 불법주정차 도로 점용…“영암군은 뭘 했나”[탐...",
+          "link": "https://www.thepowernews.co.kr/view.php?ud=202610120812132312caa2b7671d_7",
           "press": "",
-          "date": "2026-10-11"
+          "date": "2026-10-12"
         },
         {
-          "title": "인천시, 인천시민의 날 행사에서 '시민 시장실' 체험 부스 운영",
-          "link": "https://www.m-i.kr/news/articleView.html?idxno=2004440",
+          "title": "한전 \"임대의 없으면 수백만 원 보증\"…청년주택 '비상'",
+          "link": "https://www.hapt.co.kr/news/articleView.html?idxno=169702",
           "press": "",
-          "date": "2026-10-11"
+          "date": "2026-10-12"
         },
         {
-          "title": "인천시, '2026년 인천 정비사업 시민 아카데미' 32시간 운영",
-          "link": "https://www.m-i.kr/news/articleView.html?idxno=2004438",
+          "title": "백화점 앞 '남다른 주차 상식'…'페라리 민폐' 논란",
+          "link": "http://www.yonhapnewstv.co.kr/news/AKR20261012090941lHy",
           "press": "",
-          "date": "2026-10-11"
+          "date": "2026-10-12"
         },
         {
-          "title": "인천시, '제물포 체류형 역사·문화 거점 기반 조성 사업계획' 추진",
-          "link": "https://www.m-i.kr/news/articleView.html?idxno=2004439",
+          "title": "서산시·국민권익위원회, 달리는 국민신문고 운영",
+          "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=913919",
           "press": "",
           "date": "2026-10-11"
         }
@@ -629,74 +654,74 @@
       "rank": 9
     },
     {
-      "keyword": "김민재",
-      "traffic": "500+",
-      "blogTotal": 267378,
-      "newsTotal": 303580,
-      "recentToday": 0,
+      "keyword": "김다예",
+      "traffic": "100+",
+      "blogTotal": 20730,
+      "newsTotal": 17423,
+      "recentToday": 9,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "도시경찰 KCSI 3회 줄거리 재방송시간 편성표 천정명 조재윤 김민재 ....",
-          "link": "https://yummy1225.tistory.com/225",
-          "blogger": "맛있는 정보",
-          "date": "2019-08-12"
+          "title": "네이버 랭킹뉴스 (2023년 01월 03일 화요일) :: one lesson per day",
+          "link": "https://mooskim.com/303",
+          "blogger": "one lesson per day :: one lesson per day",
+          "date": "2023-01-03"
         },
         {
-          "title": "김민재 손흥민 인스타 언팔.jpg",
-          "link": "https://thesummary.tistory.com/307",
-          "blogger": "내가 정리해 줄게",
-          "date": "2023-03-29"
+          "title": "87~90년생 한국 여배우 (30명)",
+          "link": "https://tiraminsu.tistory.com/340",
+          "blogger": "나의 덕덕한 공간",
+          "date": "2021-02-22"
         },
         {
-          "title": "김민재 말에 바로 공감하는 박지성",
-          "link": "https://hunter486.tistory.com/1520",
-          "blogger": "하이엔드UP",
-          "date": "2024-02-19"
+          "title": "세이엔터 - 23.08.20",
+          "link": "https://goodgogo.tistory.com/7245",
+          "blogger": "끄적끄적",
+          "date": "2023-08-20"
         },
         {
-          "title": "김민재X박규영 움짤 GIF",
-          "link": "https://zero-gif.tistory.com/127",
-          "blogger": "제로",
-          "date": "2021-08-17"
+          "title": "[2020.07.10] 영화 불량한가족 무대인사 #2 - 박초롱(Park Cho-rong, Apink, 에....",
+          "link": "https://bban-photo.tistory.com/1297",
+          "blogger": "뺀's Photo",
+          "date": "2020-07-11"
         },
         {
-          "title": "[추니치] 경기후 유니폼을 교환한 김민재와 정성룡",
-          "link": "https://bsj2055.tistory.com/4306",
-          "blogger": "축구하는 블로그",
-          "date": "2023-07-30"
+          "title": "네이버 랭킹뉴스 (2023년 10월 13일 금요일) :: one lesson per day",
+          "link": "https://mooskim.com/542",
+          "blogger": "one lesson per day :: one lesson per day",
+          "date": "2023-10-13"
         }
       ],
       "topNews": [
         {
-          "title": "[오늘의 주요일정·12일] 디지털성범죄 대응 국내외 플랫폼 간담회",
-          "link": "https://www.safetimes.co.kr/news/articleView.html?idxno=246367",
+          "title": "'박수홍♥' 김다예, 39kg 뺐는데 다시 '두둑'…달라진 얼굴 공개",
+          "link": "https://www.xportsnews.com/article/2204356",
           "press": "",
           "date": "2026-10-11"
         },
         {
-          "title": "A대표팀 다녀온 구성윤 \"좋지만은 않은 것 같다…중재할 사람 필요할 것...",
-          "link": "https://www.sportschosun.com/football/2026-10-11/202610110100071580004634",
+          "title": "'날아올라라 나비' 문태유, 의문의 남성에게 습격당했다! 미용실에 무슨...",
+          "link": "https://news.jtbc.co.kr/article/NB12322364?influxDiv=NAVER",
           "press": "",
           "date": "2026-10-11"
         },
         {
-          "title": "그럴 거면 차라리 은퇴해라? 바이에른 뮌헨 주전급 수비수 정말 필요 없...",
-          "link": "https://www.sportsseoul.com/news/read/1640656?ref=naver",
+          "title": "‘40kg 감량’ 김다예, 90kg 시절 공개하며 마음 다잡았다‥“몸도 피부...",
+          "link": "https://www.newsen.com/news_view.php?uid=202610110826086710",
           "press": "",
           "date": "2026-10-11"
         },
         {
-          "title": "\"은퇴 안 하냐?\" 김민재·황인범, 소속팀 SNS까지 비난 폭탄...'96라인 은...",
-          "link": "http://www.osen.co.kr/article/G1112891431",
+          "title": "김인석, 2년간 모두에게 숨긴 이혼...\"내 동생 꽃길만\" 박준형 뭉클한 위...",
+          "link": "https://www.sportschosun.com/entertainment/2026-10-10/202610100100065490004238",
           "press": "",
-          "date": "2026-10-11"
+          "date": "2026-10-10"
         },
         {
-          "title": "황희찬, 은퇴 논란 뒤 첫 경기서 경고",
-          "link": "https://www.bntnews.co.kr/article/view/bnt202610120005",
+          "title": "'박수홍♥' 김다예, 90㎏ 시절 공개…확 달라진 청순 미모 [N샷]",
+          "link": "https://www.news1.kr/entertain/celebrity-topic/6315681",
           "press": "",
-          "date": "2026-10-11"
+          "date": "2026-10-10"
         }
       ],
       "rank": 10
