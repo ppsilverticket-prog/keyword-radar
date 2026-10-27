@@ -1,584 +1,50 @@
 {
-  "updatedAt": "2026-10-27T20:25:13.013Z",
+  "updatedAt": "2026-10-27T23:54:28.488Z",
   "source": "live",
   "keywords": [
     {
-      "keyword": "청송군",
+      "keyword": "허문회",
       "traffic": "100+",
-      "blogTotal": 343029,
-      "newsTotal": 123431,
-      "recentToday": 54,
+      "blogTotal": 4250,
+      "newsTotal": 11198,
+      "recentToday": 24,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "2026 청송군 고향사랑기부금 특별이벤트",
-          "link": "https://blog.naver.com/gocheongsong/224454358145",
-          "blogger": "산소카페 청송군",
+          "title": "대충격! 롯데의 파격 행보 아직 안 끝났다! 수석코치로 허문회 전 감....",
+          "link": "https://blog.naver.com/ckablog/224454985725",
+          "blogger": "참블록 스포츠로그",
           "date": "2026-10-27"
         },
         {
-          "title": "청송군흥신소 일호탐정 상속과정에서 누락된 토지와 산림재산이 의....",
-          "link": "https://blog.naver.com/jvdjsdmxj2y/224444227350",
-          "blogger": "탐정법인일호 2팀",
-          "date": "2026-10-19"
-        },
-        {
-          "title": "가을에 걷기 좋은 청송 주왕산 트래킹 코스 용추 폭포",
-          "link": "https://blog.naver.com/gyeongbuk_official/224448720454",
-          "blogger": "경상북도 공식블로그",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "[경북 청송군] 주왕산 맛집 주왕산청솔식당, 다양한 나물과 사과김....",
-          "link": "https://blog.naver.com/taste700/224432001240",
-          "blogger": "직접 방문하고 경험한 기록",
-          "date": "2026-10-27"
-        },
-        {
-          "title": "2026 청송군 민생회복지원금 하반기 월 20만 원 받을까?, 농어촌 기본....",
-          "link": "https://blog.naver.com/1100578/224399324031",
-          "blogger": "세상사는 이야기",
-          "date": "2026-09-03"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "청송황금사과, 서울 직판 공략…수도권 소비자 입맛 잡는다",
-          "link": "https://www.ajunews.com/view/20261028015945611",
-          "press": "",
-          "date": "2026-10-27"
-        },
-        {
-          "title": "청송황금사과, 서울 소비자 만난다…동대문·양재서 직판 행사",
-          "link": "https://www.edaily.co.kr/News/Read?newsId=01108646645617512&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-          "press": "",
-          "date": "2026-10-27"
-        },
-        {
-          "title": "경북 군지역 폐건전지 수거 격차 뚜렷…칠곡 10.8t ‘최다’",
-          "link": "https://www.ksmnews.co.kr/news/view.php?idx=627340",
-          "press": "",
-          "date": "2026-10-27"
-        },
-        {
-          "title": "영양군, 교정시설 유치 결의대회..경북 북부 유치 경쟁",
-          "link": "http://andongmbc.co.kr/adboard/NewsView85473",
-          "press": "",
-          "date": "2026-10-27"
-        },
-        {
-          "title": "청송군, ‘청송황금사과’ 서울 직판으로 수도권 판로 확대",
-          "link": "https://tk.newdaily.co.kr/site/data/html/2026/10/27/2026102700394.html",
-          "press": "",
-          "date": "2026-10-27"
-        }
-      ],
-      "rank": 1
-    },
-    {
-      "keyword": "pba 팀리그",
-      "traffic": "500+",
-      "blogTotal": 14162,
-      "newsTotal": 19929,
-      "recentToday": 36,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "PBA팀리그 26-27 4라운드 일정 경기규칙 팀순위 총정리, 하나카드 종합....",
-          "link": "https://blog.naver.com/syspapa/224455358033",
-          "blogger": "풀꽃처럼",
-          "date": "2026-10-27"
-        },
-        {
-          "title": "2026-2027 PBA 팀리그 3라운드 총정리 — 하나카드 우승, 김가영 MVP·퍼....",
-          "link": "https://blog.naver.com/alps4807-/224416687972",
-          "blogger": "자연과 건강을 위하여",
-          "date": "2026-09-19"
-        },
-        {
-          "title": "PBA 팀리그가 뭐길래 이렇게 재미있을까? 프로당구를 처음 보는 사람....",
-          "link": "https://blog.naver.com/challengehope414/224407096526",
-          "blogger": "오늘을 읽다",
-          "date": "2026-09-10"
-        },
-        {
-          "title": "PBA 팀리그 선수명단·연봉·일정 총정리｜2026-2027 참가팀·중계·우승....",
-          "link": "https://blog.naver.com/onsumway/224342612385",
-          "blogger": "온숨 | 부동산·경매·주식.생활정보를 기록하는 공간",
-          "date": "2026-07-10"
-        },
-        {
-          "title": "PBA 팀리그 2라운드, 화성서 9일간 당구 열전 개막",
-          "link": "https://blog.naver.com/wing2722/224377077242",
-          "blogger": "테크모터스 노트",
-          "date": "2026-08-13"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "웰컴저축은행, T.응우옌·강유진 영입…PBA 팀리그 후반기 반등 노린다",
-          "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=93887",
-          "press": "",
-          "date": "2026-10-27"
-        },
-        {
-          "title": "PBA 팀리그 웰컴저축은행, T.응우옌·강유진 추가 영입…후반기 순위 도...",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008817418&plink=ORI&cooper=NAVER",
-          "press": "",
-          "date": "2026-10-27"
-        },
-        {
-          "title": "PBA 팀리그 웰컴저축은행, T.응우옌·강유진 영입…후반기 반등 노린다",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16259500",
-          "press": "",
-          "date": "2026-10-27"
-        },
-        {
-          "title": "PBA 팀리그 웰컴저축은행, T.응우옌·강유진 추가 영입",
-          "link": "https://www.yna.co.kr/view/AKR20261027150800007?input=1195m",
-          "press": "",
-          "date": "2026-10-27"
-        },
-        {
-          "title": "PBA 팀리그 '전통의 강호' 웰컴저축은행,T.응우옌-강유진 '추가 선발'로...",
-          "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553649019",
-          "press": "",
-          "date": "2026-10-27"
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "keyword": "리그컵",
-      "traffic": "200+",
-      "blogTotal": 1157302,
-      "newsTotal": 65388,
-      "recentToday": 21,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "[26.10.29 리그컵 맨시티 vs 브라이턴] 압박 탈출의 연결, 8강행을 열까",
-          "link": "https://blog.naver.com/sportvayu/224455133969",
-          "blogger": "바요의 스포츠 데이터룸",
-          "date": "2026-10-27"
-        },
-        {
-          "title": "플릿우드 타운 vs 아스날 경기 분석｜잉글랜드 리그컵 16강 예상 라....",
-          "link": "https://blog.naver.com/seed3033/224455927228",
-          "blogger": "생활정보꿀팁맨",
-          "date": "2026-10-27"
-        },
-        {
-          "title": "FC서울 역대 우승 기록 총정리｜K리그 6회 우승과 FA컵·리그컵 역사",
-          "link": "https://blog.naver.com/curiosity4050/224452600711",
-          "blogger": "잡스러운 호기심 노트",
-          "date": "2026-10-24"
-        },
-        {
-          "title": "리버풀 첼시 리그컵 맞대결, 안필드 밤에 8강행이 갈린다",
-          "link": "https://blog.naver.com/nomobo3/224455827565",
-          "blogger": "테크플로우",
-          "date": "2026-10-27"
-        },
-        {
-          "title": "FC 모바일 패밀리 컵 참가 방법 총정리, 아이와 함께 K리그 시상식 갈....",
-          "link": "https://blog.naver.com/news33net/224449234892",
-          "blogger": "창업일보",
-          "date": "2026-10-21"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "‘캐릭 경질’ 임박한 맨유, 차기 사령탑은 누구?…하우·나겔스만 ‘2파...",
-          "link": "https://sports.khan.co.kr/article/202610271448003?pt=nv",
-          "press": "",
-          "date": "2026-10-27"
-        },
-        {
-          "title": "모레노호 11월 명단 발표 앞두고 희소식! '어깨 부상' 옌스, 3개월 만에...",
-          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=697243",
-          "press": "",
-          "date": "2026-10-27"
-        },
-        {
-          "title": "캐릭, 훈련장서 거취 논의 후 떠났다...후임 후보 나겔스만·하우 급부상...",
-          "link": "http://www.osen.co.kr/article/G1112898915",
-          "press": "",
-          "date": "2026-10-27"
-        },
-        {
-          "title": "“토트넘 없었다면 지금의 나도 없다” 케인, 발롱도르 품고 친정팀 잊...",
-          "link": "https://mhnse.com/news/articleView.html?idxno=1627471",
-          "press": "",
-          "date": "2026-10-27"
-        },
-        {
-          "title": "'드디어 무관의 제왕 꼬리표 완전히 뗐다!' 손흥민 옛 동료 케인, 생애 ...",
-          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1015582",
-          "press": "",
-          "date": "2026-10-26"
-        }
-      ],
-      "rank": 3
-    },
-    {
-      "keyword": "카를로스 알카라스",
-      "traffic": "2000+",
-      "blogTotal": 11857,
-      "newsTotal": 11015,
-      "recentToday": 10,
-      "recentWeek": 49,
-      "topBlogs": [
-        {
-          "title": "카를로스 알카라스 프로필! 23세에 그랜드슬램 7승, 여자친구는 누구....",
-          "link": "https://blog.naver.com/forestnana/224403251150",
-          "blogger": "THE NANA ISSUE",
-          "date": "2026-09-07"
-        },
-        {
-          "title": "카를로스 알카라스 프로필 나이 국적 코치, 손목 부상 뒤 도쿄 2연패....",
-          "link": "https://blog.naver.com/sulsol033/224454061349",
-          "blogger": "스타 이야기",
-          "date": "2026-10-28"
-        },
-        {
-          "title": "\"저는 경기가 필요합니다. 대회가 필요하고, 제 최고 레벨을 되찾기 ....",
-          "link": "https://blog.naver.com/lifelog_calvin/224454970801",
-          "blogger": "테친캘",
-          "date": "2026-10-27"
-        },
-        {
-          "title": "[테니스 이슈] 4개월 공백 깨고 돌아온 '테니스 신동' 카를로스 알카....",
-          "link": "https://blog.naver.com/happippy/224400664238",
-          "blogger": "happy purple",
-          "date": "2026-09-04"
-        },
-        {
-          "title": "카를로스 알카라스 유두 노출 무슨 일? US오픈 경기복 바꾼 이유",
-          "link": "https://blog.naver.com/sports_master/224410026820",
-          "blogger": "sports_master",
-          "date": "2026-09-13"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "알카라스·즈베레프·코볼리 총출동…한국 테니스, 볼로냐에서 세계를 ...",
-          "link": "http://www.tennispeople.kr/news/articleView.html?idxno=19744",
-          "press": "",
-          "date": "2026-10-27"
-        },
-        {
-          "title": "야닉 시너, 코치 바꾸나…12월 '바브링카의 코치' 마그누스 노르만 영입...",
-          "link": "https://www.tennis.co.kr/news/articleView.html?idxno=54136",
-          "press": "",
-          "date": "2026-10-27"
-        },
-        {
-          "title": "야닉 시너, 시즌 종료 선언 뒤 복귀 결정⋯12월 '식스 킹스 슬램' 출전",
-          "link": "https://www.etoday.co.kr/news/view/2640421",
-          "press": "",
-          "date": "2026-10-27"
-        },
-        {
-          "title": "[김종석의 그라운드] 시너는 사우디로, 한국은 볼로냐로…데이비스컵 8...",
-          "link": "https://www.tennis.co.kr/news/articleView.html?idxno=54134",
-          "press": "",
+          "title": "\"대박 속보 떴습니다\" 롯데 허문회 전 감독 수석코치 복귀 임박! 팬....",
+          "link": "https://blog.naver.com/sjhw118/224453547214",
+          "blogger": "축잘알을 향하여",
           "date": "2026-10-26"
         },
         {
-          "title": "마른 선수와 중량감 있는 선수, 누가 테니스를 잘할까",
-          "link": "http://www.tennispeople.kr/news/articleView.html?idxno=19739",
-          "press": "",
-          "date": "2026-10-26"
-        }
-      ],
-      "rank": 4
-    },
-    {
-      "keyword": "반도체",
-      "traffic": "2000+",
-      "blogTotal": 6335666,
-      "newsTotal": 3893250,
-      "recentToday": 0,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "광주 반도체 클러스터 공장 부지 군공항 무산 가능성 미군 580억 시....",
-          "link": "https://blog.naver.com/dstarline/224449946637",
-          "blogger": "비버의건강학개론",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "반도체 고점론, 박현주 \"틀릴 가능성 크다\" 반도체 ETF 전망은?",
-          "link": "https://blog.naver.com/pyh8080/224455859412",
-          "blogger": "언니픽스(Unni Picks)",
-          "date": "2026-10-27"
-        },
-        {
-          "title": "소캠 반도체 약세 속 코리아써키트만 급등한 이유, 저도 궁금해서 ....",
-          "link": "https://blog.naver.com/stockinsight7/224448949377",
-          "blogger": "월급쟁이 배당주 적립 일지",
-          "date": "2026-10-21"
-        },
-        {
-          "title": "반도체 팹리스 뜻, 파운드리와 IDM 차이 쉽게 이해하기",
-          "link": "https://blog.naver.com/dean4001/224420097477",
-          "blogger": "고양이집사 리샤's 포스트 IT",
-          "date": "2026-09-22"
-        },
-        {
-          "title": "한미반도체 주가 26만원 '현시점 최고의 기회'라는 소름돋는 이유",
-          "link": "https://blog.naver.com/jaso_/224436032020",
-          "blogger": "돈뚜기의 경제이야기",
-          "date": "2026-10-09"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "[뉴욕증시] 반도체 상승·유가 하락 속 오름세 지속…'속슬' 11.7% 폭등",
-          "link": "https://www.fnnews.com/news/202610280521286763",
-          "press": "",
-          "date": "2026-10-27"
-        },
-        {
-          "title": "'83조 주선' 브로드컴 4%↑…기술주 투자 열기 '나스닥' 웃었다",
-          "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610280003&t=NN",
-          "press": "",
-          "date": "2026-10-27"
-        },
-        {
-          "title": "[속보]뉴욕 3대 지수, 반도체 강세에 상승 마감",
-          "link": "https://view.asiae.co.kr/article/2026102805214620175",
-          "press": "",
-          "date": "2026-10-27"
-        },
-        {
-          "title": "[칼럼] CPTPP 테이블에 앉지 않으면?…한미FTA의 기억",
-          "link": "https://www.nocutnews.co.kr/news/6597976?utm_source=naver&utm_medium=article&utm_campaign=20261028052030",
-          "press": "",
-          "date": "2026-10-27"
-        },
-        {
-          "title": "[美증시 특징주] 커넥티비티 아스테라·크레도 '활활'…AI인프라 투자확...",
-          "link": "https://www.mediapen.com/news/view/1133010",
-          "press": "",
-          "date": "2026-10-27"
-        }
-      ],
-      "rank": 5
-    },
-    {
-      "keyword": "소넨호프 대 아우크스부르크",
-      "traffic": "100+",
-      "blogTotal": 0,
-      "newsTotal": 0,
-      "recentToday": 0,
-      "recentWeek": 0,
-      "topBlogs": [],
-      "topNews": [],
-      "rank": 6
-    },
-    {
-      "keyword": "s",
-      "traffic": "100+",
-      "blogTotal": 33391216,
-      "newsTotal": 3451105,
-      "recentToday": 0,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "2027 벤츠S클래스 신형 라인업 가격 제원 크기 연비 총정리",
-          "link": "https://blog.naver.com/travleap-rentalcar/224426940303",
-          "blogger": "트래블에이피",
-          "date": "2026-09-30"
-        },
-        {
-          "title": "2027 메르세데스 벤츠 신형 S클래스, 플래그쉽 기준? 제원, 가격, 포토",
-          "link": "https://blog.naver.com/divine_p/224388219442",
-          "blogger": "고도모토 GODO MOTO",
-          "date": "2026-08-24"
-        },
-        {
-          "title": "메르세데스-벤츠 S-클래스 (Mercedes-Benz S-Class, W223 7세대) 고화질 자동....",
-          "link": "https://blog.naver.com/imgfoodad/224423151880",
-          "blogger": "차량생활백서",
-          "date": "2026-09-26"
-        },
-        {
-          "title": "벤츠 S클래스 페이스리프트 가격과 제원, 50% 이상 달라진 변화는",
-          "link": "https://blog.naver.com/blchic/224423392242",
-          "blogger": "여름은 덥다",
-          "date": "2026-09-27"
-        },
-        {
-          "title": "\"2억2천 오너의 품격!\" 2027 메르세데스-벤츠 S클래스 포토 S500",
-          "link": "https://blog.naver.com/voramines/224453836797",
-          "blogger": "IT/Tech Car Living",
-          "date": "2026-10-26"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "공사비급등…수도권 택지지구 분양가 상승 이어진다",
-          "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610261012111180078",
-          "press": "",
-          "date": "2026-10-27"
-        },
-        {
-          "title": "Brown Brothers Harriman Forecasts 4.2% Inflation as eSafety Commissioner ...",
-          "link": "https://econotimes.com/Brown-Brothers-Harriman-Forecasts-4-2-Inflation-as-eSafety-Commissioner-Warns-on-Abuse-1764644",
-          "press": "",
-          "date": "2026-10-27"
-        },
-        {
-          "title": "EL SALVADOR ELECTIONS",
-          "link": "https://n.news.naver.com/mnews/article/091/0010352667?sid=104",
-          "press": "",
-          "date": "2026-10-27"
-        },
-        {
-          "title": "KLPGA 루키 김민솔, 타이틀 싹쓸이 정조준",
-          "link": "https://www.seoul.co.kr/news/sport/golf/2026/10/28/20261028035002?wlog_tag3=naver",
-          "press": "",
-          "date": "2026-10-27"
-        },
-        {
-          "title": "외부 행사만 의존했던 서울 마이스 산업… 자체 행사 IP 키워 체질 변화",
-          "link": "https://www.edaily.co.kr/News/Read?newsId=01653126645617512&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-          "press": "",
-          "date": "2026-10-27"
-        }
-      ],
-      "rank": 7
-    },
-    {
-      "keyword": "fomc",
-      "traffic": "100+",
-      "blogTotal": 671813,
-      "newsTotal": 478846,
-      "recentToday": 0,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "10월 FOMC 기준금리 동결 전망 파월 발언과 환율 증시 영향 총정리",
-          "link": "https://blog.naver.com/souhoho/224453499200",
-          "blogger": "이치타카짱 경제 연구소",
-          "date": "2026-10-26"
-        },
-        {
-          "title": "다음주 증시 빅 이벤트, 삼성전자&SK하이닉스 실적발표, FOMC는 언제?",
-          "link": "https://blog.naver.com/scorio/224452243538",
-          "blogger": "SCORIO | 스코리오 공식 블로그",
-          "date": "2026-10-24"
-        },
-        {
-          "title": "FOMC 발표 시간 새벽 3시, 10월 동결 뒤 12월 인상 신호는?",
-          "link": "https://blog.naver.com/wonderfulwitch/224452436946",
-          "blogger": "행복마녀 작업실",
-          "date": "2026-10-24"
-        },
-        {
-          "title": "[투자] 슈퍼 어닝위크, FOMC 앞두고 선물 반등... 유가 급등 및 빅테크 ....",
-          "link": "https://blog.naver.com/yuiuu-392/224453764273",
-          "blogger": "뱀로그",
-          "date": "2026-10-26"
-        },
-        {
-          "title": "이번주 10월 FOMC 금리 발표일 언제?",
-          "link": "https://blog.naver.com/kbro19/224452832651",
-          "blogger": "로이의 인사이트",
-          "date": "2026-10-26"
-        }
-      ],
-      "topNews": [
-        {
-          "title": "[뉴욕증시] 반도체 상승·유가 하락 속 오름세 지속…'속슬' 11.7% 폭등",
-          "link": "https://www.fnnews.com/news/202610280521286763",
-          "press": "",
-          "date": "2026-10-27"
-        },
-        {
-          "title": "'83조 주선' 브로드컴 4%↑…기술주 투자 열기 '나스닥' 웃었다",
-          "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610280003&t=NN",
-          "press": "",
-          "date": "2026-10-27"
-        },
-        {
-          "title": "美 국채금리 일제히 상승…연준 금리 동결 전망 속 연내 추가 인상 주목",
-          "link": "https://www.news1.kr/world/international-economy/6334050",
-          "press": "",
-          "date": "2026-10-27"
-        },
-        {
-          "title": "뉴욕증시, 연준 금리 결정 앞두고 상승 마감…나스닥 1.18%↑",
-          "link": "https://www.newspim.com/news/view/20261028000019",
-          "press": "",
-          "date": "2026-10-27"
-        },
-        {
-          "title": "[속보]앤스로픽發 AI 랠리 이틀째…나스닥 1.2% 상승",
-          "link": "https://www.edaily.co.kr/News/Read?newsId=01767926645617512&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-          "press": "",
-          "date": "2026-10-27"
-        }
-      ],
-      "rank": 8
-    },
-    {
-      "keyword": "홈런",
-      "traffic": "2000+",
-      "blogTotal": 1686412,
-      "newsTotal": 1955617,
-      "recentToday": 0,
-      "recentWeek": 100,
-      "topBlogs": [
-        {
-          "title": "\"이게 안 넘어가다니\" KIA 김도영 8회 담장 직격에도 웃은 이유는? 홈....",
-          "link": "https://blog.naver.com/rlfehdud/224454728520",
-          "blogger": "두 아들 아빠의 아마추어 선수 도전기",
-          "date": "2026-10-27"
-        },
-        {
-          "title": "KIA의 5-1 승리, 카스트로의 홈런보다 중요했던 1회의 두 장면",
-          "link": "https://blog.naver.com/alone36/224454705882",
-          "blogger": "내 삶의 최고의 날을 위해",
-          "date": "2026-10-26"
-        },
-        {
-          "title": "홈런볼스윗커스타드 맛 후기, 하나씩 먹다 보니 어느새 한 봉지 순....",
-          "link": "https://blog.naver.com/kyeong_won/224428419938",
-          "blogger": "하루하루를 즐기자^^",
-          "date": "2026-10-01"
-        },
-        {
-          "title": "“타격왕 VS 홈런왕” 김도영 구자욱 PO에서 리그 최고 가린다! 누가 ....",
-          "link": "https://blog.naver.com/borussenreus/224452877349",
-          "blogger": "레우스 스포츠",
+          "title": "김광삼·진종길 다음은 허문회?, 한화 팬들이 허문회를 떠올리는 이....",
+          "link": "https://blog.naver.com/munduksports/224453178397",
+          "blogger": "경기를 보다가 문득",
           "date": "2026-10-25"
         },
         {
-          "title": "네일 퇴장에 카스트로 홈런까지! KIA 플레이오프 1차전, 대구에서 무....",
-          "link": "https://blog.naver.com/boorumi29/224454673051",
-          "blogger": "부름이",
-          "date": "2026-10-26"
+          "title": "허문회, 내쫓은 롯데가 다시 손 내밀었다…5년 만에 뒤집힌 ‘경질 ....",
+          "link": "https://blog.naver.com/insightful69/224456170970",
+          "blogger": "돈센스의 진짜 인사이트",
+          "date": "2026-10-28"
+        },
+        {
+          "title": "롯데 자이언츠 허문회 코치 복귀, 5년 전 경질에서 수석 겸 타격코치....",
+          "link": "https://blog.naver.com/oops211/224456121482",
+          "blogger": "모이소",
+          "date": "2026-10-28"
         }
       ],
       "topNews": [
         {
-          "title": "[스타inPO] 수비 못한다 누가 그랬나…삼성 최형우, 홈런·타점·보살 원...",
-          "link": "https://www.newspim.com/news/view/20261027001501",
-          "press": "",
-          "date": "2026-10-27"
-        },
-        {
-          "title": "‘가을의 전설’ 최형우… 사자를 깨웠다",
-          "link": "https://www.seoul.co.kr/news/sport/baseball/2026/10/28/20261028034001?wlog_tag3=naver",
-          "press": "",
-          "date": "2026-10-27"
-        },
-        {
-          "title": "LAD 대충격! 대폭망 시즌 원인 나왔다 \"오타니와 구단의 판단 미스\"…같...",
-          "link": "https://www.sportschosun.com/baseball/2026-10-28/202610280100176450011692",
+          "title": "[SW포커스] 파격은 시작일 뿐… 이택근 단장이 증명해야 할 ‘전문성’",
+          "link": "https://www.sportsworldi.com/newsView/20261028500857",
           "press": "",
           "date": "2026-10-27"
         },
@@ -589,8 +55,604 @@
           "date": "2026-10-27"
         },
         {
-          "title": "디아즈·최형우 홈런...삼성, 2차전 승리",
-          "link": "https://www.ytn.co.kr/_ln/0107_202610280429084889",
+          "title": "'허문회 수석·조원우 수비' 감독급 코치만 2명→'20년 프로 마감' 김민...",
+          "link": "https://www.xportsnews.com/article/2212319",
+          "press": "",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "롯데 '허문회 어게인' 확정! → 나를 경질한 팀, 2인자로 위풍당당 입성",
+          "link": "https://www.sportschosun.com/baseball/2026-10-27/202610270100174120011525",
+          "press": "",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "[단독]이택근 롯데 신임 단장의 첫 승부수…허문회 전 감독 코치 영입·...",
+          "link": "https://www.munhwa.com/article/11626742?ref=naver",
+          "press": "",
+          "date": "2026-10-27"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "keyword": "창신 메모리 테크놀로지",
+      "traffic": "500+",
+      "blogTotal": 8888,
+      "newsTotal": 6886,
+      "recentToday": 20,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "창신 메모리 테크놀로지 주가 상장 주식 사는법",
+          "link": "https://blog.naver.com/ayeoli/224366322189",
+          "blogger": "경제공부하는 거북이",
+          "date": "2026-08-03"
+        },
+        {
+          "title": "창신메모리테크놀로지, 4F² 서버용 DDR5 RDIMM 계획의 의미",
+          "link": "https://blog.naver.com/promotionblog/224452781685",
+          "blogger": "세상의 모든 이야기",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "창신메모리테크놀로지 \"삼성·SK만 보면 놓친다\" 중국 D램 점유율 9.5%",
+          "link": "https://blog.naver.com/wedding_sss/224426938126",
+          "blogger": "제임스의 사회경제·투자 이야기",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "중국 창신메모리 테크놀로지 급성장의 그늘 | 한국 반도체 인력 유....",
+          "link": "https://blog.naver.com/5ton_wing/224433213084",
+          "blogger": "라스트 찬스",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "창신 메모리 테크놀로지(CXMT)는 어떤 회사? 삼성·SK하이닉스가 주목....",
+          "link": "https://blog.naver.com/gothevole/224425864842",
+          "blogger": "Life hacking",
+          "date": "2026-09-29"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "\"삼성전자, 메모리 10년 계약 시대 온다…기업가치 재평가 기대\"",
+          "link": "https://www.edaily.co.kr/News/Read?newsId=02948726645617512&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+          "press": "",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "KB증권 \"삼성전자, 10년 계약의 시대…밸류 재평가 기대\"",
+          "link": "https://www.jasm.co.kr/news/view/323189/?sc=Naver",
+          "press": "",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "[뉴스 저격] “中으로 몰리는 글로벌 자금… 로봇·전기차는 세계 최고...",
+          "link": "https://www.chosun.com/economy/money/2026/10/28/SECPATNDQFAPPKO57HBTIIOBVY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+          "press": "",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "잘나가던 반도체…치킨게임 2.0?",
+          "link": "https://www.mk.co.kr/article/12184131",
+          "press": "",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "美 AI는 돈 끌어모으고 中 AI주는 급락…삼성·하이닉스 ‘주문’에 쏠...",
+          "link": "https://www.edaily.co.kr/News/Read?newsId=05789206645617184&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+          "press": "",
+          "date": "2026-10-27"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "keyword": "공중강습",
+      "traffic": "100+",
+      "blogTotal": 21972,
+      "newsTotal": 9205,
+      "recentToday": 10,
+      "recentWeek": 70,
+      "topBlogs": [
+        {
+          "title": "주한미2사단 예하부대 시리즈 503공중강습보병",
+          "link": "https://blog.naver.com/dante6800/224429161194",
+          "blogger": "주한미군2사단카투사전우회",
+          "date": "2026-10-02"
+        },
+        {
+          "title": "육군 제2신속대응사단, 호국훈련서 공정·공중강습  헬기 12대 투입",
+          "link": "https://blog.naver.com/khj0751/224455583533",
+          "blogger": "해병대저널",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "보병보다 2배가 넘는 전사(KIA)율... [녹색 지옥 위, 한 배를 탄 전사들....",
+          "link": "https://blog.naver.com/sundin13/224450596626",
+          "blogger": "sundin의 HISTORY BASE",
+          "date": "2026-10-22"
+        },
+        {
+          "title": "미 육군(U. S. Army)의 공수보병(Airborne Infantry)과 공중강습보병(Air Assaul....",
+          "link": "https://blog.naver.com/panzer322/224377653492",
+          "blogger": "Panzer Vor ~!!",
+          "date": "2026-08-13"
+        },
+        {
+          "title": "\"마지막 자리였는데 붕 날아왔다\" 테슬라 로드스터에 네티즌이 떠올....",
+          "link": "https://blog.naver.com/car-binet/224447399862",
+          "blogger": "카비넷 (Car-binet) : 자동차 보물창고",
+          "date": "2026-10-20"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "“낙하산 타고 하늘에서 내려와 적 후방 단숨에 돌파”…육군 공정·공...",
+          "link": "https://www.munhwa.com/article/11626740?ref=naver",
+          "press": "",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "육군 2신속대응사단, 헬기 12대로 적 후방 침투…기계화부대 공격 길 연...",
+          "link": "https://www.newspim.com/news/view/20261027001516",
+          "press": "",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "육군 2신속대응사단, 양평서 공정·공중강습훈련 실시",
+          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3734518",
+          "press": "",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "\"DMZ 주도권\" 육군, 대화력전 이어 적지종심 작전",
+          "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1541871",
+          "press": "",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "[영상] 발 절반 잘린 병사 구하러 60km 비행…우크라군 '캡슐 드론' 작전...",
+          "link": "https://www.news1.kr/world/europe/6333842",
+          "press": "",
+          "date": "2026-10-27"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "keyword": "묀헨글라트바흐 대 카를스루에",
+      "traffic": "200+",
+      "blogTotal": 73,
+      "newsTotal": 16,
+      "recentToday": 2,
+      "recentWeek": 2,
+      "topBlogs": [
+        {
+          "title": "2026 일본 유럽파 축구선수 정리: 소속팀부터 한국 해외파와의 차이....",
+          "link": "https://blog.naver.com/gathandbosungsung/224446048579",
+          "blogger": "갯핸보숭",
+          "date": "2026-10-19"
+        },
+        {
+          "title": "오늘의 스포츠 총정리｜KBO·해외축구·NBA·MLB·농구·배구·골프·테....",
+          "link": "https://blog.naver.com/white_ailog/224455093597",
+          "blogger": "white 알로그",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "2026-27시즌 DFB포칼컵 32강 8경기 프리뷰 및 관전 포인트",
+          "link": "https://blog.naver.com/soccernews96/224455811784",
+          "blogger": "⚽ 종합 축구뉴스 | 축구 소식통",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "10월29일 묀헨글라트 대 카를스루에, 코트부스 대 라이프치히, 장크....",
+          "link": "https://blog.naver.com/rjswo200/224056083858",
+          "blogger": "스포츠분석도토리",
+          "date": "2025-10-28"
+        },
+        {
+          "title": "FM2026 CAM 공격형 미드필더 원더키드 추천 TOP 10 및 전체 명단",
+          "link": "https://blog.naver.com/jj_yong/224400965501",
+          "blogger": "온더볼",
+          "date": "2026-09-19"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "獨 1티어 매체 보도, '한국 최초 혼혈' 카스트로프 갑자기 날벼락, 일본...",
+          "link": "https://www.sportschosun.com/football/2026-05-21/202605210100126170008403",
+          "press": "",
+          "date": "2026-05-21"
+        },
+        {
+          "title": "3월 A매치가 흔든 최종 엔트리 구도...윙백은 '확정 분위기'서 '격전지'...",
+          "link": "https://www.sportschosun.com/football/2026-04-02/202604010100010430000391",
+          "press": "",
+          "date": "2026-04-02"
+        },
+        {
+          "title": "'1승 제물 남아공 해법 찾아라' 홍명보호, 코트디부아르전 키워드 세가...",
+          "link": "https://www.sportschosun.com/football/2026-03-27/202603260100180730012495",
+          "press": "",
+          "date": "2026-03-27"
+        },
+        {
+          "title": "[강상헌의 빌드업] 최종 모의고사 앞둔 홍명보호, 월드컵 승선 '끝장 경...",
+          "link": "https://www.ajunews.com/view/20260317154804698",
+          "press": "",
+          "date": "2026-03-17"
+        },
+        {
+          "title": "'결장 또 결장, 한달간 출전시간 단 15분' 홍명보 선택 받은 황희찬 정말...",
+          "link": "https://www.sportschosun.com/football/2026-03-17/202603170100113170007912",
+          "press": "",
+          "date": "2026-03-16"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "keyword": "온도",
+      "traffic": "100+",
+      "blogTotal": 23473834,
+      "newsTotal": 1854216,
+      "recentToday": 0,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "가을 겨울철 아기방 습도 관리, 신생아 실내 적정 온도와 습도 기준",
+          "link": "https://blog.naver.com/gorgeous0312/224454087247",
+          "blogger": "리리네 리빙 육아 에세이✨",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "신생아 집 온도 20도? 23도? 겨울 아기방 보일러 적정 온도 총정리",
+          "link": "https://blog.naver.com/ykshjw/224450276693",
+          "blogger": "아이와 함께하는 일상 속 살림노하우",
+          "date": "2026-10-22"
+        },
+        {
+          "title": "감자 보관 온도 8℃ 기준과양파·마늘 저장 방식 구분",
+          "link": "https://blog.naver.com/manidream1366/224449840847",
+          "blogger": "더바른팜 공식블로그",
+          "date": "2026-10-22"
+        },
+        {
+          "title": "아기방 온도 몇도가 적당할까? 가을 환절기 실내 적정 온도 습도",
+          "link": "https://blog.naver.com/alltimes1004/224425387267",
+          "blogger": "놀면서 배우는 아기",
+          "date": "2026-09-29"
+        },
+        {
+          "title": "쌀벌레 안 생기게 페트병에 쌀 보관하는 온도와 환경 꿀팁 총정리",
+          "link": "https://blog.naver.com/kongsoon_-/224444250983",
+          "blogger": "잔잔한 기록❤️",
+          "date": "2026-10-24"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "SK온, ESS 대형 화재 시험 통과…북미 안전성 기준 충족",
+          "link": "https://view.asiae.co.kr/article/2026102808520187109",
+          "press": "",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "현대위아, 獨 차부품전시회서 열관리·구동 신기술 공개…유럽 공략",
+          "link": "https://www.news1.kr/industry/auto-industry/6334228",
+          "press": "",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "삼성전자, 한국품질만족지수 18년 연속 최다 부문 1위…14개 부문 석권",
+          "link": "http://www.newscape.co.kr/news/articleView.html?idxno=125381",
+          "press": "",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "'반도체 업종마저도..' 국내 기업 경기 전망 두 달 연속 '부정적'",
+          "link": "https://www.fnnews.com/news/202610280831308648",
+          "press": "",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "패딩 입고 손난로 준비…대구·경북 덮친 기습 한파에 출근길 '꽁꽁'",
+          "link": "https://www.news1.kr/local/daegu-gyeongbuk/6334179",
+          "press": "",
+          "date": "2026-10-27"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "keyword": "별자리",
+      "traffic": "500+",
+      "blogTotal": 1194025,
+      "newsTotal": 228506,
+      "recentToday": 0,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "[니나 칸] 10월 19일~ 25일 주간 별자리 운세",
+          "link": "https://blog.naver.com/sjmjung24/224447308449",
+          "blogger": "미래의 기억",
+          "date": "2026-10-20"
+        },
+        {
+          "title": "제시카 아담스 | 2026년 10월 24일 오늘 별자리 운세",
+          "link": "https://blog.naver.com/sunupvibes/224451801627",
+          "blogger": "All light, All right",
+          "date": "2026-10-24"
+        },
+        {
+          "title": "영어자기소개 별자리 영어로 뭐라고 할까? 조디악 zodiac sign이란",
+          "link": "https://blog.naver.com/dinnernin/224425580111",
+          "blogger": "캐나다 오피스 영어 디너닝글리시",
+          "date": "2026-09-29"
+        },
+        {
+          "title": "[2편] 10월 25일(일) – 10월 31일(토) 주간 별자리 운세 | 천칭자리-물고....",
+          "link": "https://blog.naver.com/to0703j/224450932445",
+          "blogger": "별자리와 행성 이야기",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "[이시이 유카리] 10월 26일 ~ 11월 1일 주간 별자리 운세",
+          "link": "https://blog.naver.com/everywheresnowdrop/224451549316",
+          "blogger": "별의별",
+          "date": "2026-10-23"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "[10월 28일 오늘의 별자리 운세] 침체에서 벗어나 새로운 도약을 준비할...",
+          "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=93893",
+          "press": "",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "겨울 철새 이동은 추위 때문? 그보다는 먹이 확보 위해서랍니다",
+          "link": "https://www.kidshankook.kr/news/articleView.html?idxno=18632",
+          "press": "",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "[오늘의 운세] 2026년 10월 28일 별자리 운세",
+          "link": "https://www.edaily.co.kr/News/Read?newsId=02197606645617512&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+          "press": "",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "사랑하고 존경하는 최광범 친구에게",
+          "link": "https://www.abcn.kr/news/articleView.html?idxno=93690",
+          "press": "",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "오늘의 별자리 운세 10월 28일 수요일",
+          "link": "https://www.vegannews.co.kr/news/article.html?no=397617",
+          "press": "",
+          "date": "2026-10-27"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "keyword": "브라질",
+      "traffic": "100+",
+      "blogTotal": 2356269,
+      "newsTotal": 1736549,
+      "recentToday": 0,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "브라질 채권 \"금리 13%라더니...\" 1억 투자해도 손해 볼 수 있는 이유",
+          "link": "https://blog.naver.com/hoontrinh27/224436307319",
+          "blogger": "후니찌니의 좌충우돌 베트남 주식 투자",
+          "date": "2026-10-09"
+        },
+        {
+          "title": "브라질 대선 결과 총정리｜1차 투표에서 뒤졌던 룰라, 어떻게 역전....",
+          "link": "https://blog.naver.com/todaysearchnote/224454151331",
+          "blogger": "Today's Search Notes",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "브라질너트 하루 권장량, 많이 먹으면 오히려 위험해요",
+          "link": "https://blog.naver.com/elodie00/224387767545",
+          "blogger": "엘리의 잘먹고 잘살기",
+          "date": "2026-08-23"
+        },
+        {
+          "title": "브라질 채권이란? 초보자를 위한 투자방법부터 세금·수익률까지 완....",
+          "link": "https://blog.naver.com/gylee5221/224371454664",
+          "blogger": "평생교육로드맵",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "브라질너트 효능 7가지 먹는 법 부작용",
+          "link": "https://blog.naver.com/yeswest_/224408866359",
+          "blogger": "예스방문재활운동센터 전북지부",
+          "date": "2026-09-12"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "삼성전자 '갤럭시 워치' 수면 무호흡 분석 기능, 식약처 허가 획득",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=499096",
+          "press": "",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "삼성 갤럭시 워치, 수면 무호흡 분석 고도화…호흡 장애 수준 3단계로 구...",
+          "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=314091",
+          "press": "",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "왓츠앱으로 역전한 룰라…첫 '개인폰'은 갤럭시 S26",
+          "link": "https://www.fnnews.com/news/202610280836025264",
+          "press": "",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "삼성전자, AI로 수면 중 호흡 장애 3단계 분석…갤럭시 워치·링 식약처...",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42456",
+          "press": "",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "갤럭시 워치, 수면 호흡장애 3단계로 알려준다…식약처 허가",
+          "link": "https://www.edaily.co.kr/News/Read?newsId=02974966645617512&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+          "press": "",
+          "date": "2026-10-27"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "keyword": "하이닉스 실적발표",
+      "traffic": "2000+",
+      "blogTotal": 549078,
+      "newsTotal": 97439,
+      "recentToday": 0,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "다음주 증시 빅 이벤트, 삼성전자&SK하이닉스 실적발표, FOMC는 언제?",
+          "link": "https://blog.naver.com/scorio/224452243538",
+          "blogger": "SCORIO | 스코리오 공식 블로그",
+          "date": "2026-10-24"
+        },
+        {
+          "title": "삼성전자·SK하이닉스 실적 발표, 주주환원이란? 배당과 자사주 소각....",
+          "link": "https://blog.naver.com/economy_bite/224452820721",
+          "blogger": "경제한입, 감사한입",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "SK하이닉스 실적 발표 D-6, 역대급 실적에도 주가가 흔들릴 수 있는 ....",
+          "link": "https://blog.naver.com/insight_peak/224449790550",
+          "blogger": "인사이트준:주식과 코인 경제공부",
+          "date": "2026-10-22"
+        },
+        {
+          "title": "삼성전자, SK하이닉스 실적발표, HBM보다 일반 D램 가격을 봐야 하는 ....",
+          "link": "https://blog.naver.com/liverful1892/224454771856",
+          "blogger": "재테크 공부하는 윈드워커",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "\"내일 SK하이닉스 실적발표, 60조원 주주환원 발표?\" 정말로 주당 5만....",
+          "link": "https://blog.naver.com/wjdxor54/224455042372",
+          "blogger": "파트라슈의 주식이야기",
+          "date": "2026-10-27"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "[속보] SK하이닉스, 환율 하락에 외환순손실 11.6조",
+          "link": "https://www.sedaily.com/article/20106941?ref=naver",
+          "press": "",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "앤트로픽 IPO 훈풍에 기술주 강세…나스닥 1.18%↑",
+          "link": "https://www.sentv.co.kr/article/view/sentv202610280014",
+          "press": "",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "[속보] SK하이닉스 \"키옥시아 투자 수익 대부분 주주환원\"",
+          "link": "https://www.dailian.co.kr/news/view/1707069/?sc=Naver",
+          "press": "",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "[오피셜]하닉, 자사주소각 60조·배당 30조…3분기 이익 사상최대",
+          "link": "https://www.munhwa.com/article/11626804?ref=naver",
+          "press": "",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "SK하이닉스, 키옥시아 투자 수익 주주환원…주당 1만원 특별배당",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1729417",
+          "press": "",
+          "date": "2026-10-27"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "keyword": "기온",
+      "traffic": "1000+",
+      "blogTotal": 7655733,
+      "newsTotal": 2532281,
+      "recentToday": 0,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "\"울트라웜이면 다 될까..\" 히트텍 종류 3가지, 기온별로 고르는 법",
+          "link": "https://blog.naver.com/bys112002/224455115963",
+          "blogger": "건강한 삶과 시간",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "기온별 옷차림 총정리, 28도부터 4도 이하까지 온도별 코디 기준",
+          "link": "https://blog.naver.com/bluetel7/224450149267",
+          "blogger": "바람따라 구름따라",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "김장 날짜 정하는 법 — 입동(11월 7일)과 기온 4℃·0℃ 기준",
+          "link": "https://blog.naver.com/naoegro/224455357333",
+          "blogger": "흥미로운 이야기들",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "기온별 아이 옷차림｜내복과 패딩 언제부터?",
+          "link": "https://blog.naver.com/ecm1110/224450115485",
+          "blogger": "아이 둘 키우는 도시어뭉",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "기온이 낮을때 다리위를 조심해야 하는 이유",
+          "link": "https://blog.naver.com/gmd8255/224448592237",
+          "blogger": "우리차차",
+          "date": "2026-10-21"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "패딩 입고 손난로 준비…대구·경북 덮친 기습 한파에 출근길 '꽁꽁'",
+          "link": "https://www.news1.kr/local/daegu-gyeongbuk/6334179",
+          "press": "",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "[날씨] 한파특보 속 체감 '영하권 추위'...곳곳 올가을 최저",
+          "link": "https://www.ytn.co.kr/_ln/0108_202610280849302740",
+          "press": "",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "[N스타일] 포근함에 스타일을 더하다...퍼 아우터와 파스텔 컬러로 완성...",
+          "link": "https://www.nc.press/news/articleView.html?idxno=629623",
+          "press": "",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "가을이 성큼",
+          "link": "https://www.newsis.com/view/NISI20261028_0021507446",
+          "press": "",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "'한파주의보에도 얼죽아 포기 못해요'",
+          "link": "https://www.newsis.com/view/NISI20261028_0021507445",
           "press": "",
           "date": "2026-10-27"
         }
@@ -598,72 +660,72 @@
       "rank": 9
     },
     {
-      "keyword": "크랙",
+      "keyword": "수험",
       "traffic": "500+",
-      "blogTotal": 1731572,
-      "newsTotal": 27948,
+      "blogTotal": 4842786,
+      "newsTotal": 940360,
       "recentToday": 0,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "애플 아이폰 크랙",
-          "link": "https://blog.naver.com/willbeback12/224455691135",
-          "blogger": "경제의 세계",
-          "date": "2026-10-27"
-        },
-        {
-          "title": "강남자동차유리 돌빵복원, 벤츠 E300 앞유리 방사형 크랙 깔끔하게 ....",
-          "link": "https://blog.naver.com/pqwjhas21/224451060639",
-          "blogger": "강남 자동차유리 명가",
+          "title": "에버랜드 수험생 할인｜수험표·동반인 적용 조건 확인법",
+          "link": "https://blog.naver.com/goodcouponmoa/224454470176",
+          "blogger": "쿠폰모아 | 생활비 아끼는 생활노하우",
           "date": "2026-10-26"
         },
         {
-          "title": "아이폰 듀오 화면 파손 '크랙게이트' 확산... 애플 공식 리콜 가능성 ....",
-          "link": "https://blog.naver.com/skylwt1/224455026673",
-          "blogger": "잇츠잍",
-          "date": "2026-10-27"
+          "title": "전기기사 실기 준비물, 2026 3회 수험표·신분증·계산기 최종 점검",
+          "link": "https://blog.naver.com/economicfreedom97/224439372998",
+          "blogger": "더 먼 세상으로, 물류·유통 자격증과 직무교육",
+          "date": "2026-10-24"
         },
         {
-          "title": "아이폰 듀오 화면 크랙 논란, 접히는 부위 내구성 문제 총정리",
-          "link": "https://blog.naver.com/starhp1/224455079300",
-          "blogger": "청주공유오피스 아반 공식 블로그",
-          "date": "2026-10-27"
+          "title": "【다람쥐 세무사】 세무사 9년 장수생 가족이야기 엄마편 #2.  장기....",
+          "link": "https://blog.naver.com/anntax37_/224446008178",
+          "blogger": "세무회계 안정, 안태환 세무사",
+          "date": "2026-10-26"
         },
         {
-          "title": "아이폰 듀오 크랙 힌지 불량 사도 될까? 크랙게이트 제보 정리",
-          "link": "https://blog.naver.com/mr_choo/224453055035",
-          "blogger": "츄즈잇 CHOO`s IT",
+          "title": "2027 유아 임용 수험표 출력 당일 꼭 챙길 3가지",
+          "link": "https://blog.naver.com/perfectedu100/224453238499",
+          "blogger": "perfectedu100님의 블로그",
           "date": "2026-10-25"
+        },
+        {
+          "title": "수험생 라식, 수능 후 바로 받아도 괜찮을까요?",
+          "link": "https://blog.naver.com/the-gaggum/224453966592",
+          "blogger": "강남스마일라식 강남아이오케이안과",
+          "date": "2026-10-26"
         }
       ],
       "topNews": [
         {
-          "title": "329만원 애플 아이폰 듀오 ‘크랙 게이트’ 공식 인정했다",
-          "link": "https://www.seoul.co.kr/news/economy/industry/2026/10/28/20261028030001?wlog_tag3=naver",
+          "title": "수능표 놓자마자 이력서 집어든 Z세대…알바 지원 450% 폭증",
+          "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=92120",
           "press": "",
           "date": "2026-10-27"
         },
         {
-          "title": "\"금 간 아이폰 듀오 무상 교체\"…애플, 이례적 결함 인정",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008817875&plink=ORI&cooper=NAVER",
+          "title": "건물 통째로 내준 정승제 무색하게…재수생 돌발 태도에 스튜디오 충격...",
+          "link": "https://www.sportsseoul.com/news/read/1644737?ref=naver",
           "press": "",
           "date": "2026-10-27"
         },
         {
-          "title": "300만 원 넘는데 화면이 '쩍'‥애플 \"무상 교체\"",
-          "link": "https://imnews.imbc.com/replay/2026/nw2500/article/6861186_36989.html",
+          "title": "양천구, 2027학년도 정시 대비 1:1 입시상담 늘린다",
+          "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1305851",
           "press": "",
           "date": "2026-10-27"
         },
         {
-          "title": "329만원짜리가 쩍…애플의 굴욕",
-          "link": "https://www.joongang.co.kr/article/25473409",
+          "title": "\"찰떡같이 붙으세요\" 파리바게뜨, 수능 응원 선물 선봬",
+          "link": "https://www.newsis.com/view/NISX20261028_0003843924",
           "press": "",
           "date": "2026-10-27"
         },
         {
-          "title": "[W 언박싱] “잘 안접힐 걸?” 기막힌 예언…아이폰 화면 ‘쩍’, 교환은...",
-          "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8696954&ref=A",
+          "title": "양천구, ’2027 대입 정시 대비 1:1 맞춤형 집중상담‘ [동네방네]",
+          "link": "https://www.edaily.co.kr/News/Read?newsId=02968406645617512&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
           "press": "",
           "date": "2026-10-27"
         }
