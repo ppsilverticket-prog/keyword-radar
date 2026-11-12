@@ -1,74 +1,74 @@
 {
-  "updatedAt": "2026-11-12T07:30:24.452Z",
+  "updatedAt": "2026-11-12T16:33:08.486Z",
   "source": "live",
   "keywords": [
     {
-      "keyword": "스마트글래스",
-      "traffic": "500+",
-      "blogTotal": 191298,
-      "newsTotal": 41815,
-      "recentToday": 100,
+      "keyword": "msci",
+      "traffic": "200+",
+      "blogTotal": 213401,
+      "newsTotal": 123089,
+      "recentToday": 86,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "\"12월에 나온다고?\" 삼성 스마트글래스 , 확정된 것과 루머 정리",
-          "link": "https://blog.naver.com/lomas/224468739197",
-          "blogger": "로마스테크",
+          "title": "MSCI 정기변경 일정 총정리 : 11월 12일 오전 7시쯤 발표, 11월 30일 종가....",
+          "link": "https://blog.naver.com/dghwang77/224469824666",
+          "blogger": "부자됩시다~",
+          "date": "2026-11-09"
+        },
+        {
+          "title": "MSCI 한국 스몰캡 5개 편입, 스탠더드는 편출입 없다",
+          "link": "https://blog.naver.com/notasteorange/224474560289",
+          "blogger": "SwingLog",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "2026년 11월 MSCI 정기변경, 12일 발표와 30일 종가 반영이 다른 이유",
+          "link": "https://blog.naver.com/ya_nt/224468740683",
+          "blogger": "청년개미의 경제 이야기",
           "date": "2026-11-08"
         },
         {
-          "title": "[보도자료] 개인정보위, 스마트 글래스 이용 시 유의사항 당부",
-          "link": "https://blog.naver.com/pipcpr/224474130390",
-          "blogger": "개인정보보호위원회(개인정보위)",
+          "title": "MSCI 지수 정기변경 발표, 종목 편입이 주가를 보장할까요?",
+          "link": "https://blog.naver.com/josangho81/224473444765",
+          "blogger": "오늘의 건강노트",
           "date": "2026-11-12"
         },
         {
-          "title": "옆 사람 안경이 지금 촬영 중일 수도 있습니다, 스마트 글래스 이용 ....",
-          "link": "https://blog.naver.com/hojun0313/224471163876",
-          "blogger": "AI & IT Frontier",
-          "date": "2026-11-10"
-        },
-        {
-          "title": "국내 연구진 AI 안경 렌즈 개발 성공! 삼성전자 스마트글래스 출시 ....",
-          "link": "https://blog.naver.com/rari_ya/224473838541",
-          "blogger": "라리야 경제브리핑",
-          "date": "2026-11-12"
-        },
-        {
-          "title": "삼성 스마트 글래스 12월 출시｜갤럭시 AI 안경 가격·기능·디자인 ....",
-          "link": "https://blog.naver.com/komensee99/224459486314",
-          "blogger": "사악만땅",
-          "date": "2026-10-30"
+          "title": "MSCI 11월 정기 리뷰, 12일 발표와 30일 반영이 다른 이유",
+          "link": "https://blog.naver.com/beggar_investor/224472077808",
+          "blogger": "쥐뿔도 없는 투자 이야기",
+          "date": "2026-11-11"
         }
       ],
       "topNews": [
         {
-          "title": "[글로벌e칼럼] 스마트안경시대, 뿔테안경의 수난···머지 않아 금속테...",
-          "link": "https://www.globale.co.kr/news/articleView.html?idxno=41577",
+          "title": "뉴욕증시, 젠슨 황 엔비디아 CEO 사임 속 혼조 출발",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008843880&plink=ORI&cooper=NAVER",
           "press": "",
           "date": "2026-11-12"
         },
         {
-          "title": "한국 AI 스마트글래스 비오라, 'CES 2027'서 혁신상 2개 부문 수상",
-          "link": "https://zdnet.co.kr/view/?no=20261112131125",
+          "title": "美 뉴욕증시, 젠슨 황 엔비디아 CEO 사임 속 혼조세 출발",
+          "link": "https://www.segye.com/newsView/20261113500195?OutUrl=naver",
           "press": "",
           "date": "2026-11-12"
         },
         {
-          "title": "주식회사 엣지러너스클럽, 스마트글래스 XR 업무지원 기술 고도화",
-          "link": "https://dhnews.co.kr/news/view/1065592816047172",
+          "title": "처방책도 달랐다… 韓, 반대매매 유예·대만, 공매도 제한에 증시안정기...",
+          "link": "https://www.kmib.co.kr/article/20261112501960",
           "press": "",
           "date": "2026-11-12"
         },
         {
-          "title": "부경대·메타 공동연구, 마이크 4개로 16개 성능 내는 AI 기술 개발",
-          "link": "https://www.mt.co.kr/policy/2026/11/12/2026111214085580432",
+          "title": "AI 대신 ‘I’인가…한국·대만서 빠진 돈, 인도 향한다",
+          "link": "https://www.joongang.co.kr/article/25478170",
           "press": "",
           "date": "2026-11-12"
         },
         {
-          "title": "국립부경대 이동헌 교수, Meta와 AI 글래스용 노이즈 캔슬링 기술 개발",
-          "link": "https://www.cnbnews.com/news/articleView.html?idxno=1023456",
+          "title": "뉴욕증시, 젠슨 황 엔비디아 CEO 사임 속 혼조 출발",
+          "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444508",
           "press": "",
           "date": "2026-11-12"
         }
@@ -76,72 +76,72 @@
       "rank": 1
     },
     {
-      "keyword": "투자신탁",
-      "traffic": "100+",
-      "blogTotal": 598897,
-      "newsTotal": 489634,
-      "recentToday": 100,
+      "keyword": "토스증권",
+      "traffic": "1000+",
+      "blogTotal": 197780,
+      "newsTotal": 52425,
+      "recentToday": 84,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "ETF신탁 판매관행 개선, 투자자가 확인할 5가지",
-          "link": "https://blog.naver.com/mjso/224472548935",
-          "blogger": "오늘부터 투자와 연금",
+          "title": "토스증권 환전 우대시간 미국 ETF 사기",
+          "link": "https://blog.naver.com/yoppyco/224473791764",
+          "blogger": "깡스의 퇴사 준비 프로젝트",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "토스증권 비대면 계좌 개설 방법 총정리｜고객센터 전화번호·수수....",
+          "link": "https://blog.naver.com/dateline59/224467208702",
+          "blogger": "생활 정보 이야기",
+          "date": "2026-11-06"
+        },
+        {
+          "title": "적금 대신 '토스증권 주식 모으기' 2년 방치해 본 솔직한 수익률 (+14.....",
+          "link": "https://blog.naver.com/mircu0/224473911220",
+          "blogger": "미르쿠 | 리빙 루틴",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "토스증권 해외주식 수수료: 0.1% 착각 뒤 10배 벌어지는 환전 스프레....",
+          "link": "https://blog.naver.com/hckim21c11/224465181268",
+          "blogger": "경제탐험가: 책 표지 뒤에 숨은 경제의 본질을 찾아서",
+          "date": "2026-11-06"
+        },
+        {
+          "title": "토스증권 수수료 협의 조건과 해외주식 비용, 100만 원 사고팔면 얼....",
+          "link": "https://blog.naver.com/znzl1612092/224472436645",
+          "blogger": "트렌드캐쳐",
           "date": "2026-11-11"
-        },
-        {
-          "title": "일본의 NISA 투자, ETF와 투자신탁의 구분",
-          "link": "https://blog.naver.com/dagulog/224467720657",
-          "blogger": "다구의 블로그",
-          "date": "2026-11-07"
-        },
-        {
-          "title": "투자신탁 순매도 종목 순위 Top 4 : 삼성전자 이수페타시스 원익IPS 한....",
-          "link": "https://blog.naver.com/owls3753/224460997060",
-          "blogger": "부엉이와 함께하는 투자 정보",
-          "date": "2026-11-02"
-        },
-        {
-          "title": "WHAT IS 투자신탁, 커버드콜, 자투자신탁 ?",
-          "link": "https://blog.naver.com/macromacro-/224462439557",
-          "blogger": "macromacro-님의 블로그",
-          "date": "2026-11-02"
-        },
-        {
-          "title": "인프라투자신탁(인프라펀드)",
-          "link": "https://blog.naver.com/hwanmoon_lee/224421205807",
-          "blogger": "1",
-          "date": "2026-09-23"
         }
       ],
       "topNews": [
         {
-          "title": "법인 코인투자 1년째 표류…기본법에 발목",
-          "link": "https://www.sidae.com/article/2026111214591995760",
+          "title": "[Biz & Now] 토스뱅크, 1000원 투자 펀드서비스 출시",
+          "link": "https://www.joongang.co.kr/article/25478156",
           "press": "",
           "date": "2026-11-12"
         },
         {
-          "title": "제이알 쇼크 이후 더 빠졌다…상장리츠 '신저가' 행진",
-          "link": "https://www.mt.co.kr/stock/2026/11/12/2026111215243028489",
+          "title": "금융복합기업집단 자본적정성 186%로 개선…삼성 최고·현대차 최저",
+          "link": "https://www.polinews.co.kr/news/articleView.html?idxno=748300",
           "press": "",
           "date": "2026-11-12"
         },
         {
-          "title": "NH농협은행, 금 실물 신탁 취급점 21곳으로 확대…16일부터 추가 모집",
-          "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=211292",
+          "title": "토스뱅크, 펀드 서비스 출시…17종·1,000원부터 투자",
+          "link": "http://www.bizwnews.com/news/articleView.html?idxno=151727",
           "press": "",
           "date": "2026-11-12"
         },
         {
-          "title": "[더밸류 브리핑] 오늘의 은행 소식…신한은행·토스뱅크",
-          "link": "http://www.thevaluenews.co.kr/news/view.php?idx=203234",
+          "title": "토스뱅크, 펀드서비스 출시…\"1000원 소액·통장 이자로도 투자 가능\"",
+          "link": "https://view.asiae.co.kr/article/2026111219532708639",
           "press": "",
           "date": "2026-11-12"
         },
         {
-          "title": "[금융권 이모저모]토스뱅크, 펀드 판매 시작…통장 이자로 자동 투자 外",
-          "link": "https://www.businessplus.kr/news/articleView.html?idxno=119786",
+          "title": "토스뱅크, '펀드 서비스' 출시…1000원부터 투자 가능",
+          "link": "https://www.econovill.com/news/articleView.html?idxno=757059",
           "press": "",
           "date": "2026-11-12"
         }
@@ -149,72 +149,72 @@
       "rank": 2
     },
     {
-      "keyword": "혜리",
+      "keyword": "jyp 엔터테인먼트",
       "traffic": "200+",
-      "blogTotal": 272455,
-      "newsTotal": 188298,
-      "recentToday": 100,
+      "blogTotal": 155418,
+      "newsTotal": 258557,
+      "recentToday": 80,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "“마음이 허전했다” 혜리, 결국 혼자 캐나다로 떠났다…밝은 모습 ....",
-          "link": "https://blog.naver.com/sin36312/224431324728",
-          "blogger": "세상세상",
-          "date": "2026-10-05"
+          "title": "JYP엔터테인먼트 월급 초봉 연봉 실수령액 급여 26년 신입 사원 채용 ....",
+          "link": "https://blog.naver.com/bounty_atm/224468657278",
+          "blogger": "재테크ATM",
+          "date": "2026-11-08"
         },
         {
-          "title": "혜리 단발부터 봤는데…전신 사진에선 시선이 달라졌다",
-          "link": "https://blog.naver.com/zilyan/224471936377",
-          "blogger": "고르고 쓰는 생활",
-          "date": "2026-11-10"
+          "title": "JYP엔터테인먼트 3분기 실적 발표｜매출 사상 최대·영업이익 480억원....",
+          "link": "https://blog.naver.com/gung_gun/224474161840",
+          "blogger": "캐시카우",
+          "date": "2026-11-12"
         },
         {
-          "title": "혜리 리즈 시절.jpg 류준열과 8년 연애부터 우태 열애설까지",
-          "link": "https://blog.naver.com/mucaldiaproc/224387574914",
-          "blogger": "이슈랭",
-          "date": "2026-08-23"
+          "title": "JYP엔터테인먼트 사옥",
+          "link": "https://blog.naver.com/limter_/224435986412",
+          "blogger": "잡부의 모음",
+          "date": "2026-10-09"
         },
         {
-          "title": "배우 혜리, ‘응답하라 1988’ 덕선이에서 로맨스 주인공까지!2026년....",
-          "link": "https://blog.naver.com/wkdus8750/224445017340",
-          "blogger": "다양한 여행 정보를 알려드립니다.",
-          "date": "2026-10-17"
+          "title": "하루 만에 17% 급등하며 엔터주 판도 바꾼 JYP엔터테인먼트 주가 분석",
+          "link": "https://blog.naver.com/milrasuper/224474744096",
+          "blogger": "밀라요 뉴스 (MILLAYO NEWS)",
+          "date": "2026-11-13"
         },
         {
-          "title": "류준열 혜리 7년씩이나 사랑했었는데…왜 헤어졌을까?",
-          "link": "https://blog.naver.com/stonesam3/224401415265",
-          "blogger": "지나가다 봄~",
-          "date": "2026-09-05"
+          "title": "JYP엔터테인먼트 기업분석",
+          "link": "https://blog.naver.com/thghfeldtm/224417869074",
+          "blogger": "기억저장소",
+          "date": "2026-09-20"
         }
       ],
       "topNews": [
         {
-          "title": "혜리, '뱃살 논란' 이어 두 겹 치마까지...연이은 스타일 수난 [엑's 이슈...",
-          "link": "https://www.xportsnews.com/article/2218687",
+          "title": "[상승주] 스트레이키즈 활약 속 3분기 어닝서프라이즈… JYP엔터 16% 급등",
+          "link": "https://www.cbci.co.kr/news/articleView.html?idxno=626329",
           "press": "",
           "date": "2026-11-12"
         },
         {
-          "title": "혜리·나인우, '그녀는 취급주의'서 아찔한 위장 부부로 호흡",
-          "link": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=435451",
+          "title": "스트레이 키즈, 월드투어 규모 키운다... 31개 지역 46회",
+          "link": "https://www.ggilbo.com/news/articleView.html?idxno=1192208",
           "press": "",
           "date": "2026-11-12"
         },
         {
-          "title": "[공식] 전회차 2%대 시청률 굴욕 씻을까…혜리, 또 ENA 로맨스로 안방극...",
-          "link": "https://www.tenasia.co.kr/article/2026111222874",
+          "title": "KSPO 돔은 왜 '꿈의 무대'일까?",
+          "link": "https://www.marieclairekorea.com/culture/music/2026/11/kspo-dome/?utm_source=naver&utm_medium=partnership",
           "press": "",
           "date": "2026-11-12"
         },
         {
-          "title": "혜리·나인우, '그녀는 취급주의'로 만난다…위장부부 연기",
-          "link": "https://www.edaily.co.kr/News/Read?newsId=02866726645645064&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+          "title": "해외에서 무단 유통된 존박 '맥도날드 랩', 저작권 되찾을 수 있을까?",
+          "link": "https://www.marieclairekorea.com/culture/music/2026/11/music-copyright/?utm_source=naver&utm_medium=partnership",
           "press": "",
           "date": "2026-11-12"
         },
         {
-          "title": "혜리, 통짜 허리 안보이게끔…드레이프로 지운 직선",
-          "link": "https://www.tenasia.co.kr/article/2026111219884",
+          "title": "스트레이키즈가 끌어올린 JYP 주가...하루 만에 16% 급등",
+          "link": "https://www.ppss.kr/news/articleView.html?idxno=320675",
           "press": "",
           "date": "2026-11-12"
         }
@@ -222,72 +222,72 @@
       "rank": 3
     },
     {
-      "keyword": "천궁",
-      "traffic": "10000+",
-      "blogTotal": 350054,
-      "newsTotal": 38915,
-      "recentToday": 100,
+      "keyword": "폭설",
+      "traffic": "100+",
+      "blogTotal": 918379,
+      "newsTotal": 349370,
+      "recentToday": 69,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "천궁2 가격, 패트리엇 3분의1인데 왜 중동은 줄섰나",
-          "link": "https://blog.naver.com/penguinslope/224418497469",
-          "blogger": "아주 보통의 하루",
-          "date": "2026-09-21"
+          "title": "영화 폭설 개봉일 11월 18일, 출연진·줄거리·예고편 정리 (김윤석 x ....",
+          "link": "https://blog.naver.com/otj1234/224467387127",
+          "blogger": "먹고 보는 블로그",
+          "date": "2026-11-06"
         },
         {
-          "title": "천궁 제조사 관련주 총정리, 천궁-Ⅱ 대장주부터 부품주까지 투자 ....",
-          "link": "https://blog.naver.com/wangtrends62/224403127241",
-          "blogger": "돈되는 정보 블러그",
-          "date": "2026-09-07"
+          "title": "폭설 김윤석은 왜 구교환에게 총을 겨눴을까? 시신보다 수상한 두 ....",
+          "link": "https://blog.naver.com/knight7302/224474872143",
+          "blogger": "고미네 영화 이야기",
+          "date": "2026-11-12"
         },
         {
-          "title": "한국 천궁-2 미사일 카타르 수출 소식을 듣고 충격받은 진짜 이유",
-          "link": "https://blog.naver.com/absolutecfo/224421173182",
-          "blogger": "돋보기랩",
-          "date": "2026-09-23"
+          "title": "영화 폭설 김윤석, 구교환 11월 18일 개봉 전에 줄거리랑 관전 포인트....",
+          "link": "https://blog.naver.com/haby_az/224472101635",
+          "blogger": "방구석 시네마 : OTT 정주행 가이드",
+          "date": "2026-11-10"
         },
         {
-          "title": "“이번 천궁 프로젝트 제대로 터졌다” 관련주 찾는 사람들 몰리는 ....",
-          "link": "https://blog.naver.com/editor_mumu/224430476791",
-          "blogger": "에디터 김무무",
-          "date": "2026-10-04"
+          "title": "\"스포일러 나오기 전 보세요\" — 폭설 줄거리·출연진·볼만한 포인....",
+          "link": "https://blog.naver.com/page_wednesday/224460440120",
+          "blogger": "씬앤페이지 - 영화 드라마 책 리뷰",
+          "date": "2026-11-03"
         },
         {
-          "title": "없어서 못 판다.. 중동이 한국 천궁-II를 재촉하는 진짜 이유",
-          "link": "https://blog.naver.com/easyfood_/224422938946",
-          "blogger": "10억만들기",
-          "date": "2026-09-27"
+          "title": "영화 '폭설' 개봉일, 정보, 줄거리, 출연진, 무대인사 일정, 예고편 ....",
+          "link": "https://blog.naver.com/dramakingkukbab/224473163141",
+          "blogger": "허국밥의 영화 이야기",
+          "date": "2026-11-11"
         }
       ],
       "topNews": [
         {
-          "title": "이라크 천궁Ⅱ 수출 탄력..논란이던 대금지급 해결",
-          "link": "https://www.fnnews.com/news/202611111614111177",
+          "title": "'폴2: 데드포인트', 박스오피스 1위…2위는 '최종면접'",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16275328",
           "press": "",
           "date": "2026-11-12"
         },
         {
-          "title": "두드림, 근력·관절·인지 기능 관리 건강기능식품 '활보원' 출시",
-          "link": "http://www.e2news.com/news/articleView.html?idxno=336053",
+          "title": "임영웅! 임영웅! 임영웅! 임영웅! 4일 연속 1위 [11월 13일 영화 예매순...",
+          "link": "https://www.econovill.com/news/articleView.html?idxno=757075",
           "press": "",
           "date": "2026-11-12"
         },
         {
-          "title": "[정보] 종결 칼의 생존 인장 등장! 거래소 시세 살펴보기",
-          "link": "https://www.inven.co.kr/webzine/news/?news=323302",
+          "title": "[이홍섭의 바다편지]영(嶺)을 넘는 시",
+          "link": "https://www.kwnews.co.kr/article/20261112500683",
           "press": "",
           "date": "2026-11-12"
         },
         {
-          "title": "한화에어로 L-SAM〈장거리 지대공 유도미사일〉, UAE 수주 가시화",
-          "link": "https://biz.heraldcorp.com/article/10934908?ref=naver",
+          "title": "배우 '노윤서', 눈빛은 시크 손끝은 스윗 [JP포토]",
+          "link": "https://www.job-post.co.kr/news/articleView.html?idxno=238129",
           "press": "",
           "date": "2026-11-12"
         },
         {
-          "title": "\"삼현, 휴머노이드 관절 액추에이터 양산 단계 진입\" - CMIR",
-          "link": "https://www.newspim.com/news/view/20261112000100",
+          "title": "고경표, 또 살쪘다더니 후덕해진 얼굴..안경·모자 쓰고 등장 \"90kg 찍어...",
+          "link": "https://www.starnewskorea.com/star/2026/11/12/2026111223081981579",
           "press": "",
           "date": "2026-11-12"
         }
@@ -295,72 +295,72 @@
       "rank": 4
     },
     {
-      "keyword": "현대엔지니어링",
-      "traffic": "200+",
-      "blogTotal": 425059,
-      "newsTotal": 164276,
-      "recentToday": 100,
+      "keyword": "100 일 의 거짓말",
+      "traffic": "100+",
+      "blogTotal": 625836,
+      "newsTotal": 8295,
+      "recentToday": 57,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "현대엔지니어링 장외주식, 2조 3,826억 발전사업에 이름 올린 이유",
-          "link": "https://blog.naver.com/love486jang/224472717992",
-          "blogger": "노리스크 투자 010-5506-2229",
-          "date": "2026-11-12"
+          "title": "“100일의 거짓말 몇부작?” 등장인물 줄거리 재방송 시간 총정리",
+          "link": "https://blog.naver.com/lorya1/224469261555",
+          "blogger": "토끼 아기와 함께 떡상홈",
+          "date": "2026-11-08"
         },
         {
-          "title": "현대엔지니어링 영업정지, 대상 매출 5조5,410억원 (11월 11일)",
-          "link": "https://blog.naver.com/pick_log2026/224473916526",
-          "blogger": "픽로그 - AI로 보는 경제·주식",
-          "date": "2026-11-12"
+          "title": "신 스틸러 진선규? 100일의 거짓말 기본정보 몇부작",
+          "link": "https://blog.naver.com/aronmovie/224470599772",
+          "blogger": "아론무비",
+          "date": "2026-11-09"
         },
         {
-          "title": "현대엔지니어링 조경 합격자소서 면접",
-          "link": "https://blog.naver.com/bookang1106/224466897110",
-          "blogger": "bookang1106님의 블로그",
-          "date": "2026-11-06"
+          "title": "100일의 거짓말 송지효, 가경 엄마 이애영의 숨겨진 서사와 반전",
+          "link": "https://blog.naver.com/chaewon0317/224472732027",
+          "blogger": "보건관리자의 길",
+          "date": "2026-11-11"
         },
         {
-          "title": "현대건설 자회사 현대엔지니어링 영업정지 8개월 공시 무슨 일…내....",
-          "link": "https://blog.naver.com/thedailyblossom/224473667104",
-          "blogger": "찰스몬드의 투자 리서치",
-          "date": "2026-11-12"
+          "title": "100일의 거짓말 10회 결말, 박진영 드디어 '이가경' 불렀다! 김유정 미....",
+          "link": "https://blog.naver.com/crushfarm/224469591095",
+          "blogger": "크러쉬팜",
+          "date": "2026-11-08"
         },
         {
-          "title": "[건설업계] 도시정비 수주 끊겼는데…현대엔지니어링 ‘수주잔고 28....",
-          "link": "https://blog.naver.com/kcmc2080/224434550460",
-          "blogger": "한국건설기계협의회",
-          "date": "2026-10-09"
+          "title": "tvN 100일의 거짓말 10회 10화 줄거리 송전 장렬히 전사하다",
+          "link": "https://blog.naver.com/lunaris137/224469577985",
+          "blogger": "루나리스의 문화생활",
+          "date": "2026-11-08"
         }
       ],
       "topNews": [
         {
-          "title": "현대엔지니어링, K-디자인 어워드 최고상…색채대상까지 2관왕",
-          "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=213491",
+          "title": "신라·고려·조선…안방극장·OTT ‘시대물 대전’",
+          "link": "https://www.joongang.co.kr/article/25478157",
           "press": "",
           "date": "2026-11-12"
         },
         {
-          "title": "[장외시황] 아델, 수요예측 진행",
-          "link": "https://www.etoday.co.kr/news/view/2647510",
+          "title": "켄차나요, 도쿄에서 [이지영의 K컬처 여행]",
+          "link": "https://www.segye.com/newsView/20261112514569?OutUrl=naver",
           "press": "",
           "date": "2026-11-12"
         },
         {
-          "title": "현대건설, 잇단 중대재해에 ESG 등급 하락…현대엔지니어링도 영업정지",
-          "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=315251",
+          "title": "김유정, 윙크 셀카로 전한 반짝이는 근황…'100일의 거짓말' 호평 속 활...",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16275225",
           "press": "",
           "date": "2026-11-12"
         },
         {
-          "title": "현대엔지니어링, K-디자인 어워드·대한민국색채대상 수상",
-          "link": "http://www.issuenbiz.com/news/articleView.html?idxno=81535",
+          "title": "같은 tvN인데…시청률 10% 돌파→1%대 출발 '100일의'·'뜨거운', 성적 갈...",
+          "link": "https://www.tenasia.co.kr/article/2026111229234",
           "press": "",
           "date": "2026-11-12"
         },
         {
-          "title": "현대엔지니어링, 조경 디자인 공모전 2곳서 잇달아 수상",
-          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=503449",
+          "title": "‘이건 사야해’, ‘100일의 거짓말’ 굿즈 공개…‘주간 랭킹’ 1위[주...",
+          "link": "https://sports.donga.com/ent/article/all/20261112/135011318/1",
           "press": "",
           "date": "2026-11-12"
         }
@@ -368,72 +368,72 @@
       "rank": 5
     },
     {
-      "keyword": "스타벅스",
-      "traffic": "500+",
-      "blogTotal": 7689715,
-      "newsTotal": 747849,
-      "recentToday": 100,
+      "keyword": "학대",
+      "traffic": "100+",
+      "blogTotal": 1750858,
+      "newsTotal": 797228,
+      "recentToday": 51,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "스타벅스 더북한산점, 창가 자리 경쟁 대신 루프탑에서 즐긴 북한산....",
-          "link": "https://blog.naver.com/ks_oy/224467736680",
-          "blogger": "테테로그",
+          "title": "강릉 주문진 어린이집 아동학대 사건 총정리…교사 3명 구속·시설....",
+          "link": "https://blog.naver.com/lovejh-/224468428044",
+          "blogger": "데일리 인포로그",
+          "date": "2026-11-07"
+        },
+        {
+          "title": "아동학대 신고만으로 교사가 무너진다? 교원단체가 국회에 요구한 ....",
+          "link": "https://blog.naver.com/unknownlife-/224467259926",
+          "blogger": "언노운라이프",
           "date": "2026-11-06"
         },
         {
-          "title": "[중국] 상하이 스타벅스 리저브 로스터리 상세 후기",
-          "link": "https://blog.naver.com/bhw90/224425297600",
-          "blogger": "마코의 추억일기장",
-          "date": "2026-09-29"
+          "title": "\"믿고 맡겼는데 이럴 수가!\" 진주 태권도장 폭행 아동학대 신고 방법....",
+          "link": "https://blog.naver.com/technerdy/224468350668",
+          "blogger": "IT 완전정복",
+          "date": "2026-11-07"
         },
         {
-          "title": "스타벅스 프리퀀시 예약대기 꿀팁(더블적립 11/12까지)",
-          "link": "https://blog.naver.com/etienne03/224470324085",
-          "blogger": "Barbie's place",
-          "date": "2026-11-09"
+          "title": "강아지 학대가 의심될 때는? 동물학대 징후와 대처·신고방법",
+          "link": "https://blog.naver.com/money_for_catfood/224457644877",
+          "blogger": "멍 & 냥 집사, 경력직 캔따개입니다.",
+          "date": "2026-11-01"
         },
         {
-          "title": "스타벅스 돌체 핑거 초콜릿 후기, 빼빼로데이 선물로 괜찮을까",
-          "link": "https://blog.naver.com/zrwann_e/224468510532",
-          "blogger": "평범한 20대 남자의 리얼 라이프 ( ˶ˆ⤙ˆ˵ )",
-          "date": "2026-11-08"
-        },
-        {
-          "title": "스타벅스 기프티콘 앱 등록 가능할까? 쿠폰 종류별 확인 방법",
-          "link": "https://blog.naver.com/kyunghwa1218/224413357958",
-          "blogger": "앤텔레콤 3분통신",
-          "date": "2026-09-16"
+          "title": "'왜 말도 못하는 아이들이 맞아야 하는가' 강릉 어린이집 집단학대 ....",
+          "link": "https://blog.naver.com/ohjoo2000/224467447449",
+          "blogger": "걷는게 힘들 때 까지 가보고 먹어보자",
+          "date": "2026-11-06"
         }
       ],
       "topNews": [
         {
-          "title": "\"마트로 '5조 클럽' 인증\"… 이마트 3분기 실적, 본업 '날개' 자회사 '족...",
-          "link": "http://www.economytalk.kr/news/articleView.html?idxno=425263",
+          "title": "'20개월 사망' 친모 오늘 항소심 선고...1심 징역 12년",
+          "link": "https://www.ytn.co.kr/_ln/0103_202611130128072097",
           "press": "",
           "date": "2026-11-12"
         },
         {
-          "title": "현대카드, 스타벅스·무신사 떠난 PLCC... 대한항공 12월 계약 만료",
-          "link": "https://www.pressman.kr/news/articleView.html?idxno=104432",
+          "title": "50대男 손에 숨진 15세 소녀… 아들이 성폭행, 내연녀는 성매매 강요",
+          "link": "https://www.chosun.com/national/incident/2026/11/13/2J5YNC5XBNEBDLXRCHIT7HBHO4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
           "press": "",
           "date": "2026-11-12"
         },
         {
-          "title": "스타벅스, 독립유공자 후손 대학생 50명에 장학금 1억원 전달",
-          "link": "https://www.donga.com/news/Economy/article/all/20261112/135014770/1",
+          "title": "천안서 발달장애 10대 숨져… 신고한 엄마 긴급체포",
+          "link": "https://www.kmib.co.kr/article/20261112502240",
           "press": "",
           "date": "2026-11-12"
         },
         {
-          "title": "스타벅스, 독립유공자 후손 대학생 50명에 장학금 1억원 전달",
-          "link": "https://www.mydaily.co.kr/page/view/2026111216174466625",
+          "title": "[사설] 성범죄 피해자가 가해자 가족에게 생명 빼앗기는 사회",
+          "link": "https://www.joongang.co.kr/article/25478203",
           "press": "",
           "date": "2026-11-12"
         },
         {
-          "title": "스타벅스, 독립유공자 후손 50명에 장학금…12년째 나눔 지속",
-          "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=213457",
+          "title": "원주종합사회복지관 노인학대 예방교육",
+          "link": "https://www.kado.net/news/articleView.html?idxno=2084594",
           "press": "",
           "date": "2026-11-12"
         }
@@ -441,72 +441,72 @@
       "rank": 6
     },
     {
-      "keyword": "장기 이식",
-      "traffic": "5000+",
-      "blogTotal": 542189,
-      "newsTotal": 132120,
-      "recentToday": 100,
+      "keyword": "김태규",
+      "traffic": "500+",
+      "blogTotal": 32498,
+      "newsTotal": 51070,
+      "recentToday": 21,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "닥터X 6개 장기 동시이식 진짜일까? 실제 성공 사례와 다장기 이식 ....",
-          "link": "https://blog.naver.com/mmnnpp-/224469376713",
-          "blogger": "금자의 세상이슈",
-          "date": "2026-11-08"
+          "title": "김태규 국회의원 프로필ㅣ부엉이바위 ㅣ 판사 출신 정치인 고향 지....",
+          "link": "https://blog.naver.com/jihoomin_/224434163922",
+          "blogger": "Soo's story",
+          "date": "2026-10-07"
         },
         {
-          "title": "장기이식 기다리다 하루 8.5명 사망…결국 AI가 돌파구 될까",
-          "link": "https://blog.naver.com/healthcaster24/224468078224",
-          "blogger": "healthcaster24",
+          "title": "김태규는 누구? 관련 보도에서 소속·직책·경력을 확인하는 법",
+          "link": "https://blog.naver.com/styner10/224466874723",
+          "blogger": "생활속이야기",
           "date": "2026-11-07"
         },
         {
-          "title": "장기이식 후 건강을 회복한 연예인들｜다시 시작된 두 번째 삶",
-          "link": "https://blog.naver.com/jhgirl0326/224440995412",
-          "blogger": "jhgirl0326님의 블로그",
-          "date": "2026-10-14"
+          "title": "\"김태규 의원 누구?\" 프로필·판사·권익위·방통위 경력과 논란 총정....",
+          "link": "https://blog.naver.com/patriot_official/224433343422",
+          "blogger": "패트리어트 리포트",
+          "date": "2026-10-06"
         },
         {
-          "title": "장기이식법위반죄첫조사 피의자 수사절차 처벌기준과 초기 대응 변....",
-          "link": "https://blog.naver.com/yj2bpnhoh/224471764589",
-          "blogger": "경찰출신 형사전문변호사",
-          "date": "2026-11-10"
+          "title": "김태규 의원 프로필 나이 고향 학력 판사 경력은? 국민의힘 원내수....",
+          "link": "https://blog.naver.com/hana1434/224391844649",
+          "blogger": "세상 모든 핫이슈",
+          "date": "2026-08-27"
         },
         {
-          "title": "장기 이식의 원리",
-          "link": "https://blog.naver.com/yeojooya/224462118849",
-          "blogger": "yeojooya님의블로그",
-          "date": "2026-11-04"
+          "title": "김태규 의원 프로필 나이·고향·지역구, 국회 제명 촉구 결의안 통....",
+          "link": "https://blog.naver.com/wiki-plus/224466167870",
+          "blogger": "위키플러스",
+          "date": "2026-11-05"
         }
       ],
       "topNews": [
         {
-          "title": "\"소아혈액종양 전임의 전국 4명, 사명감 무의미\"",
-          "link": "https://www.dailymedi.com/news/news_view.php?wr_id=942281",
+          "title": "한동훈 복당·장동혁 책임론 얽혀 '시끌'",
+          "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1072419",
           "press": "",
           "date": "2026-11-12"
         },
         {
-          "title": "이식 못 받은 아내 떠난 지 8개월…남편은 3명 살리고 곁으로",
-          "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5230487",
+          "title": "김태규 의원, 민주당 공소취소 특검법 등 질타",
+          "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1072420",
           "press": "",
           "date": "2026-11-12"
         },
         {
-          "title": "경북대병원 이식검사 기술 혁신… 전혈만으로 거부반응 위험 가린다",
-          "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3082409",
+          "title": "울산 트램 144억원 내년도 국비 제외 국힘, 김 시장에 공정 정상화 계획...",
+          "link": "https://www.ulsanpress.net/news/articleView.html?idxno=586762",
           "press": "",
           "date": "2026-11-12"
         },
         {
-          "title": "[ET시론] 전략연구의 성과를 뒷받침하는 기본연구의 힘",
-          "link": "https://www.etnews.com/20261112000062",
+          "title": "국민의힘 \"대법관 후보 재제청 요구는 국회 동의권 침해\" 주장",
+          "link": "https://www.news1.kr/society/court-prosecution/6352589",
           "press": "",
           "date": "2026-11-12"
         },
         {
-          "title": "경북대병원, '전혈 기반 이식 교차시험' 자체 개발",
-          "link": "https://www.bosa.co.kr/news/articleView.html?idxno=3016318",
+          "title": "전셋값 4년여 만에 최고치 눈앞‥내년 강남 6천 가구 '이주 폭탄'",
+          "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6865248_37004.html",
           "press": "",
           "date": "2026-11-12"
         }
@@ -514,72 +514,72 @@
       "rank": 7
     },
     {
-      "keyword": "김현석",
+      "keyword": "13일의 금요일",
       "traffic": "100+",
-      "blogTotal": 58073,
-      "newsTotal": 82077,
-      "recentToday": 36,
+      "blogTotal": 1365788,
+      "newsTotal": 107519,
+      "recentToday": 0,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "'미스터 울산' … 김현석 감독, 명가 재건 임무 완수 후 아름다운 작....",
-          "link": "https://blog.naver.com/withinnews/224473951379",
-          "blogger": "위드인뉴스",
+          "title": "13일의 금요일은 왜 불길할까? 우리가 몰랐던 미신의 유래와 진실",
+          "link": "https://blog.naver.com/jisikdrawer/224474269594",
+          "blogger": "지식서랍 한 칸",
           "date": "2026-11-12"
         },
         {
-          "title": "'미스터 울산' 김현석 감독 프로필: 나이, 고향, 키, 학력, 경력, 수상....",
-          "link": "https://blog.naver.com/mydreamsports/224390040858",
-          "blogger": "마이드림스포츠",
-          "date": "2026-08-26"
-        },
-        {
-          "title": "[K리그 루머] 울산 HD 김현석, 감독 떠나 단장 승진 유력 '미스터 울산....",
-          "link": "https://blog.naver.com/sipersound11/224473961895",
-          "blogger": "K리그 NO. 1 썰",
+          "title": "\"왜 하필 13일이야\" 13일의 금요일 유래, 알고 보면 반전 있는 이유",
+          "link": "https://blog.naver.com/esther_jiyun/224474043806",
+          "blogger": "esther_jiyun님의블로그",
           "date": "2026-11-12"
         },
         {
-          "title": "울산 김현석 감독 전격 결별 리그 2위에도 떠나는 이유",
-          "link": "https://blog.naver.com/east10004/224474120236",
-          "blogger": "상상이네 일상의 블로그",
-          "date": "2026-11-12"
+          "title": "왜 13일의 금요일을 조심하라는거야?",
+          "link": "https://blog.naver.com/mingdida_/224471466214",
+          "blogger": "밍디다락",
+          "date": "2026-11-10"
         },
         {
-          "title": "울산 HD 김현석 감독 결별 9위 팀 2위로 올리고 1년 만에 떠난다 남은 ....",
-          "link": "https://blog.naver.com/swiri4637/224474115937",
-          "blogger": "호랑이의 라커룸",
+          "title": "13일의 금요일과 블랙프라이데이… 두 금요일 사이에 월스트리트가 ....",
+          "link": "https://blog.naver.com/admvp/224468234664",
+          "blogger": "읽을수록 빛나는 금광",
+          "date": "2026-11-07"
+        },
+        {
+          "title": "13일의 금요일 뜻·유래｜11월 13일 내일, 올해 마지막 날짜와 다음은 ....",
+          "link": "https://blog.naver.com/oneulissuepick/224474150937",
+          "blogger": "오늘의 이슈픽",
           "date": "2026-11-12"
         }
       ],
       "topNews": [
         {
-          "title": "'가물치' 김현석, 울산을 일으켜 세우고 떠나다 [K리그]",
-          "link": "https://www.newsq.co.kr/news/articleView.html?idxno=500866",
+          "title": "[뉴스이슈&비즈] 엔비디아 해임설·미 AI칩 규제 검토…삼성·SK하이닉스...",
+          "link": "http://www.issuenbiz.com/news/articleView.html?idxno=81546",
           "press": "",
           "date": "2026-11-12"
         },
         {
-          "title": "‘파리 목숨’ K리그 감독들…순위보다 무서운 구단과 팬들의 ‘눈높이...",
-          "link": "https://sports.khan.co.kr/article/202611121544003?pt=nv",
+          "title": "젤렌스키 \"평화협상에 EU가 적극 참여해 달라\"… 유럽은 '언제, 누가' 놓...",
+          "link": "https://www.newspim.com/news/view/20261113000004",
           "press": "",
           "date": "2026-11-12"
         },
         {
-          "title": "울산, '1년' 만에 김현석 감독과 이별",
-          "link": "https://www.newdaily.co.kr/site/data/html/2026/11/12/2026111200254.html",
+          "title": "11월 13일 금요일 띠별 오늘의 운세 \"포기했던 돈을 돌려 받는다\"",
+          "link": "https://www.econovill.com/news/articleView.html?idxno=757089",
           "press": "",
           "date": "2026-11-12"
         },
         {
-          "title": "김현석 감독, 울산HD와 결별이 아름다운 이유",
-          "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003284368&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+          "title": "6년 만에 수능 한파",
+          "link": "https://www.chosun.com/national/transport-environment/2026/11/13/X2FLIKN5IVGDBPZVYTKEWHXI2A/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
           "press": "",
           "date": "2026-11-12"
         },
         {
-          "title": "9위서 2위로… 김현석, 울산과 동행 마침표",
-          "link": "https://www.chosun.com/sports/football/2026/11/12/DUORSUVVCFANJGQD36BPPJ6FU4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+          "title": "[TV조선] ‘메기 싱어’들의 도전장",
+          "link": "https://www.chosun.com/entertainments/broadcast/2026/11/13/XAJL7QXZEJAOVA247ZZ23NQD6M/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
           "press": "",
           "date": "2026-11-12"
         }
@@ -587,147 +587,147 @@
       "rank": 8
     },
     {
-      "keyword": "sk쉴더스",
+      "keyword": "amd 주가",
       "traffic": "200+",
-      "blogTotal": 27728,
-      "newsTotal": 37625,
-      "recentToday": 19,
+      "blogTotal": 249042,
+      "newsTotal": 56849,
+      "recentToday": 0,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "2026 SK쉴더스 연봉은? 신입 초봉 평균연봉 성과급 근속연수 복지",
-          "link": "https://blog.naver.com/dxlfz/224473871683",
-          "blogger": "혜윰 커리어 아카이브",
+          "title": "엔비디아 급락 속 반사이익? AI데이터센터 관련주 AMD 주가 전망과 CPU....",
+          "link": "https://blog.naver.com/economytour/224474372130",
+          "blogger": "경제투어",
           "date": "2026-11-12"
         },
         {
-          "title": "SK쉴더스 경력직 면접 후기｜판교 본사 면접 질문, SK 인성검사 등등",
-          "link": "https://blog.naver.com/nanksh98/224469520601",
-          "blogger": "매일매일 블로그",
-          "date": "2026-11-09"
+          "title": "AMD 주가 전망-단기적 시나리오와 장기적 시나리오",
+          "link": "https://blog.naver.com/billiond/224474080825",
+          "blogger": "Billion D",
+          "date": "2026-11-13"
         },
         {
-          "title": "SK쉴더스 'AWS 위협 탐지 및 대응 컴피턴시' 국내 최초 획득하며 클라....",
-          "link": "https://blog.naver.com/asosei9/224430591463",
-          "blogger": "테크 픽 : 디지털 팁",
-          "date": "2026-10-03"
+          "title": "AMD 주가 13% 급등 이유, 구글 AI 반도체 협력 목표주가 600달러",
+          "link": "https://blog.naver.com/time_gold_/224471678525",
+          "blogger": "투자와 재테크를 위한 황금시간",
+          "date": "2026-11-10"
         },
         {
-          "title": "캡스홈, ADT캡스, SK쉴더스 뭐가 다를까? 이름과 관계 쉽게 정리",
-          "link": "https://blog.naver.com/alclswlsdud/224459418716",
-          "blogger": "티앤캡스",
-          "date": "2026-11-02"
+          "title": "AMD 주가 전망 2026, 엔비디아 추격에 지금 사도 될까? 실적과 목표주....",
+          "link": "https://blog.naver.com/dhsia0618/224472724640",
+          "blogger": "디지털노마드 l 경제ㆍ마케팅ㆍ브랜딩",
+          "date": "2026-11-11"
         },
         {
-          "title": "[서울과학기술대학교 취업서포터즈] SK쉴더스 기업체 취업특강 및 ....",
-          "link": "https://blog.naver.com/coldbay77/224462416432",
-          "blogger": "coldbay77님의블로그",
-          "date": "2026-11-02"
+          "title": "AMD 주가 전망 2026: 엔비디아 추격전 가속화, 지금 매수해도 될까?",
+          "link": "https://blog.naver.com/imma55555/224473055141",
+          "blogger": "imma5월드",
+          "date": "2026-11-11"
         }
       ],
       "topNews": [
         {
-          "title": "[오늘의 주요일정]사회(11월12일 목요일)",
-          "link": "https://www.newsis.com/view/NISX20261111_0003864571",
+          "title": "엔비디아, 젠슨 황 CEO 즉각 사임 발표…33년 만에 퇴진·주가 13% 급락 ...",
+          "link": "https://www.asiatoday.co.kr/kn/view.php?key=20261113010005034",
           "press": "",
-          "date": "2026-11-11"
+          "date": "2026-11-12"
         },
         {
-          "title": "[생생 Job] 정부와 기업의 사이버 위협의 수문장 정보보안 엔지니어",
-          "link": "https://www.livebiz.today/news/articleView.html?idxno=206104",
+          "title": "'젠슨황 충격'에 미 기술주 휘청...AMD·브로드컴 반사이익 기대",
+          "link": "https://www.ytn.co.kr/_ln/0104_202611130115303954",
           "press": "",
-          "date": "2026-11-11"
+          "date": "2026-11-12"
         },
         {
-          "title": "신종 랜섬웨어 걸린 파일 복구…SK쉴더스 ‘복호화 기술’ 고도화",
-          "link": "https://www.sedaily.com/article/20113193?ref=naver",
+          "title": "'젠슨황 충격'에 美기술주 휘청…AMD·브로드컴은 반사이익 기대",
+          "link": "https://www.yna.co.kr/view/AKR20261113001400072?input=1195m",
           "press": "",
-          "date": "2026-11-11"
+          "date": "2026-11-12"
         },
         {
-          "title": "SK쉴더스, 희망퇴직 실시…조직·인력 재정비",
-          "link": "https://www.newsis.com/view/NISX20261111_0003864432",
+          "title": "젠슨 황 퇴진, AI 선장을 잃다…엔비디아 33년 만에 리더십 교체",
+          "link": "https://www.hankyung.com/article/2026111339411",
           "press": "",
-          "date": "2026-11-11"
+          "date": "2026-11-12"
         },
         {
-          "title": "KISA는 공공기관, 금보원은 사단법인...보안업계 \"금융 공격이 따로 있나...",
-          "link": "https://www.techm.kr/news/articleView.html?idxno=157225",
+          "title": "뉴욕증시, 젠슨 황 엔비디아 CEO 사임 속 혼조 출발",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008843880&plink=ORI&cooper=NAVER",
           "press": "",
-          "date": "2026-11-11"
+          "date": "2026-11-12"
         }
       ],
       "rank": 9
     },
     {
-      "keyword": "rockets vs warriors",
-      "traffic": "100+",
-      "blogTotal": 1211,
-      "newsTotal": 49,
-      "recentToday": 1,
-      "recentWeek": 6,
+      "keyword": "해변",
+      "traffic": "500+",
+      "blogTotal": 8452371,
+      "newsTotal": 655854,
+      "recentToday": 0,
+      "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "37승 45패였던 워리어스, 52승 로키츠 원정서 9연승 노린다",
-          "link": "https://blog.naver.com/shitttcoin/224471908975",
-          "blogger": "콩스 엔비에-이",
-          "date": "2026-11-10"
+          "title": "강릉 영진해변 아이와 가볼만한곳｜가을 모래놀이·주차·준비물",
+          "link": "https://blog.naver.com/triplog_korea/224465823264",
+          "blogger": "지도 쓰는 클로이",
+          "date": "2026-11-06"
         },
         {
-          "title": "5월5일-5월9일 주간 키워드 검색량 리스트",
-          "link": "https://blog.naver.com/zeenty/223862958193",
-          "blogger": "지니의 아카이브",
-          "date": "2025-05-12"
+          "title": "강릉 강문해변 주차 준비물과 딸아이와 함께한 40분의 추억",
+          "link": "https://blog.naver.com/lifelove909/224470155209",
+          "blogger": "레인보우의 해피로그✨",
+          "date": "2026-11-09"
         },
         {
-          "title": "2021.03.18 Golden state warriors vs houston rockets",
-          "link": "https://blog.naver.com/zach_song/222279414893",
-          "blogger": "Ai1arts_u4",
-          "date": "2021-03-18"
+          "title": "제주도 서쪽 가볼만한곳 사계해변 낮과 밤 다른 사계해안 풍경",
+          "link": "https://blog.naver.com/noh_heeah/224436483850",
+          "blogger": "노햐의 여행 취향",
+          "date": "2026-10-09"
         },
         {
-          "title": "2013년 2월06일 10 : 00 골든스테이트 워리어스 vs 휴스턴 로키츠",
-          "link": "https://blog.naver.com/kshqwe23/150158839478",
-          "blogger": "석호의 스포츠세상",
-          "date": "2013-02-06"
+          "title": "강릉여행 가볼만한곳 강문해변, 주차장 위치·요금 및 방문 후기",
+          "link": "https://blog.naver.com/young7053/224412220109",
+          "blogger": "오늘도 다녀옴",
+          "date": "2026-09-15"
         },
         {
-          "title": "챕터북 음원 목록",
-          "link": "https://blog.naver.com/read2323/224385413555",
-          "blogger": "영어 오디오북 책방",
-          "date": "2026-08-21"
+          "title": "부산 해운대 블루라인파크｜해변열차·스카이캡슐 이용 전 꼭 확인....",
+          "link": "https://blog.naver.com/letsgo-825/224466661001",
+          "blogger": "간다면 간다",
+          "date": "2026-11-06"
         }
       ],
       "topNews": [
         {
-          "title": "Your Student Loan Questions",
-          "link": "https://www.nytimes.com/2025/05/05/briefing/your-student-loan-questions.html?partner=naver",
+          "title": "중국 여행 예약 85% 급증했다는 여행사…주목한 여행지는? [주간 여행 산...",
+          "link": "https://www.traveltimes.co.kr/news/articleView.html?idxno=500713",
           "press": "",
-          "date": "2025-05-05"
+          "date": "2026-11-12"
         },
         {
-          "title": "Say, Old Sport",
-          "link": "https://www.nytimes.com/2025/04/19/briefing/say-old-sport.html?partner=naver",
+          "title": "“나랑 별 보러 갈래?” 인연이 연인으로…무스비야의 마술",
+          "link": "https://www.joongang.co.kr/article/25478184",
           "press": "",
-          "date": "2025-04-19"
+          "date": "2026-11-12"
         },
         {
-          "title": "대한아이스하키협회, 男·女대표팀 세계선수권 동반 출전",
-          "link": "https://www.stnsports.co.kr/news/articleView.html?idxno=215414",
+          "title": "‘응칠 은각하’ 김선아, 스페인 작은 항구마을서 파격 노출",
+          "link": "https://www.mydaily.co.kr/page/view/2026111223180711796",
           "press": "",
-          "date": "2024-04-21"
+          "date": "2026-11-12"
         },
         {
-          "title": "(SP)U.S.-HOUSTON-BASKETBALL-NBA-WARRIORS VS ROCKETS",
-          "link": "https://n.news.naver.com/mnews/article/348/0000074710?sid=104",
+          "title": "[황유원의 어쩌다 마주친 문장] [102] 달과 사랑",
+          "link": "https://www.chosun.com/opinion/specialist_column/2026/11/12/2XD5HPLO5VCXBLY3Q5IZKQES2E/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
           "press": "",
-          "date": "2024-04-05"
+          "date": "2026-11-12"
         },
         {
-          "title": "(SP)U.S.-HOUSTON-BASKETBALL-NBA-WARRIORS VS ROCKETS",
-          "link": "https://n.news.naver.com/mnews/article/348/0000074709?sid=104",
+          "title": "구글 랩스 ‘테이블탑’, 말로 요청하면 여행 일정표·비용 정산기를 A...",
+          "link": "https://www.wikitree.co.kr/articles/1174211",
           "press": "",
-          "date": "2024-04-05"
+          "date": "2026-11-12"
         }
       ],
       "rank": 10
