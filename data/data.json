@@ -1,74 +1,74 @@
 {
-  "updatedAt": "2026-11-17T02:16:57.760Z",
+  "updatedAt": "2026-11-17T10:57:11.531Z",
   "source": "live",
   "keywords": [
     {
-      "keyword": "두산에너빌리티",
-      "traffic": "2000+",
-      "blogTotal": 248265,
-      "newsTotal": 130022,
+      "keyword": "농협은행",
+      "traffic": "200+",
+      "blogTotal": 1564680,
+      "newsTotal": 658475,
       "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "\"이런 반전이 있나\" 두산에너빌리티 주가 앞으로도 오른다고 해서 ....",
-          "link": "https://blog.naver.com/aloha_blossom/224472233495",
-          "blogger": "알로하의 경제 리포트",
+          "title": "2026 NH농협은행 6급 신규직원 채용 일정 총정리, 면접은 어떻게 볼까?....",
+          "link": "https://blog.naver.com/star2025-/224475564674",
+          "blogger": "취준생 별이의 잡담",
+          "date": "2026-11-13"
+        },
+        {
+          "title": "NH농협은행은 왜 농협중앙회에 3,788억 원을 낼까?｜농업지원사업비....",
+          "link": "https://blog.naver.com/tablenomics/224480416942",
+          "blogger": "TableNomics",
+          "date": "2026-11-17"
+        },
+        {
+          "title": "농협은행 고객센터 전화번호, 영업시간, 상담원 연결과 원활한 상담....",
+          "link": "https://blog.naver.com/sbn1024/224441067618",
+          "blogger": "경제 포커스",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "농협은행 영업점 방문예약 방법",
+          "link": "https://blog.naver.com/healyou_/224407975121",
+          "blogger": "캐스퍼 여행 블로그",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "NH농협은행 5급 면접 후기,준비는 농업지원사업비부터",
+          "link": "https://blog.naver.com/leejujin10047/224473382500",
+          "blogger": "단밤 취업클리닉",
           "date": "2026-11-11"
-        },
-        {
-          "title": "\"13만원 넘던 게 4만원대라니\" 두산에너빌리티 주가, 다시 사도 되는 ....",
-          "link": "https://blog.naver.com/traderfeels/224477394600",
-          "blogger": "트필 | Traderfeels",
-          "date": "2026-11-15"
-        },
-        {
-          "title": "\"나만 원전만 봤나\" 두산에너빌리티 주가 받친 뜻밖의 사업 어디?",
-          "link": "https://blog.naver.com/yrhong18/224439187016",
-          "blogger": "윤슬트래블",
-          "date": "2026-10-13"
-        },
-        {
-          "title": "“하...더 버텨야 하나?” 두산에너빌리티 주가 4만원대, 목표가 줄....",
-          "link": "https://blog.naver.com/lilac0404/224474088031",
-          "blogger": "ROHM",
-          "date": "2026-11-12"
-        },
-        {
-          "title": "두산에너빌리티 AI 발전정비, 장기 서비스와 연결되는 이유",
-          "link": "https://blog.naver.com/seulo_ol/224478039028",
-          "blogger": "슬이의 돈기부여",
-          "date": "2026-11-15"
         }
       ],
       "topNews": [
         {
-          "title": "두코바니 원전 품질보증감사에 체코 규제기관 참여…한수원, '협력 강화...",
-          "link": "http://www.e-platform.net/news/articleView.html?idxno=107055",
+          "title": "[금융픽] KB금융, 싱가포르서 데모데이…스타트업 진출 지원 外",
+          "link": "https://www.newsian.co.kr/news/articleView.html?idxno=101421",
           "press": "",
           "date": "2026-11-17"
         },
         {
-          "title": "30대 그룹 AI 투자 1위는 LG…카카오ㆍLS 순",
-          "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611170954419630388",
+          "title": "KB금융, 국내 스타트업 글로벌 진출 지원 위해 싱가포르서 데모데이 개...",
+          "link": "https://www.rcast.co.kr/news/articleView.html?idxno=32088",
           "press": "",
           "date": "2026-11-17"
         },
         {
-          "title": "한수원-체코 규제기관, 두코바니 원전 품질관리 첫 현장 점검",
-          "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445138",
+          "title": "NH농협은행, 디지털 금융으로 기업 고객 편의 강화",
+          "link": "http://www.00news.co.kr/news/articleView.html?idxno=108151",
           "press": "",
           "date": "2026-11-17"
         },
         {
-          "title": "체코 원자력 규제기관, 한국 두코바니 원전 설계 품질관리 첫 현장 참관",
-          "link": "https://www.businessplus.kr/news/articleView.html?idxno=119989",
+          "title": "변동형 금리, 고정형 추월… 주담대 차주 셈법 ‘복잡’",
+          "link": "https://www.segye.com/newsView/20261117515501?OutUrl=naver",
           "press": "",
           "date": "2026-11-17"
         },
         {
-          "title": "한수원, 체코 원전사업 품질관리 협력 강화… 규제기관 첫 참관 통해 신...",
-          "link": "https://www.energydaily.co.kr/news/articleView.html?idxno=205170",
+          "title": "신한금융 차기 은행장 등 자회사 CEO '숏리스트', 이르면 18일 '가시화'",
+          "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7194420",
           "press": "",
           "date": "2026-11-17"
         }
@@ -76,72 +76,72 @@
       "rank": 1
     },
     {
-      "keyword": "오태곤",
-      "traffic": "200+",
-      "blogTotal": 11995,
-      "newsTotal": 23874,
+      "keyword": "심정지",
+      "traffic": "500+",
+      "blogTotal": 271382,
+      "newsTotal": 271361,
       "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "SSG 오태곤 FA 잔류 확정! 3년 총액 11억 원 계약…2027 프로야구 FA 1호 ....",
-          "link": "https://blog.naver.com/kimnk3779/224480190225",
-          "blogger": "내가 그리는 이야기",
-          "date": "2026-11-17"
+          "title": "심정지 전조증상 5가지와 골든타임 총정리｜발생 즉시 해야 할 일",
+          "link": "https://blog.naver.com/kkami0_/224388817192",
+          "blogger": "까미웰릭스 (Kkamiwellix) : 현명한 건강 습관의 시작",
+          "date": "2026-08-24"
         },
         {
-          "title": "4년 18억 받은 오태곤이 3년 11억에 또 SSG를 택한 이유, 추신수 10억 얘....",
-          "link": "https://blog.naver.com/dnwls01335/224480246667",
-          "blogger": "우진스의 이야기",
-          "date": "2026-11-17"
+          "title": "심정지 전조증상과 골든타임, 원인까지 50대가 꼭 알아야 할 것들",
+          "link": "https://blog.naver.com/kaze_iro/224449782966",
+          "blogger": "바람빛 건강로그",
+          "date": "2026-10-22"
         },
         {
-          "title": "오태곤 FA 계약 3년 11억 원, SSG 잔류…FA 1호는 누구?",
-          "link": "https://blog.naver.com/battlemango/224480249151",
-          "blogger": "개발자 망고",
-          "date": "2026-11-17"
+          "title": "심정지 원인 심근경색이랑 다른 거더라고요",
+          "link": "https://blog.naver.com/livforest/224448945255",
+          "blogger": "비타언니가 알려주는 건강 팩트",
+          "date": "2026-10-21"
         },
         {
-          "title": "2027시즌 FA 1호 계약 탄생! SSG 오태곤과 3년 11억 원 재계약, 슈퍼백업 ....",
-          "link": "https://blog.naver.com/anlove718/224480164729",
-          "blogger": "케일리의 이슈노트",
-          "date": "2026-11-17"
+          "title": "심정지 뜻과 원인, 전조증상과 골든타임은?",
+          "link": "https://blog.naver.com/ifdream01/224442133980",
+          "blogger": "쇼니슈리별의 건강연구소",
+          "date": "2026-10-15"
         },
         {
-          "title": "FA 시장 첫 계약 주인공은 오태곤! SSG와 3년 총액 11억원 잔류",
-          "link": "https://blog.naver.com/schinmagazine/224480164348",
-          "blogger": "덕이매거진 | 스포츠에 진심인 덕후 오리",
-          "date": "2026-11-17"
+          "title": "심정지 원인과 초기증상,후기 놓치기 쉬운 신호 알아보기",
+          "link": "https://blog.naver.com/fly00004/224431734244",
+          "blogger": "오로라왕국",
+          "date": "2026-10-05"
         }
       ],
       "topNews": [
         {
-          "title": "SSG, FA 오태곤과 3년 11억 원에 재계약...\"특별한 팀에서 선수 생활 이...",
-          "link": "https://www.joongboo.com/news/articleView.html?idxno=363742731",
+          "title": "트레일러 3대 연쇄 추돌…3명 사상",
+          "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000560428",
           "press": "",
           "date": "2026-11-17"
         },
         {
-          "title": "오태곤, SSG와 3년 총액 11억원 FA 계약…두 번째 동행 이어간다",
-          "link": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=435609",
+          "title": "전남광주 제2순환도로서 전동휠체어 탄 80대, 16톤 특장차에 치여 숨져",
+          "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000083801",
           "press": "",
           "date": "2026-11-17"
         },
         {
-          "title": "입이 떡 벌어진다… 양의지가 두산서 받게 된 ‘상상 초월’ FA 금액",
-          "link": "https://www.wikitree.co.kr/articles/1175209",
+          "title": "울산소방본부, 산불·구급 현장 유공 소방관 4명 특별승진",
+          "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1070684",
           "press": "",
           "date": "2026-11-17"
         },
         {
-          "title": "SSG, 오태곤과 3년 11억원 FA 계약…두 번째 동행도 선택",
-          "link": "https://www.kukinews.com/article/view/kuk202611170066",
+          "title": "심정지 아기, 쓰러진 운전자…두 생명 구한 ‘심폐소생술’",
+          "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8715214&ref=A",
           "press": "",
           "date": "2026-11-17"
         },
         {
-          "title": "양의지, '2년 총액 55억' 두산 잔류…SSG, 3년 총액 11억에 오태곤 잡아",
-          "link": "http://www.yonhapnewstv.co.kr/news/AKR20261117104658OQ4",
+          "title": "전남광주 순환도로서 전동휠체어 탄 80대 특장차에 치여 숨져",
+          "link": "https://www.yna.co.kr/view/AKR20261117163800054?input=1195m",
           "press": "",
           "date": "2026-11-17"
         }
@@ -149,72 +149,72 @@
       "rank": 2
     },
     {
-      "keyword": "전쟁",
-      "traffic": "2000+",
-      "blogTotal": 14519985,
-      "newsTotal": 5140758,
+      "keyword": "싱가포르 대 브라질",
+      "traffic": "5000+",
+      "blogTotal": 41090,
+      "newsTotal": 3608,
       "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "연애전쟁 최종 20회,박종원 강주아 커플 막말녀 vs 사오정남 이야기",
-          "link": "https://blog.naver.com/uiopuiop76/224471925504",
-          "blogger": "우리는 오늘태어나 오늘죽는다",
-          "date": "2026-11-10"
+          "title": "⚽ 일본 대 브라질 3대2! 추가시간 극장골과 경기 결과 총정리",
+          "link": "https://blog.naver.com/earlyrabbit6059/224477409538",
+          "blogger": "오늘의 평양냉면",
+          "date": "2026-11-15"
         },
         {
-          "title": "연기도 시청률도 좋았는데 결말로 엄청 욕먹은 최수종 김동준 드라....",
-          "link": "https://blog.naver.com/3hgym/224472145237",
-          "blogger": "드라마도파민",
-          "date": "2026-11-11"
+          "title": "싱가포르 vs 브라질 11월 17일 A매치 경기 분석｜예상 라인업·부상 선....",
+          "link": "https://blog.naver.com/seed3033/224479888455",
+          "blogger": "생활정보꿀팁맨",
+          "date": "2026-11-17"
         },
         {
-          "title": "연애전쟁 술꾼커플 결말, 연애전쟁 19회에서 29세 동갑내기는 왜 이....",
-          "link": "https://blog.naver.com/k9024246/224464309570",
-          "blogger": "잇픽 블로그",
-          "date": "2026-11-06"
+          "title": "우루과이, 메시 떠난 아르헨티나에 2-1 승리! 11월 14일 A매치 결과 총....",
+          "link": "https://blog.naver.com/xton1031/224476681654",
+          "blogger": "나눔터지역아동센터 사랑이야기",
+          "date": "2026-11-14"
         },
         {
-          "title": "이효리 연애전쟁 종영, 유리 “효리 언니 안 따라하는 사람이 있어?....",
-          "link": "https://blog.naver.com/yd2270/224471535399",
-          "blogger": "일상 그리고 끄적",
-          "date": "2026-11-10"
+          "title": "일본, 브라질 또 3-2로 꺾었다 — 싱가포르 극장 골 총정리",
+          "link": "https://blog.naver.com/dolmun82/224477624307",
+          "blogger": "dolmun82님의 블로그",
+          "date": "2026-11-15"
         },
         {
-          "title": "트로이전쟁 실제 실화인가? 전쟁 원인, 줄거리, 헬레네 등 핵심 인물....",
-          "link": "https://blog.naver.com/ppmnm/224387266849",
-          "blogger": "하루 한 View",
-          "date": "2026-08-23"
+          "title": "일본, 브라질에 3대2 승리…싱가포르 친선전 막판 결승골",
+          "link": "https://blog.naver.com/tksrhf402/224477235153",
+          "blogger": "캐라니스",
+          "date": "2026-11-14"
         }
       ],
       "topNews": [
         {
-          "title": "성경을 처음부터 읽어야 한다는 생각을 바꾸다",
-          "link": "https://monthly.chosun.com/news/articleView.html?idxno=71990",
+          "title": "“간첩 아닐수도” 미합‘중국’ 대통령만 감싸는 젠슨황…엔비디아 답...",
+          "link": "https://www.mk.co.kr/article/12211581",
           "press": "",
           "date": "2026-11-17"
         },
         {
-          "title": "아시아 각국, 시험장 첨단 부정행위와의 전쟁",
-          "link": "https://www.fnnews.com/news/202611171102012099",
+          "title": "동남아 AI 망 막히자 홍콩 H200 대안 부상…한국 반도체 주시",
+          "link": "https://www.g-enews.com/view.php?ud=202611171928352013fbbec65dfb_1",
           "press": "",
           "date": "2026-11-17"
         },
         {
-          "title": "삼진식품, 10년 사회공헌 시동…어묵 판매로 세계유산 지킨다",
-          "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=89670",
+          "title": "오픈AI, AMD 손잡고 AI 인프라 다변화···美, 제3국 통한 中 반도체 접...",
+          "link": "http://www.hellodd.com/news/articleView.html?idxno=113897",
           "press": "",
           "date": "2026-11-17"
         },
         {
-          "title": "양의지 첫 테이프…'우승 청구서' 받은 삼성, 원태인·구자욱 지킬까",
-          "link": "https://www.sidae.com/article/2026111710280816553",
+          "title": "미, AI 반도체 ‘원격 이용’까지 통제… 국내 기업, 공급망 관리 부담...",
+          "link": "https://www.seoul.co.kr/news/economy/industry/2026/11/17/20261117500332?wlog_tag3=naver",
           "press": "",
           "date": "2026-11-17"
         },
         {
-          "title": "대한해운, 3분기 영업이익 588억…전년比 0.9%↓",
-          "link": "https://www.sedaily.com/article/20115321?ref=naver",
+          "title": "'황 컴백' 두둔한 백악관 … 엔비디아 \"안돼\"",
+          "link": "https://www.mk.co.kr/article/12211408",
           "press": "",
           "date": "2026-11-17"
         }
@@ -222,72 +222,72 @@
       "rank": 3
     },
     {
-      "keyword": "김포시",
-      "traffic": "100+",
-      "blogTotal": 6127470,
-      "newsTotal": 357796,
+      "keyword": "축구 감독",
+      "traffic": "200+",
+      "blogTotal": 1487300,
+      "newsTotal": 2112074,
       "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "김포시 주택공급 예정지 총정리",
-          "link": "https://blog.naver.com/ppassong/224473912972",
-          "blogger": "빠숑의 세상 답사기",
-          "date": "2026-11-12"
+          "title": "미국 축구대표팀 차기 감독 후보는? (포체티노 후임)",
+          "link": "https://blog.naver.com/gangtefootball/224478251587",
+          "blogger": "강테 풋볼",
+          "date": "2026-11-16"
         },
         {
-          "title": "2026 하반기 김포시 일자리 박람회, 36개 기업 현장면접부터 취업지원....",
-          "link": "https://blog.naver.com/gimpo2010/224474399669",
-          "blogger": "김포시 공식블로그",
-          "date": "2026-11-12"
+          "title": "“한국 축구, 또 감독 교체하나?” 모레노 계약 만료가 남긴 불안한 ....",
+          "link": "https://blog.naver.com/dnl0315/224476388098",
+          "blogger": "오늘의 경기장",
+          "date": "2026-11-15"
         },
         {
-          "title": "산과 강, 바다를 품은 라운딩｜김포씨사이드CC 후기",
-          "link": "https://blog.naver.com/elisa321/224474187509",
-          "blogger": "나의 두번 째 라운드",
-          "date": "2026-11-12"
+          "title": "【축구 이야기 이모저모】 프로 경험이 없는 고교축구 감독은 어떻....",
+          "link": "https://blog.naver.com/hkch0709/224474898255",
+          "blogger": "hkch0709님의블로그",
+          "date": "2026-11-13"
         },
         {
-          "title": "김포 오마카세 파파스시 후기｜창밖 풍경을 바라보며 즐기는 오마....",
-          "link": "https://blog.naver.com/ggossunae/224469916657",
-          "blogger": "꼬순내 나는 일상",
-          "date": "2026-11-09"
+          "title": "“국가대표팀이 봉사활동도 아니고!” 황인범이 작심하고 꺼낸 한....",
+          "link": "https://blog.naver.com/assetresearch/224480543277",
+          "blogger": "스포츠 인사이드",
+          "date": "2026-11-17"
         },
         {
-          "title": "김포시 실수요자들이 몰래 검색하는 아파트 TOP5, 실거래가부터 학군....",
-          "link": "https://blog.naver.com/gov15/224441379980",
-          "blogger": "도토리창고",
-          "date": "2026-10-15"
+          "title": "정몽규 떠났더니 '이 인물'에 국내파 감독? 축구협회 다시 돌아가나",
+          "link": "https://blog.naver.com/ssoinfo/224478873298",
+          "blogger": "레아빠의 스포츠 이야기",
+          "date": "2026-11-17"
         }
       ],
       "topNews": [
         {
-          "title": "김포시, 나이·장애 넘어 누구나 운동하는 도시…‘2027년 체육정책 확...",
-          "link": "https://sports.donga.com/region/article/all/20261117/135037842/1",
+          "title": "맨유 탙출이 보약이었나...쫓겨난 캐릭 포착, \"주름 사라지고 5년은 젊어...",
+          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100898",
           "press": "",
           "date": "2026-11-17"
         },
         {
-          "title": "이기형 김포시장, 2027년 시민체육 활성화 추진...생활체육·시설 확충",
-          "link": "https://www.ajunews.com/view/20261117103020459",
+          "title": "'김민수 결정적 선방 2회' 김은중호, 멕시코와 치열한 공방전 끝 전반전...",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=698652",
           "press": "",
           "date": "2026-11-17"
         },
         {
-          "title": "북한 이탈 예술인, 북녘 눈앞 김포 애기봉서 소해금·아코디언 연주",
-          "link": "https://www.jasm.co.kr/news/view/325529/?sc=Naver",
+          "title": "탄탄한 김은중호, 공수 간격·조직력 돋보인 전반전…김준하·김예건 측...",
+          "link": "https://www.sportsseoul.com/news/read/1650429?ref=naver",
           "press": "",
           "date": "2026-11-17"
         },
         {
-          "title": "'제21회 김포시장기 금쌀사랑 종별 생활체육 농구대회' 성료... 동호인 ...",
-          "link": "https://www.tournews21.com/news/articleView.html?idxno=148653",
+          "title": "[442.live] '김은중호 기대감 폭발' 강호 멕시코와 막상막하 우중 혈투…...",
+          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100899",
           "press": "",
           "date": "2026-11-17"
         },
         {
-          "title": "[기고] 소설, 얼음이 얼어도 농부의 희망은 봄을 향한다",
-          "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1312595",
+          "title": "‘이등병' 김준하 돌파력 미쳤네! 수중전에서 잘싸운 태극전사들, 전반...",
+          "link": "http://www.osen.co.kr/article/G1112911476",
           "press": "",
           "date": "2026-11-17"
         }
@@ -295,417 +295,398 @@
       "rank": 4
     },
     {
-      "keyword": "남진",
-      "traffic": "200+",
-      "blogTotal": 196889,
-      "newsTotal": 75029,
-      "recentToday": 65,
+      "keyword": "파운드리",
+      "traffic": "500+",
+      "blogTotal": 479517,
+      "newsTotal": 257566,
+      "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "가수 남진(1945~) 프로필 총정리, 나이·본명·아버지·윤복희 이혼부....",
-          "link": "https://blog.naver.com/chswkd2022/224473048030",
-          "blogger": "촌장의 life style",
-          "date": "2026-11-11"
+          "title": "반도체 팹리스/파운드리 구분이 어떻게 되는건가요?",
+          "link": "https://blog.naver.com/dh013208/224475224233",
+          "blogger": "호야의 블로그",
+          "date": "2026-11-13"
         },
         {
-          "title": "남진 프로필 | 나이 와이프 강정현 자녀 윤복희 근황 미운우리새끼 ....",
-          "link": "https://blog.naver.com/alllck/224476906782",
-          "blogger": "오늘예능",
+          "title": "반도체 회사에도 종류가 있다? 팹리스·파운드리·IDM 차이 쉽게 정리",
+          "link": "https://blog.naver.com/ever_up/224473551106",
+          "blogger": "돈집사 노트",
           "date": "2026-11-15"
         },
         {
-          "title": "남진 윤복희 이혼 후 달라진 인생, 자녀에게도 차이가 있었다",
-          "link": "https://blog.naver.com/everythingforyou/224479323852",
-          "blogger": "소소한 발견",
-          "date": "2026-11-16"
+          "title": "파운드리란 무엇일까? TSMC·삼성전자와 AI 반도체 산업의 구조",
+          "link": "https://blog.naver.com/ring060/224472484170",
+          "blogger": "부의 서재",
+          "date": "2026-11-11"
         },
         {
-          "title": "\"가수 남진 별세 사실일까? 가짜뉴스였다\" 현재 근황과 나이·대표곡....",
-          "link": "https://blog.naver.com/ironicman8/224399069423",
-          "blogger": "솔직한 엔터노트",
-          "date": "2026-09-02"
+          "title": "삼성 파운드리, AMD 수주로 부활할까? HBM 베이스다이의 의미",
+          "link": "https://blog.naver.com/planbstudio91/224469337694",
+          "blogger": "일상의 경제를 알기 쉽게 풀어 드립니다.",
+          "date": "2026-11-17"
         },
         {
-          "title": "남진, 죽을 고비 넘긴 그날… 다시 무대에 선 사연",
-          "link": "https://blog.naver.com/reporter-park/224440561248",
-          "blogger": "박기자의 세상창",
-          "date": "2026-10-13"
+          "title": "삼성전자 투자자 포럼 11월 18일 개최｜AI 반도체·파운드리·메모리·....",
+          "link": "https://blog.naver.com/manual_note/224476602687",
+          "blogger": "하루 생활 설명서",
+          "date": "2026-11-14"
         }
       ],
       "topNews": [
         {
-          "title": "[여행을 떠나요] 문경의 가을… 천년 옛길부터 단풍 절경까지",
-          "link": "https://www.newscj.com/news/articleView.html?idxno=3449318",
+          "title": "대형 메모리株 조정에 중소형 반도체株 '신바람'…투자 시선은 설계 기...",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505202",
           "press": "",
           "date": "2026-11-17"
         },
         {
-          "title": "故정춘이 일병 유해발굴…한살배기 외동딸은 77세로 재회",
-          "link": "https://www.yna.co.kr/view/AKR20261117044800504?input=1195m",
+          "title": "대전문화재단, 아티언스대전 개막…'예술과 과학의 새로운 실험'",
+          "link": "https://www.news1.kr/local/daejeon-chungnam/6357258",
           "press": "",
           "date": "2026-11-17"
         },
         {
-          "title": "동진하던 中의 군사력, 이제 동남아ㆍ서남아로 [중국 군사굴기]",
-          "link": "http://weekly.chosun.com/news/articleView.html?idxno=57097",
+          "title": "[현장] \"기술 넘어 시장 신뢰 증명할 골든타임\"…2026 하반기 IBK 창공 데...",
+          "link": "http://www.newsprime.co.kr/news/article.html?no=755368",
           "press": "",
-          "date": "2026-11-16"
+          "date": "2026-11-17"
         },
         {
-          "title": "남진, 아직 미혼인 40대 두 딸 공개→허경환과 임원희 중 사위는?…\"다음...",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16278225",
+          "title": "황 없는 엔비디아, 동남아 우회로도 막혔다…매출 10% 증발 우려",
+          "link": "https://www.ajunews.com/view/20261117135314063",
           "press": "",
-          "date": "2026-11-16"
+          "date": "2026-11-17"
         },
         {
-          "title": "[기고] 서울 청년타운은 ‘미래 인재 키우는 인큐베이터’",
-          "link": "https://www.segye.com/newsView/20261116514150?OutUrl=naver",
+          "title": "[특징주] 세미파이브, HBM 대체할 3D-IC 기술 공개…주가 18%대 급등",
+          "link": "https://www.moneystorm.kr/news/articleView.html?idxno=8536",
           "press": "",
-          "date": "2026-11-16"
+          "date": "2026-11-17"
         }
       ],
       "rank": 5
     },
     {
-      "keyword": "롤 스토브",
-      "traffic": "200+",
-      "blogTotal": 9107,
-      "newsTotal": 1794,
-      "recentToday": 38,
+      "keyword": "박선주",
+      "traffic": "2000+",
+      "blogTotal": 36271,
+      "newsTotal": 26226,
+      "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "2027 롤 스토브리그 FA 선수 명단 총정리, 도란·기인·제우스 등 주요 ....",
-          "link": "https://blog.naver.com/mrjangjae1/224474689816",
-          "blogger": "펭귄의 푸른 그라운드 : 축구 이야기와 삼성 라이온즈",
-          "date": "2026-11-12"
+          "title": "가수 박선주는 누구? 나이 키 출신학교 가족 및 근황 총정리",
+          "link": "https://blog.naver.com/assetpick/224478092734",
+          "blogger": "머니레시피",
+          "date": "2026-11-15"
         },
         {
-          "title": "2026 롤 스토브리그 찌라시 총정리! 제우스 T1 복귀 가능성 상승? 도란....",
-          "link": "https://blog.naver.com/bloginfluencer/224472189714",
-          "blogger": "코어남자의 게임리포트",
-          "date": "2026-11-10"
+          "title": "박선주 김범수보컬 스승 남편 강레오 딸 에이미 나이 고향 가수",
+          "link": "https://blog.naver.com/jihoomin_/224477986894",
+          "blogger": "Soo's story",
+          "date": "2026-11-15"
         },
         {
-          "title": "2027 롤 스토브리그 정리 LCK 주요 이적설",
-          "link": "https://blog.naver.com/dbwlgns40/224474546944",
-          "blogger": "겜블리의블로그",
-          "date": "2026-11-12"
+          "title": "강레오 박선주 별거 이유 이혼설 나오는 진짜 이유와 현재 관계",
+          "link": "https://blog.naver.com/jdj4125/224454293093",
+          "blogger": "지니스토리",
+          "date": "2026-10-26"
         },
         {
-          "title": "롤 스토브리그 시작, 젠지 기인·캐니언 계약 종료와 FA 일정",
-          "link": "https://blog.naver.com/togetheri/224480222834",
-          "blogger": "안드로이드 게임",
+          "title": "박선주, ‘남사친’ 오해 직접 해명…강레오와 월간부부 이야기",
+          "link": "https://blog.naver.com/ne22ne22/224480244945",
+          "blogger": "건우빠빠의 스타이슈 브리핑",
           "date": "2026-11-17"
         },
         {
-          "title": "제우스, 한화생명과 재계약 불발? T1 복귀 가능성은 몇 %일까? 2026 롤 ....",
-          "link": "https://blog.naver.com/kytothee/224474850723",
-          "blogger": "# 루프리텔캄",
+          "title": "\"사귄 지 2년 정도 됐다\" 강레오와 각집살이 중인 박선주 남사친 고....",
+          "link": "https://blog.naver.com/njabmam/224479380813",
+          "blogger": "N잡러 캠핑맘",
           "date": "2026-11-17"
         }
       ],
       "topNews": [
         {
-          "title": "5년 만에 중국에 내준 월즈 트로피…LCK로서도 나쁘지 않은 이유",
-          "link": "https://www.newsworker.co.kr/news/articleView.html?idxno=514271",
+          "title": "'5년 불륜' 상간녀 난자로 아내 임신시킨 男…데프콘 \"본처가 대리모라...",
+          "link": "https://www.tvreport.co.kr/entertainment/article/1091536/",
           "press": "",
-          "date": "2026-11-16"
+          "date": "2026-11-17"
         },
         {
-          "title": "'페덱·아빌라급 KBO폭격기 등장?'…160㎞ 파이어볼러 풀렸다! KBO구단들...",
-          "link": "https://www.sportschosun.com/baseball/2026-11-15/202611150100097090009053",
+          "title": "박선주, 강레오와 7년 별거...\"남친 생겼다\" 정체에 폭소",
+          "link": "https://www.mt.co.kr/entertainment/2026/11/17/2026111709154313897",
           "press": "",
-          "date": "2026-11-14"
+          "date": "2026-11-17"
         },
         {
-          "title": "이번엔 어른 멜로다… '재혼 황후' 신민아 차기작으로 난리 난 한국 드...",
-          "link": "https://www.wikitree.co.kr/articles/1172014",
+          "title": "탐정들의 영업비밀, 모녀 사망 미스터리·대리모 충격 사연 공개",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16278654",
           "press": "",
-          "date": "2026-11-07"
+          "date": "2026-11-17"
         },
         {
-          "title": "조병규, 황금 의상 입고 무대 한가운데…첫 뮤지컬 여운 전한 근황",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16263983",
+          "title": "‘미스터트롯4′ 12월 17일 첫 방송... “어린 최백호를 만났다”",
+          "link": "https://www.chosun.com/culture-life/culture_general/2026/11/17/GUGJEOEOZBCWTLDHBJGLBBRFAI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
           "press": "",
-          "date": "2026-10-30"
+          "date": "2026-11-17"
         },
         {
-          "title": "10명이 먹는데 35불…월마트 추수감사절 식사 세트 공개",
-          "link": "https://www.koreadaily.com/article/20261029135255883",
+          "title": "데프콘, 내연녀 난자로 임신시킨 남편 실체… \"본처가 대리모 되다니 충...",
+          "link": "https://mhnse.com/news/articleView.html?idxno=1700031",
           "press": "",
-          "date": "2026-10-29"
+          "date": "2026-11-17"
         }
       ],
       "rank": 6
     },
     {
-      "keyword": "김주애",
-      "traffic": "5000+",
-      "blogTotal": 13727,
-      "newsTotal": 19784,
-      "recentToday": 31,
-      "recentWeek": 96,
+      "keyword": "원주 db 대 안양 정관장",
+      "traffic": "500+",
+      "blogTotal": 5503,
+      "newsTotal": 1570,
+      "recentToday": 43,
+      "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "김주애 또 등장했다…김정은과 백두산 시찰, 스키복보다 놀라운 장....",
-          "link": "https://blog.naver.com/jalanika1/224480113579",
-          "blogger": "하늘아이 매거진",
+          "title": "원주 DB 안양 정관장11월 17일 KBL 분석정관장 가드 셋의 패스를 DB가 ....",
+          "link": "https://blog.naver.com/poten99/224480606654",
+          "blogger": "포텐",
           "date": "2026-11-17"
         },
         {
-          "title": "김정은·김주애 백두산 시찰…트럼프 \"김정은과 만날 수도\" 북미 정....",
-          "link": "https://blog.naver.com/lovejh-/224480139738",
-          "blogger": "데일리 인포로그",
+          "title": "11월 17일 KBL 남자농구 경기 총정리! 원주 DB vs 안양 정관장 오후 7시, ....",
+          "link": "https://blog.naver.com/kojin1562/224480070642",
+          "blogger": "경기장 옆자리",
           "date": "2026-11-17"
         },
         {
-          "title": "북한 김주애 나이, 본명, 과거 데니스 로드먼 폭로까지 총정리",
-          "link": "https://blog.naver.com/knowledge4all/224425363338",
-          "blogger": "세상의 모든 건강의학 지식",
-          "date": "2026-09-29"
+          "title": "11월 17일 원주 DB vs 안양 정관장 | 엘런슨 돌아온 DB, 4연승 정관장 막....",
+          "link": "https://blog.naver.com/ggiggi_1004/224479266591",
+          "blogger": "스포츠에 죽고 스포츠에 산다",
+          "date": "2026-11-16"
         },
         {
-          "title": "김정은이 부인 이설주 대신 딸 김주애를 대동하는 이유",
-          "link": "https://blog.naver.com/golf3431/224468207080",
-          "blogger": "golf신님의블로그",
-          "date": "2026-11-07"
+          "title": "원주 DB 안양 정관장, 17일 원주 농구 예매와 지난 95대 93 경기 기록",
+          "link": "https://blog.naver.com/gkaxogns77/224480062939",
+          "blogger": "일상뉴스",
+          "date": "2026-11-17"
         },
         {
-          "title": "김주애 프로필 및 후계 구도 총정리ㅣ국정원 '사실상 후계자 내정'·....",
-          "link": "https://blog.naver.com/jjwking8258/224397375576",
-          "blogger": "탑글라스 차유리 동탄 오산점",
-          "date": "2026-09-01"
+          "title": "2026 원주 DB 안양 정관장 농구 경기시간·중계·순위! 누가 이길까?",
+          "link": "https://blog.naver.com/oninsight365/224480481492",
+          "blogger": "oninsight365님의 블로그",
+          "date": "2026-11-17"
         }
       ],
       "topNews": [
         {
-          "title": "‘백두혈통’ 상징 백두산 찾은 김정은…딸 주애는 흰 스키복 입고 활강",
-          "link": "https://www.segye.com/newsView/20261117504295?OutUrl=naver",
+          "title": "[핌in원주] 안방 4연승 도전 DB에 악재, 이규섭 감독 \"해먼즈 2주 이탈\"",
+          "link": "https://www.newspim.com/news/view/20261117001328",
           "press": "",
           "date": "2026-11-17"
         },
         {
-          "title": "김정은, 딸 김주애와 백두산 인근 삼지연 시찰… ‘단독 스키’ 사진 공...",
-          "link": "https://www.chosun.com/politics/north_korea/2026/11/17/MS4KOUDL2ZCS3EY5AG4PLNZR3Q/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+          "title": "화끈한 공격, 허술한 골밑…원주DB, 리바운드부터 잡아라",
+          "link": "https://www.kwnews.co.kr/article/20261116501245",
           "press": "",
-          "date": "2026-11-17"
+          "date": "2026-11-16"
         },
         {
-          "title": "스키 타는 北 김주애 사진 공개...'200만원' 스키복 착용 추정",
-          "link": "https://www.ytn.co.kr/_ln/0101_202611171052062049",
+          "title": "[현장인터뷰]'패장' 이규섭 감독 \"레이션 해먼즈, 넘어지면서 통증…무...",
+          "link": "https://www.sportschosun.com/basketball/2026-11-15/202611150100100570009331",
           "press": "",
-          "date": "2026-11-17"
+          "date": "2026-11-15"
         },
         {
-          "title": "흰색 스키복 입고 등장한 김주애...상·하의 합치면 최대 200만원?",
-          "link": "https://www.dailian.co.kr/news/view/1715933/?sc=Naver",
+          "title": "[BK 프리뷰] 대역전패했던 LG? 대역전승했던 SK?",
+          "link": "https://basketkorea.com/news/newsview.php?ncode=1065616285393975",
           "press": "",
-          "date": "2026-11-17"
+          "date": "2026-11-11"
         },
         {
-          "title": "설원 가른 김주애…흰색 스키복 어디 제품인가 보니",
-          "link": "https://view.asiae.co.kr/article/2026111710270131670",
+          "title": "[수비수의 시선] 현대모비스의 수비 사고는 이정현으로부터 일어났다, ...",
+          "link": "https://basketkorea.com/news/newsview.php?ncode=1065616221904928",
           "press": "",
-          "date": "2026-11-17"
+          "date": "2026-11-11"
         }
       ],
       "rank": 7
     },
     {
-      "keyword": "파라타항공",
-      "traffic": "100+",
-      "blogTotal": 14458,
-      "newsTotal": 5229,
-      "recentToday": 26,
-      "recentWeek": 100,
+      "keyword": "singapore vs brazil",
+      "traffic": "1000+",
+      "blogTotal": 765,
+      "newsTotal": 218,
+      "recentToday": 5,
+      "recentWeek": 7,
       "topBlogs": [
         {
-          "title": "인천공항 파라타항공 선전행 항공권, 예약 방법과 운항 일정 총정리",
-          "link": "https://blog.naver.com/log_routine/224471786459",
-          "blogger": "log_routine님의 블로그",
-          "date": "2026-11-10"
+          "title": "[축구_남축INTL_8경기_261117,18]4428싱가포르:브라질,4447중국:바레인,4451....",
+          "link": "https://blog.naver.com/a10xxxx7334/224480229048",
+          "blogger": "농구,야구,배구,축구",
+          "date": "2026-11-17"
         },
         {
-          "title": "파라타항공 승무원 채용 총정리｜위닉스가 인수한 신생 항공사, 취....",
-          "link": "https://blog.naver.com/hongdaekorea_seyoung/224475814805",
-          "blogger": "홍대승무원학원 코리아세영쌤",
-          "date": "2026-11-13"
+          "title": "The Incredibly Weird And Consequential Timing for Anthropic’s IPO",
+          "link": "https://blog.naver.com/wowinchon/224480465242",
+          "blogger": "wowinchon님의 블로그",
+          "date": "2026-11-17"
         },
         {
-          "title": "파라타항공 좌석지정 비용과 무료로 하는 방법, 체크인 시간·취소 ....",
-          "link": "https://blog.naver.com/erina98/224475501462",
-          "blogger": "생활의 정답노트",
-          "date": "2026-11-13"
+          "title": "싱가포르 vs 브라질 경기 분석, 직전 패배보다 중요한 측면 공격과 ....",
+          "link": "https://blog.naver.com/stc-0005/224479538284",
+          "blogger": "승부를 읽는 기준, Z의 분석",
+          "date": "2026-11-17"
         },
         {
-          "title": "파라타항공 좌석지정 무료 방법, 국내선·국제선 가격과 체크인 시....",
-          "link": "https://blog.naver.com/emrehddl/224475504025",
-          "blogger": "정보광장",
-          "date": "2026-11-13"
+          "title": "2026.11.12(목) 오전 11시 기준 주요 Headline Summary — 세계 뉴스로 배우는....",
+          "link": "https://blog.naver.com/yoyonv/224474159451",
+          "blogger": "미래엔영어 울산지사",
+          "date": "2026-11-12"
         },
         {
-          "title": "파라타항공 총정리 | 수하물·체크인·좌석·터미널·기내식·국적·....",
-          "link": "https://blog.naver.com/daaonii/224468497459",
-          "blogger": "다온이의 즐거운 일상☀️",
-          "date": "2026-11-07"
+          "title": "[공유]",
+          "link": "https://blog.naver.com/jongtete/224480112970",
+          "blogger": "jongtete님의블로그",
+          "date": "2026-11-17"
         }
       ],
       "topNews": [
         {
-          "title": "파라타항공, 인천~LA 항공권 판매 개시…내년 5월 첫 취항",
-          "link": "https://www.dailian.co.kr/news/view/1716008/?sc=Naver",
+          "title": "SINGAPORE SOCCER",
+          "link": "https://n.news.naver.com/mnews/article/091/0010371531?sid=104",
           "press": "",
           "date": "2026-11-17"
         },
         {
-          "title": "파라타항공, LA 항공권 판매 개시…대한항공·에어프레미아와 미주 노선...",
-          "link": "https://www.kukinews.com/article/view/kuk202611170062",
+          "title": "SINGAPORE SOCCER",
+          "link": "https://n.news.naver.com/mnews/article/091/0010371530?sid=104",
           "press": "",
           "date": "2026-11-17"
         },
         {
-          "title": "파라타항공, 첫 미주 노선 LA 항공권 판매 개시… 내년 5월 취항",
-          "link": "https://www.viva100.com/article/20261117500418",
+          "title": "SINGAPORE SOCCER",
+          "link": "https://n.news.naver.com/mnews/article/091/0010371512?sid=104",
           "press": "",
           "date": "2026-11-17"
         },
         {
-          "title": "파라타항공, 내년 5월 인천~LA 매일 운항…첫 미주 노선 판매 개시",
-          "link": "https://www.mt.co.kr/industry/2026/11/17/2026111709541769331",
+          "title": "SINGAPORE SOCCER",
+          "link": "https://n.news.naver.com/mnews/article/091/0010368709?sid=104",
           "press": "",
-          "date": "2026-11-17"
+          "date": "2026-11-14"
         },
         {
-          "title": "파라타항공, 국제선 취항 1년 만에 미주 진출…LA 노선 판매 개시",
-          "link": "http://www.kdfnews.com/news/articleView.html?idxno=191030",
+          "title": "SINGAPORE SOCCER",
+          "link": "https://n.news.naver.com/mnews/article/091/0010368707?sid=104",
           "press": "",
-          "date": "2026-11-17"
+          "date": "2026-11-14"
         }
       ],
       "rank": 8
     },
     {
-      "keyword": "뉴올리언스 대 골든 스테이트",
-      "traffic": "2000+",
-      "blogTotal": 3225,
-      "newsTotal": 666,
-      "recentToday": 1,
-      "recentWeek": 69,
+      "keyword": "bangladesh vs south africa",
+      "traffic": "100+",
+      "blogTotal": 23923,
+      "newsTotal": 23,
+      "recentToday": 3,
+      "recentWeek": 19,
       "topBlogs": [
         {
-          "title": "스테픈 커리 21분 뛰고 25점 폭발! 골든스테이트 138대87 대승…무려 51....",
-          "link": "https://blog.naver.com/twinis3/224473770355",
-          "blogger": "twinis3님의블로그",
+          "title": "2026.11.12(목) 오전 11시 기준 주요 Headline Summary — 세계 뉴스로 배우는....",
+          "link": "https://blog.naver.com/yoyonv/224474159451",
+          "blogger": "미래엔영어 울산지사",
           "date": "2026-11-12"
         },
         {
-          "title": "뉴올리언스 vs 골든스테이트 정밀 분석 및 최종 픽",
-          "link": "https://blog.naver.com/arsenal87_/224479543565",
-          "blogger": "여러분과 나의 어닝서프라이즈",
-          "date": "2026-11-16"
+          "title": "전쟁없는 세계평화 A World Without War",
+          "link": "https://blog.naver.com/hermessanhaehan/224430902493",
+          "blogger": "ONENESS",
+          "date": "2026-10-04"
         },
         {
-          "title": "11월 17일 NBA 3경기 승부전망｜미네소타·골든스테이트는 5점 폭, 덴....",
-          "link": "https://blog.naver.com/hope2026start/224480082158",
-          "blogger": "hope2026start",
-          "date": "2026-11-17"
+          "title": "10월 21일 - 10월25일 주간 트렌드 키워드 검색량",
+          "link": "https://blog.naver.com/zeenty/223632694127",
+          "blogger": "지니의 아카이브",
+          "date": "2024-10-25"
         },
         {
-          "title": "커리 없는 골든스테이트 85대123, 첫 18점을 내준 뒤 벌어진 일",
-          "link": "https://blog.naver.com/sbigdata/224477613874",
-          "blogger": "세상 모든 정보",
-          "date": "2026-11-15"
+          "title": "전세계 나라별 평균 수명 (Life Expectancy)",
+          "link": "https://blog.naver.com/rud529/224152658012",
+          "blogger": "인테리어 나두 전기",
+          "date": "2026-01-21"
         },
         {
-          "title": "26.11.10(화) NBA 미리보기: 골든스테이트 vs 뉴올리언스",
-          "link": "https://blog.naver.com/kkla9544/224471190434",
-          "blogger": "AI 스포츠분석",
-          "date": "2026-11-10"
+          "title": "History of animation",
+          "link": "https://blog.naver.com/chaehs7632/224382425890",
+          "blogger": "세계사&가문 이야기 채씨 이야기",
+          "date": "2026-08-18"
         }
       ],
       "topNews": [
         {
-          "title": "\"야유한 팬들 다신 오지 마!\" DEN 요키치가 분노한 이유는",
-          "link": "https://isplus.com/article/view/isp202610250114",
+          "title": "IVI Director General highlights balancing vaccine sovereignty with joint ...",
+          "link": "https://www.koreabiomed.com/news/articleView.html?idxno=22063",
           "press": "",
-          "date": "2026-10-25"
+          "date": "2023-09-13"
         },
         {
-          "title": "그 엄마에 그 아들이었다…아시아 평정한 이현중의 원맨쇼",
-          "link": "https://www.joongang.co.kr/article/25463429",
+          "title": "epaselect AUSTRALIA CRICKET T20 WORLD CUP",
+          "link": "https://n.news.naver.com/mnews/article/091/0009337483?sid=104",
           "press": "",
-          "date": "2026-09-20"
+          "date": "2022-10-27"
         },
         {
-          "title": "NBA 덴버, 요키치 맹활약과 함께 3위 확정…정규리그 마무리",
-          "link": "https://www.newsis.com/view/NISX20260413_0003588789",
+          "title": "epaselect AUSTRALIA CRICKET T20 WORLD CUP",
+          "link": "https://n.news.naver.com/mnews/article/091/0009337487?sid=104",
           "press": "",
-          "date": "2026-04-13"
+          "date": "2022-10-27"
         },
         {
-          "title": "‘다음 주 재검진 예정’ 무릎 부상 중인 커리, 복귀 시점 여전히 불투...",
-          "link": "https://m.sports.naver.com/basketball/article/065/0000295184",
+          "title": "Top Netflix Films & TV Shows: Where are they coming from?",
+          "link": "http://www.koreaittimes.com/news/articleView.html?idxno=110647",
           "press": "",
-          "date": "2026-03-28"
+          "date": "2022-01-11"
         },
         {
-          "title": "OKC 1위 복귀, LA 레이커스 충격적 톱 5 진입. NBA 파워랭킹 빅5, 완전히...",
-          "link": "https://www.sportschosun.com/basketball/2026-03-15/202603150100097230006843",
+          "title": "EPA OUTLOOK",
+          "link": "https://n.news.naver.com/mnews/article/091/0008915933?sid=104",
           "press": "",
-          "date": "2026-03-14"
+          "date": "2021-08-07"
         }
       ],
       "rank": 9
     },
     {
-      "keyword": "브루클린 대 필라데피아",
-      "traffic": "500+",
-      "blogTotal": 21,
-      "newsTotal": 1,
+      "keyword": "พีท พีระ",
+      "traffic": "200+",
+      "blogTotal": 3,
+      "newsTotal": 0,
       "recentToday": 0,
       "recentWeek": 0,
       "topBlogs": [
         {
-          "title": "디트로이트 대 필라데피아 실검 2위, 르브론·브라운 76ers 설욕전 총....",
-          "link": "https://blog.naver.com/wall11/224465817106",
-          "blogger": "해피래빗의 정보바다",
-          "date": "2026-11-05"
+          "title": "KOF2112 :: เจ็บกว่าจาก : พีท พีระ [Full Song]",
+          "link": "https://bozzang1.tistory.com/19115",
+          "blogger": "KOF2112",
+          "date": "2014-12-12"
         },
         {
-          "title": "프로토 11월3일 NBA 뉴올vs오클 / 필라vs브룩",
-          "link": "https://blog.naver.com/percentbet/224063242011",
-          "blogger": "확률과 선택",
-          "date": "2025-11-03"
+          "title": "(태국노래) 판마 하이 캐 짬 by 핏 피라 텟위싼",
+          "link": "https://blog.naver.com/ml0824/40189728160",
+          "blogger": "●따완의 세상 사는 이야기♬",
+          "date": "2013-05-25"
         },
         {
-          "title": "[오늘의 NBA] \"제가 골밑에 있는데 괜찮으시겠어요?\"",
-          "link": "https://blog.naver.com/ldh2305/222686993404",
-          "blogger": "네이버스포츠 공식 스토리텔러",
-          "date": "2022-03-30"
-        },
-        {
-          "title": "[NBA2K22] GSW 20-21시즌 Ep.2",
-          "link": "https://blog.naver.com/jared1004/222592598248",
-          "blogger": "게임보이의 게임전문 블로그",
-          "date": "2021-12-11"
-        },
-        {
-          "title": "미국 축구 역대 베스트 11",
-          "link": "https://footballpediahistory.tistory.com/138",
-          "blogger": "풋볼피디아 FootballpediA - 축구 백과사전",
-          "date": "2024-01-23"
+          "title": "เจ็บกว่าจาก : พีท พีระ 예전에 피스메이커였다....",
+          "link": "https://blog.naver.com/sfire42/110180350220",
+          "blogger": "락타이 때 마이푹판",
+          "date": "2013-11-26"
         }
       ],
-      "topNews": [
-        {
-          "title": "[가나다라] NBA 전설을 소환해낸 PO1라운드의 기록들",
-          "link": "https://m.sports.naver.com/basketball/article/430/0000000865",
-          "press": "",
-          "date": "2020-08-30"
-        }
-      ],
+      "topNews": [],
       "rank": 10
     }
   ]
