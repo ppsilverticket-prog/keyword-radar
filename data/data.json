@@ -1,554 +1,585 @@
 {
-  "updatedAt": "2026-11-25T21:54:13.234Z",
+  "updatedAt": "2026-11-26T03:55:53.030Z",
   "source": "live",
   "keywords": [
     {
-      "keyword": "경마",
-      "traffic": "100+",
-      "blogTotal": 369080,
-      "newsTotal": 197989,
-      "recentToday": 81,
+      "keyword": "은평구",
+      "traffic": "200+",
+      "blogTotal": 3313102,
+      "newsTotal": 346372,
+      "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "한국경마 - 부담중량과 레이팅",
-          "link": "https://blog.naver.com/rhrhektzja/224483220427",
-          "blogger": "마구간",
-          "date": "2026-11-19"
-        },
-        {
-          "title": "[덕구 경마 기초 지식 ④] 부담중량이 경주 결과에 미치는 영향",
-          "link": "https://blog.naver.com/ecoreseau/224478965142",
-          "blogger": "덕구경마",
+          "title": "*2027 수능 필독! 은평구 특별 교통대책 총정리 무료 비상수송차량, ....",
+          "link": "https://blog.naver.com/eunpyeonggu/224481992497",
+          "blogger": "은평구 블로그",
           "date": "2026-11-18"
         },
         {
-          "title": "서울 경마공원 경마정보 시간 일정 바로 확인하세요.",
-          "link": "https://blog.naver.com/riddle429/224485257673",
-          "blogger": "알기쉬운 다양한 정보",
-          "date": "2026-11-21"
+          "title": "[은평구 세면대 수리] 세면대 수전 누수 교체하는 길에 폽업·트랩까....",
+          "link": "https://blog.naver.com/hi3201/224468830502",
+          "blogger": "이현종합설비",
+          "date": "2026-11-25"
         },
         {
-          "title": "2026 영천 경마장 가볼만한 곳｜렛츠런파크 영천 입장료·경마시간·....",
-          "link": "https://blog.naver.com/lybomm/224485231996",
-          "blogger": "언제나 사랑이네",
-          "date": "2026-11-21"
+          "title": "은평구 산재 노무사, 공장 없는 은평에 산재 사무실을 연 이유",
+          "link": "https://blog.naver.com/sooj3223/224481092261",
+          "blogger": "노무법인 청사진",
+          "date": "2026-11-17"
         },
         {
-          "title": "이천시는 경마공원 유치를 위해 무엇을 하고 있을까? 현수막과 서명....",
-          "link": "https://blog.naver.com/cinb0000/224490200760",
-          "blogger": "구름은 뭉게뭉게",
-          "date": "2026-11-24"
+          "title": "|은평구수영장| 하이풀스포츠 롯데몰은평점 후기",
+          "link": "https://blog.naver.com/2yebbie/224478394329",
+          "blogger": "빔이의 소소한 일상",
+          "date": "2026-11-15"
+        },
+        {
+          "title": "은평구 가볼만한곳 추천, 한옥마을부터 롯데몰까지 놀거리 BEST4",
+          "link": "https://blog.naver.com/seouldatepop/224475502084",
+          "blogger": "데이트팝",
+          "date": "2026-11-13"
         }
       ],
       "topNews": [
         {
-          "title": "청와대 향한 경마노동자 \"지원 없는 이전 안 돼\"",
-          "link": "https://www.labortoday.co.kr/news/articleView.html?idxno=237934",
+          "title": "李대통령 국정 긍정평가 43%·부정 45%...민주 35%·국힘 23%",
+          "link": "https://www.joongangenews.com/news/articleView.html?idxno=566827",
           "press": "",
-          "date": "2026-11-25"
+          "date": "2026-11-26"
         },
         {
-          "title": "영화관처럼 경마도 프리미엄석…손님 줄어든 대구지사 '고급화'",
-          "link": "https://www.newsis.com/view/NISX20261125_0003883029",
+          "title": "은평구, AI·IoT 기반 전동보장구 안전관리 성과…대한민국 지방자치 혁...",
+          "link": "https://www.job-post.co.kr/news/articleView.html?idxno=241133",
           "press": "",
-          "date": "2026-11-25"
+          "date": "2026-11-26"
         },
         {
-          "title": "시험 공화국의 멸망, 그 다음을 상상하며 [미스터 페미니즘]",
-          "link": "https://www.womennews.co.kr/news/articleView.html?idxno=284953",
+          "title": "은평구, AI 기반 어르신 건강 통합돌봄 실증사업 추진…수면 중 심박·호...",
+          "link": "https://www.job-post.co.kr/news/articleView.html?idxno=241131",
           "press": "",
-          "date": "2026-11-25"
+          "date": "2026-11-26"
         },
         {
-          "title": "[단독] 오전 로봇 설계→다음날 양산…충격의 대륙 혁신시계",
-          "link": "https://www.joongang.co.kr/article/25482074",
+          "title": "李대통령 \"공적임대, '영세민 주택' 낙인 벗고 중산층 주거 사다리 돼야...",
+          "link": "https://news-s.kr/view.html?id=L2611261222381c24",
           "press": "",
-          "date": "2026-11-25"
+          "date": "2026-11-26"
         },
         {
-          "title": "가평군, 내년 예산 4665억 원 편성…민생안정-미래성장 집중",
-          "link": "https://www.cnbnews.com/news/articleView.html?idxno=1025295",
+          "title": "[단독] 임대료에 막힌 복지… 서울교통公, 李 정부 '무료 생리대' 지급기...",
+          "link": "https://www.thescoop.co.kr/news/articleView.html?idxno=312434",
           "press": "",
-          "date": "2026-11-25"
+          "date": "2026-11-26"
         }
       ],
       "rank": 1
     },
     {
-      "keyword": "에코프로비엠",
-      "traffic": "200+",
-      "blogTotal": 251149,
-      "newsTotal": 176367,
-      "recentToday": 77,
+      "keyword": "이정재",
+      "traffic": "2000+",
+      "blogTotal": 288892,
+      "newsTotal": 228591,
+      "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "'4명 사상' 청주 에코프로비엠 폭발 사고…전 대표·직원 3명 집행유....",
-          "link": "https://blog.naver.com/hms3913/224491994556",
-          "blogger": "데일리 인포 브리핑 아카이브 실시간 검색 이슈",
-          "date": "2026-11-25"
+          "title": "이정재 영화 드라마 추천 5편, 청춘의 불안부터 중년의 고뇌까지",
+          "link": "https://blog.naver.com/qhdtnqhd3109/224486507424",
+          "blogger": "씬로그 (Scene Log)",
+          "date": "2026-11-23"
         },
         {
-          "title": "에코프로비엠 주가 전망, 전기차 양극재 부진을 ESS 성장으로 극복할....",
-          "link": "https://blog.naver.com/kmp154/224490534094",
-          "blogger": "교만한 블로그",
-          "date": "2026-11-25"
+          "title": "이정재 특혜 계약 의혹 총정리 | 디스패치 6대 쟁점 vs 아티스트컴퍼....",
+          "link": "https://blog.naver.com/star_issue_lab/224487394204",
+          "blogger": "스타이슈랩님의 블로그",
+          "date": "2026-11-22"
         },
         {
-          "title": "에코프로비엠 주가 전망, 6,222억 출자와 120억 영업이익의 차이",
-          "link": "https://blog.naver.com/lovelpjhy/224491333269",
-          "blogger": "차트에 돈이 있다!",
-          "date": "2026-11-25"
+          "title": "이정재 200억 정산·최대주주 특혜 논란, 회사 몫 4억 보도와 반박 핵....",
+          "link": "https://blog.naver.com/aud020888/224483628909",
+          "blogger": "aud020888님의 블로그",
+          "date": "2026-11-19"
         },
         {
-          "title": "에코프로 유상증자 충격! 1조 2천억→8,900억 축소, 에코프로비엠 주....",
-          "link": "https://blog.naver.com/lol1004_826/224435618046",
-          "blogger": "핀핀의 꿀머니",
-          "date": "2026-10-08"
+          "title": "이정재 정산 특혜 논란, '200억 벌고 회사엔 4억?' 나이·프로필과 과....",
+          "link": "https://blog.naver.com/whowhowiki/224485835564",
+          "blogger": "오박사의 인물탐구도감",
+          "date": "2026-11-21"
         },
         {
-          "title": "에코프로비엠 6,221억 출자 구조 변경 공시, 급등 뒤에 숨은 진짜 신....",
-          "link": "https://blog.naver.com/windowofwisdom831/224490976284",
-          "blogger": "지혜의 창",
-          "date": "2026-11-25"
+          "title": "이정재 200억 벌고 회사엔 4억만? 아티스트컴퍼니 수익 배분 논란 쉽....",
+          "link": "https://blog.naver.com/young27_kim/224483919677",
+          "blogger": "▶투데이 아카이브◀",
+          "date": "2026-11-20"
         }
       ],
       "topNews": [
         {
-          "title": "에코프로비엠, 인도네시아 소재 종속법인 출자 결정… BNSI 제련소 출자...",
-          "link": "https://www.goodkyung.com/news/articleView.html?idxno=293881",
+          "title": "'최대주주 특혜 논란' 이정재, 수척해진 모습으로 공식 석상…고인 떠올...",
+          "link": "https://ent.sbs.co.kr/news/article.do?article_id=E10010325209&plink=ORI&cooper=NAVER",
           "press": "",
-          "date": "2026-11-25"
+          "date": "2026-11-26"
         },
         {
-          "title": "코스피 6.16% 급락 4,697…삼성전자·SK하이닉스·삼성전기 등 10% 안팎 하...",
-          "link": "https://www.cbci.co.kr/news/articleView.html?idxno=630725",
+          "title": "“여러분 오랜만입니다” 청룡시상식 배우들 전원 기립…눈물짓게 한 한...",
+          "link": "https://www.wikitree.co.kr/articles/1177933",
           "press": "",
-          "date": "2026-11-25"
+          "date": "2026-11-26"
         },
         {
-          "title": "HD현대마린 공매도 비중 40%…한미반도체 298억원",
-          "link": "http://www.kjdaily.com/article.php?aid=1795619104693598276",
+          "title": "2년 전엔 '혼외자' 정우성, 올해는 '특혜 의혹' 이정재…‘청담부부’의...",
+          "link": "http://www.tvdaily.co.kr/read.php3?aid=17956625251811345008",
           "press": "",
-          "date": "2026-11-25"
+          "date": "2026-11-26"
         },
         {
-          "title": "코스닥, 2%대 낙폭에 650선 턱걸이...주성엔지니어링, 심텍 등 하락",
-          "link": "http://www.econonews.co.kr/news/articleView.html?idxno=447717",
+          "title": "이정재, 수익 특혜 의혹 속 청룡 무대 … 故 안성기 추모하다 울먹",
+          "link": "https://www.newdaily.co.kr/site/data/html/2026/11/26/2026112650149.html",
           "press": "",
-          "date": "2026-11-25"
+          "date": "2026-11-26"
         },
         {
-          "title": "R) 4명 사상 \"명백한 위험 신호 간과\".. 에코프로비엠 전 대표 징역형 집...",
-          "link": "http://news.mbccb.co.kr/home/sub.php?menukey=61&mod=view&RECEIVE_DATE=20261125&SEQUENCE=0123",
+          "title": "“배우 안성기와 함께해주셔서 고맙습니다” 아들이 전한 청룡 공로상 ...",
+          "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8723214&ref=A",
           "press": "",
-          "date": "2026-11-25"
+          "date": "2026-11-26"
         }
       ],
       "rank": 2
     },
     {
-      "keyword": "3기 신도시 부천대장지구",
-      "traffic": "1000+",
-      "blogTotal": 115236,
-      "newsTotal": 14086,
-      "recentToday": 77,
+      "keyword": "광고",
+      "traffic": "100+",
+      "blogTotal": 41869459,
+      "newsTotal": 4081126,
+      "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "2026 부천 대장 A-2블록 청약 총정리｜분양가·청약 일정·자격·입주 ....",
-          "link": "https://blog.naver.com/samsungb5000/224484268221",
-          "blogger": "청마의 삼성부동산",
+          "title": "갤럭시 광고 팝업 안뜨게 설정하는 방법! 광고 알림 차단부터 삭제....",
+          "link": "https://blog.naver.com/josmin777/224484094834",
+          "blogger": "한번빠져봐",
           "date": "2026-11-20"
         },
         {
-          "title": "철도가 가른 3기 신도시 청약 성적표… 부천대장 129.5대 1 vs 인천계....",
-          "link": "https://blog.naver.com/lotto21cc/224492454398",
-          "blogger": "경수부동산연구소",
-          "date": "2026-11-26"
-        },
-        {
-          "title": "3기 신도시 부천대장 129.5대 1! 바로 옆 계양은 미달? 청약 성적 가른 ....",
-          "link": "https://blog.naver.com/88_garlic/224491308000",
-          "blogger": "청년 귀농하다 :)",
-          "date": "2026-11-25"
-        },
-        {
-          "title": "[3기 신도시 청약] 부천대장 하우스토리 디센트(부천대장지구 A2BL) ....",
-          "link": "https://blog.naver.com/home_cruise/224478602051",
-          "blogger": "홈크루즈의 아파트 비교분석",
-          "date": "2026-11-16"
-        },
-        {
-          "title": "\"특별공급이 무려 85%\" 부천대장 하우스토리 디센트 청약 조건은?",
-          "link": "https://blog.naver.com/freepooh0108/224488956520",
-          "blogger": "머니로그",
+          "title": "유튜브 광고 비용 얼마나 들까? 유형별 비용과 운영 방법 정리",
+          "link": "https://blog.naver.com/jeu0311/224488119369",
+          "blogger": "그루브애드 GROOVE AD",
           "date": "2026-11-23"
+        },
+        {
+          "title": "메타광고를 처음 설정할 때 디지털마케팅 목표는 어떻게 정할까요?",
+          "link": "https://blog.naver.com/jpxjr9ynfi/224488207081",
+          "blogger": "병원마케팅 온라인 광고대행",
+          "date": "2026-11-24"
+        },
+        {
+          "title": "당근 광고 비용, 클릭 없으면 0원인데 환불은 전액만 된다",
+          "link": "https://blog.naver.com/meneypig/224486343726",
+          "blogger": "이코노플로우",
+          "date": "2026-11-22"
+        },
+        {
+          "title": "스마트폰 광고 추적 차단하는 방법, 내가 검색한 상품이 광고로 따....",
+          "link": "https://blog.naver.com/yijinyido/224484821715",
+          "blogger": "이진이도",
+          "date": "2026-11-20"
         }
       ],
       "topNews": [
         {
-          "title": "82세대 모집에 1만건… ‘부천대장 하우스토리 디센트’, 1순위 최고 156...",
-          "link": "https://www.dt.co.kr/article/12097182?ref=naver",
+          "title": "bhc치킨의 또 다른 '킹' 시리즈, 흥행 조짐",
+          "link": "https://www.econovill.com/news/articleView.html?idxno=758609",
           "press": "",
-          "date": "2026-11-25"
+          "date": "2026-11-26"
         },
         {
-          "title": "신도시 교통 8개 사업 쟁점 풀려…과천 도로 2개 사업은 10월 착공",
-          "link": "http://www.dailypop.kr/news/articleView.html?idxno=104955",
+          "title": "bhc '알싹킹', 한 달 만에 50만개 팔렸다…전체 메뉴 판매 4위",
+          "link": "https://www.etnews.com/20261126000250",
           "press": "",
-          "date": "2026-11-25"
+          "date": "2026-11-26"
         },
         {
-          "title": "교통·일자리가 ‘신도시 효과’ 갈랐다",
-          "link": "https://biz.heraldcorp.com/article/10948802?ref=naver",
+          "title": "재혼하길 잘했네…김나영, 마이큐와 가전 광고 모델 발탁→'셋째' 생기...",
+          "link": "https://www.tvreport.co.kr/entertainment/article/1093942/",
           "press": "",
-          "date": "2026-11-25"
+          "date": "2026-11-26"
         },
         {
-          "title": "철도가 가른 3기 신도시 청약… 부천대장 129대 1, 바로 옆 계양은 미달",
-          "link": "https://biz.chosun.com/real_estate/real_estate_general/2026/11/25/3EJJHLPSV5FADCQSQEZIPXKGXY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+          "title": "탭 한 번으로 즐기는 택배 새의 모험, 인디 러너 ‘쿠리어 버드’ 출시",
+          "link": "https://www.gamechosun.co.kr/webzine/article/view.php?no=228141",
           "press": "",
-          "date": "2026-11-25"
+          "date": "2026-11-26"
         },
         {
-          "title": "3기 신도시 첫 입주 앞둔 인천 계양… 12월 ‘대방 엘리움’ 분양 예정",
-          "link": "https://biz.heraldcorp.com/article/10948605?ref=naver",
+          "title": "박용갑 의원, AI 이용 '가짜 의사' 영상 등 규제 국민건강증진법 개정안...",
+          "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=923220",
           "press": "",
-          "date": "2026-11-25"
+          "date": "2026-11-26"
         }
       ],
       "rank": 3
     },
     {
-      "keyword": "맨유",
-      "traffic": "200+",
-      "blogTotal": 487053,
-      "newsTotal": 397716,
-      "recentToday": 60,
+      "keyword": "준법투쟁",
+      "traffic": "500+",
+      "blogTotal": 13250,
+      "newsTotal": 23236,
+      "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "포체티노, 맨유 데뷔전 4-0 대패 (문제는 더 근본적인 곳에 있다)",
-          "link": "https://blog.naver.com/gangtefootball/224488820887",
-          "blogger": "강테 풋볼",
+          "title": "지하철 파업과 준법투쟁은 무엇이 다를까",
+          "link": "https://blog.naver.com/shs676800/224491930451",
+          "blogger": "교양있게 놀자^^",
+          "date": "2026-11-25"
+        },
+        {
+          "title": "준법투쟁 뜻, 파업도 아닌데 전철 51%가 늦었다? 11월 26일(목) 출근 대....",
+          "link": "https://blog.naver.com/3min_daily_info/224487549069",
+          "blogger": "3분쓸모 | 몰라서 놓치는 생활정보·재테크",
+          "date": "2026-11-23"
+        },
+        {
+          "title": "지하철 준법투쟁이 뭐길래 열차가 늦어질까? 파업과 다른 점 총정리",
+          "link": "https://blog.naver.com/implantnamu/224489665544",
+          "blogger": "서울임플나무치과 / 악안면피부진료",
           "date": "2026-11-24"
         },
         {
-          "title": "맨유 포체티노 리버풀전 데뷔전 중계 시간 총정리, 첫 훈련 드론 유....",
-          "link": "https://blog.naver.com/opoloi180/224484939903",
-          "blogger": "스포츠 이슈 연구소",
+          "title": "지하철 준법투쟁 오늘 첫차 시작, 출근길 대처법 3가지",
+          "link": "https://blog.naver.com/jjanggu3535/224484272269",
+          "blogger": "쑥라떼 블로그(여행,맛집,정보)",
           "date": "2026-11-20"
         },
         {
-          "title": "포체티노 데뷔전 0-4 맨유 책임은 어디까지?",
-          "link": "https://blog.naver.com/ty-papa/224488533557",
-          "blogger": "쇼핑 탐구생활",
-          "date": "2026-11-23"
-        },
-        {
-          "title": "“14분 만에 잘리라고?” 맨유 0-4 참사, 네빌은 생방송서 뺨까지 때....",
-          "link": "https://blog.naver.com/exercisenews/224488317356",
-          "blogger": "올빼미 기자의 기사 돋보기",
-          "date": "2026-11-23"
-        },
-        {
-          "title": "포체티노 맨유 데뷔전부터 악몽…리버풀에 0-4, 퇴장 하나로 무너진 ....",
-          "link": "https://blog.naver.com/whatis_sports/224487818801",
-          "blogger": "스포츠, 그게 뭔데여?",
-          "date": "2026-11-23"
+          "title": "(상식의 전환)준법투쟁 패러다임 Shift(법규준수형 준법투쟁≠쟁의행....",
+          "link": "https://blog.naver.com/kind_nomusa/224458929919",
+          "blogger": "친절한 노무사의 노동법 이야기",
+          "date": "2026-11-26"
         }
       ],
       "topNews": [
         {
-          "title": "'19위' 맨체스터 유나이티드 안 갑니다!…'PL 46경기 18골' 칼버트 르윈...",
-          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=699262",
+          "title": "철도노조 준법투쟁 시작, 일주 열차 운행 지연",
+          "link": "https://www.kbmaeil.com/article/20261126500340",
           "press": "",
-          "date": "2026-11-25"
+          "date": "2026-11-26"
         },
         {
-          "title": "\"VAR은 대체 뭘 하고 있었나?\"… 요로 퇴장 징계 취소에도 분노한 포체티...",
-          "link": "https://www.besteleven.com/news/articleView.html?idxno=314336",
+          "title": "철도노조 준법투쟁...서울역 '일부 열차 운행 지연' [포토]",
+          "link": "https://www.etoday.co.kr/news/view/2653364",
           "press": "",
-          "date": "2026-11-25"
+          "date": "2026-11-26"
         },
         {
-          "title": "'기대한 맨유 팬 어떡하나' 데뷔전서 리버풀에 0-4로 대패한 포체티노 ...",
-          "link": "https://www.goal.com/kr/뉴스/a/bltc95f3426b83419a7",
+          "title": "철도노조, 준법투쟁 돌입‥곳곳 열차 지연 속출",
+          "link": "https://imnews.imbc.com/replay/2026/nw1200/article/6868759_36967.html",
           "press": "",
-          "date": "2026-11-25"
+          "date": "2026-11-26"
         },
         {
-          "title": "[ucl.lineup] '리버풀전 최악의 활약' 더 리흐트 빠지고 매과이어가 나선...",
-          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=101329",
+          "title": "철도노조 준법투쟁 여파 열차 최대 30분 지연…\"일상 지연 수준\"",
+          "link": "https://www.news1.kr/local/daejeon-chungnam/6366974",
           "press": "",
-          "date": "2026-11-25"
+          "date": "2026-11-26"
         },
         {
-          "title": "[오피셜] '2000억 사나이' 비르츠 완벽 부활! PL 이주의 선수로 선정",
-          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=101323",
+          "title": "철도노조 준법투쟁, 열차 줄지연… 학교 비정규직도 내일 총파업",
+          "link": "https://www.munhwa.com/article/11634378?ref=naver",
           "press": "",
-          "date": "2026-11-25"
+          "date": "2026-11-26"
         }
       ],
       "rank": 4
     },
     {
-      "keyword": "종합부동산세",
-      "traffic": "500+",
-      "blogTotal": 428509,
-      "newsTotal": 187498,
-      "recentToday": 23,
+      "keyword": "문가영",
+      "traffic": "200+",
+      "blogTotal": 78967,
+      "newsTotal": 59568,
+      "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "종합부동산세 납부 시기와 대상 기준 한눈에 보기",
-          "link": "https://blog.naver.com/lvk/224488109501",
-          "blogger": "빙봉의 생활발견",
+          "title": "\"단풍잎 사진 속 핑크 니트, 지오다노였다\" 문가영 가을 니트의 정체",
+          "link": "https://blog.naver.com/kiki0228/224483696171",
+          "blogger": "비블비 슬로우에이징 뷰티",
+          "date": "2026-11-19"
+        },
+        {
+          "title": "문가영 패딩 브랜드·가격 총정리｜룰루레몬 하이로프트부터 지오....",
+          "link": "https://blog.naver.com/nikita9874/224488167666",
+          "blogger": "꼼반장의 이슈돋보기",
           "date": "2026-11-23"
         },
         {
-          "title": "종합부동산세 납부일과 계산기 사용법, 12월 15일 전 확인할 분납 기....",
-          "link": "https://blog.naver.com/uploaddata/224483169660",
-          "blogger": "이슈라이프",
-          "date": "2026-11-19"
+          "title": "문가영 프로필 나이 인스타 | 구교환 유연석과 함께한 드라마 영화....",
+          "link": "https://blog.naver.com/macgainyu/224485937889",
+          "blogger": "오늘도 이슈",
+          "date": "2026-11-21"
         },
         {
-          "title": "2026년 종합부동산세 고지서, 납부 전 꼭 확인할 5가지",
-          "link": "https://blog.naver.com/tax3618/224484399329",
-          "blogger": "스마트 부동산 절세 연구소 / 세무법인 세평 하남",
+          "title": "“지나간 일은 흘려보내야 한다고 생각해요.” 문가영의 연말 인터....",
+          "link": "https://blog.naver.com/mindforet007/224484639465",
+          "blogger": "마음을 읽는 시간",
           "date": "2026-11-20"
         },
         {
-          "title": "12월 15일 마감! 2026 종합부동산세 납부, 한 번에 못 내면 어떻게 할까....",
-          "link": "https://blog.naver.com/loveus98/224482608321",
-          "blogger": "이과장의 경제금융이야기",
-          "date": "2026-11-19"
-        },
-        {
-          "title": "종합부동산세 납부 분납 신청 방법 3단계",
-          "link": "https://blog.naver.com/jjanggu3535/224484921403",
-          "blogger": "쑥라떼 블로그(여행,맛집,정보)",
-          "date": "2026-11-22"
+          "title": "문가영 어릴 때 골프까지 배웠다고? 알고 보니 집안도 남달랐네요",
+          "link": "https://blog.naver.com/kkal28/224402015532",
+          "blogger": "그린워커",
+          "date": "2026-09-06"
         }
       ],
       "topNews": [
         {
-          "title": "[N2 모닝 경제 브리핑-11월 26일] 美 증시, 물가 충격에 반도체주 또 ‘...",
-          "link": "https://www.news2day.co.kr/article/20261125500060",
+          "title": "[청룡영화상] \"거친 파도 품고 있는 잔잔한 바다 같아\"…격론에 격론 더...",
+          "link": "https://www.sportschosun.com/entertainment/2026-11-26/202611260100162780015024",
           "press": "",
-          "date": "2026-11-25"
+          "date": "2026-11-26"
         },
         {
-          "title": "“나랏빚부터 갚자는 건 근시안적…지방재정 확충엔 여야 모두 공감” ...",
-          "link": "https://www.seoul.co.kr/news/politics/2026/11/26/20261126004005?wlog_tag3=naver",
+          "title": "[패션엔 포토] 문가영, 청룡영화상 드레스퀸! 청순한 듯 매혹적인 레드...",
+          "link": "http://www.fashionn.com/board/read_new.php?table=1023&number=63292",
           "press": "",
-          "date": "2026-11-25"
+          "date": "2026-11-26"
         },
         {
-          "title": "공공주택 50만채중 38만채 2년뒤 착공… 전월세난 해소 한계",
-          "link": "https://www.donga.com/news/Politics/article/all/20261126/135092285/2",
+          "title": "희망브리지, 홍콩 타이포 화재 가정에 긴급 구호금 전달",
+          "link": "https://swtvnews.com/news/newsview.php?ncode=1065575539656012",
           "press": "",
-          "date": "2026-11-25"
+          "date": "2026-11-26"
         },
         {
-          "title": "金 향해 깃발 든 정청래…개혁 선명성으로 '2차 석청대전' 우위 점하나",
-          "link": "https://www.dailian.co.kr/news/view/1719752/?sc=Naver",
+          "title": "문가영, 블랙 튜브톱 드레스 자태…청룡 이후 여신 비주얼",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16286823",
           "press": "",
-          "date": "2026-11-25"
+          "date": "2026-11-26"
         },
         {
-          "title": "與 '비거주 1주택 종부세 차등' 반대 목소리 사라져",
-          "link": "https://www.hankyung.com/article/2026112503241",
+          "title": "신민아·박지현 배꼽 이탈-오정세, '니가 좋아' 립싱크 '청룡'",
+          "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=95986",
           "press": "",
-          "date": "2026-11-25"
+          "date": "2026-11-26"
         }
       ],
       "rank": 5
     },
     {
-      "keyword": "sporting vs man utd",
-      "traffic": "200+",
-      "blogTotal": 12321,
-      "newsTotal": 0,
-      "recentToday": 16,
-      "recentWeek": 74,
-      "topBlogs": [
-        {
-          "title": "[축구_UCL,EFL챔_13경기_261125,26]5698슬라프라:비야레알,사바FK:바르셀로,....",
-          "link": "https://blog.naver.com/a10xxxx7334/224491928747",
-          "blogger": "농구,야구,배구,축구",
-          "date": "2026-11-25"
-        },
-        {
-          "title": "나폴리는 왜 2028년 계약 맥토미니 재계약을 맨체스터 원정길에서 서....",
-          "link": "https://blog.naver.com/doranfa/224492148919",
-          "blogger": "도란도란 블로그",
-          "date": "2026-11-25"
-        },
-        {
-          "title": "PSG 로마 프리뷰, 4전 전승 파리에 23위 로마의 도전",
-          "link": "https://blog.naver.com/seoulfootball_editor/224491001752",
-          "blogger": "서울풋볼매거진",
-          "date": "2026-11-25"
-        },
-        {
-          "title": "[경기 분석] EPL 분석 리버풀 vs 맨유 등 3경기 픽 정리 (11/22) | 토토즐 ....",
-          "link": "https://blog.naver.com/ktaewoo2262/224487016848",
-          "blogger": "토토즐 : 스포츠 팬 커뮤니티",
-          "date": "2026-11-22"
-        },
-        {
-          "title": "[맨유] 포체티노가 안필드에서 진다면, 첫 경기를 진 맨유 감독은 세....",
-          "link": "https://blog.naver.com/madesports/224486234405",
-          "blogger": "메이드 스포츠",
-          "date": "2026-11-22"
-        }
-      ],
-      "topNews": [],
-      "rank": 6
-    },
-    {
-      "keyword": "공공",
-      "traffic": "200+",
-      "blogTotal": 13119147,
-      "newsTotal": 9498402,
-      "recentToday": 0,
+      "keyword": "의심",
+      "traffic": "2000+",
+      "blogTotal": 21111351,
+      "newsTotal": 3769484,
+      "recentToday": 100,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "10년 넘게 멈췄던 재개발, 공공 들어오더니… 신청 안 하면 결국 끝?",
-          "link": "https://blog.naver.com/poll7582/224486250159",
-          "blogger": "보리촌푸드(☎080-313-3838)",
-          "date": "2026-11-21"
-        },
-        {
-          "title": "공공임대 소득·자산 기준 폐지 검토 | 중산층 입주 조건과 임대료는....",
-          "link": "https://blog.naver.com/moneylabhome/224486476995",
-          "blogger": "방구석 돈벌이 연구소",
+          "title": "노년기 의심이 많아지는 이유, 가족도 힘든 의심증과 치매 초기 증....",
+          "link": "https://blog.naver.com/goodlhb/224477138402",
+          "blogger": "치매,시니어 건강, 사랑으로 행복하게",
           "date": "2026-11-22"
         },
         {
-          "title": "2027 공공근로 일자리 신청 방법 기간 자격 조건 지역별 공고 찾는법",
-          "link": "https://blog.naver.com/health248/224484723927",
-          "blogger": "뚝프로 경제 알리미",
-          "date": "2026-11-20"
+          "title": "토마토갈색주름과실바이러스, 의심 증상부터 공적 방제까지 농가 ....",
+          "link": "https://blog.naver.com/gcmkty/224481696713",
+          "blogger": "친환경과학농법",
+          "date": "2026-11-25"
         },
         {
-          "title": "공공지원민간임대 자격 조건, 무주택자 우선과 특별공급 임대료",
-          "link": "https://blog.naver.com/stimulating/224486712039",
-          "blogger": "소금이 되고 싶은 남자.",
-          "date": "2026-11-22"
+          "title": "건강검진 질병 의심 소견, 보험 가입 어려울까요? 재검사와 고지의....",
+          "link": "https://blog.naver.com/hanjanlog/224487808643",
+          "blogger": "보험 곁에, 경태",
+          "date": "2026-11-23"
         },
         {
-          "title": "공공기관 2차 이전 최종 가이드북 : 발표 시기부터 우리 동네 이전 ....",
-          "link": "https://blog.naver.com/nextball_ai/224476812765",
-          "blogger": "AI코믹스님의 블로그",
-          "date": "2026-11-14"
+          "title": "고의 사고 의심될 때 현장 대처법 4가지, 합의보다 증거가 먼저!",
+          "link": "https://blog.naver.com/musclechoo/224482799140",
+          "blogger": "차읽녀 | 차를 읽어주는 여자",
+          "date": "2026-11-19"
+        },
+        {
+          "title": "치매 환자가 가족을 도둑으로 의심하는 이유",
+          "link": "https://blog.naver.com/guragudan/224485087634",
+          "blogger": "랩RN의 치매안심ㆍ건강이야기",
+          "date": "2026-11-23"
         }
       ],
       "topNews": [
         {
-          "title": "\"현지 유통망 활용해 중기 수출 판로 개척\"… 롯데마트, 'CSR 필름 페스티...",
-          "link": "http://www.popcornnews.net/news/articleView.html?idxno=141558",
+          "title": "“타이거 우즈, 하루에 경사로 5㎞ 걷는다” “드라이버샷은 320야드 넘...",
+          "link": "https://sports.khan.co.kr/article/202611261253003?pt=nv",
           "press": "",
-          "date": "2026-11-25"
+          "date": "2026-11-26"
         },
         {
-          "title": "한국광해광업공단, 중기부 주관 동반성장 우수사례 '윈윈 아너스' 수상",
-          "link": "https://www.cstimes.com/news/articleView.html?idxno=729447",
+          "title": "잘 낫지 않는 테니스엘보, 팔꿈치 인대 손상과 불안정성도 살펴야",
+          "link": "http://www.medisobizanews.com/news/articleView.html?idxno=144825",
           "press": "",
-          "date": "2026-11-25"
+          "date": "2026-11-26"
         },
         {
-          "title": "AI 에이전트도 신분증 필요한 시대…드림시큐리티·슈프리마 수혜 기대",
-          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=508174",
+          "title": "DB생명, 10년간 암 진단 없으면 치료 보장 2배 보험 출시",
+          "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065584820830770",
           "press": "",
-          "date": "2026-11-25"
+          "date": "2026-11-26"
         },
         {
-          "title": "\"작년 7억, 지금 10억\"…심상찮은 수도권 전·월세",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008863901&plink=ORI&cooper=NAVER",
+          "title": "尹, '한덕수 재판 위증 혐의' 무죄 확정",
+          "link": "https://www.sisajournal.com/news/articleView.html?idxno=395345",
           "press": "",
-          "date": "2026-11-25"
+          "date": "2026-11-26"
         },
         {
-          "title": "청년공간 ‘송파청년센터’ 28일 문 연다…직무별 AI활용 교육 등 프로...",
-          "link": "https://www.munhwa.com/article/11634183?ref=naver",
+          "title": "서울 고교생들, 기말고사 다른 교실서 본다...\"부정행위 특단 조치\"",
+          "link": "https://www.ikbc.co.kr/article/view/kbc202611260037",
           "press": "",
-          "date": "2026-11-25"
+          "date": "2026-11-26"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "keyword": "학교 폭력",
+      "traffic": "500+",
+      "blogTotal": 2224778,
+      "newsTotal": 536348,
+      "recentToday": 100,
+      "recentWeek": 100,
+      "topBlogs": [
+        {
+          "title": "학교폭력 신고 후 어떻게 진행되나요? 부모가 알아둘 절차",
+          "link": "https://blog.naver.com/6868576/224490359787",
+          "blogger": "법률사무소전송",
+          "date": "2026-11-24"
+        },
+        {
+          "title": "[ 광주학교폭력전문변호사 ] 학폭위의견서와 보호자확인서, 무엇이 ....",
+          "link": "https://blog.naver.com/goaralaw/224480948093",
+          "blogger": "고아라변호사",
+          "date": "2026-11-20"
+        },
+        {
+          "title": "부산학교폭력전문변호사 학폭 조치가 나오기 전에 확인해 둘 기준....",
+          "link": "https://blog.naver.com/mcxesuitable/224489964126",
+          "blogger": "법무법인 태림",
+          "date": "2026-11-24"
+        },
+        {
+          "title": "[학폭심의위원출신] 학교폭력 보호자확인서 학생확인서 작성방법 ....",
+          "link": "https://blog.naver.com/lawtrue7428/224488468565",
+          "blogger": "김보배 행정사",
+          "date": "2026-11-23"
+        },
+        {
+          "title": "수원학교폭력변호사 학교장 자체해결 동의 전 묻는 질문",
+          "link": "https://blog.naver.com/chairman3zo/224484994224",
+          "blogger": "법무법인 태림",
+          "date": "2026-11-20"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "여학생 텀블러에 소변 봤는데 학급교체…“경미한 조치 아냐”",
+          "link": "https://www.joongang.co.kr/article/25482209",
+          "press": "",
+          "date": "2026-11-26"
+        },
+        {
+          "title": "여학생 텀블러에 소변 본 남학생…가해자는 학급교체, 피해자는 '자퇴'",
+          "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5233054",
+          "press": "",
+          "date": "2026-11-26"
+        },
+        {
+          "title": "여학생 텀블러에 몰래 소변 본 남학생은 ‘학급 교체’ 처분…피해 여학...",
+          "link": "https://www.kwnews.co.kr/article/20261126500493",
+          "press": "",
+          "date": "2026-11-26"
+        },
+        {
+          "title": "여학생 텀블러에 몰래 소변 본 남학생 '학급 교체'...피해 학생은 '자퇴...",
+          "link": "https://www.ikbc.co.kr/article/view/kbc202611260036",
+          "press": "",
+          "date": "2026-11-26"
+        },
+        {
+          "title": "여학생 텀블러에 소변본 남학생…피해자만 학교 떠났다",
+          "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611260076&t=NN",
+          "press": "",
+          "date": "2026-11-26"
         }
       ],
       "rank": 7
     },
     {
-      "keyword": "교사",
+      "keyword": "불꽃야구",
       "traffic": "200+",
-      "blogTotal": 10532960,
-      "newsTotal": 3272104,
-      "recentToday": 0,
+      "blogTotal": 142371,
+      "newsTotal": 33525,
+      "recentToday": 93,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "보육교사2급 17과목 고졸 전문대졸 대졸 학력별로 달라진다?",
-          "link": "https://blog.naver.com/da_it_da_/224488039259",
-          "blogger": "정보다잇다",
-          "date": "2026-11-23"
+          "title": "불꽃야구2 시빌워 드래프트 결과, 12월 13일 예매 전에 꼭 알아야 할 ....",
+          "link": "https://blog.naver.com/jhhun/224480322801",
+          "blogger": "스마트가이드24",
+          "date": "2026-11-17"
         },
         {
-          "title": "교육공무원 승진규정 점수 계산법, 신규교사부터 챙길 기록",
-          "link": "https://blog.naver.com/saemgong/224481439538",
-          "blogger": "✅쌤공ㅣ중등교사 커뮤니티",
-          "date": "2026-11-23"
-        },
-        {
-          "title": "사이버대학교 보육교사 알아보다 학점은행제를 선택한 이유",
-          "link": "https://blog.naver.com/dlwhdghks155/224491993368",
-          "blogger": "오늘도 딩동댕",
-          "date": "2026-11-25"
-        },
-        {
-          "title": "유치원 보조교사 자격증, 취업하려면 무엇부터 준비할까?",
-          "link": "https://blog.naver.com/hakjeom_zip/224484784587",
-          "blogger": "학점.ZIP",
-          "date": "2026-11-20"
-        },
-        {
-          "title": "보육교사 2급 취업으로 초등돌봄교사 되려면?",
-          "link": "https://blog.naver.com/mega_bbedu/224489935397",
-          "blogger": "메가미래평생교육원",
+          "title": "불꽃야구 강릉영동대 직관 후기+시빌워 라인업 정리",
+          "link": "https://blog.naver.com/kkongdang_/224490355183",
+          "blogger": "수줍은 여행자 빵배쏙",
           "date": "2026-11-24"
+        },
+        {
+          "title": "불꽃야구2 26화, 박용택 연봉 걸린 강릉영동대전 앞두고 라커룸 40분 ....",
+          "link": "https://blog.naver.com/duawjddlf09/224485797896",
+          "blogger": "새벼리네 가족이야기",
+          "date": "2026-11-21"
+        },
+        {
+          "title": "불꽃야구 시빌워 와일드카드의 반전? “한국시리즈 뛰었던 강민호 ....",
+          "link": "https://blog.naver.com/joy365__/224488855602",
+          "blogger": "joy365__님의 블로그",
+          "date": "2026-11-23"
+        },
+        {
+          "title": "불꽃야구2 시빌워 총정리, 박용택 vs 이대호 선수 명단·와일드카드·....",
+          "link": "https://blog.naver.com/ttagal/224491737405",
+          "blogger": "딱알",
+          "date": "2026-11-26"
         }
       ],
       "topNews": [
         {
-          "title": "교직원 채용 “AI 안 돼”…시험마다 ‘비상’",
-          "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8722862&ref=A",
+          "title": "존폐위기 프로그램 살리려고 현역 선수 동원? ‘불꽃야구’ 시빌워에 싸...",
+          "link": "https://www.newsen.com/news_view.php?uid=202611261027582410",
           "press": "",
-          "date": "2026-11-25"
+          "date": "2026-11-26"
         },
         {
-          "title": "[와글와글] 중3 학생 마지막 시험 답안지 봤더니",
-          "link": "https://imnews.imbc.com/replay/2026/nwtoday/article/6868647_37012.html",
+          "title": "프리 선언하고 출연료 '150배' 뛰었다더니…김대호, \"집에 클라이밍 벽...",
+          "link": "https://www.tenasia.co.kr/article/2026112610264",
           "press": "",
-          "date": "2026-11-25"
+          "date": "2026-11-26"
         },
         {
-          "title": "자녀교육권부모연합, 서울 학생인권종합계획안 철회 및 공개토론회 재개...",
-          "link": "https://www.christiantoday.co.kr/news/378892",
+          "title": "'홈즈' 김대호, 국내 최대 인공암벽장 도전…맹연습한 성과는?",
+          "link": "http://enews.imbc.com/News/RetrieveNewsInfo/526111",
           "press": "",
-          "date": "2026-11-25"
+          "date": "2026-11-26"
         },
         {
-          "title": "수업 뒤 화장실 청소까지 떠안는 '공짜노동'",
-          "link": "https://www.labortoday.co.kr/news/articleView.html?idxno=237935",
+          "title": "삼성팬들 청천벽력… FA 대어 구자욱・원태인, 갑자기 ‘최종 불참’ 소...",
+          "link": "https://www.wikitree.co.kr/articles/1177887",
           "press": "",
-          "date": "2026-11-25"
+          "date": "2026-11-26"
         },
         {
-          "title": "대형교회 조기 은퇴하고 순회선교 새출발하는 박정곤 목사",
-          "link": "https://www.christiantoday.co.kr/news/378861",
+          "title": "김대호, '홈즈'서 국내 최대 암벽장 도전",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16286559",
           "press": "",
           "date": "2026-11-25"
         }
@@ -556,83 +587,145 @@
       "rank": 8
     },
     {
-      "keyword": "คลับ บรูกก์ พบ ลิเวอร์พูล",
+      "keyword": "미스 유니버스",
       "traffic": "200+",
-      "blogTotal": 1,
-      "newsTotal": 0,
-      "recentToday": 0,
-      "recentWeek": 0,
-      "topBlogs": [],
-      "topNews": [],
-      "rank": 9
-    },
-    {
-      "keyword": "편의점",
-      "traffic": "200+",
-      "blogTotal": 28652539,
-      "newsTotal": 1356968,
-      "recentToday": 0,
+      "blogTotal": 32585,
+      "newsTotal": 21018,
+      "recentToday": 75,
       "recentWeek": 100,
       "topBlogs": [
         {
-          "title": "일본 편의점 오뎅 추천 TOP5/일본 편의점 오뎅 고르는팁/실패 없는 조....",
-          "link": "https://blog.naver.com/chung_arang_/224479406943",
-          "blogger": "아랑로그 ʕ•ﻌ•ʔ",
-          "date": "2026-11-22"
+          "title": "“7살 딸 엄마, 미스 유니버스 우승…75년 역사를 바꾼 27세 여성”",
+          "link": "https://blog.naver.com/dusgus35/224492665490",
+          "blogger": "dusgus35님의 블로그",
+          "date": "2026-11-26"
         },
         {
-          "title": "일본 여행 마무리 로손 편의점 추천템 가격 총정리",
-          "link": "https://blog.naver.com/maimai20/224478035579",
-          "blogger": "호야트립",
-          "date": "2026-11-15"
+          "title": "[메인타임스] \"엄마가 미스 유니버스 됐어\"... 미스 유니버스 75년 역....",
+          "link": "https://blog.naver.com/themaintimes/224492661359",
+          "blogger": "메인타임스 | 경제·시사·AI·건강·생활 브리핑",
+          "date": "2026-11-26"
         },
         {
-          "title": "- 사슴히의 해외여행: 일본 편의점, 마트 추천 솔직후기 (로손, 세븐....",
-          "link": "https://blog.naver.com/deerhhh/224484931731",
-          "blogger": "사슴히의 블로그 소소한나날들,",
-          "date": "2026-11-20"
+          "title": "2026 미스 유니버스, 우승자(푸에르토리코 제니퍼 바레토)보다 논란? ....",
+          "link": "https://blog.naver.com/blueocean_no1/224492500570",
+          "blogger": "정보가 힘이다",
+          "date": "2026-11-26"
         },
         {
-          "title": "\"편의점·카페 갈 때마다 돈 버리고 있었다\" 카카오페이 카드·결제, ....",
-          "link": "https://blog.naver.com/942969aa/224480899947",
-          "blogger": "Dark's IT Diary",
-          "date": "2026-11-17"
+          "title": "미스 유니버스 2026 결선 결과와 김유림 드레스, 30대 한국대표가 보....",
+          "link": "https://blog.naver.com/duurip/224491543213",
+          "blogger": "오직 세린뷰티픽",
+          "date": "2026-11-25"
         },
         {
-          "title": "CU eSIM 유심사 해외데이터 이심 편의점 구매 방법",
-          "link": "https://blog.naver.com/kwonakong/224482673627",
-          "blogger": "✈️ 아콩이의 여행로그 ❤️",
-          "date": "2026-11-18"
+          "title": "7살 딸 둔 엄마가 세계 최고 미인에 올랐다! 미스 유니버스 75년 역사....",
+          "link": "https://blog.naver.com/hyunjong97/224492457614",
+          "blogger": "세상 평범한 조선의 아저씨",
+          "date": "2026-11-26"
         }
       ],
       "topNews": [
         {
-          "title": "[오프라인 유통 생존법③] 온라인 시대에도 백화점은 붐빈다…‘경험’...",
-          "link": "https://www.news2day.co.kr/article/20261125500280",
+          "title": "미스 유니버스 75년 만의 첫 '엄마 우승자' 탄생… 7살 딸 둔 제니퍼 바...",
+          "link": "https://www.newscj.com/news/articleView.html?idxno=3452297",
+          "press": "",
+          "date": "2026-11-26"
+        },
+        {
+          "title": "7세 딸 둔 워킹맘, 미스유니버스 왕관 썼다… \"75년 역사상 처음\"",
+          "link": "https://www.hankookilbo.com/news/article/A2026112609260001066?did=NA",
+          "press": "",
+          "date": "2026-11-26"
+        },
+        {
+          "title": "'기혼·엄마' 미스 유니버스 탄생, 석사 학위에 미 국방부 근무까지..산...",
+          "link": "https://www.starnewskorea.com/overseas-entertain/2026/11/26/2026112611461884027",
+          "press": "",
+          "date": "2026-11-26"
+        },
+        {
+          "title": "사상 첫 ‘미스? 엄마 유니버스’… “세계 여성위해 헌신”",
+          "link": "https://www.munhwa.com/article/11634315?ref=naver",
+          "press": "",
+          "date": "2026-11-26"
+        },
+        {
+          "title": "‘미스 유니버스’ 75년 만에 새 역사..첫 ‘기혼+유자녀’ 우승자 탄생...",
+          "link": "http://www.osen.co.kr/article/G1112915292",
+          "press": "",
+          "date": "2026-11-26"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "keyword": "렛츠런파크 부산경남",
+      "traffic": "200+",
+      "blogTotal": 20479,
+      "newsTotal": 24130,
+      "recentToday": 6,
+      "recentWeek": 72,
+      "topBlogs": [
+        {
+          "title": "렛츠런파크 부산경남 마권 사는법｜구매표 작성 방법",
+          "link": "https://blog.naver.com/yun_ttoppi/224406406728",
+          "blogger": "취미 부자 윤또삐의 일상 기록",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "부산 아이와 가볼만한곳｜11월 27일·29일 한국마사회 렛츠런파크 부....",
+          "link": "https://blog.naver.com/letsrun2014/224491225220",
+          "blogger": "[렛츠런파크] 공식 블로그",
+          "date": "2026-11-25"
+        },
+        {
+          "title": "[부산/강서] 부산 가볼만한곳 '렛츠런파크 부산경남' 탁 트인 경마공....",
+          "link": "https://blog.naver.com/ungttung-ttung/224480286225",
+          "blogger": "엉뚱뚱 딴생각연구소",
+          "date": "2026-11-17"
+        },
+        {
+          "title": "부산 강서구 아기랑 주말 나들이 렛츠런파크 부산경남｜4살 2살 포....",
+          "link": "https://blog.naver.com/tashalove7/224491216201",
+          "blogger": "두 아이랑 부울경 나들이·꿀템",
+          "date": "2026-11-25"
+        },
+        {
+          "title": "[NAC가이드] 렛츠런파크 부산경남 즐기기 & 낙동아트센터 RCO브라스 ....",
+          "link": "https://blog.naver.com/libertyto/224492664048",
+          "blogger": "Sostenuta Notes",
+          "date": "2026-11-26"
+        }
+      ],
+      "topNews": [
+        {
+          "title": "한국마사회 렛츠런파크 부산경남, 27일 암말·단거리 대상 경주 개최",
+          "link": "http://www.metroseoul.co.kr/article/20261125500634",
+          "press": "",
+          "date": "2026-11-26"
+        },
+        {
+          "title": "렛츠런파크 부산경남, 27일 '왕좌의 대결'…최강 암말·단거리마 격돌",
+          "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=90233",
           "press": "",
           "date": "2026-11-25"
         },
         {
-          "title": "[유통인] 점포 수익성부터 챙긴 허서홍…GS리테일 사장 승진",
-          "link": "https://www.newsian.co.kr/news/articleView.html?idxno=102031",
+          "title": "렛츠런파크 부산경남, 27일 최강 암말·단거리마 가린다",
+          "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=887270",
           "press": "",
           "date": "2026-11-25"
         },
         {
-          "title": "'커닝 장비' 팔고 코인 받았나...28억원 규모 테더 유입 포착",
-          "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611260005&t=NN",
+          "title": "부산렛츠런파크 부산경남 대상경주 '최강 암말·단거리마' 가린다",
+          "link": "https://www.newspim.com/news/view/20261125001140",
           "press": "",
           "date": "2026-11-25"
         },
         {
-          "title": "[반려동물] \"사료·간식도 동네 편의점서\"…전용매대 늘리고 매출도 '쑥...",
-          "link": "https://www.yna.co.kr/view/AKR20261125112300030?input=1195m",
-          "press": "",
-          "date": "2026-11-25"
-        },
-        {
-          "title": "“싸고 맛있어서 즐겨 먹었는데”…1000원도 안 하던 日 ‘국민 간식’...",
-          "link": "https://www.sedaily.com/article/20119084?ref=naver",
+          "title": "최강 암말·단거리마 가린다…렛츠런파크 부경, 27일 '빅매치'",
+          "link": "https://www.cnbnews.com/news/articleView.html?idxno=1025318",
           "press": "",
           "date": "2026-11-25"
         }
